@@ -1,0 +1,40 @@
+Community rating is a concept usually associated with health insurance, which requires health insurance providers to offer health insurance policies within a given territory at the same price to all persons without medical underwriting, regardless of their health status.
+Pure community rating prohibits insurance rate variations based on demographic characteristics such as age or gender, whereas adjusted or modified community rating allows insurance rate variations based on demographic characteristics such as age or gender.
+
+Concept
+Community rating, as a basis for premium calculation, is fundamentally different from the usual method of determining insurance premiums, i.e. risk rating. In a risk rated insurance market, an insurer calculates the premium payable by a potential policy holder in order to enter into an insurance contract on the basis of various factors particular to that individual, such as the risk of a claim occurring, and the value of any such claims during the term of an insurance policy. In a community rated market, the insurer may not calculate premium on the basis of the risk factors attaching to the particular person wishing to purchase an insurance contract, but rather the risk factors applying to all persons within the market as a whole. Thus, in a community rated market, the insurer evaluates the risk factors of market population, and not those of any one person when calculating premiums. Some form of risk equalization also often exists in a community rated system.
+
+Health insurers vary premium rates based on case characteristics, such as:
+benefit design
+family composition
+demographic characteristics:
+age
+gender
+geographic area
+occupation
+industry
+lifestyle factors:
+tobacco use
+weight
+health status and claims history
+Community rating — prohibits insurers from varying rates based on health status or claims history
+Pure community rating — allows insurers to vary rates based on benefit design and family composition only
+Limited variation in rates by geographic area is sometimes included in the pure community rating category (e.g. New York City)
+Adjusted (modified) community rating — allows insurers to also vary rates based on demographic characteristics (e.g. age and gender) and lifestyle factors (e.g. tobacco use)
+Guaranteed issue — requires insurers to issue insurance to any eligible applicant without regard to health status or other case characteristics
+
+Occurrence
+Community rating of supplemental private health insurance:
+
+Australia, Ireland — lifetime community rating of private hospital insurance supplemental to universal publicly financed hospital insuranceCommunity rating of basic private health insurance:
+
+Netherlands — age and gender rating illegal = pure community rating; individual guaranteed issue
+individual mandate with low-income government subsidies for 40% of households
+Switzerland — age and gender rating illegal = pure community rating; individual guaranteed issue
+individual mandate with low-income government subsidies for 40% of households
+United Statesage rating limited to 3:1 (300 percent); gender rating illegal; individual guaranteed issue
+individual and employer mandates with government subsidies for individuals with income up to 400% of the Federal Poverty Level - those with lower incomes pay lower costs.
+tobacco use can increase premiums up to 1.5:1, while geographic factors can also affect price.
+
+
+== References ==

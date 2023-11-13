@@ -1,0 +1,103 @@
+An admission note is part of a medical record that documents the patient's status (including history and physical examination findings), reasons why the patient is being admitted for inpatient care to a hospital or other facility, and the initial instructions for that patient's care.
+
+Purpose
+Admission notes document the reasons why a patient is being admitted for inpatient care to a hospital or other facility, the patient's baseline status, and the initial instructions for that patient's care.  Health care professionals use them to record a patient's baseline status and may write additional on-service notes, progress notes (SOAP notes), preoperative notes, operative notes, postoperative notes, procedure notes, delivery notes, postpartum notes, and discharge notes. These notes constitute a large part of the medical record. Medical students often develop their clinical reasoning skills by writing admission notes. The traditional, rational definition of being admitted usually involves spending an overnight in the hospital. This definition is sometimes stretched in the U.S. medical billing industry, where hospital corporations may blur the definitions of "admission" and "observation" because of reimbursement rules under which healthcare payors pay less for the care if an "admission" was involved.
+
+Components
+An admission note may sometimes be incorrectly referred to as an HPI (history of present illness) or H and P (history and physical), which include only portions of an admission note.
+An admission note can include the following sections:
+
+Outline
+Not every admission note explicitly discusses every item listed below, however, the ideal admission note would include:
+
+Header
+Patient identifying information (maybe located separately)
+name
+ID number
+chart number
+room number
+date of birth
+attending physician
+sex
+admission date
+Date
+Time
+Service
+
+Chief complaint (CC)
+Typically one sentence including
+
+age
+race
+sex
+presenting complaint
+example: "34 yo white male with right-sided weakness and slurred speech."
+
+History of present illness (HPI)
+statement of health status
+detailed description of chief complaint
+positive and negative symptoms related to the chief complaint based on the differential diagnosis the health care provider has developed.
+emergency actions taken and patient responses if relevant
+
+Allergies
+first antigen and response
+second antigen and response
+etc.
+
+Past medical history (PMHx)
+List of the patient's on-going medical problems. Chronic problems should be addressed as to whether or not they are well controlled or uncontrolled. Include dates of pertinent items.
+
+Past surgical history (PSurgHx, PSxHx)
+List of surgeries in the past with dates of pertinent items.
+
+Family history (FmHx)
+Health or cause of death for:
+
+Parents
+Siblings
+Children
+Spouse
+
+Social history (SocHx)
+In medicine, a social history is a portion of the admission note addressing familial, occupational, and recreational aspects of the patient's personal life that have the potential to be clinically significant.
+
+Medications
+for each: generic name - amount - rate
+medications on arrival (aspirin, Goody's medicated powder, herbal remedies, prescriptions, etc.)
+medications on transfer
+
+Review of systems (ROS)
+General
+Head
+Eyes
+Ears
+Nose and sinuses
+Throat, mouth, and neck
+Breasts
+Cardiovascular system
+Respiratory system
+Gastrointestinal system
+Urinary system
+Genital system
+Vascular system
+Musculoskeletal system
+Nervous system
+Psychiatric
+Hematologic system
+Endocrine system
+
+Physical exam
+Physical examination or clinical examination is the process by which a health care provider investigates the body of a patient for signs of disease.
+
+Labs
+e.g.: electrolytes, arterial blood gases, liver function tests, etc.
+
+Diagnostics
+e.g.: EKG, CXR, CT, MRI
+
+Assessment and plan
+Assessment includes a discussion of the differential diagnosis and supporting history and exam findings.
+
+References
+See also
+Admitting privileges

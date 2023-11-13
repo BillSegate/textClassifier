@@ -1,0 +1,17 @@
+A spontaneous breathing trial is a test for patients on mechanical ventilation, before they can be weaned from the ventilator, i.e. return to normal breathing. The weaning process depends closely on the patient's pathology, but the final common pathway to ventilator independence always includes at least one trial of spontaneous breathing. Trials of spontaneous breathing have been shown to accurately predict the success of spontaneous breathing.
+
+Indications for trials of spontaneous breathing
+Fraction of inspired oxygen (FIO2) less than 50%
+Positive end expiratory pressure (PEEP) less than 8 cm water
+"Minimal vent settings"
+e.g., ratio of arterial partial pressure of oxygen to FIO2 (P/F ratio) in the vicinity of 400
+
+Valid methods
+In all of the methods below, the common endpoint measurement is a Rapid Shallow Breathing Index (Tobin Index) of less than or equal to 105. The RSBI ("Riz-bee") is simply the ratio of respiratory frequency in respirations per minute to tidal volume in liters (f/Vt). Certainly, other measures such as patient's mental status should be considered. E.g., a Glasgow Coma Scale score of less than 8 is an independent indication for intubation in traumatic brain injury.
+
+Briefly move the tubing supply from the ventilator to continuous supply oxygen ("wall oxygen")
+Reduce pressure support to 5 cm water
+Reduce continuous positive airway pressure to 5 cm water
+
+
+== References ==

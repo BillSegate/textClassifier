@@ -1,0 +1,136 @@
+This article is a list of mnemonics and acronyms related to first responders including community first responders, emergency departments, and other first responders with either low level or no qualifications in the relevant field. This list includes the definition of each item in the mnemonic or acronym.
+
+General
+Incident Reporting
+M/ETHANE (The common structure for first responders to report information regarding an incident or emergency to superiors or incident command or control systems.): 9  
+Major incident - Joint consideration between first responders should be conducted to decide whether a major incident (indicating that vast resources or personnel will be needed to deal with the incident) or a standby (indicating that the incident may evolve into a major incident) should be declared. 'M/ETHANE' becomes 'ETHANE' if a major incident is not declared. The date and time of any declaration should be recorded.
+Exact location - The exact location of the incident should be communicated using a system which can be understood by other first responders or emergency personnel. It is recommended to be as precise as possible. Examples of possible location systems the person reporting the location may use are: an address, latitude and longitude, a grid reference, or (when accepted by local emergency services) a What3words coordinate.
+Type of incident - The general nature of the incident should then be communicated.
+Hazards - Current or potential hazards should then be reported. A risk analysis process such as comparing likelihood and severity should guide the person conducting the report as to which hazards or risks are most notable.
+Access - The number of access and egress routes should be noted, with the best or most practical routes being described in additional detail. Information regarding routes which are inaccessible and potential rendezvous points should also be included in communications.
+Number of casualties - The number of casualties and their condition/classification should be communicated. An agreed upon classification system should be used, such as triage levels.
+Emergency services - The type and number of emergency service equipment and personnel which are required and those which are already available at the location of the incident should be communicated. This is not limited to formal emergency services and includes capable community first responders or bystanders. It also includes equipment such as fire hydrants or extinguishers which are available, in addition to resources such as ambulance vehicles.
+
+Firefighting
+Fire extinguisher use
+PASS (The basic steps for portable fire extinguisher use.)
+Pull or Pin - Pull the pin at the top of the fire extinguisher (and immediately test the extinguisher).
+Aim - Aim the nozzle or outlet of the extinguisher at the base of the fire.
+Squeeze - Squeeze the handles of the extinguisher to begin discharging it.
+Sweep - Sweep the nozzle or outlet from side to side at the base of the fire.
+
+First attack firefighting
+RACE (The priority of initial actions to take against a fire.)
+Rescue - Rescue anyone in immediate danger from the fire if it does not endanger the responders' own safety.
+Alert or Alarm - Raise the alarm by triggering a fire alarm. Alert nearby persons to gain assistance in fighting the fire or alerting other people. Alert emergency services, site security and other emergency contacts as necessary.
+Confine or Contain - Contain the spread of the fire by closing nearby doors and windows if it is safe to do so. The smoke and toxic fumes should be contained to the area where the fire was first found, and the flow of oxygen into the fire should be cut off to reduce the impacts and spread of the fire. The responder should take care not to cut off their route of evacuation during this step.
+Extinguish or Evacuate - If the responders are confident in their firefighting abilities, they should utilize 'first attack' firefighting practices and equipment, such as a portable fire extinguisher in accordance with the PASS mnemonic. Responders should always ensure that they have a clear route of evacuation and to evacuate if they are not confident in their ability to fight the fire.
+
+Firefighters
+On arrival
+I EAT (The phases of incident command.)
+Initiate - The first qualified responder on the scene will take initial command. The delegation of authority when a group or multiple types first responders are initially on scene differs from country to country.
+Establish - When appropriate, a formal command post and structure should be established for the emergency.
+Assume - Each time a new person is delegated command of the incident, they should properly assume command and receive a briefing or hand-over from the previous incident commander.
+Terminate - Conclude the incident and end the formal command of the relevant responders.TRIPOD (The six different primary phases of a fire response, in no particular order.)
+Transitional - The phase where an offensive attack is made from a defensive position, or vice versa.
+Rescue - The phase where firefighters enter a building to search for potential casualties or victims and remove them from danger.
+Investigating - The phase where the nature and source of the fire are investigated. This investigation aims to conclude whether there are chemical hazards or other HAZMATs exposing additional risk to nearby property and persons, and assists in identifying what measures need to be taken to protect firefighters.
+Preparing - The phase where a plan is devised, or when plans and resources are put in place. Implemented at the conclusion of the investigating phase, or whilst waiting for additional personnel or resources.
+Offensive - The phase where an offensive attack on the fire is conducted. Firefighters and equipment will enter the fire-affected structure to attempt to completely extinguish the fire from its source. This is usually done through entering the structure with hose lines.
+Defensive -  The phase where a defensive attack is conducted on the fire. Firefighters and equipment are used to attempt to extinguish the fire from the outside of the structure or its collapse zone. This phase is implemented when an offensive attack is not feasible due to dangers presented by the nature of the fire or structure. The primary goal of this phase is to defend nearby structures and attack a fire until additional resources or personnel arrive, or the fire is extinguished to the point where another type of attack is possible.
+
+Incident priorities
+RECEO (The general priorities at a fire scene in order, with 'V' and 'S' being added in as is appropriate considering the fire, personnel and equipment.)
+Rescue - Get known victims out of danger and conduct assessments (whether through internal searches or interviewing of occupants) regarding the potential of un-confirmed or unknown victims.
+Exposures - Protect nearby property that may become affected by the fire. This is the first part of preventing the spread of the fire. Exposures do not include separate rooms of the fire affected structure, but are separate structures or properties.
+Confine - Confine the fire to the affected parts of the structure. This is the second part of preventing the spread of the fire and typically involves offensive attacks and activation of any passive fire protection systems.
+Extinguish - Actively extinguish the fire through the use of various firefighting methods.
+Overhaul - Check for the hidden spread of fire (such as through hot embers) and eliminate any risk of reignition (through sources such as hot-spots).
+Ventilate - When appropriate, ventilate the structure to allow smoke to escape. Ventilation allows heat, toxic fumes and smoke to escape the structure, it increases the safety of an offensive attack and reduces the risk to any victims inside.
+Salvage - Preserve property and any items inside a fire affected structure from damage from fire, smoke and water.ARSO (The general sequence or priority of courses of action at an incident - whether fire or rescue - in order.)
+Approach and Arrival - What is done as the firefighting unit arrives at the incident to ensure their safety, as well as any initial actions (such as locating fire hydrants).
+Rescue - What is done by the firefighting unit to safely protect people at an incident.
+Suppression - What is done by the firefighting unit to safely protect items of economic, environmental, cultural, or personal value.
+Overhaul - What is done by the firefighting unit to safely help people and the area affected by the incident to return to normal, or to repair the effects that the incident had on these people or areas.
+
+Size-up
+WALLACE WAS HOT - (Elements of a general fire size-up, in no particular order.)
+Water - Assess and make decisions regarding the supply of water to the fire. This usually involves locating a fire hydrant and deciding to forward lay or reverse lay a supply line, or defer the responsibility of water supply to the next arriving firefighter unit. For large building fires it may be necessary to conduct calculations of water flow from the available water source(s), and boost various water supplies. In remote locations there may not be an adequate water supply close enough to the fire, in which case additional equipment may need to be requested.
+Area - Determine the rough area of any alight structures and consider requesting additional resources if necessary.
+Life hazard - Determine if there is a hazard to the life of people who remain in the structure which is alight. It is generally recommended to assume that life safety is at risk until the firefighters have determined that the structure is clear of occupants, or that it is impossible to survive inside the structure due to the conditions of the fire.
+Location - Determine the location, size, and extent of the fire, and possible locations where the fire could spread.
+Apparatus - Determine the quantities and types of firefighting apparatuses that are physically available, and those currently due to arrive. The difference between currently available apparatuses which can be immediately utilised and those which are due to arrive in the near future is important (for example, an apparatus which is due to arrive may be preoccupied with another call), and should be considered when developing strategic plans. Along with the determination of apparatuses, the availability of trained personnel should also be determined and considered.
+Construction - Identify the construction type of the alight structure. Examples of specifics to consider are the material which the structure is constructed of and hidden roofspaces.
+Exposures - Identify the exposures to the fire, and utilise this knowledge whilst developing strategic plans against the fire.
+Weather - Identify the weather conditions both current and future (through a weather forecast), and evaluate their possible effects on the fire and its spread.
+Auxiliary appliances - Determine the availability of auxiliary appliances such as sprinkler systems, and if applicable ensure the continued operation of these appliances (by, for example, increasing the supply of water to the sprinklers).
+Special matters - Identify the presence, and determine the effects of any special matters. A special matter is anything which could negatively affect firefighting, or place additional risk to the firefighters or other people. Special matters may be grouped into utility hazards (such as downed power lines or burst water pipes), egress issues (such as barred windows or destroyed fire escape stairs), HAZMAT presence (such as explosive gas or other chemicals), and other special matters (such as confined spaces).
+Height - Determine if the height of the structure will affect firefighting operations. Fighting fires above ground level causes additional risk to remaining building occupants as well as firefighters, as well as affecting the ability to perform actions such as rescuing victims and laying fire hoses. If firefighters need to go above the general ground level, there should be additional strategies or equipment put in place in order to maintain quick access to egress routes.
+Occupancy - Assess the type and levels of occupancy of the structure. These matters should be considered when developing strategic plans, and may alter the order of firefighting operations. For example, a fire in a residential building during day hours of the work week may require less urgent rescue operations, whilst one in the same type of building during night hours requires the opposite.
+Time - Determine if the current time (time of day and year) will affect strategic requirements (for example, in relation to occupancy) or response times (for example, peak hour traffic may delay apparatuses).
+
+Wildland firefighting safety
+PLACES (A general safety checklist for wildland firefighters. The addition of the initial 'P' is disputed, with some sources only using 'LACES'.)
+PPE - Wildland firefighters should always wear, or ensure the quick access to, appropriate personal protective equipment (PPE).
+Lookouts - The wildfire fighting unit must ensure that they have a clear appreciation for the fire's behaviour, location, and size. The unit should establish a knowledge of the location of the fire relative to the unit itself. There must be adequate lookouts (not necessarily in fire lookout towers - perhaps on foot or in wildfire helicopters) with the capability to quickly and adequately assess the fire, and alert the wildfire fighting unit if urgent evacuation is necessary.
+Awareness - There must be a constant awareness of the fire behaviour, and the impact of changes which occur as the fire spreads and continues to burn such as new fuel sources, fireground hazards, changes in weather, and topography.
+Communication - Communication must always be maintained between the wildfire fighting unit, other emergency services, and other members of the wildfire fighting service. Safety issues should be discussed and addressed immediately.
+Escape routes - A minimum of two escape routes should be agreed upon and made known to all relevant persons (such as the members of the wildfire fighting unit, other emergency service personnel, or members of the public). The suitability of, and risks to, the escape routes should be continually evaluated to ensure that they remain effective.
+Safety zone - Safety zones should be maintained, identified or constructed, and made known to all relevant persons. The size requirements of a safety zone may change as the fire behaviour changes, and should be continually assessed. The time of escape to safety zones should also be continually assessed, and concerns or issues regarding unreasonably lengthy escape times should be immediately addressed. Escape routes and Safety zones hold key differences: Escape routes allow the firefighters to egress out of a wildfire completely (for example to complete their shift) whereas Safety zones allow firefighters to take refuge in unforeseen circumstances where the behaviour of the wildfire suddenly changes and places the firefighters at risk; Escape routes are usually further away from the firefighting unit and take longer to completely use whilst Safety zones should always be quickly accessible and available for use for periods of up to a number of hours.
+
+Medical Care
+First Aid
+DRS AB CD (The general steps for initial assessment of an injured or ill person.)
+Danger - Ensure there is no danger to the first responder, any bystanders, and the injured or ill person(s). It is very important for inadequately qualified persons to never move an injured person unless it is necessary to prevent further injury or there is no possible risk that there are hidden injuries which may worsen through movement, such as spinal trauma.
+Response - Check the responses of the injured or ill person.(see COWS) If any of the responses of the injured or ill person are reduced or there is otherwise continued concern for their wellbeing, continue to 'S'.
+Send for help - Summon bystanders or other first responders. The first responder should call emergency services , or direct a bystander to do so.
+Airway - Check that the casualty's airway is free from obstructions. The first responder should perform a head tilt chin lift to open the airway of the casualty. If there is an obstruction in the airway of the casualty, the first responder should place the casualty in the recovery position (being careful to not alter the alignment of their head, neck and spine), and use the casualty's own fingers to remove the obstruction.
+Breathing - The first responder should check the breathing of the casualty by looking at the motions of their chest, listening for breaths by putting their ear next to the casualty's mouth and nose, and feeling for breaths by placing their hand on the casualty's chest and their cheek near to the casualty's mouth and nose. If the casualty is unresponsive but breathing (if the casualty is only taking occasional gasping breaths, this counts as 'not breathing'), they should be placed in the recovery position without altering the alignment of their head, neck and spine - otherwise the responder should continue to 'C'.
+CPR - The responder(s) should begin cardiopulmonary resuscitation at a rate of 100 to 120 compressions per minute. Interruptions to chest compressions should be minimised, except to allow for rescue breaths from mouth-to-mouth resuscitation. The practice of mouth-to-mouth resuscitation is disputed, with recent sources suggesting that only "trained and willing" persons should practice it, and other sources suggesting that it is unnecessary within the first few minutes of cardiac arrest. If mouth-to-mouth is conducted, the suggested rate of chest compressions to rescue breaths is 30:2.
+Defibrillator - If one is available, the first respoders should apply an Automated External Defibrillator (AED) and follow the prompts provided by it.COWS (The method for checking an injured or ill person's response level as per 'R' in DRS AB CD.)
+Can you hear me? - The first responder should approach the casualty and call out "Can you hear me?" in a clear and loud voice.
+Open your eyes. - The first responder should kneel behind the casualty's head and clearly tell the casualty "Open your eyes" whilst watching for any movement of the eyes or eyelids.
+What's your name? - The first responder should squeeze the casualty's shoulders and ask "What's your name?".
+Squeeze my hand. - The first responder should move to the side of the casualty and hold both of their hands, and then tell the casualty "Squeeze my hand".A MIST (Order of the steps in a handover procedure from first aider to paramedics or further medical care.)
+Age, name, and sex - The first responder should provide the name and age of the ill or injured person to the person(s) providing additional care. The sex of the person should be provided if relevant. For example: "John is an 80 year old man".
+Mechanism of injury - A concise description of the mechanism of injury should be provided. For example: "He felt dizzy, then collapsed to the ground feeling faint".
+Injuries or complaints - The casualty's chief complaint should be provided, as well as other injuries and relevant not applicable injuries. For example: "He hasn't passed out or hit his head, but he complains of pain in his chest and feeling light-headed".
+Signs and symptoms - The vital signs collected and tracked should be provided, such as pulse, breath rate, any abnormalities, and other key notes. For example: "His pulse has settled down to 100 from 140, and his breathing was shallow at 30 per minute but is now deeper and at 20 per minute. He's been quite clammy".
+Treatment - Any efforts to treat the casualty should be carefully detailed. For example "We haven't stood him up yet and we've given him 325 mg of aspirin to chew, as well as some water to sip on".
+
+Emergency Medicine
+Specific Injuries or Illnesses
+Shock
+TV SPARC CUBE (Signs and symptoms of shock.)Thirst - Thirst or a dry mouth is a possible symptom of shock.
+Vomitting - Vomiting or nausea are possible signs of shock.
+Sweating - Excessive sweating is a possible sign of shock.
+Pulse - A rapid and hypokinetic pulse (a weak and fast pulse) is a sign of possible shock.
+Anxious - Abnormal levels anxiety or irritability are both possible symptoms of shock.
+Respirations - Rapid and shallow breathing is a possible sign of shock.
+Cool - Cold and clammy skin is a possible sign of shock.
+Cyanotic - Meaning to have bluish or purplish discolouration of the skin or mucous membranes - is a possible sign of shock.
+Unconscious - Extended or more extreme cases of shock are likely to lead to unconsciousness.
+Blood pressure low - Low blood pressure is a common sign for all types of shock.
+Eyes blank - Confusion, weakness, drowsiness, fainting, dizziness, disorientation, and expanded pupils are all possible signs and symptoms of shock which may be observable through the person's eyes.
+
+Pain
+TWEED SASH:
+
+Stroke
+FAST (Detection of a stroke.)
+Face - Facial drooping, particularly on one side of the face, is a symptom of a stroke. The person of concern should be asked to smile - if the smile is lopsided or the person is unable to smile, this is a concern.
+Arms - Arm weakness or numbness is a symptom of a stroke, particularly where one arm is weaker than another. The person of concern should be asked to lift both arms to the same height - if one arm drifts downward or the person is unable to lift their arms as expected, this is a concern.
+Speech - An inability or difficulty to understand or produce speech is a symptom of a stroke. The person of concern should be asked to repeat a simple sentence - if they have trouble understanding the request, or they are unable to or find it difficult to repeat the sentence without slurring, this is a concern.
+Time - If any of the above symptoms present themselves it is time to call emergency services.HEADS (Risk factors of a stroke.)
+Hypertension or Hyperlipidimea - Hypertension (high blood pressure) or hyperlipidemia (elevated levels of any lipids such as fat in the blood) are both risk factors for a stroke, with extended high blood pressure being the most major risk factor.
+Elderly - The elderly are more at risk of a stroke.
+Atrial fibrillation - Rapid and irregular heart rhythm is associated with increased risk of a stroke.
+Diabetes or Drugs - Diabetes mellitus or the use of drugs such as cocaine increase the risk of a stroke, with the risk of a stroke from cocaine usage being greatest within the first few hours after use.
+Smoking or Sex - Tobacco smoking is a risk factor for a stroke. Other uses of tobacco (such as chewing) have a possible increase in the risk of stroke. In younger ages males (sex assignment at birth) have a higher risk of strokes than the corresponding age group of females. However, during and in the weeks following pregnancy, women have a higher risk of a stroke. Women also have a higher risk of a stroke overall due to the risk of stroke increasing with age, and the life expectancy of women being longer than men.
+
+Notes
+Definitions
+
+
+== References ==

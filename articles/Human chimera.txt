@@ -1,0 +1,54 @@
+A human chimera is a human with a subset of cells with a distinct genotype than other cells, that is, having genetic chimerism. In contrast, an individual where each cell contains genetic material from a human and an animal is called a human–animal hybrid.
+
+Mechanisms
+A major mechanisms of human chimerism is mosaicism, wherein there is a mutation of the genetic material in a cell, giving rise to a subset of cells that are different from the rest. Another mechanism is the fusion of more than one fertilized zygote in the early stages of prenatal development.
+In artificial chimerism, an individual has one cell lineage that was inherited genetically at the time of the formation of the human embryo and the other that was introduced through a procedure, including organ transplantation or blood transfusion. Specific types of transplants that could induce this condition include bone marrow transplants and organ transplants, as the recipient's body essentially works to permanently incorporate the new blood stem cells into it.
+
+Examples
+Natural chimerism
+Natural chimerism has been documented in humans in several instances.
+
+The Dutch sprinter Foekje Dillema was expelled from the 1950 national team after she refused a mandatory sex test in July 1950; later investigations revealed a Y-chromosome in her body cells, and the analysis showed that she was probably a 46,XX/46,XY mosaic female.
+In 1953, a human chimera was reported in the British Medical Journal. A woman was found to have blood containing two different blood types. Apparently this resulted from her twin brother's cells living in her body. A 1996 study found that such blood group chimerism is not rare.
+In 2002, Lydia Fairchild was denied public assistance in Washington state when DNA evidence appeared to show that she was not the mother of her children. A lawyer for the prosecution heard of a human chimera in New England, Karen Keegan, and suggested the possibility to the defense, who were able to show that Fairchild, too, was a chimera with two sets of DNA, and that one of those sets could have been the mother of the children.
+In 2002, an article in the New England Journal of Medicine described a woman in whom tetragametic chimerism was unexpectedly identified after she underwent preparations for kidney transplant. Those preparations for the transplant required the patient and her immediate family to undergo histocompatibility testing, the result of which had suggested that she was not the biological mother of two of her three children.
+In 2009, singer Taylor Muhl discovered that what was always thought to be a large birthmark on her torso was actually caused by chimerism.
+
+Non-intentional chimerism related to treatments
+Several cases of unusual chimera phenomena have been reported in bone marrow recipients.
+In 2019, the blood and seminal fluid of a man in Reno, Nevada (who had undergone a vasectomy), exhibited only the genetic content of his bone marrow donor. Swabs from his lips, cheek and tongue showed mixed DNA content.
+The DNA content of semen from an assault case in 2004 matched that of a man who had been in prison at the time of the assault, but who had been a bone marrow donor for his brother, who was later determined to have committed the crime.
+In 2008, a man was killed in a traffic accident that occurred in Seoul, South Korea. In order to identify him, his DNA was analyzed. Results revealed that the DNA of his blood, along with some of his organs, appeared to show that he was female. It was later determined that he had received a bone marrow transplant from his daughter.
+Another instance of treatment-related human chimerism was published in 1998, where a male human had some partially developed female organs due to chimerism. He had been conceived by in-vitro fertilization.
+
+Human-animal chimeras
+Human-animal chimeras include humans having undergone non-human to human xenotransplantation, which is the transplantation of living cells, tissues or organs from one species to another.Patient derived xenografts are created by xenotransplantation of human tumor cells into immunocompromised mice, and is a research technique frequently used in pre-clinical oncology research.
+The first stable human-animal chimeras to actually exist were first created by Shanghai Second Medical University scientists in 2003, the result of having fused human cells with rabbit eggs.
+In 2017, a human-pig chimera was reported to have been created; the chimera was also reported to have 0.001% human cells, with the balance being pig. The embryo consisted mostly pig cells and some human cells. Scientists stated that they hope to use this technology to address the shortage of donor organs.
+In 2021, a human-monkey chimera was created as a joint project between the Salk Institute in the US and Kunming University in China and published in the journal Cell. This involved injecting human stem cells into monkey embryos. The embryos were only allowed to grow for a few days, but the study demonstrated that some of these embryos still had human stem cells surviving at the end of the experiments. Because humans are more closely related to monkeys than other animals, it means there is more chance of the chimeric embryos surviving for longer periods so that organs can develop. The project has opened up possibilities into organ transplantation as well as ethical concerns particularly concerning human brain development in primates.
+
+Chimera identification
+Non-artificial chimerism is so rare that there have only been 100 confirmed cases in humans. However, this may be due to the fact that humans might not be aware that they have this condition to begin with. There are usually no signs or symptoms for chimerism other than a few physical symptoms such as hyper-pigmentation, hypo-pigmentation, or heterochromia iridum (possessing two different colored eyes). However, these signs do not necessarily mean an individual is a chimera and should only be seen as possible symptoms. Again, forensic investigation or curiosity over a failed maternity/paternity DNA test usually leads to the accidental discovery of this condition. By simply undergoing a DNA test, which usually consists of either a swift cheek swab or a blood test, the discovery of the once unknown second genome is made, therefore identifying that individual as a chimera.
+
+Chimerism and intersex
+The concept of a "human hermaphrodite" resulting from chimerism is largely a misconception. Most intersex individuals are not chimeras, and most human chimeras are not observed to have intersex traits. Theoretically, if a gynandromorphic human chimera were to have fully functioning male and female gonad tissue, popular speculation suggests such an individual could self-fertilize; this hypothesis is backed by the fact that hermaphroditic animal species commonly reproduce in this way. However, no such case of functional self-fertilization has ever been documented in humans; many biologists have concluded that this form of "true hermaphroditism" does not occur in mammals, especially in humans. While humans are known to have sex characteristics that diverge from "true male" or "true female," these individuals fall under the social umbrella of intersex conditions and traits, and typically consider the term "hermaphrodite" to be a slur when applied to them.
+
+Legislation
+The Human Chimera Prohibition Act
+On 11 July 2005, a bill known as The Human Chimera Prohibition Act was introduced into the United States Congress by Senator
+Samuel Brownback; however, it died in Congress sometime in the next year. The bill was introduced based on findings that science has progressed to the point where human and nonhuman species can be merged to create new forms of life. Because of this, ethical issues may arise as the line blurs between humans and other animals, and according to the bill with this blurring of lines comes a show of disrespect for human dignity. The final claim brought up in The Human Chimera Prohibition Act was that there is an increasing amount of zoonotic diseases. With that being said, the creation of human-animal chimeras can allow these diseases to reach humans.On 22 August 2016, another bill, The Human-Animal Chimera Prohibition Act of 2016, was introduced to the United States House of Representatives by Christopher H. Smith. It identifies a chimera as:
+
+a human embryo into which a nonhuman cell or cells (or the component parts thereof) have been introduced to render the embryo's membership in the species Homo sapiens uncertain;
+a chimera human/animal embryo produced by fertilizing a human egg with nonhuman sperm;
+a chimera human/animal embryo produced by fertilizing a nonhuman egg with human sperm;
+an embryo produced by introducing a nonhuman nucleus into a human egg;
+an embryo produced by introducing a human nucleus into a nonhuman egg;
+an embryo containing at least haploid sets of chromosomes from both a human and a nonhuman life form;
+a nonhuman life form engineered such that human gametes develop within the body of a nonhuman life form; or
+a nonhuman life form engineered such that it contains a human brain or a brain derived wholly or predominantly from human neural tissues.The bill prohibits the attempts to create a human-animal chimera, the transfer or attempt to transfer a human embryo into a nonhuman womb, the transfer or attempt to transfer a nonhuman embryo into a human womb, and the transport or receive of any purpose of an animal chimera. Penalties for violations of this bill include fines and/or imprisonment of up to 10 years. The bill was referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations on October 11, 2016, but died there.
+
+Patenting
+In the U.S., efforts into creating a chimeric entity appeared to be legal when the topic first came up. Developmental biologist Stuart Newman, a professor at New York Medical College in Valhalla, N.Y., applied for a patent on a human-animal chimera in 1997 as a challenge to the U.S. Patent and Trademark Office and the U.S. Congress, motivated by his moral and scientific opposition to the notion that living things can be patented at all. Prior legal precedent had established that genetically engineered entities, in general, could be patented, even if they were based on beings occurring in nature. After a seven-year process, Newman's patent finally received a flat rejection. The legal process had created a paper trail of arguments, giving Newman what he claimed was a victory. The Washington Post ran an article on the controversy that stated that it had raised "profound questions about the differences-- and similarities-- between humans and other animals, and the limits of treating animals as property."
+
+
+== References ==

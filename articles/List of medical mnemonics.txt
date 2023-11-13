@@ -1,0 +1,1355 @@
+This is a list of mnemonics used in medicine and medical science, categorized and alphabetized. A mnemonic is any technique that assists the human memory with information retention or retrieval by making abstract or impersonal information more accessible and meaningful, and therefore easier to remember; many of them are acronyms or initialisms which reduce a lengthy set of terms to a single, easy-to-remember word or phrase.
+
+Mnemonics with wikipages
+ABC —  airway, breathing, and circulation
+AEIOU-TIPS — causes of altered mental status
+APGAR — a backronym for appearance, pulse, grimace, activity, respiration (used to assess newborn babies)
+ASHICE — age, sex, history, injuries/illness, condition, ETA/extra information
+FAST — face, arms, speech, time (stroke symptoms)
+Hs and Ts — causes of cardiac arrest
+IS PATH WARM? — suicide risk factors
+OPQRST — onset, provocation, quality, region, severity, time (symptom checklist often used by first responders)
+RICE — rest, ice, compression, elevation (generic treatment strategy for sprains and bruises)
+RNCHAMPS — types of shock
+RPM-30-2-Can Do — START triage criteria
+SOCRATES — used to evaluate characteristics of pain
+SOAP – a technique for writing medical records
+SLUDGE — salivation, lacrimation, urination, defecation, gastric upset, and emesis (effects of nerve agent or organophosphate poisoning)
+
+Anatomy
+Anaesthesiology
+Anaesthesia machine/room check
+MS MAID:
+
+Monitors (EKG, SpO2, EtCO2, etc.)
+Suction
+Machine check (according to ASA guidelines)
+Airway equipment (ETT, laryngoscope, oral/nasal airway)
+IV equipment
+Drugs (emergency, inductions, NMBs, etc.)
+
+Endotracheal intubation: diagnosis of poor bilateral breath sounds after intubation
+DOPE:
+
+Displaced (usually right mainstem, pyriform fossa, etc.)
+Obstruction (kinked or bitten tube, mucous plug, etc.)
+Pneumothorax (collapsed lung)
+Esophagus
+
+General anaesthesia: equipment check prior to inducing
+MALES:
+
+Masks
+Airways
+Laryngoscopes
+Endotracheal tubes
+Suction/Stylette, bougie
+
+Spinal anaesthesia agents
+"Little Boys Prefer Toys":
+
+Lidocaine
+Bupivacaine
+Procaine
+Tetracaine
+
+Xylocaine: where not to use with epinephrine
+"Ears, nose, hose, fingers, and toes"
+
+The vasoconstrictive effects of xylocaine with epinephrine are helpful in providing hemostasis while suturing; however, they may also cause local ischemic necrosis in distal structures such as the digits, tip of nose, penis, ears, etc."Digital PEN" – digits, penis, ear, nose
+
+Behavioral science/psychology
+Depression: major episode characteristics
+SPACE DIGS:
+
+Sleep disruption
+Psychomotor retardation
+Appetite change
+Concentration loss
+Energy loss
+Depressed mood
+Interest wanes
+Guilt
+Suicidal tendencies
+
+Depression: DSM-V criteria for major depressive disorder
+"SIG E CAPS":
+
+Sleep disturbances
+Interest decreased (anhedonia)
+Guilt and/or feelings of worthlessness
+Energy decreased
+Concentration problems
+Appetite/weight changes
+Psychomotor agitation or retardation
+Suicidal ideation
+
+Gain: primary vs. secondary vs. tertiary
+Primary: patient's psyche improved
+Secondary: symptom sympathy for patient
+Tertiary: therapist's gain
+
+Kubler-Ross dying process: stages
+"Death always brings great acceptance":
+
+Denial
+Anger
+Bargaining
+Grieving
+Acceptance
+
+Middle adolescence (14–17 years): characteristics
+HERO:
+
+Heterosexual/Homosexual crushes
+Education regarding short-term benefits
+Risk-taking
+Omnipotence
+
+Narcolepsy: symptoms, epidemiology
+CHAP:
+
+Cataplexy
+Hallucinations
+Attacks of sleep
+Paralysis on waking
+Usual presentation is a young male, hence "chap"
+
+Suicide: risk screening
+SAD PERSONS scale:
+
+Sex (male – completion, female – attempt)
+Age (adolescent or elderly)
+Depression
+Previous attempt
+Ethanol abuse
+Rational thinking loss
+Social support problems
+Organised plan
+No spouse
+Sickness (chronic illness)
+
+Sleep stages: features
+Delta waves during Deepest sleep (stages 3 and 4, slow-wave)
+dREaM during REM sleep
+
+Impotence causes
+PLANE:
+
+Psychogenic: performance anxiety
+Libido: decreased with androgen deficiency, drugs
+Autonomic neuropathy: impede blood flow redirection
+Nitric oxide deficiency: impaired synthesis, decreased blood pressure
+Erectile reserve: cannot maintain an erection
+
+Male erectile dysfunction (MED): biological causes
+MED:
+
+Medicines (propranolol, methyldopa, SSRIs, etc.)
+Ethanol
+Diabetes mellitus
+
+Premature ejaculation: treatment
+2 S's:
+
+SSRIs
+Squeezing technique (glans pressure before climax)More detail with 2 more S's:
+
+Sensate-focus exercises (relieves anxiety)
+Stop and start method (5–6 rehearsals of stopping stimulation before climax)
+
+Biochemistry
+B vitamin names
+"The rhythm nearly proved contagious":
+In increasing order:
+
+Thiamine (vitamin B1, also spelled thiamin)
+Riboflavin (vitamin B2)
+Niacin (vitamin B3, also called nicotinic acid)
+Pyridoxine (vitamin B6)
+Cobalamin (vitamin B12)
+
+Essential amino acids
+"TIM HALL PVT. (Ltd.) always argue and never (get) tire":
+
+Phe – phenylalanine
+Val – valine
+Thr – threonine
+Trp – tryptophan
+Ile – isoleucine
+Met – methionine
+His – histidine
+Arg – arginine
+Leu – leucine
+Lys – lysine
+Always argue: A is for Arg (Arginine) not Asp (Aspartic acid).
+'Never tire': T is not Tyr (Tyrosine), but is both Thr (Theronine) and Trp (Tryptophan).†Note that this initialism uses single letters for each amino acid that are not the same as the standard single-letter codes commonly used in molecular biology to uniquely specify each amino acid; for example, though phenylalanine is represented here by the letter "P", it is formally represented by the letter "F" in most other contexts, and "P" is instead used to formally represent proline.
+
+Fasting state: branched-chain amino acids used by skeletal muscles
+"Muscles LIVe fast":
+
+Leucine
+Isoleucine
+Valine
+
+Fat-soluble vitamins
+"The fat (fat-soluble vitamins) cat lives in the ADEK (vitamins A, D, E, and K)."
+
+Folate deficiency: causes
+A FOLIC DROP:
+
+Alcoholism
+Folic acid antagonists
+Oral contraceptives
+Low dietary intake
+Infection with Giardia
+Celiac sprue
+Dilantin
+Relative folate deficiency
+Old
+Pregnant
+
+Glycogen storage: Anderson's (IV) vs. Cori's (III) enzyme defect
+ABCD:
+
+Anderson's = Branching enzyme
+Cori's = Debranching enzyme
+Otherwise, cannot really distinguish clinically.
+
+Glycogen storage: names of types I through VI
+"Viagra pills cause a major hardon tendency":
+
+Von Gierke's
+Pompe's
+Cori's
+Anderson's
+McArdle's
+Her's
+Tarui's
+
+Enzyme classes
+"'On The Hill, LIL' Transformers":
+
+1 - Oxidoreductases
+2 - Transferases
+3 - Hydrolases
+4 - Lyases
+5 - Isomerases
+6 - Ligases
+7 - Translocases
+
+Cardiology
+Emergency medicine
+Acute LVF management
+LMNOP:
+Lasix (furosemide)
+Morphine (diamorphine)
+Nitrates
+Oxygen (sit patient up)
+Pulmonary ventilation (if doing badly)
+
+Atrial fibrillation: causes of new onset
+THE ATRIAL FIBS:
+Thyroid
+Hypothermia
+Embolism (P.E.)
+Alcohol
+Trauma (cardiac contusion)
+Recent surgery (post CABG)
+Ischemia
+Atrial enlargement
+Lone or idiopathic
+Fever, anemia, high-output states
+Infarct
+Bad valves (mitral stenosis)
+Stimulants (cocaine, theo, amphet, caffeine)
+
+Well's criteria
+Secret little TIP (about) blood clots:Signs/symptoms of PE (3)
+PE is the most likely diagnosis (3)
+Tachycardia >100bpm (1.5)
+Iimmobilisation/surgery in the last 4 weeks (1.5)
+Previous DVT/PE
+Blood in sputum (haemoptysis) (1)
+Active cancer (1)
+Two tier score: PE likely > 4
+
+Causes of life-threatening chest pain
+PET-MAC
+P = Pulmonary embolism
+E = Esophageal rupture
+T = Tension pneumothorax
+M = Myocardial infarction
+A = Aortic dissection
+C = Cardiac tamponade
+
+GCS intubation
+Under 8, intubate.
+
+Ipecac: contraindications
+4 C's:
+Comatose
+Convulsing
+Corrosive
+hydrocarbon
+
+JVP: raised JVP differential
+PQRST(EKG waves):
+Pericardial effusion
+Quantity of fluid raised (fluid over load)
+Right heart failure
+Superior vena caval obstruction
+Tricuspid stenosis/tricuspid regurgitation/tamponade (cardiac)
+
+MI: immediate treatment
+DOGASH:
+Diamorphine
+Oxygen
+GTN spray
+Aspirin 300 mg
+Streptokinase
+Heparin
+
+PEA/asystole (ACLS): cause
+ITCHPADInfarction
+Tension pneumothorax
+Cardiac tamponade
+Hypovolemia/hypothermia/hypo-,hyperkalemia/hypomagnesmia/hypoxemia
+Pulmonary embolism
+Acidosis
+Drug overdose
+
+Rapid sequence intubation (RSI)
+SOAP ME
+Suction
+Oxygen
+Airway equipment
+Positioning
+Monitoring & medications
+EtCO2 & other equipmentRapid sequence intubation medications (RSI) (CCRx)
+Very calmly engage the respiratory system
+Vecuronium 0.1 mg/kgCisatracurium 0.2 mg/kgEtomidate 0.3 mg/kgRocuronium 0.6 mg/kg-1.2 mg/kgSuccinylcholine 1 mg/kg
+
+Shock: signs and symptoms
+TV SPARC CUBE:Thirst
+Vomitting
+Sweating
+Pulse weak
+Anxious
+Respirations shallow/rapid
+Cool
+Cyanotic
+Unconscious
+BP low
+Eyes blank
+
+Shock: types
+RN CHAMPS (Alternatively: "MR. C.H. SNAP", or "NH CRAMPS"):
+Respiratory
+Neurogenic
+Cardiogenic
+Hemorrhagic
+Anaphylactic
+Metabolic
+Psychogenic
+Septic
+
+Subarachnoid hemorrhage (SAH) causes
+BATS:Berry aneurysm
+Arteriovenous malformation/adult polycystic kidney disease
+Trauma
+Stroke
+
+Syncope causes, by system
+HEAD HEART VESSELS:CNS causes include HEAD:
+Hypoxia/hypoglycemia
+Epilepsy
+Anxiety
+Dysfunctional brain stem (basivertebral TIA)
+Cardiac causes are HEART:
+Heart attack
+Embolism (PE)
+Aortic obstruction (IHSS, AS or myxoma)
+Rhythm disturbance, ventricular
+Tachycardia
+Vascular causes are VESSELS:
+Vasovagal
+Ectopic (reminds one of hypovolemia)
+Situational
+Subclavian steal
+ENT (glossopharyngeal neuralgia)
+Low systemic vascular resistance (Addison's, diabetic vascular neuropathy)
+Sensitive carotid sinus
+
+Tension pneumothorax: signs and symptoms
+P-THORAXPleuritic pain
+Tracheal deviation
+Hyperresonance
+Onset sudden
+Reduced breath sounds (and dyspnea)
+Absent fremitus
+X-ray shows collapse
+
+TWEED SASH
+Non-pharmacological analgesia.
+
+Ventricular fibrillation: treatment
+Shock, shock, shock, everybody shock, little shock, big shock, momma shock, poppa shock:Shock= Defibrillate
+Everybody= Epinephrine
+Little= Lidocaine
+Big= Bretylium
+Momma= MgSO4Poppa= Procainamide
+
+Endocrine
+Diabetes complications
+KNIVES:Kidney – nephropathy
+Neuromuscular – peripheral neuropathy, mononeuritis, amyotrophy
+Infective – UTIs, TB
+Vascular – coronary/cerebrovascular/peripheral artery disease
+Eye – cataracts, retinopathy
+Skin – lipohypertrophy/lipoatrophy, necrobiosis lipoidica
+
+Hematology/oncology
+Anterior mediastinal masses
+4 T's:
+Teratoma
+Thymoma
+Testicular-type
+T-cell / Hodgkin's lymphoma
+
+Dermatomyositis or polymyositis: risk of underlying malignancy
+Risk is 30% at age 30.
+Risk is 40% at age 40, and so on.
+
+Lung cancer: main sites for distant metastases
+BLAB:
+Bone
+Liver
+Adrenals
+Brain
+
+Esophageal cancer: risk factors
+ABCDEF:
+Achalasia
+Barret's esophagus
+Corrosive esophagitis
+Diverticuliis
+Esophageal web
+Familial
+
+Lung cancer: notorious consequences
+SPEECH:
+Superior vena cava syndrome
+Paralysis of diaphragm (phrenic nerve)
+Ectopic hormones
+Eaton-Lambert syndrome
+Clubbing
+Horner syndrome/ hoarseness
+
+Mole: signs of trouble
+ABCDE:
+Asymmetry
+Border irregular
+Colour irregular
+Diameter usually > 0.5 cm
+Elevation irregular
+
+Prognotic factors for cancer: general
+PROGNOSIS:
+Presentation (time & course)
+Response to treatment
+Old (bad prog.)
+Good intervention (i.e. early)
+Non-compliance with treatment
+Order of differentiation (>1 cell type)
+Stage of disease
+Ill health
+Spread (diffuse)
+
+Pituitary endocrine functions often affected by pituitary-associated tumor
+"Go look for the adenoma please":
+Tropic hormones affected by growth tumor are:
+GnRH
+LSH
+FSH
+ACTH
+Prolactin function
+
+Interviewing / physical exam
+Abdominal assessment
+To assess abdomen, palpate all 4 quadrants for DR. GERM:
+Distension: liver problems, bowel obstruction
+Rigidity (board like): bleeding
+Guarding: muscular tension when touched
+Evisceration/ ecchymosis
+Rebound tenderness: infection
+Masses
+
+Altered level of consciousness: reasons
+AEIOU TIPS
+Alcohol
+Epilepsy, electrolytes, and encephalopathy
+Insulin
+Overdose, oxygen
+Underdose, uremia
+Trauma, temperature
+Infection
+Psychogenic, poisons
+Stroke, shock
+
+Deep tendon reflexes (DTR's)
+One two, put on my shoe - S1/2 roots for Achilles reflex (foot plantarflexion)
+Three four, kick the door - L3/4 roots for patellar reflex (knee extension)
+Five six, pick up sticks - C5/6 roots for brachioradialis and biceps brachii reflexes (elbow flexion)
+Seven eight, shut the gate - C7/8 roots for triceps brachii reflex (elbow extension)
+
+Cause of symptoms
+OPQRST (Works well for cardiac, and respiratory patients.)Onset of the event
+Provocation or palliation
+Quality of the pain
+Region and radiation
+Severity
+Time
+
+Fetal monitoring
+VEAL CHOP
+
+Neurovascular assessment
+5 P's:
+Pain
+Pallor
+Paresthesia
+Pulse
+Paralysis
+
+Trauma assessment
+DCAP-BTLS
+Deformities & discolorations
+Contusions
+Abrasions & avulsion
+Penetrations & punctures
+Burns
+Tenderness
+Lacerations
+Swelling & symmetry
+
+Toxicological seizures: causes
+OTIS CAMPBELL
+Organophosphates
+Tricyclic antidepressants
+Isoniazid, insulin
+Sympathomimetics
+Camphor, cocaine
+Amphetamines
+Methylxanthines
+PCP, propoxyphene, phenol, propranolol
+Benzodiazepine withdrawal, botanicals
+Ethanol withdrawal
+Lithium, lidocaine
+Lindane, lead
+
+Vomiting: non-GIT differential
+ABCDEFGHI:
+Acute renal failure
+Brain [increased ICP]
+Cardiac [inferior MI]
+DKA
+Ears [labyrinthitis]
+Foreign substances [paracetamol, theo, etc.]
+Glaucoma
+Hyperemesis gravidarum
+Infection [pyelonephritis, meningitis]
+
+Heart valve auscultation sites
+"All patients take meds":
+Reading from top left:
+Aortic
+Pulmonary
+Tricuspid
+Mitral
+
+Glasgow coma scale: components and numbers
+Scale types is 3 V's:
+Visual response
+Verbal response
+Vibratory (motor) response Scale scores are 4,5,6:
+Scale of 4: see so much more
+Scale of 5: talking jive
+Scale of 6: feels the pricks (if testing motor by pain withdrawal)
+
+Mental state examination: stages in order
+"Assessed mental state to be positively clinically unremarkable":
+Appearance and behaviour [observe state, clothing...]
+Mood [recent spirit]
+Speech [rate, form, content]
+Thinking [thoughts, perceptions]
+Behavioural abnormalities
+Perception abnormalities
+Cognition [time, place, age...]
+Understanding of condition [ideas, expectations, concerns]
+
+History
+SAMPLE history
+Signs and symptoms
+Allergies
+Medications
+Past medical history, injuries, illnesses
+Last meal/intake
+Events leading up to the injury and/or illness
+OPQRST history
+Onset of symptoms
+Provocation/pallitive
+Quality or character of pain
+Region of pain or radiation
+Signs, symptoms and severity
+Time of onset, duration, intensity
+
+Orthopaedic assessment
+CLORIDE FPP
+Character: sharp or dull pain
+Location: region (joint) of origin
+Onset: sudden vs. gradual
+Radiation:
+Intensity: how severe (scale 1–10), impact on ADLs (activities of daily living), is it getting better, worse or staying the same?
+Duration: acute vs. chronic
+Events associated: falls, morning stiffness, swelling, redness, joint clicking or locking, muscle cramps, muscle wasting, movement limitation, weakness, numbness or tingling, fever, chills, trauma (mechanism of injury), occupation activities, sports, repetitive movements
+Frequency: intermittent vs. constant, have you ever had this pain before?
+Palliative factors: is there anything that makes it better? (rest, activity, meds, heat, cold)
+Provocative factors: is there anything that makes it worse? (rest, activity, etc.)
+
+Pain history checklist
+SOCRATES:
+Site
+Onset
+Character
+Radiation
+Alleviating factors/ associated symptoms
+Timing (duration, frequency)
+Exacerbating factors
+Severity
+Alternatively, signs and symptoms with the 'S'
+PLOTRADIO
+Past history
+Location
+Onset/offset
+Type/character (of pain)
+Radiation
+Aggravating/alleviating factors
+Duration
+Intensity
+Other associated symptoms
+
+Abdominal swelling causes
+9 F's:
+Fat
+Feces
+Fluid
+Flatus
+Fetus
+Full-sized tumors
+Full bladder
+Fibroids
+False pregnancy
+
+Head trauma: rapid neuro exam
+12 P's
+Psychological (mental) status
+Pupils: size, symmetry, reaction
+Paired ocular movements
+Papilloedema
+Pressure (BP, increased ICP)
+Pulse and rate
+Paralysis, paresis
+Pyramidal signs
+Pin prick sensory response
+Pee (incontinent)
+Patellar reflex
+Ptosis
+
+Ocular bobbing vs. dipping
+"Breakfast is fast, dinner is slow, both go down":
+Bobbing is fast
+Dipping is slow
+In both, the initial movement is down.
+
+Pupillary dilation (persistent): causes
+3AM:
+3rd nerve palsy
+Anti-muscarinic eye drops (e.g. to facilitate fundoscopy)
+Myotonic pupil
+
+Clinical examination: initial Inspection of patient from end of bed
+ABC:
+Appearance (SOB, pain, etc.)
+Behaviour
+Connections (drips, inhalers, etc. connected to patient)
+
+Differential diagnosis checklist
+"A VITAMIN C"
+Acquired
+Vascular
+Inflammatory (infectious and non-infectious)
+Trauma/ toxins
+Autoimmune
+Metabolic
+Idiopathic
+Neoplastic
+Congenital
+
+Primitive reflexes
+"Absent reflexes should get paediatrics professors mad"
+Absent: asymmetrical tonic neck reflex
+Reflexes: rooting reflex
+Should: suck reflex
+Get: grasp reflex
+Paediatrics: placing reflex
+Professors: parachute reflex
+Mad: Moro reflex
+
+Family history (FH)
+BALD CHASM:
+Blood pressure (high)
+Arthritis
+Lung disease
+Diabetes
+Cancer
+Heart disease
+Alcoholism
+Stroke
+Mental health disorders (depression, etc.)
+
+Four point physical assessment of a disease
+"I'm a people person"
+Inspection
+Auscultation
+Percussion
+Palpation
+
+Medical history: disease checklist
+MJ THREADS:
+Myocardial infarction
+Jaundice
+Tuberculosis
+Hypertension
+Rheumatic fever/ rheumatoid arthritis
+Epilepsy
+Asthma
+Diabetes
+Strokes
+
+Past medical history (PMH)
+VAMP THIS:
+Vices (tobacco, alcohol, other drugs, sexual risks)
+Allergies
+Medications
+Preexisting medical conditions
+Trauma
+History of hospitalizations
+Immunizations
+Surgeries
+SMASH FM:
+Social history
+Medical history
+Allergies
+Surgical history
+Hospitalizations
+Family history
+Medications
+
+Patient examination organization
+SOAP:
+Subjective: what the patient says.
+Objective: what the examiner observes.
+Assessment: what the examiner thinks is going on.
+Plan: what they intend to do about it
+
+Patient profile (PP)
+LADDERS:
+Living situation/ lifestyle
+Anxiety
+Depression
+Daily activities (describe a typical day)
+Environmental risks / exposure
+Relationships
+Support system / stress
+
+Physical exam for 'lumps and bumps'
+"6 students and 3 teachers go for CAMPFIRE":
+Site, size, shape, surface, skin, scar
+Tenderness, temperature, transillumination
+Consistency
+Attachment
+Mobility
+Pulsation
+Fluctuation
+Irreducibility
+Regional lymph nodes
+Edge
+
+Short stature causes
+RETARD HEIGHT:
+Rickets
+Endocrine (cretinism, hypopituitarism, Cushing's)
+Turner syndrome
+Achondroplasia
+Respiratory(suppurative lung disease)
+Down syndrome
+Hereditary
+Environmental (postirradiation, postinfectious)
+IUGR
+GI (malabsorption)
+Heart (congenital heart disease)
+Tilted backbone (scoliosis)
+
+Sign vs. symptom
+S&S:
+Sign: I (the examiner) can detect attributes/reactions without patient description
+Symptom: patient only can sense attributes/feelings
+
+Social history
+FED TACOS:
+Food
+Exercise
+Drugs
+Tobacco
+Alcohol
+Caffeine
+Occupation
+Sexual activity
+
+Surgical sieve for diagnostic categories
+INVESTIGATIONS:
+Iatrogenic
+Neoplastic
+Vascular
+Endocrine
+Structural / mechanical
+Traumatic
+Inflammatory
+Genetic / congenital
+Autoimmune
+Toxic
+Infective
+Old age / degenerative
+Nutritional
+Spontaneous / idiopathic
+
+Surgical sieve for diagnostic categories (alternate)
+PAST MIDNIGHT:
+Psychological
+Autoimmune
+Spontaneous/idiopathic
+Toxic
+Metabolic
+Inflammatory
+Degenerative
+Neoplastic
+Infection
+Genetic
+Hematological
+Traumatic
+VITAMIN CDEF:
+Vascular
+Infective/inflammatory
+Traumatic
+Autoimmune
+Metabolic
+Iatrogenic/idiopathic
+Neoplastic
+Congenital
+Degenerative/developmental
+Endocrine/environmental
+Functional
+
+Breast history checklist
+LMNOP:
+Lump
+Mammary changes
+Nipple changes
+Other symptoms
+Patient risk factors
+
+Delivering bad news
+SPIKES:
+Setting up
+Perception
+Invitation
+Knowledge
+Emotions
+Strategy and summary
+
+Nephrology
+Dialysis: Acute indications
+AEIOUAcidosis (refractory to treatment)
+Electrolyte abnormalities (refractory to treatment, e.g. hyperkalemia)
+Ingestions (e.g. methanol, ethylene glycol, lithium, salicylates)
+Overload (volume overload refractory to IV diuresis)
+Uremia (presenting with pericarditis, bleeding, encephalopathy)
+
+Neurology
+Chorea: common causes
+St. VITUS'S DANCE:Sydenhams
+Vascular
+Increased RBC's (polycythemia)
+Toxins: CO, Mg, Hg
+Uremia
+SLE
+Senile chorea
+Drugs
+APLA syndrome
+Neurodegenerative conditions: HD, neuroacanthocytosis, DRPLA
+Conception related: pregnancy, OCP's
+Endocrine: hyperthyroidism, hypo-, hyperglycemia
+
+Congenital myopathy: features
+DREAMS:Dominantly inherited, mostly
+Reflexes decreased
+Enzymes normal
+Apathetic floppy baby
+Milestones delayed
+Skeletal abnormalities
+
+Dementia: reversible dementia causes
+DEMENTIA:Drugs/depression
+Elderly
+Multi-infarct/medication
+Environmental
+Nutritional
+Toxins
+Ischemia
+Alcohol
+
+Friedreich ataxia trinucleotide repeat
+"Ataxic GAAit"
+Guanine
+Adenine
+Adenine
+
+Stroke risk factors
+HEADS:Hypertension/ hyperlipidemia
+Elderly
+Atrial fib
+Diabetes mellitus/ drugs (cocaine)
+Smoking/sex (male)
+
+Horner syndrome
+Horny PAMELA:
+Ptosis
+Anhydrosis
+Miosis
+Enophthalmos
+Loss of ciliary-spinal reflex
+Anisocoria
+
+Cerebellar signs
+DANISH:
+
+Dysdiadochokinesia / dysmetria
+Ataxia
+Nystagmus (horizontal)
+Intention tremor
+Slurred speech
+Hypotonia
+
+Causes of pinpoint pupils
+Pinpoint pupils are caused by opioids and pontine pathology
+
+Diagnostic criteria of neurofibromatosis type 1
+CAFÉ SPOT:
+
+Café au lait spots
+Axillary + inguinal freckling
+Fibromas
+Eye: Lisch nodules
+Sphenoid dysplasia
+Positive family history
+Optic tumour (glioma)
+
+Features of normal pressure hydrocephalus
+Wet, wobbly, wacky:
+
+Wet = urinary incontinence
+Wobbly = ataxic gait
+Wacky = dementia
+
+Pathology
+Pharmacology
+Gynaecomastia causing drugs
+Some drugs create awesome knockers
+Spironolactone
+Digitalis
+Cimetidine
+Alcohol
+Ketoconazole
+
+Psychiatry
+Conduct disorder vs. antisocial personality disorder
+Conduct disorder is seen in children. Antisocial personality disorder is seen in adults.
+
+Depression: symptoms and signs (DSM-IV criteria)
+AWESOME:
+Affect flat
+Weight change (loss or gain)
+Energy, loss of
+Sad feelings/ suicide thoughts or plans or attempts/ sexual inhibition/ sleep change (loss or excess) / social withdrawal
+Others (guilt, loss of pleasure, hopeless)
+Memory loss
+Emotional blunting
+
+Depression
+UNHAPPINESS:
+Understandable (such as bereavement, major stresses)
+Neurotic (high anxiety personalities, negative parental upbringing, hypochondriasis)
+Agitation (usually organic causes such as dementia)
+Pseudodementia
+Pain
+Importuniing (whingeing, complaining)
+Nihilistic
+Endogenous
+Secondary (i.e. cancer at the head of the pancreas, bronchogenic cancer)
+Syndromal
+
+Delirium
+DIMES & 3Ps:
+Drugs (or withdrawal)
+Infection (PUS = Pneumonia, UTI, Skin)
+Metabolic (e.g. Na, Ca, TSH)
+Environmental
+Structural
+Pain
+Pee
+Poo
+I WATCH DEATHInfections – PUS, CNS
+Withdrawal – alcohol, sedatives, barbiturates
+Acute metabolic changes – pH, hypo/hyper Na, Ca, acute liver or renal failure
+Trauma – brain injury, subdural hematoma
+CNS – post-ictal, stroke, tumour, brain mets
+Hypoxia – CHF, anemia
+Deficiencies – thiamine, niacin, B12 (e.g. chronic G and T alcoholics)
+Endocrinopathies – hypo-/hyper-cortisol, hypoglycemia
+Acute vascular – hypertensive encephalopathy, septic hypotension
+Toxins and Drugs – especially anti-cholinergics, opioids, benzodiazepines
+Heavy metals
+PINCH ME
+Pain
+Infection
+Nutrition
+Constipation
+Hydration
+Medication
+Electrolytes
+
+Erikson's developmental stages
+"The sad tale of Erikson Motors":
+
+The stages in order by age group:Mr. Trust and MsTrust had an auto they were ashamed of. She took the initiative to find the guilty party. She found the industry was inferior. They were making cars with dents [identity] and rolling fuses [role confusion]. Mr. N.T. Macy [intimacy] isolated the problem, General TVT absorbed the cost. In the end, they found the tires were just gritty and the should have used de- spare!
+
+Mental state examination
+ASEPTIC:
+Appearance
+Speech
+Emotion (objective/subjective)
+Perceptions
+Thoughts
+Insight
+Cognition
+
+Mania: cardinal symptoms
+DIG FAST:
+Distractibility
+Indiscretion (DSM-IV's "excessive involvement in pleasurable activities")
+Grandiosity
+Flight of ideas
+Activity increase
+Sleep deficit (decreased need for sleep)
+Talkativeness (pressured speech)
+
+Mania: diagnostic criteria
+Must have 3 of MANIAC:
+Mouth (pressure of speech)/ Moodl
+Activity increased
+Naughty (disinhibition)
+Insomnia
+Attention (distractibility)
+Confidence (grandiose ideas)
+
+Parasomnias: time of onset
+Sleep terrors and Sleepwalking occur during Slow-wave sleep (stages 3 & 4).Nightmare occurs during REM sleep (and is remembered).
+
+Psychiatric review of symptoms
+"Depressed patients seem anxious, so call psychiatrists":
+Depression and other mood disorders (major depression, bipolar disorder, dysthymia)
+Personality disorders (primarily borderline personality disorder)
+Substance abuse disorders
+Anxiety disorders (panic disorder with agoraphobia, obsessive-compulsive disorder)
+Somatization disorder, eating disorders (these two disorders are combined because both involve disorders of bodily perception)
+Cognitive disorders (dementia, delirium)
+Psychotic disorders (schizophrenia, delusional disorder and psychosis accompanying depression, substance abuse or dementia)
+
+Schizophrenia: negative features
+4 A's:
+Ambivalence
+Affective incongruence
+Associative loosening
+Autism
+
+Substance dependence: features (DSM IV)
+WITHDraw IT:
+
+3 of 7 within 12-month period:Withdrawal
+Interest or Important activities given up or reduced
+Tolerance
+Harm to physical and psychosocial known but continue to use
+Desire to cut down, control
+Intended time, amount exceeded
+Time spent too much
+
+Radiology
+Chest radiograph: checklist to examine
+"Pamela found our rotation particularly exciting; very highly commended mainly 'cus she arouses":
+Patient details
+Film details
+Objects (e.g. lines, electrodes)
+Rotation
+Penetration
+Expansion
+Vessels
+Hila
+Costophrenic angles
+Mediastinum
+Cardiothoracic ratio
+Soft tissues and bones
+Air (diaphragm, pneumothorax, subcut. emphysema)
+
+Chest X-ray interpretation
+Preliminary is ABCDEF:
+AP or PA
+Body position
+Confirm name
+Date
+Exposure
+Films for comparison
+Analysis is ABCDEF:
+Airways (hilar adenopathy or enlargement)
+Breast shadows / bones (rib fractures, lytic bone lesions)
+Cardiac silhoutte (cardiac enlargement) / costophrenic angles (pleural effusions)
+Diaphragm (evidence of free air) / digestive tract
+Edges (apices for fibrosis, pneumothorax, pleural thickening or plaques) / extrathoracic tissues
+Fields (evidence of alveolar filling) / failure (alveolar air space disease with prominent vascularity with or without pleural effusions)
+
+Chest X-ray: cavitating lesions differential
+"If you see holes on chest X-ray, they are weird":
+Wegener's granulomatosis (now known as granulomatosis with polyangiitis)
+Embolic (pulmonary, septic)
+Infection (anaerobes, pneumocystis, TB)
+Rheumatoid (necrobiotic nodules)
+Developmental cysts (sequestration)
+Histiocytosis
+Oncological
+Lymphangioleiomyomatosis
+Environmental, occupational
+Sarcoid
+Alternatively: L=Left atrial myxoma
+
+Elbow ossification centers, in sequence
+CRITOE:
+Capitellum
+Radial head
+Internal epicondyle
+Trochlea
+Olecranon
+External epicondyle
+
+Head CT scan: evaluation checklist
+"Blood can be very bad":
+Blood
+Cistern
+Brain
+Ventricles
+Bone
+
+Neck sagittal x-ray: examination checklist
+ABCD:
+Anterior: look for swelling
+Bones: examine each bone for fractures
+Cartilage: look for slipped discs
+Dark spots: ensure not abnormally big, or could mean excess blood
+
+Osteoarthritis: x-ray signs
+LOSS:
+Loss of joint space
+Osteopyhtes
+Subcondral sclerosis
+Subchondral cysts
+
+T2 vs. T1 MRI scan
+"WW 2" (World War II):
+Water is white in a T2 scan.
+Conversely, a T1 scan shows fat as being whiter.
+
+Upper lobe shadowing: causes
+BREASTS:
+Beryllium
+Radiation
+Extrinsic allergic alveolitis
+Ankylosing spondylitis
+Sarcoidosis
+TB
+Siliconiosis
+
+Respiratory
+Airway assessment
+LEMON
+
+Look
+Evaluate
+Mallampati
+Occlusion
+Neck mobilityPIPPA
+
+Position
+Inspection
+Palpation
+Percussion
+Auscultation
+
+Asthma management
+ASTHMA
+
+Adrenergic agonists
+Steroids
+Theophylline
+Hydration
+Masked oxygen
+Anticholinergics
+
+COPD assessment test (CAT)
+CAT items: CHEST SEA
+To aid memory, think of the chest (or lungs) floating in a sea of yellow sputum, which is commonly seen in COPD.
+
+Cough
+Home-leaving confidence
+Exercise tolerance (uphill/ 1 flight of stairs)
+Sputum (phlegm/ mucus)
+Tightness of chest
+Sleep
+Energy level
+ADL at home
+
+Croup symptoms
+3 S's:
+Stridor
+Subglottic swelling
+Seal-bark cough
+
+Causes of upper zone pulmonary fibrosis
+A TEA SHOP
+
+ABPA
+TB
+Extrinsic allergic alveolitis
+Ankylosing spondylitis
+Sarcoidosis
+Histiocytosis
+Occupational (silicosis, berylliosis)
+Pneumoconiosis (coal-worker's)
+
+Features of a life-threatening asthma attack
+A CHEST
+
+Arrhythmia/altered conscious level
+Cyanosis, PaCO2 normal
+Hypotension, hypoxia (PaO2<8kPa, SpO2 <92%)
+Exhaustion
+Silent chest
+Threatening PEF < 33% best or predicted (in those >5yrs old)
+
+Pulmonary edema: treatment
+LMNOP:
+Lasix
+Morphine
+Nitro
+Oxygen
+Position/positive pressure ventilation
+
+Miscellaneous
+The following may or may not fit properly into one of the above categories. They are being stored in this section either temporarily or permanently. Categorize them if needed.
+
+Cholinergic crisis
+SLUDGE and the Killer B's:
+Salivation
+Lacrimation
+Urination
+Diaphoresis, diarrhea
+Gastrointestinal cramping
+Emesis
+Bradycardia
+Bronchospasm
+Bronchorrheaalso known as DUMBBELLS
+Diarrhea
+Urination
+Miosis
+Bradycardia
+Bronchospasm
+Emesis
+Lacrimation
+Loss of muscle strength
+Salivation/sweating
+
+Cheyne-Stokes breathing
+Cheyne-Stokes breathing sounds like "chain smokes"
+Drugs causing gynaecomastia: DISCO
+
+Digitalis
+Isoniazid
+Spironolactone
+Cimetidine / ketoconazole
+Oestrogen
+
+Drugs for bradycardia and hypotension
+Isoproterenol
+Dopamine
+Epinephrine
+Atropine sulfate
+
+Diaphragm innervation
+C3, 4, 5 keeps the diaphragm alive
+
+Intubation preparation
+7 P's
+Preparation
+Preoxygenation
+Pretreatment
+Paralysis with induction
+Positioning
+Placement of tube
+Postintubation management
+
+Pentad of TTP
+FAT RN:
+Fever
+Anemia
+Thrombocytopenia
+Renal
+Neuro changes
+
+Systemic lupus erythematosus: diagnostic symptoms
+SOAP BRAIN MD
+Serositis
+Oral ulcers
+Arthritis
+Photosensitivity, pulmonary fibrosis
+Blood cells
+Renal, Raynaud's
+ANA
+Immunologic (anti-Sm, anti-dsDNA)
+Neuropsych
+Malar rash
+Discoid rash however, not in order of diagnostic importance.
+
+References
+Further reading
+Shahed Yousaf; Mubeen Chaudhry (2006), Mnemonics for Medical Undergraduates, PasTest, ISBN 1904627889.
+Khan, Khalid (2008), Mnemonics and Study Tips for Medical Students, CRC Press, ISBN 978-0340957479.
+Beech, Alan (2013), Science & Math Rhymes 2 Help U, Alan Beech, ISBN 978-0-615-89569-7.
+Epomedicine Medical Mnemonics

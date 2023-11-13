@@ -1,0 +1,51 @@
+Translational research (also called translation research, translational science, or, when the context is clear, simply translation) is research aimed at translating (converting) results in basic research into results that directly benefit humans. The term is used in science and technology, especially in biology and medical science. As such, translational research forms a subset of applied research.
+The term has been used most commonly in life-sciences and biotechnology but applies across the spectrum of science and humanities. In the context of biomedicine, translational research is also known as bench to bedside. In the field of education, it is defined as research which translates concepts to classroom practice.
+Critics of translational medical research (to the exclusion of more basic research) point to examples of important drugs that arose from fortuitous discoveries in the course of basic research such as penicillin and benzodiazepines. Other problems have stemmed from the widespread irreproducibility thought to exist in translational research literature.
+Although translational research is relatively new, there are now several major research centers focused on it. In the U.S., the National Institutes of Health has implemented a major national initiative to leverage existing academic health center infrastructure through the Clinical and Translational Science Awards. Furthermore, some universities acknowledge translational research as its own field to study for a PhD or graduate certificate in.
+
+Definitions
+Translational research is aimed at solving particular problems; the term has been used most commonly in life-sciences and biotechnology but applies across the spectrum of science and humanities.
+In the field of education, it is defined for school-based education by the Education Futures Collaboration (www.meshguides.org) as research which translates concepts to classroom practice. Examples of translational research are commonly found in education subject association journals and in the MESHGuides which have been designed for this purpose.In bioscience, translational research is a term often used interchangeably with translational medicine or translational science or bench to bedside. The adjective "translational" refers to the "translation" (the term derives from the Latin for "carrying over") of basic scientific findings in a laboratory setting into potential treatments for disease.Biomedical translational research adopts a scientific investigation/ enquiry into a given problem facing medical/health practices to surmount such problems. where in it aims to "translate" findings in fundamental research into practice. In the field of biomedicine, it is often called "translational medicine", defined by the European Society for Translational Medicine (EUSTM) as "an interdisciplinary branch of the biomedical field supported by three main pillars: benchside, bedside and community", from laboratory experiments through clinical trials, to therapies, to point-of-care patient applications. The end point of translational research in medicine is the production of a promising new treatment that can be used clinically. Translational research is conceived due to the elongated time often taken to bring to bear discovered medical idea in practical terms in a health system.  It is for these reasons that translational research is more effective in dedicated university science departments or isolated, dedicated research centers. Since 2009, the field has had specialized journals, the American Journal of Translational Research and Translational Research dedicated to translational research and its findings.
+Translational research in biomedicine is broken down into different stages. In a two-stage model, T1 research, refers to the "bench-to-bedside" enterprise of translating knowledge from the basic sciences into the development of new treatments and T2 research refers to translating the findings from clinical trials into everyday practice, although this model is actually referring to the 2 "roadblocks" T1 and T2. Waldman et al. propose a scheme going from T0 to T5. T0 is laboratory (before human) research. In T1-translation, new laboratory discoveries are first translated to human application, which includes phase I & II clinical trials. In T2-translation, candidate health applications progress through clinical development to engender the evidence base for integration into clinical practice guidelines. This includes phase III clinical trials. In T3-translation, dissemination into community practices happens. T4-translation seeks to (1) advance scientific knowledge to paradigms of disease prevention, and (2) move health practices established in T3 into population health impact. Finally, T5-translation focuses on improving the wellness of populations by reforming suboptimal social structures
+
+Comparison to basic research or applied research
+Basic research is the systematic study directed toward greater knowledge or understanding of the fundamental aspects of phenomena and is performed without thought of practical ends. It results in general knowledge and understanding of nature and its laws. For instance, basic biomedical research focuses on studies of disease processes using, for example, cell cultures or animal models without consideration of the potential utility of that information.Applied research is a form of systematic inquiry involving the practical application of science. It accesses and uses the research communities' accumulated theories, knowledge, methods, and techniques, for a specific, often state, business, or client-driven purpose. Translational research forms a subset of applied research. In life-sciences, this was evidenced by a citation pattern between the applied and basic sides in cancer research that appeared around 2000.
+
+Challenges and criticisms
+Critics of translational medical research (to the exclusion of more basic research) point to examples of important drugs that arose from fortuitous discoveries in the course of basic research such as penicillin and benzodiazepines, and the importance of basic research in improving our understanding of basic biological facts (e.g. the function and structure of DNA) that go on to transform applied medical research. Examples of failed translational research in the pharmaceutical industry include the failure of anti-aβ therapeutics in Alzheimer's disease. Other problems have stemmed from the widespread irreproducibility thought to exist in translational research literature.
+
+Translational research-facilities in life-sciences
+In U.S., the National Institutes of Health has implemented a major national initiative to leverage existing academic health center infrastructure through the Clinical and Translational Science Awards.
+The National Center for Advancing Translational Sciences (NCATS) was established on December 23, 2011.Although translational research is relatively new, it is being recognized and embraced globally. Some major centers for translational research include:
+
+About 60 hubs of the Clinical and Translational Science Awards program.
+Texas Medical Center, Houston, Texas, United States
+Translational Research Institute (Australia), Brisbane, Queensland, Australia.
+University of Rochester, Rochester, New York, United States has a dedicated Clinical and Translational Science Institute
+Stanford University Medical Center, Stanford, California, United States.
+Translational Genomics Research Institute, Phoenix, Arizona, United States.
+Maine Medical Center in Portland, Maine, United States has a dedicated translational research institute.
+Scripps Research Institute, Florida, United States, has a dedicated translational research institute.
+UC Davis Clinical and Translational Science Center, Sacramento, California
+Clinical and Translational Science Institute, University of Pittsburgh, Pittsburgh, Pennsylvania
+Weill Cornell Medicine has a Clinical and Translational Science Center.Additionally, translational research is now acknowledged by some universities as a dedicated field to study a PhD or graduate certificate in, in a medical context. These institutes currently include Monash University in Victoria, Australia, the University of Queensland, Diamantina Institute in Brisbane, Australia, at Duke University in Durham, North Carolina, America, at Creighton University in Omaha, Nebraska  at Emory University in Atlanta, Georgia, and at The George Washington University in Washington, D.C.
+The industry and academic interactions to promote translational science initiatives has been carried out by various global centers such as European Commission, GlaxoSmithKline and Novartis Institute for Biomedical Research.
+
+See also
+Biological engineering
+Clinical and Translational Science (journal)
+Clinical trials
+Implementation research
+Personalized medicine
+Systems biology
+Translational research informatics
+Research practice gap (Knowledge transfer)
+
+References
+External links
+
+Translational Research Institute
+NIH Roadmap
+American Journal of Translational Research
+Center for Comparative Medicine and Translational Research
+OSCAT2012: Conference on translational medicine

@@ -1,0 +1,23 @@
+A rapid diagnostic test (RDT) is a medical diagnostic test that is quick and easy to perform. RDTs are suitable for preliminary or emergency medical screening and for use in medical facilities with limited resources. They also allow point-of-care testing in primary care for things that formerly only a laboratory test could measure. They provide same-day results within two hours, typically in approximately 20 minutes.The European Union defines that a rapid test means qualitative or semi-quantitative in vitro-diagnostic medical devices, used singly or in a small series, which involve non-automated procedures and have been designed to give a fast result.Lateral flow tests are probably the most known type of rapid diagnostic tests, similar to pregnancy tests, but there exist other systems as dipsticks, vertical flow, etc. Anything that can be used at bedside (point-of-care) of the patient. Emerging lateral flow technology, the Cornell FeverPhone, has been validated to differentiate causes of acute febrile illness such as Dengue Virus, Chikugunya Virus and Malaria using a single drop of blood in about 15 minutes.
+
+Examples
+Some examples of RDTs are listed below:
+
+Rapid antibody tests
+Rapid HIV test
+Rapid plasma reagin
+Rapid antigen tests
+Rapid COVID-19 test
+Rapid influenza diagnostic test
+Malaria antigen detection tests
+Rapid strep test
+Rapid urease test
+NEMIS Rapid pathogen screening test
+
+See also
+Point-of-care testing
+Lateral flow tests
+
+References
+
+Medical laboratory test.

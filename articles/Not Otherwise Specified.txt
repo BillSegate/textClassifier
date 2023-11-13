@@ -1,0 +1,25 @@
+In medicine, Not Otherwise Specified (NOS) is a subcategory in systems of disease/disorder classification such as ICD-9, ICD-10, or DSM-IV. It is generally used to note the presence of an illness where the symptoms presented were sufficient to make a general diagnosis, but where a specific diagnosis was not made. The DSM-IV, for example, "applies the term not otherwise specified (NOS) to a disorder or disturbance that does not meet the criteria for the specific disorders already discussed". The term was introduced because "it is sometimes impossible for the practitioner completing the diagnostic assessment to categorize all the symptoms that a client is experiencing into one diagnostic category". In the context of mental health diagnoses, four situations have been outlined for which such a diagnosis may be considered appropriate:
+
+Client meets the general guidelines for a disorder, yet not all of the criteria are met, or the ones present are not considered clinically significant.
+Significant behaviors are noted affecting social and occupational functioning, but are not considered part of the usual presentation for a disorder.
+Uncertainty about etiology or the cause of the disorder exists. This is especially important when it is suspected that the disorder may be related to a general medical condition.
+Insufficient information exists to fully support assigning behaviors to a particular mental disorder in the category, but the general criteria for the category of disorders are evident.
+It is noted, however, that the use of an NOS classification invites scrutiny when billing or seeking reimbursement for practitioners.
+
+Examples
+This classification is commonly used in psychiatric diagnoses, such as in:
+
+DD-NOS, depressive disorder
+ED-NOS, eating disorder
+MD-NOS, mood disorder
+PD-NOS, personality disorder
+PDD-NOS, pervasive developmental disorder
+Psychotic disorder not otherwise specifiedIt is also used in the conditions:
+
+PTCL-NOS, peripheral T-cell lymphoma not otherwise specified
+Adenocarcinoma not otherwise specifiedThe ICD-10 also uses this phrase for various things, such as:
+
+Fall from, out of or through building, not otherwise specified (W13.9)The phrase is also used within the List of UN numbers, where it refers to a generic entry, e.g. "UN 1993: Flammable liquid, N.O.S.".
+
+
+== References ==

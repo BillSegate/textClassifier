@@ -1,0 +1,35 @@
+Fremitus is a vibration transmitted through the body. In common medical usage, it usually refers to assessment of the lungs by either the vibration intensity felt on the chest wall (tactile fremitus) and/or heard by a stethoscope on the chest wall with certain spoken words (vocal fremitus), although there are several other types.
+
+Types
+Vocal fremitus
+When a person speaks, the vocal cords create vibrations (vocal fremitus) in the tracheobronchial tree and through the lungs and chest wall, where they can be felt (tactile fremitus).  This is usually assessed with the healthcare provider placing the flat of their palms on the chest wall and then asking a patient to repeat a phrase containing low-frequency vowels such as "blue balloons" or "toys for tots" (the original diphthong used was the German word neunundneunzig but the translation to the English 'ninety-nine' was a higher-frequency diphthong and thus not as effective in eliciting fremitus).  An increase in tactile fremitus indicates denser or inflamed lung tissue, which can be caused by diseases such as pneumonia.  A decrease suggests air or fluid in the pleural spaces or a decrease in lung tissue density, which can be caused by diseases such as chronic obstructive pulmonary disease or asthma.
+
+Pleural fremitus
+Pleural fremitus is a palpable vibration of the wall of the thorax caused by friction between the parietal and visceral pleura of the lungs. See pleural friction rub for the auditory analog of this sign.
+
+Dental fremitus
+Fremitus appears when teeth move.  This can be assessed by feeling and looking at teeth when the mouth is opened and closed.
+
+Periodontal fremitus
+Periodontal fremitus occurs in either of the alveolar bones when an individual sustains trauma from occlusion. It is a result of teeth exhibiting at least slight mobility rubbing against the adjacent walls of their sockets, the volume of which has been expanded ever so slightly by inflammatory responses, bone resorption or both. As a test to determine the severity of periodontal disease, a patient is told to close his or her mouth into maximum intercuspation and is asked to grind his or her teeth ever so slightly. Fingers placed in the labial vestibule against the alveolar bone can detect fremitus.
+
+Rhonchal fremitus
+Rhonchal fremitus, also known as bronchial fremitus, is a palpable vibration produced during breathing caused by partial airway obstruction. The obstruction can be due to mucus or other secretions in the airway,: 411  bronchial hyperreactivity, or tumors. See rhonchus (rhonchi) for the auditory analog of this sign.
+
+Tactile fremitus
+Tactile fremitus, known by many other names including pectoral fremitus, tactile vocal fremitus, or just vocal fremitus, is a vibration felt on the patient's chest during low frequency vocalization.: 409  Commonly, the patient is asked to repeat a phrase while the examiner feels for vibrations by placing a hand over the patient's chest or back. Phrases commonly used in English include, 'boy oh boy' and 'toy boat' (diphthong phrases), as well as 'blue balloons' and 'Scooby-Doo'. 'Ninety-nine' is classically included, however, this is a misinterpretation of the original German report, in which "neunundneunzig" was the low-frequency diphthong of choice.Tactile fremitus is normally more intense in the right second intercostal space, as well as in the interscapular region, as these areas are closest to the bronchial trifurcation (right side) or bifurcation (left side). Tactile fremitus is pathologically increased over areas of consolidation and decreased or absent over areas of pleural effusion or pneumothorax (when there is air outside the lung in the chest cavity, preventing lung expansion).The reason for increased fremitus in a consolidated lung is the fact that the sound waves are transmitted with less decay in a solid or fluid medium (the consolidation) than in a gaseous medium (aerated lung). Conversely, the reason for decreased fremitus in a pleural effusion or pneumothorax (or any pathology separating the lung tissue itself from the body wall) is that this increased space diminishes or prevents entirely sound transmission.
+It has been suggested that the artifacts caused by eliciting tactile fremitus during breast ultrasonography can be used to differentiate between benign and malignant tumors.
+
+Tussive fremitus
+Tussive fremitus is a vibration felt on the chest when the patient coughs.: 411
+
+Pericardial fremitus
+Pericardial fremitus is a vibration felt on the chest wall due to the friction of the surfaces of the pericardium over each other. See pericardial friction rub for the auditory analog of this sign.
+
+Hydatid fremitus
+Hydatid fremitus is a vibratory sensation felt on palpating a hydatid cyst.
+
+References
+
+
+== External links ==

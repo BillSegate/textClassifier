@@ -1,0 +1,14 @@
+Severity of illness (SOI) is defined as the extent of organ system derangement or physiologic decompensation for a patient. It gives a medical classification into minor, moderate, major, and extreme. The SOI class is meant to provide a basis for evaluating hospital resource use or to establish patient care guidelines.
+Patients are assigned their SOI based on their specific diagnoses and procedures performed during their medical encounter, which is generally an inpatient hospital stay. Patients with higher SOI (e.g. major or extreme) are more likely to consume greater healthcare resources and stay longer in hospitals than patients with lower SOI in the same diagnosis-related group (DRG).
+The Centers for Medicare and Medicaid Services considered the 3M APR-DRG and SOI system as a potential evolution to the DRG system in 2006, but received such negative feedback from the industry that in March 2007 decided to adopt another internally developed system evolved from the DRG. SOI is still commonly used throughout the United States to adjust for patient complexity, so that physicians and other groups can compare resource utilization, complication rates, and length of stay.
+
+See also
+Diagnosis-related group (DRG)
+Risk of mortality (ROM)
+Case mix index (CMI)
+Diagnosis code
+
+References
+
+Averill RF, The evolution of case-mix measurement using DRGs: past, present and future, Stud Health Technol Inform. 1994;14:75-83.
+Averill R, Muldoon J, Vertrees J, Goldfield N, et al., The evolution of case mix measurement using diagnosis-related groups (DRGs), Physician Profiling and Risk Adjustment. In: Goldfield N, ed. 2nd ed. Frederick, MD: Aspen Publishers, Inc; 19

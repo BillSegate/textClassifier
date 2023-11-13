@@ -1,0 +1,24 @@
+Asystole (New Latin, from Greek privative a "not, without" + systolē "contraction") is the absence of ventricular contractions in the context of a lethal heart arrhythmia (in contrast to an induced asystole on a cooled patient on a heart-lung machine and general anesthesia during surgery necessitating stopping the heart). Asystole is the most serious form of cardiac arrest and is usually irreversible. Also referred to as cardiac flatline, asystole is the state of total cessation of electrical activity from the heart, which means no tissue contraction from the heart muscle and therefore no blood flow to the rest of the body.
+Asystole should not be confused with very brief pauses below 3 seconds in the heart's electrical activity that can occur in certain less severe abnormal rhythms. Asystole is different from very fine occurrences of ventricular fibrillation, though both have a poor prognosis, and untreated fine VF will lead to asystole. Faulty wiring, disconnection of electrodes and leads, and power disruptions should be ruled out.
+Asystolic patients (as opposed to those with a "shockable rhythm" such as coarse or fine ventricular fibrillation, or unstable ventricular tachycardia that is not producing a pulse, which can potentially be treated with defibrillation) usually present with a very poor prognosis. Asystole is found initially in only about 28% of cardiac arrest cases in hospitalized patients, but only 15% of these survive, even with the benefit of an intensive care unit, with the rate being lower (6%) for those already prescribed drugs for high blood pressure.Asystole is treated by cardiopulmonary resuscitation (CPR) combined with an intravenous vasopressor such as epinephrine (a.k.a. adrenaline). Sometimes an underlying reversible cause can be detected and treated (the so-called "Hs and Ts", an example of which is hypokalaemia). Several interventions previously recommended—such as defibrillation (known to be ineffective on asystole, but previously performed in case the rhythm was actually very fine ventricular fibrillation) and intravenous atropine—are no longer part of the routine protocols recommended by most major international bodies. 1 mg epinephrine by IV every 3–5 minutes is given for asystole.Survival rates in a cardiac arrest patient with asystole are much lower than a patient with a rhythm amenable to defibrillation; asystole is itself not a "shockable" rhythm. Even in those cases where an individual suffers a cardiac arrest with asystole and it is converted to a less severe shockable rhythm (ventricular fibrillation, or ventricular tachycardia), this does not necessarily improve the person's chances of survival to discharge from the hospital, though if the case was witnessed by a civilian, or better, a paramedic, who gave good CPR and cardiac drugs, this is an important confounding factor to be considered in certain select cases. Out-of-hospital survival rates (even with emergency intervention) are less than 2 percent.
+
+Cause
+Possible underlying causes, which may be treatable and reversible in certain cases, include the Hs and Ts.
+Hypovolemia
+Hypoxia
+Hydrogen ions (acidosis)
+Hypothermia
+Hyperkalemia or hypokalemia
+Toxins (e.g. drug overdose)
+Cardiac tamponade
+Tension pneumothorax
+Thrombosis (myocardial infarction or pulmonary embolism)While the heart is asystolic, there is no blood flow to the brain unless CPR or internal cardiac massage (when the chest is opened and the heart is manually compressed) is performed, and even then it is a small amount. After many emergency treatments have been applied but the heart is still unresponsive, it is time to consider pronouncing the patient dead. Even in the rare case that a rhythm reappears, if asystole has persisted for fifteen minutes or more, the brain will have been deprived of oxygen long enough to cause severe hypoxic brain damage, resulting in brain death or persistent vegetative state.
+
+See also
+Agonal heart rhythm
+Ictal asystole
+
+References
+
+
+== External links ==

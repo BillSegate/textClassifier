@@ -1,0 +1,46 @@
+Winters' formula, named after Dr. R.W. Winters, is a formula used to evaluate respiratory compensation when analyzing acid-base disorders in the presence of metabolic acidosis. It can be given as:
+
+  
+    
+      
+        
+          P
+          
+            C
+            
+              O
+              
+                2
+              
+            
+          
+        
+        =
+        (
+        1.5
+        ×
+        H
+        C
+        
+          O
+          
+            sgn
+          
+        
+        )
+        +
+        8
+        ±
+        2
+      
+    
+    {\displaystyle P_{CO_{2}}=(1.5\times HCO_{\operatorname {sgn} })+8\pm 2}
+  ,
+where HCO3− is given in units of mEq/L and PCO2 will be in units of mmHg.
+Winters' formula gives an expected value for the patient's PCO2; the patient's actual (measured) PCO2 is then compared to this.
+If the two values correspond, respiratory compensation is considered to be adequate.
+If the measured PCO2 is higher than the calculated value, there is also a primary respiratory acidosis.
+If the measured PCO2 is lower than the calculated value, there is also a primary respiratory alkalosis.
+
+
+== References ==

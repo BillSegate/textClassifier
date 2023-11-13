@@ -1,0 +1,16 @@
+Length of stay (LOS) is the duration of a single episode of hospitalization. Inpatient days are calculated by subtracting day of admission from day of discharge.
+
+Analysis
+A common statistic associated with length of stay is the average length of stay (ALOS), a mean calculated by dividing the sum of inpatient days by the number of patients admissions with the same diagnosis-related group classification. A variation in the calculation of ALOS can be to consider only length of stay during the period under analysis.
+Length of stay is typically highly skewed and so statistical approaches taking that into account are recommended. While the mean length of stay is useful from the point of view of costs, it may be a poor statistic in terms of representing a typical length of stay, and the median may be preferred.
+It is useful to be able to predict an individual's expected length of stay or to model length of stay to determine factors that affect it. Various analyses have sought to model length of stay in different condition contexts. This has usually been done with regression models, but Markov chain methods have also been applied. Within regression approaches, linear, log-normal and logistic regression approaches have been applied, but have been criticised by other researchers. Carter & Potts (2014) instead recommend use of negative binomial regression.
+
+Quality metric
+Length of stay is commonly used as a quality metric. The prospective payment system in U.S. Medicare for reimbursing hospital care promotes shorter length of stay by paying the same amount for procedures, regardless of days spent in the hospital.
+Additionally, length of stay in hospital can be linked to additional quality metrics such as patient satisfaction with health professionals, reduction in hospital readmissions, and even mortality. Discharge planning processes can be effective in reducing a patients length of stay in hospital. For example, for older people admitted with a medical condition, discharge planning has been shown to   improve satisfaction, reduce the overall length of stay, and within 3-month period reduce the likelihood of readmission.
+
+Non-health usages
+The term "average length of stay" (ALOS) is also applicable to other industries, e.g. entertainment, event marketing, trade show and leisure. ALOS is used to determine the length of time an attendee is expected to spend on a site or in a venue and is part of the calculation used to determine the gross sales potential for selling space to vendors etc. and affects everything from parking to sanitation, staffing and food and beverage. Almost all operational aspects can be altered by an attendee's ALOS.
+
+
+== References ==

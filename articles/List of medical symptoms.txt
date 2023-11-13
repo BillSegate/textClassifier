@@ -1,0 +1,13 @@
+Medical symptoms refer to the manifestations or indications of a disease or condition, perceived and complained about by the patient. Patients observe these symptoms and seek medical advice from healthcare professionals. 
+Because most people are not diagnostically trained or knowledgeable, they typically describe their symptoms in layman's terms, rather than using specific medical terminology. This list is not exhaustive.
+
+Symptoms by presentation
+Medical signs and symptoms
+Where available, ICD-10 codes are listed. When codes are available both as a sign/symptom (R code) and as an underlying condition, the code for the sign is used.
+When there is no symptoms for a disease that a patient has, the patient is said to be asymptomatic.
+
+See also
+List of ICD-9 codes 780-799: Symptoms, signs, and ill-defined conditions
+
+
+== References ==

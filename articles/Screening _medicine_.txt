@@ -1,0 +1,112 @@
+Screening, in medicine, is a strategy used to look for as-yet-unrecognised conditions or risk markers. This testing can be applied to individuals or to a whole population. The people tested may not exhibit any signs or symptoms of a disease, or they might exhibit only one or two symptoms, which by themselves do not indicate a definitive diagnosis.
+Screening interventions are designed to identify conditions which could at some future point turn into disease, thus enabling earlier intervention and management in the hope to reduce mortality and suffering from a disease. Although screening may lead to an earlier diagnosis, not all screening tests have been shown to benefit the person being screened; overdiagnosis, misdiagnosis, and creating a false sense of security are some potential adverse effects of screening. Additionally, some screening tests can be inappropriately overused. For these reasons, a test used in a screening program, especially for a disease with low incidence, must have good sensitivity in addition to acceptable specificity.Several types of screening exist: universal screening involves screening of all individuals in a certain category (for example, all children of a certain age). Case finding involves screening a smaller group of people based on the presence of risk factors (for example, because a family member has been diagnosed with a hereditary disease). Screening interventions are not designed to be diagnostic, and often have significant rates of both false positive and false negative results.
+Frequently updated recommendations for screening are provided by the independent panel of experts, the United States Preventive Services Task Force.
+
+Principles
+In 1968, the World Health Organization published guidelines on the Principles and practice of screening for disease, which often referred to as Wilson and Jungner criteria. The principles are still broadly applicable today:
+
+The condition should be an important health problem.
+There should be a treatment for the condition.
+Facilities for diagnosis and treatment should be available.
+There should be a latent stage of the disease.
+There should be a test or examination for the condition.
+The test should be acceptable to the population.
+The natural history of the disease should be adequately understood.
+There should be an agreed policy on whom to treat.
+The total cost of finding a case should be economically balanced in relation to medical expenditure as a whole.
+Case-finding should be a continuous process, not just a "once and for all" project.In 2008, with the emergence of new genomic technologies, the WHO synthesised and modified these with the new understanding as follows:
+Synthesis of emerging screening criteria proposed over the past 40 years
+
+The screening programme should respond to a recognized need.
+The objectives of screening should be defined at the outset.
+There should be a defined target population.
+There should be scientific evidence of screening programme effectiveness.
+The programme should integrate education, testing, clinical services and programme management.
+There should be quality assurance, with mechanisms to minimize potential risks of screening.
+The programme should ensure informed consent, confidentiality and respect for personal, bodily autonomy.
+The programme should promote equity and access to screening for the entire target population.
+Programme evaluation should be planned from the outset.
+The overall benefits of screening should outweigh the harm.In summation, "when it comes to the allocation of scarce resources, economic considerations must be considered alongside 'notions of justice, equity, personal freedom, political feasibility, and the constraints of current law'."
+
+Types
+Mass screening: The screening of a whole population or subgroup. It is offered to all, irrespective of the risk status of the individual.
+High risk or selective screening: High risk screening is conducted only among high-risk people.
+Multiphasic screening: The application of two or more screening tests to a large population at one time, instead of carrying out separate screening tests for single diseases.
+When done thoughtfully and based on research, identification of risk factors can be a strategy for medical screening.
+
+Examples
+Common programs
+In many countries there are population-based screening programmes. In some countries, such as the UK, policy is made nationally and programmes are delivered nationwide to uniform quality standards. Common screening programmes include:
+Cancer screening
+Pap smear or liquid-based cytology to detect potentially precancerous lesions and prevent cervical cancer
+Mammography to detect breast cancer
+Colonoscopy and fecal occult blood test to detect colorectal cancer
+Dermatological check to detect melanoma
+PSA to detect prostate cancer
+PPD test to screen for exposure to tuberculosis
+Beck Depression Inventory to screen for depression
+SPAI-B, the Liebowitz Social Anxiety Scale and Social Phobia Inventory to screen for social anxiety disorder
+Alpha-fetoprotein, blood tests and ultrasound scans for pregnant women to detect fetal abnormalities
+Bitewing radiographs to screen for interproximal dental caries
+Ophthalmoscopy or digital photography and image grading for diabetic retinopathy
+Ultrasound scan for abdominal aortic aneurysm
+SARI Screening Tool for COVID-19 and MERS
+Screening of potential sperm bank donors
+Screening for metabolic syndrome
+Screening for potential hearing loss in newborns
+
+School-based
+Most public school systems in the United States screen students periodically for hearing and vision deficiencies and dental problems. Screening for spinal and posture issues such as scoliosis is sometimes carried out, but is controversial as scoliosis (unlike vision or dental issues) is found in only a very small segment of the general population and because students must remove their shirts for screening. Many states no longer mandate scoliosis screenings, or allow them to be waived with parental notification. There are currently bills being introduced in various U.S. states to mandate mental health screenings for students attending public schools in hopes to prevent self-harm as well as the harming of peers. Those proposing these bills hope to diagnose and treat mental illnesses such as depression and anxiety.
+
+Screening for social determinants of health
+The social determinants of health are the economic and social conditions that influence individual and group differences in health status. Those conditions may have adverse effects on their health and well-being. To mitigate those adverse effects, certain health policies like the United States Affordable Care Act (2010) gave increased traction to preventive programs, such as those that routinely screen for social determinants of health. Screening is believed to a valuable tool in identifying patients' basic needs in a social determinants of health framework so that they can be better served.
+
+Policy background in the United States
+When established in the United States, the Affordable Care Act was able to bridge the gap between community-based health and healthcare as a medical treatment, leading to programs that screened for social determinants of health. The Affordable Care Act established several services with an eye for social determinants or an openness to more diverse clientele, such as Community Transformation Grants, which were delegated to the community in order to establish "preventive community health activities" and "address health disparities".
+
+Clinical programs
+Social determinants of health include social status, gender, ethnicity, economic status, education level, access to services, education, immigrant status, upbringing, and much, much more. Several clinics across the United States have employed a system in which they screen patients for certain risk factors related to social determinants of health. In such cases, it is done as a preventive measure in order to mitigate any detrimental effects of prolonged exposure to certain risk factors, or to simply begin remedying the adverse effects already faced by certain individuals. They can be structured in different ways, for example, online or in person, and yield different outcomes based on the patient's responses. Some programs, like the FIND Desk at UCSF Benioff Children's Hospital, employ screening for social determinants of health in order to connect their patients with social services and community resources that may provide patients greater autonomy and mobility.
+
+Medical equipment used
+Medical equipment used in screening tests is usually different from equipment used in diagnostic tests as screening tests are used to indicate the likely presence or absence of a disease or condition in people not presenting symptoms; while diagnostic medical equipment is used to make quantitative physiological measurements to confirm and determine the progress of a suspected disease or condition. Medical screening equipment must be capable of fast processing of many cases, but may not need to be as precise as diagnostic equipment.
+
+Limitations
+Screening can detect medical conditions at an early stage before symptoms present while treatment is more effective than for later detection. In the best of cases lives are saved. Like any medical test, the tests used in screening are not perfect. The test result may incorrectly show positive for those without disease (false positive), or negative for people who have the condition (false negative). Limitations of screening programmes can include:
+
+Screening can involve cost and use of medical resources on a majority of people who do not need treatment.
+Adverse effects of screening procedure (e.g. stress and anxiety, discomfort, radiation exposure, chemical exposure).
+Stress and anxiety caused by prolonging knowledge of an illness without any improvement in outcome. This problem is referred to as overdiagnosis (see also below).
+Stress and anxiety caused by a false positive screening result.
+Unnecessary investigation and treatment of false positive results (namely misdiagnosis with Type I error).
+A false sense of security caused by false negatives, which may delay final diagnosis (namely misdiagnosis with Type II error).Screening for dementia in the English NHS is controversial because it could cause undue anxiety in patients and support services would be stretched. A GP reported "The main issue really seems to be centred around what the consequences of a such a diagnosis is and what is actually available to help patients."
+
+Analysis
+To many people, screening instinctively seems like an appropriate thing to do, because catching something earlier seems better.  However, no screening test is perfect.  There will always be the problems with incorrect results and other issues listed above. It is an ethical requirement for balanced and accurate information to be given to participants at the point when screening is offered, in order that they can make a fully informed choice about whether or not to accept.Before a screening program is implemented, it should be looked at to ensure that putting it in place would do more good than harm. The best studies for assessing whether a screening test will increase a population's health are rigorous randomized controlled trials.When studying a screening program using case-control or, more usually, cohort studies, various factors can cause the screening test to appear more successful than it really is. A number of different biases, inherent in the study method, will skew results.
+
+Overdiagnosis
+Screening may identify abnormalities that would never cause a problem in a person's lifetime.
+An example of this is prostate cancer screening; it has been said that "more men die with prostate cancer than of it". Autopsy studies have shown that between 14 and 77% of elderly men who have died of other causes are found to have had prostate cancer.Aside from issues with unnecessary treatment (prostate cancer treatment is by no means without risk), overdiagnosis makes a study look good at picking up abnormalities, even though they are sometimes harmless.Overdiagnosis occurs when all of these people with harmless abnormalities are counted as "lives saved" by the screening, rather than as "healthy people needlessly harmed by overdiagnosis". So it might lead to an endless cycle: the greater the overdiagnosis, the more people will think screening is more effective than it is, which can reinforce people to do more screening tests, leading to even more overdiagnosis. Raffle, Mackie and Gray call this the popularity paradox of screening: "The greater the harm
+through overdiagnosis and overtreatment from screening, the more people there are who believe they owe their health, or even their life, to the programme"(p56 Box 3.4) The screening for neuroblastoma, the most common malignant solid tumor in children, in Japan is a very good example of why a screening program must be evaluated rigorously before it is implemented. In 1981, Japan started a program of screening for neuroblastoma by measuring homovanillic acid and vanilmandelic acid in urine samples of six-month-old infants. In 2003, a special committee was organized to evaluate the motivation for the neuroblastoma screening program. In the same year, the committee concluded that there was sufficient evidence that screening method used in the time led to overdiagnosis, but there was no enough evidence that the program reduced neuroblastoma deaths. As such, the committee recommended against screening and the Ministry of Health, Labor and Welfare decided to stop the screening program.Another example of overdiagnosis happened with thyroid cancer: its incidence tripled in United States between 1975 and 2009, while mortality was constant. In South Korea, the situation was even worse with 15-fold increase in the incidence from 1993 to 2011 (the world's greatest increase of thyroid cancer incidence), while the mortality remained stable. The increase in incidence was associated with the introduction of ultrasonography screening.The problem of overdiagnosis in cancer screening is that at the time of diagnosis it not possible to differentiate between a harmless lesion and lethal one, unless the patient is not treated and dies from other causes. So almost all patients tend to be treated, leading to what is called overtreatment. As researchers Welch and Black put it, "Overdiagnosis—along with the subsequent unneeded treatment with its attendant risks—is arguably the most important harm associated with early cancer detection."
+
+Lead time bias
+If screening works, it must diagnose the target disease earlier than it would be without screening (when symptoms appear).
+Even if in both cases (with screening vs without screening) patients die at the same time, just because the disease was diagnosed earlier by screening, the survival time since diagnosis is longer in screened people than in persons who was not screened. This happens even when life span has not been prolonged. As the diagnosis was made earlier without life being prolonged, the patient might be more anxious as he must live with knowledge of his diagnosis for longer.If screening works, it must introduce a lead time. So statistics of survival time since diagnosis tends to increase with screening because of the lead time introduced, even when screening offers no benefits. If we do not think about what survival time actually means in this context, we might attribute success to a screening test that does nothing but advance diagnosis. As survival statistics suffers from this and other biases, comparing the disease mortality (or even all-cause mortality) between screened and unscreened population gives more meaningful information.
+
+Length time bias
+Many screening tests involve the detection of cancers. Screening is more likely to detect slower-growing tumors (due to longer pre-clinical sojourn time) that are less likely to cause harm. Also, those aggressive cancers tend to produce symptoms in the gap between scheduled screening, being less likely to be detected by screening. So, the cases screening often detects automatically have better prognosis than symptomatic cases. The consequence is those more slow progressive cases are now classified as cancers, which increases the incidence, and due to its better prognosis, the survival rates of screened people will be better than non-screened people even if screening makes no difference.
+
+Selection bias
+Not everyone will partake in a screening program. There are factors that differ between those willing to get tested and those who are not.If people with a higher risk of a disease are more likely to be screened, for instance women with a family history of breast cancer are more likely than other women to join a mammography program, then a screening test will look worse than it really is: negative outcomes among the screened population will be higher than for a random sample.Selection bias may also make a test look better than it really is. If a test is more available to young and healthy people (for instance if people have to travel a long distance to get checked) then fewer people in the screening population will have negative outcomes than for a random sample, and the test will seem to make a positive difference.Studies have shown that people who attend screening tend to be healthier than those who do not. This has been called the healthy screenee effect, which is a form of selection bias. The reason seems to be that people who are healthy, affluent, physically fit, non-smokers with long-lived parents are more likely to come and get screened than those on low-income, who have existing health and social problems. One example of selection bias occurred in Edinbourg trial of mammography screening, which used cluster randomisation. The trial found reduced cardiovascular mortality in those who were screened for breast cancer. That happened because baseline differences regarding socio-economic status in the groups: 26% of the women in the control group and 53% in the study group belonged to the highest socioeconomic level.
+
+Study Design for the Research of Screening Programs
+The best way to minimize selection bias is to use a randomized controlled trial, though observational, naturalistic, or retrospective studies can be of some value and are typically easier to conduct. Any study must be sufficiently large (include many patients) and sufficiently long (follow patients for many years) to have the statistical power to assess the true value of a screening program. For rare diseases, hundreds of thousands of patients may be needed to realize the value of screening (find enough treatable disease), and to assess the effect of the screening program on mortality a study may have to follow the cohort for decades. Such studies take a long time and are expensive, but can provide the most useful data with which to evaluate the screening program and practice evidence-based medicine.
+
+All-cause mortality vs disease-specific mortality
+The main outcome of cancer screening studies is usually the number of deaths caused by the disease being screened for - this is called disease-specific mortality. To give an example: in trials of mammography screening for breast cancer, the main outcome reported is often breast cancer mortality. However, disease-specific mortality might be biased in favor of screening. In the example of breast cancer screening, women overdiagnosed with breast cancer might receive radiotherapy, which increases mortality due to lung cancer and heart disease. The problem is those deaths are often classified as other causes and might even be larger than the number of breast cancer deaths avoided by screening. So the non-biased outcome is all-cause mortality. The problem is that much larger trials are needed to detect a significant reduction in all-cause mortality. In 2016, researcher Vinay Prasad and colleagues published an article in BMJ titled "Why cancer screening has never been shown to save lives", as cancer screening trials did not show all-cause mortality reduction.
+
+See also
+References
+Further reading
+UK National Screening Committee Criteria for appraising the viability, appropriateness and effectiveness of a screening programme [accessed October 2019] and Oxford Medicine Online
+Raffle, Mackie, Gray Screening: evidence and practice. Oxford University Press 2019 ISBN 9780198805984
+Health Knowledge Interactive Learning Module on Screening by Angela Raffle. Last accessed October 2019.

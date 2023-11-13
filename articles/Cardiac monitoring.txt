@@ -1,0 +1,36 @@
+Cardiac monitoring generally refers to continuous or intermittent monitoring of heart activity to assess a patient's condition relative to their cardiac rhythm. Cardiac monitoring is usually carried out using electrocardiography, which is a noninvasive process that records the heart's electrical activity and displays it in an electrocardiogram. It is different from hemodynamic monitoring, which monitors the pressure and flow of blood within the cardiovascular system. The two may be performed simultaneously on critical heart patients. Cardiac monitoring for ambulatory patients (those well enough to walk around) is known as ambulatory electrocardiography and uses a small, wearable device, such as a Holter monitor, wireless ambulatory ECG, or an implantable loop recorder. Data from a cardiac monitor can be transmitted to a distant monitoring station in a process known as telemetry or biotelemetry.
+Cardiac monitoring in an emergency department setting focuses primarily on the monitoring of arrhythmia, myocardial infarction, and QT interval monitoring. It is categorized into one of three classes using a rating system developed by the American College of Cardiology Emergency Cardiac Care Committee:
+Class I: Cardiac monitoring is indicated in all or most patients.
+Class II: Cardiac monitoring may be beneficial, but it is not essential.
+Class III: Cardiac monitoring is not indicated because the patient's serious event risk is low. Monitoring will not have therapeutic benefit.
+
+Emergency medical services
+In the setting of out-of-hospital acute medical care, ambulance services and other emergency medical services providers utilize heart monitors to assess the patient's cardiac rhythm. Providers licensed or certified at the Paramedic level are qualified to interpret ECGs. Information obtained from ECGs can then be used to direct the patient's treatment at a care facility, particularly in catheterization labs.
+
+In the emergency department
+In the emergency department, cardiac monitoring is a part of the monitoring of vital signs in emergency medicine, and generally includes electrocardiography.
+
+Monitor/defibrillators
+Some digital patient monitors, especially those used by EMS services, often incorporate a defibrillator into the patient monitor itself. These monitor/defibrillators usually have the normal capabilities of an ICU monitor, but have manual (and usually semi-automatic AED) defibrillation capabilities. This is particularly good for EMS services, who need a compact, easy to use monitor and defibrillator, as well as for patient transport.  Most monitor defibrillators also have transcutaneous pacing capability via large AED like adhesive pads (which often can be used for monitoring, defibrillation and pacing) that are applied to the patient in an anterior-posterior configuration. The monitor defibrillator units often have specialized monitoring parameters such as waveform capnography, invasive BP, and, in some monitors, Masimo Rainbow SET pulse oximetry, which can also monitor carbon monoxide and methemoglobin levels. Most modern monitors also allow for transmission of an ECG sample to an emergency department for interpretation; this process may be used to speed up patient care in certain situations, such as bypassing the ED and proceeding to a cath lab.
+Examples of monitor defibrillators are the Lifepak 12, 15 and 20 made by Physio Control, the Philips Heartstart MRx, and the E, R, and X Series by ZOLL Medical.
+
+Long-term ambulatory monitors
+There are two broad classifications for cardiac event monitors: manual (or dumb) and automatic. Automatic ECG event monitors have the ability to monitor the patient's ECG and make recordings of abnormal events without requiring patient intervention. Manual ECG event recorders require the patient to be symptomatic and to activate the device to record an event; this makes these devices useless whilst, for example, the patient is sleeping. A third classification, the implantable loop recorder, provides both automatic and manual abilities.
+An example of automatic monitoring is the transtelephonic cardiac event monitor. This monitor contacts ECG technicians, via telephone, on a regular basis, transmitting ECG rhythms for ongoing monitoring. The transtelephonic cardiac event monitor can normally store approximately five "cardiac events" usually lasting 30–60 seconds.
+
+Heart rate monitoring
+Monitoring of the heart rate can be performed as part of electrocardiography, but it can also be measured conveniently with specific heart rate monitors. Such heart rate monitors are largely used by performers of various types of physical exercise.
+A generic cardiac monitor has the following functions:
+
+A display of heart rate and heart rhythm
+Sound alarms above and below a pre-set limit
+Ability to determine the presence of arrhythmiaThere are many different types of cardiac monitors. In personal use, the Holter monitor is an external monitor which uses wires with patches that attach to the skin to continuously measure and record heart activity for 1–2 days. An Event Recorder can be worn on the body for up to 30 days. A Mobile Cardiac Telemetry unit is a wearable monitor that detects, records, and transmits heart rhythms for up to 30 days. For long term use, an Insertable Cardiac Monitor is placed under the skin and automatically detects and records abnormal heart rhythms for up to 5 years.
+
+Fetal heart rate monitoring
+Monitoring the fetal heart rate is becoming increasingly prevalent in the standard care of antepartum pregnant patients. As of 2002, 85% of pregnancies in the United States were monitored using electronic fetal monitoring. Electronic fetal monitoring generally uses Doppler ultrasound technology to provide real-time feedback on the fetus's cardiac activity during both gestation and labor, however other technologies such as analyzing the voltage generated by the contracting uterine muscle measured at the skin surface or recording both the fetal ECG and mother's ECG and filtering out the mother's ECG are emerging.
+
+Wearable heart rate monitors for exercise
+The new wearable heart rate monitors indirectly measure the heart rate with reflectance photoplethysmography. The monitor illuminates the skin tissue with light emitting diode (LED) and detects the intensity of light reflected with the photodetector. Wearable optical heart rate monitors are less reliable than electrode-based heart rate monitors. The accuracy of the wearable optical heart rate monitors varies with the type of exercise. Skin tone and motion artifacts contributes to this error.
+
+
+== References ==

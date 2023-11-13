@@ -1,0 +1,29 @@
+An equianalgesic chart is a conversion chart that lists equivalent doses of analgesics (drugs used to relieve pain). Equianalgesic charts are used for calculation of an equivalent dose (a dose which would offer an equal amount of analgesia) between different analgesics. Tables of this general type are also available for NSAIDs, benzodiazepines, depressants, stimulants, anticholinergics and others.
+
+Format
+Equianalgesic tables are available in different formats, such as pocket-sized cards for ease of reference. A frequently-seen format has the drug names in the left column, the route of administration in the center columns and any notes in the right column.
+
+Purpose
+There are several reasons for switching a patient to a different pain medication. These include practical considerations such as lower cost or unavailability of a drug at the patient's preferred pharmacy, or medical reasons such as lack of effectiveness of the current drug or to minimize adverse effects. Some patients request to be switched to a different narcotic due to stigma associated with a particular drug (e.g. a patient refusing methadone due to its association with opioid addiction treatment). Equianalgesic charts are also used when calculating an equivalent dosage of the same drug, but with a different route of administration.
+
+Precautions
+An equianalgesic chart can be a useful tool, but the user must take care to correct for all relevant variables such as route of administration, cross tolerance, half-life and the bioavailability of a drug. For example, the narcotic levorphanol is 4–8 times stronger than morphine, but also has a much longer half-life. Simply switching the patient from 40 mg of morphine to 10 mg of levorphanol would be dangerous due to dose accumulation, and hence frequency of administration should also be taken into account.
+There are other concerns about equianalgesic charts. Many charts derive their data from studies conducted on opioid-naive patients. Patients with chronic (rather than acute) pain may respond to analgesia differently. Repeated administration of a medication is also different from single dosing, as many drugs have active metabolites that can build up in the body. Patient variables such as sex, age, and organ function may also influence the effect of the drug on the system. These variables are rarely included in equianalgesic charts.
+
+Opioid equivalency table
+Opioids are a class of compounds that elicit analgesic (pain killing) effects in humans and animals by binding to the µ-opioid receptor within the central nervous system. The following table lists opioid and non-opioid analgesic drugs and their relative potencies. Values for the potencies represent opioids taken orally unless another route of administration is provided. As such, their bioavailabilities differ, and they may be more potent when taken intravenously.
+
+Nonlinearities
+This chart measures pain relief versus mass of medication. Not all medications have a fixed relationship on this scale. Methadone is different from most opioids because its potency can vary depending on how long it is taken. Acute use (1–3 days) yields a potency about 1.5× stronger than that of morphine and chronic use (7 days+) yields a potency about 2.5 to 5× that of morphine. Similarly, the effect of tramadol increases after consecutive dosing due to the accumulation of its active metabolite and an increase of the oral bioavailability in chronic use.
+
+See also
+Oripavine – for more on the comparative strength of oripavine derivatives
+
+Explanatory notes
+Citations
+General and cited references
+Books
+Articles
+
+
+=== Websites ===

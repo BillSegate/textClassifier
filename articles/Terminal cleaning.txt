@@ -1,0 +1,16 @@
+Terminal cleaning is the thorough cleaning of a room after use, used in healthcare environments to control the spread of infections.
+
+Justification
+Nosocomial infections claim approximately 90,000 lives in the United States annually. When patients are hospitalized and identified as having methicillin-resistant Staphylococcus aureus or infections that can be spread to other patients, best practices isolate these patients in rooms that are subjected to terminal cleaning when the patient is discharged.For example, terminal cleaning reduces the spread of C. difficile infections.
+
+Procedure
+Terminal cleaning requires cleaning the entire room after use by the patient. Methods vary, but involve disinfection of all surfaces and discarding all disposable items and cleaning rags or towels as medical waste.
+
+See also
+Nosocomial infection
+MRSA
+VRE
+Pseudomonas aeruginosa
+
+
+== References ==

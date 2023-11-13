@@ -1,0 +1,4 @@
+The protein nitrogen unit (PNU) measures the potency of the compounds used in allergy skin tests, and is equivalent to 0.01 microgram (µg) of phosphotungstic acid-precipitable protein nitrogen.  Potency measurements depend on the measurement technique, so that results from different manufacturers cannot be reliably compared: as a result, PNUs are being replaced by bioequivalent allergy units (BAU), which are measured by skin testing using reference preparations of standard potency.
+
+
+== Notes ==

@@ -1,0 +1,14 @@
+Microbial pathogenesis is a field of microbiology that started at least as early as 1988, with the identification of the triune Falkow's criteria, aka molecular Koch's postulates. In 1996, Fredricks and Relman proposed a seven-point list of "Molecular Guidelines for Establishing Microbial Disease Causation," because of "the discovery of nucleic acids" by Watson and Crick "as the source of genetic information and as the basis for precise characterization of an organism." The subsequent development of the "ability to detect and manipulate these nucleic acid molecules in microorganisms has created a powerful means for identifying previously unknown microbial pathogens and for studying the host-parasite relationship."
+
+Postulates for the detection of microbial pathogens
+In 1996, Fredricks and Relman suggested the following postulates for the novel field of microbial pathogenesis.
+(i) A nucleic acid sequence belonging to a putative pathogen should be present in most cases of an infectious disease. Microbial nucleic acids should be found preferentially in those organs or gross anatomic sites known to be diseased, and not in those organs that lack pathology.
+(ii) Fewer, or no, copies of pathogen-associated nucleic acid sequences should occur in hosts or tissues without disease.
+(iii) With resolution of disease, the copy number of pathogen-associated nucleic acid sequences should decrease or become undetectable. With clinical relapse, the opposite should occur.
+(iv) When sequence detection predates disease, or sequence copy number correlates with severity of disease or pathology, the sequence-disease association is more likely to be a causal relationship.
+(v) The nature of the microorganism inferred from the available sequence should be consistent with the known biological characteristics of that group of organisms.
+(vi) Tissue-sequence correlates should be sought at the cellular level: efforts should be made to demonstrate specific in situ hybridization of microbial sequence to areas of tissue pathology and to visible microorganisms or to areas where microorganisms are presumed to be located.
+(vii) These sequence-based forms of evidence for microbial causation should be reproducible.
+
+
+== References ==

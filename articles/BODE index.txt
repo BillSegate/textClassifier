@@ -1,0 +1,7 @@
+The BODE index, for Body-mass index, airflow Obstruction, Dyspnea, and Exercise, is a multidimensional scoring system and capacity index used to test patients who have been diagnosed with chronic obstructive pulmonary disease (COPD) and to predict long-term outcomes for them. The index uses the four factors to predict risk of death from the disease.
+The BODE index will result in a score of zero to ten dependent upon FEV1 or "forced expiratory volume in one second" (the greatest volume of air that can be breathed out in the first second of a breath), body-mass index, the distance walked in six minutes, and the modified MRC dyspnea scale. Significant weight loss is a bad sign. Results of spirometry are also good predictors of the future progress of the disease, but they are not as good as the test results of the BODE index.
+
+References
+
+
+== Further reading ==

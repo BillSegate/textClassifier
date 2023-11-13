@@ -1,0 +1,80 @@
+The SOAP note (an acronym for subjective, objective, assessment, and plan) is a method of documentation employed by healthcare providers to write out notes in a patient's chart, along with other common formats, such as the admission note. Documenting patient encounters in the medical record is an integral part of practice workflow starting with appointment scheduling, patient check-in and exam, documentation of notes, check-out, rescheduling, and medical billing. Additionally, it serves as a general cognitive framework for physicians to follow as they assess their patients.The SOAP note originated from the problem-oriented medical record (POMR), developed nearly 50 years ago by Lawrence Weed, MD. It was initially developed for physicians to allow them to approach complex patients with multiple problems in a highly organized way. Today, it is widely adopted as a communication tool between inter-disciplinary healthcare providers as a way to document a patient's progress.SOAP notes are commonly found in electronic medical records (EMR) and are used by providers of various backgrounds. Generally, SOAP notes are used as a template to guide the information that physicians add to a patient's EMR. Prehospital care providers such as emergency medical technicians may use the same format to communicate patient information to emergency department clinicians. Due to its clear objectives, the SOAP note provides physicians a way to standardize the organization of a patient's information to reduce confusion when patients are seen by various members of healthcare professions. Many healthcare providers, ranging from physicians to behavioral healthcare professionals to veterinarians, use the SOAP note format for their patient's initial visit and to monitor progress during follow-up care.
+
+Components
+The four components of a SOAP note are Subjective, Objective, Assessment, and Plan. The length and focus of each component of a SOAP note vary depending on the specialty; for instance, a surgical SOAP note is likely to be much briefer than a medical SOAP note, and will focus on issues that relate to post-surgical status.
+
+Subjective component
+Chief Complaint (CC)
+The patient's chief complaint, or CC, is a very brief statement of the patient (quoted) as to the purpose of the office visit or hospitalization. There can be multiple CC's, but identifying the most significant one is vital to make a proper diagnosis.
+
+History of Present Illness (HPI)
+The physician will take a history of present illness, or HPI, of the CC. This describes the patient's current condition in narrative form, from the time of initial sign/symptom to the present. It begins with the patient's age, sex, and reason for visit, and then the history and state of experienced symptoms are recorded. All information pertaining to subjective information is communicated to the healthcare provider by the patient or his/her representative.The mnemonic below refers to the information a physician should elicit before referring to the patient's "old charts" or "old carts".
+Onset
+"When did the CC begin?"
+Location
+"Where is the CC located?"
+Duration
+"How long has the CC been going for?"
+CHaracter
+"Can you describe the CC you're experiencing?"
+Alleviating/Aggravating factors
+"What makes the CC better and worse?"
+Radiation
+"Does the CC move or stay in one spot?"
+Temporal pattern
+"Is there a particular time of day when the CC is better or worse?"
+Severity
+"On a scale of 1 to 10 (10 being the worst pain you've experienced), how would you rate the CC?"Variants on this mnemonic include OPQRST, SOCRATES, and LOCQSMAT (outlined here):
+Location
+Onset (when injury started and mechanism of injury—if applicable)
+Chronology (better or worse since onset, episodic, variable, constant, etc.)
+Quality (sharp, dull, etc.)
+Severity (usually a pain rating)
+Modifying factors (what aggravates/reduces the symptoms—activities, postures, drugs, etc.)
+Additional symptoms (un/related or significant symptoms to the chief complaint)
+Treatment (has the patient seen another provider for this symptom?)Subsequent visits for the same problem briefly summarize the HPI, including pertinent testing and results, referrals, treatments, outcomes and follow-ups.
+
+History
+Pertinent medical history, surgical history (with year and surgeon if possible), family history, and social history is recorded. Social history can use the HEADSS (home/environment, education/employment/eating, activities, drugs, sexuality, and suicide/depression) acronym, which gives information like smoking/drug/alcohol/caffeine use and level of physical activity. Other information includes current medications (name, dose, route, and how often) and allergies. Another acronym is SAMPLE, which is one method of obtaining this history information from a patient.
+
+Review of Systems (ROS)
+All other pertinent positive and negative symptoms can be compiled under a review of systems (ROS) interview.
+
+Objective component
+The objective section of the SOAP includes information that the healthcare provider observes or measures from the patient's current presentation, such as:
+
+Vital signs are often already included in the chart. However, it is an important component of the SOAP note as well. Vital signs and measurements, such as weight.
+Findings from physical examinations, including basic systems of cardiac and respiratory, the affected systems, possible involvement of other systems, pertinent normal findings and abnormalities. The following areas should be included:
+Physical presentation
+Characterization of discomfort or pain
+Psychological status
+Results from laboratory and other diagnostic tests already completed.
+
+Assessment component
+A medical diagnosis for the purpose of the medical visit on the given date of the note written is a quick summary of the patient with main symptoms/diagnosis including a differential diagnosis, a list of other possible diagnoses usually in order of most likely to least likely. The assessment will also include possible and likely etiologies of the patient's problem. It is the patient's progress since the last visit, and overall progress towards the patient's goal from the physician's perspective. In a pharmacist's SOAP note, the assessment will identify what the drug related/induced problem is likely to be and the reasoning/evidence behind it. This will include etiology and risk factors, assessments of the need for therapy, current therapy, and therapy options. When used in a problem-oriented medical record (POMR), relevant problem numbers or headings are included as subheadings in the assessment.
+
+Plan component
+The plan is what the health care provider will do to treat the patient's concerns—such as ordering further labs, radiological work up, referrals given, procedures performed, medications given and education provided. The plan will also include goals of therapy and patient-specific drug and disease-state monitoring parameters. This should address each item of the differential diagnosis. For patients who have multiple health problems that are addressed in the SOAP note, a plan is developed for each problem and is numbered accordingly based on severity and urgency for therapy. 
+A note of what was discussed or advised with the patient as well as timings for further review or follow-up are generally included.
+Often the Assessment and Plan sections are grouped together.
+
+An example
+A very rough example follows for a patient being reviewed following an appendectomy. This example resembles a surgical SOAP note; medical notes tend to be more detailed, especially in the subjective and objective sections.
+
+The plan itself includes various components:
+
+Diagnostic component: continue to monitor labs
+Therapeutic component: advance diet
+Referrals: follow up with Cardiology within three days of discharge for stress testing as an out-patient.
+Patient education component: that is progressing well
+Disposition component: discharge to home in the morning
+
+References
+Further reading
+Baird, Brian N. (2014) [1996]. "Clinical writing, treatment records, and case notes". The internship, practicum, and field placement handbook: a guide for the helping professions (7th ed.). Boston: Pearson PLC. pp. 95–112. ISBN 9780205959655. OCLC 836261561.
+Cameron, Susan; Turtle‐Song, Imani (Summer 2002). "Learning to write case notes using the SOAP format". Journal of Counseling & Development. 80 (3): 286–292. doi:10.1002/j.1556-6678.2002.tb00193.x.
+Hodges, Shannon (2016) [2011]. "Clinical writing and documentation in counseling records". The counseling practicum and internship manual: a resource for graduate counseling students (2nd ed.). Springer Publishing Company. pp. 89–114. ISBN 9780826128430. OCLC 915153123.
+Ingram, Barbara Lichner (2012) [2006]. Clinical case formulations: matching the integrative treatment plan to the client (2nd ed.). Hoboken, NJ: John Wiley & Sons. p. 6. ISBN 9781118038222. OCLC 723035074. In this book, the term hypothesis (or hypotheses section of report) will substitute for assessment, resulting in the SOHP acronym. That acronym can be pronounced as 'soap' but reminds us that we will be formulating with clinical hypotheses instead of plugging in a simple diagnostic label.
+Kettenbach, Ginge; Schlomer, Sarah L. (2016) [1990]. Writing patient/client notes: ensuring accuracy in documentation (5th ed.). F. A. Davis Company. ISBN 9780803638204. OCLC 934020211.
+Sames, Karen M. (2015) [2005]. "SOAP and other methods of documenting ongoing intervention". Documenting occupational therapy practice (3rd ed.). Boston: Pearson PLC. pp. 171–197. ISBN 9780133110494. OCLC 858914392.
+Weed, Lawrence L. (June 1964). "Medical records, patient care, and medical education". Irish Journal of Medical Science. 39 (6): 271–282. doi:10.1007/BF02945791. PMID 14160426. S2CID 44816809. (subscription required)

@@ -1,0 +1,15 @@
+DreamLab is a volunteer computing Android and iOS app launched in 2015 by Imperial College London and the Vodafone Foundation.
+
+Description
+The app currently helps to research cancer, COVID-19, new drugs and tropical cyclones. To do this, DreamLab accesses part of the device's processing power, with the user's consent, while the owner is charging their smartphone, to speed up the calculations of the algorithms from Imperial College London.The aim of the tropical cyclone project is to prepare for climate change risks. Other projects aim to find existing drugs and food molecules that could help people with COVID-19 and other diseases. The performance of 100,000 smartphones would reach the annual output of all research computers at Imperial College in just three months, with a nightly runtime of six hours.The app was developed in 2015 by the Garvan Institute of Medical Research in Sydney and the Vodafone Foundation. As of May 2020, the project had over 490,000 registered users.
+
+See also
+Volunteer computing
+Folding@home
+BOINC
+
+References
+External links
+DreamLab App at Google Playstore
+DreamLab App at Apple Appstore
+Network machine learning maps phytochemically rich “Hyperfoods” to fight COVID-19

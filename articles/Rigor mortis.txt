@@ -1,0 +1,23 @@
+Rigor mortis (Latin: rigor "stiffness", and mortis "of death"), or postmortem rigidity, is the fourth stage of death. It is one of the recognizable signs of death, characterized by stiffening of the limbs of the corpse caused by chemical changes in the muscles postmortem (mainly calcium). In humans, rigor mortis can occur as soon as four hours after death. Contrary to folklore and common belief, rigor mortis is not permanent and begins to pass within hours of onset. Typically, it lasts no longer than eight hours at "room temperature".
+
+Physiology
+After death, aerobic respiration in an organism ceases, depleting the source of oxygen used in the making of adenosine triphosphate (ATP). ATP is required to cause separation of the actin-myosin cross-bridges during relaxation of muscle. When oxygen is no longer present, the body may continue to produce ATP via anaerobic glycolysis. When the body's glycogen is depleted, the ATP concentration diminishes, and the body enters rigor mortis because it is unable to break those bridges.Calcium enters the cytosol after death. Calcium is released into the cytosol due to the deterioration of the sarcoplasmic reticulum. Also, the breakdown of the sarcolemma causes additional calcium to enter the cytosol. The calcium activates the formation of actin-myosin cross-bridging. Once calcium is introduced into the cytosol, it binds to the troponin of thin filaments, which causes the troponin-tropomyosin complex to change shape and allow the myosin heads to bind to the active sites of actin proteins. In rigor mortis myosin heads continue binding with the active sites of actin proteins via adenosine diphosphate (ADP), and the muscle is unable to relax until further enzyme activity degrades the complex. Normal relaxation would occur by replacing ADP with ATP, which would destabilize the myosin-actin bond and break the cross-bridge. However, as ATP is absent, there must be a breakdown of muscle tissue by enzymes (endogenous or bacterial) during decomposition. As part of the process of decomposition, the myosin heads are degraded by the enzymes, allowing the muscle contraction to release and the body to relax.Decomposition of the myofilaments occurs between 48 and 60 hours after the peak of rigor mortis, which occurs approximately 13 hours after death.
+
+Applications in meat industry
+Rigor mortis is very important in the meat industry. The onset of rigor mortis and its resolution partially determines the tenderness of meat. If the post-slaughter meat is immediately chilled to 15 °C (59 °F), a phenomenon known as cold shortening occurs, whereby the muscle sarcomeres shrink to a third of their original length. 
+Cold shortening is caused by the release of stored calcium ions from the sarcoplasmic reticulum of muscle fibers, in response to the cold stimulus. The calcium ions trigger powerful muscle contraction aided by ATP molecules. To prevent cold shortening, a process known as electrical stimulation is carried out, especially in beef carcasses, immediately after slaughter and skinning. In this process, the carcass is stimulated with alternating current, causing it to contract and relax, which depletes the ATP reserve from the carcass and prevents cold shortening.
+
+Application in forensic pathology
+The degree of rigor mortis may be used in forensic pathology to determine the approximate time of death. A dead body holds its position as rigor mortis sets in. If the body is moved after death, but before rigor mortis begins, forensic techniques such as livor mortis can be applied. Rigor mortis is known as transient evidence, as the degree to which it affects a body degrades over time.
+
+See also
+Graphic image of victims of the 1991 Bangladesh cyclone in Sandwip displaying signs of rigor mortis
+Cadaveric spasm
+
+Notes
+References
+Bibliography
+Bear, Mark F; Connors, Barry W.; Paradiso, Michael A., Neuroscience, Exploring the Brain, Philadelphia : Lippincott Williams & Wilkins; Third Edition (1 February 2006). ISBN 0-7817-6003-8
+Robert G. Mayer, "Embalming: history, theory, and practice", McGraw-Hill Professional, 2005, ISBN 0-07-143950-1
+"Rigor mortis and Other Postmortem Changes - Burial, Body, Life, Cause, Time, Person, Human, Putrefaction." Encyclopedia of Death and Dying. 2011. Web. 4 December 2011. <Rigor mortis and Other Postmortem Changes - burial, body, life, cause, time, person, human, Putrefaction>.
+Saladin, Kenneth. Anatomy and Physiology: The Unity of Form and Function, 6th ed. McGraw-Hill. New York, 2012.

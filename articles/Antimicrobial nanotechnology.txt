@@ -1,0 +1,15 @@
+Antimicrobial nanotechnology is the study of using biofilms to disrupt a microbe's cell membrane, deliver an electric charge to the microbe, and cause immediate cellular death via a "mechanical kill" process, preventing the original microbe from mutating into a superbug. The biofilms are made up of long atomic chains that can breach the cell wall. These spikes are roughly the size of a human hair and are far too small to injure large cells in mammals. These atom chains have a significant positive charge that attracts bacteria that are negatively charged. A new class of antimicrobial has been created by applying nanotechnology to the challenge of superbugs and multiple drug resistance organisms.
+
+Problem statement
+According to a report published in the Archives of Internal Medicine on 22 February 2010, health care–associated infections affect 1.7 million hospitalizations per year.The most prevalent nosocomial infections can live or stay on surfaces for months, posing a continuing transmission risk. On dry surfaces, most gram-positive bacteria, including Enterococcus spp. (including VRE), Staphylococcus aureus (including MRSA), and Streptococcus pyogenes, can persist for months.VRE has been cultured from frequently touched objects and has been found to survive on surfaces for more than three days. Dried cotton fabrics have been shown to support Enterococci that is resistant to vancomycin for up to 18 hours and fungi for more than five days.Nanotechnology antimicrobials are promising because they limit the spread of bacteria by lowering the number of infection agents at frequent contact points (doorknobs, rails, tables, etc.). These new treatments have been certified by the Environmental Protection Agency and are being considered for use in hospitals and other settings where community-acquired illnesses spread quickly, such as cruise ships and jails. Environmental measures and adequate antibiotic use are the first steps in preventing the emergence of superbugs. According to studies, even if a patient does not need an antibiotic, a doctor is considerably more likely to prescribe one if they believe the patient does.
+
+Safety and effects to the environment
+Antimicrobial nanotechnology is an environmentally friendly solution because it is based from water and contains no heavy metals, arsenic, tin, or polychlorinated phenols. According to tests, a garment treated with antimicrobial nanotechnology will degrade in a landfill in 5 years to carbon dioxide, nitrous oxide, and silicon dioxide.
+
+Using a nanotechnology antimicrobial
+Biofilms are being developed as consumer products that can be sprayed or wiped over porous and nonporous surfaces. The microbe resistance of a surface treated with the appropriate antimicrobial nanotechnology can last up to 90 days, or the product's usable life, if protected during the production process.
+On the preventative front, European researchers are developing MRSA-resistant nanotechnology-enhanced textiles that might be utilised in hospital gowns, curtains, bedding, and pillow coverings.
+
+References
+External links
+[1]

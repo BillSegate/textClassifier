@@ -1,0 +1,39 @@
+Aarskog–Scott syndrome (AAS) is a rare disease inherited as X-linked and characterized by short stature, facial abnormalities, skeletal and genital anomalies. This condition mainly affects males, although females may have mild features of the syndrome.
+
+Signs and symptoms
+People with Aarskog–Scott syndrome often have distinctive facial features, such as widely spaced eyes (hypertelorism), a small nose, a long area between the nose and mouth (philtrum), and a widow's peak hairline. They frequently have mild to moderate short stature during childhood, but their growth usually catches up with that of their peers during puberty. Hand abnormalities are common in this syndrome and include short fingers (brachydactyly), curved pinky fingers (fifth finger clinodactyly), webbing of the skin between some fingers (cutaneous syndactyly), and a single crease across the palm. Other abnormalities in people with Aarskog–Scott syndrome include heart defects and a split in the upper lip (cleft lip) with or without an opening in the roof of the mouth (cleft palate).Most males with Aarskog–Scott syndrome have a shawl scrotum, in which the scrotum surrounds the penis instead of hanging below. Less often, they have undescended testes (cryptorchidism) or a soft out-pouching around the belly-button (umbilical hernia) or in the lower abdomen (inguinal hernia).The intellectual development of people with Aarskog–Scott syndrome varies widely. Some may have mild learning and behavior problems, while others have normal intelligence. In rare cases, severe intellectual disability has been reported.
+
+Genetics
+Mutations in the FGD1 gene are the only known genetic cause of Aarskog-Scott syndrome. The FGD1 gene provides instructions for making a protein that turns on (activates) another protein called Cdc42, which transmits signals that are important for various aspects of development before and after birth.Mutations in the FGD1 gene lead to the production of an abnormally functioning protein. These mutations disrupt Cdc42 signaling, leading to the wide variety of abnormalities that occur in people with Aarskog-Scott syndrome.Only about 20 percent of people with this disorder have identifiable mutations in the FGD1 gene. The cause of Aarskog-Scott syndrome in other affected individuals is unknown.
+
+Pathophysiology
+The Aarskog–Scott syndrome is due to mutation in the FGD1 gene. FGD1 encodes a guanine nucleotide exchange factor (GEF) that specifically activates Cdc42, a member of the Rho (Ras homology) family of the p21 GTPases. By activating Cdc42, FGD1 protein stimulates fibroblasts to form filopodia, cytoskeletal elements involved in cellular signaling, adhesion, and migration. Through Cdc42, FGD1 protein also activates the c-Jun N-terminal kinase (JNK) signaling cascade, a pathway that regulates cell growth, apoptosis, and cellular differentiation.Within the developing mouse skeleton, FGD1 protein is expressed in precartilaginous mesenchymal condensations, the perichondrium and periosteum, proliferating chondrocytes, and osteoblasts. These results suggest that FGD1 signaling may play a role in the biology of several different skeletal cell types including mesenchymal prechondrocytes, chondrocytes, and osteoblasts. The characterization of the spatiotemporal pattern of FGD1 expression in mouse embryos has provided important clues to the understanding of the pathogenesis of Aarskog–Scott syndrome.It appears likely that the primary defect in Aarskog–Scott syndrome is an abnormality of FGD1/Cdc42 signaling resulting in anomalous embryonic development and abnormal endochondral and intramembranous bone formation.
+
+Diagnosis
+Genetic testing may be available for mutations in the FGDY1 gene. Genetic counseling is indicated for individuals or families who may carry this condition, as there are overlapping features with fetal alcohol syndrome.Other examinations or tests can help with diagnosis. These can include:
+
+detailed family history
+conducting a detailed physical examination to document morphological features
+testing for genetic defect in FGDY1
+x-rays can identify skeletal abnormalities
+echo cardiogram can screen for heart abnormalities
+CT scan of the brain for cystic development
+X-ray of the teeth
+Ultrasound of abdomen to identify undescended testis
+
+Treatment
+Similar to all genetic diseases Aarskog–Scott syndrome cannot be cured, although numerous treatments exist to increase the quality of life.Surgery may be required to correct some of the anomalies, and orthodontic treatment may be used to correct some of the facial abnormalities. Trials of growth hormone have been effective to treat short stature in this disorder.
+
+Prognosis
+Some people may have some mental slowness, but children with this condition often have good social skills. Some males may have problems with fertility.
+
+History
+The syndrome is named for Dagfinn Aarskog, a Norwegian pediatrician and human geneticist who first described it in 1970, and for Charles I. Scott, Jr., an American medical geneticist who independently described the syndrome in 1971.
+
+References
+Jones, Kenneth Lyons (2005). Smith's Recognizable Patterns of Human Malformation (6th ed.). Philadelphia: WB Saunders. ISBN 978-0-7216-2359-7.
+Orrico A.; Galli L.; Cavaliere ML.; et al. (2004). "Phenotypic and molecular characterisation of the Aarskog–Scott syndrome: a survey of the clinical variability in light of FGD1 mutation analysis in 46 patients". Eur. J. Hum. Genet. 12 (1): 16–23. doi:10.1038/sj.ejhg.5201081. PMID 14560308.
+
+External links
+Aarskog–Scott syndrome, detailed up-to-date information in OMIM (Online Mendelian Inheritance in Man)
+Aarskog's syndrome at Who Named It?

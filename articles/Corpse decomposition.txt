@@ -1,0 +1,52 @@
+Decomposition is the process in which the organs and complex molecules of animal and human bodies break down into simple organic matter over time. In vertebrates, five stages of decomposition are typically recognized: fresh, bloat, active decay, advanced decay, and dry/skeletonized.  Knowing the different stages of decomposition can help investigators in determining the post-mortem interval (PMI). The rate of decomposition of human remains can vary due to environmental factors and other factors. Environmental factors include temperature, burning, humidity, and the availability of oxygen. Other factors include body size, clothing, and the cause of death.
+
+Stages and characteristics
+The five stages of decomposition—fresh (aka autolysis), bloat, active decay, advanced decay, and dry/skeletonized—have specific characteristics that are used to identify which stage the remains are in. These stages are illustrated by reference to an experimental study of the decay of a pig corpse.
+
+Fresh
+At this stage the remains are usually intact and free of insects. The corpse progresses through algor mortis (a reduction in body temperature until ambient temperature is reached), rigor mortis (the temporary stiffening of the limbs due to chemical changes in the muscles), and livor mortis (pooling of the blood on the side of the body that is closest to the ground).
+
+Bloat
+At this stage, the microorganisms residing in the digestive system begin to digest the tissues of the body, excreting gases that cause the torso and limbs to bloat, and producing foul-smelling chemicals including putrescine and cadaverine. Cells in tissues break down and release hydrolytic enzymes, and the top layer of skin may become loosened, leading to skin slippage.: 153–162  Decomposition of the gastrointestinal tract results in a dark, foul-smelling liquid called "purge fluid" that is forced out of the nose and mouth due to gas pressure in the intestine.: 155  The bloat stage is characterized by a shift in the bacterial population from aerobic to anaerobic bacterial species.
+
+Active decay
+At this stage, the tissues begin to liquify and the skin will start to blacken. Blowflies target decomposing corpses early on, using specialized smell receptors, and lay their eggs in orifices and open wounds. The size and development stage of maggots can be used to give a measure of the minimum time since death.: 251–252  Insect activity occurs in a series of waves, and identifying the insects present can give additional information on the postmortem interval. Adipocere, or corpse wax, may be formed, inhibiting further decomposition.: 16–18
+
+Advanced decay
+During advanced decay, most of the remains have discolored and often blackened. Putrefaction, in which tissues and cells break down and liquidize as the body decays, will be almost complete. A decomposing human body in the earth will eventually release approximately 32 g (1.1 oz) of nitrogen, 10 g (0.35 oz) of phosphorus, 4 g (0.14 oz) of potassium, and 1 g (0.035 oz) of magnesium for every kilogram of dry body mass, making changes in the chemistry of the soil around it that may persist for years.
+
+Dry/skeletonized remains
+Once bloating has ceased, the soft tissue of remains typically collapses in on itself. At the end of active decay, the remains are often dried out and begin to skeletonize.
+
+Environmental factors
+Temperature
+The climate and temperature in which a corpse decomposes can have great effect on the rate of decomposition. Higher temperatures will speed up the rate of decomposition as it accelerates the physiological reactions in the body after death. Cooler temperatures will slow the rate of decomposition. Sunlight availability will also influence the temperature and, as a result, influence decomposition. When there is more sunlight available this will facilitate decomposition whereas shaded areas can slow down decomposition.
+
+Humidity
+The amount of moisture in the environment in which a corpse decomposes also has an effect on the rate of decomposition. Humid environments will speed up the rate of decomposition and will influence adipocere formation. In contrast, more arid environments will dry up faster but will overall decompose more slowly.
+
+Oxygen availability
+Whether the corpse is in a more anaerobic or aerobic environment will also influence the rate of decomposition. The more oxygen there is available the more rapid decomposition will take place. This is because the microorganisms required for decomposition require oxygen to live and thus facilitate decomposition. Lower oxygen levels will have the opposite effect.
+
+Burial
+Burial postpones the rate of decomposition, in part because even a few inches of soil covering the corpse will prevent blowflies from laying their eggs on the corpse. The depth of burial will influence the rate of decomposition as it will deter decomposers such as scavengers and insects. This will also lower the available oxygen and impede decomposition as it will limit the function of microorganisms. The pH of the soil will also be a factor when it comes the rate of decomposition, as it influences the types of decomposers. Moisture in soil will also slow down decomposition as it facilitates anaerobic metabolism.
+
+Wet environments
+Submersion in water typically slows decomposition. The rate of loss of heat is higher in water and the progression through algor mortis is therefore faster. Cool temperatures slow bacterial growth. Once bloat begins, the body will typically float to the surface and become exposed to flies. Scavengers in the water, which vary with the location, also contribute to decay. Factors affecting decomposition include water depth, temperature, tides, currents, seasons, dissolved oxygen, geology, acidity, salinity, sedimentation, and insect and scavenging activity. Human remains found in aquatic surroundings are often incomplete and poorly preserved, making investigating the circumstances of death much more difficult.
+If a person has drowned, the body will likely initially submerge and go into a position that has been named "the drowning position." This position is when the front of the body is face down in the water, with their extremities reaching down towards the bottom of the body of water. Their back is typically slightly arched down and inwards. This position is important to note as when this occurs in shallow water their extremities may drag across the bottom of the body of the water, leaving injuries. After death, when a body is submerged in water a process called  Saponification occurs. This is the process in which adipocere is formed. Adipocere is a wax-like substance that covers bodies created by the hydrolysis of triglycerides in adipose tissue. This occurs mainly in submersion, burial environments or areas with lots of carbon but has been noted in marine environments.
+
+Other factors
+Body size
+Body size is an important factor that will also influence the rate of decomposition. A larger body mass and more fat will decompose more rapidly. This is because after death, fats will liquify, accounting for a large portion of decomposition. People with a lower fat percentage will decompose more slowly. This includes smaller adults and especially children.
+
+Clothing
+Clothing and other types of coverings affect the rate of decomposition because it limits the body's exposure to external factors such as weathering and soil. It slows decomposition by delaying scavenging by animals. However, insect activity would increase since the wrapping will harbor more heat and protection from the sun, providing an ideal environment for maggot growth which facilitates organic decay.
+
+Cause of death
+The cause of death can also influence the rate of decomposition, mainly by speeding it up. Fatal wounds like stab wounds or other lacerations on the body attract insects as it provides a good spot to oviposit and, as a result, could increase the rate of decomposition.
+
+Experimental analysis of decomposition on corpse farms
+Corpse farms are used to study the decay of the human body and to gain insight into how environmental and endogenous factors affect progression through the stages of decomposition. In summer, high temperatures can accelerate the stages of decomposition: heat encourages the breakdown of organic material, and bacteria also grow faster in a warm environment, accelerating bacterial digestion of tissue. However, natural mummification, normally thought of as a consequence of arid conditions, can occur if the remains are exposed to intense sunlight. In winter, not all bodies go through the bloat stage. Bacterial growth is much reduced at temperatures below 4 °C. Corpse farms are also used to study the interactions of insects with decaying bodies.
+
+
+== References ==

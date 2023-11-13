@@ -1,0 +1,9 @@
+In medicine, a sequence is a series of ordered consequences due to a single cause.It differs from a syndrome in that seriality is more predictable: if A causes B, and B causes C, and C causes D, then D would not be seen if C is not seen. However, in less formal contexts, the term "syndrome" is sometimes used instead of sequence.
+Examples include:
+
+oligohydramnios sequence (also known as Potter sequence)
+Pierre Robin sequence
+Poland sequence
+
+
+== References ==

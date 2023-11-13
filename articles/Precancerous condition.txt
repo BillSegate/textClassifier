@@ -1,0 +1,63 @@
+A precancerous condition is a condition, tumor or lesion involving abnormal cells which are associated with an increased risk of developing into cancer. Clinically, precancerous conditions encompass a variety of abnormal tissues with an increased risk of developing into cancer. Some of the most common precancerous conditions include certain colon polyps, which can progress into colon cancer, monoclonal gammopathy of undetermined significance, which can progress into multiple myeloma or myelodysplastic syndrome.  and cervical dysplasia, which can progress into cervical cancer. Bronchial premalignant lesions can progress to squamous cell carcinoma of the lung.Pathologically, precancerous tissue can range from benign neoplasias, which are tumors which don't invade neighboring normal tissues or spread to distant organs, to dysplasia, a collection of highly abnormal cells which, in some cases, has an increased risk of progressing to anaplasia and invasive cancer which is life-threatening. Sometimes, the term "precancer" is also used for carcinoma in situ, which is a noninvasive cancer that has not grown and spread to nearby tissue, unlike the invasive stage. As with other precancerous conditions, not all carcinoma in situ will become an invasive disease but is at risk of doing so.
+
+Classification
+The term precancerous or premalignant condition may refer to certain conditions, such as monoclonal gammopathy of unknown significance, or to certain lesions, such as colorectal adenoma (colon polyps), which have the potential to progress into cancer (see: Malignant transformation). Premalignant lesions are morphologically atypical tissue which appear abnormal when viewed under the microscope, and which are more likely to progress to cancer than normal tissue. Precancerous conditions and lesions affect a variety of organ systems, including the skin, oral cavity, stomach, colon, lung, and hematological system. Some authorities also refer to hereditary genetic conditions which predispose to developing cancer, such as hereditary nonpolyposis colorectal cancer, as a precancerous condition, as individuals with these conditions have a much higher risk of developing cancer in certain organs.
+
+Signs and symptoms
+The signs and symptoms of precancerous conditions differ based on the organ affected. In many cases, individuals with precancerous conditions do not notice any symptoms. Precancerous conditions of the skin or oral cavity can appear as visible lesions without associated pain or discomfort, while precancerous conditions of the hematological system are typically asymptomatic, and in the case of monoclonal gammopathy of unknown significance, it may only rarely cause numbness and tingling in the hands and feet or difficulty with balance (see: peripheral neuropathy).
+
+Causes
+In most cases, many risk factors for precancerous conditions and lesions are the same risk factors that determines individuals vulnerable to a specific cancer. For example, individuals with cervical or anal infection with oncogenic, or cancer causing, strains of the human papilloma virus (HPV) are at higher risk for cervical and anal cancers, as well as for cervical and anal dysplasia. Similarly, sun or especially UV exposure is an important risk factor for both actinic keratosis which can progress into melanomas as well as skin cancer. Smoking is a risk factor for premalignant (as well as malignant) lung lesions. Hereditary conditions that are risk factors to cancer can also be risk factors to premalignant lesions. However, in many cases, precancerous conditions or lesions can be sporadic and idiopathic in nature, meaning that they are not associated with a hereditary genetic risk factor to the particular cancer, nor with a direct causative agent or other identifiable cause.
+
+Pathophysiology
+The pathophysiology of precancerous lesions is thought to be similar to that of cancer, and also varies depending on the disease site and type of lesion. It is thought that cancer is always preceded by a clinically silent premalignant phase during which many oncogenic genetic and epigenetic alterations accumulate before it is truly malignant. The duration of this premalignant phase can vary from cancer to cancer, disease site to site and from individual to individual. Increasing evidence suggests that the evasion of the immune system occurs in premalignant lesions, and that the nature of the first immune response to these lesions may determine if they progress to cancer or regress to normal tissue.
+
+Examples
+Skin
+actinic keratosis
+Bowen's disease (intraepidermal carcinoma/squamous carcinoma in situ)
+dyskeratosis congenita
+
+Breast
+ductal carcinoma in situ
+lobular carcinoma in situ
+Sclerosing adenosis
+Small duct papilloma
+
+Head and neck/oral
+oral submucous fibrosis
+erythroplakia
+lichen planus (oral)
+leukoplakia
+proliferative verrucous leukoplakia
+stomatitis nicotina
+
+Gastrointestinal
+Barrett's esophagus
+atrophic gastritis
+colon polyp
+Plummer-Vinson syndrome (sideropenic dysphagia)
+hereditary nonpolyposis colorectal cancer
+Ulcerative colitis
+Crohn's diseaseRespiratory
+
+Bronchial premalignant lesions
+
+Gynecological
+cervical dysplasia (cervical intraepithelial neoplasm, CIN)
+vaginal intraepithelial neoplasm (VAIN)
+anal dysplasia (also see: anal cancer)
+lichen sclerosus
+Bowen's disease (penile or vulvar)
+erythroplasia of Queyrat
+
+Urological
+bladder carcinoma in situ
+
+Hematological
+monoclonal gammopathy of unknown significance
+
+References
+
+
+== External links ==

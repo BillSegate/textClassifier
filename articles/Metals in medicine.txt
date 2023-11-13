@@ -1,0 +1,62 @@
+Metals in medicine are used in organic systems for diagnostic and treatment purposes. Inorganic elements are also essential for organic life as cofactors in enzymes called metalloproteins. When metals are scarce or high quantities, equilibrium is set out of balance and must be returned to its natural state via interventional and natural methods.
+
+Toxic metals
+Metals can be toxic in high quantities. Either ingestion or faulty metabolic pathways can lead to metal toxicity (metal poisoning). Sources of toxic metals include cadmium from tobacco, arsenic from agriculture and mercury from volcanoes and forest fires. Nature, in the form of trees and plants, is able to trap many toxins and can bring abnormally high levels back into equilibrium. Toxic metal poisoning is usually treated with some type of chelating agent. Heavy metal poisoning, such as from mercury, cadmium, or lead, is particularly pernicious.
+Examples of specific types of toxic metals include:
+
+Copper: copper toxicity usually presents itself as a side effect of low levels of the protein ceruloplasmin, which normally is involved in copper storage. This is referred to as Wilson’s disease. Wilson's disease is an autosomal recessive genetic disorder whose mutation causes the ATPase that transports copper into bile and ultimately incorporates it into ceruloplasmin to malfunction.
+Plutonium: ever since the nuclear age, plutonium poisoning is a potential danger, especially among nuclear reactor employees; inhalation of Pu dust is particularly dangerous due to its intense alpha particle emission. There have been very few cases of plutonium poisoning.
+Mercury: mercury is usually ingested from agricultural sources or other environmental sources. Mercury poisoning can lead to neurological disease and kidney failure if left untreated.
+Iron: iron toxicity, iron poisoning, or iron overload is well known. Iron does test only very weakly positive for the Ames test for cancer, however, since it is such a strong catalyst and essential for the production of ATP and consequently DNA production, any excess soluble iron is toxic especially over time. Too much iron deposited in tissues or high levels in the blood stream has been successfully linked to a vast majority of human diseases from Alzheimer's to Malaria. In Botany, iron is a severe problem for the irrigation of plants like rice, maize, or wheat in Sub-Saharan Africa whose subterranean water contains excessive amounts of iron which then poisons these crops.
+Lead and cadmium: lead poisoning and cadmium poisoning can lead to gastrointestinal, kidney, and neurological dysfunction. The use of unleaded paints and gas has successfully decreased the number of cases of lead heavy metal poisoning.
+Nickel, chromium, and cadmium: via metal-DNA interactions, these metals can be carcinogenic.
+Nickel: allergies to nickel, particularly from skin to metal contact via jewelry, are common.
+Zinc, cadmium, magnesium, chromium: metal fume fever can be caused by ingestion of the fumes of these metals and leads to flu-like symptoms.
+Beryllium: The risk of beryllium poisoning is relevant to occupational safety and health for metalworkers or ore millers who work with alloys or ores that contain beryllium in greater than trace amounts. For alloys, this means those alloys in which beryllium is intentionally featured, and for ores, it means those pursued for beryllium or those with nonnegligible beryllium co-occurrence.
+
+Biometals
+Homeostasis
+Fluid and electrolyte balance, in which fluid balance and electrolyte balance are intertwined homeostatically, is necessary to health in all organisms. It includes reference ranges for cation concentrations of biometals, which in reference to human medicine and veterinary medicine principally includes those for blood serum ion concentrations in humans and in livestock and pets. Derangements in such fluid and electrolyte balance most often occur in the contexts of dehydration, overexertion, and diarrhea, but they also occur in cancers (most especially in paraneoplastic syndromes), parasitism, inborn errors of metabolism, and several other contexts. Some medical specialties deal especially frequently with electrolyte derangements, including internal medicine and endocrinology (especially in chronic conditions) and intensive care medicine (in severe acute conditions).
+
+Metal anemia
+Humans need a certain amount of certain metals to function normally. Most metals are used as cofactors or prosthetics in enzymes, catalyzing specific reactions and serving essential roles. The essential metals for humans are: Sodium, Potassium, Magnesium, Copper, Vanadium, Chromium, Manganese, Iron, Cobalt, Nickel, Zinc, Molybdenum, and Cadmium. Anemia symptoms are caused by lack of a certain essential metal. Anemia can be associated with malnourishment or faulty metabolic processes, usually caused by a genetic defect.Examples of specific types of metal anemia include:
+
+Iron: common simple anemia (iron deficiency), results in the loss of functional heme proteins (hemoglobin, myoglobin, etc.), which are responsible for oxygen transport or utilization of oxygen. Pernicious anemia comes from a lack of vitamin B-12 (which contains a cobalt complex called cobalamin), which then in turn interferes with the function of red blood cells.
+Zinc: Zinc anemia is mostly due to diet can result in growth retardation.
+Copper: Copper anemia in infants results from infants with a poor diet and can cause heart disease.
+
+Metals in diagnosis
+Metal complexes in nuclear imaging
+Metal ions are often used for diagnostic medical imaging. Metal complexes can be used either for radioisotope imaging (from their emitted radiation) or as contrast agents, for example, in magnetic resonance imaging (MRI). Such imaging can be enhanced by manipulation of the ligands in a complex to create specificity so that the complex will be taken up by a certain cell or organ type.
+Examples of metals used for diagnosis include:
+
+Technetium. 99mTc is the most commonly used radioisotope agent for imaging purposes. It has a short half-life, emits only gamma ray photons, and does not emit beta or alpha particles (which are more damaging to surrounding cells), and thus is particularly suitable as an imaging radioisotope.
+Gadolinium(III), Iron(III), Manganese(II): For MRI imaging paramagnetic metals are needed for contrast imaging. Gadolinium(III), Iron(III), and Manganese(II) are all paramagnetic metals that are able to alter the tissue relaxation times and produce a contrast image.
+Gallium-68 is useful as a positron source for Positron emission tomography.
+Cobalt(III): 57Cobalt(III) is used with the compound bleomycin (BLM) (Figure 1), which is an antibiotic, to selectively be taken up by tumor cells. The use of cobalt results in the best blood-to-tumor distribution ratio, but its half-life is too long to be conducive for imaging purposes. A solution has been proposed to attach an EDTA moiety to the terminal thiazole ring of bleomycin, radiolabeled so that the entire complex can then be traceable. This system could provide tumor locations accurately, leading to earlier detection and more non-invasive procedures in the future.
+
+Metal objects in MRI imaging
+An important contraindication to MRI (magnetic resonance imaging) is having metal objects anywhere near, and most especially inside the field of, the MRI scanner. Not only does this entail that people with implanted metal plates, bone screws (internal fixation), or syndesmotic screws often cannot undergo MRI, it also entails that many everyday objects, including jewelry, belt buckles, wallets, purses, security guards' weapons, and so on, must be kept out of the MRI area.
+
+Metals in treatment
+Metals have been used in treatments since ancient times. The Ebers Papyrus from 1500BC is the first written account of the use of metals for treatment and describes the use of Copper to reduce inflammation and the use of iron to treat anemia. Sodium vanadate has been used since the early 20th century to treat rheumatoid arthritis. Recently metals have been used to treat cancer, by specifically attacking cancer cells and interacting directly with DNA. The positive charge on most metals can interact with the negative charge of the phosphate backbone of DNA. Some drugs developed that include metals interact directly with other metals already present in protein active sites, while other drugs can use metals to interact with amino acids with the highest reduction potential.
+Examples of metals used in treatment include:
+
+Platinum: Platinum based compounds have been shown to specifically affect head and neck tumors. These coordination complexes are thought to act to cross-link DNA in tumor cells (Figure 2).
+Gold: Gold salt complexes have been used to treat rheumatoid arthritis (Figure 3). The gold salts are believed to interact with albumin and eventually be taken up by immune cells, triggering anti-mitochondrial effects and eventually cell apoptosis. This is an indirect treatment of arthritis, mitigating the immune response.
+Lithium: Li2CO3 can be used to treat prophylaxis of manic depressive disorder.
+Zinc: Zinc can be used topically to heal wounds. Zn2+ can be used to treat the herpes virus.
+Silver: Silver has been used to prevent infection at the burn site for burn wound patients.
+Platinum, Titanium, Vanadium, Iron: cis DDP (cis-diaminedichoroplatinum), titanium, vanadium, and iron have been shown to react with DNA specifically in tumor cells to treat patients with cancer.
+Gold, Silver, Copper: Phosphine ligand compounds containing gold, silver, and copper have anti-cancer properties.
+Lanthanum: Lanthanum Carbonate often used under the trade-name Fosrenol is used as a phosphate binder in patients with chronic kidney disease.
+Bismuth: Bismuth subsalicylate is used as an antacid.
+Zirconium: Sodium zirconium cyclosilicate is a potassium binder used in people with chronic kidney disease
+Arsenic: Arsenic trioxide is a chemotherapeutic used to treat acute promyelocytic leukemia
+
+See also
+Titanium biocompatibility
+Biometal
+
+
+== References ==

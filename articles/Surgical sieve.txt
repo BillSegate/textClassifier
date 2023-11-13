@@ -1,0 +1,67 @@
+The surgical sieve is a thought process in medicine. It is a typical example of how to organise a structured examination answer for medical students and physicians when they are challenged with a question. It is also a way of constructing answers to questions from patients and their relatives in a logical manner, and structuring articles and reference texts in medicine. Some textbooks put emphasis on using the surgical sieve as a basic structure of diagnosis and management of illnesses.
+
+Overview
+Although there are several versions around the world with slight variations, the surgical sieve usually consist of the following types of process in the human body in any particular order:
+
+Congenital
+Acquired
+Vascular
+Infective
+Traumatic
+Autoimmune
+Metabolic
+Inflammatory
+Neurological
+Neoplastic
+Degenerative
+Environmental
+UnknownA more extensive, and perhaps more concise mechanism of employing the surgical sieve is using the mnemonic 
+MEDIC HAT PINE:
+
+Metabolic (conditions relating to metabolism, biochemistry, and the like)
+Endocrinological (conditions relating to the various secretory systems within the body)
+Degenerative (conditions relating to age-related destruction of tissue, or stress-related destruction of tissue)
+Inflammatory/Infective (conditions that primarily present in a way that involves the profane activation of the immune system)
+Congenital (conditions present at birth)
+Genetic / inherited (conditions that your family passes on to you)
+Haematological (conditions relating to the blood system, in one way or another)
+Autoimmune (conditions relating to the inappropriate activation of the immune system, in one of many ways)
+Traumatic (conditions relating to a physical impact between two or more objects)
+Psychological (conditions related to a chemical imbalance or a disorder of thought processes)
+Neurological (conditions relating to the nervous system, in one way or another – whether that be the central or peripheral)
+Idiopathic (conditions without a known cause) Iatrogenic (lit. Translation “doctor caused” - or resulting from treatment)
+Neoplastic (conditions relating to cancers)
+Environmental (conditions relating to exposures, and dose-response relationships thereof)
+
+Examples
+What are the causes of an acute confusional state in a patient?
+
+Treatment induced (Iatrogenic): polypharmacy, sedatives, analgesics, steroids, drug withdrawal
+Vascular: stroke, TIA, vascular dementia
+Inflammatory: infection, systemic inflammatory response syndrome
+Traumatic: head injury, Intracranial hemorrhage, shock
+Autoimmune: thyroid disease
+Metabolic: electrolyte imbalance, DKA, hypoglycaemia, SIADH
+Infective: sepsis, local infection
+Neoplastic: brain tumour, carcinomatosis
+Degenerative: Alzheimer's disease, dementiaWhat are the causes of splenomegaly?
+
+Idiopathic: Idiopathic thrombocytopenic purpura
+Vascular: portal vein obstruction, Budd-Chiari syndrome, haemoglobinopathies (Sickle-cell disease, thalassemia)
+Infective: AIDS, mononucleosis, septicaemia, tuberculosis, brucellosis, malaria, infective endocarditis
+Traumatic: haematoma, rupture
+Autoimmune: rheumatoid arthritis, SLE
+Metabolic: Gaucher's disease, mucopolysaccharidoses, amyloidosis, Tangier disease
+Inflammatory: sarcoidosis
+Neoplastic: CML, metastases, myeloproliferative disorders
+
+In popular culture
+The surgical sieve is frequently used by Gregory House, who is a physician in the TV series House in order to diagnose the rare diseases his patients suffer from. In some episodes various forms of the surgical sieve are scribbled on to House's whiteboard while his team struggle to diagnose difficult cases. In the episode 'Paternity' the mnemonic 'MIDNIT' is used to run through the sieve (metabolic, inflammation, degenerative, neoplastic, infection, trauma).
+
+See also
+Trauma surgery
+Hypnosurgery
+Surgery
+
+
+== References ==

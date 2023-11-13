@@ -1,0 +1,45 @@
+Extravasation is the leakage of intravenously (IV) infused, and potentially damaging, medications into the extravascular tissue around the site of infusion. The leakage can occur through brittle veins in the elderly, through previous venipuncture access, or through direct leakage from wrongly positioned venous access devices. When the leakage is not of harmful consequence it is known as infiltration. Extravasation of medication during intravenous therapy is an adverse event related to therapy that, depending on the medication, amount of exposure, and location, can potentially cause serious injury and permanent harm, such as tissue necrosis.  Milder consequences of extravasation include irritation, characterized by symptoms of pain and inflammation, with the clinical signs of warmth, erythema, or tenderness.
+
+Medications
+Complications related to extravasation are possible with any medication. Since vesicants are blistering agents, extravasation may lead to irreversible tissue injury.
+Extravasation is particularly serious during chemotherapy, since chemotherapy medications are highly toxic.
+
+Treatment
+The best "treatment" of extravasation is prevention.  Depending on the medication that has extravasated, there are potential management options and treatments that aim to minimize damage, although the effectiveness of many of these treatments has not been well studied.  In cases of tissue necrosis, surgical debridement and reconstruction may be necessary. The following steps are typically involved in managing extravasation:
+
+Stop infusion immediately. Put on sterile gloves.
+Replace infusion lead with a disposable syringe. While doing this, do not exert pressure on the extravasation area.
+Slowly aspirate back blood back from the arm, preferably with as much of the infusion solution as possible.
+Remove the original cannula or other IV access carefully from the arm (removal of the original cannula is not advised by all healthcare institutions, as access to the original cannula by surgeons can be used to help clean extravasated tissue).
+Elevate arm and rest in elevated position. If there are blisters on the arm, aspirate content of blisters with a new thin needle. Warm compresses should be placed initially on the site to help diffuse the contrast medium, and cold compresses are used later to help reduce the swelling.
+If, for the extravasated medication, substance-specific measures apply, carry them out (e.g. topical cooling, DMSO, hyaluronidase or dexrazoxane may be appropriate).
+Recent clinical trials have shown that Totect (USA) or Savene (Europe) (dexrazoxane for extravasation) is effective in preventing the progression of anthracycline extravasation into progressive tissue necrosis. In two open-label, single arm, phase II multicenter clinical trials, necrosis was prevented in 98% of the patients. Dexrazoxane for extravasation is the only registered antidote for extravasation of anthracyclines (daunorubicin, doxorubicin, epirubicin, idarubicin, etc.).
+The only FDA approved treatment for vasopressor extravasation is phentolamine
+
+Pain management and other measures
+Pain management and local supportive care is important, as it can help to minimize the additional risk of infection and superinfection.
+
+Prevention
+Only qualified, chemotherapy-certified nurses who have been trained in venipuncture and administration of medications with vesicant and irritant potential should be allowed to administer vesicants.
+Choose a large, intact vein with good blood flow for the venipuncture and placement of the cannula. Do not choose inadvertently "dislodgeable" veins (e.g. dorsum of hand or vicinity of joints) if an alternative vein is available.
+The digits, hands, and wrists should be avoided as intravenous sites for vesicant administration because of the close network of tendons and nerves that would be destroyed if an extravasation occurred.
+Place the smallest gauge and shortest length catheter to accommodate the infusion.
+Monitor the venipuncture site closely for evidence of infiltration and instructing patients to report any pain, discomfort, or tightness at the site.
+The IV infusion should be freely flowing. The arm with the infusion should not begin to swell (oedema), "get red" (erythema), "get hot" (local temperature increase), and the patient should not notice any irritation or pain on the arm. If this occurs, extravasation management should be initiated.
+The infusion should consist of a suitable carrier solution with an appropriately diluted medicinal/chemotherapy drug inside.
+After the IV infusion has finished, flush the cannula with the appropriate fluid.
+Finally, depending on clinical circumstances, central line access may be most appropriate for patients who require repeated administrations of vesicants and irritants.
+
+Examples of vesicant medicinal drugs
+List of vesicant and irritant medications:
+
+Cytotoxic drugs
+Non-cytotoxic drugs
+References
+External links
+
+Table of chemotherapy vesicants, irritants, and treatments for extravasation
+Management of chemotherapy extravasation: ESMO–EONS Clinical Practice Guidelines
+UK National Extravasation Information Service
+Iv-therapy.net — links to useful websites about extravasation
+Savene website

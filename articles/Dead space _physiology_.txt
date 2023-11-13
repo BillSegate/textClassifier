@@ -1,0 +1,312 @@
+Dead space is the volume of air that is inhaled that does not take part in the gas exchange, because it either remains in the conducting airways or reaches alveoli that are not perfused or poorly perfused. It means that not all the air in each breath is available for the exchange of oxygen and carbon dioxide. Mammals breathe in and out of their lungs, wasting that part of the inhalation which remains in the conducting airways where no gas exchange can occur.
+
+Components
+Total dead space (also known as physiological dead space) is the sum of the anatomical dead space and the alveolar dead space.
+Benefits do accrue to a seemingly wasteful design for ventilation that includes dead space.
+Carbon dioxide is retained, making a bicarbonate-buffered blood and interstitium possible.
+Inspired air is brought to body temperature, increasing the affinity of hemoglobin for oxygen, improving O2 uptake.
+Particulate matter is trapped on the mucus that lines the conducting airways, allowing its removal by mucociliary transport.
+Inspired air is humidified, improving the quality of airway mucus.In humans, about a third of every resting breath has no change in O2 and CO2 levels. In adults, it is usually in the range of 150 mL.Dead space can be increased (and better envisioned) by breathing through a long tube, such as a snorkel. Although one end of the snorkel is open to the air, when the wearer breathes in, they inhale a significant quantity of air that remained in the snorkel from the previous exhalation. Therefore, a snorkel increases the person's dead space by adding even more airway that does not participate in gas exchange.
+
+Anatomical dead space
+Anatomical dead space is the volume of the conducting airways (from the nose, mouth and trachea to the terminal bronchioles). These conduct gas to the alveoli but no gas exchange occurs here. In healthy lungs where the alveolar dead space is small, Fowler's method accurately measures the anatomic dead space using a single breath nitrogen washout technique.The normal value for dead space volume (in mL) is approximately the lean mass of the body (in pounds), and averages about a third of the resting tidal volume (450-500 mL). In Fowler's original study, the anatomic dead space was 156 ± 28 mL (n=45 males) or 26% of their tidal volume. Despite the flexibility of the trachea and smaller conducting airways, their overall volume (i.e. the anatomic dead space) changes little with bronchoconstriction or when breathing hard during exercise.As birds have a longer and wider trachea than mammals the same size, they have a disproportionately large anatomic dead space, reducing the airway resistance. This adaptation does not impact gas exchange because birds flow air through their lungs - they do not breathe in and out like mammals.
+
+Alveolar dead space
+Alveolar dead space is defined as the difference between the physiologic dead space and the anatomic dead space. It is contributed to by all the terminal respiratory units that are over-ventilated relative to their perfusion. Therefore it includes, firstly those units that are ventilated but not perfused, and secondly those units which have a ventilation-perfusion ratio greater than one. 
+Alveolar dead space is negligible in healthy individuals, but it can increase dramatically in some lung diseases due to ventilation-perfusion mismatch.
+
+Calculating
+Just as dead space wastes a fraction of the inhaled breath, dead space dilutes alveolar air during exhalation. By quantifying this dilution, it is possible to measure physiological dead space, employing the concept of mass balance, as expressed by the Bohr equation.
+
+  
+    
+      
+        
+          
+            
+              V
+              
+                d
+              
+            
+            
+              V
+              
+                t
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                P
+                
+                  a
+                  
+                  
+                    
+                      CO
+                      
+                        2
+                      
+                      
+                        
+                      
+                    
+                  
+                
+              
+              −
+              
+                P
+                
+                  e
+                  
+                  
+                    
+                      CO
+                      
+                        2
+                      
+                      
+                        
+                      
+                    
+                  
+                
+              
+            
+            
+              P
+              
+                a
+                
+                
+                  
+                    CO
+                    
+                      2
+                    
+                    
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {V_{d}}{V_{t}}}={\frac {P_{a\,{\ce {CO2}}}-P_{e\,{\ce {CO2}}}}{P_{a\,{\ce {CO2}}}}}}
+  
+where 
+  
+    
+      
+        
+          V
+          
+            d
+          
+        
+      
+    
+    {\displaystyle V_{d}}
+   is the dead space volume and 
+  
+    
+      
+        
+          V
+          
+            t
+          
+        
+      
+    
+    {\displaystyle V_{t}}
+   is the tidal volume;
+
+  
+    
+      
+        
+          P
+          
+            a
+            
+            
+              
+                CO
+                
+                  2
+                
+                
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle P_{a\,{\ce {CO2}}}}
+   is the partial pressure of carbon dioxide in the arterial blood, and
+
+  
+    
+      
+        
+          P
+          
+            e
+            
+            
+              
+                CO
+                
+                  2
+                
+                
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle P_{e\,{\ce {CO2}}}}
+   is the partial pressure of carbon dioxide in the mixed expired (exhaled) air.
+
+Physiological dead space
+The Bohr equation is used to measure physiological dead space. Unfortunately, the concentration of carbon dioxide (CO2) in alveoli is required to use the equation but this is not a single value as the ventilation-perfusion ratio is different in different lung units both in health and in disease. In practice, the arterial partial pressure of CO2 is used as an estimate of the average alveolar partial pressure of CO2, a modification introduced by Henrik Enghoff in 1938 (Enghoff H. Volumen inefficax. Bemerkungen zur Frage des schadlichen Raumes. Upsala Läkarefören Forhandl., 44:191-218, 1938). In effect, the single arterial pCO2 value averages out the different pCO2 values in the different alveoli, and so makes the Bohr equation useable. 
+The quantity of CO2 exhaled from the healthy alveoli is diluted by the air in the conducting airways (anatomic dead space) and by gas from alveoli that are over-ventilated in relation to their perfusion. This dilution factor can be calculated once the mixed expired pCO2 in the exhaled breath is determined (either by electronically monitoring the exhaled breath or by collecting the exhaled breath in a gas impermeant bag (a Douglas bag) and then measuring the pCO2 of the mixed expired gas in the collection bag). Algebraically, this dilution factor will give us the physiological dead space as calculated by the Bohr equation:
+
+  
+    
+      
+        
+          
+            
+              V
+              
+                physiological
+                
+                dead
+                
+                space
+              
+            
+            
+              V
+              
+                t
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                P
+                
+                  a
+                  
+                  
+                    
+                      CO
+                      
+                        2
+                      
+                      
+                        
+                      
+                    
+                  
+                
+              
+              −
+              
+                P
+                
+                  mixed
+                  
+                  expired
+                  
+                  
+                    CO
+                    
+                      2
+                    
+                    
+                      
+                    
+                  
+                
+              
+            
+            
+              P
+              
+                a
+                
+                
+                  
+                    CO
+                    
+                      2
+                    
+                    
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {V_{\ce {physiological\,dead\,space}}}{V_{t}}}={\frac {P_{a\,{\ce {CO2}}}-P_{\ce {mixed\,expired\,CO2}}}{P_{a\,{\ce {CO2}}}}}}
+
+Alveolar dead space
+The alveolar dead space is determined as the difference between the physiological dead space (measured using the Enghoff modification of the Bohr equation) and the anatomic dead space (measured using Fowler's single breath technique). 
+A clinical index of the size of the alveolar dead space is the difference between the arterial partial pressure of CO2 and the end-tidal partial pressure of CO2.
+
+Anatomic dead space
+A different maneuver is employed in measuring anatomic dead space: the test subject breathes all the way out, inhales deeply from a 0% nitrogen gas mixture (usually 100% oxygen) and then breathes out into equipment that measures nitrogen and gas volume. This final exhalation occurs in three phases. The first phase (phase 1) has no nitrogen as that is gas that is 100% oxygen in the anatomic dead space. The nitrogen concentration then rapidly increases during the brief second phase (phase 2) and finally reaches a plateau in the third phase (phase 3). The anatomic dead space is equal to the volume exhaled during the first phase plus the volume up to the mid-point of the transition from phase 1 to phase 3.
+
+Ventilated patient
+The depth and frequency of our breathing is determined by chemoreceptors and the brainstem, as modified by a number of subjective sensations. When mechanically ventilated using a mandatory mode, the patient breathes at a rate and tidal volume that is dictated by the machine.
+Because of dead space, taking deep breaths more slowly (e.g. ten 500 ml breaths per minute) is more effective than taking shallow breaths quickly (e.g. twenty 250 ml breaths per minute). Although the amount of gas per minute is the same (5 L/min), a large proportion of the shallow breaths is dead space, and does not allow oxygen to get into the blood.
+
+Mechanical dead space
+Mechanical dead space is dead space in an apparatus in which the breathing gas must flow in both directions as the user breathes in and out, increasing the necessary respiratory effort to get the same amount of usable air or breathing gas, and risking accumulation of carbon dioxide from shallow breaths. It is in effect an external extension of the physiological dead space.
+It can be reduced by:
+
+Using separate intake and exhaust passages with one-way valves placed in the mouthpiece. This limits the dead space to between the non return valves and the user's mouth or nose. The additional dead space can be minimized by keeping the volume of this external dead space as small as possible, but this should not unduly increase the work of breathing.
+With a full face mask or demand diving helmet:
+Keeping the inside volume small
+Having a small internal orinasal mask inside the main mask, which separates the external respiratory passage from the rest of the mask interior.
+In a few models of full face mask a mouthpiece like those used on diving regulators is fitted, which has the same function as an orinasal mask, but can further reduce the volume of the external dead space, at the cost of forcing mouth-breathing (and acting like a gag, preventing clear talking).
+
+See also
+Bohr equation – Equation describing the amount of physiological dead space in a person's lungs
+Christian Bohr – Danish physician and professor of physiology
+Multiple inert gas elimination technique – Medical technique
+Respiratory system – Biological system in animals and plants for gas exchange
+
+References
+Further reading
+Arend Bouhuys. 1964. "Respiratory dead space." in Handbook of Physiology. Section 3: Respiration. Vol 1. Wallace O. Fenn and Hermann Rahn (eds). Washington: American Physiological Society.
+John B. West. 2011. Respiratory Physiology: The Essentials. Lippincott Williams & Wilkins; Ninth edition. ISBN 978-1609136406.
+
+External links
+The Dead space page on Johns Hopkins School of Medicine Interactive Respiratory Physiology website.

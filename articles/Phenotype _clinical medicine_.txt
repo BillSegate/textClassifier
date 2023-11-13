@@ -1,0 +1,14 @@
+In a nosological sense, the term phenotype can be used in clinical medicine for speaking about the presentation of a disease. The complementary concept in this regard is endotype, which refers to the pathogenesis of the disease ignoring its presentation.In this context, a phenotype would be any observable characteristic or trait of a disease, such as morphology, development, biochemical or physiological properties, or behavior, without any implication of a mechanism. A clinical phenotype would be the presentation of a disease in a given individual.Some organizations have their own specialised meaning. For example, the term 'phenotype' in the field of chronic obstructive pulmonary disease (COPD) means "a single or combination of disease attributes that describe differences between individuals with COPD as they relate to clinically meaningful outcomes", but nearly all specialities use this meaning in some way, like in asthma research.
+
+Etymology
+The word phenotype comes from Greek  phainein 'to show', and  typos 'type'. Normally it refers to the presentation of a trait in an individual, but in this case it means the presentation of a disease entity.
+
+See also
+Clinical case definition
+Clinical disease
+Component causes
+Heterogeneous condition
+Syndrome
+
+
+== References ==

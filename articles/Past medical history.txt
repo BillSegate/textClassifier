@@ -1,0 +1,66 @@
+In a medical encounter, a past medical history (abbreviated PMH) is the total sum of a patient's health status prior to the presenting problem.
+
+Questions to include
+Different sources include different questions to be asked while conducting a PMH, but in general, they include the following:
+
+General state of health: e.g. excellent, good, fair, poor. Note any significant change from previous state.
+Past illnesses: e.g. cancer, heart disease, hypertension, diabetes.
+Hospitalizations: including all medical, surgical, and psychiatric hospitalizations. Note the date, reason, duration for the hospitalization.
+Injuries, or accidents: note the type and date of injury.
+Surgeries: note the type of procedure, date, hospital, surgeon, and any complications.
+Current medications: note name, dosage, frequency of any medication, including any over-the-counter medications and herbal remedies. Note whether patient is taking the medications according to the prescribed instructions.
+Allergies: note any environmental, food, or drug allergies, as well as the specific type of reaction, e.g. anaphylaxis, rash, itching.
+Immunizations: take a careful record of all immunizations, including tetanus, diphtheria, pertussis, polio, Hepatitis B, measles, mumps, rubella, Haemophilus influenzae type B, influenza.
+Substance abuse: note any alcohol, tobacco, and illicit drug use, include type, amount, and duration, as well as any past treatment or drug rehabilitation.
+Diet: ask about everything the patient has eaten the day before and for the past week. Note the type of food consumed and do a nutritional status assessment. Medically, however, this is considered to be a part of social history. Dietary supplements would also be under PMH.
+Sleep: a useful mnemonic for sleep patterns is BEARS, for Bedtime problems (e.g. snoring, sleep apnea, or nightmares), Excessive daytime sleepiness, Awakenings at night, Regularity and duration of sleep, Snoring.
+Alternative therapies: e.g. acupuncture, massage, herbal medicine, vitamins, chiropractice.
+Obstetric/Gynecologic history (if female): include total number of pregnancies, whether they are full term, preterm, miscarriages, abortions, living, as well as any complications. Include menopause and date.  Include sexual history and any history of sexually transmitted infection.
+Birth history: details of labor and delivery of patient, admission to NICU, maternal fever, duration of rupture of membranes, Apgar scores (particularly import in first three months of life)
+Growth and development: plots of height, weight, and head circumference are standard content for pediatric records, any change in trajectory (e.g. growth plots which cross percentile lines rather than running parallel), developmental mile stones, any IQ or other developmental testing
+
+Acronyms
+Several acronyms have been developed to categorize the appropriate questions to include:
+
+"MMASH", for Medical Illnesses, Medications, Allergies, Surgeries, Hospitalizations.
+"PAM HUGS FOSS", for
+Previous presence of the symptom (same chief complaint)
+Allergies (drugs, foods, chemicals, dust, etc.)
+Medicines (any drugs the patient used)
+Hospitalization for any illness in the past
+Urinary changes (especially if diabetic or elderly)
+Gastrointestinal complaints (diet changes, bowel movements, etc.)
+Sleep pattern (waking up/going to sleep, etc.)
+Family history (similar chief complaints/serious illness)
+OB/GYN history (LMP, abortions, etc.)
+Sexual habits (active/preferences/STD, etc.)
+Social life (job/house/smoking/alcohol, etc.)In prehospital medicine, namely EMS, the acronyms SAMPLE or CHAMPS are used.
+
+Signs/Symptoms
+Allergies
+Medicines (Prescriptions)
+Past Pertinent History
+Last bowel movement/oral intake
+Events leading to the current complaint
+Chief Complaint
+History
+Allergies
+Medicines (Prescriptions)
+Previous activity
+Signs/Symptoms
+
+Medicare definitions
+The Centers for Medicare and Medicaid Services has published criteria for what constitutes a reimbursable PMH. A PMH is considered one of three elements of the "Past, Family, and Social History" (abbreviated as PFSH):
+Past medical history: "the patient's past experiences with illnesses, operations, injuries and treatments";
+Family history: "a review of medical events in the patient's family, including diseases which may be hereditary or place the patient at risk";
+Social history: "an age-appropriate review of past and current activities".A pertinent PFSH consists of at least one of the three components; a full PFSH consists of two or three components for an established patient, or all three components for a new patient visit.
+
+See also
+History of present illness
+Medical history
+Medical record
+
+References
+External links
+Overview at medinfo.ufl.edu
+An example of Past Medical History Questionnaire

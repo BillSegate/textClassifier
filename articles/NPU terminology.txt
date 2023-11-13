@@ -1,0 +1,98 @@
+NPU terminology (NPU: Nomenclature for Properties and Units) is a patient centered clinical laboratory terminology for use in the clinical laboratory sciences. Its function is to enable results of clinical laboratory examinations to be used safely across technology, time and geography.  To achieve this, the NPU terminology supplies:
+
+Unique identifiers for types of examined properties of the patient, supporting structured communication and storage of laboratory data in e.g. clinical laboratory reports or electronic health records
+Stable and unambiguous definitions of the types of examined properties, expressed using international nomenclatures, and in accordance with international standards
+Specification of measurement units where relevant
+A structure allowing for secure translation of the definitions into other languages
+
+Purpose
+The purpose of the NPU terminology is to enable patient examination data to be safely transmitted between laboratory information systems, recognized, compared, reused in calculations, extracted for research or statistics, and stored for documentation, without loss of meaning.  It does not cover sampling procedures or methodologies used for determining these data, which may both vary over time.
+The terminology adheres to international standards of metrology, terminology, and health informatics, in particular the International System of Quantities (ISQ) and the International Systems of Units (SI units). It currently includes over 17 000 entries widely covering multiple disciplines in the field of clinical laboratory science including:
+
+Clinical Allergology
+Clinical Chemistry
+Clinical Haematology
+Clinical Immunology and Blood Banking
+Clinical Microbiology
+Clinical Pharmacology
+Molecular Biology and Genetics
+Reproduction and Fertility
+Thrombosis and Haemostasis
+ToxicologyThe NPU terminology is supported by a joint committee (C-SC-NPU) of the International Federation of Clinical Chemistry and Laboratory Medicine (IFCC) and a subcommittee of the International Union of Pure and Applied Chemistry (IUPAC).
+The terminology is freely available for download in its generic version (in English [3]) and various language versions.  The specific syntax and the references to international terminologies, classifications and nomenclatures make the terminology definitions language-independent.
+
+Utility and benefits
+Most countries currently strive to implement eHealth systems for electronic management and communication of healthcare information.  The primary drivers for adoption of Electronic Health Records (EHR) and supporting infrastructure include:
+
+Drive to improve quality of patient care
+Need to contain burgeoning healthcare costs
+Improve accessibility and portability of patient records
+Better source data for epidemiological studiesBefore health records can be successfully communicated and stored there must be a fundamental agreement on the definition for each individual piece of information.  Terminology solutions for describing such "concepts" currently include (but are not limited to) SNOMED CT, LOINC and the NPU.  Key benefits conferred by the NPU terminology include:
+
+Patient-centric definitions, generally independent of changes in technology
+Concepts with references to established international definitions
+Definitions specifying measurement units (with preference for SI) and measured properties
+Consistent with the principles outlined in the International Vocabulary of Metrology (VIM) and Vocabulary for Nominal Properties and Nominal Examinations (VIN)
+Broad membership of guiding NPU committee with extensive expertise in the biological and chemical sciences and the principles of nomenclature.
+
+Governance
+The NPU Terminology is owned by both the IFCC and IUPAC. It is governed by the NPU Steering Committee, which consists of representatives from key NPU stakeholders including IFCC, IUPAC, C-SC-NPU, and countries with recognized national release centers.
+
+Terminology structure
+Each NPU entry holds a structured definition of the 'result type' it identifies. 
+The definitions are expressed using well established concepts and terms from the field of laboratory medicine. References to internationally acknowledged classifications, nomenclatures and terminologies are filed where possible. This ensures that the definitions are unambiguous, and that the meaning of each concept will remain stable and accessible over time.
+The definition structure is based on the scientific concept of 'examination' – an examination studies one or more properties of a system (a delimited part of the universe).  In a clinical laboratory terminology such as the NPU terminology the system of interest is assumed to be (part of) the patient or the environment, and the NPU definition structure states:
+
+The system studied – the part of the patient that is the object of the examination (blood plasma, pituitary gland, skin, kidney, whole body)
+The component – the specific part or process that is of interest in the system studied (glucose, hormone secretion, bacteria, urine excretion)
+The kind-of-property -  (amount-of-substance concentration, secretion rate, number, volume)
+An SI unit or WHO where relevant – (for measurable properties, i.e. differential or rational [not ordinal] quantities).These statements are ordered in a fixed syntax:
+
+     System—Component; kind of property 
+(a unit is added where relevant, and specifications to each statement may also be added as needed)
+
+Examples
+Body temperature of a patient
+           NPU08676 Patient—Body; Celsius temperature = ? degree Celsius
+
+     Erythrocyte cell count in patient blood
+           NPU01960 Blood—Erythrocytes; number concentration = ? x 1012 per litre
+
+     Concentration of 'Glycoprotein hormones alpha chain' in patient blood plasma
+           NPU28109 Plasma—Glycoprotein hormones alpha chain; mass concentration = ? microgram per litre
+
+The identifying NPU codes may be used as identifiers with local terms, but a systematically shortened form of the NPU definition is available and is frequently used as a "name" in laboratory reports, for example:
+
+     Pt—Body; temp. = ? °C (Code: NPU08676)
+
+     B—Erythrocytes; num.c. = ? × 1012/L (Code: NPU01960)
+
+     P—Glycoprotein hormones alpha chain; mass c. = ? μg/L (Code: NPU28109)
+
+External referencing for NPU concepts
+A key benefit of the NPU terminology is clear definition of terms.  Codes are generally only applied where a clear external database reference is available for unequivocal definition of terms.
+
+     Example 1:  In the items listed above,  the reference for 'Blood' is 'Medical Subject Headings database (MESH), ID D001769' which gives the definition:
+     "The body fluid that circulates in the vascular system (BLOOD VESSELS). Whole blood includes PLASMA and BLOOD CELLS."
+
+     Example 2:  The reference for 'Glycoprotein hormones alpha chain' is UniProt Protein Knowledgebase, ID P01215, which besides a set of synonyms and a reference to the corresponding gene  gives the full sequence of the protein.
+
+Translation of NPU definitions
+The English NPU definition structure allows for easy and reliable translation of the NPU definitions into other languages; translating each term in the structured NPU definition into another language will produce a valid definition in that language. The concept behind each term in the definition can be determined and agreed on by accessing the international code assigned to that term. The place of the concept in the syntax assigns the specific meaning of the concept in relation to the examination result.
+Translations of the NPU terminology are directly available in Danish and Swedish. The terminology has been structured such that translations into other languages is straightforward.
+
+NPU foundations
+C-NPU has been managing the development of structured definitions for laboratory result information for the IFCC and IUPAC and making recommendations through papers, recommendations, and technical reports.  These mostly joint documents are available from the old IUPAC website [Y].
+
+While these documents formed the foundation for NPU entries applying to each scientific discipline, subsequent additions in the last decade have consisted primarily of "User driven" requests.  The day-to-day administration of the NPU Terminology has for many years been carried out by representatives from the Danish Board of Health with input from the advising NPU committee.  The NPU terminology is in nationwide use in laboratories, messages and national registers in Denmark and Sweden (which were also heavily involved in the initial development of the terminology), and in sporadic use in several other European countries.  In 2014, Norway declared the NPU terminology mandatory on a national scale for most clinical laboratory fields.
+
+References
+Nordin G, Dybkaer R.  Recommendation for term and measurement unit for "HbA1c".  Clin Chem Lab Med 2007; 45(8):1081-2.
+Summary of NPU definition publications
+
+See also
+IHTSDO
+SNOMED CT
+LOINC
+René Dybkær:  "An Ontology on Property for Physical, Chemical and Biological Systems"
+Berzell M., "Electronic Healthcare Ontologies:  Philosophy, the real world and IT structures"

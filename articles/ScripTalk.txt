@@ -1,0 +1,19 @@
+ScripTalk is an audible medication label technology designed to give access to individuals who are blind, visually impaired, or print impaired. It consists of a device and a microchip attached to the bottom of a prescription drug bottle. The label information is encoded on a Radio-frequency identification (RFID) electronic label (microchip) using the ScriptAbility software by a pharmacist and placed on the prescription package. ScripTalk prescription labels were introduced in the early 2000s. As of 2020, the technology was applied through the United States and Canada.
+
+Background
+In 1996, Philip Raistrick and David Raistrick founded En-Vision America, which is now based in Palmetto, FL. In 2000, the father and son invented and patented the Audible Prescription Reading Device and Labeling System for individuals who are visually impaired or print impaired. Shortly thereafter, the United States Department of Veterans Affairs (VA) began to test the technology for blinded veterans. ScripTalk was approved for use by the VA in 2004 and began being integrated in VA hospitals across the US.In 2012, Walmart introduced the ScripTalk service through a pilot program. and by 2019, the company was rolling out the ScripTalk service throughout all Walmart and Sam's Club locations and via mail orders. Among other pharmacy and retail chains that have integrated ScripTalk are CVS, Costco, Albertsons, Kaiser Permanente, Veteran's Administration, Winn Dixie and more. In February 2020, the ScripTalk technology was rolling out in Canada through Empire Company Limited, parent company to Sobeys, at its 420 pharmacy locations throughout the country, including Sobeys, Safeway, IGA, Foodland, Farm Boy, FreshCo, Thrifty Foods and Lawtons Drug.A number of the states in the US, including Oregon and Nevada introduced laws obliging pharmaceutical companies to supply blind and visually impaired patients with the prescription reading devices such as ScripTalk. The RFID ScripTalk label technology was granted a number of patents by the United States Patent and Trademark Office.
+
+Technology
+The technology is designed for visually impaired people with the purpose to reduce risks for at-home medication errors, such as confusing medications, swallowing the wrong pill, ingesting expired medications, or missing a refill. ScripTalk consists of three main components: an Audible Prescription Reading Device (APRD) or ScripTalk Station Reader, radio-frequency identification (RFID) microchip label and supporting software.
+RFID microchip is encoded with the prescription data by the pharmacist and affixed to the bottom of the prescription bottle or package.
+APRD reads from the microchip prescription label information, including drug name, dosage, instructions, warnings, pharmacy information, doctor name, prescription number, and fill/refill dates.
+ScripTalk software runs HTML web pages with the prescription information on the PC.In 2019, the company also released ScripTalk Mobile app that runs on iOS and Android devices with installed Near Field Communication (NFC) technology to read ScripTalk Talking Labels without APRD.
+
+See also
+Health technology
+Prescription drug
+Prescription analytics
+List of abbreviations used in medical prescriptions
+
+
+== References ==

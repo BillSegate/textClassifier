@@ -1,0 +1,42 @@
+Nosology (from Ancient Greek  νόσος (nosos) 'disease', and  -λογία (-logia) 'study of') is the branch of medical science that deals with the classification of diseases.  Fully classifying a medical condition requires knowing its cause (and that there is only one cause), the effects it has on the body, the symptoms that are produced, and other factors.  For example, influenza is classified as an infectious disease because it is caused by a virus, and it is classified as a respiratory infection because the virus infects and damages certain tissues in the respiratory tract.  The more that is known about the disease, the more ways the disease can be classified nosologically.
+Nosography is a description whose primary purpose is enabling a diagnostic label to be put on the situation.  As such, a nosographical entity need not have a single cause.  For example, inability to speak due to advanced dementia and an inability to speak due to a stroke could be nosologically different but nosographically the same.
+
+Types of classification
+Diseases may be classified by cause, pathogenesis (mechanism by which the disease progresses), or by symptom(s).Alternatively, diseases may be classified according to the organ system involved, though this is often complicated since many diseases affect more than one organ.
+Traditionally diseases were defined as syndromes by their symptoms. When more information is available, they are also defined by the damage they produce. When cause is known, they are better defined by their cause, though still important are their characteristics. This leads to a branching differentiation in which a clinical syndrome (pattern of signs and symptoms) can come to be understood as a nonspecific finding shared by a group of disease entities or endotypes. For example, concepts such as murrain and the grippe that were formerly undifferentiable to humans and thus understood as a single disease later can be logically unraveled as separate diseases with similar clinical presentations. Thus, nosology is dynamic, reclassifying as science advances.The advent of molecular biology brought a further reclassification potential with the concept of molecularly defined diseases, defined by their molecular characteristics. This concept was introduced in 1949, with the seminal paper, "Sickle Cell Anemia, a Molecular Disease", in Science magazine, Linus Pauling, Harvey Itano and their collaborators laid the groundwork for establishing the field of molecular medicine. Molecular medicine, in concert with genetics and genomics as aspects of molecular biology, provided new instances of the theme that clinical presentations that humans formerly interpreted as a single disease can be subclassified into a group of disease entities or endotypes. For example, many OMIM database entries show the pattern of disease name XYZ with types identified as XYZ1 (involving sequence variants in gene A), XYZ2 (involving sequence variants in gene B), XYZ3 (involving sequence variants in gene C), XYZ4 (involving sequence variants in both genes B and C), and so on.
+
+Coding systems
+Several classifications of diseases have been historically proposed, and normally all of them assign a code to every supported disease. Some of them codify diseases following the path of the classification tree, and others like SNOMED use a multifactor classification system.The most known coding system is the World Health Organization ICD-Series, but there are other accepted classifications like DOCLE, NANDA or SNOMED. Historically there were others like the Berkson Coding System that are not maintained anymore.There are also coding systems for symptoms present in the diseases and biological findings. They are normally included in medical dictionaries, also with a codification system. Some of them are MeSH (Medical Subject Headings), COSTART (Coding Symbols for Thesaurus of Adverse Reaction Terms) or MedDRA (Medical Dictionary for Regulatory Activities) Other systems like Current Procedural Terminology do not deal directly with diseases but with the related procedures.
+
+Extended nosology and general medical conditions
+In a wide sense, nosology deals not only with diseases, but with any kind of medical condition, like injuries, lesions or disorders.Medical conditions, like diseases, can be defined by cause, pathogenesis (mechanism by which the disease is caused), or by a collection of symptoms, medical signs and biomarkers, particularly when the other two definitions are not available (idiopathic diseases).
+
+From a nosological point of view, medical conditions can be divided in disorders, diseases, syndromes, lesions and injuries, each one with some specific meaning, as listed at Disease § Terminology.
+
+History
+Ancient medical treatises had a variety of different ways of classifying and grouping illnesses. Chinese texts like the Huangdi Neijing categorized diseases by which of the atmospheric influences was believed to be responsible for them. Many ancient Greek, Mesopotamian, Roman, and Egyptian authors categorized diseases by the body parts they affected, while others divided diseases into acute or chronic illnesses. Mental disorders were classified into categories like mania and paranoia by Hippocrates, and this system was utilized by later authors like Najib ad-Din Samarqandi.Many popular ancient disease classification systems largely relied upon humorism, which carried over into medieval times. Early attempts to develop more comprehensive approaches to the classification of diseases were made by Jean Fernel in the 16th century. Early modern nosological efforts grouped diseases by their symptoms, whereas modern systems focus on grouping diseases by the anatomy and cause involved.
+In the 17th century, the English physician Thomas Sydenham was the first to propose a syndrome-based classification of diseases. For Sydenham a disease and a syndrome were equivalent concepts.In the 18th century, the taxonomist Carl Linnaeus, Francois Boissier de Sauvages, and psychiatrist Philippe Pinel developed an early classification of physical illnesses. In the late 19th century, Emil Kraepelin and then Jacques Bertillon developed their own nosologies. Bertillon's work, classifying causes of death, was a precursor of the modern code system, the International Classification of Diseases.
+
+Applications
+Nosology is used extensively in public health, to allow epidemiological studies of public health issues.  Analysis of death certificates requires nosological coding of causes of death.
+Nosological classifications are used in medical administration, such as filing of health insurance claims, and patient records.
+
+See also
+Clinical coder
+Diagnosis code
+Differential diagnosis
+International Statistical Classification of Diseases and Related Health Problems (ICD)
+ICD-10 (ICD 10th Revision)
+Medical classification
+Pathology (study of disease)
+Category:Diseases and disorders (Wikipedia's categorization of diseases)
+Symptomatology – study of individual symptoms
+
+References
+Further reading
+Snider, G. L. (2003). "Nosology for Our Day". American Journal of Respiratory and Critical Care Medicine. 167 (5): 678–683. doi:10.1164/rccm.200203-204PP. PMID 12598211.
+C. S. Herrman, "The Bipolar Spectrum", SSRN (Social Science Research Network, 5 August 2010)
+
+External links
+
+International Classification of Diseases (ICD-10) by the World Health Organization

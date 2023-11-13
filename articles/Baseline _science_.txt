@@ -1,0 +1,13 @@
+A baseline in science (including medicine) is the initial conditions found by observation and measurement at the beginning of a survey or clinical trial or which is used for comparison with later data collected during or after the survey or trial to identify and measure changes, often with the intention of assessing the effects of a treatment or procedure.In environmental science a baseline study is necessary to be able to accurately determine impact by monitoring the environment and comparing the changing situation with the initial conditions after development has occurred. In some cases, baseline information already be available from previous surveys, but it may be necessary to gather data in the field.Example: If a patient with kidney failure (whose creatinine is usually 3.0 mg/dL) suddenly has a creatinine of 5.0 mg/dL, then his creatinine is out of his normal.  For that person with kidney failure, absolute normal no longer applies because he will never again be able to obtain an absolutely normal creatinine level (0.5–1.2 mg/dL) with kidneys that no longer function properly.
+
+See also
+1970 ascariasis poisoning incident
+Calibration – Check on the accuracy of measurement devices
+Ground truth – Information provided by direct observation
+Patient zero – First documented patient in the population of an epidemiological investigation
+Wilder's law of initial value
+Treatment and control groups – Part of experimental design
+
+References
+External links
+medterms.com Medical Dictionary

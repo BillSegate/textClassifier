@@ -1,0 +1,4 @@
+An environment-wide association study, also known as an environmental-wide association study (abbreviated EWAS), is a type of epidemiological study analogous to the genome-wide association study, or GWAS. The EWAS systematically examines the association between a complex disease and multiple individual environmental factors, controlling for multiple hypothesis testing.
+
+
+== References ==

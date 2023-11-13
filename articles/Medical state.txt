@@ -1,0 +1,39 @@
+Medical state is a term used to describe a hospital patient's health status, or condition. The term is most commonly used in information given to the news media, and is rarely used as a clinical description by physicians.
+Two aspects of the patient's state may be reported. The first aspect is the patient's current state, which may be reported as "good" or "serious," for instance. Second, the patient's short-term prognosis may be reported. Examples include that the patient is improving or getting worse. If no immediate change is expected, the term stable is  frequently used as a qualifier to denote conditions where a patient has stable vital signs.
+
+United States
+A wide range of terms may be used to describe a patient's condition in the United States. The American Hospital Association advises physicians to use the following one-word conditions in describing a patient's condition to those inquiring, including the media.
+Undetermined
+Patient awaiting physician and/or assessment.
+Good
+Vital signs are stable and within normal limits. Patient is conscious and comfortable. Indicators are excellent.
+Fair
+Vital signs are stable and within normal limits. Patient is conscious, but may be uncomfortable. Indicators are favorable.
+Serious
+Vital signs may be unstable and not within normal limits. Patient is seriously ill. Indicators are questionable.
+Critical
+Vital signs are unstable and not within normal limits. Patient may be unconscious. Indicators are unfavorable.
+Dead
+Vital signs have ceased. Patient has died.
+
+Other terms
+Other terms used include grave, extremely critical, critical but stable, serious but stable, guarded,  and satisfactory.
+The American Hospital Association has advised doctors not to use the word "stable" either as a condition or in conjunction with another condition, especially one that is critical, as it inherently implies unpredictability and the instability of vital signs. Despite this, "critical but stable" conditions are frequently reported, likely because the word "critical" in mainstream usage is often used to denote a condition that is severe and immediately life-threatening.
+The use of such condition terminology in the U.S. media has increased since the passing of the HIPAA in 1996.  Concern for patient privacy and desire to avoid litigation associated with its breach have prompted doctors and hospitals to use these terms as an alternative to disclosing specific medical conditions.
+Definitions vary among hospitals, and it is even possible for a patient to be upgraded or downgraded simply by being moved from one place to another, with no change in actual physical state.  Furthermore, medical science is a highly complex discipline dealing with complicated and often overlapping threats to life and well-being. In the case of possibly life-threatening illness, a patient may be treated by a dozen or more specialists, each with their area of medical expertise.  There can be a range of opinions concerning that patient's condition.
+
+United Kingdom
+Each National Health Service (NHS) trust has its own guidance for statements to the press. The Department of Health's code of practice has no official definitions of the standard phrases use. Terms typically used by NHS trusts include:
+Deceased
+Brain dead
+Critical
+Critical but stable
+Serious
+Stable
+Satisfactory
+Comfortable
+Progressing well
+DischargedThe release of patient information to the press is strictly controlled in the NHS.  The Department of Health publishes a guideline to NHS Trusts.  In general, no information can be released without patient consent, unless there are exceptional circumstances.  If consent is withheld, the hospital cannot state even that to the press, as it would confirm that the patient was receiving treatment.
+
+
+== References ==

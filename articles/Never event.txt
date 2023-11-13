@@ -1,0 +1,60 @@
+A never event is the "kind of mistake (medical error) that should never happen" in the field of medical treatment. 
+According to the Leapfrog Group never events are defined as "adverse events that are serious, largely preventable, and of concern to both the public and health care providers for the purpose of public accountability."A 2012 study reported there may be as many as 1,500 instances of one never event, a retained foreign object, per year in the United States. The same study suggests an estimated total of surgical mistakes at just over 4,000 per year in the United States, but these statistics are extrapolations from small samples rather than actual event counts.
+
+United States
+A list of events was compiled by the National Quality Forum and updated in 2012.
+The NQF’s report recommends a national state-based event reporting system to improve the quality of patient care.
+
+Artificial insemination with the wrong donor sperm or donor egg
+Unintended retention of a foreign body in a patient after surgery or other procedure
+Patient death or serious disability associated with patient elopement (disappearance)
+Patient death or serious disability associated with a medication error (e.g., errors involving the wrong drug, dose, patient, time, rate, preparation or route of administration)
+Patient death or serious disability associated with a hemolytic reaction due to the administration of ABO/HLA-incompatible blood or blood products
+Patient death or serious disability associated with an electric shock or elective cardioversion while being cared for in a healthcare facility
+Patient death or serious disability associated with a fall while being cared for in a healthcare facility
+Surgery performed on the wrong body part
+Surgery performed on the wrong patient
+Wrong surgical procedure performed on a patient
+Intraoperative or immediately postoperative death in an ASA Class I patient
+Patient death or serious disability associated with the use of contaminated drugs, devices, or biologics provided by the healthcare facility
+Patient death or serious disability associated with the use or function of a device in patient care, in which the device is used or functions other than as intended
+Patient death or serious disability associated with intravascular air embolism that occurs while being cared for in a healthcare facility
+Infant discharged to the wrong person
+Patient suicide, or attempted suicide resulting in serious disability, while being cared for in a healthcare facility
+Maternal death or serious disability associated with labor or delivery in a low-risk pregnancy while being cared for in a health care facility
+Patient death or serious disability associated with hypoglycemia, the onset of which occurs while the patient is being cared for in a healthcare facility
+Death or serious disability (kernicterus) associated with failure to identify and treat hyperbilirubinemia in neonates
+Stage 3 or 4 pressure ulcers acquired after admission to a healthcare facility
+Patient death or serious disability due to spinal manipulative therapy
+Any incident in which a line designated for oxygen or other gas to be delivered to a patient contains the wrong gas or is contaminated by toxic substances
+Patient death or serious disability associated with a burn incurred from any source while being cared for in a healthcare facility
+Patient death or serious disability associated with the use of restraints or bedrails while being cared for in a healthcare facility
+Any instance of care ordered by or provided by someone impersonating a physician, nurse, pharmacist, or other licensed healthcare provider
+Abduction of a patient of any age
+Sexual assault on a patient within or on the grounds of the healthcare facility
+Death or significant injury of a patient or staff member resulting from a physical assault (i.e., battery) that occurs within or on the grounds of the healthcare facilityAs of 2019, 11 states have mandated reporting for never events, and an additional 16 states have mandated reporting for serious adverse events including never events.
+
+United Kingdom
+The National Patient Safety Agency produced a list of eight core never events in March 2009:
+Wrong site surgery
+Retained instrument postoperation
+Wrong route administration of chemotherapy
+Misplaced nasogastric or orogastric tube not detected before use
+Inpatient suicide using non-collapsible rails
+Escape from within the secure perimeter of medium or high security mental health services by patients who are transferred prisoners
+In-hospital maternal death from post-partum haemorrhage after elective caesarean section
+Intravenous administration of mis-selected concentrated potassium chlorideNHS England produced a report on 148 reported never events in the period from April to September 2013 highlighting particular hospitals with more than one such event.  In 2021 there were still about 500 never events each year in the English NHS.  According to Jeremy Hunt a hospital can get as many as 108 safety related instructions in a year.NHS Improvement has produced monthly and cumulative annual reports since 2015, when the definition of what constitutes a Never Event in the NHS also changed to require not only actual patient harm but also the potential for significant actual harm. Annual counts have therefore increased, and comparing recent with older data is misleading. The definition continues to undergo more minor change. A provisional report for the 10 month period April 1st 2017 to 31st Jan 2018 acknowledged 393 never events within NHS England, including 172 wrong site surgeries, 97 retained foreign body post procedures, 60 wrong implants/prostheses and 31 medication administration errors.
+
+Recommended actions following a never event
+The Leapfrog Group suggested four actions to be taken following a never event:
+Apologize to the patient
+Report the event
+Perform a root cause analysis
+Waive costs directly related to the event
+
+See also
+Hospital-acquired condition
+Sentinel event
+
+
+== References ==

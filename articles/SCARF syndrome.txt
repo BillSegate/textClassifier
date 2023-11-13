@@ -1,0 +1,66 @@
+SCARF syndrome is a rare syndrome characterized by skeletal abnormalities, cutis laxa, craniostenosis, ambiguous genitalia, psychomotor retardation, and facial abnormalities. These characteristics are what make up the acronym SCARF. It shares some features with Lenz-Majewski hyperostotic dwarfism. It is a very rare disease with an incidence rate of approximately one in a million newborns. It has been clinically described in two males who were maternal cousins, as well as a 3-month-old female. Babies affected by this syndrome tend to have very loose skin, giving them an elderly facial appearance. Possible complications include dyspnea, abdominal hernia, heart disorders, joint disorders, and dislocations of multiple joints. It is believed that this disease's inheritance is X-linked recessive.
+
+Signs & Symptoms
+The most characteristic signs and symptoms of SCARF syndrome are the ones described by the acronym. This includes skeletal abnormalities, cutis laxa, craniostenosis, ambiguous genitalia, psychomotor retardation, and facial abnormalities. The severity of the symptoms will vary from person to person. Symptoms will present similarly in both males and females, other than specific genitourinary symptoms.
+
+Symptoms
+Facial
+Long philtrum
+Small chin
+Ptosis
+Epicanthal folds
+Strabismus
+High, broad nasal root
+Enamel hypoplasiaNeck
+Excess nuchal skin
+Neck webs
+Short neck
+Chest
+Barrel-shaped
+Short sternum
+Pectus carinatum
+Hypoplastic nipplesAbdomen
+Diastasis recti
+Umbilical hernia
+Skeletal
+Abnormally-shaped vertebrae
+Craniosynostosis
+Genitourinary
+Micropenis
+Perineal hypospadias
+Inguinal hernia
+Cryptorchidism
+ClitoromegalySkin, Hair, and Nails
+Cutis Laxa
+Sparse hair
+Neurological
+Mental retardation
+mild to moderate(Symptoms were obtained from OMIM catalog)
+
+Causes
+While the specific cause of SCARF syndrome is unknown, it has been deemed as a genetic disorder. It is believed to be typically inherited, and transmitted as both a recessive and dominant gene.
+
+Pathophysiology
+The exact genetic mutation responsible for SCARF syndrome is unknown at this time. However, the mode of inheritance is perceived to be X-linked recessive because the first two cases reported of this syndrome were in two male cousins, who were related through their mothers. This means that the gene that is associated with this disorder is located on the X chromosome. Since males have only one X chromosome, only a single mutation is needed to cause this disorder. In contrast, females would require a mutation on both of their X chromosomes, which is a very rare occurrence. Therefore, SCARF syndrome and X-linked recessive disorders are more common in males.Cutis laxa, one of the most common symptoms associated with SCARF syndrome, is caused by mutations in several different genes. These genes include ATP6V0A2, ATP7A, EFEMP2, ELN, and FBLN5. These genes are responsible for elastic fibers, specifically how they are formed and their function. Elastic fibers allow the skin to stretch, help the lungs expand and contract, as well assist arteries in managing blood flow at high blood pressures. The mode of inheritance for cutis laxa may be X-linked, autosomal dominant, or autosomal recessive. Cutis laxa is known to be the cause of many of the complications associated with SCARF syndrome such as congestive heart failure, respiratory failure, and dysfunction of gastrointestinal and urinary tract.
+
+Diagnosis
+The diagnosis relies on clinical presentations, physical examination, extensive evaluation of past medical history and family history, and karyotype testing. A 46,XX compatibility is an expected finding of the karyotype test. Laboratory tests and diagnostic imaging are typically insignificant for diagnosis. The relationship of the parents as well as family history of X-linked, autosomal dominant, and autosomal disorders should be considered to confirm SCARF syndrome.
+
+Treatment/Prevention
+Due to the fact that the syndrome is a genetic condition, there is no specific cure for this syndrome. Treatment is not for the disease itself, but more for management of the associated signs and symptoms of SCARF syndrome and its complications.
+The main risk factor is previous family history. This does not guarantee that one will inherit the disease, but it is much more likely compared to someone with no family history. No other risk factors have been identified. Due to this reason, there are not many preventative measures that can be done.
+If there is family history of the syndrome, genetic counseling should be considered before planning children to assess the risk of passing the disease onto future generations. Regular blood tests and physical examinations should be done as well to ensure no change in health status.
+
+Prognosis
+The prognosis of SCARF syndrome depends on the severity of the signs and symptoms experienced, as well as if there are any associated complications. If the symptoms are mild, the prognosis will be better than that of someone with symptoms that are severe. There is no general prognosis for SCARF syndrome and it should be assessed independently for each case.
+
+Epidemiology
+This syndrome is very rare with a prevalence rate of less than 1/1000000 worldwide. The age of onset is typically neonatal or during infancy, but there has been a case reported in a 7-year-old male as well. There is no evidence that the syndrome is more prevalent in a specific ethnicity, but it is more prevalent in males due to its X-linked recessive inheritance. Since males only have one X chromosome, this means that only one mutation is required for the syndrome to be inherited. Females have two X chromosomes, which means that the mutation must be present on both chromosomes in order to be inherited.
+
+Current Research
+There is no current research exclusive to SCARF syndrome. However, research is being actively conducted on finding a treatment and prevention method for both inherited and acquired genetic disorders. This includes research in the Netherlands on the genetic causes of facial abnormalities and its associated complications and symptoms. The study involves the identification of new casual genes related to craniosynostosis including EFNB1 and TCF12 as well as genes involved in rare craniofacial malformations, including ALX3 and RAB23. This research can help identify other genes possibly linked to the development of SCARF syndrome. There is a current clinical trial in the United Kingdom that involves the use of Sarilumab injections for the treatment of musculoskeletal and connective tissue disorders. This clinical trial has the potential of developing a treatment that could be applied to numerous disorders of the musculoskeletal system and connective tissue, such as SCARF syndrome.
+
+References
+
+
+== External links ==

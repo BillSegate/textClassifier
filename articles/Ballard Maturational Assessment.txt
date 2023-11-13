@@ -1,0 +1,36 @@
+The Ballard Maturational Assessment, Ballard Score, or Ballard Scale is a commonly used technique of gestational age assessment. It was devised by Dr Jeanne L Ballard, Professor Emeritus of Pediatrics, Obstetrics and Gynecology at the University of Cincinnati College of Medicine.
+The assessment assigns a score to various criteria, the sum of all of which is then extrapolated to the gestational age of the fetus. These criteria are divided into physical and neurological criteria. This scoring allows for the estimation of age in the range of 26 weeks-44 weeks. The New Ballard Score is an extension of the above to include extremely pre-term babies i.e. up to 20 weeks.
+The scoring relies on the intra-uterine changes that the fetus undergoes during its maturation. Whereas the neurological criteria depend mainly upon muscle tone, the physical ones rely on anatomical changes. The neonate (less than 37 weeks of age) is in a state of physiological hypotonia. This tone increases throughout the fetal growth period, meaning a more premature baby would have lesser muscle tone.
+It was developed in 1979.
+
+The neuromuscular criteria
+These are:
+
+Posture:muscle tone is reflected in the infant's preferred posture at rest. As maturation progresses, the foetus gradually assumes increasing passive flexor tone at rest that precedes in a centripetal direction with lower extremities slightly ahead of upper extremities. Term newborn (flexed posture) and preterm newborn (extended posture).
+Square window, assessing the flexibility of the wrist. Wrist flexibility and resistance to extensor stretching are responsible for the resulting angle of flexion at the wrist. The examiner strengthen the infant's fingers and applies gentle pressure on the dorsum of the hand, close to the fingers. From extremely preterm to post term, the resulting angle between the palm of the infant's hand and forearm is gradually diminished.
+Arm recoil: Arm recoil examines the passive flexor tone of the biceps muscle by measuring the angle of recoil following very brief extension of the upper extremity. With the infant lying supine, the examiner places one hand beneath the infant's elbow for support taking the infant's hand, the examiner briefly sets the elbow in flexion, then momentarily extents the arm before releasing it. The angle of recoil, to which the forearm springs back into flexion is noted.
+Popliteal angle: This maneuver assesses the maturation of passive flexor tone of the knee extensor muscles by testing for resistance to extension of the lower extremity. With the neonate lying supine, the thigh is placed gently on the abdomen of the knee fully flexed. The examiner gently grasps the foot at the sides with one hand while supporting the side of the thigh with the other. Care is taken not to exert pressure on the hamstrings. The leg is extended until a definite resistance to extension is appreciated. At this point the angle formed at the knee by the upper and lower leg is measured.
+Scarf sign: It is tests the passive tone of the flexors about the shoulder girdle. With infant lying supine, the examiner adjusts the infant's head to the midline and supports the infant's hand across the upper chest with one hand. The thumb of the examiner's other hand is placed on the infant's elbow. The examiner tries to pull the elbow gently across the chest, feeling for the resistance.
+Heel To ear: This measures the passive flexor tone of the posterior hip flexor muscles. The infant is placed supine and the flexed lower extremity is brought to rest on the cot. The examiner supports the infant's thigh laterally alongside the body with the palm of one hand. The other hand is used to grasp the infant's foot at the sides and to pull it towards the ipsilateral ear. The examiner feels for the resistance to extension of the posterior pelvic girdle flexors and notes the location of the heel where significant resistance is appreciated.
+
+The physical criteria
+These are:
+
+Skin
+Ear/eye
+Lanugo hair
+Plantar surface
+Breast bud
+Genitals
+
+Scoring System
+Each of the above criteria is scored from 0 through 5, in the original Ballard Score. The scores were then ranged from 5 to 50, with the corresponding gestational ages being 26 weeks and 44 weeks. An increase in the score by 5 increases the age by 2 weeks. The New Ballard Score allows scores of -1 for the criteria, hence making negative scores possible. The possible scores then range from -10 to 50, the gestational range extending up to 20 weeks. (A simple formula to come directly to the age from the Ballard Score is Age=((2*score)+120)) / 5.
+Maturity Rating:
+Score/weeks: (-10/20),(-5/22),(0/24),(5/26),(10/28),(15/30),(20/32),(25/34),(30/36),(35/38),(40/40),(45/42),(50/44).
+
+See also
+Apgar score
+
+References
+External links
+BallardScore.com

@@ -1,0 +1,24 @@
+Combination therapy or polytherapy is therapy that uses more than one medication or modality. Typically, the term refers to using multiple therapies to treat a single disease, and often all the therapies are pharmaceutical (although it can also involve non-medical therapy, such as the combination of medications and talk therapy to treat depression). 'Pharmaceutical' combination therapy may be achieved by prescribing/administering separate drugs, or, where available, dosage forms that contain more than one active ingredient (such as fixed-dose combinations).
+Polypharmacy is a related term, referring to the use of multiple medications (without regard to whether they are for the same or separate conditions/diseases). Sometimes "polymedicine" is used to refer to pharmaceutical combination therapy. Most of these kinds of terms lack a universally consistent definition, so caution and clarification are often advisable.
+
+Uses
+Conditions treated with combination therapy include tuberculosis, leprosy, cancer, malaria, and HIV/AIDS. One major benefit of combination therapies is that they reduce development of drug resistance since a pathogen or tumor is less likely to have resistance to multiple drugs simultaneously.  Artemisinin-based monotherapies for malaria are explicitly discouraged to avoid the problem of developing resistance to the newer treatment.
+Combination therapy may seem costlier than monotherapy in the short term, but when it is used appropriately, it causes significant savings: lower treatment failure rate, lower case-fatality ratios, fewer side-effects than monotherapy, slower development of resistance, and thus less money needed for the development of new drugs.
+
+In oncology
+Combination therapy has gained momentum in oncology in recent years, with various studies demonstrating higher response rates with combinations of drugs compared to monotherapies, and the FDA recently approving therapeutic combination regimens that demonstrated superior safety and efficacy to monotherapies. In a recent study about solid cancers, Martin Nowak, Bert Vogelstein, and colleagues showed that in most clinical cases, combination therapies are needed to avoid the evolution of resistance to targeted drugs. Furthermore, they find that the simultaneous administration of multiple targeted drugs minimizes the chance of relapse when no single mutation confers cross-resistance to both drugs.Various systems biology methods must be used to discover combination therapies to overcome drug resistance in select cancer types. Recent precision medicine approaches have focused on targeting multiple biomarkers found in individual tumors by using combinations of drugs. However, with 300 FDA-approved cancer drugs on the market, there almost 45,000 possible two-drug combinations and almost 4.5 million three-drug combinations for to choose from. That level of complexity is one of the primary impediments to the growth of combination therapy in oncology.T has recently highlighted combination therapy as a top research priority in oncology.
+
+Bacterial infections
+Combination therapy with two or more antibiotics are often used in an effort to treat multi-drug resistant Gram-negative bacteria.
+
+Contrast to monotherapy
+Monotherapy, or the use of a single therapy, can be applied to any therapeutic approach, but it is most commonly used to describe the use of a single medication.  Normally, monotherapy is selected because a single medication is adequate to treat the medical condition.  However, monotherapies may also be used because of unwanted side effects or dangerous drug interactions.
+
+See also
+Polypill, a medication which contains a combination of multiple active ingredients
+Combination drug
+
+References
+External links
+Drug combination database. covers information on more than 1300 drug combinations in either clinical use or different testing stages.
+Perturbation biology method for the discovery of anti-resistance drug combinations with network pharmacology.

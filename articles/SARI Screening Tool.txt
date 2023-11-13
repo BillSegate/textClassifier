@@ -1,0 +1,4 @@
+SARI Screening Tool also known as SARI score is a tool developed by the Ministry of Health in the Kingdom of Saudi Arabia.  It is a visual triage used to identify those with potential to have COVID-19. The tools was also used to screen for MERS.  It has been modified multiple times and the weights of each symptom have been changed over time as well.
+
+
+== References ==

@@ -1,0 +1,32 @@
+An e-patient is a health consumer who participates fully in his/her medical care, primarily by gathering information about medical conditions that impact them and their families, using the Internet and other digital tools. The term encompasses those who seek guidance for their own ailments and the friends and family members who go online on their behalf. E-patients report two effects of their health research:  "better health information and services, and different, but not always better, relationships with their doctors."E-patients are active in their care and demonstrate the power of the participatory medicine or Health 2.0 / Medicine 2.0. model of care.  The "e" can stand for "electronic" but has also been used to refer to other terms, such as "equipped", "enabled", "empowered" and "expert".The current state of knowledge on the impact of e-patients on the healthcare system and the quality of care received indicates:
+
+A growing number of people say the internet played a crucial or important role as they helped another person cope with a major illness.
+Many clinicians underestimated the benefits and overestimated the risks of online health resources for patients.
+Medical online support groups are an important healthcare resource.
+"the net friendliness of clinicians and provider organizations—as rated by the e-patients they serve—is becoming an important new aspect of healthcare quality."
+According to one study, the advent of patients as partners is one of the most important cultural medical revolutions of the past century.
+In order to understand the impact of the e-patient, clinicians will likely need to move beyond "pre-internet medical constructs".
+Medical education must adapt to take the e-patient into account, and to prepare students for medical practice that includes the e-patient.A 2011 study of European e-patients found that they tended to be "inquisitive and autonomous" and that they noted that the number of e-patients in Europe appeared to be rising. A 2012 study found that e-patients uploading videos about their health experienced a loss of privacy, but also positive benefits from social support. Furthermore, a 2017 study utilizing social network analysis found that when e-patients are included in health care conferences, they increase information flow, expand propagation, and deepen engagement in the conversation of Tweets when compared to both physicians and researchers while only making up 1.4% of the stakeholder mix.Inspired by the seminal work on e-patients by Tom Ferguson and the e-Patients Scholars Working Group, Swedish patient and engineer Sara Riggare, in February 2016 coined a new Swedish word: "spetspatient" (in English: "lead user patient" or "lead patient")
+
+See also
+Doctor–patient relationship
+eHealth
+mHealth
+Patient opinion leader
+Treatment decision support
+Virtual patient
+
+References
+External links
+van Woerkum CM (1 April 2003). "The Internet and primary care physicians: coping with different expectations". The American Journal of Clinical Nutrition. 77 (4 Suppl): 1016S–1018S. doi:10.1093/ajcn/77.4.1016S. PMID 12663310.
+Susannah Fox; Pew Internet; American Life Project (2004-09-27). "Today's E-Patients: Hunters and Gatherers of Health Information Online". Archived from the original on 2007-05-13. Retrieved 2007-04-23.Ferguson, Tom (2007). e-Patients: How They Can Help Us Heal Health Care (PDF). Archived from the original (PDF) on 2008-07-23. Retrieved 2013-10-07.
+Rimer BK, Lyons EJ, Ribisl KM, et al. (July 2005). "How New Subscribers Use Cancer-Related Online Mailing Lists". Journal of Medical Internet Research. 7 (3): e32. doi:10.2196/jmir.7.3.e32. PMC 1550655. PMID 15998623.
+Meier A, Lyons EJ, Frydman G, Forlenza M, Rimer BK (2007). "How Cancer Survivors Provide Support on Cancer-Related Internet Mailing Lists". Journal of Medical Internet Research. 9 (2): e12. doi:10.2196/jmir.9.2.e12. PMC 1874721. PMID 17513283.
+The rise of the e-patient, Lee Rainie from the Pew Internet and American Life Project presentation at the Medical Library Association, October 7, 2009
+E-patients With a Disability or Chronic Disease, from the Pew Internet and American Life Project
+Association of Cancer Online Resources (ACOR) Archived 2008-05-01 at the Wayback Machine, an aggregate of e-patient online communities for knowledge-sharing about cancer.
+Haig, Scott (November 8, 2007). "When the patient is a Googler". Time.
+Who Cares Booklet by the Federal Trade Commission, a guide to health information
+Dave deBronkart: Meet e-Patient Dave, video at TED
+Greenwald, Ted. "A Social Network for Crohn's Disease | MIT Technology Review". Technologyreview.com. Retrieved 2013-09-13.
+Bhargava, Rohit; Johnmar, Fard (2013). ePatient 2015: 15 Surprising Trends Changing Healthcare.

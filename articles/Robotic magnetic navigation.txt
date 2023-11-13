@@ -1,0 +1,14 @@
+Robotic magnetic navigation (RMN) (also called remote magnetic navigation) uses robotic technology to direct magnetic fields which control the movement of magnetic-tipped endovascular catheters into and through the chambers of the heart during cardiac catheterization procedures.
+
+Devices
+Because the human heart beats during ablation procedures, catheter stability can be affected by navigation technique. Magnetic fields created by RMN technology guide the tip of a catheter using a “pull” mechanism of action (as opposed to “push” with manual catheter navigation). Magnetic catheter navigation has been associated with greater catheter stability.
+
+Medical use
+Atrial fibrilation
+As of 2015 there were two robotic catheterization systems on the market for atrial fibrilation; one of them used magnetic guidance.After long-term follow up, RMN navigation has been associated with better procedural and clinical outcomes for AF ablation when compared with manual catheter navigation for cardiac ablation.
+
+Ventricular tachycardia
+RMN has been shown to be safe and effective for cardiac catheter ablation in various patient populations with  ventricular tachycardia.
+
+
+== References ==

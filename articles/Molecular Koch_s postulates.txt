@@ -1,0 +1,17 @@
+Molecular Koch's postulates are a set of experimental criteria that must be satisfied to show that a gene found in a pathogenic microorganism encodes a product that contributes to the disease caused by the pathogen. Genes that satisfy molecular Koch's postulates are often referred to as virulence factors. The postulates were formulated by the microbiologist Stanley Falkow in 1988 and are based on Koch's postulates.
+
+Postulates
+As per Falkow's original descriptions, the three postulates are:
+"The phenotype or property under investigation should be associated with pathogenic members of a genus or pathogenic strains of a species.
+Specific inactivation of the gene(s) associated with the suspected virulence trait should lead to a measurable loss in pathogenicity or virulence.
+Reversion or allelic replacement of the mutated gene should lead to restoration of pathogenicity."To apply the molecular Koch's postulates to human diseases, researchers must identify which microbial genes are potentially responsible for symptoms of pathogenicity, often by sequencing the full genome to compare which nucleotides are homologous to the protein-coding genes of other species. Alternatively, scientists can identify which mRNA transcripts are at elevated levels in the diseased organs of infected hosts. Additionally, the tester must identify and methods for inactivating and reactivating the gene being studied.In 1996, Fredricks and Relman proposed seven molecular guidelines for establishing microbial disease causation:
+"A nucleic acid sequence belonging to a putative pathogen should be present in most cases of an infectious disease. Microbial nucleic acids should be found preferentially in those organs or gross anatomic sites known to be diseased (i.e., with anatomic, histologic, chemical, or clinical evidence of pathology) and not in those organs that lack pathology.
+Fewer, or no, copy numbers of pathogen-associated nucleic acid sequences should occur in hosts or tissues without disease.
+With resolution of disease (for example, with clinically effective treatment), the copy number of pathogen-associated nucleic acid sequences should decrease or become undetectable. With clinical relapse, the opposite should occur.
+When sequence detection predates disease, or sequence copy number correlates with severity of disease or pathology, the sequence-disease association is more likely to be a causal relationship.
+The nature of the microorganism inferred from the available sequence should be consistent with the known biological characteristics of that group of organisms. When phenotypes (e.g., pathology, microbial morphology, and clinical features) are predicted by sequence-based phylogenetic relationships, the meaningfulness of the sequence is enhanced.
+Tissue-sequence correlates should be sought at the cellular level: efforts should be made to demonstrate specific in-situ hybridization of microbial sequence to areas of tissue pathology and to visible microorganisms or to areas where microorganisms are presumed to be located.
+These sequence-based forms of evidence for microbial causation should be reproducible."
+
+
+== References ==

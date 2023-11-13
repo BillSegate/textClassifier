@@ -1,0 +1,53 @@
+The medical history, case history, or anamnesis (from Greek: ἀνά, aná, "open", and μνήσις, mnesis, "memory") of a patient is a set of information the physicians collect over medical interviews. It involves the patient, and eventually people close to him, so to collect reliable/objective information for managing the medical diagnosis and proposing efficient medical treatments. The medically relevant complaints reported by the patient or others familiar with the patient are referred to as symptoms, in contrast with clinical signs, which are ascertained by direct examination on the part of medical personnel. Most health encounters will result in some form of history being taken. Medical histories vary in their depth and focus. For example, an ambulance paramedic would typically limit their history to important details, such as name, history of presenting complaint, allergies, etc. In contrast, a psychiatric history is frequently lengthy and in depth, as many details about the patient's life are relevant to formulating a management plan for a psychiatric illness.
+The information obtained in this way, together with the physical examination, enables the physician and other health professionals to form a diagnosis and treatment plan. If a diagnosis cannot be made, a provisional diagnosis may be formulated, and other possibilities (the differential diagnoses) may be added, listed in order of likelihood by convention. The treatment plan may then include further investigations to clarify the diagnosis.
+The method by which doctors gather information about a patient's past and present medical condition in order to make informed clinical decisions is called the history and physical (a.k.a. the H&P). The history requires that a clinician be skilled in asking appropriate and relevant questions that can provide them with some insight as to what the patient may be experiencing. The standardized format for the history starts with the chief concern (why is the patient in the clinic or hospital?) followed by the history of present illness (to characterize the nature of the symptom(s) or concern(s)), the past medical history, the past surgical history, the family history, the social history, their medications, their allergies, and a review of systems (where a comprehensive inquiry of symptoms potentially affecting the rest of the body is briefly performed to ensure nothing serious has been missed). After all of the important history questions have been asked, a focused physical exam (meaning one that only involves what is relevant to the chief concern) is usually done. Based on the information obtained from the H&P, lab and imaging tests are ordered and medical or surgical treatment is administered as necessary.
+
+Process
+A practitioner typically asks questions to obtain the following information about the patient:
+
+Identification and demographics: name, age, height, weight.
+The "chief complaint (CC)" – the major health problem or concern, and its time course (e.g. chest pain for past 4 hours).
+History of the present illness (HPI) – details about the complaints, enumerated in the CC (also often called history of presenting complaint or HPC).
+Past medical history (PMH) (including major illnesses, any previous surgery/operations (sometimes distinguished as past surgical history or PSH), any current ongoing illness, e.g. diabetes).
+Review of systems (ROS) Systematic questioning about different organ systems
+Family diseases – especially those relevant to the patient's chief complaint.
+Childhood diseases – this is very important in pediatrics.
+Social history (medicine) – including living arrangements, occupation, marital status, number of children, drug use (including tobacco, alcohol, other recreational drug use), recent foreign travel, and exposure to environmental pathogens through recreational activities or pets.
+Regular and acute medications (including those prescribed by doctors, and others obtained over-the-counter or alternative medicine)
+Allergies – to medications, food, latex, and other environmental factors
+Sexual history, obstetric/gynecological history, and so on, as appropriate.
+Conclusion & closureHistory-taking may be comprehensive history taking (a fixed and extensive set of questions are asked, as practiced only by health care students such as medical students, physician assistant students, or nurse practitioner students) or iterative hypothesis testing (questions are limited and adapted to rule in or out likely diagnoses based on information already obtained, as practiced by busy clinicians). Computerized history-taking could be an integral part of clinical decision support systems.
+A follow-up procedure is initiated at the onset of the illness to record details of future progress and results after treatment or discharge. This is known as a catamnesis in medical terms.
+
+Review of systems
+Whatever system a specific condition may seem restricted to, all the other systems are usually reviewed in a comprehensive history. The review of systems often includes all the main systems in the body that may provide an opportunity to mention symptoms or concerns that the individual may have failed to mention in the history. Health care professionals may structure the review of systems as follows:
+
+Cardiovascular system (chest pain, dyspnea, ankle swelling, palpitations) are the most important symptoms and you can ask for a brief description for each of the positive symptoms.
+Respiratory system (cough, haemoptysis, epistaxis, wheezing, pain localized to the chest that might increase with inspiration or expiration).
+Gastrointestinal system (change in weight, flatulence and heartburn, dysphagia, odynophagia, hematemesis, melena, hematochezia, abdominal pain, vomiting, bowel habit).
+Genitourinary system (frequency in urination, pain with micturition (dysuria), urine color, any urethral discharge, altered bladder control like urgency in urination or incontinence, menstruation and sexual activity).
+Nervous system (Headache, loss of consciousness, dizziness and vertigo, speech and related functions like reading and writing skills and memory).
+Cranial nerves symptoms (Vision (amaurosis), diplopia, facial numbness, deafness, oropharyngeal dysphagia, limb motor or sensory symptoms and loss of coordination).
+Endocrine system (weight loss, polydipsia, polyuria, increased appetite (polyphagia) and irritability).
+Musculoskeletal system (any bone or joint pain accompanied by joint swelling or tenderness, aggravating and relieving factors for the pain and any positive family history for joint disease).
+Skin (any skin rash, recent change in cosmetics and the use of sunscreen creams when exposed to sun).
+
+Inhibiting factors
+Factors that inhibit taking a proper medical history include a physical inability of the patient to communicate with the physician, such as unconsciousness and communication disorders. In such cases, it may be necessary to record such information that may be gained from other people who know the patient. In medical terms this is known as a heteroanamnesis, or collateral history, in contrast to a self-reporting anamnesis.
+Medical history taking may also be impaired by various factors impeding a proper doctor-patient relationship, such as transitions to physicians that are unfamiliar to the patient.
+History taking of issues related to sexual or reproductive medicine may be inhibited by a reluctance of the patient to disclose intimate or uncomfortable information. Even if such an issue is on the patient's mind, he or she often doesn't start talking about such an issue without the physician initiating the subject by a specific question about sexual or reproductive health. Some familiarity with the doctor generally makes it easier for patients to talk about intimate issues such as sexual subjects, but for some patients, a very high degree of familiarity may make the patient reluctant to reveal such intimate issues. When visiting a health provider about sexual issues, having both partners of a couple present is often necessary, and is typically a good thing, but may also prevent the disclosure of certain subjects, and, according to one report, increases the stress level.
+
+Computer-assisted history taking
+Computer-assisted history taking or computerized history taking systems have been available since the 1960s. However, their use remains variable across healthcare delivery systems.One advantage of using computerized systems as an auxiliary or even primary source of medically related information is that patients may be less susceptible to social desirability bias.   For example, patients may be more likely to report that they have engaged in unhealthy lifestyle behaviors. Another advantage of using computerized systems is that they allow easy and high-fidelity portability to a patient's electronic medical record.
+Also an advantage is that it saves money and paper.
+One disadvantage of many computerized medical history systems is that they cannot detect non-verbal communication, which may be useful for elucidating anxieties and treatment plans. Another disadvantage is that people may feel less comfortable communicating with a computer as opposed to a human. In a sexual history-taking setting in Australia using a computer-assisted self-interview, 51% of people were very comfortable with it, 35% were comfortable with it, and 14% were either uncomfortable or very uncomfortable with it.The evidence for or against computer-assisted history taking systems is sparse. As of 2011, there were no randomized control trials comparing computer-assisted versus traditional oral-and-written family history taking to identifying patients with an elevated risk of developing type 2 diabetes mellitus. In 2021, a substudy of a large prospective cohort trial showed that a majority (70%) of patients with acute chest pain could, with computerized history taking, provide sufficient data  for risk stratification with a well-established risk score (HEART score).
+
+See also
+Genogram
+Medical record
+Medicine
+Physical examination
+Psychoanalysis (Freud uses the term anamnesis to describe neurotics' recounting of their symptoms)
+
+
+== References ==

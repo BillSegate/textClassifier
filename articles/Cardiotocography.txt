@@ -1,0 +1,102 @@
+Cardiotocography (CTG) is a technique used to monitor the fetal heartbeat and uterine contractions during pregnancy and labour. The machine used to perform the monitoring is called a cardiotocograph.
+Fetal heart sounds were described as early as 350 years ago and approximately 200 years ago mechanical stethoscopes, such as the Pinard horn, were introduced in clinical practice.Modern-day CTG was developed and introduced in the 1950s and early 1960s by Edward Hon, Roberto Caldeyro-Barcia and Konrad Hammacher. The first commercial fetal monitor (Hewlett-Packard 8020A) was released in 1968.CTG monitoring is widely used to assess fetal well-being by identifying babies at risk of hypoxia (lack of oxygen). CTG is mainly used during labour. A review found that in the antenatal period (before labour), there is no evidence to suggest that monitoring women with high-risk pregnancies benefits the mother or baby, although research around this is old and should be interpreted with caution. Up-to-date research is needed to provide more information surrounding this practice.A study found that CTG monitoring didn't significantly improve or worsen the outcome,  in terms of preventable child death, post birth mortality, of pregnancy for high risk mothers. But the evidence examined in the study is quite old and there have been significant changes in medical care since then.
+
+Methods
+External cardiotocography can be used for continuous or intermittent monitoring. The fetal heart rate and the activity of the uterine muscle are detected by two transducers placed on the mother's abdomen, with one above the fetal heart to monitor heart rate, and the other at the fundus of the uterus to measure frequency of contractions. Doppler ultrasound provides the information, which is recorded on a paper strip known as a cardiotocograph (CTG). External tocometry is useful for showing the beginning and end of contractions as well as their frequency, but not the strength of the contractions. The absolute values of pressure readings on an external tocometer are dependent on position and are not sensitive in people who are obese. In cases where information on the strength or precise timing of contractions is needed, an internal tocometer is more appropriate.Internal cardiotocography uses an electronic transducer connected directly to the fetus. A wire electrode, sometimes called a spiral or scalp electrode, is attached to the fetal scalp through the cervical opening and is connected to the monitor. Internal monitoring provides a more accurate and consistent transmission of the fetal heart rate, as unlike external monitoring, it is not affected by factors such as movement. Internal monitoring may be used when external monitoring is inadequate, or if closer surveillance is needed. Internal tocometry can only be used if the amniotic sac is ruptured (either spontaneously or artificially) and the cervix is open. To gauge the strength of contractions, a small catheter (called an intrauterine pressure catheter or IUPC) is passed into the uterus past the fetus. Combined with an internal fetal monitor, an IUPC may give a more precise reading of the baby's heart rate and the strength of contractions.A typical CTG reading is printed on paper and may be stored on a computer for later reference. A variety of systems for centralized viewing of CTG have been installed in maternity hospitals in industrialised countries, allowing simultaneous monitoring of multiple tracings in one or more locations. Display of maternal vital signs, ST signals and an electronic partogram are available in the majority of these systems. A few of them have incorporated computer analysis of cardiotocographic signals or combined cardiotocographic and ST data analysis.
+
+Interpretation
+In the US, the Eunice Kennedy Shriver National Institute of Child Health and Human Development sponsored a workshop to develop a standardized nomenclature for use in interpreting Intrapartum fetal heart rate and uterine contraction patterns. This nomenclature has been adopted by the Association of Women's Health, Obstetric and Neonatal Nurses (AWHONN), the American College of Obstetricians and Gynecologists (ACOG), and the Society for Maternal-Fetal Medicine.The Royal College of Obstetricians and Gynaecologists and the Society of Obstetricians and Gynaecologists of Canada have also published consensus statements on standardized nomenclature for fetal heart rate patterns.
+Interpretation of a CTG tracing requires both qualitative and quantitative description of several factors. This is commonly summed up in the following acronym, DR C BRAVADO:
+DR: Define Risk
+C: Contractions (uterine activity)
+BRA: Baseline fetal heart rate (FHR)
+V: Baseline FHR variability
+A: Presence of accelerations
+D: Periodic or episodic decelerations
+O: Changes or trends of FHR patterns over time
+
+Uterine activity
+There are several factors used in assessing uterine activity.  
+
+Frequency: the number of contractions per unit time.
+Duration: the amount of time from the start of a contraction to the end of the same contraction.
+Resting tone: a measure of how relaxed the uterus is between contractions. With external monitoring, this necessitates the use of palpation to determine relative strength. With an IUPC, this is determined by assessing actual pressures as graphed on the paper.
+Interval: the amount of time between the end of one contraction to the beginning of the next contraction.The NICHD nomenclature defines uterine activity by quantifying the number of contractions present in a 10-minute window, averaged over 30 minutes. Uterine activity may be defined as:
+
+Normal: 5 or fewer contractions in 10 minutes, averaged over a 30-minute window
+Uterine tachysystole: more than 5 contractions in 10 minutes, averaged over a 30-minute window
+
+Baseline fetal heart rate
+The NICHD nomenclature defines baseline fetal heart rate as:
+
+"The baseline FHR is determined by approximating the mean FHR rounded to increments of 5 beats per minute (bpm) during a 10-minute window, excluding accelerations and decelerations and periods of marked FHR variability (greater than 25 bpm). There must be at least 2 minutes of identifiable baseline segments (not necessarily contiguous) in any 10-minute window, or the baseline for that period is indeterminate. In such cases, it may be necessary to refer to the previous 10-minute window for determination of the baseline. An abnormal baseline is termed bradycardia when the baseline FHR is less than 110 bpm; it is termed tachycardia when the baseline FHR is greater than 160 bpm."
+
+Baseline FHR variability
+Moderate baseline fetal heart rate variability reflects the delivery of oxygen to the fetal central nervous system. Its presence is reassuring in predicting an absence of metabolic acidemia and hypoxic injury to the fetus at the time it is observed. In contrast, the presence of minimal baseline FHR variability, or an absence of FHR variability, does not reliably predict fetal acidemia or hypoxia; lack of moderate baseline FHR variability may be a result of the fetal sleep cycle, medications, extreme prematurity, congenital anomalies, or pre-existing neurological injury. Furthermore, increased (or marked) baseline FHR variability (see "Zigzag pattern" and "Saltatory pattern" sections below) is associated with adverse fetal and neonatal outcomes. Based on the duration of the change, increased (i.e. marked) baseline variability is divided into two terms: zigzag pattern and saltatory pattern of FHR. The NICHD nomenclature defines baseline FHR variability as:
+Baseline FHR variability is determined in a 10-minute window, excluding accelerations and decelerations. Baseline FHR variability is defined as fluctuations in the baseline FHR that are irregular in amplitude and frequency. The fluctuations are visually quantitated as the amplitude of the peak-to-trough in beats per minute. Furthermore, the baseline FHR variability is categorized by the quantitated amplitude as:
+Absent – undetectable
+Minimal – greater than undetectable, but 5 or fewer beats per minute
+Moderate – 6–25 beats per minute
+Marked – 25 or more beats per minute
+
+Zigzag pattern of fetal heart rate
+A Zigzag pattern of fetal heart rate (FHR) is defined as FHR baseline amplitude changes of more than 25 beats per minute (bpm) with a minimum duration of 2 minutes and maximum of 30 minutes. However, according to another study, even a >1 min duration of the zigzag pattern is associated with an increased risk of adverse neonatal outcomes. Despite the similarities in the shape of the FHR patterns, the zigzag pattern is distinguished from the saltatory pattern by its duration. According to the International Federation of Gynaecology and Obstetrics (FIGO), a saltatory pattern is defined as FHR baseline amplitude changes of more than 25 bpm with durations of >30 minutes. In a recently published large obstetric cohort study of the zigzag pattern in almost 5,000 term deliveries in Helsinki University Central Hospital, Tarvonen et al. (2020) reported: "ZigZag pattern and late decelerations of FHR were associated with cord blood acidemia, low Apgar scores, need for intubation and resuscitation, NICU admission and neonatal hypoglycemia during the first 24 hours after birth." Furthermore, the "ZigZag pattern precedes late decelerations, and the fact that normal FHR pattern precedes the ZigZag pattern in the majority of the cases suggests that the ZigZag pattern is an early sign of fetal hypoxia, which emphasizes its clinical importance."Furthermore, in the recent study of 5150 deliveries, the hypoxia-related ZigZag pattern was associated with cord blood acidemia, low 5-min Apgar scores at birth, and need for neonatal resuscitation after birth, indicating increased occurrence of fetal hypoxia in GDM pregnancies.
+
+Saltatory pattern of fetal heart rate
+A saltatory pattern of fetal heart rate is defined in cardiotocography (CTG) guidelines by FIGO as fetal heart rate (FHR) baseline amplitude changes of more than 25 beats per minute (bpm) with a duration of >30 minutes.In a 1992 study, the saltatory pattern FHR was defined by O'Brien-Abel and Benedetti as "[f]etal heart baseline amplitude changes of greater than 25 bpm with an oscillatory frequency of greater than 6 per minutes for a minimum duration of 1 minute". The pathophysiology of the saltatory pattern is not well-known. It has been linked with rapidly progressing hypoxia, for example due to an umbilical cord compression, and it is presumed to be caused by an instability of the fetal central nervous system.In a study by Nunes et al. (2014), four saltatory patterns in CTG exceeding 20 minutes in the last 30 minutes before birth were associated with fetal metabolic acidosis. According to this study, saltatory pattern is a relatively rare condition; only four cases were found from three large databases.
+In a study by Tarvonen et al. (2019), it was demonstrated that the occurrence of saltatory pattern (already with the minimum duration of 2 minutes) in CTG tracings during labor was associated with fetal hypoxia indicated by high umbilical vein (UV) blood erythropoietin (EPO) levels and umbilical artery (UA) blood acidosis at birth in human fetuses. As saltatory patterns preceded late decelerations of fetal heart rate (FHR) in the majority of cases, saltatory pattern seems to be an early sign of fetal hypoxia. According to the authors, awareness on this gives obstetricians and midwives time to intensify electronic fetal monitoring and to plan possible interventions before fetal asphyxia occurs.Due to a standardized terminology and to avoid miscommunication on CTG interpretation, it has been recently proposed in an exhaustive BJOG review of animal and human studies that terms such as saltatory pattern, ZigZag pattern and marked variability should be abandoned, and the common term "increased variability" should be used in clinical CTG guidelines.
+
+Accelerations
+The NICHD nomenclature defines an acceleration as a visually apparent abrupt increase in fetal heart rate. An abrupt increase is defined as an increase from the onset of acceleration to the peak in 30 seconds or less. To be called an acceleration, the peak must be at least 15 bpm, and the acceleration must last at least 15 seconds from the onset to return to baseline.
+A prolonged acceleration is greater than 2 minutes but less than 10 minutes in duration, while an acceleration lasting 10 minutes or more is defined as a baseline change. 
+Before 32 weeks of gestation, accelerations are defined as having a peak of at least 10 bpm and a duration of at least 10 seconds.
+
+Periodic or episodic decelerations
+Periodic refers to decelerations that are associated with contractions; episodic refers to those not associated with contractions. There are four types of decelerations as defined by the NICHD nomenclature, all of which are visually assessed.
+Early decelerations: a result of increased vagal tone due to compression of the fetal head during contractions. Monitoring usually shows a symmetrical, gradual decrease and return to baseline of FHR, which is associated with a uterine contraction. A 'gradual' deceleration has a time from onset to nadir of 30 seconds or more. Early decelerations begin and end at approximately the same time as contractions, and the low point of the fetal heart rate occurs at the peak of the contraction.
+Late decelerations: a result of placental insufficiency, which can result in fetal distress. Monitoring usually shows symmetrical gradual decrease and return to baseline of the fetal heart rate in association with a uterine contraction. A 'gradual' deceleration has an onset to nadir of 30 seconds or more. In contrast to early deceleration, the low point of fetal heart rate occurs after the peak of the contraction, and returns to baseline after the contraction is complete.
+Variable decelerations: generally a result of umbilical cord compression, and contractions may further compress a cord when it is wrapped around the neck or under the shoulder of the fetus. They are defined as abrupt decreases in fetal heart rate, with less than 30 seconds from the beginning of the decrease to the nadir of heart rate. The decrease in FHR is at least 15 beats per minute, lasting at least 15 seconds but less than 2 minutes in duration. When variable decelerations are associated with uterine contractions, their onset, depth, and duration commonly vary with successive uterine contractions.
+Prolonged deceleration: a decrease in FHR from baseline of at least 15 bpm, lasting at least 2 minutes but less than 10 minutes. A deceleration of at least 10 minutes is a baseline change.Additionally, decelerations can be recurrent or intermittent based on their frequency (more or less than 50% of the time) within a 20-minute window.
+
+FHR pattern classification
+Before 2008, fetal heart rate was classified as either "reassuring" or "nonreassuring". The NICHD workgroup proposed terminology for a three-tiered system to replace the older, undefined terms.
+Category I (Normal): Tracings with all these findings present are strongly predictive of normal fetal acid-base status at the time of observation and the fetus can be followed in a standard manner:
+Baseline rate 110–160 bpm,
+Moderate variability,
+Absence of late or variable decelerations,
+Early decelerations and accelerations may or may not be present.
+Category II (Indeterminate): Tracing is not predictive of abnormal fetal acid-base status. Evaluation and continued surveillance and reevaluations are indicated.
+Bradycardia with normal baseline variability
+Tachycardia
+Minimal or Marked baseline variability of FHR
+Accelerations: Absence of induced accelerations after fetal stimulation
+Periodic or Episodic decelerations: Longer than 2 minutes but shorter than 10 minutes; recurrent late decelerations with moderate baseline variability
+Variable decelerations with other characteristics such as slow return to baseline, overshoots of "shoulders" seen (humps on either side of deceleration)
+Category III (Abnormal): Tracing is predictive of abnormal fetal acid-base status at the time of observation; this requires prompt evaluation and management.
+Absence of baseline variability, with recurrent late/variable decelerations or bradycardia; or
+Sinusoidal fetal heart rate.
+
+Updated 2015 FIGO Intrapartum Fetal Monitoring Guidelines
+FIGO has recently modified the guidelines on intrapartum fetal monitoring, proposing the following interpretation:
+Normal: No hypoxia or acidosis; no intervention necessary to improve fetal oxygenation state.
+Baseline 110–160 bpm
+Variability 5–25 bpm
+No repetitive decelerations (decelerations are defined as repetitive when associated with >50% contractions)
+Suspicious: Low probability of hypoxia/acidosis, warrants action to correct reversible causes if identified, close monitoring or adjunctive methods.
+Lacking at least one characteristic of normality, but with no pathological features.
+Pathological: High probability of hypoxia/acidosis, requires immediate action to correct reversible causes, adjunctive methods, or if this is not possible expedite delivery. In acute situations, delivery should happen immediately.
+Baseline <100 bpm
+Reduced or increased variability or sinusoidal pattern
+Repetitive late or prolonged decelerations for >30 min, or >20 min if reduced variability (decelerations are defined as repetitive when associated with >50% contractions)
+Deceleration >5 minutes
+
+Benefits
+According to the Cochrane review from February 2017, CTG  was associated with fewer neonatal seizures but it is unclear if it had any impact on long-term neurodevelopmental outcomes. No clear differences in incidence of cerebral palsy, infant mortality, other standard measures of neonatal wellbeing, or any meaningful differences in long-term outcomes could be shown. Continuous CTG was associated with the higher rates of caesarean sections and instrumental vaginal births. The authors see the challenge in how to discuss these results with women to enable them to make an informed decision without compromising the normality of labour. Future research should focus on events that happen in pregnancy and labour that could be the cause of long-term problems for the baby.
+
+See also
+Fetal stethoscope
+Nonstress test (NST)
+Biophysical profile (BPP)
+
+
+== References ==

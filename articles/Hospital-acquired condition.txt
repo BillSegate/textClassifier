@@ -1,0 +1,29 @@
+A hospital-acquired condition (HAC) is an undesirable situation or condition that affects a patient and that arose during a stay in a hospital or medical facility. It is a designation used by Medicare/Medicaid in the US for determining MS-DRG reimbursement beginning with version 26 (October 1, 2008). Not only hospital-acquired infections but also any other situation or condition, such as pressure ulcers, blood type mismatch, or iatrogenic injury, can be a HAC.
+A patient at a hospital can be infected or otherwise degraded by hospital conditions and/or personnel in ways that are sometimes diagnosed as a "complication." The US Medicare system designates some 1000+ ICD-9-CM diagnoses, out of over 14000 (as of 2009), as possible HACs. On February 8, 2006, the President signed the Deficit Reduction Act (DRA) of 2005. Section 5001(c) of DRA requires the Secretary to identify conditions that are: (a) high cost or high volume or both, (b) result in the assignment of a case to a DRG that has a higher payment when present as a secondary diagnosis, and (c) could reasonably have been prevented through the application of evidence-based guidelines. Section 5001(c) provides that CMS can revise the list of conditions from time to time, as long as it contains at least two conditions.  On July 31, 2008, in the inpatient prospective payment system (IPPS) fiscal year (FY) 2009 Final Rule, the Centers for Medicare & Medicaid Services (CMS) selected 10 categories of conditions for a HAC payment provision. For discharges occurring on or after October 1, 2008, hospitals no longer receive additional payment for cases in which one of the selected conditions was not present on admission. That is, the case would be paid as though the secondary diagnosis were not present.
+
+Categories of hospital-acquired condition
+The following are the current, as of October 1, 2009 (MS-DRG v27), Hospital-Acquired Conditions:Conditions selected for implementation
+These conditions will have payment implications beginning on October 1, 2008.
+Object left in during surgery (998.4 CC) 
+Air embolism (999.1 MCC)
+Blood incompatibility (999.6 CC)
+Catheter Associated Urinary Tract Infection, 
+996.64 CC & one of the following specific infection codes: 112.2, 590.10, 590.11, 590.2, 590.3, 
+590.80, 590.81, 590.9, 595.0, 595.3, 595.4, 595.81, 590.89, 595.9, 597.0, 597.80, 599.0 
+Pressure Ulcers (707.00-.01 & 7-7.09 CCs; 707.02-09 MCCs)
+Vascular Catheter Associated Infection (999.31 CC)
+Surgical Site Infection – Mediastinitis after Coronary Artery Bypass Graft (CABG) Surgery (519.2 MCC & 36.10-.19)
+Falls and Trauma – Fractures, Dislocations, Intracranial Injuries, Crushing Injuries, and Burns (Codes will be considered in FY2009 IPPS Proposed Rule)
+
+Falls are a leading cause of hospital-acquired injury, and frequently prolong or complicate hospital stays.
+Falls are the most common adverse event reported in hospitals.Almost all of the 1000+ diagnoses that are possible HACs are designated "Falls and trauma."
+
+Determination
+When a diagnosis is recorded, it is designated either Present on Admission (POA) or not. If the diagnosis is POA, it is not demoted.
+However, if a diagnosis is not POA, it might be demoted. Most HAC diagnoses are demoted if they are not POA. Some that are not so simple are designated above with the tag "Proc," "Diag," or both. In those situations, a diagnosis must also be accompanied by one of a specific set of diagnoses, procedures, or both to be demoted.
+For instance, if a patient falls out of bed while in a hospital, the consequent broken hip was not present on admission, so the "complication" of "broken hip" would be demoted as a "Falls and trauma" HAC. The hospital would not be compensated for treatment of the injury. The intent of this sort of classification is to force hospitals to prevent such problems in the first place.
+
+References
+See also
+Iatrogenesis
+Nosocomial infection

@@ -1,0 +1,4 @@
+The International Classification of External Causes of Injury (ICECI) is a medical classification providing codes for external injuries. It is designed to aid professionals and researchers in the statistical tracking and prevention of injury. First released in 2001, the ICECI is a Related Classification in the WHO Family of International Classifications (WHO-FIC). It is related to ICD-10 Chapter XX (External causes of morbidity and mortality). While the ICD-10 classifies injuries in and of themselves, the ICECI allows for systematic description of the causes and circumstances surrounding the injury. 
+
+
+== References ==

@@ -1,0 +1,16 @@
+A health record trust (also independent health record trust or health record data bank) provides a secure and protected place for individuals to create, use, and maintain their lifetime electronic health record (EHR). The health record trust takes personal health records one step further by combining an individual's electronic health record with the personal health record.  A health record trust protects patient privacy by establishing that the patient is the owner of their health care records. It gives patients the authority to access and review the entire document at any time. It allows healthcare professionals, facilities, and organizations to view all or a limited portion of the records.The health record trust allows for all of the information to be in one central document. Patients cannot alter their health records but instead add notes and request corrections. They can also view every provider who downloads their EHR.
+
+Public policy
+The legislation was introduced in the 110th Congress to establish a regulatory framework for establishing health record trusts. The Independent Health Record Trust Act of 2007 (H.R. 2991) was introduced by Rep. Dennis Moore (D-KS) and Rep. Paul Ryan (R-WI) on July 11, 2007. The legislation seeks to give people control over their lifetime health records, with the broader goal of reducing healthcare costs that result from inefficiency, medical errors, inappropriate care, and incomplete information. This legislation provides standards for using health record trusts, including certifications and interoperability of independent health record trusts. HR 2991 was referred to the House Committee on Energy and Commerce and the House Committee on Ways and Means. The bill died in committee and has not been reintroduced.Patients receive better quality of care with the availability of a longitudinal health record protected by a health record trust. They can pass along their medical records to future generations. Health record trusts promote wellness and improve patient care through quick and easy access to critical health information.
+
+Implementations
+Arizona's eHealthTrust health record bank launched in 2010 with a freemium pricing strategy. In 2012, Harvard University's Data Privacy Lab launched MyDataCan, offering free data storage and distribution with optional integration for third-party app, both free and paid.
+
+See also
+Health information exchange
+Office of the National Coordinator for Health Information Technology
+Regional Health Information Organization
+
+References
+External links
+H.R. 2991

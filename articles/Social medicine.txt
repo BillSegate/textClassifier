@@ -1,0 +1,66 @@
+Social medicine is an interdisciplinary field that focuses on the profound interplay between socio-economic factors and individual health outcomes. Rooted in the challenges of the Industrial Revolution, it seeks to:
+
+Understand how specific social, economic, and environmental conditions directly impact health, disease, and the delivery of medical care.
+Promote conditions and interventions that address these determinants, aiming for a healthier and more equitable society.Social medicine as a scientific field gradually began in the early 19th century, the Industrial Revolution and the subsequent increase in poverty and disease among workers raised concerns about the effect of social processes on the health of the poor. The field of social medicine is most commonly addressed today by efforts to understand what are known as social determinants of health.
+
+Scope
+The major emphasis on biomedical science in medical education, health care, and medical research has resulted into a gap with our understanding and acknowledgement of far more important social determinants of health and individual disease: social-economic inequalities, war, illiteracy, detrimental life-styles (smoking, obesity), discrimination because of race, gender and religion. Farmer et al. (2006) gave the following explanation for this gap:
+The holy grail of modern medicine remains the search for a molecular basis of disease. While the practical yield of such circumscribed inquiry has been enormous, exclusive focus on molecular-level phenomena has contributed to the increasing "desocialization" of scientific inquiry: a tendency to ask only biological questions about what are in fact biosocial phenomena.
+They further concluded that "Biosocial understandings of medical phenomena are urgently needed".Social medicine is a vast and evolving field, and its scope can cover a wide range of topics that touch on the intersection of society and health. The scope of social medicine medicine includes:
+
+Social Determinants of Health: Investigation of how factors like income, education, employment, race, gender, housing, and social support impact health outcomes.
+Health Equity and Disparities: Studying the disparities in health outcomes among different groups based on racial, economic, gender, or other sociodemographic factors and creating strategies to promote equal health opportunities for all.
+Health Systems and Policies: Evaluating how different healthcare systems, structures, and policies impact health outcomes. This includes assessing the effectiveness of public health campaigns, insurance models, and health-related legislation.
+Environmental Health: Understanding how environmental factors such as pollution, climate change, and access to clean water and sanitation affect health.
+Global Health: Addressing health concerns that transcend national borders, such as epidemics, pandemics, or the health impacts of globalization.
+Cultural Competency: Training healthcare professionals to understand and respect cultural differences in patient care. This involves understanding diverse health beliefs, values, and behaviors.
+Migration and Health: Studying the health implications of migration, whether it's due to conflict, economic reasons, or other factors. This includes looking at issues like refugee health, healthcare access for undocumented migrants, and more.
+Urbanization and Health: Analyzing the impact of urban living conditions, urban development, and city policies on health.
+Mental Health: Delving into how social factors like stigma, discrimination, social isolation, and traumatic events impact mental health and well-being.
+Violence and Health: Investigating the health implications of different forms of violence, including domestic violence, community violence, and structural violence, and developing strategies to prevent and address these impacts.
+Occupational Health: Examining the health impacts of different work environments, job roles, and organizational structures.
+Substance Use and Addiction: Analyzing the social determinants and implications of substance use, including policies and societal attitudes toward different substances.
+Community Engagement and Empowerment: Working with communities to identify their health needs, co-create interventions, and mobilize resources to promote health.
+Medical Education: Integrating social medicine topics into medical curricula to ensure that healthcare professionals are equipped to address the social aspects of health and illness.
+Interdisciplinary Collaboration: Working with professionals from diverse fields, such as anthropology, sociology, economics, and urban planning, to address complex health challenges.
+
+Comparison with Public Health
+While there is some overlap between social medicine and public health , there are distinctions between the two fields. Distinct from public health, which concentrates on the health of entire populations and encompasses broad strategies for disease prevention and health promotion, social medicine dives deeper into the societal structures and conditions that lead to health disparities among different groups. Its approach is often more qualitative, honing in on the lived experiences of individuals within their social contexts. While public health might launch broad-spectrum interventions like vaccination campaigns or sanitation drives, social medicine probes the underlying socio-economic reasons why certain communities might be disproportionately affected by health challenges. The ultimate goal of social medicine is to ensure that societal structures support the health of all members, particularly those most vulnerable or marginalized.
+
+Social Medicine:
+Focus: Primarily on the socio-economic factors that affect health and how these can be addressed to promote better health outcomes.
+Approach: It delves deeper into the relationship between society and individual health. This includes the impacts of discrimination, inequality, poverty, and other social determinants.
+Historical Context: Originated during the Industrial Revolution as a response to the health challenges faced by the working class due to industrialization.
+Goal: To use the understanding of socio-economic factors to influence healthcare practices and policy to bring about a healthier society.
+Public Health:
+Focus: On the health of the general population, aiming to prevent disease and promote health at a community or population level.
+Approach: It encompasses a broader set of tools and strategies, ranging from disease surveillance, health education, policy recommendations, and health promotion initiatives.
+Historical Context: Has its roots in controlling infectious diseases, ensuring clean water and sanitation, and other community-wide health initiatives.
+Goal: To improve health outcomes through community interventions, policy, and education, often utilizing epidemiological studies and data analysis.To visualize the difference: Imagine a city facing an outbreak of a disease. A public health approach might involve vaccination campaigns, public health advisories, and quarantine measures. A social medicine approach might delve into why certain communities within the city are more affected than others, looking at housing conditions, employment status, racial or socio-economic discrimination, and other societal factors, and then proposing solutions based on these insights.
+Both fields recognize the importance of the social determinants of health but approach the topic from slightly different angles and with varying emphases. In practice, there's a lot of collaboration and overlap between social medicine and public health, as both are essential for a holistic approach to health and wellness.
+
+Social care
+Social care aims to promote wellness and emphasizes preventive, ameliorative, and maintenance efforts during illness, impairment, or disability. It adopts a holistic perspective on health and encompasses a variety of practices and viewpoints aimed at disease prevention and reduction of the economic, social, and psychological burdens associated with prolonged illnesses and diseases. The social model was developed as a direct response to the medical model, the social model sees barriers (physical, attitudinal and behavioural) not just as a biomedical issue, but as caused in part by the society we live in – as a product of the physical, organizational and social worlds that lead to discrimination (Oliver 1996; French 1993; Oliver and Barnes 1993). Social care advocates equality of opportunities for vulnerable sections of society.
+
+History
+German physician Rudolf Virchow (1821–1902) laid foundations for this model. Other prominent figures in the history of social medicine, beginning from the 20th century, include Salvador Allende, Henry E. Sigerist, Thomas McKeown, Victor W. Sidel, Howard Waitzkin, and more recently Paul Farmer and Jim Yong Kim.
+In The Second Sickness, Waitzkin traces the history of social medicine from Engels, through Virchow and Allende.  Waitzkin has sought to educate North Americans about the contributions of Latin American Social Medicine.In 1976, the British public health scientist and health care critic Thomas McKeown, MD, published "The role of medicine: Dream, mirage or nemesis?", wherein he summarized facts and arguments that supported what became known as McKeown's thesis, i.e. that the growth of population can be attributed to a decline in mortality from infectious diseases, primarily thanks to better nutrition, later also to better hygiene, and only marginally and late to medical interventions such as antibiotics and vaccines. McKeown was heavily criticized for his controversial ideas, but is nowadays remembered as "the founder of social medicine".
+
+Occupational Health & Social Medicine
+The world of work played a fundamental role in the development of a social approach to health during the first industrial revolution, as exemplified by Virchow’s work on typhus and coal miners. Over the past 50 years, Occupational Safety and Health.  The resulting distinction between work/nonwork related risks and outcomes has served as an artificial line of demarcation between OSH and the rest of public health. However, growing social inequality, the fundamental reorganization of the world of work,  and a broadening of our understanding of the relationship between work and health have blurred this line of demarcation and highlight the need to expand and compliment the reductionist view of cause and effect.  In response, OSH is reintegrating a social approach to account for the social, political, and economic interactions that contribute to occupational health outcomes.
+
+See also
+References
+BibliographySocial Medicine: http://journals.sfu.ca/socialmedicine/index.php/socialmedicine/index
+Social Medicine Portal: http://www.socialmedicine.org/
+Porter D (2006). "How Did Social Medicine Evolve, and Where Is It Heading?". PLOS Med. 3 (10): e399. doi:10.1371/journal.pmed.0030399. PMC 1621092. PMID 17076552.
+Matthew R. Anderson, Lanny Smith, and Victor W. Sidel. What is Social Medicine?  Monthly Review: 56(8). http://www.monthlyreview.org/0105anderson.htm
+King NMP, Strauss RP, Churchill LR, Estroff SE, Henderson GE, et al. editors (2005) Patients, doctors, and illness. Volume I: The social medicine reader 2nd edition Durham: Duke University Press.
+Henderson GE, Estroff SE, Churchill LR, King NMP, Oberlander J, et al. editors (2005) Social and cultural contributions to health, difference, and inequality. Volume II: The social medicine reader 2nd edition Durham: Duke University Press.
+Oberlander J, Churchill LR, Estroff SE, Henderson GE, King NMP, et al. editors (2005) Health policy, markets, and medicine. Volume III: The social medicine reader 2nd edition Durham: Duke University Press.
+Porter D, Porter R (1988). "What was social medicine? An historiographical essay". J Hist Sociol. 1 (1): 90–106. doi:10.1111/j.1467-6443.1988.tb00005.x. PMID 11617341.
+Stonington S, Holmes SM (2006). "Social medicine in the twenty-first century". PLOS Med. 3 (10): e445. doi:10.1371/journal.pmed.0030445. PMC 1621097. PMID 17523252.
+
+External links
+Introduction to the journal: Social Medicine
+What is social medicine?

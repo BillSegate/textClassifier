@@ -1,0 +1,95 @@
+This is a list of disorders included in newborn screening programs around the world, along with information on testing methodologies, disease incidence and rationale for being included in screening programs.
+
+American College of Medical Genetics recommendations
+Core panel
+The following conditions and disorders were recommended as a "core panel" by the 2005 report of the American College of Medical Genetics (ACMG). The incidences reported below are from the full report, though the rates may vary in different populations.Blood cell disorders  
+
+Sickle cell anemia (Hb SS) > 1 in 5,000; among African-Americans 1 in 400
+Sickle-cell disease (Hb S/C) > 1 in 25,000
+Hb S/Beta-Thalassemia (Hb S/Th) > 1 in 50,000Inborn errors of amino acid metabolism  
+
+Tyrosinemia I (TYR I)  < 1 in 100,000
+Argininosuccinic aciduria (ASA) < 1 in 100,000
+Citrullinemia (CIT) < 1 in 100,000
+Phenylketonuria (PKU) > 1 in 25,000
+Maple syrup urine disease (MSUD)  < 1 in 100,000
+Homocystinuria (HCY) < 1 in 100,000Inborn errors of organic acid metabolism
+
+Glutaric acidemia type I (GA I) > 1 in 75,000
+Hydroxymethylglutaryl lyase deficiency (HMG) < 1 in 100,000
+Isovaleric acidemia (IVA) < 1 in 100,000
+3-Methylcrotonyl-CoA carboxylase deficiency (3MCC) > 1 in 75,000
+Methylmalonyl-CoA mutase deficiency (MUT) > 1 in 75,000
+Methylmalonic aciduria, cblA and cblB forms (MMA, Cbl A,B) < 1 in 100,000
+Beta-ketothiolase deficiency (BKT) < 1 in 100,000
+Propionic acidemia (PROP) > 1 in 75,000
+Multiple-CoA carboxylase deficiency (MCD) < 1 in 100,000Inborn errors of fatty acid metabolism
+
+Long-chain hydroxyacyl-CoA dehydrogenase deficiency (LCHAD) > 1 in 75,000
+Medium-chain acyl-CoA dehydrogenase deficiency (MCAD) > 1 in 25,000
+Very-long-chain acyl-CoA dehydrogenase deficiency (VLCAD) > 1 in 75,000
+Trifunctional protein deficiency (TFP) < 1 in 100,000
+Carnitine uptake defect (CUD) < 1 in 100,000Miscellaneous multisystem diseases
+
+Cystic fibrosis (CF) > 1 in 5,000
+Congenital hypothyroidism (CH) > 1 in 5,000
+Biotinidase deficiency (BIOT) > 1 in 75,000
+Congenital adrenal hyperplasia (CAH) > 1 in 25,000
+Classical galactosemia (GALT)  > 1 in 50,000Newborn screening by other methods than blood testing
+
+Congenital deafness (HEAR) > 1 in 5,000
+
+Secondary targets
+The following disorders are additional conditions that may be detected by screening. Many are listed as "secondary targets" by the 2005 ACMG report. Some states are now screening for more than 50 congenital conditions. Many of these are rare and unfamiliar to pediatricians and other primary health care professionals.Blood cell disorders
+
+Variant hemoglobinopathies (including Hb E)
+Glucose-6-phosphate dehydrogenase deficiency (G6PD)Inborn errors of amino acid metabolism
+
+Tyrosinemia II
+Argininemia
+Benign hyperphenylalaninemia
+Defects of biopterin cofactor biosynthesis
+Defects of biopterin cofactor regeneration
+Tyrosinemia III
+Hypermethioninemia
+Citrullinemia type IIInborn errors of organic acid metabolism
+
+Methylmalonic acidemia (Cbl C,D)
+Malonic acidemia
+2-Methyl 3-hydroxy butyric aciduria
+Isobutyryl-CoA dehydrogenase deficiency
+2-Methylbutyryl-CoA dehydrogenase deficiency
+3-Methylglutaconyl-CoA hydratase deficiency
+Glutaric acidemia type II
+HHH syndrome (Hyperammonemia, hyperornithinemia, homocitrullinuria syndrome)
+Beta-methyl crotonyl carboxylase deficiency
+Adenosylcobalamin synthesis defectsInborn errors of fatty acid metabolism
+
+Medium/short-chain L-3-hydroxy acyl-CoA dehydrogenase deficiency
+Medium-chain ketoacyl-CoA thiolase deficiency
+Dienoyl-CoA reductase deficiency
+Glutaric acidemia type II
+Carnitine palmityl transferase deficiency type 1
+Carnitine palmityl transferase deficiency type 2
+Short-chain acyl-CoA dehydrogenase deficiency (SCAD)
+Carnitine/acylcarnitine Translocase Deficiency (Translocase)
+Short-chain hydroxy Acyl-CoA dehydrogenase deficiency (SCHAD)
+Long-chain acyl-CoA dehydrogenase deficiency (LCAD)
+Multiple acyl-CoA dehydrogenase deficiency (MADD)Miscellaneous multisystem diseases
+
+Galactokinase deficiency
+Galactose epimerase deficiency
+Maternal vitamin B12 deficiency
+
+Disorders added after the initial panel was defined
+In addition to identifying a core list of disorders that infants in the United States should be screened for, the ACMG also established a framework for nominating future conditions, and the structure under which those conditions should be considered.
+
+Severe combined immune deficiency (SCID) - added in 2009
+Critical congenital heart defects (Screened using pulse oximetry) - added in 2010
+Pompe disease - added in 2013
+Mucopolysaccharidosis type I - added in 2015
+X-linked adrenoleukodystrophy - added in 2018
+Spinal muscular atrophy - added in 2018
+
+
+== References ==

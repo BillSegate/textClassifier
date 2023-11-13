@@ -1,0 +1,17 @@
+Pathognomonic (rare synonym pathognomic) is a term, often used in medicine, that means "characteristic for a particular disease". A pathognomonic sign is a particular sign whose presence means that a particular disease is present beyond any doubt. Labelling a sign or symptom "pathognomonic" represents a marked intensification of a "diagnostic" sign or symptom.
+The word is an adjective of Greek origin derived from πάθος pathos "disease" and γνώμων gnomon "indicator" (from γιγνώσκω gignosko "I know, I recognize").
+
+Practical use
+While some findings may be classic, typical or highly suggestive in a certain condition, they may not occur uniquely in this condition and therefore may not directly imply a specific diagnosis. A pathognomonic sign or symptom has very high positive predictive value and high specificity but does not need to have high sensitivity: for example it can sometimes be absent in a certain disease, since the term only implies that, when it is present, the doctor instantly knows the patient's illness. The presence of a pathognomonic finding allows immediate diagnosis, since there are no other conditions in the differential diagnosis.Singular pathognomonic signs are relatively uncommon. Examples of pathognomonic findings include Koplik's spots inside the mouth in measles, the palmar xanthomata seen on the hands of people suffering from hyperlipoproteinemia, Negri bodies within brain tissue infected with rabies, or a tetrad of rash, arthralgia, abdominal pain and kidney disease in a child with Henoch–Schönlein purpura.As opposed to symptoms (reported subjectively by the patient and not measured) and signs (observed by the physician at the bedside on physical exam, without need for a report) a larger number of medical test results are pathognomonic. An example is the hypersegmented neutrophil, which is seen only in megaloblastic anemias (not a single disease, but a set of closely related disease states). More often a test result is "pathognomonic" only because there has been a consensus to define the disease state in terms of the test result (such as diabetes mellitus being defined in terms of chronic fasting blood glucose levels).In contrast, a test with very high sensitivity rarely misses a condition, so a negative result should be reassuring (the disease tested for is absent). A sign or symptom with very high sensitivity is often termed sine qua non. An example of such test is a genetic test to find an underlying mutation in certain types of hereditary colon cancer.
+
+Examples
+See also
+AIDS defining clinical condition
+List of eponymous medical signs
+Medical sign
+Sine qua non
+
+References
+External links
+
+Slide show with audio summary of 122 pathognomonic signs

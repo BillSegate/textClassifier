@@ -1,0 +1,86 @@
+The Medical Technology Group (MTG) is a not for profit organisation in the United Kingdom comprising patient groups, research charities and medical device manufacturers. Its stated aim is to "work together to improve patient access to effective medical technologies". The Group launched in 2001.
+
+Membership
+Current members of the MTG are:
+
+Research
+Elective Backlog
+In November 2023, the Medical Technology Group called for a full review into Community Diagnostic Centres and Surgical Hubs in its second report into the elective care backlog. Following an investigation revealing regional variation in best practice sharing and performance reviews, chair of the MTG Barbara Harpham expressed concern that some patients could be missing out on the latest medical technology.
+
+Meaningful Patient Involvement
+The MTG published a report: "Delivering Meaningful Patient Involvement" in September 2023 that revealed widespread variation in the instance and quality of meaningful patient involvement across the 42 Integrated Care Systems (ICSs) of NHS England. Research into the structures, policies and processes of the country’s 42 Integrated Care Systems found that, while there are examples of best practice, 40 percent of them had no formal patient involvement in Board meetings and subcommittees. The report also revealed the postcode lottery for patient involvement, with the worst provision in the Midlands and the South, with the Northeast leading the way in integrating patient insight into decision making.
+
+Barriers to adoption of innovation
+In August 2023, the Medical Technology Group published a report examining the barriers to the uptake of innovation by the NHS, particularly for small and medium sized enterprises. The MTG called for three recommendations for the NHS:
+1.	Create a single pathway within the NHS for medical technologies, with easy-to-understand steps and processes, and clear guidance on how medical technologies can be adopted in the NHS at pace and scale.
+2.	Enhance the weighting given to value within the assessment process for medical technologies, particularly on the value to the patient, to ensure that cost is not the single factor to consider when deciding on innovative technologies to approve for use in the NHS.
+3.	Support the adoption and spread of proven, effective medical technologies by ensuring effective payment mechanisms and support for spread within the NHS, to ensure equitable access to medical technologies for patients across the country.
+
+Variation in regional performance
+In September 2022, the Medical Technology Group published a report on patient referral data from NHS England for all completed pathways, as well as specialised treatment areas including general surgery, cardiology and orthopaedics. The report revealed the best performing regions in England, with some hospitals in the southwest and northeast treating up to three times as many patients as those in London and the Midlands, and shared examples of best practice. The Health Service Journal published an article in October 2022 by Chair of the MTG, Barbara Harpham, which examined the need for organisations to share best practices in order to improve care within the NHS.
+
+The impact of medical technology
+In November 2021, the Medical Technology Group published its ‘Medtech the Solution’ manifesto to coincide with the twentieth anniversary of the MTG’s formation in 2001. The report highlights the achievements in medical technology in the past two decades and includes contributions from Rachel Power, CEO of the Patients Association, Dean Russell MP, and health innovation policy expert, Paul Blakeley. It calls for better access to medical technology to reduce pressure, clinician time, and costly interventions in the NHS, and recommends:
+
+Prioritisation of the patient voice, including consulting patients on decisions around commissioning and funding, and offering them all the diagnosis and treatment decisions available so they can make an informed choice.
+Accelerated access for patients to medical technology, so that any technology recommended by NICE is taken up at pace and scale across the country, with Integrated Care Systems (ICSs) implementing and being accountable for uptake.
+Fair and timely commissioning, where commissioning decisions by NHS England and proven, recommended technologies are linked to funding, wider societal value is included in NICE decisions, and long-term decision making that improves health outcomes is rewarded.
+
+Regional variation in NHS treatment rates
+In September 2021, the Medical Technology Group released analysis of NHS England data that revealed huge regional variation in the number of patients receiving NHS treatment in England. It found that Clinical Commissioning Groups (CCGs) in the North performed significantly better than those in the South. The number of patients receiving NHS treatment in June 2021 ranged from 2.52 per 1,000 population in Wirral CCG to 8.77 per 1,000 population in Wakefield CCG, over three times higher. The best performing region was the Northeast which treated 5.37 patients per 1,000 population, compared to 3.38 in London and 4.14 in the East. Of the 10 best performing CCGs, 7 were in the North, while 8 of the 10 worst performing CCGs were in the Midlands and South.
+The data also revealed that the NHS in England was treating significantly fewer patients than before the Covid-19 pandemic. A comparison found that 242,293 people received treatment in July 2021, nearly 22,000 fewer (-8%) than the same period in 2019 (264,108). The MTG proposed a five-point post-Covid NHS Standard: Patient Charter to address the issue.
+
+Medical Technology Access Accelerator
+In March 2021, the Medical Technology Group published its Medical Technology Access Accelerator report, reviewing the current NHS infrastructure for introducing medical technologies and setting out eleven recommendations to improve the systematic uptake and spread of innovation. Among its recommendations, the report emphasises the need for a single pathway to support innovators to effectively navigate the system, guaranteed funding and commissioning, as well as the importance of including patients in decisions around a technology’s adoption.
+The report was published during the Covid-19 pandemic. Speaking on the report, MTG Chair Barbara Harpham said “The benefits of medical technology for patients have been clear during the COVID-19 pandemic […] if we are going to take advantage of new technology to enable the health service to recover and become more efficient in the future, we need a simple, clear mechanism for adopting new treatments”.
+
+Innovation adoption in the NHS
+In its report Our NHS: A Spotlight on the Innovation Landscape, published in January 2020, the MTG assessed the mechanisms for innovation and technology within the NHS, and whether they foster an environment that delivers timely treatments to patients and takes full advantage of the health technology on offer. The report evaluated the key innovation organisations, based on factors such as how they perform, interact and operate with one another and considered the changes that have taken place since the 2016 Déjà Review report, assessing whether the development of the Accelerated Access Review took the recommendations made in this report into account and avoided previous mistakes.
+
+CCG treatment rationing
+Over half of clinical commissioning groups restrict access to cataract surgery, research by the Medical Technology Group into CCGs' lists of 'Procedures of Limited Clinical Value' in October 2018 revealed. Other findings were that almost half of CCGs limit access to hernia repair and many take a 'watchful waiting' approach, which can increase emergency cases and lead to worse patient outcomes. In addition, 78 CCGs restrict hip and knee replacement, despite the surgery being proven to be effective in keeping people mobile since over half a century. A further 12 CCGs refuse to provide patients with continuous glucose monitoring, while seven only provide it with an individual funding request. The Royal National Institute for Blind People (RNIB) described the findings as "shocking", while the Royal College of Surgeons said that "It is wrong for commissioning groups to label operations for hip and knee replacements, and hernia surgery, as of limited value – thereby delaying or denying surgery to patients in pain." In 2019 the Medical Technology Group launched a campaign 'Ration Watch' calling for a national body to scrutinise decisions by individual CCGs and ensure patient access to treatments is consistent across the country.
+
+STPs and the use of technology
+Nine out of ten regional NHS plans are failing to pay enough attention to the role of medical technology, a report by the Medical Technology Group report found in November 2018. All 44 regional STP plans were analysed in the report STPs and the use of technology, which concluded that the NHS is risking missing out on the opportunity to benefit from the use of innovative medical technology. Seven recommendations for ensuring healthcare systems assess, procure, commission and deliver technology-based treatments effectively are set out in the report. Writing on the BMA website, MTG Chair Barbara Harpham said: "Until it puts an end to its perverse incentives, the NHS will never truly embrace technology and realise its benefits."
+
+Keeping Britain Working: How medical technology can help reduce the cost of ill health to the UK economy
+In November 2017, The Medical Technology Group launched its second major study, Keeping Britain Working – How medical technology can help reduce the cost of ill health to the UK economy. Building on the Work Foundation's 2011 study, the report explores the societal and economic impact of eight technologies: hip replacements; implantable cardiac defibrillators (ICDs); insulin pumps; diagnostics, including sepsis; fibroid embolisation; pain management; wound care; and coronary angioplasty. The report concluded that £476 million in savings per year could be generated from the use of eight technologies in reduced long-term health costs and benefit payments.
+
+The North-South NHS divide: how where you are – not what you need – dictates your care
+A review of all 209 clinical commissioning groups (CCGs) in England – published in August 2017 – revealed wide variation in waiting times and access to medical technology for patients. The study The North-South NHS divide: how where you are - not what you need - dictates your care examined five clinical areas in NHS 18 Week Referral to Treatment and NHS Atlas of Variation data. It found that nine out of ten of the poorest performing CCGs were based in the south of England and that almost three times more patients were waiting longer than 18 weeks for treatment compared with November 2012. The report made seven recommendations for improvement including greater transparency so that patients can compare the performance of their local health service and inspections of the poorest performing CCGs by NHS England.
+
+Déjà Review – what lessons can be learned from the past?
+In June 2016, the Medical Technology Group published its report Déjà Review – what lessons can be learned from the past?. The report identified 17 different organisations or initiatives that have been launched with the aim of promoting innovation in the NHS over the previous ten years.  In Déjà Review, the MTG noted that the NHS has historically and consistently failed to apply any learnings from the previous reviews, including 2011's much-quoted Innovation, Health and Wealth (IHW).
+
+Unplanned admissions
+In 2015 the Medical Technology Group contacted every acute trust and clinical commissioning group in England to identify the level of unplanned or emergency hospital admissions for urology, diabetes and heart failure. The research found that unplanned and emergency hospital admissions account for more than a third of all hospital admissions – 5.4 million in total – and two-thirds of all hospital bed days. It also found that the NHS spent £434 million in 2013/14 treating over 180,000 hospital patients with an unplanned admission for a urinary tract infection; unplanned admissions owing to diabetic complications cost over £200 million each year. Additional findings were that each NHS trust handles on average over 100 deaths each year from congestive heart failure, but with regional differences in approach and success rates: for example, 66% of presenting heart patients in the Southwest were treated in hospital compared to just 16% in the West Midlands.
+
+Innovation, Health & Wealth Scorecard
+In June 2015 the MTG published its review of the 2011 Innovation, Health & Wealth report by NHS Improvement & Efficiency, Innovation and Service Improvement. The scorecard reviewed progress against the six areas identified by the NHS as those where clinical commissioning groups and acute trusts could improve patient care through high impact innovations. The report revealed a very mixed picture, with both CCGs and trusts in some areas performing much worse than others, and some regions of the country drastically underperforming.
+
+Infection control
+Following a freedom of information request to all NHS acute trusts in England, in September 2014 the MTG published a report: Infection Prevention and Control – Combatting a problem that has not gone away that revealed that the majority of Trusts were unaware of the full scale or the operational and financial impact of five common infections: sepsis; catheter-associated urinary tract infections; catheter-related blood infections; ventilator-associated pneumonia; and norovirus. The MTG called on the government to develop a strategy for using technology for infection prevention and control.
+
+Hip and knee surgery
+In November 2013, the MTG published a report into waiting times for knee and hip replacements on the National Health Service. The report, Hip and Knee Surgery: Combating Patient Lotteries, reviewed ten years of government data on knee and hip replacement, and data from freedom of information requests to acute NHS hospital trusts in England. The report suggested that patient experiences vary significantly according to the financial calendar and where they live.
+
+Work Foundation report
+In November 2011, The Work Foundation published a report, Adding Value: The Economic and Societal Benefits of Medical Technology,  funded by a research grant from the MTG.  The report, which was launched in the House of Commons, identified three key areas of benefits from medical technologies:
+Improvements in health care (quality, efficiency and the empowerment of patients);
+Improving quality of life and independent living (reducing fears and anxiety, increasing flexibility, and reducing the need for informal care and the burden on informal caregivers);
+Labour market participation and productivity (increasing labour market participation, retaining skills and improving productivity).
+
+Uterine artery/fibroid embolisation (UFE)
+In 2011 the MTG and patient support group FEmISA published a report, The provision of and access to Uterine Artery/Fibroid, a less invasive treatment for fibroids for women.  The report, which was welcomed by the British Society of Interventional Radiologists, highlighted a lack of coherent commissioning in England, despite National Institute for Health and Care Excellence clinical guidelines recommending UFE as a first-line treatment for symptomatic fibroids.
+
+Insulin pump provision
+In 2010 the MTG made a freedom of information request to primary care trusts in England on the provision of insulin pumps to patients with Type 1 diabetes. It found the average to be 3.9 per cent compared to the 12 per cent benchmark recommended by the National Institute for Health and Clinical Excellence. The findings were the subject of an early day motion tabled by Adrian Sanders MP on 9 December 2010.
+
+Medical technology
+In 2004, the MTG's report Making the Economic Case for Medical Technology suggested that increasing the provision of medical technology can "help patients better manage their conditions" and lead a "longer and relatively healthy life". It also suggested that by making greater use of technology there are cost benefits for the National Health Service. The report was the subject of an early day motion tabled by Ian Gibson MP. The motion was signed by 30 Members of Parliament.
+
+Organisation
+The MTG is chaired by Barbara Harpham, former National Director of Heart Research UK. She has been quoted as saying that the UK lags behind other European countries in the take-up of medical technology.
+
+
+== References ==

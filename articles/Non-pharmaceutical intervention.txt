@@ -1,0 +1,13 @@
+A non-pharmaceutical intervention or non-pharmacological intervention (NPI) is any type of health intervention which is not primarily based on medication. Some examples include exercise, sleep improvement, or dietary habits.Non-pharmacological interventions may be intended to prevent or treat disease or other health-related conditions, or to  improve public health. They can be educational, and they may involve a variety of lifestyle or environmental changes. Complex or multicomponent interventions use multiple strategies, and they often involve the participation of several care providers.Non-pharmacological treatments can call on various fields of expertise, such as surgery, medical devices, rehabilitation, psychotherapy, and  behavioral interventions.
+
+Examples
+Hypertension
+The first line of treatment for hypertension is lifestyle changes, including dietary changes, physical exercise, and weight loss. Though these have all been recommended in scientific advisories, a  Cochrane systematic review of available relevant studies found that weigh loss diets did reduce body weight and blood pressure, but the impact of these changes could not be demonstrated due to the small number of participants and studies, therefore, the impact of weigh loss on mortality and morbidity is unknown.  Their potential effectiveness is similar to and at times exceeds a single medication. If hypertension is high enough to justify immediate use of medications, lifestyle changes are still recommended in conjunction with medication. Dietary changes shown to reduce blood pressure include diets with low sodium, the DASH diet (Dietary Approaches to Stop Hypertension), vegetarian diets, and green tea consumption. Physical exercise regimens which are shown to reduce blood pressure include isometric resistance exercise, aerobic exercise, resistance exercise, and device-guided breathing.
+
+See also
+References
+Further reading
+Boutron I, Ravaud P, Moher D, eds. (2012). Randomized clinical trials of nonpharmacological treatments. Boca Raton: CRC Press. ISBN 9781420088021.
+
+External links
+Checklist for reporting of non-pharmacologic treatment interventions (an extension of the   CONSORT statement for Consolidated Standards of Reporting Trials)

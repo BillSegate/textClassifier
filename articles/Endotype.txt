@@ -1,0 +1,17 @@
+An endotype is a subtype of a health condition, which is defined by a distinct functional or pathobiological mechanism. This is distinct from a phenotype, which is any observable characteristic or trait of a disease, such as development, biochemical or physiological properties without any implication of a mechanism. It is envisaged that patients with a specific endotype present themselves within phenotypic clusters of diseases.
+One example is asthma, which is considered to be a syndrome, consisting of a series of endotypes. This is related to the concept of disease entity.
+
+Disease entity
+The main concept in nosology is the disease entity. Normally there are two ways to define a disease entity: Manifestational criteria and causal criteria.
+Manifestational criteria. These are a set of criteria based on signs, symptoms and laboratory findings that define a disease. They define a disease by its symptoms and medical findings.
+Causal criteria. These are a causal chain of events that defines the disease describing how it develops. They describe the disease by its etiology.Following Fred Gifford, these criteria lead one to view any disease entity in three different forms:
+Disease as symptoms: The disease is defined by the symptoms and signs that it produces. In fact, it can be said that the disease is the collection of them. It is the classical way to define a disease or a condition.
+Disease as state: The disease is not defined by a set of symptoms but by the underlying state of the body, including pathological tissues, abnormal cells and any other general medical findings. This kind of definition allows the researchers to speak about silent diseases, which cannot be considered as such by the previous definition. Proponents of this kinds of entity are for example Rudolph Virchow.
+Disease as a process: In the 20th century, a third concept of disease has appeared, based on the works of Caroline Whitbeck in 1977. Whitbeck proposed that a disease may be defined by the clinical course of a set of untreated patients. She also argues that diseases are complex processes of which both clinical and underlying pathophysiological manifestations are proper parts (as contrasted with effects).Following again F. Gifford, in fact each of the previous definitions can include the aetiology or can be aetiologically agnostic. Other authors simply continue with the classification of Whitbeck, leaving just three kinds of definition (clinical, pathological and aetiological).It is important to note that a real-world definition is normally a hybrid between these above kinds, and an endotype should use all three of the descriptors - including aetiology - to ensure specificity.
+
+See also
+Heterogeneous condition
+
+Notes
+References
+Anderson, GP (20 September 2008). "Endotyping asthma: new insights into key pathogenic mechanisms in a complex, heterogeneous disease". Lancet. 372 (9643): 1107–19. doi:10.1016/s0140-6736(08)61452-x. PMID 18805339. S2CID 13161535.

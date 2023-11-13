@@ -1,0 +1,24 @@
+A case presentation is a formal communication between health care professionals such as doctors and nurses regarding a patient's clinical information.Essential parts of a case presentation include:
+
+Identification
+Reason for consultation/admission
+Chief complaints (CC) - what made patients seek medical attention.
+History of present illness (HPI) - circumstances relating to chief complaints.
+Past medical history (PMHx)
+Past surgical history
+Current medications
+Allergies
+Family history (FHx)
+Social history (SocHx)
+Physical examination (PE)
+Laboratory results (Lab)
+Other investigations (imaging, biopsy etc.)
+Case summary and impression
+Management plans
+follow up in clinic or hospital
+Adherence of the patient to treatment
+success of the treatment or failure.
+causes of success or failure.
+
+
+== References ==

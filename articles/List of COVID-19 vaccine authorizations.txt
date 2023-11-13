@@ -1,0 +1,331 @@
+National regulatory authorities have granted full or emergency use authorizations for 40 COVID-19 vaccines.
+Ten vaccines have been approved for emergency or full use by at least one stringent regulatory authority recognized by the World Health Organization (WHO): Pfizer–BioNTech, Oxford–AstraZeneca, Sinopharm BIBP, Moderna, Janssen, CoronaVac, Covaxin, Novavax, Convidecia, and Sanofi–GSK. Seven others are under assessment by the WHO: Sputnik V, Sinopharm WIBP, Abdala, Zifivax, Corbevax, COVIran Barekat, and SCB-2019.Of the 40 vaccines, 16 have a full or emergency authorization in only one country, 12 in ten or fewer countries, and 12 in more than ten countries.
+Note that in some countries, vaccines may be authorized solely for travel purposes. They may not be approved for the general population. For example, the CoronaVac, Covishield, BBIBP-CorV and Covaxin vaccines are not part of Australia's national vaccination program; however, they are recognized for the purpose of travel to Australia.
+
+Overview maps
+Oxford–AstraZeneca
+The Oxford–AstraZeneca COVID-19 vaccine, sold under the brand names Vaxzevria and Covishield, is a viral vector vaccine produced by the British University of Oxford, British-Swedish company AstraZeneca, and the Coalition for Epidemic Preparedness Innovations. Finland, Denmark, and Norway suspended the use of the Oxford–AstraZeneca vaccine due to a small number of reports of a rare blood clot disorder. Slovakia suspended its use after the death of a predisposed recipient. South Africa suspended its use because a small trial found only minimal protection against mild to moderate disease from the locally predominant Beta variant. Japan approved the vaccine for emergency use in May 2021, but did not plan to use them immediately because of rare cases of a blood clotting disorder reported overseas. Later, Japan started to use the vaccine for people aged 40 or over to mitigate the surge of the Delta variant in August. Finland ceased use of the vaccine as the last batch expired on 30 November 2021. Until then it was only offered for those aged 65 or more due to extremely rare coagulation disorders among younger recipients of the vaccine. After this Finland will not procure more of the vaccine. The AstraZeneca vaccine is the most widely accepted internationally, and the most popular in terms of total inoculated worldwide, over 1.3 billion. The AstraZeneca vaccine is administered in more countries than any other vaccine.
+Full (5)
+Emergency (170)
+
+Pfizer–BioNTech
+The Pfizer–BioNTech COVID-19 vaccine, sold under the brand name Comirnaty, is an mRNA and Monoclonal vaccine produced by the German company BioNTech and the American company Pfizer. In Hong Kong, Macau, and Taiwan, Comirnaty is distributed by Fosun Pharma.
+
+Original
+Full (39)
+Emergency (145)
+
+Bivalent original–BA.1
+Non-country entities
+
+World Health Organization
+
+Bivalent original–BA.4/5
+Non-country entities
+
+Hong Kong
+Macau
+World Health Organization
+
+Janssen
+The Janssen COVID-19 vaccine is a viral vector vaccine produced by Janssen Pharmaceutica (a subsidiary of Johnson & Johnson) and Beth Israel Deaconess Medical Center. It is also known as Johnson & Johnson COVID-19 Vaccine and as COVID-19 Vaccine Janssen. Three countries, Denmark, Finland, and Norway, discontinued the use of the Janssen vaccine in favor of other available vaccines due to a possible link between the vaccine and a rare blood clot disorder. The use of the Janssen adenovirus vector vaccine began in Finland in October 2021. It is only offered for those aged 65 and over because of a very rare risk of thrombosis in younger age groups.  The United States began use of the Janssen vaccine in March 2021, but discouraged use in favor of other available vaccines in December 2021 due to the risk of a rare clotting disorder. The Janssen vaccine became unavailable in the United States in May 2023 after all existing doses expired.
+Full (3)Australia (not used)
+Canada
+Switzerland
+Emergency (133)
+
+Moderna
+The Moderna COVID-19 vaccine, also known as Spikevax, is an mRNA vaccine produced by the American company Moderna, the U.S. National Institute of Allergy and Infectious Diseases, the U.S. Biomedical Advanced Research and Development Authority, and the Coalition for Epidemic Preparedness Innovations. The Moderna vaccine is not offered for men under 30 years of age in Finland as a precaution to reduce a very rare risk of myocarditis.
+
+Original
+Emergency (116)
+
+Bivalent original–BA.1
+Bivalent original–BA.4/5
+Taiwan
+United States
+
+Sinopharm BIBP
+The Sinopharm BIBP COVID-19 vaccine is an inactivated virus vaccine produced by the China National Pharmaceutical Group (Sinopharm) and its Beijing Institute of Biological Products.
+Full (4)Bahrain
+China
+Seychelles
+United Arab Emirates
+Emergency (111)
+Travel-only
+
+Sputnik V
+The Sputnik V COVID-19 vaccine is a viral vector vaccine produced by the Russian Gamaleya Research Institute of Epidemiology and Microbiology.
+
+Full (3)Russia
+Turkmenistan
+Uzbekistan
+Emergency (76)
+
+CoronaVac
+The CoronaVac COVID-19 vaccine is an inactivated virus vaccine produced by the Chinese company Sinovac Biotech.
+Full (1)ChinaNon-country entities
+
+Hong Kong
+Emergency (71)
+Travel-only
+
+Novavax
+The Novavax COVID-19 vaccine, sold under the brand names Nuvaxovid and Covovax, is a subunit COVID-19 vaccine candidate developed by Novavax and the Coalition for Epidemic Preparedness Innovations.
+Full (4)Australia
+Canada
+Japan
+South Korea
+
+Covaxin
+Covaxin is an inactivated virus vaccine produced by the Indian company Bharat Biotech in collaboration with the Indian Council of Medical Research–National Institute of Virology.
+
+Full (1)IndiaEmergency (50)
+Travel-only
+
+VLA2001
+VLA2001 is an inactivated vaccine developed by Valneva SE and Dynavax Technologies.
+
+Full (1)United Kingdom
+Travel-onlyMalaysia
+New Zealand
+Turkey
+
+Sanofi–GSK
+The Sanofi–GSK COVID-19 vaccine, sold under the brand name VidPrevtyn Beta, is a subunit vaccine developed by Sanofi Pasteur and GSK plc.  It is based on the SARS-CoV-2 Beta variant.
+
+Sputnik Light
+Sputnik Light is a viral vector vaccine, produced by the Russian Gamaleya Research Institute of Epidemiology and Microbiology. It consists of the first dose of the Sputnik V vaccine, which is based on the Ad26 vector.
+Full (0)Emergency (28)
+Travel-onlyMalaysia
+New Zealand
+Turkey
+
+Convidecia
+Convidecia is a viral vector vaccine produced by the Chinese company CanSino Biologics and the Beijing Institute of Biotechnology of the Academy of Military Medical Sciences.
+
+Full (1)ChinaEmergency (9)Argentina
+Chile
+Ecuador
+Hungary
+Indonesia
+Malaysia
+Mexico
+Moldova
+PakistanNon-country entities
+
+World Health OrganizationTravel-onlyHong Kong
+Japan
+New Zealand
+Turkey
+
+Sinopharm WIBP
+The Sinopharm WIBP COVID-19 vaccine is an inactivated virus vaccine produced by the China National Pharmaceutical Group (Sinopharm) and its Wuhan Institute of Biological Products.
+
+Full (1)ChinaEmergency (5)Armenia
+North Macedonia
+Peru
+Philippines
+United Arab Emirates
+VenezuelaTravel-onlyHong Kong
+Malaysia
+New Zealand
+Turkey
+
+Abdala
+Abdala is a subunit vaccine developed by the Center for Genetic Engineering and Biotechnology in Cuba.
+
+Full (0)Emergency (6)Cuba
+Mexico
+Nicaragua
+St. Vincent and the Grenadines
+Venezuela
+VietnamTravel-onlyCambodia
+Colombia
+Guyana
+Malaysia
+New Zealand
+St. Lucia
+Turkey
+Uruguay (only if accepted in the country of the person's origin)
+
+EpiVacCorona
+EpiVacCorona is a peptide vaccine produced by the Russian State Research Center of Virology and Biotechnology VECTOR.
+Full (1)TurkmenistanEmergency (4)Belarus
+Cambodia
+Russia
+VenezuelaTravel-onlyMalaysia
+New Zealand
+Turkey
+
+Zifivax
+Zifivax is a subunit vaccine produced by the Chinese company Anhui Zhifei Longcom Biopharmaceutical.
+Full (0)Emergency (5)China
+Colombia
+Indonesia
+Pakistan
+UzbekistanTravel-onlyHong Kong
+Malaysia
+New Zealand
+Turkey
+
+Soberana 02
+Soberana 02, is a conjugate vaccine developed by the Finlay Institute in Cuba.
+Full (0)Emergency (4)Cuba
+Iran
+Nicaragua
+VenezuelaTravel-onlyGuyana
+Hungary
+Malaysia
+New Zealand
+Turkey
+
+CoviVac
+CoviVac is an inactivated virus vaccine produced by the Chumakov Centre at the Russian Academy of Sciences.
+Full (0)Emergency (3)Belarus
+Cambodia
+RussiaTravel-onlyMalaysia
+New Zealand
+Turkey
+
+QazCovid-in
+QazCovid-in, also known as QazVac, is an inactivated virus vaccine developed by the Research Institute for Biological Safety Problems in Kazakhstan.
+Full (0)Emergency (2)Kazakhstan
+KyrgyzstanTravel-onlyMalaysia
+New Zealand
+Turkey
+
+Minhai
+Minhai COVID-19 vaccine, is an inactivated virus vaccine developed by Minhai Biotechnology Co. and Shenzhen Kangtai Biological Products Co. Ltd. in China.
+Full (0)Emergency (2)China
+IndonesiaTravel-onlyHong Kong
+Malaysia
+New Zealand
+Turkey
+
+Medigen
+MVC-COV1901, is a protein subunit vaccine developed by Taiwan's Medigen Vaccine Biologics and Dynavax Technologies.
+Full (0)Emergency (3)Eswatini
+Taiwan
+ParaguayNon-country entities1. Somaliland
+Travel-onlyBelize
+Indonesia
+Malaysia
+New Zealand
+Palau
+Thailand
+Turkey
+
+Corbevax
+Corbevax is a protein subunit vaccine developed by Texas Children's Hospital at the Baylor College of Medicine in Houston, Texas, and licensed to Indian biopharmaceutical firm Biological E. Limited (BioE) for development and production.
+Full (0)Emergency (2)India
+BotswanaTravel-onlyMalaysia
+New Zealand
+Turkey
+
+COVIran Barekat
+COVIran Barekat, is an inactivated virus vaccine developed by Shifa Pharmed Industrial Co. in Iran.
+Full (0)Emergency (2)Iran
+NicaraguaTravel-only
+Malaysia
+New Zealand
+Hungary
+Turkey
+
+Chinese Academy of Medical Sciences
+Chinese Academy of Medical Sciences COVID-19 vaccine, is an inactivated virus vaccine developed by Chinese Academy of Medical Sciences.
+Full (0)Emergency (1)ChinaTravel-onlyHong Kong
+New Zealand
+Turkey
+
+ZyCoV-D
+ZyCoV-D, is a DNA plasmid based COVID-19 vaccine developed by the Indian pharmaceutical company Cadila Healthcare with support from the Biotechnology Industry Research Assistance Council.
+Full (0)Emergency (1)IndiaTravel-onlyMalaysia
+New Zealand
+Turkey
+
+FAKHRAVAC
+FAKHRAVAC (or MIVAC), is an inactivated virus vaccine developed in Iran by the Organization of Defensive Innovation and Research, an organization of Iran's Ministry of Defense.
+Full (0)Emergency (1)IranTravel-onlyHungary
+Malaysia
+New Zealand
+Turkey
+
+COVAX-19
+COVAX-19, also known as SpikoGen, is a protein subunit vaccine jointly developed by Australian-based company Vaxine and Iran-based company CinnaGen.
+Full (0)Emergency (1)IranTravel-onlyHungary
+Malaysia
+New Zealand
+Turkey
+
+Razi Cov Pars
+Razi Cov Pars is a protein subunit vaccine developed by Razi Vaccine and Serum Research Institute.
+Full (0)Emergency (1)IranTravel-onlyHungary
+Malaysia
+New Zealand
+Turkey
+
+Turkovac
+Turkovac is an inactivated vaccine developed by Health Institutes of Turkey and Erciyes University.
+Full (0)Emergency (1)TurkeyTravel-onlyMalaysia
+New Zealand
+
+Sinopharm CNBG
+Sinopharm CNBG COVID-19 vaccine (NVSI) is a recombinant protein subunit vaccine developed by the National Vaccine & Serum Institute (NVSI, 中生研究院), a subsidiary of China National Biotec Group (CNBG), which in turn is a subsidiary of Sinopharm.
+Full (0)Emergency (1)United Arab EmiratesTravel-onlyMalaysia
+Turkey
+
+Soberana Plus
+Soberana Plus is a single-dose of conjugate vaccine developed by the Finlay Institute in Cuba.
+Full (0)Emergency (2)Belarus
+CubaTravel-onlyGuyana
+Malaysia
+New Zealand
+Turkey
+
+CoVLP
+CoVLP is a virus-like particle vaccine grown in an Australian weed, Nicotiana benthamiana. It was developed by Medicago, and is marketed under the name Covifenz Archived 24 February 2022 at the Wayback Machine.
+
+Full (1)CanadaEmergency (0)Travel-onlyMalaysia
+New Zealand
+Turkey
+
+Noora
+Noora is a protein-based vaccine developed by the Baqiyatallah University of Medical Sciences.
+
+Full (0)Emergency (1)IranTravel-onlyMalaysia
+Turkey
+
+SKYCovione
+SKYCovione is a protein subunit vaccine developed by SK Bioscience.
+
+Full (0)Emergency (1)South Korea
+
+Walvax
+Walvax COVID-19 vaccine is an RNA vaccine developed by Walvax Biotechnology, Suzhou Abogen Biosciences, and the PLA Academy of Military Science.
+Full (0)Emergency (1)Indonesia
+
+iNCOVACC
+iNCOVACC, also called BBV154 is an adenovirus vector vaccine developed by Bharat Biotech, Precision Virologics, and Washington University School of Medicine.
+
+Full (0)Emergency (1)India
+
+Gemcovac
+Gemcovac, or GEMCOVAC-19, is a self-amplifying mRNA vaccine manufactured by Gennova Biopharmaceuticals.
+
+Full (0)Emergency (1)India
+
+V-01
+V-01 is a protein subunit vaccine developed by Livzon Mabpharm.
+
+Full (0)Emergency (1)China
+
+IndoVac
+IndoVac is a protein subunit vaccine developed by Indonesian pharmaceutical company Bio Farma and Baylor College of Medicine.
+
+Full (0)Emergency (1)Indonesia
+
+Notes
+
+
+== References ==

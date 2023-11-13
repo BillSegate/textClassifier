@@ -1,0 +1,21 @@
+An investigational device exemption (IDE) allows an investigational device (i.e. a device that is the subject of a clinical study) to be used in order to collect safety and effectiveness data required to support a premarket approval (PMA) application or a
+premarket notification [510(k)] submission to Food and Drug Administration (FDA). Clinical studies are most often conducted to support a PMA. Only a small percentage of 510(k)'s require clinical data to support the application. Investigational use also includes clinical evaluation of certain modifications or new intended uses of legally marketed devices. All clinical evaluations of investigational devices, unless exempt, must have an approved IDE before the study is initiated.
+Clinical evaluation of devices that have not been cleared for marketing requires:
+
+An IDE approved by an institutional review board (IRB). If the study involves a significant risk device, the IDE must also be approved by FDA
+Informed consent from all patients
+Labeling for investigational use only
+Monitoring of the study and
+Required records and reportsAn approved IDE permits a device to be shipped lawfully for the purpose of conducting investigations of the device without complying with other requirements of the Food, Drug, and Cosmetic Act that would apply to devices in commercial distribution. Sponsors need not submit a PMA or premarket notification, register their  establishment, or list the device while the device is under investigation. Sponsors of IDEs are also exempt from the Quality System (QS) Regulation except for the requirements for design control.
+A commercial sponsor of a significant risk device study must submit a complete IDE application to FDA. There are no preprinted forms for an IDE application; however, an IDE application must include certain required information. The sponsor must demonstrate in the application that there is reason to believe that the risks to human subjects from the proposed investigation are outweighed by the anticipated benefits to subjects and the importance of the knowledge to be gained, that the investigation is scientifically sound, and that there is reason to believe that the device as proposed for use will be effective.
+
+See also
+Academic clinical trials
+Adverse drug reaction
+Adverse event
+Approved drug
+Assay sensitivity
+Biotechnology
+
+
+== References ==

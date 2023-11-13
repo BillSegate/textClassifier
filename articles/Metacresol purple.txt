@@ -1,0 +1,9 @@
+Metacresol purple or m-cresol purple, also called m-cresolsulfonphthalein, is a triarylmethane dye and a pH indicator. It is used as a capnographic indicator for detecting detect end-tidal carbon dioxide to ensure successful tracheal intubation in an emergency. It can be used to measure the pH in subzero temperatures of saline or hypersaline media.In colorimetric capnography, the indicator is incorporated in an aqueous matrix that provides a pH just above the indicator's colour change. When exposed to carbon dioxide (CO2), it undergoes a colour change from purple to yellow, because when CO2 dissolves in the matrix, it forms carbonic acid.In chemistry, it has two useful indicator ranges:
+pH 1.2–2.8: red to yellow
+pH 7.4–9.0: yellow to purple
+
+See also
+Bromocresol purple
+
+
+== References ==

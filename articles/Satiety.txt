@@ -1,0 +1,15 @@
+Satiety (/səˈtiːəti/ sə-TEE-ə-tee) is a state or condition of fullness gratified beyond the point of satisfaction, the opposite of hunger. Following satiation (meal termination), satiety is a feeling of fullness lasting until the next meal. When food is present in the GI tract after a meal, satiety signals overrule hunger signals, but satiety slowly fades as hunger increases.
+The satiety center in animals is located in ventromedial nucleus of the hypothalamus.
+
+Mechanism
+Satiety is signaled through the vagus nerve as well as circulating hormones. During intake of a meal, the stomach must stretch to accommodate this increased volume. This gastric accommodation activates stretch receptors in the proximal (upper) portion of the stomach. These receptors then signal through afferent vagus nerve fibers to the hypothalamus, increasing satiety.
+
+Signalling factors
+In addition, as the food moves into the duodenum, duodenal cells release multiple substances that affect digestion and satiety. Glucagon-like peptide-1 (GLP-1) is an incretin released by the duodenum that inhibits relaxation of the stomach. This inhibition causes increased stretch of the stomach, increasing activation of proximal gastric stretch receptors. It also slows overall gut motility, increasing the duration of satiety. This effect is used to increase weight loss and treat obesity through GLP-1 agonists. Cholecystokinin (CCK) is gut peptide produced by the duodenum in response to fat and proteins. CCK has the effect of slowing gut motility and increasing satiety as well as activating release of pancreatic digestive enzymes and bile from the gallbladder.
+
+See also
+Satiety value
+Prader–Willi syndrome
+
+
+== References ==

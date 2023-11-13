@@ -1,0 +1,102 @@
+Medical textiles are various fiber-based materials intended for medical purposes. Medical textile is a sector of technical textiles that focuses on fiber-based products used in health care applications such as prevention, care, and hygiene. The spectrum of applications of medical textiles ranges from simple cotton bandages to advanced tissue engineering. Common examples of products made from medical textiles include dressings, implants, surgical sutures, certain medical devices, healthcare textiles, diapers, menstrual pads, wipes, and barrier fabrics.Medical textiles include many fiber types, yarns, fabrics, non-woven materials, woven, braided, as well as knitted fabrics. Physical and chemical alterations of fiber architectures, the use of functional finishes, and the production of stimuli-sensitive materials are major approaches for developing innovative medical textiles.Advances in textile manufacturing and medical technologies have made medical healthcare an important industry in textiles. Textiles are used in the production of a variety of medical devices, including replacements for damaged, injured, or non-functioning organs. The manufacture of medical textiles is a growing sector. There are many reasons for its growth, such as new technology in both textiles and medicine; ageing populations; growing populations; changes in lifestyles; and longer life expectancies.: 136  Additionally, the COVID-19 pandemic generated higher demand for certain medical textile applications [such as PPE, medical gowns and face masks], and there were shortages worldwide. Even China, the world's largest manufacturer of such applications, has struggled to keep up with demand.
+
+History
+Natural fibers have been used in medical applications since ancient times.: 1, 2  The use of splints, bandages, and gauges is very old. An ancient Sanskrit text on medicine and surgery, the Sushruta Samhita, categorises Kausheya  under the "articles of bandaging." The concept of personal protective equipment (PPE) for medical practitioners dates all the way back to the 17th century. Plague doctor costumes were intended to protect plague doctors from the disease during outbreaks of the Bubonic Plague in Europe. According to descriptions, the costumes were typically composed of heavy fabric or leather and was waxed.
+
+Significance
+Medical textiles have a critical role in preserving human life. So, e.g., medical textile applications (PPE cover all, N95 masks), were in high demand and scarce supply during the COVID-19 pandemic, resulting in severe shortages. Considering the shortage, in February 2020, the World Health Organization restricted the use of medical essentials such as PPE and masks, etc. to front-line workers only (PPE includes gowns, aprons, masks, gloves, medical masks, goggles, face shields, and respirators, i.e., N95 or FFP2). PPE protects medical professionals from illness, infections [from virus or bacteria]. The PPE cloth acts as a barrier with the capacity to prevent contaminants from entering the body through respiratory secretions, blood, and bodily fluids.Masks can protect healthy people from illness by limiting the spread of respiratory droplets and aerosols.
+
+Types
+Categories of fibers, fabrics and materials
+There are four different groups of fibers, fabrics and materials used in medical textile products.
+
+Different types of fibers and manufacturing systems are utilized for the production of the various medical textile products.
+
+Extracorporeal devices category
+Extracorporeal devices are the artificial organs that remain outside the body while treating a patient. Extracorporeal devices are useful in hemodialysis and cardiac surgery.
+
+Implantable materials category
+Implants are medical devices used to replace a missing biological structure, to sustain a damaged biological structure, or to improve an existing biological structure. In contrast to a transplant, which is biomedical tissue that has been transplanted, medical implants are man-made devices such as artificial ligaments and vascular grafts, etc.: 148
+
+Non-implantable materials category
+Non-implantable materials are used externally and may or may not contact skin. For example, bandages, plaster, orthopedic belts, pressure garments, etc.: 147, 148
+
+Hygiene and healthcare products category
+The term "hygiene and healthcare products" refers to a variety of materials used to maintain the hygiene, safety, and care of medical professionals and patients.: 157 Surgical drapes, gowns, uniforms, clothing, caps, wipes, masks, and hospital bed linens are all included in this category
+
+Properties
+Products made from medical textiles are specially engineered textile-based products used in medical applications. These products are used for prevention, care, and hygiene purposes. A combination of properties are considered while selecting the materials, which largely depends upon the particular use. The materials used in medical textile products must have the following properties: strength, softness, biocompatibility, elasticity, flexibility, nontoxicity, noncarcinogenic, non-allergenic, and air and water permeability.: 136, 137 Biotextiles are constructions made of textile fibers that are employed in both implantable and non-implant applications. Their performance is assessed according to their biofunctionality, biocompatibility, and biostability. For example, biostability in the presence of body fluids and cells.
+
+Material and technologies
+Fibers
+Overview
+Medical devices are commonly made in whole or part from fibers. A medical device is defined as any device intended for medical purposes. It could be a machine, a reagent for use in the lab, software, an appliance, an instrument, or an implant. For medical use, fiber selection is based on certain criteria of intended use. Primarily, fibers are chosen on the basis of their biodegradability or non-biodegradability. Other than biodegradability, strength, elasticity, and absorbency are also considered.
+
+Natural fibers
+Natural fibers such as cotton, silk, and viscose (a regenerated cellulosic fiber) are used in hygiene and healthcare products, as well as non-implantable materials. Polyester, nylon, polypropylene, glass, and carbon are all examples of synthetic fibers used in Medical textiles.: 136  Fibers absorbed within three months by our biological system are considered biodegradable, and fibers that require more than six months to absorb are called non-biodegradable. These fibers are categorized as below:: 136, 137
+
+PLA and PGA fibers
+Polylactic acid, also called PLA, is a biodegradable, biosorbable or bioabsorbable polymer used in producing many type of implants such as naturally dissolving stents.: 140  Polyglycolide or polyglycolic acid, also called PGA, is a biodegradable and thermoplastic polymer. PGA suture is categorized as an absorbable synthetic braided multifilament.
+
+Other polymers
+Recent developments
+The term "medical textile" refers to various products made of textile materials (fiber, yarn, or fabric) that are used in the medical environment. Although both natural and synthetic fibers are used in medical textiles, properties such as modulus of elasticity, tensile strength, and hardness are mostly fixed factors in natural fibers, and have proven to be more manageable in synthetic fibers.: 2  Recent fiber developments have a significant impact on four primary areas of medical textiles: hygiene products, implants, non-implantable medical textiles, and extracorporeal medical textiles.Medical textiles serve as a bridge between biological sciences and engineering.: xxxiii  The advancement of materials science and related research has resulted in the introduction of new fiber materials and manufacturing processes for the medical sector. As a result of new technologies such as 3D printing, electrospinning and melt blowing technology in textiles, medical professions now have access to a diverse choice of textile materials with varying designs and qualities.Melt blowing is a well-established technology for fabricating micro- and nanofibers, in which a polymer melt is extruded via small nozzles surrounded by a high-speed blowing gas. Melt-blown microfibers typically have a fiber diameter of 2–4 μm, but can be as small as 0.3–0.6 μm or as large as 15–20 μm. Melt blowing technology helps in producing filtering products such as N95 masks, and female hygiene products.Medical textiles use tubular fabrics with carefully chosen materials that are biocompatible, nonallergic, and nontoxic. For example, Dyneema, PTFE, Polyester, and Teflon are used for implants. The material type varies depending on the implant area; for example, Polytetrafluoroethylene is preferred for stent implants due to its non-stick properties, while polyolefin is used for mesh implants.Vectran, a manufactured fiber from liquid-crystal polymer, is used in producing medical devices, for example, implants and certain surgical devices.Intelligent textiles can be used for disease management as well as remote monitoring.: 373  Intelligent textiles can monitor heart rate and blood pressure, which are critical components of medical diagnosis, and controlling them considerably reduces the incidence of serious health disorders. Movement patterns and electroencephalograms are used to diagnose neurological illnesses and to guide treatment decisions.: 375 Phase-change materials are helpful in medical textiles because they can be utilized to reheat hypothermia patients softly and precisely. Additionally, the PCM can be incorporated therapeutically into elastic wraps or orthopedic joint supports. It makes it easy to provide heat or cold therapy to joints or muscles while wearing a bandage.: 54, 55 Materials with shape-memory polymers that have the capabilities of temperature adaptive moisture management can improve the thermo-physiological comfort of patients.Nonwoven fabrics with two or more fibers layers are widely used in a variety of applications, including tissue engineering scaffolds, wipes, wound dressings, and barrier materials.Microfluidic spinning technology is used for fabricating many type of fibers. Due to its ease of manipulation, high efficiency, controllability, and environmentally friendly chemical process, microfluidic systems have been identified as an appropriate microreactor platform for the production of anisotropic fibers.
+
+Applications
+Medical textiles cover a vast area of application that includes wound care, disease management, preventive clothing, bandages, hygiene (hospital linen), etc. Medical textiles are useful in first aid, treating a wound or keeping a wound or illness in the right condition during medical treatment, they also helps in protecting the healthcare workers from Infection and infectious diseases.
+
+Wound care
+Knitting, weaving, braiding, crocheting, composite materials, and non-woven technologies are all different fabric manufacturing systems used in contemporary wound care. Research subjects in medical textiles include materials and products with significantly superior attributes produced using advanced technology and novel methodologies.  New medical textiles are an emerging field with significant growth in wound treatment products. These are all important characteristics of wound care fibers and dressings. They are non-toxic, non-allergic, absorbent, hemostatic, biocompatible, breathable, and non-toxic. They also have good mechanical properties. Chitosan, Alginate, Collagen, branan ferulate, and carbon fiber-based goods offer numerous advantages over conventional materials. Materials used in wound care also include foams, hydrogels, films, hydrocolloids, and  matrix (tissue engineering).
+
+Tissue engineering
+Textile technologies are now being considered for biofabrication. The physical and chemical properties of fibers, the size of the pores, and the strength of the fabric all play a role in how textile technologies can be used in tissue engineering. Fibrous structures can be made and shaped with textile technology to meet the needs of a wide range of tissue engineering applications. Tissue engineering is the process of putting together scaffolds, cells, and biologically active molecules to make functional tissues.
+It is possible to make meter-long core-shell hydrogel microfibers that contain ECM proteins and mature cells or somatic stem cells in a microfluidic device. and these microfibers have the morphologies and functions of live tissues. The fibers also have the potential to be reeled and spin or weave
+Electrospinning can produce nanofibers with a range of desired fine microns that is usable to make nano- and submicron-sized fibrous scaffolds from polymer solutions that could be used as cell and tissue substrates.
+
+Biomedical scaffolds
+Hydrogel fibers are used to construct scaffolds for the development of cells and the release of drugs.
+
+Antimicrobial dressing
+Chitosan may function as an inhibitor of bacterial and fungal development. In 2003, the United States Food and Drug Administration approved chitosan-based wound dressings for medical use. Combat medics use Hemcon dressings, which is a dressing with Chitosan, to treat wounds because it stops the blood flow with its hemostasis properties. Chitosan hemostatic agents are salts formed when chitosan is combined with an organic acid (lactic acid, or Succinic acid). The hemostatic agent operates by interacting with the erythrocytes' (negatively charged) cell membrane and the protonated chitosan (positively charged), resulting in platelet involvement and fast thrombus formation. When the bandage comes into contact with blood, it becomes sticky, creating an adhesive-like effect that seals the cut.
+
+Surgical suture thread
+Materials in surgical sutures are textile based products. Suture material is frequently subdivided into absorbable thread and non-absorbable thread, and then into synthetic fibers and natural fibers. Whether a suture material is monofilament or polyfilament is an additional critical distinction.
+
+Bandages
+A bandage is a piece of fabric used to cover, dress, and bind wounds. Bandages are typically manufactured from various textile materials. The dressing or splint is held in place using a bandage. Bandages are also used for medical purposes (strengthening and compressing) to support and restrict specific body parts.: 142
+
+Compression bandages
+Compression bandages are used to apply pressure while directed pressure is used to treat lymphatic disease or venous disease,: 111, 241  such as in the treatment of deep vein thrombosis.: 142  The most common classifications for compression bandages are inelastic and elastic.
+
+Antimicrobial textiles
+Antimicrobial textiles are the textile materials (fibers, yarns and fabrics) treated with antimicrobial agents, they are used in hygiene care. Antimicrobial treated textiles either kill the bacteria or inhibit the growth of microorganisms. The exemplary products are wipes, gowns, Odorless clothes, etc. Antimicrobial scrubs are hospital garments treated with anti bacterial chemicals. Their primary objective is to prevent the spread of hazardous microorganisms between healthcare staff and between patients. The applied chemicals work differently, for example, chemical binds to the microbe's DNA, effectively rendering reproduction impossible. Some antimicrobial chemicals dissolve the protein necessary for their growth, there are antimicrobials which attack specific bacteria such as Staphylococcus, Salmonella, and Escherichia coli.
+
+Antiviral textiles
+Antiviral textiles are an extension of antimicrobial surfaces. These surfaces, which have antiviral capabilities, may be able to inactivate lipid-coated viruses. Polyhexamethylene biguanide (PHMB) treated CVC fabric (fabric with chief value cotton) kills 94% of the coronavirus in two hours. Henceforth, it is suitable for PPE for health workers.  Chitosan, a natural polymer that is biocompatible, non-allergenic, biodegradable, and non-toxic, was also looked at for its antiviral properties. The chitosan-based compound also shows efficacy against severe acute respiratory syndrome coronavirus 2 and cotton fabrics treated with copper along with chitosan and citric acid. The treated material sustains the antiviral properties five to ten home laundry washes.
+
+Medical gowns
+Medical gowns are a kind of PPE for medical professionals. Gowns are a component of a comprehensive infection-control approach. They protect the wearer from getting sick or getting infected if they come into contact with liquids or solids that could be contagious or harmful. Operating room gowns, surgical gowns, isolation gowns, nonsurgical gowns, and procedural gowns are all terms used to describe different gowns used in health care settings. The names of products are not standardized. The specifications of the products are important. ANSI/AAMI PB70 specifies a classification system for protective gear [including isolation gowns and surgical gowns] used in healthcare facilities in the United States based on its liquid barrier performance. Quality requirements for various gowns include seam strength, lint generation, tear resistance, evaporative resistance, and breathability. ASTM International [ASTM F2407] guidelines include a list of them which are approved by FDA.These gowns are either impermeable or made of a densely woven, water-resistant fabric. 510(K) is a premarket submission made to the Food and Drug Administration in order to demonstrate that the device to be sold is safe and effective. Surgical and surgical isolation gowns are regulated by the FDA as Class II medical devices that require a 510(k). Non-surgical gowns are class I medical devices that do not need a 510(k) clearance.The different levels are categorized as follows:
+Some more examples of medical textile applications in the medical environment include the following:
+
+Surgical mask is a mouth and nose cover against bacterial aerosols, these are often used for a particular purpose.
+N95 respirators masks were one of the most effective means of protection against the coronavirus.
+Personal protective equipment or PPE protects the wearer from health hazards. For example, Viral barrier gowns can protect against viruses of nanometer size.
+Implants, textile based implants, surgical meshes, hernia repair, and regenerative medicines.: 135–139 
+Odor control materials for medical purposes.: 163 
+Drug loaded and drug releasing materials.: 177, 182 
+Bandages: 113 
+Compression garments.: 119
+
+Gallery
+
+			
+			
+		
+		
+			
+			
+		
+.
+
+
+== References ==

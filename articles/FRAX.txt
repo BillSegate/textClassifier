@@ -1,0 +1,32 @@
+FRAX (Fracture Risk Assessment Tool) is a diagnostic tool used to evaluate the 10-year probability of bone fracture risk. It was developed by the University of Sheffield.  FRAX integrates clinical risk factors and bone mineral density at the femoral neck to calculate the 10-year probability of hip fracture and the 10-year probability of a major osteoporotic fracture (clinical spine, forearm, hip or shoulder fracture). The models used to develop the FRAX diagnostic tool were derived from studying patient populations in North America, Europe, Latin America, Asia and Australia.
+
+Components
+The parameters included in a FRAX assessment are:
+Country
+Age
+Sex
+Weight
+Height
+Previous fracture
+Hip fracture in the subject's mother or father
+Smoking
+Glucocorticoid treatment
+Rheumatoid arthritis
+Disease strongly associated with osteoporosis
+Alcohol intake of 3 or more standard drinks per day
+Bone mineral density (BMD) of the femoral neck
+Trabecular bone score (optional)
+
+Availability and usage
+FRAX is freely accessible online, and commercially available as a desktop application, in paper-form as a FRAX Pad, as an iPhone application, and as an Android application. The tool is compatible with 58 models for 53 countries, and is available in 28 languages.FRAX is incorporated into many national guidelines around the world, including those of Belgium, Canada, Japan, Netherlands, Poland, Sweden, Switzerland, UK (NOGG), and US (NOF). FRAX assessments are intended to provide guidance for determining access to treatment in healthcare systems.
+
+Adjustments
+Glucocorticoid use is included FRAX as a dichotomous variable, whereas the increased risk for fractures seen with glucocorticoid use is dependent on glucocorticoid dose and duration of use. Several methods have been proposed how to adjust FRAX accordingly.Though known to be a risk factor for fractures, Type 2 Diabetes is not included as such in FRAX. Some clinicians choose rheumatoid arthritis as an equivalent risk factor instead.FRAX was developed and most commonly used to assess fracture risk for previously untreated individuals, though some have suggested is can also be used in those treated in the past or even on current treatment for osteoporosis.
+
+See also
+Preventive healthcare
+
+References
+External links
+Official website
+Alternate FRAX calculator that doesn't use Java

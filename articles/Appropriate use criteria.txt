@@ -1,0 +1,13 @@
+Appropriate use criteria (AUC), sometimes referred to as appropriateness criteria (AC), specify when it is appropriate to perform a medical procedure or service. An "appropriate" procedure is one for which the expected health benefits exceed the expected health risks by a wide margin. Ideally, AUC are evidence-based, but in the absence of sufficient evidence, may be derived from a consensus of expert opinion. AUC are typically classified in terms of the quality of the evidence on which they are based. In general, AUC are promulgated by medical specialty organizations (professional societies). The definition of "appropriate" is subject to interpretation. For example, a key issue is whether or not a procedure or investigation can be deemed appropriate if it does not result in a change in management.Relative costs of alternative appropriate procedures may or may not be considered in selecting a procedure for an individual patient, but in there is evidence that performing only appropriate procedures reduces volume and cost. To reduce the cost of (advanced) diagnostic imaging tests, a requirement for the use of clinical decision support for was included in the Protecting Access to Medicare Act of 2014, though it does not apply to emergency or inpatient services.
+AUC are not always consistent between sources, or with other guidelines, or with reimbursement decisions. Additionally, AUC have not shown an impact in physician's behaviour. AUC may be promulgated in human-readable form, or converted into an electronic structured form for use in a clinical decision support system, such as a computerized physician order entry system.
+
+References
+External links
+American Academy of Dermatology (AAD) - Appropriate use criteria
+American Academy of Orthopaedic Surgeons (AAOS) - What Are Appropriate Use Criteria?
+American College of Cardiology Foundation (ACCF) Appropriate Use Criteria
+American College of Radiology (ACR) - About the ACR Appropriateness Criteria
+American Society of Echocardiography (ASE) - Appropriate Use Criteria
+International Spine Intervention Society (ISIS) - Appropriate Use Criteria
+North American Spine Society (NASS) - Appropriate Use Criteria
+Society of Nuclear Medicine and Molecular Imaging (SNMMI) - Appropriate Use Criteria

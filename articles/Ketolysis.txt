@@ -1,0 +1,7 @@
+Ketolysis is the process of catabolizing ketones, the opposite of ketogenesis which is the process of synthesizing ketones. Ketolysis provides more energy for ATP synthesis than fatty acid oxidation (beta oxidation).
+Ketogenesis occurs primarily in the liver, whereas ketolysis occurs in non-liver cells, especially in the heart, brain, and skeletal muscle. The SCOT enzyme is required for ketolysis, and is present in the mitochondria of all mammalian cells except for hepatocytes.Although type II cells of the pulmonary alveolus possess monocarboxylate transporters to transport of beta hydroxybutyrate precursors into the cytoplasm, the absence of ketolytic enzymes results in the cells being unable to catabolize the beta hydroxybutyrate.The cardioprotective effects of SGLT2 inhibitors have been attributed to the elevated ketone levels and increased ketolysis.
+
+The Ketolytic Pathway
+
+
+== References ==

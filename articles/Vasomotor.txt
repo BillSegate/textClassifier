@@ -1,0 +1,18 @@
+Vasomotor refers to actions upon a blood vessel which alter its diameter. More specifically, it can refer to vasodilator action and vasoconstrictor action.
+
+Control
+Sympathetic innervation
+Sympathetic nerve fibers travel around the tunica media of the artery, secrete neurotransmitters such as norepinephrine into the extracellular fluid surrounding the smooth muscle (tunica media) from the terminal knob of the axon. The smooth muscle cell membranes have α and β-adrenergic receptors for these neurotransmitters. Activation of α-adrenergic receptors promotes vasoconstriction, while the activation of β-adrenergic receptors mediates the relaxation of muscle cells, resulting in vasodilation. Normally, α-adrenergic receptors predominate in smooth muscle of resistance vessels.
+
+Endothelium derived chemicals
+Endothelin, and angiotensin are the vasoconstrictors of smooth muscles while nitric oxide and prostacyclin are vasodilators of the smooth muscles.
+
+Pathology
+Some vasoactive chemicals such as vasodilator acetylcholine are known for causing reduced/increased blood flow in the tumours by vasomotor changes. Inadequate blood supply to the tumour cells can cause the cells to be radio-resistant and resulted in reduced accessibility to chemotherapeutic agents.Injuries to nerves of the lower trunk of the brachial plexus (Klumpke's paralysis) and compression of median nerve at the flexor retinaculum of the hand (Carpal Tunnel Syndrome) can cause vasomotor changes at the areas innervated by the nerves. This area of the skin will become warmer because of vasodilation (loss of vasoconstriction).Depression of the vasomotor center of the brain can cause the loss of vasomotor tone of blood vessels, resulting in massive dilatation of veins. This will result in a condition called as neurogenic shock.
+
+See also
+Vasoconstriction
+Vasodilation
+
+
+== References ==

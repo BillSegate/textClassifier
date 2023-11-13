@@ -1,0 +1,21 @@
+Nothing by mouth is a medical instruction meaning to withhold food and fluids. It is also known as nil per os (npo or NPO), a Latin phrase that translates to English as "nothing through the mouth". Variants include nil by mouth (NBM), nihil/non/nulla per os, or complete bowel rest. A liquid-only diet may also be referred to as bowel rest.NPO is one of the abbreviations that is not used in AMA style; "nothing by mouth" is spelled out instead.
+
+Purpose
+The typical reason for NPO instructions is the prevention of aspiration pneumonia, e.g. in those who will undergo general anesthesia, or those with weak swallowing musculature, or in case of gastrointestinal bleeding, gastrointestinal blockage, or acute pancreatitis. Alcohol overdoses that result in vomiting or severe external bleeding also warrant NPO instructions for a period.
+
+Duration
+Pre-surgery NPO orders are typically between 6 and 12 hours prior to surgery, through recovery suite discharge, but may be longer if long acting medications or oral post-meds were administered. It is not uncommon for the food NPO period to be longer than that for liquid, as the American Board of Anesthesiology advises against liquid NPO periods greater than eight hours. The NPO periods for illness tend to be much longer, although exceptions are made for small scheduled amounts of water consumption if an IV drip is not in use. With sufficient IV fluids, NPO periods of several days have been utilized successfully in non-diabetic patients (although short NPO periods in diabetics are possible with IV fluids, insulin, and dextrose. Extended periods (greater than 12 hours) are still contraindicated.
+The American Board of Anesthesiology recommends that patients should not eat solid food for at least 8 hours prior to a procedure, and should not drink even clear liquids for at least 2 hours prior. Clear liquid fasting includes water, juices without pulp, carbonated beverages, clear tea, and black coffee. Ingestion of water 2 hours prior to a procedure results in smaller gastric volumes and higher gastric pH when compared with those who ingested > 4 hours prior. The volume of liquid is less important than the type of liquid ingested. Non-emergency surgical cases should be delayed for NPO status.
+For extended periods without food or water, patients may be started on total parenteral nutrition (TPN).
+
+Unrestricted clear fluids
+Fasting guidelines often restrict the intake of any oral fluid after two to six hours preoperatively. However, it has been demonstrated in a large retrospective analysis in Torbay Hospital that unrestricted clear oral fluids right up until transfer to theatre could significantly reduce the incidence of postoperative nausea and vomiting without an increased risk in the adverse outcomes for which such conservative guidance exists.
+
+See also
+List of abbreviations used in medical prescriptions
+List of Latin phrases
+Per os
+Preoperative fasting
+
+
+== References ==

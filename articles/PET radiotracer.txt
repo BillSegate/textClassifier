@@ -1,0 +1,17 @@
+PET radiotracer  is a type of radioligand that is used for the diagnostic purposes via positron emission tomography imaging technique.
+
+Mechanism
+PET is a functional imaging technique that produces a three-dimensional image of functional processes in the body. The system detects pairs of gamma rays emitted indirectly by a positron-emitting radionuclide (tracer), which is introduced into the body on a biologically active molecule.
+
+Pharmacology
+In in vivo systems it is often used to quantify the binding of a test molecule to the binding site of radioligand. The higher the affinity of the molecule the more radioligand is displaced from the binding site and the increasing radioactive decay can be measured by scintillography. This assay is commonly used to calculate binding constant of molecules to receptors. Due to the probable injuries of PET-radiotracers, they could not be administered in the normal doses of the medications. Therefore, the binding affinity (PKD) of the PET-tracers must be high. In addition, since via the PET imaging technique is desired to investigate a function accurately, the selectivity of bindings to the specific targets is very important.
+
+See also
+Medicinal radiocompounds
+List of PET radiotracers
+Positron emission tomography
+Medicinal radiochemistry
+Radioligand
+
+
+== References ==

@@ -1,0 +1,12 @@
+Bigfoot Biomedical Inc. is a medical technology start-up headquartered in Milpitas, California, founded by a team of people with personal connections to type 1 and type 2 diabetes.On September 22, 2023, Abbott Laboratories announced that it had completed the purchase of the company.
+
+History
+The foundation of Bigfoot Biomedical was started when co-founder Bryan Mazlish's son was diagnosed with type 1 diabetes. Mazlish developed a control algorithm to drive the first automated artificial pancreas device for his wife and son.In 2014, Mazlish joined with Jeffrey Brewer, CEO of Juvenile Diabetes Research Foundation (JDRF), and Lane Desborough, chief engineer at Medtronic, to form SmartLoop Labs in order to scale and commercialize the technology.In February 2015, the company was renamed Bigfoot Biomedical Inc. following an article published in Wired Magazine about the work of Bryan Mazlish as someone who'd successfully hacked their own automated system and dubbing him “Bigfoot.”In May 2015, Bigfoot acquired the assets of Asante Solutions, former manufacturer of the Snap insulin pump.In June 2017, Bigfoot acquired London-based start-up Patients Pending, LTD makers of the Timesulin smart insulin pen, to lead the development of a smart pen solution for people utilizing multiple daily injections to manage their diabetes.In July 2017, Bigfoot entered an agreement with Abbott Laboratories to develop and commercialize diabetes management systems integrating Abbott's FreeStyle® Libre glucose sensing technology with Bigfoot's insulin delivery solutions in the United States.In July 2020 the FDA accepted for review the Bigfoot Unity™ Diabetes Management Program, a dose-decision support system utilizing proprietary smart pen caps and integrating Abbott's FreeStyle® Libre 2 continuous glucose monitoring platform.In September 2023, it was announced Bigfoot had been acquired by the Illinois-headquartered Abbott, for an undisclosed sum.
+
+Portfolio
+Bigfoot's portfolio also includes the Bigfoot Autonomy Diabetes Management Program with a closed-loop, automated insulin delivery system, sometimes referred to as an “artificial pancreas.” It received the FDA Breakthrough Device designation.
+
+References
+External links
+Bigfoot Biomedical Website
+Oxygen Saturation Monitor

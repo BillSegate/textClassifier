@@ -1,0 +1,35 @@
+Insufflation (Latin: insufflare, lit. 'to blow into') is the act of blowing something (such as a gas, powder, or vapor) into a body cavity. Insufflation has many medical uses, most notably as a route of administration for various drugs.
+
+Medical uses
+Surgery
+Gases are often insufflated into a body cavity to inflate the cavity for more workroom, e.g. during laparoscopic surgery. The most common gas used in this manner is carbon dioxide, because it is non-flammable, colorless, and dissolves readily in blood.
+
+Diagnostics
+Gases can be insufflated into parts of the body to enhance radiological imaging or to gain access to areas for visual inspection (e.g. during colonoscopy).
+
+Respiratory assistance
+Oxygen can be insufflated into the nose by nasal cannulae to assist in respiration.
+Mechanical insufflation-exsufflation simulates a cough and assists airway mucus clearance. It is used with patients with neuromuscular disease and muscle weakness due to central nervous system injury.Glossopharyngeal insufflation is a breathing technique that consists of gulping boluses of air into the lungs. It is also used by breath-hold divers to increase their lung volumes.Positive airway pressure is a mode of mechanical or artificial ventilation based on insufflation.Pump inhalers for asthmatics deliver aerosolized drugs into the lungs via the mouth. However, the insufflation by the pump is not adequate for delivery to the lungs, necessitating an active inhalation by the patient.
+
+Anesthesia and critical care
+Insufflated gases and vapors are used to ventilate and oxygenate patients (oxygen, air, helium), and to induce, assist in or maintain general anaesthesia (nitrous oxide, xenon, volatile anesthetic agents).
+Positive airway pressure is a mode of mechanical or artificial ventilation based on insufflation.
+
+Nasal drug administration
+Nasal insufflation is the most common method of nasal administration. Other methods are nasal inhalation and nasal instillation. Drugs administered in this way can have a local effect or a systemic effect. The time of onset for systemic drugs delivered via nasal administration is generally only marginally slower than if given intravenously. While what can be defined as "marginal" is surely debatable, a much more appropriate use of the previous sentence would arguably apply when comparing drug onset rates via non-IV, parenteral administration routes, such as Intramuscular, Intradermal, or Subcutaneous injection. While nasal administration has the potential capacity to result in increased onset times relative to oral use for specific drugs, it is typically slower in onset than even rectal administration (when administered in liquid form utilizing a solvent with sufficient solubility for that drug formulation) for the vast majority of substances, let alone parenteral or specifically IV use. A more appropriate non-parenteral consumption route to label as being "only marginally slower" to IV use would arguably be smoking/vaping (assuming the drug exists in a molecular form conducive to combustion/vaporization.
+Arguably the bioavailability of drugs administered nasally is generally significantly higher than drugs taken orally. Generalizations aside, the degree of relative bioavailability variation (with such large variations also including decreased relative bioavailabilities, with both variables unique to particular drugs in particular formulations) between nasal and oral administration in any one particular randomized drug is high. For example, two specific commonly prescribed or otherwise consumed drug classes, whether licit (e.g. majority of commonly prescribed non-IV benzodiazepines) or illicit (e.g. Cannabis (drug) and arguably the majority of directly cannabis-related synthetic cannabinoids), are prime examples that refute this presented overarching claim the nasal use "generally" results in improved bioavailability relative to oral use.
+While the examples listed below may benefit from nasal use in terms of improved bioavailability, numerous pharmaceutical drugs possess results contradictory to the "nasal use generally absorbs more efficiently" narrative. Generally speaking, drugs that are either water insoluble or negligibly water-soluble tend to possess extremely poor bioavailability rates resulting from mucus membrane-related consumption, whether nasally or rectally (if consumed in solid, particulate form). In addition, nearly all drugs with improved nasal bioavailability (relative to oral consumption) possess either an equivalent or outright superior bioavailability when consumed rectally, particularly via an extremely low volume enema (assuming said "micro" enema is administered via a non-toxic, human tolerant solvent with appropriate solute-related solubility) that is intentionally not expelled from the body. Such "micro enemas" usually require <2-10ml of solvent for the majority of common drug dosages.
+
+Examples of drugs given
+Steroids (local effect) and anti-asthma medication
+Hormone replacement
+Decongestants (local effect)
+Nicotine replacement
+Migraine medication
+VaccinesNasal administration can also be used for treatment of children or patients who are otherwise alarmed or frightened by needles, or where intravenous (IV) access is unavailable.
+
+History
+In the 18th century, the tobacco smoke enema, an insufflation of tobacco smoke into the rectum, was a common method of reviving drowning victims.
+
+
+== References ==

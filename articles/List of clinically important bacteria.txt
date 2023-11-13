@@ -1,0 +1,221 @@
+This is a list of bacteria that are significant in medicine. It is not intended as an exhaustive list of all bacterial species: that should be at List of bacteria. For viruses, see list of viruses.
+____
+
+A
+Acetobacter aurantius
+Acinetobacter baumannii
+Actinomyces israelii
+Agrobacterium radiobacter
+Agrobacterium tumefaciens
+Anaplasma
+Anaplasma phagocytophilum
+Azorhizobium caulinodans
+Azotobacter vinelandii
+viridans streptococci
+
+B
+Bacillus
+Bacillus anthracis
+Bacillus brevis
+Bacillus cereus
+Bacillus fusiformis
+Bacillus licheniformis
+Bacillus megaterium
+Bacillus mycoides
+Bacillus stearothermophilus
+Bacillus subtilis
+Bacillus thuringiensis
+Bacteroides
+Bacteroides fragilis
+Bacteroides gingivalis
+Bacteroides melaninogenicus (now known as Prevotella melaninogenica)
+Bartonella
+Bartonella henselae
+Bartonella quintana
+Bordetella
+Bordetella bronchiseptica
+Bordetella pertussis
+Borrelia burgdorferi
+Brucella
+Brucella abortus
+Brucella melitensis
+Brucella suis
+Burkholderia
+Burkholderia mallei
+Burkholderia pseudomallei
+Burkholderia cepacia
+
+C
+Calymmatobacterium granulomatis
+Campylobacter
+Campylobacter coli
+Campylobacter fetus
+Campylobacter jejuni
+Campylobacter pylori
+Chlamydia
+Chlamydia trachomatis
+Chlamydophila
+Chlamydophila pneumoniae (previously called Chlamydia pneumoniae)
+Chlamydophila psittaci (previously called Chlamydia psittaci)
+Clostridium
+Clostridium botulinum
+Clostridium difficile
+Clostridium perfringens (previously called Clostridium welchii)
+Clostridium tetani
+Corynebacterium
+Corynebacterium diphtheriae
+Corynebacterium fusiformeCoxiella burnetii
+
+E
+Ehrlichia chaffeensis
+Ehrlichia ewingii
+Eikenella corrodens
+Enterobacter cloacae
+Enterococcus
+Enterococcus avium
+Enterococcus durans
+Enterococcus faecalis
+Enterococcus faecium
+Enterococcus gallinarum
+Enterococcus maloratus
+Escherichia coli
+
+F
+Fusobacterium necrophorum
+Fusobacterium nucleatum
+
+G
+Gardnerella vaginalis
+
+H
+Haemophilus
+Haemophilus ducreyi
+Haemophilus influenzae
+Haemophilus parainfluenzae
+Haemophilus pertussis
+Haemophilus vaginalis
+Helicobacter pylori
+
+K
+Klebsiella pneumoniae
+
+L
+Lactobacillus
+Lactobacillus acidophilus
+Lactobacillus bulgaricus
+Lactobacillus casei
+Lactococcus lactis
+Legionella pneumophila
+Leptospira interrogans
+Leptospira noguchii
+Listeria monocytogenes
+
+M
+Methanobacterium extroquens
+Microbacterium multiforme
+Micrococcus luteus
+Moraxella catarrhalis
+Mycobacterium
+Mycobacterium avium
+Mycobacterium bovis
+Mycobacterium diphtheriae
+Mycobacterium intracellulare
+Mycobacterium leprae
+Mycobacterium lepraemurium
+Mycobacterium phlei
+Mycobacterium smegmatis
+Mycobacterium tuberculosis
+Mycoplasma
+Mycoplasma fermentans
+Mycoplasma genitalium
+Mycoplasma hominis
+Mycoplasma penetrans
+Mycoplasma pneumoniae
+Mycoplasma mexican
+
+N
+Neisseria
+Neisseria gonorrhoeae
+Neisseria meningitidis
+
+P
+Pasteurella
+Pasteurella multocida
+Pasteurella tularensis
+Peptostreptococcus
+Porphyromonas gingivalis
+Prevotella melaninogenica (previously called Bacteroides melaninogenicus)
+Pseudomonas aeruginosa
+
+R
+Rhizobium radiobacter
+Rickettsia
+Rickettsia prowazekii
+Rickettsia psittaci
+Rickettsia quintana
+Rickettsia rickettsii
+Rickettsia trachomae
+Rochalimaea
+Rochalimaea henselae
+Rochalimaea quintana
+Rothia dentocariosa
+
+S
+Salmonella
+Salmonella enteritidis
+Salmonella typhi
+Salmonella typhimurium
+Serratia marcescens
+Shigella dysenteriae
+Spirillum volutans
+Staphylococcus
+Staphylococcus aureus
+Staphylococcus epidermidis
+Stenotrophomonas maltophilia
+Streptococcus
+Streptococcus agalactiae
+Streptococcus avium
+Streptococcus bovis
+Streptococcus cricetus
+Streptococcus faceium
+Streptococcus faecalis
+Streptococcus ferus
+Streptococcus gallinarum
+Streptococcus lactis
+Streptococcus mitior
+Streptococcus mitis
+Streptococcus mutans
+Streptococcus oralis
+Streptococcus pneumoniae
+Streptococcus pyogenes
+Streptococcus rattus
+Streptococcus salivarius
+Streptococcus sanguis
+Streptococcus sobrinus
+
+T
+Treponema
+
+U
+Ureaplasma urealyticum
+
+V
+Vibrio
+Vibrio cholerae
+Vibrio comma
+Vibrio parahaemolyticus
+Vibrio vulnificus
+
+W
+Wolbachia
+
+Y
+Yersinia
+Yersinia enterocolitica
+Yersinia pestis
+Yersinia pseudotuberculosis
+
+See also
+List of bacterial orders
+List of bacteria genera
+List of human diseases associated with infectious pathogens

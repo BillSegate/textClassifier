@@ -1,0 +1,75 @@
+This list of important publications in medicine, is organized by field.
+Some reasons why a particular publication might be regarded as important:
+
+Topic creator – A publication that created a new topic
+Breakthrough – A publication that changed scientific knowledge significantly
+Influence – A publication which has significantly influenced the world or has had a massive impact on the teaching of medicine.The definitive bibliographic source of books and articles demonstrating the history of medicine and identifying the first publications in the field is "Garrison and Morton". (Morton, Leslie T. (Leslie Thomas), Morton's medical bibliography : an annotated check-list of texts illustrating the history of medicine (Garrison and Morton). -- 5th ed. / edited by Jeremy M. Norman. -- Aldershot, Hants, England ; Brookfield, Vt., USA : Scolar Press, Gower, c1991. xxiv, 1243 p. ISBN 978-0-85967-897-1.) It is also available electronically, for a fee.
+
+Foundations
+De Materia Medica
+
+Author: Pedanius Dioscorides
+Publication data: De Materia Medica, 50–70
+Online version: Online version of first volume
+Description: This five-volume work was a precursor to all modern pharmacopeias. In fact, it remained in use until the 16th century, though with some additional commentary and additions from Arabian and Indian sources.
+Importance: Topic creator, Breakthrough, ImpactThe Canon of Medicine
+
+Author: Avicenna (Ibn Sina)
+Publication data: The Canon of Medicine, 1025
+Description: This fourteen-volume medical encyclopedia was the first of its kind and remained the most popular medical textbook in both Europe and the Islamic world up until the 17th century and continued to be in use as late as the 19th century. Among other things, the book is known for the discovery of contagious diseases, and the introduction of experimental medicine, clinical trials, randomized controlled trials, efficacy tests, and clinical pharmacology. The work is considered one of the most famous books in the history of medicine.
+Importance: Topic creator, Breakthrough, ImpactExercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus
+
+Author: William Harvey
+Publication data: 1628
+Description: The work in which Harvey explained the circulation of the blood.
+Importance: Breakthrough, ImpactThe Principles and Practice of Medicine: Designed for the Use of Practitioners and Students of Medicine
+
+Author: William Osler
+Publication data:
+Online version:
+Description: First published in 1892 while Osler was Professor of Medicine at Johns Hopkins University, this textbook was, in its time, translated into French, German, Russian, Portuguese, Spanish and Chinese. It became the most significant medical textbook of the next 40 years.
+Importance: Impact
+
+Recent studies
+Mortality in relation to smoking: 50 years' observation on male British doctors
+
+Authors: R. Doll, R. Peto, J. Boreham, I. Sutherland
+Publication data: BMJ 2004;328:1519–33.
+Description: This is the British doctors study. A prospective cohort study which ran from 1951 to 2001, and in 1956 provided convincing statistical evidence that tobacco smoking increases the risk of lung cancer.
+Importance: ImpactRandomized trial of cholesterol lowering in 4444 patients with coronary heart disease: the Scandinavian Simvastatin Survival Study
+
+Authors: The Scandinavian Simvastatin Survival Study Group.
+Publication data: Lancet 1994;344:1383–1389
+Description: The Scandinavian Simvastatin Survival Study (also known under the abbreviation 4S) is a multicenter clinical trial that was performed in the 1990s in Scandinavia. The objective of the study was to assess the effect of a cholesterol-lowering drug called simvastatin on mortality and morbidity in group of 4444 patients with coronary heart disease, aged between 35 and 70 years. The patients presented with moderate hypercholesterolemia between 5.5 and 8.0 mmol/L. The results of the trial showed that simvastatin had a lowering effect on mortality and morbidity of patients with coronary heart disease.
+Importance: ImpactHeart Protection Study
+
+Authors: Medical Research Council
+Online version: Research site
+Description: The Heart Protection Study is a large randomized controlled trial by the Medical Research Council (MRC) in the United Kingdom. It studies the use of statin (simvastatin 40 mg) medication and vitamin supplementation (vitamin E, vitamin C and beta carotene) in patients that are at risk for cardiovascular disease.
+Importance: Impact
+
+Publications in medicine by field
+Cardiology
+Prophylactic implantation of a defibrillator in patients with myocardial infarction and reduced ejection fraction
+
+Authors: Moss AJ, Zareba W, Hall WJ, Klein H, Wilber DJ, Cannom DS, Daubert JP, Higgins SL, Brown MW, Andrews ML; Multicenter Automatic Defibrillator Implantation Trial II Investigators.Publication data: N Engl J Med. 2002 Mar 21;346(12):877-83. Epub 2002 Mar 19. (MADIT 2)
+Description: This study shows that anyone with coronary heart disease and decreased ejection fraction should receive an implantable cardioverter-defibrillator.
+Importance: Impact
+
+Endocrinology
+Pancreatic extracts in the treatment of diabetes mellitus
+
+Author: Banting FG, Best CH, Collip JB, Campbell WR, Fletcher AA
+Publication data: Canadian Medical Association Journal 1922;12:141-146.
+Online version: Online version
+Description: Banting and Best proved the existence of the hypothetical pancreatic substance termed "insulin" by Sharpey-Schafer.
+Importance: Topic creator, Breakthrough, ImpactDiabetes mellitus: its differentiation into insulin-sensitive and insulin-insensitive types.
+
+Author: Himsworth HP
+Publication data: Lancet 1936;i:127-130.
+Online version:
+Description: Himsworth noted that there are two main types of diabetes, the insulin-depleted (type 1) and the insulin-resistant form (type 2). Insulin resistance is a term and concept of his coinage.
+Importance: Breakthrough, Impact
+
+
+== References ==

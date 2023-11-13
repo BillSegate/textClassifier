@@ -1,0 +1,19 @@
+The Wells score is a clinical prediction rule used to classify patients suspected of having pulmonary embolism  (PE) into risk groups by quantifying the pre-test probability. It is different than Wells score for DVT (deep vein thrombosis). It was originally described by Wells et al. in 1998, using their experience from creating Wells score for DVT in 1995. Today, there are multiple (revised or simplified) versions of the rule, which may lead to ambiguity.The purpose of the rule  is to select the best method of investigation (e.g. D-dimer testing, CT angiography) for ruling in or ruling out the diagnosis of PE, and to improve the interpretation and accuracy of subsequent testing, based on a Bayesian framework for the probability of the diagnosis.
+The rule is more objective than clinician gestalt, but still includes subjective opinion (unlike e.g. Geneva score).
+
+Original algorithm
+Originally it was developed  in 1998 to improve the low specificity of V/Q scan results (which then had a more important role in the workup of PE than now).
+It categorized patients into 3 categories: low / moderate / high probability. It was formulated in the form of an algorithm, not a score.
+Subsequent testing choices were  V/Q scanning, pulmonary angiography, and serial compression ultrasound.
+
+Revised score
+The emergence of D-dimer assays prompted the revision of the rule.
+This version was published as a score, and according to the final score, patients could be categorized in either 3 groups (low / intermediate / high risk) or 2 groups (low / high risk)
+Subsequent testing choices included D-dimer testing for low risk cases, and V/Q scanning, pulmonary angiography, and compression ultrasonography for intermediate / high risk patients and low-risk patients with positive D-dimer results.
+
+Risk of PE using 3 categories (data from the derivation group)
+
+Risk of PE using 2 categories (data from the derivation group)
+
+
+== References ==

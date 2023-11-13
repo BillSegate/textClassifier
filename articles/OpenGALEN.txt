@@ -1,0 +1,37 @@
+OpenGALEN is a not-for-profit organisation that provides an open source medical terminology. This terminology is written in a formal language called GRAIL (GALEN Representation And Integration Language) and also distributed in OWL.
+
+Background
+The GALEN technologies were developed with research funding provided by the European Community Framework III (GALEN Project) and Framework IV (GALEN-In-Use Project) programmes.
+Early phases of the GALEN Programme developed the GRAIL concept modelling language, experimented with different structures for the GALEN Common Reference Model, and, in parallel, tested the usefulness of the approach with a series of clinical demonstrator projects.
+Later phases of the GALEN Programme, during the late 1990s, have concentrated on robust implementations of GRAIL and the Terminology Server, development of the GALEN Common Reference Model in both scope and detail, and development of tools and techniques to enable the further development, scaling-up and maintenance of the model. An important additional focus has been in developing tools and techniques with which we can map the information found in existing coding and Medical classification schemes to the GALEN Common Reference Model.
+OpenGALEN has been set up as a not-for-profit Dutch Foundation by the universities of Manchester and Nijmegen to make the results of the GALEN projects available to the world.
+
+GALEN Common Reference Model
+The GALEN Common Reference Model is the model of medical concepts (or clinical terminology) being built in GRAIL. This model forms the underlying structural foundation for the services provided by a GALEN Terminology Server.
+The GALEN Common Reference Model is written in the formal language GRAIL (see below). The GRAIL statements in the model are equivalent with sentences like these:
+
+Ulcer is a kind of inflammatory lesion
+The process whose outcome is an ulcer is called ulceration
+The stomach is a part of the GI tract
+It is sensible to talk about ulcers located in the stomach
+Ulcers located in the stomach are called Gastric Ulcers
+Ulcers located in the stomach are actually located on the mucosa of the wall of the stomachThe GALEN Common Reference Model is available from the OpenGALEN Foundation as open source.
+
+Projects
+The GALEN tools and technologies were used in France for the development of the French classification of procedures Classification Commune des Actes Médicaux (CCAM).
+
+References
+Rector, A.; Rogers, J.; Zanstra, P.; Van Der Haring, E. (2003). "OpenGALEN: Open source medical terminology and tools". AMIA Annual Symposium Proceedings. 2003: 982. PMC 1480228. PMID 14728486.
+Rector, A.; Solomon, W.; Nowlan, W.; Rush, T.; Zanstra, P.; Claassen, W. (1995). "A Terminology Server for medical language and medical information systems". Methods of Information in Medicine. 34 (1–2): 147–157. doi:10.1055/s-0038-1634569. PMID 9082124. S2CID 7978610.
+Rector, A.; Zanstra, P.; Solomon, W.; Rogers, J.; Baud, R.; Ceusters, W.; Claassen, W.; Kirby, J.; Rodrigues, J.; Rossi Mori, A. R.; Van Der Haring, E. J.; Wagner, J. (1998). "Reconciling users' needs and formal requirements: Issues in developing a reusable ontology for medicine". IEEE Transactions on Information Technology in Biomedicine. 2 (4): 229–242. doi:10.1109/4233.737578. PMID 10719533. S2CID 10702025.
+Rogers, J.; Roberts, A.; Solomon, D.; Van Der Haring, E.; Wroe, C.; Zanstra, P.; Rector, A. (2001). "GALEN ten years on: Tasks and supporting tools". Studies in Health Technology and Informatics. 84 (Pt 1): 256–260. PMID 11604744.
+Ten Napel, H.; Rogers, J. (2001). "Assessment of the GALEN methodology on holistic classifications for professions allied to medicine". Studies in Health Technology and Informatics. 84 (Pt 2): 1369–1373. PMID 11604951.
+Rogers, J.; Rector, A. (2000). "GALEN's model of parts and wholes: Experience and comparisons". AMIA Annual Symposium Proceedings: 714–718. PMC 2243933. PMID 11079977.
+Solomon, W.; Roberts, A.; Rogers, J.; Wroe, C.; Rector, A. (2000). "Having our cake and eating it too: How the GALEN Intermediate Representation reconciles internal complexity with users' requirements for appropriateness and simplicity". AMIA Annual Symposium Proceedings: 819–823. PMC 2244105. PMID 11079998.
+Rogers, J. (2006). "Quality assurance of medical ontologies". Methods of Information in Medicine. 45 (3): 267–274. doi:10.1055/s-0038-1634078. PMID 16685334. S2CID 9398450.
+
+External links
+OpenGALEN Web site
+CCAM, Classification Commune des Actes Médicaux
+University of Manchester, Bio-Health Informatics Group
+University of Nijmegen, Medical Informatics

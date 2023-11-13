@@ -1,0 +1,5 @@
+The silk glove-sign is a pediatric diagnostic measure employed when a hernia or hydrocele is suspected but there is no other clinical evidence to prove their existence. It involves gentle palpation of skin overlying the processus vaginalis along the area of the pubic tubercle in order to elicit what is often described as "pieces of silk friction" beneath the index finger. A positive sign indicates a patent processus vaginalis and effectively rules out the existence of a hydrocele.
+This physical finding has a sensitivity of 91% and a specificity of 97.3%.
+
+
+== References ==

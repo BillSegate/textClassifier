@@ -1,0 +1,35 @@
+Infiltration is the diffusion or accumulation (in a tissue or cells) of foreign substances in amounts excess of the normal.  The material collected in those tissues or cells is called infiltrate.
+
+Definitions of infiltration
+As part of a disease process, infiltration is sometimes used to define the invasion of cancer cells into the underlying matrix or the blood vessels. Similarly, the term may describe the deposition of amyloid protein. During leukocyte extravasation, white blood cells move in response to cytokines from within the blood, into the diseased or infected tissues, usually in the same direction as a chemical gradient, in a process called chemotaxis. The presence of lymphocytes in tissue in greater than normal numbers is likewise called infiltration.
+As part of medical intervention, local anaesthetics may be injected at more than one point so as to infiltrate an area prior to a surgical procedure. However, the term may also apply to unintended iatrogenic leakage of fluids from phlebotomy or intravenous drug delivery procedures, a process also known as extravasation or "tissuing".
+
+Causes
+Infiltration  may be caused by:
+
+Puncture of distal vein wall during venipuncture
+Puncture of any portion of the vein wall by mechanical friction from the catheter/needle cannula
+Dislodgement of the catheter/needle cannula from the intima of the vein which may be a result of a poorly secured IV device or inappropriate choice of venous site to puncture.
+Improper cannula size or excessive delivery rate of the fluid
+
+Signs and symptoms
+The signs and symptoms of infiltration include:
+
+Inflammation at or near the insertion site with swollen, taut skin with pain
+Blanching and coolness of skin around IV site
+Damp or wet dressing
+Slowed or stopped infusion
+No backflow of blood into IV tubing on lowering the solution container.
+
+Grading
+Nursing treatment
+The use of warm compresses to treat infiltration has become controversial. It has been found that cold compresses may be better for some infiltrated infusates.  If the infiltration is recent and the solution was hypertonic or had an increased pH, a cold compress can be applied. A warm compress can be applied if a small amount of non-caustic solution has infiltrated over a long period, or if the solution is isotonic with normal pH.
+It has also been documented that elevation of the infiltrated extremity may be painful for the patient.
+To act in the best interest of the patient, following IV infiltration, consult with the physician for orders regarding compresses and elevation.
+
+Notes
+References
+Dorland's Illustrated Medical Dictionary (Twenty-sixth ed.). ISBN 0-7216-1645-3.
+Vinay Kumar, Abul Abbas, and Jon Aster. Robbins and Cotran Pathologic Basis of Disease (9th ed.).{{cite book}}:  CS1 maint: multiple names: authors list (link)
+Dianne L. Josephson (2004). Intravenous Infusion Therapy for Nurses (Second ed.). ISBN 1-4018-0935-9.
+Brunner & Suddarth's Textbook of Medical-Surgical Nursing (Twelfth ed.). ISBN 0-7817-8590-1.

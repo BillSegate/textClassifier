@@ -1,0 +1,91 @@
+Evolutionary medicine or Darwinian medicine is the application of modern evolutionary theory to understanding health and disease.  Modern biomedical research and practice have focused on the molecular and physiological mechanisms underlying health and disease, while evolutionary medicine focuses on the question of why evolution has shaped these mechanisms in ways that may leave us susceptible to disease.  The evolutionary approach has driven important advances in the understanding of cancer, autoimmune disease, and anatomy. Medical schools have been slower to integrate evolutionary approaches because of limitations on what can be added to existing medical curricula. The International Society for Evolution, Medicine and Public Health coordinates efforts to develop the field. It owns the Oxford University Press journal Evolution, Medicine and Public Health and The Evolution and Medicine Review.
+
+Core principles
+Utilizing the Delphi method, 56 experts from a variety of disciplines, including anthropology, medicine, nursing, and biology agreed upon 14 core principles intrinsic to the education and practice of evolutionary medicine.  These 14 principles can be further grouped into five general categories: question framing, evolution I and II (with II involving a higher level of complexity), evolutionary trade-offs, reasons for vulnerability, and culture.  Additional information regarding these principles may be found in the table below.
+
+Human adaptations
+Adaptation works within constraints, makes compromises and trade-offs, and occurs in the context of different forms of competition.
+
+Constraints
+Adaptations can only occur if they are evolvable. Some adaptations which would prevent ill health are therefore not possible.
+
+DNA cannot be totally prevented from undergoing somatic replication corruption; this has meant that cancer, which is caused by somatic mutations, has not (so far) been eliminated by natural selection.
+Humans cannot biosynthesize vitamin C, and so risk scurvy, vitamin C deficiency disease, if dietary intake of the vitamin is insufficient.
+Retinal neurons and their axon output have evolved to be inside the layer of retinal pigment cells. This creates a constraint on the evolution of the visual system such that the optic nerve is forced to exit the retina through a point called the optic disc. This, in turn, creates a blind spot. More importantly, it makes vision vulnerable to increased pressure within the eye (glaucoma) since this cups and damages the optic nerve at this point, resulting in impaired vision.Other constraints occur as the byproduct of adaptive innovations.
+
+Trade-offs and conflicts
+One constraint upon selection is that different adaptations can conflict, which requires a compromise between them to ensure an optimal cost-benefit tradeoff.
+
+Running efficiency in women, and birth canal size
+Encephalization, and gut size
+Skin pigmentation protection from UV, and the skin synthesis of vitamin D
+Speech and its use of a descended larynx, and increased risk of choking
+
+Competition effects
+Different forms of competition exist and these can shape the processes of genetic change.
+
+mate choice and disease susceptibility
+genomic conflict between mother and fetus that results in pre-eclampsia
+
+Lifestyle
+Humans evolved to live as simple hunter-gatherers in small tribal bands, while contemporary humans have a more complex life. This change may make present-day humans susceptible to lifestyle diseases.
+
+Diet
+In contrast to the diet of early hunter-gatherers, the modern Western diet often contains high quantities of fat, salt, and simple carbohydrates, such as refined sugars and flours.
+Trans fat health risks
+Dental caries
+High GI foods
+Modern diet based on "common wisdom" regarding diets in the paleolithic eraAmong different countries, the incidence of colon cancer varies widely, and the extent of exposure to a Western pattern diet may be a factor in cancer incidence.
+
+Life expectancy
+Examples of aging-associated diseases are atherosclerosis and cardiovascular disease, cancer, arthritis, cataracts, osteoporosis, type 2 diabetes, hypertension and Alzheimer's disease. The incidence of all of these diseases increases rapidly with aging (increases exponentially with age, in the case of cancer). 
+
+Of the roughly 150,000 people who die each day across the globe, about two thirds—100,000 per day—die of age-related causes. In industrialized nations, the proportion is much higher, reaching 90%.
+
+Exercise
+Many contemporary humans engage in little physical exercise compared to the physically active lifestyles of ancestral hunter-gatherers. Prolonged periods of inactivity may have only occurred in early humans following illness or injury, so a modern sedentary lifestyle may continuously cue the body to trigger life preserving metabolic and stress-related responses such as inflammation, and some theorize that this causes chronic diseases.
+
+Cleanliness
+Contemporary humans in developed countries are mostly free of parasites, particularly intestinal ones. This is  largely due to frequent washing of clothing and the body, and improved sanitation. Although such hygiene can be very important when it comes to maintaining good health, it can be problematic for the proper development of the immune system. The hygiene hypothesis is that humans evolved to be dependent on certain microorganisms that help establish the immune system, and modern hygiene practices can prevent necessary exposure to these microorganisms. "Microorganisms and macroorganisms such as helminths from mud, animals, and feces play a critical role in driving immunoregulation" (Rook, 2012). Essential microorganisms play a crucial role in building and training immune functions that fight off and repel some diseases, and protect against excessive inflammation, which has been implicated in several diseases. For instance, recent studies have found evidence supporting inflammation as a contributing factor in Alzheimer's Disease.
+
+Specific explanations
+This is a partial list: all links here go to a section describing or debating its evolutionary origin.
+
+Life stage related
+Other
+Evolutionary psychology
+As noted in the table below, adaptationist hypotheses regarding the etiology of psychological disorders are often based on analogies with evolutionary perspectives on medicine and physiological dysfunctions (see in particular, Randy Nesse and George C. Williams' book Why We Get Sick).
+Evolutionary psychiatrists and psychologists suggest that some mental disorders likely have multiple causes.
+See several topic areas, and the associated references, below.
+
+History
+Charles Darwin did not discuss the implications of his work for medicine, though biologists quickly appreciated the germ theory of disease and its implications for understanding the evolution of pathogens, as well as an organism's need to defend against them.
+Medicine, in turn, ignored evolution, and instead focused (as done in the hard sciences) upon proximate mechanical causes.
+
+medicine has modelled itself after a mechanical physics, deriving from Galileo, Newton, and Descartes.... As a result of assuming this model, medicine is mechanistic, materialistic, reductionistic, linear-causal, and deterministic (capable of precise predictions) in its concepts. It seeks explanations for diseases, or their symptoms, signs, and cause in single, materialistic— i.e., anatomical or structural (e.g., in genes and their products)— changes within the body, wrought directly (linearly), for example, by infectious, toxic, or traumatic agents. p. 510
+George C. Williams was the first to apply evolutionary theory to health in the context of senescence. Also in the 1950s, John Bowlby approached the problem of disturbed child development from an evolutionary perspective upon attachment.
+An important theoretical development was Nikolaas Tinbergen's distinction made originally in ethology between evolutionary and proximate mechanisms.
+Randolph M. Nesse summarizes its relevance to medicine: all biological traits need two kinds of explanation, both proximate and evolutionary. The proximate explanation for a disease describes what is wrong in the bodily mechanism of individuals affected by it. An evolutionary explanation is completely different. Instead of explaining why people are different, it explains why we are all the same in ways that leave us vulnerable to disease. Why do we all have wisdom teeth, an appendix, and cells that can divide out of control?
+The paper of Paul Ewald in 1980, "Evolutionary Biology and the Treatment of Signs and Symptoms of Infectious Disease", and that of Williams and Nesse in 1991, "The Dawn of Darwinian Medicine" were key developments. The latter paper "draw a favorable reception",page x and led to a book, Why We Get Sick (published as Evolution and healing in the UK). In 2008, an online journal started: Evolution and Medicine Review.
+In 2000, Paul Sherman hypothesised that morning sickness could be an adaptation that protects the developing fetus from foodborne illnesses, some of which can cause miscarriage or birth defects, such as listeriosis and toxoplasmosis.
+
+See also
+Evolutionary therapy
+Evolutionary psychiatry
+Evolutionary physiology
+Evolutionary psychology
+Evolutionary developmental psychopathology
+Evolutionary approaches to depression
+Illness
+Paleolithic lifestyle
+Universal Darwinism
+
+References
+Further reading
+Books
+
+Online articles
+
+External links
+Evolution and Medicine Network
+Special Issue of Evolutionary Applications on Evolutionary Medicine

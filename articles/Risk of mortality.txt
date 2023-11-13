@@ -1,0 +1,11 @@
+The risk of mortality (ROM) provides a medical classification to estimate the likelihood of in-hospital death for a patient. The ROM classes are minor, moderate, major, and extreme. The ROM class is used for the evaluation of patient mortality.
+
+See also
+Case mix index
+Diagnosis codes
+Severity of illness
+
+References
+Alemi, F., J. Rice, and R. Hankins. 1990. "Predicting In-Hospital Survival of Myocardial Infarction." Medical Care 28 (9): 762–75.
+Averill, R. F., J. H. Muldoon, J. C. Vertrees, N. I. Goldfield, R. L. Mullin, E. C. Fineran, M. Z. Zhang, B. Steinbeck, and T. Grant, The Evolution of Casemix Measurement Using Diagnosis Related Groups (DRGs) 3M HIS Working Paper. Wallinford, CT: 3M Health Information Systems, 1997
+Iezzoni, L. I., M. Shwartz, A. S. Ash, J. S. Hughes, J. Daley, and Y. D. Mackiernan, Severity Measurement Methods and Judging Hospital Death Rates for Pneumonia, Medical Care 34 (1): 11–28, 1996

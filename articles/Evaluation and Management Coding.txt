@@ -1,0 +1,15 @@
+Evaluation and management coding (commonly known as E/M coding or E&M coding) is a medical coding process in support of medical billing. Practicing health care providers in the United States must use E/M coding to be reimbursed by Medicare, Medicaid programs, or private insurance for patient encounters.E/M standards and guidelines were established by Congress in 1995 and revised in 1997. It has been adopted by private health insurance companies as the standard guidelines for determining type and severity of patient conditions.  This allows medical service providers to document and bill for reimbursement for services provided.
+E/M codes are based on the Current Procedural Terminology (CPT) codes established by the American Medical Association (AMA).
+In 2010, new codes were added to the E/M Coding set, for prolonged services without direct face-to-face contact.
+
+See also
+Resource-based relative value scale
+
+References
+External links
+E/M Calculator 2021
+Department of Health and Human Services,Centers for Medicare & Medicaid Services: Evaluation and Management Services Guide
+MedScape:Correct Coding Helps You Get Paid What You're Worth
+E/M University: Definitions
+Evaluation of EHR Coding Tools
+E/M Utilization Benchmarking Tool

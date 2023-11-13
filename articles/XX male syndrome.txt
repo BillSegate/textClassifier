@@ -1,0 +1,45 @@
+XX male syndrome, also known as de la Chapelle syndrome, is a rare congenital intersex condition in which an individual with a 46,XX karyotype (otherwise associated with females) has phenotypically male characteristics that can vary among cases. Synonyms include 46,XX testicular difference of sex development (46,XX DSD), 46,XX sex reversal, nonsyndromic 46,XX testicular DSD, and XX sex reversal.In 90 percent of these individuals, the syndrome is caused by the Y chromosome's SRY gene, which triggers male reproductive development, being atypically included in the crossing over of genetic information that takes place between the pseudoautosomal regions of the X and Y chromosomes during meiosis in the father. When the X with the SRY gene combines with a normal X from the mother during fertilization, the result is an XX male. Less common are SRY-negative XX males, which can be caused by a mutation in an autosomal or X chromosomal gene. The masculinization of XX males is variable.
+This syndrome is diagnosed through various detection methods and occurs in approximately 1:20,000 newborn males, making it much less common than Klinefelter syndrome. Treatment is medically unnecessary, although some individuals choose to undergo treatments to make them appear more male or female. The alternative name for XX male syndrome refers to Finnish scientist Albert de la Chapelle, who studied the condition and its etiology.
+
+Signs and symptoms
+The appearance of XX males can fall into one of three categories: 1) males that have normal internal and external genitalia, 2) males with external ambiguities, and 3) males that have both internal and external genital ambiguities. External genital ambiguities can include hypospadias, micropenis, and clitoromegaly. Typically, the appearance of XX males differs from that of an XY male in that they are smaller in height and weight. Most XX males have small testes, and have an increase in maldescended testicles compared to XY males. All are believed to be sterile; however, there is a possibility some could be fertile. Some XX male individuals have decreased amounts of body hair and decreased libido. Individuals with this condition sometimes have feminine characteristics, with varying degrees of gynecomastia but with no intra-abdominal Müllerian tissue. According to research at the University of Oklahoma health science centers, despite XX males exhibiting feminine characteristics, their behaviours are usually representative of masculinity in their culture.They generally have small testes and may also have abnormalities such as undescended testes (cryptorchidism) or the urethra opening on the underside of the penis (hypospadias). A small number of affected people have external genitalia that do not look clearly male or clearly female (ambiguous genitalia). Affected children are typically raised as males and are likely to have a male gender identity.
+
+Masculinization
+The degree to which individuals with XX male syndrome develop the male phenotype is variable, even among SRY-positive individuals. A completely male phenotype usually develops in the presence of the SRY gene but, in some cases, the presence of the SRY gene can result in internal and/or external genitalia ambiguities. Normal XX females undergo X inactivation during which one copy of the X chromosome is silenced. It is thought that X inactivation in XX males may account for the genital ambiguities and incomplete masculinization seen in SRY-positive XX males. The X chromosome with the SRY gene is preferentially chosen to be the active X chromosome 90% of the time, which explains complete male phenotype being observed often in SRY-positive XX males. In the remaining 10%, X inactivation spreads to include a portion of the SRY gene, resulting in incomplete masculinization.Masculinization of SRY-negative XX males is dependent upon which genes have mutations and at what point in development these mutations occur.
+
+Genetics
+Males typically have one X chromosome and one Y chromosome in each diploid cell of their bodies. Females typically have two X chromosomes. XX males that are SRY-positive have two X chromosomes, with one of them containing genetic material (the SRY gene) from the Y chromosome; this gene causes them to develop a male phenotype despite having chromosomes more typical of females. Some XX males, however, do not have the SRY gene (SRY-negative) and the male phenotype may be caused by another gene on one of the autosomes.
+
+SRY-positive
+The SRY gene, normally found on the Y chromosome, plays an important role in sex determination by initiating testicular development. In about 80 percent of XX males, the SRY gene is present on one of the X chromosomes. The condition results from an abnormal exchange of genetic material between chromosomes (translocation). This exchange occurs as a random event during the formation of sperm cells in the affected person's father. The tip of the Y chromosome contains the SRY gene and, during recombination, a translocation occurs in which the SRY gene becomes part of the X chromosome. If a fetus is conceived from a sperm cell with an X chromosome bearing the SRY gene, it will develop as a male despite not having a Y chromosome. This form of the condition is called SRY-positive 46,XX testicular disorder of sex development.
+
+SRY-negative
+About 20 percent of those with 46 XX testicular disorder of sex development do not have the SRY gene. This form of the condition is called SRY-negative 46,XX testicular disorder of sex development. The cause of the disorder in these individuals is often unknown, although changes affecting other genes have been identified. Individuals with SRY-negative 46,XX testicular disorder of sex development are more likely to have ambiguous genitalia than are people with the SRY-positive form.The exact cause of this condition is unknown but it has been proposed that mutations in the SOX9 gene may contribute to this syndrome since SOX9 plays a role in testes differentiation during development. Another proposed cause is mutations to the DAX1 gene, which encodes a nuclear hormone receptor. DAX1 represses masculinizing genes; therefore, if there is a loss of function of DAX1, then testes can develop in an XX individual. Mutations in SF1 and WNT4 genes have also been studied in connection with SRY-negative XX male syndrome.
+
+Diagnosis
+In cases where the individual is being evaluated for ambiguous genitalia, such as a small phallus, hypospadias, or labioscrotal folds, exploratory surgery may be used to determine if male and/or female internal genitalia is present. Indicators include two testes which have not descended the inguinal canal, although this is seen in a minority of XX males, and the absence of Müllerian tissue. External indicators include decreased body weight and small testes.A standard karyotype can be completed to cytogenetically determine that an individual with a partial or complete male phenotype has an XX genotype.The presence and location of the SRY gene can by determined using fluorescence in situ hybridization (FISH).
+
+Treatment
+Genital ambiguities, while not necessary to treat for medical reasons, can be treated with hormonal therapy, surgery, or both. Since XX male syndrome is variable in its presentation, the specifics of treatment varies widely as well. In some cases, gonadal surgery can be performed to remove partial or whole female genitalia. This may be followed by plastic and reconstructive surgery to make the individual appear more externally male. Conversely, the individual may wish to become more feminine and feminizing genitoplasty can be performed to make the ambiguous genitalia appear more female. Hormonal therapy may also aid in making an individual appear more male or female.
+
+Testosterone
+At puberty, most affected individuals require treatment with the male sex hormone testosterone to induce development of male secondary sex characteristics such as facial hair and deepening of the voice (masculinization). Hormone treatment can also help prevent breast enlargement (gynecomastia). Adults with this disorder are usually shorter than average for males and are unable to have children (infertile).
+
+Epidemiology
+As of 2010, only 200 cases have been reported — it is estimated that 1 of every 20,000 to 30,000 males has a 46,XX karyotype.
+
+See also
+X chromosome, for other conditions related to the X chromosome
+For a condition that causes people who have XY chromosomes to have an ambiguous or feminine phenotype, see androgen insensitivity syndrome (AIS)
+For a second condition that causes people who have XY chromosomes to have a feminine phenotype, see XY gonadal dysgenesis (also known as Swyer syndrome)
+Karyotype
+Disorders of sex development
+Intersex medical interventions
+
+References
+Further reading
+"Ambiguous Genitalia. Uncertain genetalia information. Patient | Patient". Patient. Retrieved 12 January 2017.
+
+External links
+GeneReviews/NCBI/NIH/UW entry on 46,XX Testicular Disorder of Sex Development
+GeneReviews/NCBI/NIH/UW entry on 46,XY Disorder of Sex Development and 46,XY Complete Gonadal Dysgenesis

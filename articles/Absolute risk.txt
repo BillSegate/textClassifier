@@ -1,0 +1,12 @@
+Absolute risk (or AR) is the probability or chance of an event. It is usually used for the number of events (such as a disease) that occurred in a group, divided by the number of people in that group.Absolute risk is one of the most understandable ways of communicating health risks to the general public.
+
+See also
+Absolute risk reduction
+Relative risk
+Relative risk reduction
+
+External links
+Know Your Chances: Understanding Health Statistics
+
+
+== References ==

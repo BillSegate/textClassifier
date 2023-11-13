@@ -1,0 +1,43 @@
+Medical certifications for aircraft pilots are specified by the International Civil Aviation Organization (ICAO). ICAO sets standards and recommended practices (SARPS), which are specified in Annex 1 to the Convention on International Civil Aviation.There are several classes of medical certificate. Class 1 is the most stringent, applying to holders of commercial pilot licences, multi-crew pilot licences, and airline transport pilot licences. Class 2 applies to holders of private pilot licences, glider pilot licenses, balloon pilot licences, as well as flight engineers and flight navigators. Class 3 applies to air traffic controller licences and remote pilot licences.Medical assessment includes physical and mental assessment, and testing of vision (visual acuity and colour perception) and hearing. Examinations are carried out by approved aviation medical examiners.
+
+Renewal and revalidation
+Medical certificates must be regularly revalidated, or renewed if expired. Class 1 certificates require pilots aged 50 and over to have an electrocardiogram every year, and it is recommended that those aged 30-50 have one every two years. Class 1 certificates require pilots to have their hearing tested every 5 years before the age of 40, then every 2 years.Medical certificates can be revalidated up to 45 days before the expiry date without affecting the expiry calendar day.Pilots may not work on international commercial air transport operations beyond their 65th birthday for multi-pilot aircraft, or 60th birthday for single pilot aircraft. Above the age of 60, medical assessment must take place every 6 months.
+
+Medical requirements by country
+European Union
+Member states of the European Union Aviation Safety Agency (EASA) share medical requirements. The state which issues a pilot's licence must hold their medical records, however medical examinations may be carried out by a doctor registered with the national aviation authority of another member state.
+
+United Kingdom
+In the United Kingdom, pilots with diabetes have been allowed to fly recreationally since 2002 and commercially since 2012. The UK was the second country to allow this, after Canada.In 2022, the Civil Aviation Authority announced that pilots with HIV would no longer be subject to medical restrictions. A six month amnesty was given for pilots who had concealed their HIV diagnosis to declare it.
+
+United States
+In the United States, pilot medical certification is the responsibility of the Civil Aerospace Medical Institute.
+In the United States, there are three classes of medical certifications for pilots; such certificates are required to legally exercise the privileges of a Pilot exercising the privileges of either a Private, Commercial, or Airline Transport Pilot license.  Medical Certificates are not needed for Glider, Balloon, Recreational, or Sport Pilot certifications.  Each certificate must be issued by a doctor approved by the Federal Aviation Administration to a person of stable physical and mental health.
+
+Types
+The three kinds are:
+Third Class Medical Certificate:  necessary to exercise the privileges of a Private pilot license or certificate, or any lower pilot certification level except for the FAA's Sport pilot certificate (which only requires the same medical clearance required to drive a car, as evidenced by a valid driver license). In the United States, a third-class medical expires after 60 calendar months for someone under the age of forty years (as of the date of examination), or 24 calendar months for someone over forty.
+Second Class Medical Certificate:  necessary to exercise the privileges of a Commercial pilot license or certificate. In the United States, it expires after 12 calendar months regardless of the pilot's age.
+First Class Medical Certificate:  necessary to exercise the privileges of an airline transport pilot license or certificate. Second-in-command privileges of an airline transport pilot certificate in part 121 require only a Second Class Medical Certificate. In the United States, it expires after 12 calendar months for a pilot under 40, 6 months for pilots over 40.Medical certificates higher than the minimum requirement for a pilot license level still allow the holder to exercise the privileges at that level, even after the initial class of medical certification has expired. For instance, a pilot holding a valid first-class medical certificate may operate a plane with the privilege level of a private or commercial pilot. These privileges may be exercised until the date that a medical certificate of the minimum required class would expire; 9 months after issuance of a first-class medical, a pilot over 40 could still use the certificate to operate as a commercial or private/recreational pilot, and could still operate as a private or recreational pilot up to 2 years after issuance.
+
+Flight physicals
+Military and civilian pilots must pass routine periodic medical examinations known informally as "flight physicals" in order to retain the medical clearance or certification that qualifies them to fly.  Military pilots go to a flight surgeon, an armed forces physician qualified to perform such medical evaluations.  With the exception of glider pilots, balloon pilots, and sport-pilots, civilian pilots in the United States and most other nations must obtain a flight physical from a civilian physician known as an Aviation Medical Examiner (AME).  Aviation Medical Examiners (AME's) are physicians designated and trained by the FAA to screen individuals for fitness to perform aviation duties.  Pilot medical assessment by way of the flight physical is an important public health function.
+
+Types of flight physicals
+Federal Aviation Regulations in the U.S. require pilots and air traffic controllers to have periodic flight physicals in order to perform their aviation related duties.  Authority for these laws comes from the CFR (Code of Federal Regulations) parts 61 and 67.  Federal regulations describe three classes of medical certificates: Class 3 medical certificates are for private pilot duties only. They have the least restrictive medical requirements and the certificates are good for 5 years for applicants under age 40 and 2 years for those 40 and over. Class 2 medical certificates are for commercial, non-airline pilot-in-command duties as well as private pilot duties. This certificate would be required of crop dusters, charter pilots, corporate pilots, airline first officers and anyone else who flies commercially. The certificate is good for 1 year for commercial activities and 2 or 5 years for private pilot use based on age. Class 1 medical certificates are required for airline transport pilots who fly scheduled airliners as Pilot-in-Command. These are the most complex examinations and include electrocardiograms (EKGs). EKGs are required at the first Class 1 medical after the applicant turns 35 and then the first medical after age 40 and yearly thereafter.  Class 1 certificates are good for airline pilot-in-command duties for 1 year for applicants under age 40 and 6 months for those 40 and over. Like the Class 2 certificate, however, these remain good for a full year for other commercial activities and 2 or 5 years for private pilot duties.  Detailed medical requirements for each class of pilot exam are described in Code of Federal Regulations Part 67.
+A newer pilot classification in the United States does not require a formal flight physical.  A pilot can fly a light-sport aircraft if they hold a Sport-pilot certificate or a recreational pilot certificate and have a U.S. driver' license from any state.  Pilots with neither a driver's license nor an Airmen Medical Certificate can still fly, but aviation duties are restricted to non-commercial activities in a glider or a balloon.  The pilot must self-endorse and certify that he/she has no known medical deficiencies which would render them incapable of piloting an aircraft. Sport-pilot medical requirements are described in detail in CFR 61.303.
+
+Exemptions
+In the United States, pilots of ultralight aircraft are not required to have a pilot's licence or medical certificate.
+
+See also
+Pilot licensing and certification
+
+Notes
+External links
+ICAO Doc 8984: Manual of Civil Aviation Medicine
+"14 CFR § 61.23 - Medical certificates: Requirement and duration". LII / Legal Information Institute. Retrieved 2021-04-08.
+Options following medical certificate denial from the NTSB
+FAA Medical Practice Test
+FAA MedXPress Simulator
+Guidelines for Medical Appeal from the FAA

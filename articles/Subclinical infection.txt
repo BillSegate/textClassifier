@@ -1,0 +1,16 @@
+A subclinical infection—sometimes called a preinfection or inapparent infection—is an infection by a pathogen that causes few or no signs or symptoms of infection in the host. Subclinical infections can occur in both humans and animals. Depending on the pathogen, which can be a virus or intestinal parasite, the host may be infectious and able to transmit the pathogen without ever developing symptoms; such a host is called an asymptomatic carrier. Many pathogens, including HIV, typhoid fever, and coronaviruses such as COVID-19 spread in their host populations through subclinical infection.Not all hosts of asymptomatic subclinical infections will become asymptomatic carriers. For example, hosts of Mycobacterium tuberculosis bacteria will only develop active tuberculosis in approximately one-tenth of cases; the majority of those infected by Mtb bacteria have latent tuberculosis, a non-infectious type of tuberculosis that does not produce symptoms in individuals with sufficient immune responses.Because subclinical infections often occur without eventual overt sign, in some cases their presence is only identified by microbiological culture or DNA techniques such as polymerase chain reaction (PCR) tests.
+
+Transmission
+In humans
+Many pathogens are transmitted through their host populations by hosts with few or no symptoms, including sexually transmitted infections such as syphilis and genital warts. In other cases, a host may develop more symptoms as the infection progresses beyond its incubation period. These hosts create a natural reservoir of individuals that can transmit a pathogen to other individuals. Because cases often do not come to clinical attention, health statistics frequently are unable to measure the true prevalence of an infection in a population. This prevents accurate modeling of its transmissability.
+
+In animals
+Some animal pathogens are also transmitted through subclinical infections. The A(H5) and A(H7) strains of avian influenza are divided into two categories: low pathogenicity avian influenza (LPAI) viruses, and highly pathogenic avian influenza (HPAI) viruses. While HPAI viruses have a very high mortality rate for chickens, LPAI viruses are very mild and produce few, if any symptoms; outbreaks in a flock may go undetected without ongoing testing.Wild ducks and other waterfowl are asymptomatic carriers of avian influenza, notably HPAI, and can be infected without showing signs of illness. The prevalence of subclinical HPAI infection in waterfowl has contributed to the international outbreak of highly lethal H5N8 virus that began in early 2020.
+
+Pathogens known to cause subclinical infection
+The following pathogens (together with their symptomatic illnesses) are known to be carried asymptomatically, often in a large percentage of the potential host population:
+
+See also
+References
+Further reading
+Endara, Pablo; Trueba, Gabriel; Solberg, Owen D.; Bates, Sarah J.; Ponce, Karina; Cevallos, William; Matthijnssens, Jelle; Eisenberg, Joseph N.S. (April 2007). "Symptomatic and Subclinical Infection with Rotavirus P[8]G9, Rural Ecuador". Emerging Infectious Diseases. 13 (4): 574–580. doi:10.3201/eid1304.061285. PMC 2391297. PMID 17553272.

@@ -1,0 +1,54 @@
+The term "me-too drug" or "follow-on drug" refers to a medication that is similar to a pre-existing drug, usually by making minor modifications to the prototype, reflected in slight changes in the profiles of side effects or activity, and used to treat conditions for which drugs already exist. While pharmaceutical companies have justified the development of me-toos as offering incremental improvements in efficacy, side-effects, compliance and cost, critics have questioned the increasing marketing of me-toos, their absorption of research and development resources and their impact on the innovation of new treatments.In 1956, Louis S. Goodman, co‐editor of Goodman and Gilman, referred to “the problem of the introduction of ‘me too’ drugs, that is, drugs without signal advantage of any sort”. However, me-too drugs can be novel compounds themselves. They are commonly used and include several beta blockers, antidepressants and stomach acid reducing and cholesterol lowering drugs.
+
+History
+The term "me‐too drugs" was coined in the 1950s. In 1956, Louis S. Goodman, co‐editor of Goodman and Gilman, referred to “the problem of the introduction of ‘me too’ drugs, that is, drugs without signal advantage of any sort”. Once a new drug class was discovered, other major drug companies made efforts to produce their own similar versions. Pharmacologist Milton Silverman and physician Philip R. Lee noted "the great drug therapy era was marked not only by the introduction of new drugs in great profusion and by the launching of large promotional campaigns but also by the introduction of what are known as 'duplicative' or 'me-too' products".Between 1960 and 1962, Estes Kefauver, then Senator of Tennessee, led a series of hearings enquiring about the pharmaceutical industry's motive to produce me-too drugs after it was noted that much of their time and resources were spent producing them. Subsequently, the FDA required drug companies to prove their drugs were safe and effective. In 1964, Louis Lasagna described me-too drugs as being “hard to justify putting into man at all, let alone on the market”. Three years later, the term appeared in the Oxford English Dictionary. In the early 1970s, Silverman and Lee reported that there were almost 100 tranquillisers, 130 antihistamines, greater than 270 antibiotics and more than 200 sulfonamides.In 1994, Desmond Laurence's textbook Clinical Pharmacology referred to me-too as "me-again".
+
+Definition
+There is no agreed definition, however, several have been proposed, including:
+
+"multiple drugs within the same therapeutic class"
+"drugs that are chemically related to the prototype, or other chemical compounds which have an identical mechanism of action"
+"drugs which have more or less identical clinical outcomes to pre‐existing drugs"
+"a drug with a similar chemical structure or the same mechanism of action as a drug that is already marketed".Biosimilars are compared with other biosimilars and are therefore not me-toos.
+
+Examples
+Me-too drugs include diazepam, ranitidine and esketamine.
+
+Beta blockers
+The first-in-class β-blocker pronethalol was developed by James Black at ICI Pharmaceuticals. It was followed by propranolol, sotalol, practolol, metoprolol, labetalol, acebutolol and bisoprolol. Successive differences between β-blockers have had a combined cumulative effect and are seen as "innovative".
+
+Benzodiazepines
+15 benzodiazepines were marketed in the UK between 1960 and 1982, of which seven were produced by Roche.
+
+Proton pump inhibitors
+The proton-pump inhibitor Nexium by AstraZeneca is a me-too which was granted its patent by showing that it was effective for heartburn, not that it was better than its precursor, prilosec. It was shown to preserve revenues of prilosec, whose U.S. patent expired in 2001. Considered a new drug by the FDA, nexium was patented separately, sold for eight times the cost of its generic esomeprazole and advertised as significantly better than its predecessor, a move the company received much criticism for, with a subsequent class action lawsuit filed against them.
+
+H2 antagonists
+Both tagamet's and zantac's prices increased following the arrival of further me-too drugs pepcid and axid.
+
+ACE inhibitors
+Several me-toos followed the prototype of the ace inhibitor, captopril, with enalapril being its first me-too. Most were as efficient as each other and had similar adverse effect profiles.
+
+Statins
+When Merck's cholesterol-lowering statin Mevacor (lovastatin) was approved by the U.S. Food and Drug Administration (FDA) in 1987, the understanding of the link between cholesterol and heart disease was improving, and the potential market for the drug became significant. Subsequently, several other companies developed similar drugs: Merck developed Zocor (simvastatin) and Crestor (rosuvastatin), Pfizer developed Lipitor (atorvastatin), Bristol-Myers Squibb developed Pravachol (pravastatin), and Novartis developed Lescol (fluvastatin). Others include pitavastatin (Livalo).
+
+Antidepressants
+Imipramine was the first-in-class of the tricyclic antidepressants. Amitriptyline, Nortriptyline, Dosulepin and Doxepin are some of the me-toos that followed. Several me-too Selective serotonin reuptake inhibitors have been developed for maintenance treatment in chronic depression. These include Paxil (paroxetine), Celexa (citalopram), Zoloft (sertraline), Lexapro (escitalopram) and Prozac (fluoxetine).For example, Celexa is a mixture of a left-handed and right-handed version of the same compound ("citalopram"), but only the right-handed version ("es-citalopram") is biologically active. Lexapro, the "me too" drug released several years after Celexa thus extending the patent life, is a purified form of just the right-handed version (the "es" in "es-citalopram").
+
+Antivirals
+Gilead Science's Descovy is a me-too drug of Truvada, a popular Antiretroviral also used to prevent HIV infection in healthy people. Both versions are prodrugs that metabolize into the same active compound. Gilead has been accused in lawsuits of "slow walking" the development of the me-too drug; however, such lawsuits further a market perception the me-too drug is "safer." This drives sales of the more expensive me-too drug when both drugs have virtually identical safety profiles. Similarly, Valtrex, first FDA approved in 2001 to treat persistent herpes outbreaks is a prodrug of acyclovir, first FDA approved in the mid 1980's. Valtrex metabolizes into acyclovir in the liver, but when it first entered the market, it cost many times than the generic.
+
+Debate
+In 2005, a report by the International Policy Network defended me-toos, describing their development as "incremental improvements on already existing drugs". The report stated:
+
+... this often represent(s) advances in safety and efficacy, along with providing new formulations and dosing options that significantly increase patient compliance. From an economic standpoint, expanding drug classes represent the possibility of lower drug prices as competition between manufacturers is increased. Additionally, pharmaceutical companies depend on incremental innovations to provide the revenue that will support the development of more risky “block-buster” drugs. Policies aimed at curbing incremental innovation will ultimately lead to a reduction in the overall quality of existing drug classes and may ultimately curb the creation of novel drugs.
+This incremental innovation has led to some referring to me-toos as "me-betters".Many physicians are unaware that me-toos are compared to placebos rather than pre-existing drugs. Me-toos are seen as patentable new drugs and therefore substantial profit makers, where innovative drugs may be more risky to develop.
+
+Statistics
+Between 1998 and 2003, the U.S. Food and Drug Administration (FDA) approved 487 drugs, of which 78 per cent appeared to have similar characteristics to pre-existing marketed drugs.More than 60% of medicines listed on the World Health Organization's essential list are me‐too drugs.In September 2019, half of antibiotics under clinical development were “me-too” drugs. At the beginning of 2020, the WHO stated that only two of the 50 antibiotics in clinical development are active against serious drug resistant gram-negative bacteria, and most are not significant "upgrades" of drugs.
+
+See also
+Unique selling point
+
+
+== References ==

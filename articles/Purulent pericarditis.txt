@@ -1,0 +1,33 @@
+Purulent pericarditis refers to localized inflammation in the setting of infection of the pericardial sac surrounding the heart. In contrast to other causes of pericarditis which may have a viral etiology, purulent pericarditis refers specifically to bacterial or fungal infection of the pericardial sac. Clinical etiologies of purulent pericarditis may include recent surgery, adjacent infection, trauma, or even primary infection. The onset of purulent pericarditis is usually acute, with most individuals presenting to a medical facility approximately 3 days following the onset of symptoms.As a subtype of pericarditis, purulent pericarditis often presents with substernal chest pain that is exacerbated by deep breathing and lying in the supine position. Other presenting features that may be more specific for purulent pericarditis include fever, rigors/chills, and cardiorespiratory signs (i.e., tachycardia, friction rub, pulsus paradoxus, pericardial effusion, cardiac tamponade, pleural effusion). The incidence of cardiac tamponade varies from 42-77% and is associated with rapid-onset mortality, especially without prompt intervention.Chest radiography may reveal cardiomegaly, pneumonia, pleural effusion, and/or mediastinal widening. Electrocardiogram (ECG) is a component of the diagnostic work-up which may suggest pericarditis as the underlying cause of symptoms. The ECG findings for purulent pericarditis are similar to those for other etiologies of pericarditis. ECG findings may include diffuse S-T segment elevation, diffuse T wave inversion, low QRS voltage, and/or electrical alternans. Echocardiogram may be used to evaluate for fluid collection in the pericardial sac, and may be important in guiding therapy in patients with signs of cardiac compromise (i.e., cardiac tamponade).Treatment modalities for purulent pericarditis include antibiotic therapy, with potential adjuncts such as pericardiocentesis or pericardial window when cardiac compromise is evident.
+
+Causes
+Purulent pericarditis is usually caused by bacterial or fungal infection of the pericardial sac surrounding the heart. In modern medicine, the incidence of purulent pericarditis is uncommon. One study conducted in Spain identified an incidence < 0.006 in a population of 593,600. When comparing the pre-antibiotic period with the modern era of medicine, there is increased difficulty identifying a primary source of infection in the modern era of medicine. Primary infectious disease in the pre-antibiotic era was found most commonly secondary to pneumonia or endocarditis, whereas pneumonia or meningitis have been found more commonly in the modern era. Other risk factors that contribute to the development of purulent pericarditis include recent thoracic surgery, chronic renal failure, malignancy, immunosuppression, alcohol abuse, thoracic surgery, and chest trauma.
+
+Signs and symptoms
+Purulent pericarditis usually presents acutely, marked by high fever, tachycardia, cough, and chest pain. While fever is present in almost all presentations, chest pain is less common when comparing purulent pericarditis to acute pericarditis from other etiologies. Additionally, a pericardial friction rub is present in 35-45% of cases, and the incidence of cardiac tamponade ranges from 42 to 77%. Studies have indicated that the average time elapsed before hospitalization is 3–10 days.
+
+Diagnosis
+The diagnosis of purulent pericarditis requires a combination of clinical assessment, laboratory tests, and imaging studies. Pericardiocentesis with evaluation of pericardial fluid by culture and microscopy is necessary to make the diagnosis, however several other findings may increase the likelihood of purulent pericarditis.
+Leukocytosis (an increase in white blood cell count)
+Chest x-ray showing cardiomegaly, pulmonary infiltrates, pleural effusion(s), pericardial effusion, and/or mediastinal widening
+Electrocardiography (ECG) depicting changes consistent with acute pericarditis
+Echocardiography (transthoracic or transesophageal) showing fluid accumulation in the pericardial sac surrounding the heart with possible evidence of cardiac tamponade
+
+Treatment
+Treatment for purulent pericarditis consists of two main components.
+Antimicrobial therapy. Empiric intravenous antimicrobial therapy is recommended as soon as a diagnosis of purulent pericarditis is suspected.
+Pericardial drainage. There are several therapeutic mechanisms that can be used to drain purulent fluid from the pericardial sac. These include pericardiocentesis, and possible subxiphoid pericardiotomy, pericardiectomy, and video-assisted thoracic surgery in complicated cases.
+
+See also
+Acute pericarditis
+Chest pain
+Pericardial window
+Pericardiectomy
+Pericardiocentesis
+Pericarditis
+Pericardium
+
+References
+
+
+== External links ==

@@ -1,0 +1,74 @@
+A multiple of the median (MoM) is a measure of how far an individual test result deviates from the median.  MoM is commonly used to report the results of medical screening tests, particularly where the results of the individual tests are highly variable.MoM was originally used as a method to normalize data from participating laboratories of Alpha-fetoprotein (AFP) so that individual test results could be compared. 35 years later, it is the established standard for reporting maternal serum screening results.An MoM for a test result for a patient can be determined by the following:
+
+  
+    
+      
+        M
+        o
+        M
+        (
+        P
+        a
+        t
+        i
+        e
+        n
+        t
+        )
+        =
+        
+          
+            
+              R
+              e
+              s
+              u
+              l
+              t
+              (
+              P
+              a
+              t
+              i
+              e
+              n
+              t
+              )
+            
+            
+              M
+              e
+              d
+              i
+              a
+              n
+              (
+              P
+              a
+              t
+              i
+              e
+              n
+              t
+              P
+              o
+              p
+              u
+              l
+              a
+              t
+              i
+              o
+              n
+              )
+            
+          
+        
+      
+    
+    {\displaystyle MoM(Patient)={\frac {Result(Patient)}{Median(PatientPopulation)}}}
+  As an example, Alpha-fetoprotein (AFP) testing is used to screen for a neural tube defect (NTD) during the second trimester of pregnancy. If the median AFP result at 16 weeks of gestation is 30 ng/mL and a pregnant woman's AFP result at that same gestational age is 60 ng/mL, then her MoM is equal to 60/30 = 2.0. In other words, her AFP result is 2 times higher than median.
+
+References
+External links
+Parvin, CA; DL Gray; G Kessler (1991). "Influence of assay method differences on multiple of the median distributions: maternal serum alpha-fetoprotein as an example". Clinical Chemistry. 37 (5): 637–642. doi:10.1093/clinchem/37.5.637. Retrieved 2008-02-16.

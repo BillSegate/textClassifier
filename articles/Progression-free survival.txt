@@ -1,0 +1,17 @@
+Progression-free survival (PFS) is "the length of time during and after the treatment of a disease, such as cancer, that a patient lives with the disease but it does not get worse". In oncology, PFS usually refers to situations in which a tumor is present, as demonstrated by laboratory testing, radiologic testing, or clinically. Similarly, "disease-free survival" is the length of time after patients have received treatment and have no detectable disease.
+Time to progression (TTP) does not count patients who die from other causes but is otherwise a close equivalent to PFS (unless there are many such events). The FDA gives separate definitions and prefers PFS.
+
+Background
+PFS is widely used as a surrogate endpoint in oncology. The definition of "progression" generally involves imaging techniques (plain radiograms, CT scans, MRI, PET scans, ultrasounds) or other aspects: biochemical progression may be defined on the basis of an increase in a tumor marker (such as CA125 for epithelial ovarian cancer or PSA for prostate cancer). In clinical trials, what precisely constitutes an "event" in PFS (an event being either disease progression or death) may vary depending on the specific disease and/or the toxicological characteristics of the treatments in the trial; however, this is generally defined in the trial protocol prior to the trial enrolling patients.  
+As of 2019, change in the radiological aspects of a lesion is defined according to RECIST criteria. Progression may also be due to the appearance of a new lesion or to unequivocal progression in other lesions, such as an increase in size or the lesions spreading to nearby tissues.
+Progression-free survival is commonly used as an alternative to overall survival (OS). In some cancers, PFS and OS are strictly related, but in others they are not. In a time trade off study in renal cancer, physicians rated PFS the most important aspect of treatment, while for patients it fell below fatigue, hand foot syndrome, and other toxicities.  <Park et al.>
+
+Special aspects
+By definition, PFS refers to the date on which progression is detected. An advantage of measuring PFS over measuring OS is that PFS appears sooner than deaths, allowing faster trials. PFS also allows for greater insight into consequences of diseases and treatments that fall below the threshold of mortality, such as pain, organ dysfunction, interference in daily life, and other effects that progressive disease may have on the patient while they are still alive. 
+The use of PFS for proof of effectiveness and regulatory approval is controversial. It is often used as a clinical endpoint in randomized controlled trials for cancer therapies. It is a metric frequently used by the UK National Institute for Health and Clinical Excellence and the U.S. Food and Drug Administration to evaluate the effectiveness of a cancer treatment. Studies find that new cancer drugs approved by the U.S. Food and Drug Administration improve progression-free survival by a median of 2 to 3 months depending on the sample and analyzed time period: 2.5 months, 2.70 months, 3.30 months.PFS improvements do not always result in corresponding improvements in overall survival, and the control of the disease may come at the biological expense of side effects from the treatment itself. This has been described as an example of the McNamara fallacy.
+
+See also
+Survival rate
+
+
+== References ==

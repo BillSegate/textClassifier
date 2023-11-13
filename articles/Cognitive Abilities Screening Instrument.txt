@@ -1,0 +1,4 @@
+The Cognitive Abilities Screening Instrument (CASI)  is a cognitive test screening for dementia, in monitoring the disease progression, and in providing profiles of cognitive impairment by examining abilities on attention, concentration, orientation, short-term memory, long-term memory, language abilities, visual construction, list-generating fluency, abstraction, and judgment with score ranges of 0 to 100, respectively.
+
+
+== References ==

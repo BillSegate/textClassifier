@@ -1,0 +1,85 @@
+A complication in medicine, or medical complication, is an unfavorable result of a disease, health condition, or treatment. Complications may adversely affect the prognosis, or outcome, of a disease. Complications generally involve a worsening in the severity of the disease or the development of new signs, symptoms, or pathological changes that may become widespread throughout the body and affect other organ systems. Thus, complications may lead to the development of new diseases resulting from previously existing diseases. Complications may also arise as a result of various treatments.
+The development of complications depends on a number of factors, including the degree of vulnerability, susceptibility, age, health status, and immune system condition. Knowledge of the most common and severe complications of a disease, procedure, or treatment allows for prevention and preparation for treatment if they should occur.
+Complications are not to be confused with sequelae, which are residual effects that occur after the acute (initial, most severe) phase of an illness or injury. Sequelae can appear early in the development of disease or weeks to months later and are a result of the initial injury or illness. For example, a scar resulting from a burn or dysphagia resulting from a stroke would be considered sequelae. In addition, complications should not be confused with comorbidities, which are diseases that occur concurrently but have no causative association. Complications are similar to adverse effects, but the latter term is typically used in pharmacological contexts or when the negative consequence is expected or common.
+
+Common illnesses and complications
+Iatrogenic complications
+Medical errors can fall into various categories listed below:
+Medication: Medication medical errors include wrong prescription, impaired delivery, or improper adherence. The process of prescribing medication is a complex process that relies on the accurate transfer of information through various parties. Prevention methods include increased use of electronic prescription, pre-packaging unit dosing, and ensuring medical literacy among patients.
+Surgical: Surgery-related medical errors can be anesthesia-related, but most often include wrong-site and wrong-patient procedural errors. Preventive measures include following and double-checking standardized surgical protocol before, during, and after procedures. Universal surgical protocols include verification of patient identity and proper site-marking.
+Diagnostic: Diagnostic errors include misdiagnosis, wrong diagnosis, and over diagnosis. Diagnostic errors are often the result of patient characteristics and physician bias.
+Machine interface: Errors in this category refer to mistakes in human interaction with tools or machines. Machine-related errors can be reduced by standardization and clear differentiation in design of products.
+Transition and handoff: Errors in this category can occur person-to-person or site-to-site during transfer, and can be managed by adhering to proper hand-off protocols.
+Human factors, teamwork, and communication: Errors in this category highlight the impact of culture and relationships on communication. These concepts can play a role in other categories of medical errors. Preventive measures include cultivating a "culture of safety" which includes creating an environment where people feel comfortable discussing concerns, feedback, and errors without fear of punishment.
+Healthcare-associated infections (HAIs): HAIs are complications of general treatments involving microorganisms or viral infections and are most commonly caused by indwelling devices (urinary catheters, central lines) or previous surgical procedures. Common microbes involved in HAIs are Escherichia coli, Proteus mirabilis, and Clostridium difficile. The most effective preventive measure is hand-hygiene.
+
+Cardiovascular complications
+Atrial fibrillation
+Atrial fibrillation is a type of arrhythmia characterized by rapid and irregular heart rhythms due to irregular atrial activation by the atrioventricular (AV) node. In the pathogenesis of atrial fibrillation, there is no effective pumping of blood into either the pulmonary or systemic circulation from the left ventricle of the heart. The left and right ventricles (lower chambers of the heart) do not fill properly due to the irregular contraction of the left and right atria (upper chambers of the heart).A patient with atrial fibrillation may experience symptoms of fatigue, dizziness or lightheadedness, heart palpitations, chest pain, and shortness of breath. The heart does not effectively pump blood into the pulmonary or systemic vasculature, and causes the blood to remain within the chambers of the heart. The collection of blood within the heart due to atrial fibrillation can cause and increase the risk of development of a thrombus (blood clot). The thrombus can also develop into an embolus (mobile blood clot) and travel into the systemic circulation. Atrial fibrillation is associated with an increase in risk of having a stroke especially if the embolus travels to the brain.Other examples
+
+Thrombosis in the heart or brain, causing stroke or acute myocardial infarction can be complications of blood coagulation disorders, phlebitis (inflammation of the veins), endocarditis and artificial heart valves.
+
+Metabolic complications
+Diabetes mellitus
+Diabetes mellitus, also known simply as diabetes, is a disorder of the regulation of blood glucose (a common type of sugar) levels. There are two types of chronic diabetes mellitus: type I and type II. Both lead to abnormally high levels of blood glucose as the body is not able to properly absorb the sugar into tissues. Diabetes requires a life-long consistent monitoring of food intake, blood sugar levels, and physical activity. Diabetes mellitus may present a series of complications in an advanced or more severe stage, such as:
+
+Cardiovascular disease. Adults with diabetes are significantly more likely to die from heart disease than are those without diabetes. Diabetes is associated with risk factors for various cardiovascular diseases including obesity, insulin resistance, high blood cholesterol and triglyceride content, and high blood pressure. These conditions increase risk of thrombosis, atherosclerosis (blockage of coronary arteries leading to inadequate supply of oxygen to parts of the heart), and hypertension which can lead to myocardial infarction, coronary artery disease (CAD), and others.
+Diabetic neuropathy. Hyperglycemia can eventually cause damage to nerves in the distal extremities (peripheral neuropathy), thighs and hips (radiculoplexus neuropathy), face (mononeuropathy), and internal organs (autonomic neuropathy). Initial symptoms may present as numbness, tingling, pain, muscular weakness, loss of reflexes or proper bodily functions, and many others.
+Diabetic nephropathy. Excessive amounts of certain solutes passing through the kidneys for prolonged periods of time can lead to kidney damage. Diabetic nephropathy is specifically characterized by abnormally high levels of urinary albumin excretion. This affects approximately 40% of patients with type I or type II diabetes.
+Diabetic retinopathy. Chronic or prolonged type I and type II diabetes can lead to damage in the blood vessels of the retina due to hyperglycemia (excessive blood glucose). Damage and blockage of the vessels causes microaneurysms, tears, and leakage of fluid into the back of the eye. This can eventually lead to abnormal blood vessel growth, nerve damage, or excessive pressure buildup in the eye. Symptoms initially present as blurred vision but can lead to more serious complications such as blindness, glaucoma, retinal detachment, and vitreous hemorrhage.
+Foot damage. Diabetes mellitus can lead to poor vascular blood flow to the extremities. Injury of the foot with inadequate blood flow can progress to ulcers and become infected. Individuals with diabetic neuropathy may not notice the damage and may develop gangrene (tissue necrosis due to inadequate blood supply).
+Skin conditions. Insulin insensitivity in the case of type II diabetes can cause prolonged increases in blood insulin. Insulin normally binds to insulin receptors but in excess amounts may bind to insulin-like growth factor (IGF) receptors in epithelial tissue. This can cause excessive proliferation of keratinocytes and fibroblasts. This presents as acanthosis nigricans, a thickening and darkening of areas of the skin such as the armpits, necks, hands, and face. Other skin conditions include diabetic dermopathy, digital sclerosis, eruptive xanthomatosis, and others.
+
+Neurologic / psychiatric complications
+Hepatic encephalopathy is a possible complication of liver cirrhosis.
+Significant intellectual, physical, and developmental disability are common complications of untreated hydrocephalus.
+Suicide is a common complication of many disorders and conditions that consistently affect a person's life negatively, such as major depressive disorder, posttraumatic stress disorder, schizophrenia, anxiety disorders, or substance abuse.
+Complications of outpatient drugs are very common and many patients experience worry or discomfort due to them.
+Paradoxical reaction to a drug; that is, a reaction that is the opposite to the intended purpose of the drug. An example is benzodiazepines, a class of psychoactive drugs considered minor tranquilizers with varying hypnotic, sedative, anxiolytic, anticonvulsant, and muscle relaxant effects; paradoxically they may also create hyperactivity, anxiety, convulsions etc. in susceptible individuals.
+
+Reproductive complications
+Pregnancy
+Pregnancy is the development of an embryo or fetus inside the womb of a female for the rough duration of 9 months or 40 weeks from the last menstrual period until birth. It is divided into three trimesters, each lasting for about 3 months. The 1st trimester is when the developing embryo becomes a fetus, organs start to develop, limbs grow, and facial features appear. The 2nd and 3rd trimesters are marked by a significant amount of growth and functional development of the body. During this time, the woman's body undergoes a series of changes and many complications may arise involving either the fetus, the mother, or both.
+Hypertension. The developing fetus enlarges in the mother's womb, placing pressure on the arteries and vasculature of the mother. This causes a reduction in blood flow and a systemic increase in blood pressure. If the mother had high blood pressure prior to and after pregnancy it is considered chronic hypertension; if it occurs after 20 weeks of gestation or pregnancy, it is gestational hypertension. A previously hypertensive mother who shows signs of gestational hypertension can lead to preeclampsia, a more severe case which can be detrimental to the mother and developing fetus.
+Gestational diabetes. Appropriate levels of blood sugar is typically maintained by insulin secretion from the pancreas. During pregnancy the placenta surrounding the developing fetus produces hormones that can inhibit the action of insulin, preventing the mother's blood sugar from decreasing. Occurs primarily in the second half of pregnancy and can cause excessive birth weight, preterm delivery, and place the child at greater risk for type II diabetes.
+Preterm labor. Delivery of the baby prior to 37 weeks of pregnancy is considered preterm. This can cause a variety of issues with the child including underdeveloped viscera (organs), behavioral or learning disabilities, low birth weight, and respiratory issues.
+Miscarriage. The loss of the developing fetus prior to 20 weeks of pregnancy. Common causes may be related to chromosomal abnormalities (abnormal genetic makeup) of the fetus but can also include ectopic pregnancy, maternal age, and other factors.
+Stillbirth. The loss of the developing fetus after 20 weeks of pregnancy. Can be due to a variety of reasons including chromosomal abnormalities, developmental issues, or health-related problems of the mother.
+Hyperemesis gravidarum. Persistent, acute nausea throughout pregnancy that does not go away after the 1st trimester. Different from morning sickness which is more common and less severe.
+
+Respiratory complications
+Streptococcal pharyngitis
+Streptococcal pharyngitis, also known as strep throat, is an infection of the respiratory tract caused by group A Strep, Streptococcus pyogenes, a gram-positive, cocci, beta-hemolytic (lyses blood cells) bacteria. It is primarily spread by direct contact and the transfer of fluids via oral or other secretions and manifests largely in children. Common symptoms associated with streptococcal pharyngitis include sore throat, fever, white excretions at the back of the mouth, and cervical adenopathy (swollen lymph nodes underneath the chin and around the neck area). Streptococcal pharyngitis can lead to various complications and recurrent infection can increase the likelihood. In many of these, lack of treatment and the body's immune response is responsible for the additional adverse reactions. These include:
+Scarlet fever. In addition to the symptoms of strep throat, individuals may experience increased a red rash, increased red tone, and strawberry tongue. The prominent rash generally fades after a few days and may peel for a few weeks. Treatment is the same as for strep throat.
+Rheumatic fever. Rheumatic fever generally develops a few weeks after symptoms of strep throat have passed and is less likely to develop if prompt treatment (antibiotics) is given. Typical symptoms can include polyarthritis (temporary joint pain in multiple areas), carditis or chest pain, rash, subcutaneous nodules, and involuntary jerks. Rheumatic fever is believed to be the result of an autoimmune reaction to various tissues in the body that are similar to toxins produced by Streptococcus pyogenes. Rheumatic fever may lead to more serious complications of the heart such as rheumatic heart disease.
+Glomerulonephritis. Onset of kidney damage that may present a few weeks after strep infection. Rather than being a direct result of infection in the kidneys, It is believed to be caused by an overreactive immune response. Symptoms can include blood or protein in the urine, hypertension, and reduced urine output. Can lead to further kidney damage later in life
+Otitis media. Infection of the middle ear.
+Meningitis. Infection of the meninges of the central nervous system (brain and spinal cord) that leads to swelling. Symptoms vary and differ between adults and children but can include headaches, fever, stiff neck, and other neurological-related issues. Early treatment is important to prevent more serious complications.
+Toxic shock syndrome. A severe reaction of the body to toxins produced by various bacteria such as Streptococcus pyogenes. Results from an overactive response by the immune system and can cause hypotension, fever, and in more severe cases, organ failure.
+
+Surgical / procedural complications
+Puerperal fever was a common complication of childbirth, contributing to the high mortality of mothers before the advent of antisepsis and antibiotics.
+Erectile dysfunction and urinary incontinence which may follow prostatectomy.
+Malignant hyperthermia can be a reaction to general anesthetics, as a complication in a surgery.
+Fractured ribs and sternum may be a complication of cardiopulmonary resuscitation attempts.
+
+Other examples of complications
+Sepsis (infection of the blood) may occur as a complication of a bacterial, viral, or fungal infection.
+Miscarriage is the most common complication of early pregnancy.
+Eczema vaccinatum is a rare and severe complication of smallpox vaccination in people with eczema.
+
+See also
+Adverse effect
+Classification of Pharmaco-Therapeutic Referrals
+Diagnosis
+Iatrogenesis
+Late effect
+Nocebo
+Placebo
+Prognosis
+Sequela
+
+References
+
+
+== Further reading ==

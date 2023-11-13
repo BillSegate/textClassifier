@@ -1,0 +1,5 @@
+Ambulatory Patient Group (APG) is a classification system for outpatient services reimbursement developed for the American Medicare service by the Health Care Financing Administration. It classifies patients into nearly 300 pathology groups rather than the 14,000 of the International Classification of Diseases.
+The APG system is similar to the diagnosis-related groups (DRG), which apply to inpatient care rendered by a hospital.
+
+
+== References ==

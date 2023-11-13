@@ -1,0 +1,42 @@
+Proarrhythmia is a new or more frequent occurrence of pre-existing arrhythmias, paradoxically precipitated by antiarrhythmic therapy, which means it is a side effect associated with the administration of some existing antiarrhythmic drugs, as well as drugs for other indications.  In other words, it is a tendency of antiarrhythmic drugs to facilitate emergence of new arrhythmias.
+
+Types of proarrhythmia
+According to the Vaughan Williams classification (VW) of antiarrhythmic drugs, there are 3 main types of Proarrhythmia during treatment with various antiarrhythmic drugs for Atrial Fibrillation or Atrial flutter:
+
+Ventricular proarrhythmia
+Torsades de pointes (VW type IA and type III drugs)
+Sustained monomorphic ventricular tachycardia (usually VW type IC drugs)
+Sustained polymorphic ventricular tachycardia/ventricular fibrillation without long QT (VW types IA, IC, and III drugs)
+
+Atrial proarrhythmia
+Conversion of atrial fibrillation to flutter (usually VW type IC drugs or amiodarone).  May be a desired effect.
+Increase of defibrillation threshold (a potential problem with VW type IC drugs)
+Provocation of recurrence (probably VW types IA, IC and III drugs).  It is rare.
+
+Abnormalities of conduction or impulse formation
+Sinus node dysfunction, atrioventricular block (almost all drugs)
+Accelerate conduction over accessory pathway (digoxin, intravenous verapamil, or diltiazem)
+Acceleration of ventricular rate during atrial fibrillation (VW type IA and type IC drugs).
+
+Increased risk
+Presence of structural heart disease, especially LV systolic dysfunction.
+Class IC agents.
+Increased age.
+Females.
+
+Clinical pointers
+Class IA drugs
+Dose independent, occurring at normal levels.
+Follow QT interval, keep ms.
+
+Class IC drugs
+May be provoked by increased heart rate.
+Exercise stress tests after loading.
+
+Class III drugs
+Dose dependent.
+Follow bradycardia, prolonged QT closely.
+
+References
+External links
+Roden DM (August 1998). "Mechanisms and management of proarrhythmia". Am. J. Cardiol. 82 (4A): 49I–57I. doi:10.1016/S0002-9149(98)00472-X. PMID 9737654.

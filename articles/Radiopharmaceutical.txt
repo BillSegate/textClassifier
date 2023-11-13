@@ -1,0 +1,117 @@
+Radiopharmaceuticals, or medicinal radiocompounds, are a group of pharmaceutical drugs containing radioactive isotopes. Radiopharmaceuticals can be used as diagnostic and therapeutic agents. Radiopharmaceuticals emit radiation themselves, which is different from contrast media which absorb or alter external electromagnetism or ultrasound. Radiopharmacology is the branch of pharmacology that specializes in these agents.
+The main group of these compounds are the radiotracers used to diagnose dysfunction in body tissues. While not all medical isotopes are radioactive, radiopharmaceuticals are the oldest and remain the most common of such drugs.
+
+Drug nomenclature
+As with other pharmaceutical drugs, there is standardization of the drug nomenclature for radiopharmaceuticals, although various standards coexist. The International Nonproprietary Names (INNs), United States Pharmacopeia (USP) names, and IUPAC names for these agents are usually similar other than trivial style differences. The details are explained at Radiopharmacology § Drug nomenclature for radiopharmaceuticals.
+
+Specific radiopharmaceuticals
+A list of nuclear medicine radiopharmaceuticals follows. Some radioisotopes are used in ionic or inert form without attachment to a pharmaceutical; these are also included. There is a section for each radioisotope with a table of radiopharmaceuticals using that radioisotope. The sections are ordered alphabetically by the English name of the radioisotope. Sections for the same element are then ordered by atomic mass number.
+
+Calcium-47
+47Ca is a beta and gamma emitter.
+
+Carbon-11
+11C is a positron emitter.
+
+Carbon-14
+14C is a beta emitter.
+
+Chromium-51
+51Cr is a gamma emitter.
+
+Cobalt-57
+57Co is a gamma emitter.
+
+Cobalt-58
+58Co is a gamma emitter.
+
+Erbium-169
+169Er is a beta emitter.
+
+Fluorine-18
+18F is a positron emitter with a half-life of 109 minutes. It is produced in medical cyclotrons, usually from oxygen-18, and then chemically attached to a pharmaceutical formulation.
+
+Gallium-67
+67Ga is a gamma emitter.
+
+Gallium-68
+68Ga is a positron emitter, with a 68-minute half-life, produced by elution from germanium-68 in a gallium-68 generator or by proton irradiation of zinc-68.
+
+Hydrogen-3
+3H or tritium is a beta emitter.
+
+Indium-111
+111In is a gamma emitter.
+
+Iodine-123
+Iodine-123 (I-123) is a gamma emitter. It is used only diagnostically, as its radiation is penetrating and short-lived.
+
+Iodine-125
+125I is a gamma emitter with a long half-life of 59.4 days (the longest of all radioiodines used in medicine). Iodine-123 is preferred for imaging, so I-125 is used diagnostically only when the test requires a longer period to prepare the radiopharmaceutical and trace it, such as a fibrinogen scan to diagnose clotting. I-125's gamma radiation is of medium penetration, making it more useful as a therapeutic isotope for brachytherapy implant of radioisotope capsules for local treatment of cancers.
+
+Iodine-131
+131I is a beta and gamma emitter. It is used both to destroy thyroid and thyroid cancer tissues (via beta radiation, which is short-range), and also other neuroendocrine tissues when used in MIBG. It can also be seen by a gamma camera, and can serve as a diagnostic imaging tracer, when treatment is also being attempted at the same time. However iodine-123 is usually preferred when only imaging is desired.
+
+Diagnostic
+Therapeutic
+Iron-59
+59Fe is a beta and gamma emitter.
+
+Krypton-81m
+81Krm is a gamma emitter.
+
+Lutetium-177
+177Lu is a beta emitter.
+
+Nitrogen-13
+13N is a positron emitter.
+
+Oxygen-15
+15O is a positron emitter.
+
+Phosphorus-32
+32P is a beta emitter.
+
+Radium-223
+223Ra is an alpha emitter.
+
+Rubidium-82
+82Rb is a positron and gamma emitter.
+
+Samarium-153
+153Sm is a beta and gamma emitter.
+
+Selenium-75
+75Se is a gamma emitter.
+
+Sodium-22
+22Na is a positron and gamma emitter.
+
+Sodium-24
+24Na is a beta and gamma emitter.
+
+Strontium-89
+89Sr is a beta emitter.
+
+Technetium-99m
+Technetium-99m is a gamma emitter. It is obtained on-site at the imaging center as the soluble pertechnetate which is eluted from a technetium-99m generator, and then either used directly as this soluble salt, or else used to synthesize a number of technetium-99m-based radiopharmaceuticals.
+
+Thallium-201
+201Tl is a gamma emitter.
+
+Xenon-133
+133Xe is a gamma emitter.
+
+Yttrium-90
+90Y is a beta emitter.
+
+See also
+Radiopharmacology
+PET radiotracer
+Radioligand
+Isotopes in medicine
+Radiocontrast agent
+
+References
+External links
+Medical radionuclides production simulator – IAEA

@@ -1,0 +1,23 @@
+Oxygen saturation is the fraction of oxygen-saturated hemoglobin relative to total hemoglobin (unsaturated + saturated) in the blood. The human body requires and regulates a very precise and specific balance of oxygen in the blood.  Normal arterial blood oxygen saturation levels in humans are 97–100 percent. If the level is below 90 percent, it is considered low and called hypoxemia. Arterial blood oxygen levels below 80 percent may compromise organ function, such as the brain and heart, and should be promptly addressed. Continued low oxygen levels may lead to respiratory or cardiac arrest. Oxygen therapy may be used to assist in raising blood oxygen levels. Oxygenation occurs when oxygen molecules (O2) enter the tissues of the body. For example, blood is oxygenated in the lungs, where oxygen molecules travel from the air and into the blood. Oxygenation is commonly used to refer to medical oxygen saturation.
+
+Definition
+In medicine, oxygen saturation, commonly referred to as "sats", measures the percentage of hemoglobin binding sites in the bloodstream occupied by oxygen.: 370  At low partial pressures of oxygen, most hemoglobin is deoxygenated. At around 90% (the value varies according to the clinical context) oxygen saturation increases according to an oxygen-hemoglobin dissociation curve and approaches 100% at partial oxygen pressures of >11 kPa. A pulse oximeter relies on the light absorption characteristics of saturated hemoglobin to give an indication of oxygen saturation.
+
+Physiology
+The body maintains a stable level of oxygen saturation for the most part by chemical processes of aerobic metabolism associated with breathing. Using the respiratory system, red blood cells, specifically the hemoglobin, gather oxygen in the lungs and distribute it to the rest of the body. The needs of the body's blood oxygen may fluctuate such as during exercise when more oxygen is required  or when living at higher altitudes. A blood cell is said to be "saturated" when carrying a normal amount of oxygen. Both too high and too low levels can have adverse effects on the body.
+
+Measurement
+An SaO2 (arterial oxygen saturation, as determined by an arterial blood gas test) value below 90% indicates hypoxemia (which can also be caused by anemia). Hypoxemia due to low SaO2 is indicated by cyanosis. Oxygen saturation can be measured in different tissues:
+
+Pulse oximetry
+Pulse oximetry is a method used to estimate the percentage of oxygen bound to hemoglobin in the blood. This approximation to SaO2 is designated SpO2 (peripheral oxygen saturation). The pulse oximeter is a small device that clips to the body (typically a finger, an earlobe or an infant's foot) and displays its reading, or transfers it to another device. Oxygenated and deoxygenated hemoglobin differ in absorption of light of different wavelengths. The oximeter uses light-emitting diodes of different wavelengths in conjunction with a light-sensitive sensor to measure the absorption of red and infrared wavelengths in the extremity, and estimates the SpO2 from the absorption spectrum.
+
+Medical significance
+Healthy individuals at sea level usually exhibit oxygen saturation values between 96% and 99%, and should be above 94%. At 1,600 meters' altitude (about one mile high) oxygen saturation should be above 92%.An SaO2 (arterial oxygen saturation) value below 90% causes hypoxia (which can also be caused by anemia). Hypoxia due to low SaO2 is indicated by cyanosis, but oxygen saturation does not directly reflect tissue oxygenation. The affinity of hemoglobin to oxygen may impair or enhance oxygen release at the tissue level. Oxygen is more readily released to the tissues (i.e., hemoglobin has a lower affinity for oxygen) when pH is decreased, body temperature is increased, arterial partial pressure of carbon dioxide (PaCO2) is increased, and 2,3-DPG levels (a byproduct of glucose metabolism also found in stored blood products) are increased. When the hemoglobin has greater affinity for oxygen, less is available to the tissues. Conditions such as increased pH, decreased temperature, decreased PaCO2, and decreased 2,3-DPG will increase oxygen binding to the hemoglobin and limit its release to the tissue.
+
+See also
+Arteriovenous oxygen difference
+
+References
+External links
+Interactive hemoglobin saturation graph

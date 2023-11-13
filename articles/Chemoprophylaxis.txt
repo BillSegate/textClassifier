@@ -1,0 +1,16 @@
+Chemoprevention or chemoprophylaxis refers to the administration of a medication for the purpose of preventing disease or infection. Antibiotics, for example, may be administered to patients with disorders of immune system function to prevent bacterial infections (particularly opportunistic infection). Antibiotics may also be administered to healthy individuals to limit the spread of an epidemic, or to patients who have repeated infections (such as urinary tract infections) to prevent recurrence. It may also refer to the administration of heparin to prevent deep venous thrombosis in hospitalized patients.
+In some cases, chemoprophylaxis is initiated to prevent the spread of an existing infection in an individual to a new organ system, as when intrathecal chemotherapy is administered in patients with malignancy to prevent further infection.
+The use of chemoprophylaxis is limited primarily by two factors: risk and financial costs.
+
+All medications have the potential to cause side effects. In general, chemoprophylaxis should be initiated only when the benefits of treatment outweigh the risks.
+The cost associated with chemoprophylaxis may be prohibitive, particularly when the cost of treatment is high or the incidence of the target disease is low. Many forms of chemoprophylaxis are therefore not cost-effective.
+
+Specific diseases
+Using chemoprophylaxis as a treatment against early signs of tuberculosis has proven to be effective. In familial adenomatous polyposis physicians observed polyps regression with NSAIDs for anti-inflammatory therapy. Chemoprophylaxis is also used to treat several different varieties of meningococcal infections for close contact exposure to Neisseria meningitidis.The World Health Organization recommends chemoprevention to prevent Malaria in the Sahel region of Sub-Saharan Africa through the use of the drugs sulfadoxine/pyrimethamine and amodiaquine. This technique is called Seasonal Malaria Chemoprevention (SMC). The charity evaluator GiveWell lists the Malaria Consortium's SMC program as one of its priority programs due to its high level of cost-effectiveness and ability to absorbe additional funding.
+
+See also
+Prophylaxis, a more general term.
+Primary prevention, in which measures are undertaken to prevent the onset of disease in individuals who are susceptible (as when patients receive aspirin or statins to delay the development of coronary artery disease).
+
+
+== References ==

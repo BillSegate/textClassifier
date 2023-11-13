@@ -1,0 +1,66 @@
+In many legal jurisdictions, the manner of death is a determination, typically made by the coroner, medical examiner, police, or similar officials, and recorded as a vital statistic.  Within the United States and the United Kingdom, a distinction is made between the cause of death, which is a specific disease or injury, versus manner of death, which is primarily a legal determination versus the mechanism of death (also called the mode of death) which does not explain why the person died or the underlying cause of death and can include cardiac arrest or exsanguination. Different categories are used in different jurisdictions, but manner of death determinations include everything from very broad categories like "natural" and "homicide" to specific manners like "traffic accident" or "gunshot wound".  In some cases an autopsy is performed, either due to general legal requirements, because the medical cause of death is uncertain, upon the request of family members or guardians, or because the circumstances of death were suspicious.
+International Classification of Disease (ICD) codes can be used to record manner and cause of death in a systematic way that makes it easy to compile statistics and more feasible to compare events across jurisdictions.
+
+Terminology
+Death by natural causes
+A death by natural causes results from an illness and its complications or an internal malfunction of the body not directly caused by external forces, other than infectious disease.  For example, a person dying from complications from pneumonia, diarrheal disease or HIV/AIDS (infections), cancer, stroke or heart disease (internal body malfunctions), or sudden organ failure would most likely be listed as having died from natural causes.  "Death by natural causes" is sometimes used as a euphemism for "dying of old age", which is considered problematic as a cause of death (as opposed to a specific age-related disease); there are also many non-age-related causes of "natural" death, for legal manner-of-death purposes.  (See Cause of death § Aging.)
+There is particular ambiguity around the classification of cardiac deaths triggered by a traumatic incident, such as in stress cardiomyopathy. Liability for a death classified as by natural causes may still be found if a proximate cause is established, as in the 1969 California case People v. Stamp.
+
+Unnatural causes
+An unnatural death results from an external cause, typically including homicides, suicides, accidents, medical errors, alcohol intoxications  and drug overdoses.  Jurisdictions differ in how they categorize and report unnatural deaths, including level of detail and whether they are considered a single category with subcategories, or separate top-level categories.  There is no international standard on whether or how to classify a death as natural vs. unnatural."Mechanism of death" is sometimes used to refer to the proximate cause of death, which might differ from the cause that is used to classify the manner of death. For example, the proximate cause or mechanism of death might be brain ischemia (lack of blood flow to the brain), caused by a malignant neoplasm (cancer), in turn caused by a dose of ionizing radiation administered by a person with intent to kill or injure, leading to certification of the manner of death as "homicide".
+The manner of death can be recorded as "undetermined" if there is not enough evidence to reach a firm conclusion. For example, the discovery of a partial human skeleton indicates a death, but might not provide enough evidence to determine a cause.
+
+Categories by jurisdiction
+United States
+In the United States, a manner of death is expressed as belonging to one classification of a group of six possible:
+Natural
+Accident
+Suicide
+Homicide
+Undetermined
+PendingIn some jurisdictions, some more detailed manners may be reported in numbers broken out from the main four or five. For example:
+
+Legal intervention (e.g. capital punishment)
+Act of war
+Automobile accidents
+Deaths of prison inmates by acute intoxication
+
+United Kingdom
+In the United Kingdom, when people die, either a doctor writes an acceptable natural cause of death medical certificate, or a coroner (procurator fiscal in Scotland) investigates the case. Coroners are independent judicial officers who investigate deaths reported to them, and subsequently whatever inquiries are necessary to discover the cause of death, this includes ordering a post-mortem examination, obtaining witness statements and medical records, or holding an inquest. In the unified legal jurisdiction of England and Wales, most deaths are certified by doctors without autopsy or coroner involvement. Almost all deaths certified by the coroner involve an autopsy but most do not involve a formal inquest.In England and Wales, a specific list of choices for verdicts is not mandated, and "narrative verdicts" are allowed, which are not specifically classified. The verdicts aggregated by the Ministry of Justice are:
+Homicide
+Killed unlawfully
+Killed lawfully
+Suicide
+Attempted or self-induced abortion
+Cause of death aggravated by lack of care, or self-neglect
+Dependence on drugs
+Non-dependent abuse of drugs
+Want of attention at birth
+Death from industrial diseases
+Death by accident or misadventure
+Stillborn
+Death from natural causes
+Open verdict
+Disaster
+
+Other jurisdictions
+Some jurisdictions place deaths in absentia, such as deaths at sea and missing persons declared dead in a court of law, in the "Undetermined" category on the grounds that due to the fact-finder's lack of ability to examine the body, the examiner has no personal knowledge of the manner of (assumed) death; others classify such deaths in an additional category "Other," reserving "Undetermined" for deaths in which the fact-finder has access to the body, but the information provided by the body and examination of it is insufficient to provide sufficient grounds for a determination.
+The Norwegian Medical Association classifies what other jurisdictions might call "undetermined" as "unnatural":
+Sudden and unexpected death of an unknown cause
+Deaths in prison or while in civilian or military detention
+
+Legal implications
+A death ruled as homicide or unlawful killing is typically referred to police or prosecutor or equivalent official for investigation and criminal charges if warranted. Deaths caused by capital punishment, though homicides, are generally assumed to be lawful and are not prosecuted. Most deaths due to war are not prosecuted, unless there is evidence of a war crime, in which case troops on foreign territory might be prosecuted by the military justice system, domestic law enforcement, or the International Criminal Court.Some insurance contracts, such as life insurance policies, have special rules for certain manners of death. Suicide, for example, may invalidate claims under terms of such a contract.
+
+See also
+Inquests in England and Wales (conducted by coroners)
+Coroner § History
+Cause of death
+Proximate and ultimate causation
+
+References
+Further reading
+S.A.Koehler. "Chapter 7 – Death Investigation". Forensic Epidemiology: Principles and Practice. doi:10.1016/B978-0-12-404584-2.00007-0.
+
+External links
+DEATH FROM NATURAL CAUSES – CERTIFICATE OF TREATING OR EXAMINING DOCTOR – Form 3 – Burial and Cremation Act 2013 (section 10) (Australia)

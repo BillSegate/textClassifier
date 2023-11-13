@@ -1,0 +1,4 @@
+Molecular xenomonitoring (MX) is a disease surveillance technique that involves the collection and testing of hematophagous insects (such as mosquitoes, flies or ticks) to detect the DNA or RNA of a pathogen or parasite of human or animal health importance. The presence of pathogen genetic material in the insects may be used as a non-invasive proxy for infection in the human or animal population. Molecular xenomonitoring has been successfully used for the surveillance of the neglected tropical diseases lymphatic filariasis and onchocerciasis, amongst others.
+
+
+== References ==

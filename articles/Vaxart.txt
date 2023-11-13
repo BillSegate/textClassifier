@@ -1,0 +1,24 @@
+Vaxart, Inc. is an American biotechnology company focused on the discovery, development, and commercialization of oral recombinant vaccines administered using temperature-stable tablets that can be stored and shipped without refrigeration, eliminating the need for needle injection. Its development programs for oral vaccine delivery (Vector-Adjuvant-Antigen Standardized Technology known as VAAST) include prophylactic, enteric-coated tablet vaccines for inhibiting norovirus, seasonal influenza, respiratory syncytial virus, and human papillomavirus. It was founded in 2004 by Sean Tucker.Vaxart has a collaborative development program for oral delivery of a vaccine against universal flu using proprietary antigens from Janssen Pharmaceutica (Janssen Vaccines and Prevention B.V.).
+
+Technology
+The Vaxart technology is based on the potential to prevent or inhibit infectious diseases by using orally-delivered vaccines by tablets, eliminating intramuscular injection concerns which may involve pain, fear of needles, cross-contamination, dosing inconsistencies, and higher cost for large-scale immunizations. As a proof of concept for oral vaccination efficacy, an oral vaccine against polio was proved to be safe and effective, and is in common use in many countries.Vaxart uses enteric-coated tablets to protect the active vaccine from acidic degradation in the stomach, delivering the vaccine into the small intestine where it can engage the immune system to stimulate systemic and mucosal immune responses against a virus.Vaxart uses a specific virus called adenovirus type 5 (Ad5) as a delivery biological "vector" to carry genes coding for the antigen to generate a protective immune response. The Ad5 vector delivers the antigen to the epithelial cells lining the mucosa of the small intestine where it stimulates the immune system to respond against the vaccine antigen, creating a systemic immune response against a virus.
+
+Vaccine development
+The lead vaccine candidate by Vaxart is an influenza oral tablet vaccine, which showed safety and neutralizing antibody responses to influenza virus in a 2015 Phase I clinical trial. A 2016-17 Phase II trial of the Vaxart oral flu vaccine, VXA-A1.1, showed that the vaccine was well-tolerated and provided immunity against virus shedding, outperforming the effectiveness of an established intramuscular vaccine. In 2018, Vaxart completed a Phase II challenge study, in which the Vaxart influenza tablet vaccine demonstrated a 39 percent reduction in clinical disease relative to placebo, compared to a 27 percent reduction by the injectable flu vaccine, Fluzone.
+
+COVID-19 vaccine
+In January 2020, Vaxart announced development of a tablet vaccine to inhibit COVID-19. Some of its competitors were companies such as Novavax, Inovio Pharmaceuticals, and Moderna.In February 2020, Vaxart began a program to develop an oral tablet vaccine for COVID-19.In April, the company reported positive immune responses in laboratory animals from its tests with a vaccine candidate for COVID-19.In October 2020, Vaxart was under investigation by the SEC and federal prosecutors after the company may have exaggerated its role in and investment from Operation Warp Speed. Vaxart settled the investor lawsuit for $12 million in July 2022.
+
+Investment
+In 2019, several hedge funds invested in Vaxart, with the largest investment coming from Armistice Capital which acquired 25.2 million shares.
+
+See also
+Coronavirus disease 2019
+COVID-19 pandemic
+Severe acute respiratory syndrome–related coronavirus
+Vaccine
+Respiratory disease
+2009 flu pandemic vaccine
+
+
+== References ==

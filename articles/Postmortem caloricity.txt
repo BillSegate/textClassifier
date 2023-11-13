@@ -1,0 +1,21 @@
+Postmortem caloricity is a phenomenon where the body temperature of a corpse rises or remains unusually high for up to 2 hours after death instead of falling.
+
+Cause
+Postmortem caloricity may (more frequently) be observed in deaths resulting from asphyxia, poisonings (e.g. with datura, alcohol, strychnine), sepsis, bacteraemia, and infectious diseases (yellow fever, rabies, rheumatic fever, cholera, tetanus, smallpox), meningitis, peritonitis, nephritis, brain stem haemorrhages (especially pontine haemorrhages), intracranial injuries, liver abscesses, sunstroke, etc.
+According to Robert G. Mayer, author of the seminal "Embalming: History, Theory and Practice," postmortem caloricity is a "rise in temperature after death due to continued cellular oxidation."  Students of mortuary science must remember that there are two phases of death--somatic and cellular.  Somatic death is the cessation of the tripod of life, meaning the failure of circulation, respiration, or cerebral activity.  Cellular death continues long after somatic death, with the classic resulting condition of rigor mortis (stiffening of the muscles due to lack of oxygen and increase in lactic acids.)  One must also remember that postmortem changes are attributable to the activity of enzymes and not simply bacteria.  As such, postmortem caloricity is a postmortem cellular phenomenon associated with cellular oxidation.  Postmortem caloricity is a purely chemical reaction and has no relation to microbial activity, similar to rigor mortis, algor mortis (postmortem cooling of the body), and livor mortis (a.k.a. settling of blood to dependent parts of the body due to gravity).  Postmortem caloricity is a fairly rare phenomenon and while statistical data is unavailable in the literature, any experienced embalmer, coroner, or medical examiner will affirm that it is atypical regarding cellular death.
+
+Mechanism
+Postmortem heat production is caused by biochemical and microbial activity in the dead body. The cause of postmortem caloricity varies depending on the cause of death:
+
+Postmortem glycogenolysis – a phenomenon beginning soon after death observed in nearly all cadavers. In an average adult, postmortem glycogenolysis can produce up to 140 calories of heat which can raise the temperature of the body by up to 2 °C.
+Bactaeremia, sepsis, and infectious causes – heat production may be attributed to postmortem microbial activity.
+Sunstroke, and pontine haemorrhages – disruption of thermoregulation prior to death.
+Tetanus, and strychnine – heat is produced by muscular contractions.The corpse may also absorb heat from the environment when environmental temperature exceeds that of the body.
+
+References
+Sources
+Sharma, R.K. (2008). Concise Textbook Of Forensic Medicine & Toxicology (2nd ed.). New Delhi: Elsevier. p. 46. ISBN 9788131211458.
+Bardale, Rajesh (November 30, 2011). Principles of forensic medicine and toxicology (1st ed.). New Delhi: Jaypee Brothers Medical Pub. p. 143. ISBN 9789350254936. OCLC 754739806.
+Karmakar, R.N. (December 2015). Forensic Medicine and Toxicology (3rd ed.). Calcutta: Academic Publishers. p. 390. ISBN 9788190908146.
+Biswas, Gautam (July 20, 2012). Review of Forensic Medicine and Toxicology (2nd ed.). New Delhi: Jaypee Brothers Medical Publishers Ltd. p. 120. ISBN 9789350258965.
+Modi, Rai Bahadur Jaising P. (1920). A Text-Book of Medical Jurisprudence and Toxicology. Calcutta: Medical Publishers. p. 93.

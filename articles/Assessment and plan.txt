@@ -1,0 +1,17 @@
+The assessment and plan (abbreviated A/P" or A&P) is a component of an admission note.
+
+Assessment includes a discussion of the differential diagnosis and supporting history and exam findings.
+The plan is typically broken out by problem or system. Each problem should include:
+brief summary of the problem, perhaps including what has been done thus far
+orders for medications, labs, studies, procedures and surgeries to address the problem.
+problems are commonly derived from
+chief complaint
+history of present illness
+review of systems (rarely; these should have been picked up and incorporated as new chief complaints during the interview)
+physical exam (rarely; these should have been picked up and incorporated as new chief complaints during the exam)
+social history, including counseling for smoking, alcohol, and illicit drug use
+family history
+medications may indicate problems that need to be addressed in the treatment of the other problems, such as dyslipidemia controlled with a statin.
+
+
+== References ==

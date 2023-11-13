@@ -1,0 +1,46 @@
+Adhesions are fibrous bands that form between tissues and organs, often as a result of injury during surgery. They may be thought of as internal scar tissue that connects tissues not normally connected.
+
+Pathophysiology
+Adhesions form as a natural part of the body's healing process after surgery in a similar way that a scar forms. The term "adhesion" is applied when the scar extends from within one tissue across to another, usually across a virtual space such as the peritoneal cavity. Adhesion formation post-surgery typically occurs when two injured surfaces are close to one another. According to the "classical paradigm" of adhesion formation, the pathogenesis starts with inflammation and activation of the coagulation system which causes fibrin deposits onto the damaged tissues. The fibrin then connects the two adjacent structures where damage of the tissues occurred. The fibrin acts like a glue to seal the injury and builds the fledgling adhesion, said at this point to be "fibrinous." In body cavities such as the peritoneal, pericardial, and synovial cavities, a family of fibrinolytic enzymes may act to limit the extent of the initial fibrinous adhesion, and may even dissolve it. In many cases, the production or activity of these enzymes are compromised because of inflammation following injury or infection, however, and the fibrinous adhesion persists. A more recent study suggested that the formation of "fibrinous" adhesions is preceded by the aggregation of cavity macrophages, that can act like extravascular platelets in the abdominal cavity.If this is allowed to happen, tissue repair cells such as macrophages, fibroblasts, and blood vessel cells penetrate into the fibrinous adhesion and lay down collagen and other matrix substances to form a permanent fibrous adhesion. In 2002, Giuseppe Martucciello's research group showed a possible role could be played by microscopic foreign bodies (FB) inadvertently contaminating the operative field during surgery. These data suggested that two different stimuli are necessary for adhesion formation: a direct lesion of the mesothelial layers and a solid substrate foreign body (FB).
+While some adhesions do not cause problems, others may prevent muscle, nerve and other tissues and organs from moving freely, sometimes causing organs to become twisted or pulled from their normal positions.
+
+Regions affected
+Adhesive capsulitis
+In the case of adhesive capsulitis of the shoulder (also known as frozen shoulder), adhesions grow between the shoulder joint surfaces, restricting motion.
+
+Abdominal adhesions
+Abdominal adhesions (or intra-abdominal adhesions) are most commonly caused by abdominal surgical procedures. The adhesions start to form within hours of surgery and may cause internal organs to attach to the surgical site or to other organs in the abdominal cavity. Adhesion-related twisting and pulling of internal organs may result in complications such as  abdominal pain or intestinal obstruction.
+Small bowel obstruction (SBO) is a significant consequence of post-surgical adhesions. A SBO may be caused when an adhesion pulls or kinks the small intestine and prevents the flow of content through the digestive tract. Obstruction may occur 20 years or more after the initial surgical procedure, if a previously benign adhesion allows the small bowel to twist spontaneously around itself and obstruct. Without immediate medical attention, SBO is an emergent, possibly fatal, condition.
+According to statistics provided by the National Hospital Discharge Survey approximately 2,000 people die every year in the US from obstruction due to adhesions. Depending on the severity of the obstruction, a partial obstruction may relieve itself with conservative medical intervention. Many obstructive events require surgery, however, to loosen or dissolve the offending adhesion(s) or to resect the affected small intestine.
+
+Pelvic adhesions
+Pelvic adhesions are a form of abdominal adhesions in the pelvis. In women they typically affect reproductive organs and thus are of concern in reproduction or as a cause of chronic pelvic pain. Other than surgery, endometriosis and pelvic inflammatory disease are typical causes.
+Surgery inside the uterine cavity (e.g., suction dilation and curettage, myomectomy, endometrial ablation) may result in Asherman's syndrome (also known as intrauterine adhesions, intra uterine synechiae), a cause of infertility.
+The impairment of reproductive performance from adhesions may happen through many mechanisms, all of which usually stem from the distortion of the normal tubo-ovarian relationship. This distortion may prevent an ovum from traveling to the fimbriated end of the Fallopian tube.A meta-analysis in 2012 came to the conclusion that there is only little evidence for the surgical principle that using less invasive techniques, introducing fewer foreign bodies, or causing less ischemia reduces the extent and severity of adhesions in pelvic surgery.
+
+Pericardial adhesions
+Adhesions forming between the heart and the sternum after cardiac surgery place the heart at risk of catastrophic injury during re-entry for a subsequent procedure.
+
+Peridural adhesions
+Adhesions and scarring as epidural fibrosis may occur after spinal surgery that restricts the free movement of nerve roots, causing tethering and leading to pain.
+
+Peritendinous adhesions
+Adhesions and scarring occurring around tendons after hand surgery restrict the gliding of tendons in their sheaths and compromise digital mobility.
+
+Association with surgical procedures
+Applying adhesion barriers during surgery may help to prevent the formation of adhesions. There are two methods that are approved by the U.S. Food and Drug Administration (FDA) for adhesion prevention: Intercede and Seprafilm. One study found that Seprafilm is twice as effective at preventing adhesion formation when compared to just surgical technique alone. Surgical humidification therapy may also minimise the incidence of adhesion formation. Laparoscopic surgery has a reduced risk for creating adhesions. Steps may be taken during surgery to help prevent adhesions such as handling tissues and organs gently, using starch-free and latex-free gloves, not allowing tissues to dry out, and shortening surgery time.An unfortunate fact is, that adhesions are unavoidable in surgery and the main treatment for adhesions is more surgery. Besides intestinal obstructions caused by adhesions that may be seen in an X-ray, there are no diagnostic tests available to accurately diagnose an adhesion.
+
+Abdominal surgery
+A study showed that more than 90% of people develop adhesions following open abdominal surgery and that 55–100% of women develop adhesions following pelvic surgery. Adhesions from prior abdominal or pelvic surgery may obscure visibility and access at subsequent abdominal or pelvic surgery. In a very large study (29,790 participants) published in British medical journal The Lancet, 35% of patients who underwent open abdominal or pelvic surgery were readmitted to the hospital an average of two times after their surgery, due to adhesion-related or adhesion-suspected complications. Over 22% of all readmissions occurred in the first year after the initial surgery. Adhesion-related complexity at reoperation adds significant risk to subsequent surgical procedures.Certain organs and structures in the body are more prone to adhesion formation than others. The omentum is particularly susceptible to adhesion formation; one study found that 92% of post-operative adhesions were found in the omentum. It appears that the omentum is the chief organ responsible for "spontaneous" adhesion formation (i.e. no prior history of surgery). In another study, 100% of spontaneous adhesion formations were associated with the omentum.One method to reduce the formation of adhesions following abdominal surgery is hydroflotation, in which the organs are separated from one another by being floated in a solution.
+
+Carpal tunnel surgery
+The long-term use of a wrist splint during recovery from carpal tunnel surgery may cause adhesion formation. For that reason, it is advised that wrist splints be used only for short-term protection in work environments, but otherwise, splints do not improve grip strength, lateral pinch strength, or bowstringing. Beyond adhesion they also may cause stiffness or flexibility problems.
+
+Types
+There are three general types of adhesions: filmy, vascular, and cohesive, however, their pathophysiology is similar. Filmy adhesions usually do not pose problems. Vascular adhesions are problematic.
+
+References
+External links
+
+eMedicineHealth: Adhesions, General and After Surgery
+Smith, Orla M., Getting adhesions unstuck, Science, November 30, 2018, volume 362, issue 6418, pp. 1014-1016

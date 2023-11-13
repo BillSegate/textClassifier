@@ -1,0 +1,4 @@
+The Tourette Syndrome Clinical Global Impression (TS-CGI) is a psychological measure used to briefly assess severity of tics.
+
+
+== References ==

@@ -1,0 +1,19 @@
+Medical logistics is the logistics of pharmaceuticals, medical and surgical supplies, medical devices and equipment, and other products needed to support doctors, nurses, and other health and dental care providers. Because its final customers are responsible for the lives and health of their patients, medical logistics is unique in that it seeks to optimize effectiveness rather than efficiency.
+Medical logistics functions comprise an important part of the health care system: after staff costs, medical supplies are the single most expensive component of health care. To drive costs out of the health-care sector, medical logistics providers are adopting supply chain management theories.
+This organizational chart is as follows and separated into three key areas. 
+
+Medical Materiel
+Biomedical Engineering (BMET) or Clinical Engineering
+Facilities Management.These areas are managed by a qualified Director of Logistics. The Director of Logistics' educational background holds some type of accredited graduate degree (MBA or M.S.)
+
+Prioritize Compliance with Regulatory Standards
+Understanding Regulatory Complexity: Pharmaceutical companies operate within a labyrinth of stringent regulations established by various authorities like the FDA, EMA, WHO, and national health agencies. These regulations are designed to ensure product safety, efficacy, and patient well-being. They cover a wide array of factors, including storage conditions, handling, documentation, and distribution.
+Tailored Storage Solutions: Different pharmaceutical products have unique storage requirements. Vaccines, for instance, demand precise temperature control to maintain their potency. On the other hand, some medications can deteriorate due to exposure to light or humidity. Compliance entails understanding these distinct needs and designing storage areas accordingly.
+Investment in Infrastructure: Creating compliant storage spaces involves financial commitment. This includes building temperature-controlled environments, installing monitoring systems, and incorporating security measures to prevent unauthorized access.
+Staff Training and SOPs: Compliance isn’t just about infrastructure; it’s also about people. Training employees on proper storage procedures and equipping them with detailed Standard Operating Procedures (SOPs) is vital. They should understand not only the “what” but also the “why” behind compliance, so they can execute tasks effectively.
+
+See also
+Medical device
+
+
+== References ==

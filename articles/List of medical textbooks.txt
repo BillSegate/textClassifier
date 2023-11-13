@@ -1,0 +1,158 @@
+This is a list of medical textbooks, manuscripts, and reference works.
+
+Pre-modern texts
+Ancient Egypt
+Ramesseum medical papyri (c. 1800 BCE)
+Kahun Gynaecological Papyrus (c. 1800 BCE)
+London Medical Papyrus (c. 1600 BCE)
+Ebers Papyrus (c. 1550 BCE)
+Edwin Smith Papyrus (c. 1500 BCE) -  Earliest mention of the brain; the pulse; the role of the heart in circulating blood, but not complete circulation. It is the world's oldest surgical textbook, containing descriptions of the zygomatic bone, dura mater, cerebrospinal fluid, and nasal cavity.
+Brugsch Papyrus (c. 1200 BCE)
+
+Ancient Greece
+Hippocratic Corpus (c. 400 BCE to 200 CE) - Contains many important medical treatises including the Hippocratic Oath. Compared with the Egyptian papyri, the Hippocratic writings exhibit an improved understanding of brain structure and function. It correctly attributed the primary control of the body's function to the brain.
+Galenic corpus (c. 200 BCE)
+De Materia Medica (Dioscorides) (c. 50 CE)
+Medical Compendium in Seven Books (c. 600 CE)
+
+Ancient China
+Huangdi Neijing (c. 300 BCE) -  Most authoritative Chinese source on medical matters for over two millennia. It contributed to the Chinese understanding of anatomy, and it continues to be used as an influential reference work for practitioners of traditional Chinese medicine. The book contains many guidelines and recommendations for the prevention of chronic diseases and micronutrient deficiencies such as beriberi, xerophthalmia, and goitre.
+Wushi'er Bingfang (c. 200 BCE)
+Shennong Ben Cao Jing (c. 200 CE)
+Shanghan Lun (c. 220 CE)
+Liu Juanzi Guiyi Fang (C. 499 CE)
+Compendium of Materia Medica (c. 1578 CE)
+
+Ancient India
+Kashyapa Samhita (6th century BCE)
+Sushruta Samhita (c. 300 BCE) - Early description of cataract surgery. The Sushruta Samhita emphasizes the importance of anatomical structure and function, and it contains the earliest written description of the pedicled flaps. It was translated into Arabic during the latter part of the 8th century.
+Bower Manuscript (c. 470-550 CE)
+Charaka Samhita (c. 300-500 CE) - One of the fundamental texts of Ayurveda medicine, it was translated into Chinese, Arabic, and Tibetan languages.
+
+Islamic Golden Age
+Kitab al-Taṣrif (c. 1000) -  Surgical encyclopedia.
+Book of Optics (c. 1000) - Exerted great influence on Western science. It was translated into Latin and it was used until the early 17th century. The German physician Hermann von Helmholtz reproduced several theories of visual perception that were found in the first Book of Optics, which he cited and copied from.
+The Canon of Medicine (c. 1000) - Described by Sir William Osler as a "medical bible" and "the most famous medical textbook ever written". The Canon of Medicine introduced the concept of a syndrome as an aid to diagnosis, and it laid out an essential framework for a clinical trial. It was translated into Latin by Gerard de Sabloneta and it was used extensively in European medical schools. It also became the most authoritative text on anatomy until the 16th century.
+Commentary on Anatomy in Avicenna's Canon (c. 1200): First description of the pulmonary circulation system, and the first description of the presence and function of coronary circulation.
+
+Medieval Europe
+Compendium Medicinæ ("Compendium of Medicine") (c. 1230-1250)
+Thesaurus Pauperum ("Treasury of The Poor") (c. 1270)
+Rosa Anglica ("The English Rose") (1304-1317)
+La Chirurgie ("Surgery") (1306-1320)
+Stockholm, Royal Library, manuscript X. 90 (early fifteenth-century). A significant and compendious collection of Middle English medical recipes, charms, and treatises.
+
+Modern textbooks
+Anatomy
+Gray's Anatomy
+Gray's Anatomy for Students
+Netter - Atlas of Human Anatomy
+Clinically Oriented Anatomy
+Snell's Clinical Anatomy by Regions
+
+Neuroanatomy
+Snell's Clinical Neuroanatomy
+Neuroanatomy - Text and Atlas
+Fitzgerald's Clinical Neuroanatomy and Neuroscience
+
+Anaesthesiology
+Practical Management of Pain
+Textbook of Pain -  Most comprehensive scientific reference text on pain. The textbook's founding editors were Patrick David Wall and Ronald Melzack, who jointly introduced the gate control theory into the field of pain research.
+
+Cardiology
+Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine
+Fuster and Hurst's the Heart
+
+Clinical Examination
+Talley and O'Connor's Clinical Examination 
+Macleod's Clinical Examination 
+Bates' Guide To Physical Examination and History Taking
+
+Dermatology
+Rook's Textbook of Dermatology
+Fitzpatrick's Dermatology
+
+Embryology
+Langman's Medical Embryology
+The Developing Human: Clinically Oriented Embryology
+
+Emergency Medicine
+Tintinalli's Emergency Medicine: A Comprehensive Study Guide
+Rosen's Emergency Medicine: Concepts and Clinical Practice
+
+Histology
+Netter's Essential Histology
+Histology - A Text and Atlas With Correlated Cell and Molecular Biology
+Junqueira's Basic Histology, Text and Atlas
+
+Internal Medicine
+Harrison's Principles of Internal Medicine
+The Principles and Practice of Medicine
+Davidson's Principles and Practice of Medicine
+Current Medical Diagnosis and Treatment
+The Oxford Textbook of Medicine
+Cecil Textbook of Medicine
+Kumar and Clark's Clinical Medicine
+
+Neurology
+Adams and Victor's Principles of Neurology
+
+Neuroscience
+Principles of Neural Science
+
+Obstetrics and Gynecology
+Williams Obstetrics
+Williams Gynecology
+Berek & Novak's Gynecology
+Te Linde's Operative Gynecology
+Hacker & Moore's Essentials of Obstetrics and Gynecology
+
+Oncology
+Abeloff's Clinical Oncology
+Skin Cancer: Recognition and Management
+
+Ophthalmology
+Ryan's Retina
+
+Paediatrics
+Nelson Textbook of Pediatrics
+
+Physiology
+Guyton's Textbook of Medical Physiology
+Ganong's Review of Medical Physiology
+Human Physiology: From Cells to Systems
+
+Surgery
+Schwartz's Principles of Surgery
+Sabiston Textbook of Surgery - The Biological Basis of Modern Surgical Practice
+Bailey & Love's Short Practice of Surgery
+
+Urology
+Campbell-Walsh-Wein Urology
+
+National and international publications
+Diagnostic and Statistical Manual of Mental Disorders (DSM) - Official publication of the  American Psychiatric Association
+International Classification of Diseases (ICD) - Official publication of the World Health Organization
+
+Handbooks
+Oxford Handbook of Clinical Medicine
+Step up to medicine
+Harrisons Manual of Medicine
+
+Dictionaries and encyclopedias
+Miller-Keane Encyclopedia & Dictionary of Medicine, Nursing, and Allied Health
+Taber's Cyclopedic Medical Dictionary
+The Modern Home Physician
+
+Reference guides
+Current Medical Diagnosis and Treatment
+Washington Manual of Medical Therapeutics
+The Merck Manuals
+The Oxford Textbook of Medicine
+The Principles and Practice of Medicine
+
+See also
+List of medical journals
+
+
+== References ==

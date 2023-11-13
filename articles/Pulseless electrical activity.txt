@@ -1,0 +1,32 @@
+Pulseless electrical activity (PEA) is a form of cardiac arrest in which the electrocardiogram shows a heart rhythm that should produce a pulse, but does not. Pulseless electrical activity is found initially in about 20% of out-of-hospital cardiac arrests and about 50% of in-hospital cardiac arrests.Under normal circumstances, electrical activation of muscle cells precedes mechanical contraction of the heart (known as electromechanical coupling). In PEA, there is electrical activity but insufficient cardiac output to generate a pulse and supply blood to the organs, whether the heart itself is failing to contract or otherwise. While PEA is classified as a form of cardiac arrest, significant cardiac output may still be present, which may be determined and best visualized by bedside ultrasound (echocardiography).
+Cardiopulmonary resuscitation (CPR) is the first treatment for PEA, while potential underlying causes are identified and treated. The medication epinephrine (aka adrenaline) may be administered. Survival is about 20% if the event occurred while the patient was already in the hospital setting.
+
+Signs and symptoms
+Pulseless electrical activity leads to a loss of cardiac output, and the blood supply to the brain is interrupted. As a result, PEA is usually noticed when a person loses consciousness and stops breathing spontaneously. This is confirmed by examining the airway for obstruction, observing the chest for respiratory movement, and feeling the pulse (usually at the carotid artery) for a period of 10 seconds.
+
+Causes
+These possible causes are remembered as the 6 Hs and the 6 Ts. See Hs and Ts
+
+Hypovolemia
+Hypoxia
+Hydrogen ions (Acidosis)
+Hyperkalemia or Hypokalemia
+Hypoglycemia
+Hypothermia
+Tablets or Toxins
+Cardiac Tamponade
+Tension pneumothorax
+Thrombosis (e.g., myocardial infarction, pulmonary embolism)
+Tachycardia
+Trauma (e.g., hypovolemia from blood loss)The possible mechanisms by which the above conditions can cause pulseless in PEA are the same as those recognized as producing circulatory shock states. These are (1) impairment of cardiac filling, (2) impaired pumping effectiveness of the heart, (3) circulatory obstruction and (4) pathological vasodilation causing loss of vascular resistance and excess capacitance. More than one mechanism may be involved in any given case.
+
+Diagnosis
+The absence of a pulse confirms a clinical diagnosis of cardiac arrest, but PEA can only be distinguished from other causes of cardiac arrest with a device capable of electrocardiography (ECG/EKG). In PEA, there is organised or semi-organised electrical activity in the heart as opposed to asystole (flatline) or to the disorganised  electrical activity of either ventricular fibrillation or ventricular tachycardia.
+
+Treatment
+Cardiac resuscitation guidelines (ACLS/BCLS) advise that cardiopulmonary resuscitation should be initiated promptly to maintain cardiac output until the PEA can be corrected. The approach in treatment of PEA is to treat the underlying cause, if known (e.g. relieving a tension pneumothorax). Where an underlying cause for PEA cannot be determined and/or reversed, the treatment of pulseless electrical activity is similar to that for asystole. There is no evidence that external cardiac compression can increase cardiac output in any of the many scenarios of PEA, such as hemorrhage, in which impairment of cardiac filling is the underlying mechanism producing loss of a detectable pulse.A priority in resuscitation is placement of an intravenous or intraosseous line for administration of medications. The mainstay of drug therapy for PEA is epinephrine (adrenaline) 1 mg every 3–5 minutes. Although previously the use of atropine was recommended in the treatment of PEA/asystole, this recommendation was withdrawn in 2010 by the American Heart Association due to lack of evidence for therapeutic benefit. Epinephrine too has a limited evidence base, and it is recommended on the basis of its mechanism of action.Sodium bicarbonate 1meq per kilogram may be considered in this rhythm as well, although there is little evidence to support this practice. Its routine use is not recommended for patients in this context, except in special situations (e.g. preexisting metabolic acidosis, hyperkalemia, tricyclic antidepressant overdose).All of these drugs should be administered along with appropriate CPR techniques. Defibrillators cannot be used to correct this rhythm, as the problem lies in the response of the myocardial tissue to electrical impulses.
+
+References
+
+
+== External links ==

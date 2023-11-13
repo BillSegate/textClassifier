@@ -1,0 +1,16 @@
+The term human equivalent is used in a number of different contexts. This term can refer to human equivalents of various comparisons of animate and inanimate things.
+
+Animal models in chemistry and medicine
+Animal models are used to learn more about a disease, its diagnosis and its treatment, with animal models predicting human toxicity in up to 71% of cases. The human equivalent dose (HED) or human equivalent concentration (HEC) is the quantity of a chemical that, when administered to humans, produces an effect equal to that produced in test animals by a smaller dose. Calculating the HED is a step in carrying out a clinical trial of a pharmaceutical drug.
+
+Human energy usage and conversion
+The concept of human-equivalent energy (H-e) assists in understanding of energy flows in physical and biological systems by expressing energy units in human terms: it provides a “feel” for the use of a given amount of energy by expressing it in terms of the relative quantity of energy needed for human metabolism, assuming an average human energy expenditure of 12,500 kJ per day and a basal metabolic rate of 80 watts. A light bulb running at 100 watts is running at 1.25 human equivalents (100/80), i.e. 1.25 H-e. On the other hand, a human may generate as much as 1,000 watts for a task lasting a few minutes, or even more for a task of a few seconds' duration, while climbing a flight of stairs may represent work at a rate of about 200 watts.
+
+Animal attributes expressed in terms of human equivalents
+Cat and dog years
+The ages of domestic cats and dogs are often referred to in terms of "cat years" or "dog years", representing a conversion to human-equivalent years. One formula for cat years is based on a cat reaching maturity in approximately 1 year, which could be seen as 16 in human terms, then adding about 4 years for every year the cat ages. A 5-year-old cat would then be (5 − 1) × 4 + 16 = 32 "cat years" (i.e. human-equivalent years), and a 10-year-old cat (10 − 1) × 4 + 16 = 52 in human terms.
+
+See also
+
+
+== References ==

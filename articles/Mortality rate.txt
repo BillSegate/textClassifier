@@ -1,0 +1,82 @@
+Mortality rate, or death rate,: 189, 69  is a measure of the number of deaths (in general, or due to a specific cause) in a particular population, scaled to the size of that population, per unit of time. Mortality rate is typically expressed in units of deaths per 1,000 individuals per year; thus, a mortality rate of 9.5 (out of 1,000) in a population of 1,000 would mean 9.5 deaths per year in that entire population, or 0.95% out of the total. It is distinct from "morbidity", which is either the prevalence or incidence of a disease, and also from the incidence rate (the number of newly appearing cases of the disease per unit of time).: 189 An important specific mortality rate measure is the crude death rate, which looks at mortality from all causes in a given time interval for a given population. As of 2020, for instance, the CIA estimates that the crude death rate globally will be 7.7 deaths per 1,000 people in a population per year. In a generic form,: 189  mortality rates can be seen as calculated using 
+  
+    
+      
+        (
+        d
+        
+          /
+        
+        p
+        )
+        ⋅
+        
+          10
+          
+            n
+          
+        
+      
+    
+    {\displaystyle (d/p)\cdot 10^{n}}
+  , where d represents the deaths from whatever cause of interest is specified that occur within a given time period, p represents the size of the population in which the deaths occur (however this population is defined or limited), and 
+  
+    
+      
+        
+          10
+          
+            n
+          
+        
+      
+    
+    {\displaystyle 10^{n}}
+  is the conversion factor from the resulting fraction to another unit (e.g., multiplying by 
+  
+    
+      
+        
+          10
+          
+            3
+          
+        
+      
+    
+    {\displaystyle 10^{3}}
+  to get mortality rate per 1,000 individuals).: 189
+
+Crude death rate, globally
+The crude death rate is defined as "the mortality rate from all causes of death for a population," calculated as the "[t]otal number of deaths during a given time interval" divided by the "[m]id-interval population", per 1,000 or 100,000; for instance, the population of the U.S. was around 290,810,000 in 2003, and in that year, approximately 2,419,900 deaths occurred in total, giving a crude death (mortality) rate of 832 deaths per 100,000.: 3–20f  As of 2020, the CIA estimates the U.S. crude death rate will be 8.3 per 1,000, while it estimates that the global rate will be 7.7 per 1,000.According to the World Health Organization, the ten leading causes of death, globally, in 2016, for both sexes and all ages, were as presented in the table below.Crude death rate, per 100,000 population
+
+Ischaemic heart disease, 126
+Stroke, 77
+Chronic obstructive pulmonary disease, 41
+Lower respiratory infections, 40
+Alzheimer's disease and other dementias, 27
+Trachea, bronchus, and lung cancers, 23
+Diabetes mellitus, 21
+Road injury, 19
+Diarrhoeal diseases, 19
+Tuberculosis, 17Mortality rate is also measured per thousand. It is determined by how many people of a certain age die per thousand people. Decrease of mortality rate is one of the reasons for increase of population. Development of medical science and other technologies has resulted in the decrease of mortality rate in all the countries of the world for some decades. In 1990, the mortality rate of children under 5 years of age was 144 per thousand, but in 2015 the child mortality rate was 38 per thousand.
+
+Related measures of mortality
+Other specific measures of mortality include:
+For any of these, a "sex-specific mortality rate" refers to "a mortality rate among either males or females", where the calculation involves both "numerator and denominator... limited to the one sex".: 3–23
+
+Use in epidemiology
+In most cases there are few if any ways to obtain exact mortality rates, so epidemiologists use estimation to predict correct mortality rates. Mortality rates are usually difficult to predict due to language barriers, health infrastructure related issues, conflict, and other reasons. Maternal mortality has additional challenges, especially as they pertain to stillbirths, abortions, and multiple births. In some countries, during the 1920s, a stillbirth was defined as "a birth of at least twenty weeks' gestation in which the child shows no evidence of life after complete birth". In most countries, however, a stillbirth was defined as "the birth of a fetus, after 28 weeks of pregnancy, in which pulmonary respiration does not occur".
+
+Census data and vital statistics
+Ideally, all mortality estimation would be done using vital statistics and census data. Census data will give detailed information about the population at risk of death. The vital statistics provide information about live births and deaths in the population. Often, either census data and vital statistics data is not available. This is common in developing countries, countries that are in conflict, areas where natural disasters have caused mass displacement, and other areas where there is a humanitarian crisis
+
+Household surveys
+Household surveys or interviews are another way in which mortality rates are often assessed. There are several methods to estimate mortality in different segments of the population. One such example is the sisterhood method, which involves researchers estimating maternal mortality by contacting women in populations of interest and asking whether or not they have a sister, if the sister is of child-bearing age (usually 15) and conducting an interview or written questions about possible deaths among sisters. The sisterhood method, however, does not work in cases where sisters may have died before the sister being interviewed was born.Orphanhood surveys estimate mortality by questioning children are asked about the mortality of their parents. It has often been criticized as an adult mortality rate that is very biased for several reasons. The adoption effect is one such instance in which orphans often do not realize that they are adopted. Additionally, interviewers may not realize that an adoptive or foster parent is not the child's biological parent. There is also the issue of parents being reported on by multiple children while some adults have no children, thus are not counted in mortality estimates.Widowhood surveys estimate adult mortality by responding to questions about the deceased husband or wife. One limitation of the widowhood survey surrounds the issues of divorce, where people may be more likely to report that they are widowed in places where there is the great social stigma around being a divorcee. Another limitation is that multiple marriages introduce biased estimates, so individuals are often asked about first marriage. Biases will be significant if the association of death between spouses, such as those in countries with large AIDS epidemics.
+
+Sampling
+Sampling refers to the selection of a subset of the population of interest to efficiently gain information about the entire population. Samples should be representative of the population of interest. Cluster sampling is an approach to non-probability sampling; this is an approach in which each member of the population is assigned to a group (cluster), and then clusters are randomly selected, and all members of selected clusters are included in the sample. Often combined with stratification techniques (in which case it is called multistage sampling), cluster sampling is the approach most often used by epidemiologists. In areas of forced migration, there is more significant sampling error. Thus cluster sampling is not the ideal choice.
+
+Mortality statistics
+
+Causes of death vary greatly between developed and less developed countries; see also list of causes of death by rate for worldwide statistics.

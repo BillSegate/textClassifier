@@ -1,0 +1,29 @@
+This article discusses notable unsolved problems in medicine. Many of the problems relate to how drugs work (the so-called mechanism of action), and to diseases with an unknown cause, the so-called idiopathic diseases.
+
+Definition of "disease"
+There is no overarching, clear definition of what a disease is. On one hand, there is a scientific definition which is tied to a physiological process, and on the other hand, there is the subjective suffering of a patient and the loss of their life quality. Both approaches do not need to match, and they can even be contradictory.
+For example, when a patient seeks medical help because of a severe flu, the doctor will not care about the specific virological and immunological process behind the clearly visible suffering. This is contrasted by many hemochromatosis patients who will neither see suffering nor a change in his life quality, while the disease-causing process is severe and often deadly if left untreated. Similarly, many cancers in their very early stages are asymptomatic (e.g. pancreatic cancer) and the patient still feels healthy, which delays seeking treatment.
+Sometimes, cultural factors also play a role in defining "disease". Erectile dysfunction was long seen as a negative but non-pathological state. The introduction of effective treatments has led to its acceptance as a disease.Even more difficulties arise when it comes to mental disorders. Depressions and anxiety disorders cause significant subjective suffering in the patient, but do not harm third persons. On the contrary, a narcissistic disorder or an impulse-control disorder does not cause any suffering in the patient, though the maintenance of healthy interpersonal relationships will be affected, and third persons can be harmed. There is also debate on whether non-normal behavior like paraphilias should be classified as a disease if they neither cause subjective suffering in the patient, nor endanger third persons.
+
+Evidence-based medicine
+Evidence-based medicine (EBM) has become the central paradigm in medical practice and research. However, debate continues around EBM and about how results obtained from large samples of patients can be applied to the individual.
+
+Psychiatry and psychology
+Lack of reliable diagnoses in some disorders
+Though manuals like the DSM have covered a lot of ground when it comes to defining mental illnesses, in some disorders the reliability of diagnosis is still very poor. For example, inter-rater reliability in cases of dementia is very high, with a kappa value of 0.78, while major depressive disorder is often diagnosed differently by independent experts who see the same patient, with a kappa value of just 0.28.
+
+Cultural issues in defining mental disorders
+Some mental illnesses like paraphilias are still defined by societal and cultural norms, rather than putting the individual's well-being in focus. For example, DSM defined homosexuality as a mental illness, until the American Psychiatric Association decided otherwise in 1973. As Richard Green pointed out in a review on pedophilia, psychiatry should identify unhealthy mental processes and treat them, and not focus on cultural norms, moral questions or legal issues.As textbooks and handbooks like DSM are usually written by Western authors, a culturally neutral definition of mental diseases is an unsolved problem. Though newer editions of the DSM “respect” non-Western cultures by mentioning culture-specific symptom presentations (e.g. a very long time of mourning is regarded as a sign of depression in some cultures, but not in others), the inclusion of cultural factors into diagnostic criteria is seen as a political decision, but not a scientifically founded one. The Western viewpoint when defining mental illnesses also creates a cultural blind spot: Manuals rarely discuss how Western lifestyles and cultures may modify or hide symptoms of mental illnesses.
+
+Still no causal classification of mental disorders
+A patient with a paralysis is referred to an oncologist if the condition is caused by a cancer metastasis in the spinal cord; a treatment by a neurologist is a secondary consideration. Likewise, renal insufficiency is sometimes caused by heart problems, and the treatment is thus led by a cardiologist. In psychiatry, however, grouping mental disorders by their cause is still an unsolved problem. Psychiatric textbooks and manuals cluster disorders by symptoms, which is thought to impede the search for effective treatments. This has been compared to an ornithologist's field guide: It allows you to identify birds, but it does not tell you why a species exists in biotope A but not B.
+
+Diseases with unknown cause
+There are numerous diseases for which causes are not known. There are others for which the etiology is fully or partially understood, but for which effective treatments are not yet available.
+Idiopathic is a descriptive term used in medicine to denote diseases with an unknown cause or mechanism of apparent spontaneous origin. Examples of idiopathic diseases include: Idiopathic pulmonary fibrosis, Idiopathic intracranial hypertension, and Idiopathic pulmonary haemosiderosis. Another example is that the cause of aggressive periodontitis – resulting in rapid bone loss and teeth in need of extraction – is still unknown.
+
+Mechanisms of action
+It is sometimes unknown how drugs work. Often it is possible to study gene expression in a model organism, and determine the genes that are inhibited by a certain substance, and make further inferences from this data. A classical example of an unknown mechanism of action is the mechanism of general anesthesia. Other examples are paracetamol, antidepressants and lithium.
+
+
+== References ==

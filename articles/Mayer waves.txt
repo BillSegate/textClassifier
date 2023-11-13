@@ -1,0 +1,8 @@
+Mayer waves are cyclic changes or waves in arterial blood pressure brought about by oscillations in baroreceptor and chemoreceptor reflex control systems. The waves are seen both in the ECG and in continuous blood pressure curves and have a frequency about 0.1 Hz (10-second waves). These waves were originally described by Siegmund Mayer, Ewald Hering and Ludwig Traube hence originally called "Traube–Hering–Mayer waves".
+Mayer waves can be defined as arterial blood pressure (AP) oscillations at frequencies slower than respiratory frequency and  which show the strongest, significant coherence (strength of linear coupling between fluctuations of two variables in the frequency domain) with efferent sympathetic nervous activity (SNA). In humans, AP oscillations which meet these properties have a characteristic frequency of approx. 0.1 Hz; 0.3 Hz in rabbits and 0.4 Hz in rats.The hemodynamic basis of Mayer waves are oscillations of the sympathetic vasomotor tone of arterial blood vessels, because Mayer waves are abolished or at least strongly attenuated by pharmacological blockade of alpha-adrenoreceptors. Within a given biological species, their frequency is fairly stable; in humans it has been shown that this frequency does not depend on gender, age or posture. It has been suggested that Mayer waves trigger the liberation of endothelium-derived nitric oxide (NO) by cyclic changes of vascular shear stress which could be beneficial to end organ functioning.Mayer waves are correlated with heart rate variability.Takalo et al. (1999) state that "the frequency shift of Mayer waves to lower frequencies is associated with an increased risk of developing established hypertension."
+
+See also
+Vasomotion
+
+
+== References ==

@@ -1,0 +1,13 @@
+Tonic in physiology refers to a physiological response which is slow and may be graded.  This term is typically used in opposition to a fast response.  For instance, tonic muscles are contrasted by the more typical and much faster twitch muscles, while tonic sensory nerve endings are contrasted to the much faster phasic sensory nerve endings.
+
+Tonic muscles
+Tonic muscles are much slower than twitch fibers in terms of time from stimulus to full activation, time to full relaxation upon cessation of stimuli, and maximal shortening velocity. These muscles are rarely found in mammals (only in the muscles moving the eye and in the middle ear), but are common in reptiles and amphibians.
+
+Tonic sensory receptors
+Tonic sensory input adapts slowly to a stimulus and continues to produce action potentials over the duration of the stimulus. In this way it conveys information about the duration of the stimulus. In contrast, phasic receptors adapt rapidly to a stimulus. The response of the cell diminishes very quickly and then stops. It does not provide information on the duration of the stimulus; instead some of them convey information on rapid changes in stimulus intensity and rate. Examples of tonic receptors are pain receptors, the joint capsule, muscle spindle, and the Ruffini corpuscle.
+
+See also
+Tonic-clonic seizure
+
+
+== References ==

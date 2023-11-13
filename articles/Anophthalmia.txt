@@ -1,0 +1,66 @@
+Anophthalmia (Greek: ἀνόφθαλμος, "without eye") is the medical term for the absence of one or both eyes. Both the globe (human eye) and the ocular tissue are missing from the orbit. The absence of the eye will cause a small bony orbit, a constricted mucosal socket, short eyelids, reduced palpebral fissure and malar prominence. Genetic mutations, chromosomal abnormalities, and prenatal environment can all cause anophthalmia. Anophthalmia is an extremely rare disease and is mostly rooted in genetic abnormalities. It can also be associated with other syndromes.
+
+Causes
+SOX2
+The most common genetic cause for anophthalmia is mutated SOX2 gene. Sox2 anophthalmia syndrome is caused by a mutation in the Sox2 gene that does not allow it to produce the Sox2 protein that regulates the activity of other genes by binding to certain regions of DNA. Without this Sox2 protein, the activity of genes that is important for the development of the eye is disrupted. Sox2 anophthalmia syndrome is an autosomal dominant inheritance, but the majority of patients who have Sox2 anophthalmia are the first in their family history to have this mutation. In certain cases, one parent will possess the mutated gene only in their egg or sperm cell and the offspring will inherit it through that. This is called germline mosaicism. There are at least 33 mutations in the Sox2 gene that have been known to cause anophthalmia. Some of these gene mutations will cause the Sox2 protein not to be formed, while other mutations will yield a non-functional version of this protein.
+
+RBP4
+RBP4 has recently been linked to autosomal dominant form of anophthalmia. This form of anophthalmia has variable penetrance and a unique maternal inheritance effect that is rooted in pregnancy. Specifically, the disease only occurs when a mother and fetus both carry a RBP4 mutation which predisposes the fetus to vitamin A deficiency (a known environmental risk factor for anophthalmia) during pregnancy. If Vitamin A deficiency occurs during the first several months when the eye is developing, it may lead to anophthalmia. This form of anophthalmia is the first that may be intervened upon with vitamin A supplementation of retinyl esters during the first several months of pregnancy. This strategy exploits an RBP-independent pathway. Clinical research is underway. See RBP4 for more information.
+
+Other influential genes
+SOX2 and RBP4 are not the only genes that can cause anophthalmia.  Other important genes include OTX2, CHX10 and RAX. Each of these genes are an important in retinal expression. Mutations in these genes can cause a failure of retinal differentiation. OTX2 is dominantly inherited. Mutation effects vary in severity, and can include microphthalmia. BMP4 is also linked to anophthalmia, as well as causing myopia and microphthalmia. It is dominantly inherited. BMP4 interacts with the Sonic hedgehog (SHH) pathway and can cause anophthalmia.
+
+Environmental influence
+Many environmental conditions have also been known to cause anophthalmia. The strongest support for environmental causes has been studies where children have had gestational-acquired infections. These infections are typically viral. A few known pathogens that can cause anophthalmia are Toxoplasma, rubella, and certain strains of the influenza virus. Other known environmental conditions that have led to anophthalmia are maternal vitamin A deficiency, exposure to X-rays during gestation, solvent abuse, and exposure to thalidomide.
+
+Chromosome 14
+An interstitial deletion of chromosome 14 has been known to occasionally be the source of anophthalmia. The deletion of this region of chromosome has also been associated with patients having a small tongue, and high arched palate, developmental and growth retardation, undescended testes with a micropenis, and hypothyroidism. The region that has been deleted is region q22.1-q22.3. This confirms that region 22 on chromosome 14 influences the development of the eye.
+
+Classifications
+There are three classifications for this condition:
+
+Primary anophthalmia is a complete absence of eye tissue due to a failure of the part of the brain that forms the eye.
+Secondary anophthalmia the eye starts to develop and for some reason stops, leaving the infant with only residual eye tissue or extremely small eyes which can only be seen under close examination.
+Degenerative anophthalmia the eye started to form and, for some reason, degenerated. One reason for this occurring could be a lack of blood supply to the eye.
+
+Prenatal diagnosis
+Ultrasounds
+Ultrasounds can be used to diagnose anophthalmia during gestation. Due to the resolution of the ultrasound, it is difficult to diagnose it until the second trimester. The earliest time to detect anophthalmia this way is approximately 20 weeks.
+
+Amniocentesis
+It is possible to diagnose prenatally with amniocentesis, but it may not show a correct negative result. Amniocentesis can only diagnose anophthalmia when there is a chromosomal abnormality. Chromosomal abnormalities are only a minority of cases of anophthalmia.
+
+Postnatal diagnosis
+MRI/CT
+MRIs and CTs can be used to scan the brain and orbits. Radiologists use this to assess the internal structures of the globe, the optic nerve and extraocular muscles, and brain anatomy.
+
+Examination
+Physicians, specifically ophthalmologists, can examine the child and give a correct diagnosis. Some will do molecular genetics tests to see if the cause is linked with gene mutations. 
+Genetic testing can include chromosomal microarray analysis, single-gene testing, or multigene-panel testing. Genomic testing including exome sequencing, genome sequencing, and mitochondrial sequencing may be considered if single-gene testing or use of a multigene panel fails to confirm a molecular diagnosis.
+
+Associations
+There are a few conditions that are associated with Anophthalmia. These include:
+Trisomy 13
+Lenz Syndrome
+Goldenhar-Gorlin Syndrome
+Waardenburg syndromeAside from these associative conditions, anophthalmia in only one eye tends to be associated with complications in the other eye. These risks include a higher chance of having glaucoma or a detached retina.
+
+Treatments
+Prosthetic eye
+Currently, there is not a treatment option for regaining vision by developing a new eye. There are, however, cosmetic options so the absence of the eye is not as noticeable. Typically, the child will need to go to an ocularist to have conformers fitted into the eye. Conformers are made of clear plastic and are fitted into the socket to promote socket growth and expansion. As the child's face grows and develops, the conformer will need to be changed. An expander may also be needed in anophthalmia to expand the socket that is present. The conformer is changed every few weeks the first two years of life. After that, a painted prosthetic eye can be fitted for the child's socket. The prosthetic eye can be cleaned with mild baby soap and water. Rubbing alcohol should be avoided because it may damage the prosthetic eye. Children need to be checked regularly to ensure the fit and size is appropriate.A Cochrane Review published in 2016 asked the question would the type of material used to make the prosthetic eye affect the success of the operation?  Prosthetic eyes can be made from two types of material; porous or non-porous material. "If the material is porous then the artificial eye can become integrated into the body because new blood vessels can grow into the material. If the material is non‐porous, then the artificial eye remains separate from the rest of the body's tissue." After assessing three studies, the review concluded that there wasn't enough evidence to conclude which material was better.
+
+Cosmetic surgery
+If the proper actions are not taken to expand the orbit, many physical deformities can appear. It is important that if these deformities do appear, that surgery is not done until at least the first two years of life. Many people get eye surgery, such as upper eyelid ptosis surgery and lower eyelid tightening. These surgeries can restore the function of the surrounding structures like the eyelid in order to create the best appearance possible. This is more common with people who have degenerative anophthalmia.
+
+Epidemiology
+Anophthalmia has been reported to be present in 3 out of every 100,000 births. Many instances of anophthalmia also occur with microphthalmia. A recent study in the UK indicated that anophthalmia and microphthalmia had a combined average of 1 in every 10,000 births. The annual rate of occurrence of anophthalmia/microphthalmia in the United States is about 780 children born/year. The most extensive epidemiological survey on this congenital malformation has been carried out by Dharmasena et al. and using English National Hospital Episode Statistics, they calculated the annual incidence of anophthalmia, microphthalmia and congenital malformations of orbit/lacrimal apparatus from 1999 to 2011. According to this study the incidence of congenital anophthalmia ranged from 2.4 (95% CI 1.3 to 4.0) per 100 000 infants in 1999 to 0.4 (0 to 1.3) in 2011.    Parents that already have a child who has anophthalmia have a 1 in 8 chance of having another child with anophthalmia. Approximately 2/3 of all cases of anophthalmia are determined to be of genetic basis. Anophthalmia is one of the leading causes of congenital blindness and accounts for 3-11% of blindness in children. Anophthalmia and microphthalmia together make up 1.7-1.8% of reconstructive surgical cases in laboratory of plastic surgery and ocular prostheses.
+
+References
+External links
+
+MAPS – Support group for parents with anophthalmic and microphthalmic children
+International Children's Anophthalmia and Microphthalmia Network (ICAN)
+Microphthalmia Anophthalmia & Coloboma Support (MACS) – Charity offering support and information for people affected by microphthalmia, anophthalmia, and coloboma
+National Eye Institute (NEI) – Resources
+GeneReviews/NCBI/NIH/UW entry on anophthalmia / microphthalmia
+NCBI/Molecular diagnosis of anophthalmia / microphthalmia
