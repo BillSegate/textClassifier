@@ -3,12 +3,14 @@ import re
 import time
 from logger import log
 
+
 # init wikipedia API
 userAgent = 'textClassifier (NLP project)'
 WIKI = wikipediaapi.Wikipedia(language='en', user_agent=userAgent)
 # categories
 MEDICAL_CATEGORY = 'Medicine'
 OTHER_CATEGORIES = ['Physics', 'Mathematics', 'Human impact on the environment']
+
 
 # Utils function
 def makeValidFilename(title: str) -> str:
@@ -19,7 +21,7 @@ def makeValidFilename(title: str) -> str:
     return validChars
 
 # given the category members retrieve titles from leaves in the category tree
-def retrieveTitles(categoryMembers, level=0, max_level=1):
+def retrieveTitles(categoryMembers: dict, level: int=0, max_level: int=1) -> list:
     titles = []
     for c in categoryMembers.values():
         # if there is a subcategory and it can go lower in the category tree.
@@ -58,7 +60,7 @@ def retrieveArticles(titles: list, isMedical: bool) -> None:
         k += 1
 
 def retrieve(category: str, isMedical: bool) -> None:
-    start_time = time.time()
+    startTime = time.time()
     log(f'Retrieving category: {category}')
     # retrieve primary category
     categoryResult = WIKI.page('Category:' + category)
@@ -69,7 +71,7 @@ def retrieve(category: str, isMedical: bool) -> None:
     # retrieve all articles
     retrieveArticles(titles, isMedical)
     
-    log(f'{category} retrieved in {time.time() - start_time} seconds!')
+    log(f'{category} retrieved in {time.time() - startTime} seconds!')
 
 def main():
     # first retrieve medical articles

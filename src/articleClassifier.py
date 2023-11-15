@@ -4,6 +4,8 @@ from logger import log
 import os
 import re
 import json
+import time
+
 
 # nltk stuff
 stoplist = stopwords.words('english')
@@ -12,6 +14,7 @@ lemmatizer = WordNetLemmatizer()
 # path to articles
 PATH_MEDICAL_ARTICLES = 'data/medicalArticles'
 PATH_OTHER_ARTICLES = 'data/otherArticles'
+
 
 # perform the stopwords elimination
 def deleteStopwords(article: str) -> str:
@@ -26,7 +29,6 @@ def removeNonAlphanumeric(article: str) -> str:
 def lemmatizeArticle(article: list) -> list:
     return [lemmatizer.lemmatize(word) for word in article]
 
-
 # count document occurrences
 def countOccurrences(occurrencesDict: dict, article: set) -> None:
     for word in article:
@@ -34,6 +36,15 @@ def countOccurrences(occurrencesDict: dict, article: set) -> None:
             occurrencesDict[word] += 1
         else:
             occurrencesDict[word] = 1
+
+def calculateDocFrequency(occurrencesDict: dict) -> dict:
+    frequenciesDict = {}
+    # sum all occurrences
+    totalOccurrences = sum(occurrencesDict.values())
+    for (word, occurrence) in occurrencesDict.items():
+        frequenciesDict[word] = occurrence / totalOccurrences
+    
+    return frequenciesDict
 
 def performPreProcessing(article: str) -> list:
     # remove non alphanumeric 
@@ -51,9 +62,11 @@ def createBoW(isMedical: bool) -> None:
     if isMedical:
         pathToArticles = PATH_MEDICAL_ARTICLES
         jsonName = 'data/medicalOccurrences.json'
+        frequenciesFile = 'data/medicalFrequencies.json'
     else:
         pathToArticles = PATH_OTHER_ARTICLES
         jsonName = 'data/otherOccurrences.json'
+        frequenciesFile = 'data/otherFrequencies.json'
 
     # get files in the article folder
     articlesDirectory = os.listdir(pathToArticles)
@@ -82,9 +95,82 @@ def createBoW(isMedical: bool) -> None:
     with open(jsonName, 'w', encoding='utf-8') as jsonFile:
         json.dump(occurrencesDict, jsonFile, indent=2)
 
+    frequenciesDict = dict(sorted(calculateDocFrequency(occurrencesDict=occurrencesDict).items(), key=lambda item: item[1], reverse=True))
+
+    # save frequencies in a json file
+    with open(frequenciesFile, 'w', encoding='utf-8') as jsonFile:
+        json.dump(frequenciesDict, jsonFile, indent=2)
+
+# 
+def testArticle(article: list, filename: str) -> None:
+    medicalFrequency = {}
+    otherFrequency = {}
+
+    with open('data/medicalFrequencies.json', 'r', encoding='utf-8') as medFreq:
+        lines = medFreq.readlines()
+        # clear the text 
+        text = ''
+        for line in lines:
+            text += line.strip() + '\n'
+    
+        medicalFrequency = json.loads(text)
+
+    with open('data/otherFrequencies.json', 'r', encoding='utf-8') as otherFreq:
+        lines = otherFreq.readlines()
+        # clear the text 
+        text = ''
+        for line in lines:
+            text += line.strip() + '\n'
+    
+        otherFrequency = json.loads(text)
+
+    totalMedProduct = 0
+    totalOtherProduct = 0
+    for word in article: 
+        if word in medicalFrequency:
+            probMedWord = 1 - medicalFrequency[word]
+            if totalMedProduct == 0:
+                totalMedProduct = probMedWord
+            else:
+                totalMedProduct *= probMedWord
+        
+        if word in otherFrequency:
+            probOtherWord = 1 - otherFrequency[word]
+            if totalOtherProduct == 0:
+                totalOtherProduct = probOtherWord
+            else:
+                totalOtherProduct *= probOtherWord
+    medicalProb = 1 - totalMedProduct
+    otherProb = 1 - totalOtherProduct
+    
+    if(medicalProb > otherProb):
+        log(f'{filename} is a medical article with {medicalProb * 100}% probability')
+        log(otherProb)
+    else:
+        log(f'{filename} is a non-medical article with {medicalProb * 100}% probability')
+
+# 
 def main():
-    createBoW(True)
-    createBoW(False)
+    log('Start creating BoWs...')
+    startTime = time.time()
+    createBoW(isMedical=True)
+    createBoW(isMedical=False)
+    log(f'Finished in {time.time() - startTime} seconds!')
+
+    # get files in the article folder
+    testArticlesDirectory = os.listdir('data/testArticles')
+    # for each file read the article
+    for testFile in testArticlesDirectory:
+        filepath =  'data/testArticles' + '/' + testFile
+        with open(filepath, 'r', encoding='utf-8') as file:
+            lines = file.readlines()
+            
+            text = ''
+            for line in lines:
+                text += line.strip() + '\n'
+
+            text = performPreProcessing(text)
+            testArticle(text, testFile)
 
 
 if __name__ == '__main__':
