@@ -1,0 +1,86 @@
+In mathematics and its applications, the mean square is normally defined as the arithmetic mean of the squares of a set of numbers or of a random variable.It may also be defined as the arithmetic mean of the squares of the deviations between a set of numbers and a reference value (e.g., may be a mean or an assumed mean of the data), in which case it may be known as mean square deviation.
+When the reference value is the assumed true value, the result is known as mean squared error.
+A typical estimate for the sample variance from a set of sample values 
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+      
+    
+    {\displaystyle x_{i}}
+   uses a divisor of the number of values minus one, n-1, rather than n as in a simple quadratic mean, and this is still called the "mean square" (e.g. in analysis of variance):
+
+  
+    
+      
+        
+          s
+          
+            2
+          
+        
+        =
+        
+          
+            
+              1
+              
+                n
+                −
+                1
+              
+            
+          
+          ∑
+          (
+          
+            x
+            
+              i
+            
+          
+          −
+          
+            
+              
+                x
+                ¯
+              
+            
+          
+          
+            )
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle s^{2}=\textstyle {\frac {1}{n-1}}\sum (x_{i}-{\bar {x}})^{2}}
+  The second moment of a random variable, 
+  
+    
+      
+        E
+        (
+        
+          X
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle E(X^{2})}
+   is also called the mean square.
+The square root of a mean square is known as the root mean square (RMS or rms), and can be used as an estimate of the standard deviation of a random variable.
+
+
+== References ==

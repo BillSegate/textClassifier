@@ -1,0 +1,1311 @@
+In mathematics, hypercomplex number is a traditional term for an element of a finite-dimensional unital algebra over the field of real numbers. 
+The study of hypercomplex numbers in the late 19th century forms the basis of modern group representation theory.
+
+History
+In the nineteenth century number systems called quaternions, tessarines, coquaternions, biquaternions, and octonions became established concepts in mathematical literature, added to the real and complex numbers. The concept of a hypercomplex number covered them all, and called for a discipline to explain and classify them.
+The cataloguing project began in 1872 when Benjamin Peirce first published his Linear Associative Algebra, and was carried forward by his son Charles Sanders Peirce.  Most significantly, they identified the nilpotent and the idempotent elements as useful hypercomplex numbers for classifications. The Cayley–Dickson construction used involutions to generate complex numbers, quaternions, and octonions out of the real number system. Hurwitz and Frobenius proved theorems that put limits on hypercomplexity: Hurwitz's theorem says finite-dimensional real composition algebras are the reals 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  , the complexes 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+  , the quaternions 
+  
+    
+      
+        
+          H
+        
+      
+    
+    {\displaystyle \mathbb {H} }
+  , and the octonions 
+  
+    
+      
+        
+          O
+        
+      
+    
+    {\displaystyle \mathbb {O} }
+  , and the Frobenius theorem says the only real associative division algebras are 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  , 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+  , and 
+  
+    
+      
+        
+          H
+        
+      
+    
+    {\displaystyle \mathbb {H} }
+  . In 1958 J. Frank Adams published a further generalization in terms of Hopf invariants on H-spaces which still limits the dimension to 1, 2, 4, or 8.It was matrix algebra that harnessed the hypercomplex systems. First, matrices contributed new hypercomplex numbers like 2 × 2 real matrices (see Split-quaternion). Soon the matrix paradigm began to explain the others as they became represented by matrices and their operations.  In 1907 Joseph Wedderburn showed that associative hypercomplex systems could be represented by square matrices, or direct product of algebras of square matrices. From that date the preferred term for a hypercomplex system became associative algebra as seen in the title of Wedderburn's thesis at University of Edinburgh. Note however, that non-associative systems like octonions and  hyperbolic quaternions represent another type of hypercomplex number.
+As Hawkins explains, the hypercomplex numbers are stepping stones to learning about Lie groups and group representation theory. For instance, in 1929 Emmy Noether wrote on "hypercomplex quantities and representation theory". In 1973 Kantor and Solodovnikov published a textbook on hypercomplex numbers which was translated in 1989.Karen Parshall has written a detailed exposition of the heyday of hypercomplex numbers, including the role of mathematicians including Theodor Molien and Eduard Study. For the transition to modern algebra, Bartel van der Waerden devotes thirty pages to hypercomplex numbers in his History of Algebra.
+
+Definition
+A definition of a hypercomplex number is given by Kantor & Solodovnikov (1989) as an element of a unital, but not necessarily associative or commutative, finite-dimensional algebra over the real numbers. Elements are generated with real number coefficients 
+  
+    
+      
+        (
+        
+          a
+          
+            0
+          
+        
+        ,
+        …
+        ,
+        
+          a
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle (a_{0},\dots ,a_{n})}
+   for a basis 
+  
+    
+      
+        {
+        1
+        ,
+        
+          i
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          i
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{1,i_{1},\dots ,i_{n}\}}
+  . Where possible, it is conventional to choose the basis so that 
+  
+    
+      
+        
+          i
+          
+            k
+          
+          
+            2
+          
+        
+        ∈
+        {
+        −
+        1
+        ,
+        0
+        ,
+        +
+        1
+        }
+      
+    
+    {\displaystyle i_{k}^{2}\in \{-1,0,+1\}}
+  . A technical approach to hypercomplex numbers directs attention first to those of dimension two.
+
+Two-dimensional real algebras
+Theorem:: 14, 15  Up to isomorphism, there are exactly three 2-dimensional unital algebras over the reals: the ordinary complex numbers, the split-complex numbers, and the dual numbers. In particular, every 2-dimensional unital algebra over the reals is associative and commutative.
+Proof: Since the algebra is 2-dimensional, we can pick a basis {1, u}.  Since the algebra is closed under squaring, the non-real basis element u squares to a linear combination of 1 and u:
+
+  
+    
+      
+        
+          u
+          
+            2
+          
+        
+        =
+        
+          a
+          
+            0
+          
+        
+        +
+        
+          a
+          
+            1
+          
+        
+        u
+      
+    
+    {\displaystyle u^{2}=a_{0}+a_{1}u}
+  for some real numbers a0 and a1.
+Using the common method of completing the square by subtracting a1u and adding the quadratic complement a21 / 4 to both sides yields
+
+  
+    
+      
+        
+          u
+          
+            2
+          
+        
+        −
+        
+          a
+          
+            1
+          
+        
+        u
+        +
+        
+          
+            1
+            4
+          
+        
+        
+          a
+          
+            1
+          
+          
+            2
+          
+        
+        =
+        
+          a
+          
+            0
+          
+        
+        +
+        
+          
+            1
+            4
+          
+        
+        
+          a
+          
+            1
+          
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle u^{2}-a_{1}u+{\frac {1}{4}}a_{1}^{2}=a_{0}+{\frac {1}{4}}a_{1}^{2}.}
+  Thus 
+  
+    
+      
+        
+          
+            (
+            
+              u
+              −
+              
+                
+                  1
+                  2
+                
+              
+              
+                a
+                
+                  1
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+        =
+        
+          
+            
+              
+                u
+                ~
+              
+            
+          
+          
+            2
+          
+        
+      
+    
+    {\textstyle \left(u-{\frac {1}{2}}a_{1}\right)^{2}={\tilde {u}}^{2}}
+   where 
+  
+    
+      
+        
+          
+            
+              
+                u
+                ~
+              
+            
+          
+          
+            2
+          
+        
+         
+        =
+        
+          a
+          
+            0
+          
+        
+        +
+        
+          
+            1
+            4
+          
+        
+        
+          a
+          
+            1
+          
+          
+            2
+          
+        
+        .
+      
+    
+    {\textstyle {\tilde {u}}^{2}~=a_{0}+{\frac {1}{4}}a_{1}^{2}.}
+  
+The three cases depend on this real value:
+
+If 4a0 = −a12, the above formula yields ũ2 = 0. Hence, ũ can directly be identified with the nilpotent element 
+  
+    
+      
+        ϵ
+      
+    
+    {\displaystyle \epsilon }
+   of the basis 
+  
+    
+      
+        {
+        1
+        ,
+         
+        ϵ
+        }
+      
+    
+    {\displaystyle \{1,~\epsilon \}}
+   of the dual numbers.
+If 4a0 > −a12, the above formula yields ũ2 > 0. This leads to the split-complex numbers which have normalized basis 
+  
+    
+      
+        {
+        1
+        ,
+         
+        j
+        }
+      
+    
+    {\displaystyle \{1,~j\}}
+   with 
+  
+    
+      
+        
+          j
+          
+            2
+          
+        
+        =
+        +
+        1
+      
+    
+    {\displaystyle j^{2}=+1}
+  . To obtain j from ũ, the latter must be divided by the positive real number 
+  
+    
+      
+        a
+        
+          :=
+        
+        
+          
+            
+              a
+              
+                0
+              
+            
+            +
+            
+              
+                1
+                4
+              
+            
+            
+              a
+              
+                1
+              
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\textstyle a\mathrel {:=} {\sqrt {a_{0}+{\frac {1}{4}}a_{1}^{2}}}}
+   which has the same square as ũ has.
+If 4a0 < −a12, the above formula yields ũ2 < 0. This leads to the complex numbers which have normalized basis 
+  
+    
+      
+        {
+        1
+        ,
+         
+        i
+        }
+      
+    
+    {\displaystyle \{1,~i\}}
+   with 
+  
+    
+      
+        
+          i
+          
+            2
+          
+        
+        =
+        −
+        1
+      
+    
+    {\displaystyle i^{2}=-1}
+  . To yield i from ũ, the latter has to be divided by a positive real number 
+  
+    
+      
+        a
+        
+          :=
+        
+        
+          
+            
+              
+                1
+                4
+              
+            
+            
+              a
+              
+                1
+              
+              
+                2
+              
+            
+            −
+            
+              a
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\textstyle a\mathrel {:=} {\sqrt {{\frac {1}{4}}a_{1}^{2}-a_{0}}}}
+   which squares to the negative of ũ2.The complex numbers are the only 2-dimensional hypercomplex algebra that is a field.
+Algebras such as the split-complex numbers that include non-real roots of 1 also contain idempotents 
+  
+    
+      
+        
+          
+            1
+            2
+          
+        
+        (
+        1
+        ±
+        j
+        )
+      
+    
+    {\textstyle {\frac {1}{2}}(1\pm j)}
+   and zero divisors 
+  
+    
+      
+        (
+        1
+        +
+        j
+        )
+        (
+        1
+        −
+        j
+        )
+        =
+        0
+      
+    
+    {\displaystyle (1+j)(1-j)=0}
+  , so such algebras cannot be division algebras. However, these properties can turn out to be very meaningful, for instance in describing the Lorentz transformations of special relativity.
+In a 2004 edition of Mathematics Magazine the 2-dimensional real algebras have been styled the "generalized complex numbers". The idea of cross-ratio of four complex numbers can be extended to the 2-dimensional real algebras.
+
+Higher-dimensional examples (more than one non-real axis)
+Clifford algebras
+A Clifford algebra is the unital associative algebra generated over an underlying vector space equipped with a quadratic form. Over the real numbers this is equivalent to being able to define a symmetric scalar product, u ⋅ v = 1/2(uv + vu) that can be used to orthogonalise the quadratic form, to give a basis {e1, ..., ek}  such that:
+
+Imposing closure under multiplication generates a multivector space spanned by a basis of 2k elements, {1, e1, e2, e3, ..., e1e2, ..., e1e2e3, ...}.  These can be interpreted as the basis of a hypercomplex number system. Unlike the basis {e1, ..., ek}, the remaining basis elements need not anti-commute, depending on how many simple exchanges must be carried out to swap the two factors.  So e1e2 = −e2e1, but e1(e2e3) = +(e2e3)e1.
+Putting aside the bases which contain an element ei such that ei2 = 0 (i.e. directions in the original space over which the quadratic form was degenerate), the remaining Clifford algebras can be identified by the label Clp,q(
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  ), indicating that the algebra is constructed from p simple basis elements with ei2 = +1, q with ei2 = −1, and where 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+   indicates that this is to be a Clifford algebra over the reals—i.e. coefficients of elements of the algebra are to be real numbers.
+These algebras, called geometric algebras, form a systematic set, which turn out to be very useful in physics problems which involve rotations, phases, or spins, notably in classical and quantum mechanics, electromagnetic theory and relativity.
+Examples include: the complex numbers Cl0,1(
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  ), split-complex numbers Cl1,0(
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  ), quaternions Cl0,2(
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  ), split-biquaternions Cl0,3(
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  ), split-quaternions Cl1,1(
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  ) ≈ Cl2,0(
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  ) (the natural algebra of two-dimensional space); Cl3,0(
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  ) (the natural algebra of three-dimensional space, and the algebra of the Pauli matrices); and the spacetime algebra Cl1,3(
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  ).
+The elements of the algebra Clp,q(
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  ) form an even subalgebra Cl[0]q+1,p(
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  ) of the algebra Clq+1,p(
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  ), which can be used to parametrise rotations in the larger algebra.  There is thus a close connection between complex numbers and rotations in two-dimensional space; between quaternions and rotations in three-dimensional space; between split-complex numbers and (hyperbolic) rotations (Lorentz transformations) in 1+1-dimensional space, and so on.
+Whereas Cayley–Dickson and split-complex constructs with eight or more dimensions are not associative with respect to multiplication, Clifford algebras retain associativity at any number of dimensions.
+In 1995 Ian R. Porteous wrote on "The recognition of subalgebras" in his book on Clifford algebras. His Proposition 11.4 summarizes the hypercomplex cases:
+Let A be a real associative algebra with unit element 1. Then
+1 generates 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+   (algebra of real numbers),
+any two-dimensional subalgebra generated by an element e0 of A such that e02 = −1 is isomorphic to 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   (algebra of complex numbers),
+any two-dimensional subalgebra generated by an element e0 of A such that e02 = 1 is isomorphic to 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  2 (pairs of real numbers with component-wise product, isomorphic to the algebra of split-complex numbers),
+any four-dimensional subalgebra generated by a set {e0, e1} of mutually anti-commuting elements of A such that 
+  
+    
+      
+        
+          e
+          
+            0
+          
+          
+            2
+          
+        
+        =
+        
+          e
+          
+            1
+          
+          
+            2
+          
+        
+        =
+        −
+        1
+      
+    
+    {\displaystyle e_{0}^{2}=e_{1}^{2}=-1}
+   is isomorphic to 
+  
+    
+      
+        
+          H
+        
+      
+    
+    {\displaystyle \mathbb {H} }
+   (algebra of quaternions),
+any four-dimensional subalgebra generated by a set {e0, e1} of mutually anti-commuting elements of A such that 
+  
+    
+      
+        
+          e
+          
+            0
+          
+          
+            2
+          
+        
+        =
+        
+          e
+          
+            1
+          
+          
+            2
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle e_{0}^{2}=e_{1}^{2}=1}
+   is isomorphic to M2(
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  ) (2 × 2 real matrices, coquaternions),
+any eight-dimensional subalgebra generated by a set {e0, e1, e2} of mutually anti-commuting elements of A such that 
+  
+    
+      
+        
+          e
+          
+            0
+          
+          
+            2
+          
+        
+        =
+        
+          e
+          
+            1
+          
+          
+            2
+          
+        
+        =
+        
+          e
+          
+            2
+          
+          
+            2
+          
+        
+        =
+        −
+        1
+      
+    
+    {\displaystyle e_{0}^{2}=e_{1}^{2}=e_{2}^{2}=-1}
+   is isomorphic to 2
+  
+    
+      
+        
+          H
+        
+      
+    
+    {\displaystyle \mathbb {H} }
+   (split-biquaternions),
+any eight-dimensional subalgebra generated by a set {e0, e1, e2} of mutually anti-commuting elements of A such that 
+  
+    
+      
+        
+          e
+          
+            0
+          
+          
+            2
+          
+        
+        =
+        
+          e
+          
+            1
+          
+          
+            2
+          
+        
+        =
+        
+          e
+          
+            2
+          
+          
+            2
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle e_{0}^{2}=e_{1}^{2}=e_{2}^{2}=1}
+   is isomorphic to M2(
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+  ) (2 × 2 complex matrices, biquaternions, Pauli algebra).
+
+Cayley–Dickson construction
+All of the Clifford algebras Clp,q(
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  ) apart from the real numbers, complex numbers and the quaternions contain non-real elements that square to +1; and so cannot be division algebras.  A different approach to extending the complex numbers is taken by the Cayley–Dickson construction.  This generates number systems of dimension 2n, n = 2, 3, 4, ..., with bases 
+  
+    
+      
+        
+          {
+          
+            1
+            ,
+            
+              i
+              
+                1
+              
+            
+            ,
+            …
+            ,
+            
+              i
+              
+                
+                  2
+                  
+                    n
+                  
+                
+                −
+                1
+              
+            
+          
+          }
+        
+      
+    
+    {\displaystyle \left\{1,i_{1},\dots ,i_{2^{n}-1}\right\}}
+  , where all the non-real basis elements anti-commute and satisfy 
+  
+    
+      
+        
+          i
+          
+            m
+          
+          
+            2
+          
+        
+        =
+        −
+        1
+      
+    
+    {\displaystyle i_{m}^{2}=-1}
+  . In 8 or more dimensions (n ≥ 3) these algebras are non-associative. In 16 or more dimensions (n ≥ 4) these algebras also have zero-divisors.
+The first algebras in this sequence are the four-dimensional quaternions, eight-dimensional octonions, and 16-dimensional sedenions. An algebraic symmetry is lost with each increase in dimensionality: quaternion multiplication is not commutative, octonion multiplication is non-associative, and the norm of sedenions is not multiplicative.
+The Cayley–Dickson construction can be modified by inserting an extra sign at some stages. It then generates the "split algebras" in the collection of composition algebras instead of the division algebras:
+
+split-complex numbers with basis 
+  
+    
+      
+        {
+        1
+        ,
+        
+        
+          i
+          
+            1
+          
+        
+        }
+      
+    
+    {\displaystyle \{1,\,i_{1}\}}
+   satisfying 
+  
+    
+      
+         
+        
+          i
+          
+            1
+          
+          
+            2
+          
+        
+        =
+        +
+        1
+      
+    
+    {\displaystyle \ i_{1}^{2}=+1}
+  ,
+split-quaternions with basis 
+  
+    
+      
+        {
+        1
+        ,
+        
+        
+          i
+          
+            1
+          
+        
+        ,
+        
+        
+          i
+          
+            2
+          
+        
+        ,
+        
+        
+          i
+          
+            3
+          
+        
+        }
+      
+    
+    {\displaystyle \{1,\,i_{1},\,i_{2},\,i_{3}\}}
+   satisfying 
+  
+    
+      
+         
+        
+          i
+          
+            1
+          
+          
+            2
+          
+        
+        =
+        −
+        1
+        ,
+        
+        
+          i
+          
+            2
+          
+          
+            2
+          
+        
+        =
+        
+          i
+          
+            3
+          
+          
+            2
+          
+        
+        =
+        +
+        1
+      
+    
+    {\displaystyle \ i_{1}^{2}=-1,\,i_{2}^{2}=i_{3}^{2}=+1}
+  , and
+split-octonions with basis 
+  
+    
+      
+        {
+        1
+        ,
+        
+        
+          i
+          
+            1
+          
+        
+        ,
+        
+        …
+        ,
+        
+        
+          i
+          
+            7
+          
+        
+        }
+      
+    
+    {\displaystyle \{1,\,i_{1},\,\dots ,\,i_{7}\}}
+   satisfying 
+  
+    
+      
+         
+        
+          i
+          
+            1
+          
+          
+            2
+          
+        
+        =
+        
+          i
+          
+            2
+          
+          
+            2
+          
+        
+        =
+        
+          i
+          
+            3
+          
+          
+            2
+          
+        
+        =
+        −
+        1
+      
+    
+    {\displaystyle \ i_{1}^{2}=i_{2}^{2}=i_{3}^{2}=-1}
+  , 
+  
+    
+      
+         
+        
+          i
+          
+            4
+          
+          
+            2
+          
+        
+        =
+        
+          i
+          
+            5
+          
+          
+            2
+          
+        
+        =
+        
+          i
+          
+            6
+          
+          
+            2
+          
+        
+        =
+        
+          i
+          
+            7
+          
+          
+            2
+          
+        
+        =
+        +
+        1.
+      
+    
+    {\displaystyle \ i_{4}^{2}=i_{5}^{2}=i_{6}^{2}=i_{7}^{2}=+1.}
+  Unlike the complex numbers, the split-complex numbers are not algebraically closed, and further contain nontrivial zero divisors and nontrivial idempotents. As with the quaternions, split-quaternions are not commutative, but further contain nilpotents; they are isomorphic to the square matrices of dimension two. Split-octonions are non-associative and contain nilpotents.
+
+Tensor products
+The tensor product of any two algebras is another algebra, which can be used to produce many more examples of hypercomplex number systems.
+In particular taking tensor products with the complex numbers (considered as algebras over the reals) leads to four-dimensional bicomplex numbers 
+  
+    
+      
+        
+          C
+        
+        
+          ⊗
+          
+            
+              R
+            
+          
+        
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} \otimes _{\mathbb {R} }\mathbb {C} }
+   (isomorphic to tessarines 
+  
+    
+      
+        
+          C
+        
+        
+          ⊗
+          
+            
+              R
+            
+          
+        
+        D
+      
+    
+    {\displaystyle \mathbb {C} \otimes _{\mathbb {R} }D}
+  ), eight-dimensional biquaternions 
+  
+    
+      
+        
+          C
+        
+        
+          ⊗
+          
+            
+              R
+            
+          
+        
+        
+          H
+        
+      
+    
+    {\displaystyle \mathbb {C} \otimes _{\mathbb {R} }\mathbb {H} }
+  , and 16-dimensional complex octonions 
+  
+    
+      
+        
+          C
+        
+        
+          ⊗
+          
+            
+              R
+            
+          
+        
+        
+          O
+        
+      
+    
+    {\displaystyle \mathbb {C} \otimes _{\mathbb {R} }\mathbb {O} }
+  .
+
+Further examples
+bicomplex numbers: a 4-dimensional vector space over the reals, 2-dimensional over the complex numbers, isomorphic to tessarines.
+multicomplex numbers: 2n-dimensional vector spaces over the reals, 2n−1-dimensional over the complex numbers
+composition algebra: algebra with a quadratic form that composes with the product
+
+See also
+Sedenions
+Thomas Kirkman
+Georg Scheffers
+Richard Brauer
+Hypercomplex analysis
+
+References
+Further reading
+External links
+
+"Hypercomplex number", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+Weisstein, Eric W. "Hypercomplex number". MathWorld.
+Study, E., On systems of complex numbers and their application to the theory of transformation groups (PDF) (English translation)
+Frobenius, G., Theory of hypercomplex quantities (PDF) (English translation)

@@ -1,0 +1,140 @@
+In mathematics, the term modulo ("with respect to a modulus of", the Latin ablative of modulus which itself means "a small measure") is often used to assert that two distinct mathematical objects can be regarded as equivalent—if their difference is accounted for by an additional factor. It was initially introduced into mathematics in the context of modular arithmetic by Carl Friedrich Gauss in 1801. Since then, the term has gained many meanings—some exact and some imprecise (such as equating "modulo" with "except for"). For the most part, the term often occurs in statements of the form:
+
+A is the same as B modulo Cwhich is often equivalent to "A is the same as B up to C", and means
+
+A and B are the same—except for differences accounted for or explained by C.
+
+History
+Modulo is a mathematical jargon that was introduced into mathematics in the book Disquisitiones Arithmeticae by Carl Friedrich Gauss in 1801.  Given the integers a, b and n, the expression "a ≡ b (mod n)", pronounced "a is congruent to b modulo n", means that a − b is an integer multiple of n, or equivalently, a and b both share the same remainder when divided by n. It is the Latin ablative of modulus, which itself means "a small measure."The term has gained many meanings over the years—some exact and some imprecise. The most general precise definition is simply in terms of an equivalence relation R, where a is equivalent (or congruent) to b modulo R if aRb. More informally, the term is found in statements of the form:
+
+A is the same as B modulo Cwhich means
+
+A and B are the same—except for differences accounted for or explained by C.
+
+Usage
+Original use
+Gauss originally intended to use "modulo" as follows: given the integers a, b and n, the expression a ≡ b (mod n) (pronounced "a is congruent to b modulo n") means that a − b is an integer multiple of n, or equivalently, a and b both leave the same remainder when divided by n. For example:
+
+13 is congruent to 63 modulo 10means that
+
+13 − 63 is a multiple of 10 (equiv., 13 and 63 differ by a multiple of 10).
+
+Computing
+In computing and computer science, the term can be used in several ways:
+
+In computing, it is typically the modulo operation: given two numbers (either integer or real), a and n, a modulo n is the remainder of the numerical division of a by n, under certain constraints.
+In category theory as applied to functional programming, "operating modulo" is special jargon which refers to mapping a functor to a category by highlighting or defining remainders.
+
+Structures
+The term "modulo" can be used differently—when referring to different mathematical structures. For example:
+
+Two members a and b of a group are congruent modulo a normal subgroup, if and only if ab−1 is a member of the normal subgroup (see quotient group and isomorphism theorem for more).
+Two members of a ring or an algebra are congruent modulo an ideal, if the difference between them is in the ideal.
+Used as a verb, the act of factoring out a normal subgroup (or an ideal) from a group (or ring) is often called "modding out the..." or "we now mod out the...".
+Two subsets of an infinite set are equal modulo finite sets precisely if their symmetric difference is finite, that is, you can remove a finite piece from the first subset, then add a finite piece to it, and get the second subset as a result.
+A short exact sequence of maps leads to the definition of a quotient space as being one space modulo another; thus, for example, that a cohomology is the space of closed forms modulo exact forms.
+
+Modding out
+In general, modding out is a somewhat informal term that means declaring things equivalent that otherwise would be considered distinct. For example, suppose the sequence 1 4 2 8 5 7 is to be regarded as the same as the sequence 7 1 4 2 8 5, because each is a cyclicly-shifted version of the other:
+
+  
+    
+      
+        
+          
+            
+              
+              
+                1
+              
+              
+              
+                4
+              
+              
+              
+                2
+              
+              
+              
+                8
+              
+              
+              
+                5
+              
+              
+              
+                7
+              
+            
+            
+              
+                ↘
+              
+              
+              
+                ↘
+              
+              
+              
+                ↘
+              
+              
+              
+                ↘
+              
+              
+              
+                ↘
+              
+              
+              
+                ↘
+              
+              
+              
+                ↘
+              
+            
+            
+              
+              
+                7
+              
+              
+              
+                1
+              
+              
+              
+                4
+              
+              
+              
+                2
+              
+              
+              
+                8
+              
+              
+              
+                5
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{ccccccccccccc}&1&&4&&2&&8&&5&&7\\\searrow &&\searrow &&\searrow &&\searrow &&\searrow &&\searrow &&\searrow \\&7&&1&&4&&2&&8&&5\end{array}}}
+  In that case, one is "modding out by cyclic shifts".
+
+See also
+Essentially unique
+List of mathematical jargon
+Up to
+
+References
+External links
+Modulo in the Jargon File

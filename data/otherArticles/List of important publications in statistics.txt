@@ -1,0 +1,227 @@
+This is a list of important publications in statistics, organized by field.
+Some reasons why a particular publication might be regarded as important:
+
+Topic creator – A publication that created a new topic
+Breakthrough – A publication that changed scientific knowledge significantly
+Influence – A publication which has significantly influenced the world or has had a massive impact on the teaching of statistics.
+
+Probability
+Théorie analytique des probabilités
+Author: Pierre-Simon Laplace
+Publication data: 1820 (3rd ed.)
+Online version: Internet Archive; CNRS, with more accurate character recognition; Gallica-Math, complete PDF and PDFs by section
+Description: Introduced the Laplace transform, exponential families, and conjugate priors in Bayesian statistics. Pioneering asymptotic statistics, proved an early version of the Bernstein–von Mises theorem on the irrelevance of the (regular) prior distribution on the limiting posterior distribution, highlighting the asymptotic role of the Fisher information. Studies the influence of median and skewness in regression analysis. Inspired the field of robust regression, proposed the Laplace distribution and was the first to provide alternatives to Carl Friedrich Gauss's work on statistics.
+Importance: Topic creator, Breakthrough, Influence
+
+Mathematical statistics
+Mathematical Methods of Statistics
+
+Author: Harald Cramér
+Publication data: Princeton Mathematical Series, vol. 9. Princeton University Press, Princeton, N. J., 1946. xvi+575 pp. (A first version was published by Almqvist & Wiksell in Uppsala, Sweden, but had little circulation because of World War II.)
+Description: Carefully written and extensive account of measure-theoretic probability for statisticians, along with careful mathematical treatment of classical statistics.
+Importance: Made measure-theoretic probability the standard language for advanced statistics in the English-speaking world, following its earlier adoption in France and the USSR.Statistical Decision Functions
+
+Author: Abraham Wald
+Publication data: 1950. John Wiley & Sons.
+Description: Exposition of statistical decision theory as a foundations of statistics. Included earlier results of Wald on sequential analysis and the sequential probability ratio test and on Wald's complete class theorem characterizing admissible decision rules as limits of Bayesian procedures.
+Importance: Raised the mathematical status of statistical theory and attracted mathematical statisticians like John von Neumann, Aryeh Dvoretzky, Jacob Wolfowitz, Jack C. Kiefer, and David Blackwell, providing greater ties with economic theory and operations research. Spurred further work on decision theory.Testing Statistical Hypotheses
+
+Author: Erich Leo Lehmann
+Publication data: 1959. John Wiley & Sons.
+Description: Exposition of statistical hypothesis testing using the statistical decision theory of Abraham Wald, with some use of measure-theoretic probability.
+Importance: Made Wald's ideas accessible. Collected and organized many results of statistical theory that were scattered throughout journal articles, civilizing statistics.
+
+Bayesian statistics
+An Essay towards solving a Problem in the Doctrine of Chances
+
+Author: Thomas Bayes
+Publication data: 1763-12-23
+Online version: "An Essay towards solving a Problem in the Doctrine of Chances. By the late Rev. Mr. Bayes, F.R.S. communicated by Mr. Price, in a Letter to John Canton, A.M. F.R.S." (PDF). Department of Mathematics, University of York.
+Description: In this paper Bayes addresses the problem of using a sequence of identical "trials" to determine the per-trial probability of "success" – the so-called inverse probability problem. It later inspired the theorem that bears his name (Bayes' theorem). See also Pierre Simon de Laplace.
+Importance: Topic creator, Breakthrough, InfluenceOn Small Differences in Sensation
+
+Author: Charles Sanders Peirce and Joseph Jastrow
+Publication data: Peirce, Charles Sanders; Jastrow, Joseph (1885). "On Small Differences in Sensation". Memoirs of the National Academy of Sciences. 3: 73–83.
+Online version: http://psychclassics.yorku.ca/Peirce/small-diffs.htm
+Description: Peirce and Jastrow use logistic regression to estimate subjective probabilities of subjects's judgments of the heavier of two measurements, following a randomized controlled repeated measures design.
+Importance: Pioneered elicitation of subjective probabilities.Truth and Probability
+
+Author: Frank P. Ramsey
+Publication data: * Ramsey, Frank Plumpton; "Truth and Probability" (PDF), Chapter VII in The Foundations of Mathematics and other Logical Essays (1931).
+Online version: https://web.archive.org/web/20080227205205/http://cepa.newschool.edu/het//texts/ramsey/ramsess.pdf
+Description: Ramsey proposes elucidating a person's subjective probability for a proposition using a sequence of bets. Ramsey described his work as an elaboration of some pragmatic ideas of C. S. Peirce, which were expressed in "How to Make Our Ideas Clear".
+Importance: Popularized the "Ramsey test" for eliciting subjective probabilities.Bayesian Inference in Statistical Analysis 
+
+Author: George E. P. Box and George C. Tiao
+Publication data: Addison Wesley Publishing Co., 1973. Reprinted 1992: Wiley ISBN 0471574287
+Description: The first complete analysis of Bayesian Inference for many statistical problems.
+Importance: Includes a large body of research on Bayesian analysis for outlier problems, variance components, linear models and multivariate statistics.Theory of Probability
+
+Author: Bruno de Finetti
+Publication data: Two volumes, A.F.M. Smith and A. Machi (trs.), New York: John Wiley & Sons, Inc., 1974, 1975.
+Description: The first detailed statement of the operational subjective position, dating from the author's research in the 1920s and 30s.
+Importance: Emphasizes exchangeable random variables which are often mixtures of independent random variables. Argues for finitely additive probability measures that need not be countably additive. Emphasizes expectations rather than probability measures.Introduction to statistical decision theory
+
+Author: John W. Pratt, Howard Raiffa, and Robert Schlaifer
+Publication data: preliminary edition, 1965. Cambridge, Mass.: MIT Press, 1995.
+Description: Extensive exposition of statistical decision theory, statistics, and decision analysis from a Bayesian standpoint. Many examples and problems come from business and economics.
+Importance: Greatly extended the scope of applied Bayesian statistics by using conjugate priors for exponential families. Extensive treatment of sequential decision making, for example mining decisions. For many years, it was required for all doctoral students at Harvard Business School.
+
+Multivariate analysis
+An Introduction to Multivariate Analysis
+
+Authors: Theodore W. Anderson
+Publication data: 1958, John Wiley
+Description:
+Importance: This textbook educated a generation of theoretists and applied statisticians, emphasizing hypothesis testing via likelihood ratio tests and the properties of power functions: Admissiblity, unbiasedness and monotonicity.
+
+Time series
+Time Series Analysis Forecasting and Control
+
+Authors: George E.P. Box and Gwilym M. Jenkins
+Publication data: Holden-Day, 1970
+Description: Systematic approach to ARIMA and ARMAX modelling
+Importance: This book introduces ARIMA and associated input-output models, studies how to fit them and develops a methodology for time series forecasting and control. It has changed econometrics, process control and forecasting.
+
+Applied statistics
+Statistical Methods for Research Workers
+
+Author: R.A. Fisher
+Publication data: Edinburgh: Oliver & Boyd, 1925 (1st edition); London: Macmillan, 1970 (15th edition)
+Online version: http://psychclassics.yorku.ca/Fisher/Methods/
+Description: The original manual for researchers, especially biologists, on how to statistically evaluate numerical data.
+Importance: Hugely influential text by the father of modern statistics that remained in print for more than 50 years. Responsible for the widespread use of tests of statistical significance.Statistical Methods
+
+Author: George W. Snedecor
+Publication data: 1937, Collegiate Press
+Description: One of the first comprehensive texts on statistical methods. Reissued as Statistical Methods Applied to Experiments in Agriculture and Biology in 1940 and then again as Statistical Methods with Cochran, WG in 1967. A classic text.
+Importance: InfluencePrinciples and Procedures of Statistics with Special Reference to the Biological Sciences.
+
+Authors: Steel, R.G.D, and Torrie, J. H.
+Publication data: McGraw Hill (1960) 481 pages
+Description: Excellent introductory text for analysis of variance (one-way, multi-way, factorial, split-plot, and unbalanced designs). Also analysis of co-variance, multiple and partial regression and correlation, non-linear regression, and non-parametric analyses. This book was written before computer programmes were available, so it gives the detail needed to make the calculations manually.Cited in more than 1,381 publications between 1961 and 1975.
+Importance: InfluenceBiometry: The Principles and Practices of Statistics in Biological Research 
+
+Authors: Robert R. Sokal; F. J. Rohlf
+Publication data: 1st ed. W. H. Freemann (1969),; 2nd ed. W. H. Freemann (1981); 3rd ed. Freeman & Co. (1994)
+Description:: Key textbook on Biometry: the application of statistical methods for descriptive, experimental, and analytical study of biological phenomena.
+Importance Cited in more than 7,000 publications.
+
+Statistical learning theory
+On the uniform convergence of relative frequencies of events to their probabilities
+
+Authors: V. Vapnik, A. Chervonenkis
+Publication data: Theory of Probability and Its Applications, 16(2):264–280, 1971 doi:10.1137/1116025
+Description: Computational learning theory, VC theory, statistical uniform convergence and the VC dimension.
+Importance: Breakthrough, Influence
+
+Variance component estimation
+On the mathematical foundations of theoretical statistics
+
+Author: Fisher, RA
+Publication data: 1922, Philosophical Transactions of the Royal Society of London, Series A, volume 222, pages 309–368
+Description: First comprehensive treatise of estimation by maximum likelihood.
+Importance: Topic creator, Breakthrough, InfluenceEstimation of variance and covariance components
+
+Author: Henderson, CR
+Publication data: 1953, Biometrics, volume 9, pages 226–252
+Description: First description of three methods of estimation of variance components in mixed linear models for unbalanced data. "One of the most frequently cited papers in the scientific literature."
+Importance: Topic creator, Breakthrough, InfluenceMaximum-likelihood estimation for the mixed analysis of variance model
+
+Author: H. O. Hartley and J. N. K. Rao
+Publication data: 1967, Biometrika, volume 54, pages 93-108 doi:10.1093/biomet/54.1-2.93
+Description: First description of maximum likelihood methods for variance component estimation in mixed models
+Importance: Topic creator, Breakthrough, InfluenceRecovery of inter-block information when block sizes are unequal
+
+Author: Patterson, HD; Thompson, R
+Publication data: 1971, Biometrika, volume 58, pages 545-554 doi:10.1093/biomet/58.3.545
+Description: First description of restricted maximum likelihood (REML)
+Importance: Topic creator, Breakthrough, InfluenceEstimation of Variance and Covariance Components in Linear Models
+
+Author: Rao, CR
+Publication data: 1972, Journal of the American Statistical Association, volume 67, pages. 112–115
+Description: First description of Minimum Variance Quadratic Unbiased Estimation (MIVQUE) and Minimum Norm Quadratic Unbiased Estimation (MINQUE) for unbalanced data
+Importance: Topic creator, Breakthrough, Influence
+
+Survival analysis
+Nonparametric estimation from incomplete observations
+
+Author: Kaplan, EL and Meier, P
+Publication data: 1958, Journal of the American Statistical Association, volume 53, pages 457–481. JSTOR 2281868
+Description: First description of the now ubiquitous Kaplan-Meier estimator of survival functions from data with censored observations
+Importance: Breakthrough, InfluenceA generalized Wilcoxon test for comparing arbitrarily singly-censored samples
+
+Author: Gehan, EA
+Publication data: 1965, Biometrika, volume 52, pages 203–223. doi:10.1093/biomet/52.1-2.203
+Description: First presentation of the extension of the Wilcoxon rank-sum test to censored data
+Importance: InfluenceEvaluation of survival data and two new rank order statistics arising in its consideration
+
+Author: Mantel, N
+Publication data: 1966, Cancer Chemotherapy Reports, volume 50, pages 163–170. PMID 5910392
+Description: Development of the logrank test for censored survival data.
+Importance: Topic creator, Breakthrough, InfluenceRegression Models and Life Tables
+
+Author: Cox, DR
+Publication data: 1972, Journal of the Royal Statistical Society, Series B, volume 34, pages 187–220. JSTOR 2985181
+Description: Seminal paper introducing semi-parametric proportional hazards models (Cox models) for survival data
+Importance: Topic creator, Breakthrough, InfluenceThe Statistical Analysis of Failure Time Data
+
+Author: Kalbfleisch, JD and Prentice, RL
+Publication data: 1980, John Wiley & Sons, New York
+Description: First comprehensive text covering the methods of estimation and inference for time to event analyses
+Importance: Influence
+
+Meta analysis
+Report on Certain Enteric Fever Inoculation Statistics
+
+Author: Pearson, K
+Publication data: 1904, British Medical Journal, volume 2, pages 1243-1246 PMID 20761760
+Description: Generally considered to be the first synthesis of results from separate studies, although no formal statistical methods for combining results are presented.
+Importance: Breakthrough, InfluenceThe Probability Integral Transformation for Testing Goodness of Fit and Combining Independent Tests of Significance
+
+Author: Pearson, ES
+Publication data: 1938 Biometrika, volume 30, pages 134-148 doi:10.1093/biomet/30.1-2.134
+Description: One of the first published methods for formally combining results from different experiments
+Importance: Breakthrough, InfluenceCombining Independent Tests of Significance
+
+Author: Fisher, RA
+Publication data: 1948, The American Statistician, volume 2, page 30
+Description: One of the first published methods for formally combining results from different experiments
+Importance: Breakthrough, InfluenceThe combination of estimates from different experiments
+
+Author: Cochran, WG
+Publication data: 1954, Biometrics, volume 10, page 101–129
+Description: A comprehensive treatment of the various methods for formally combining results from different experiments
+Importance: Breakthrough, Influence
+
+Experimental design
+On Small Differences in Sensation
+
+Author: Charles Sanders Peirce and Joseph Jastrow
+Publication data: Peirce, Charles Sanders; Jastrow, Joseph (1885). "On Small Differences in Sensation". Memoirs of the National Academy of Sciences. 3: 73–83.
+Online version: http://psychclassics.yorku.ca/Peirce/small-diffs.htm
+Description: Peirce and Jastrow use logistic regression to estimate subjective probabilities of subjects's judgments of the heavier of two measurements, following a randomized controlled repeated measures design.
+Importance: The first randomized experiment, which also used blinding; it seems also to have been the first experiment for estimating subjective probabilities.The Design of Experiments
+
+Author: Fisher, RA
+Publication data: 1935, Oliver and Boyd, Edinburgh
+Description: The first textbook on experimental design
+Importance: InfluenceThe Design and Analysis of Experiments
+
+Author: Oscar Kempthorne
+Publication data: 1950, John Wiley & Sons, New York (Reprinted with corrections in 1979 by Robert E. Krieger)
+Description: Early exposition of the general linear model using matrix algebra (following lecture notes of George W. Brown). Bases inference on the randomization distribution objectively defined by the experimental protocol, rather than a so-called "statistical model" expressing the subjective beliefs of a statistician: The normal model is regarded as a convenient approximation to the randomization-distribution, whose quality is assessed by theorems about moments and simulation experiments.
+Importance: The first and most extensive discussion of randomation-based inference in the field of design of experiments until the recent 2-volume work by Hinkelmann and Kempthorne; randomization-based inference is called "design-based" inference in survey sampling of finite populations. Introduced the treatment-unit additivity hypothesis, which was discussed in chapter 2 of David R. Cox's book on experiments (1958) and which has influenced Donald Rubin and Paul Rosenbaum's analysis of observational data.On the Experimental Attainment of Optimum Conditions (with discussion)
+
+Author: George E. P. Box and K. B. Wilson.
+Publication data: (1951) Journal of the Royal Statistical Society Series B 13(1):1–45.
+Description: Introduced Box-Wilson central composite design for fitting a quadratic polynomial in several variables to experimental data, when an initial affine model had failed to yield a direction of ascent. The design and analysis is motivated by a problem in chemical engineering.
+Importance: Introduced response surface methodology for approximating local optima of systems with noisy observations of responses.
+
+See also
+List of scientific journals in statistics
+
+References
+External links
+Eugene Garfield. "What is a Citation Classic?". University of Pennsylvania.
+Ryan, TP & Woodall, WH; Woodall (July 2005). "The Most-Cited Statistical Papers". Journal of Applied Statistics. 32 (5): 461–474. doi:10.1080/02664760500079373. S2CID 109615204.{{cite journal}}:  CS1 maint: multiple names: authors list (link)

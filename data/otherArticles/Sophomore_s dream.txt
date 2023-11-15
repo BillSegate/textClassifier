@@ -1,0 +1,323 @@
+In mathematics, the sophomore's dream is the pair of identities (especially the first)
+
+discovered in 1697 by Johann Bernoulli.
+The numerical values of these constants are approximately 1.291285997... and 0.7834305107..., respectively.
+The name "sophomore's dream" is in contrast to the name "freshman's dream" which is given to the incorrect identity 
+  
+    
+      
+        (
+        x
+        +
+        y
+        
+          )
+          
+            n
+          
+        
+        =
+        
+          x
+          
+            n
+          
+        
+        +
+        
+          y
+          
+            n
+          
+        
+      
+    
+    {\textstyle (x+y)^{n}=x^{n}+y^{n}}
+  . The sophomore's dream has a similar too-good-to-be-true feel, but is true.
+
+Proof
+The proofs of the two identities are completely analogous, so only the proof of the second is presented here.
+The key ingredients of the proof are:
+
+to write 
+  
+    
+      
+        
+          x
+          
+            x
+          
+        
+        =
+        exp
+        ⁡
+        (
+        x
+        ln
+        ⁡
+        x
+        )
+      
+    
+    {\textstyle x^{x}=\exp(x\ln x)}
+   (using the notation ln for the natural logarithm and exp for the exponential function);
+to expand 
+  
+    
+      
+        exp
+        ⁡
+        (
+        x
+        ln
+        ⁡
+        x
+        )
+      
+    
+    {\textstyle \exp(x\ln x)}
+   using the power series for exp; and
+to integrate termwise, using integration by substitution.In details, xx can be expanded as
+
+Therefore,
+
+By uniform convergence of the power series, one may interchange summation and integration to yield
+
+To evaluate the above integrals, one may change the variable in the integral via the substitution 
+  
+    
+      
+        x
+        =
+        exp
+        ⁡
+        (
+        −
+        
+          
+            u
+            
+              n
+              +
+              1
+            
+          
+        
+        )
+        .
+      
+    
+    {\textstyle x=\exp(-{\frac {u}{n+1}}).}
+    With this substitution, the bounds of integration are transformed to 
+  
+    
+      
+        0
+        <
+        u
+        <
+        ∞
+        ,
+      
+    
+    {\displaystyle 0<u<\infty ,}
+   giving the identity
+
+By Euler's integral identity for the Gamma function, one has  
+
+so that
+
+Summing these (and changing indexing so it starts at n= 1 instead of n = 0) yields the formula.
+
+Historical proof
+The original proof, given in Bernoulli, and presented in modernized form in Dunham, differs from the one above in how the termwise integral 
+  
+    
+      
+        
+          ∫
+          
+            0
+          
+          
+            1
+          
+        
+        
+          x
+          
+            n
+          
+        
+        (
+        log
+        ⁡
+        x
+        
+          )
+          
+            n
+          
+        
+        
+        d
+        x
+      
+    
+    {\textstyle \int _{0}^{1}x^{n}(\log x)^{n}\,dx}
+   is computed, but is otherwise the same, omitting technical details to justify steps (such as termwise integration). Rather than integrating by substitution, yielding the Gamma function (which was not yet known), Bernoulli used integration by parts to iteratively compute these terms.
+The integration by parts proceeds as follows, varying the two exponents independently to obtain a recursion. An indefinite integral is computed initially, omitting the constant of integration 
+  
+    
+      
+        +
+        C
+      
+    
+    {\displaystyle +C}
+   both because this was done historically, and because it drops out when computing the definite integral.
+Integrating 
+  
+    
+      
+        ∫
+        
+          x
+          
+            m
+          
+        
+        (
+        log
+        ⁡
+        x
+        
+          )
+          
+            n
+          
+        
+        
+        d
+        x
+      
+    
+    {\textstyle \int x^{m}(\log x)^{n}\,dx}
+   by substituting 
+  
+    
+      
+        u
+        =
+        (
+        log
+        ⁡
+        x
+        
+          )
+          
+            n
+          
+        
+      
+    
+    {\textstyle u=(\log x)^{n}}
+   and 
+  
+    
+      
+        d
+        v
+        =
+        
+          x
+          
+            m
+          
+        
+        
+        d
+        x
+      
+    
+    {\textstyle dv=x^{m}\,dx}
+   yields:
+
+(also in the list of integrals of logarithmic functions). This reduces the power on the logarithm in the integrand by 1 (from 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   to 
+  
+    
+      
+        n
+        −
+        1
+      
+    
+    {\displaystyle n-1}
+  ) and thus one can compute the integral inductively, as
+
+where 
+  
+    
+      
+        (
+        n
+        
+          )
+          
+            i
+          
+        
+      
+    
+    {\textstyle (n)_{i}}
+   denotes the falling factorial; there is a finite sum because the induction stops at 0, since n is an integer.
+In this case 
+  
+    
+      
+        m
+        =
+        n
+      
+    
+    {\textstyle m=n}
+  , and they are integers, so
+
+Integrating from 0 to 1, all the terms vanish except the last term at 1, which yields:
+
+This is equivalent to computing Euler's integral identity 
+  
+    
+      
+        Γ
+        (
+        n
+        +
+        1
+        )
+        =
+        n
+        !
+      
+    
+    {\displaystyle \Gamma (n+1)=n!}
+   for the Gamma function on a different domain (corresponding to changing variables by substitution), as Euler's identity itself can also be computed via an analogous integration by parts.
+
+See also
+Series (mathematics)
+
+Notes
+References
+Formula
+Function
+
+Footnotes

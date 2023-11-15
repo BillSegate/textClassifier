@@ -1,0 +1,68 @@
+This article gives a list of conversion factors for several physical quantities. A number of different units (some only of historical interest) are shown and expressed in terms of the corresponding SI unit. 
+Conversions between units in the metric system are defined by their prefixes (for example, 1 kilogram = 1000 grams, 1 milligram = 0.001 grams) and are thus not listed in this article. Exceptions are made if the unit is commonly known by another name (for example, 1 micron = 10−6 metre). Within each table, the units are listed alphabetically, and the SI units (base or derived) are highlighted.
+The following quantities are considered: length, area, volume, plane angle, solid angle, mass, density, time, frequency, velocity, volumetric flow rate, acceleration, force, pressure (or mechanical stress), torque (or moment of force), energy, power (or heat flow rate), action, dynamic viscosity, kinematic viscosity, electric current, electric charge, electric dipole, electromotive force (or electric potential difference), electrical resistance, capacitance, magnetic flux, magnetic flux density, inductance, temperature, information entropy, luminous intensity, luminance, luminous flux, illuminance, radiation.
+
+Length
+Area
+Volume
+Plane angle
+Solid angle
+Mass
+Notes:
+
+See Weight for detail of mass/weight distinction and conversion.
+Avoirdupois is a system of mass based on a pound of 16 ounces, while Troy weight is the system of mass where 12 troy ounces equals one troy pound.
+The symbol g0 is used to denote standard gravity in order to avoid confusion with the (upright) g symbol for gram.
+
+Density
+Time
+Frequency
+Speed or velocity
+A velocity consists of a speed combined with a direction; the speed part of the velocity takes units of speed.
+
+Flow (volume)
+Acceleration
+Force
+Pressure or mechanical stress
+Torque or moment of force
+Energy
+Power or heat flow rate
+Action
+Dynamic viscosity
+Kinematic viscosity
+Electric current
+Electric charge
+Electric dipole
+Electromotive force, electric potential difference
+Electrical resistance
+Capacitance
+Magnetic flux
+Magnetic flux density
+Inductance
+Temperature
+Information entropy
+Modern standards (such as ISO 80000) prefer the shannon to the bit as a unit for a quantity of information entropy, whereas the (discrete) storage space of digital devices is measured in bits. Thus, uncompressed redundant data occupy more than one bit of storage per shannon of information entropy. The multiples of a bit listed above are usually used with this meaning.
+
+Luminous intensity
+The candela is the preferred nomenclature for the SI unit.
+
+Luminance
+Luminous flux
+Illuminance
+Radiation
+Radiation – source activity
+Although becquerel (Bq) and hertz (Hz) both ultimately refer to the same SI base unit (s−1), Hz is used only for periodic phenomena (i.e. repetitions at regular intervals), and Bq is only used for stochastic processes (i.e. at random intervals) associated with radioactivity.
+
+Radiation – exposure
+The roentgen is not an SI unit and the NIST strongly discourages its continued use.
+
+Radiation – absorbed dose
+Radiation – equivalent dose
+Although the definitions for sievert (Sv) and gray (Gy) would seem to indicate that they measure the same quantities, this is not the case. The effect of receiving a certain dose of radiation (given as Gy) is variable and depends on many factors, thus a new unit was needed to denote the biological effectiveness of that dose on the body; this is known as the equivalent dose and is shown in Sv. The general relationship between absorbed dose and equivalent dose can be represented as
+
+H = Q ⋅ Dwhere H is the equivalent dose, D is the absorbed dose, and Q is a dimensionless quality factor. Thus, for any quantity of D measured in Gy, the numerical value for H measured in Sv may be different.
+
+Notes
+
+
+== References ==

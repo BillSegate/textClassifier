@@ -1,0 +1,4 @@
+In homogenization theory, a branch of mathematics, stochastic homogenization is a technique for understanding solutions to partial differential equations with oscillatory random coefficients.
+
+
+== References ==

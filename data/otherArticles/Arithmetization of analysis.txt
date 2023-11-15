@@ -1,0 +1,28 @@
+The arithmetization of analysis was a research program in the foundations of mathematics carried out in the second half of the 19th century.
+
+History
+Kronecker originally introduced the term arithmetization of analysis, by which he meant its constructivization in the context of the natural numbers (see quotation at bottom of page).  The meaning of the term later shifted to signify the set-theoretic construction of the real line.  Its main proponent was Weierstrass, who argued the geometric foundations of calculus were not solid enough for rigorous work.
+
+Research program
+The highlights of this research program are:
+
+the various (but equivalent) constructions of the real numbers by Dedekind and Cantor resulting in the modern axiomatic definition of the real number field;
+the epsilon-delta definition of limit; and
+the naïve set-theoretic definition of function.
+
+Legacy
+An important spinoff of the arithmetization of analysis is set theory. Naive set theory was created by Cantor and others after arithmetization was completed as a way to study the singularities of functions appearing in calculus. 
+The arithmetization of analysis had several important consequences:
+
+the widely held belief in the banishment of infinitesimals from mathematics until the creation of non-standard analysis by Abraham Robinson in the 1960s, whereas in reality the work on non-Archimedean systems continued unabated, as documented by P. Ehrlich;
+the shift of the emphasis from geometric to algebraic reasoning: this has had important consequences in the way mathematics is taught today;
+it made possible the development of modern measure theory by Lebesgue and the rudiments of functional analysis by Hilbert;
+it motivated the currently prevalent philosophical position that all of mathematics should be derivable from logic and set theory, ultimately leading to Hilbert's program, Gödel's theorems and non-standard analysis.
+
+Quotations
+"God created the natural numbers, all else is the work of man." — Kronecker
+
+References
+Torina Dechaune Lewis (2006) The Arithmetization of Analysis: From Eudoxus to Dedekind, Southern University.
+Carl B. Boyer, Uta C. Merzbach (2011) A History of Mathematics John Wiley & Sons.
+Arithmetization of analysis at Encyclopedia of Mathematics.

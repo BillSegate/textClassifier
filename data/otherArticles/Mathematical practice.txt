@@ -1,0 +1,24 @@
+Mathematical practice comprises the working practices of professional mathematicians: selecting theorems to prove, using informal notations to persuade themselves and others that various steps in the final proof are convincing, and seeking peer review and publication, as opposed to the end result of proven and published theorems.
+Philip Kitcher has proposed a more formal definition of a mathematical practice, as a quintuple. His intention was primarily to document mathematical practice through its historical changes.
+
+Historical tradition
+The evolution of mathematical practice was slow, and some contributors to modern mathematics did not follow even the practice of their time.  For example, Pierre de Fermat was infamous for withholding his proofs, but nonetheless had a vast reputation for correct assertions of results.
+One motivation to study mathematical practice is that, despite much work in the 20th century, some still feel that the foundations of mathematics remain unclear and ambiguous. One proposed remedy is to shift focus to some degree onto 'what is meant by a proof', and other such questions of method.
+If mathematics has been informally used throughout history, in numerous cultures and continents, then it could be argued that "mathematical practice" is the practice, or use, of mathematics in everyday life.  One definition of mathematical practice, as described above, is the "working practices of professional mathematicians".  However, another definition, more in keeping with the predominant usage of mathematics, is that mathematical practice is the everyday practice, or use, of math.  Whether one is estimating the total cost of their groceries, calculating miles per gallon, or figuring out how many minutes on the treadmill that chocolate éclair will require, math in everyday life relies on practicality (i.e., does it answer the question?) rather than formal proof.
+
+Teaching practice
+Mathematical teaching usually requires the use of several important teaching pedagogies or components.  Most GCSE, A-Level and undergraduate mathematics require the following components: 
+
+Textbooks or lecture notes which display the mathematical material to be covered/taught within the context of the teaching of mathematics.  This requires that the mathematical content being taught at the (say) undergraduate level is of a well documented and widely accepted nature that has been unanimously verified as being correct and meaningful within a mathematical context.
+Workbooks.  Usually, in order to ensure that students have an opportunity to learn and test the material that they have learnt, workbooks or question papers enable mathematical understanding to be tested.  It is not unknown for exam papers to draw upon questions from such test papers, or to require prerequisite knowledge of such test papers for mathematical progression.
+Exam papers and standardised (and preferably apolitical) testing methods.  Often, within countries such as the US, the UK (and, in all likelihood, China) there are standardised qualifications, examinations and workbooks that form the concrete teaching materials needed for secondary-school and pre-university courses (for example, within the UK, all students are required to sit or take Scottish Highers/Advanced Highers, A-levels or their equivalent in order to ensure that a certain minimal level of mathematical competence in a wide variety of topics has been obtained).  Note, however, that at the undergraduate, post-graduate and doctoral levels within these countries, there need not be any standardised process via which mathematicians of differing ability levels can be tested or examined. Other common test formats within the UK and beyond include the BMO (which is a multiple-choice test competition paper used in order to determine the best candidates that are to represent countries within the International Mathematical Olympiad).
+
+See also
+Common Core State Standards Initiative: Mathematical practice
+Foundations of mathematics
+Informal mathematics
+Philosophy of mathematics
+
+Notes
+Further reading
+Mancosu, P. (2008). The Philosophy of Mathematical Practice. OUP Oxford. ISBN 978-0-19-929645-3. Retrieved September 19, 2018. 447 pages.

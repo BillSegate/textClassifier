@@ -1,0 +1,15 @@
+Dimensionless numbers (or characteristic numbers) have an important role in analyzing the behavior of fluids and their flow as well as in other transport phenomena. They include the Reynolds and the Mach numbers, which describe as ratios the relative magnitude of fluid and physical system characteristics, such as density, viscosity, speed of sound, and flow speed.
+To compare a real situation (e.g. an aircraft) with a small-scale model it is necessary to keep the important characteristic numbers the same. Names and formulation of these numbers were standardized in ISO 31-12 and in ISO 80000-11.
+
+Diffusive numbers in transport phenomena
+As a general example of how dimensionless numbers arise in fluid mechanics, the classical numbers in transport phenomena of mass, momentum, and energy are principally analyzed by the ratio of effective diffusivities in each transport mechanism. The six dimensionless numbers give the relative strengths of the different phenomena of inertia, viscosity, conductive heat transport, and diffusive mass transport. (In the table, the diagonals give common symbols for the quantities, and the given dimensionless number is the ratio of the left column quantity over top row quantity; e.g. Re = inertial force/viscous force = vd/ν.) These same quantities may alternatively be expressed as ratios of characteristic time, length, or energy scales. Such forms are less commonly used in practice, but can provide insight into particular applications.
+
+Droplet formation
+Droplet formation mostly depends on momentum, viscosity and surface tension. In inkjet printing for example, an ink with a too high Ohnesorge number would not jet properly, and an ink with a too low Ohnesorge number would be jetted with many satellite drops. Not all of the quantity ratios are explicitly named, though each of the unnamed ratios could be expressed as a product of two other named dimensionless numbers.
+
+List
+All numbers are dimensionless quantities.  See other article for extensive list of dimensionless quantities.  Certain dimensionless quantities of some importance to fluid mechanics are given below:
+
+References
+
+Tropea, C.; Yarin, A.L.; Foss, J.F. (2007). Springer Handbook of Experimental Fluid Mechanics. Springer-Verlag.

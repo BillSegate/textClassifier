@@ -1,0 +1,8 @@
+In mathematics, Weisner's method is a method for finding generating functions for special functions using representation theory of Lie groups and Lie algebras, introduced by Weisner (1955). It includes Truesdell's method as a special case, and is essentially the same as Rainville's method.
+
+... Weisner's group-theoretic method ... is a technique with uses the differential recurrence relations of a family of special functions to construct a Lie algebra of differential operators (Lie derivatives), under the action of which the family is invariant. The Lie derivatives can be exponentiated to obtain an action of the associated Lie group and this group action yields the generating functions. Miller (1974)
+
+References
+McBride, Elna Browning (1971), Obtaining generating functions, Springer Tracts in Natural Philosophy, vol. 21, Berlin, New York: Springer-Verlag, ISBN 978-0-387-05255-7, MR 0279355
+Miller, Willard Jr. (1974), "Review of Obtaining Generating Functions by Elna B. McBride", Canadian Mathematical Bulletin, 17 (3): 447–448
+Weisner, Louis (1955), "Group-theoretic origin of certain generating functions", Pacific Journal of Mathematics, 5 (6): 1033–1039, doi:10.2140/pjm.1955.5.1033, ISSN 0030-8730, MR 0086905

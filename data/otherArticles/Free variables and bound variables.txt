@@ -1,0 +1,563 @@
+In mathematics, and in other disciplines involving formal languages, including mathematical logic and computer science, a variable may be said to be either free or bound. The terms are opposites. A free variable is a notation (symbol) that specifies places in an expression where substitution may take place and is not a parameter of this or any container expression. Some older books use the terms real variable and apparent variable for free variable and bound variable, respectively. The idea is related to a placeholder (a symbol that will later be replaced by some value), or a wildcard character that stands for an unspecified symbol.
+In computer programming, the term free variable refers to variables used in a function that are neither local variables nor parameters of that function. The term non-local variable is often a synonym in this context.
+An instance of a variable symbol is bound, in contrast, if the value of that variable symbol has been bound to a specific value or range of values in the domain of discourse or universe. This may be achieved through the use of logical quantifiers, variable-binding operators, or an explicit statement of allowed values for the variable (such as, "...where 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   is a positive integer".) A variable symbol overall is bound if at least one occurrence of it is bound.pp.142--143 Since the same variable symbol may appear in multiple places in an expression, some occurrences of the variable symbol may be free while others are bound,p.78 hence "free" and "bound" are at first defined for occurrences and then generalized over all occurrences of said variable symbol in the expression. However it is done, the variable ceases to be an independent variable on which the value of the expression depends, whether that value be a truth value or the numerical result of a calculation, or, more generally, an element of an image set of a function.
+While the domain of discourse in many contexts is understood, when an explicit range of values for the bound variable has not been given, it may be necessary to specify the domain in order to properly evaluate the expression. For example, consider the following expression in which both variables are bound by logical quantifiers:
+
+  
+    
+      
+        ∀
+        y
+        
+        ∃
+        x
+        
+        
+          (
+          
+            x
+            =
+            
+              
+                y
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle \forall y\,\exists x\,\left(x={\sqrt {y}}\right).}
+  This expression evaluates to false if the domain of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   and 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   is the real numbers, but true if the domain is the complex numbers.
+The term "dummy variable" is also sometimes used for a bound variable (more commonly in general mathematics than in computer science), but this should not be confused with the identically named but unrelated concept of dummy variable as used in statistics, most commonly in regression analysis.
+
+Examples
+Before stating a precise definition of free variable and bound variable, the following are some examples that perhaps make these two concepts clearer than the definition would:
+In the expression
+
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            10
+          
+        
+        f
+        (
+        k
+        ,
+        n
+        )
+        ,
+      
+    
+    {\displaystyle \sum _{k=1}^{10}f(k,n),}
+  n is a free variable and k is a bound variable; consequently the value of this expression depends on the value of n, but there is nothing called k on which it could depend.
+In the expression 
+
+  
+    
+      
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        
+          x
+          
+            y
+            −
+            1
+          
+        
+        
+          e
+          
+            −
+            x
+          
+        
+        
+        d
+        x
+        ,
+      
+    
+    {\displaystyle \int _{0}^{\infty }x^{y-1}e^{-x}\,dx,}
+  y is a free variable and x is a bound variable; consequently the value of this expression depends on the value of y, but there is nothing called x on which it could depend.
+In the expression
+
+  
+    
+      
+        
+          lim
+          
+            h
+            →
+            0
+          
+        
+        
+          
+            
+              f
+              (
+              x
+              +
+              h
+              )
+              −
+              f
+              (
+              x
+              )
+            
+            h
+          
+        
+        ,
+      
+    
+    {\displaystyle \lim _{h\rightarrow 0}{\frac {f(x+h)-f(x)}{h}},}
+  x is a free variable and h is a bound variable; consequently the value of this expression depends on the value of x, but there is nothing called h on which it could depend.
+In the expression
+
+  
+    
+      
+        ∀
+        x
+         
+        ∃
+        y
+         
+        
+          
+            [
+          
+        
+        φ
+        (
+        x
+        ,
+        y
+        ,
+        z
+        )
+        
+          
+            ]
+          
+        
+        ,
+      
+    
+    {\displaystyle \forall x\ \exists y\ {\Big [}\varphi (x,y,z){\Big ]},}
+  z is a free variable and x and y are bound variables, associated with logical quantifiers; consequently the logical value of this expression depends on the value of z, but there is nothing called x or y on which it could depend.
+More widely, in most proofs, bound variables are used. For example, the following proof shows that all squares of positive even integers are divisible by 
+  
+    
+      
+        4
+      
+    
+    {\displaystyle 4}
+  
+
+Let 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   be a positive even integer. Then there is an integer 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   such that 
+  
+    
+      
+        n
+        =
+        2
+        k
+      
+    
+    {\displaystyle n=2k}
+  . Since 
+  
+    
+      
+        
+          n
+          
+            2
+          
+        
+        =
+        4
+        
+          k
+          
+            2
+          
+        
+      
+    
+    {\displaystyle n^{2}=4k^{2}}
+  , we have 
+  
+    
+      
+        
+          n
+          
+            2
+          
+        
+      
+    
+    {\displaystyle n^{2}}
+   divisible by 
+  
+    
+      
+        4
+      
+    
+    {\displaystyle 4}
+  not only k but also n have been used as bound variables as a whole in the proof.
+
+Variable-binding operators
+The following
+
+  
+    
+      
+        
+          ∑
+          
+            x
+            ∈
+            S
+          
+        
+        
+        
+        
+          ∏
+          
+            x
+            ∈
+            S
+          
+        
+        
+        
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        ⋯
+        
+        d
+        x
+        
+        
+        
+          lim
+          
+            x
+            →
+            0
+          
+        
+        
+        
+        ∀
+        x
+        
+        
+        ∃
+        x
+      
+    
+    {\displaystyle \sum _{x\in S}\quad \quad \prod _{x\in S}\quad \quad \int _{0}^{\infty }\cdots \,dx\quad \quad \lim _{x\to 0}\quad \quad \forall x\quad \quad \exists x}
+  are some common variable-binding operators.  Each of them binds the variable x for some set S.
+Many of these are operators which act on functions of the bound variable.  In more complicated contexts, such notations can become awkward and confusing.  It can be useful to switch to notations which make the binding explicit, such as
+
+  
+    
+      
+        
+          ∑
+          
+            1
+            ,
+            …
+            ,
+            10
+          
+        
+        
+          (
+          
+            k
+            ↦
+            f
+            (
+            k
+            ,
+            n
+            )
+          
+          )
+        
+      
+    
+    {\displaystyle \sum _{1,\ldots ,10}\left(k\mapsto f(k,n)\right)}
+  for sums or
+
+  
+    
+      
+        D
+        
+          (
+          
+            x
+            ↦
+            
+              x
+              
+                2
+              
+            
+            +
+            2
+            x
+            +
+            1
+          
+          )
+        
+      
+    
+    {\displaystyle D\left(x\mapsto x^{2}+2x+1\right)}
+  for differentiation.
+
+Formal explanation
+Variable-binding mechanisms occur in different contexts in mathematics, logic and computer science. In all cases, however, they are purely syntactic properties of expressions and variables in them. For this section we can summarize syntax by identifying an expression with a tree whose leaf nodes are variables, constants, function constants or predicate constants and whose non-leaf nodes are logical operators. This expression can then be determined by doing an inorder traversal of the tree. Variable-binding operators are logical operators that occur in almost every formal language. A binding operator Q takes two arguments: a variable v and an expression P, and when applied to its arguments produces a new expression Q(v, P).  The meaning of binding operators is supplied by the semantics of the language and does not concern us here.
+Variable binding relates three things: a variable v, a location a for that variable in an expression and a non-leaf node n of the form Q(v, P).  Note: we define a location in an expression as a leaf node in the syntax tree.  Variable binding occurs when that location is below the node n.
+In the lambda calculus, x is a bound variable in the term M = λx. T and a free variable in the term T. We say x is bound in M and free in T. If T contains a subterm λx. U then x is rebound in this term. This nested, inner binding of x is said to "shadow" the outer binding. Occurrences of x in U are free occurrences of the new x.Variables bound at the top level of a program are technically free variables within the terms to which they are bound but are often treated specially because they can be compiled as fixed addresses. Similarly, an identifier bound to a recursive function is also technically a free variable within its own body but is treated specially.
+A closed term is one containing no free variables.
+
+Function expressions
+To give an example from mathematics, consider an expression which defines a function
+
+  
+    
+      
+        f
+        =
+        
+          [
+          
+            (
+            
+              x
+              
+                1
+              
+            
+            ,
+            …
+            ,
+            
+              x
+              
+                n
+              
+            
+            )
+            ↦
+            t
+          
+          ]
+        
+      
+    
+    {\displaystyle f=\left[(x_{1},\ldots ,x_{n})\mapsto t\right]}
+  where t is an expression. t may contain some, all or none of the x1, …, xn and it may contain other variables. In this case we say that function definition binds the variables x1, …, xn.
+In this manner, function definition expressions of the kind shown above can be thought of as the variable binding operator, analogous to the lambda expressions of lambda calculus. Other binding operators, like the summation sign, can be thought of as higher-order functions applying to a function. So, for example, the expression
+
+  
+    
+      
+        
+          ∑
+          
+            x
+            ∈
+            S
+          
+        
+        
+          
+            x
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \sum _{x\in S}{x^{2}}}
+  could be treated as a notation for
+
+  
+    
+      
+        
+          ∑
+          
+            S
+          
+        
+        
+          (
+          x
+          ↦
+          
+            x
+            
+              2
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \sum _{S}{(x\mapsto x^{2})}}
+  where 
+  
+    
+      
+        
+          ∑
+          
+            S
+          
+        
+        
+          f
+        
+      
+    
+    {\displaystyle \sum _{S}{f}}
+   is an operator with two parameters—a one-parameter function, and a set to evaluate that function over. The other operators listed above can be expressed in similar ways; for example, the universal quantifier 
+  
+    
+      
+        ∀
+        x
+        ∈
+        S
+         
+        P
+        (
+        x
+        )
+      
+    
+    {\displaystyle \forall x\in S\ P(x)}
+   can be thought of as an operator that evaluates to the logical conjunction of the Boolean-valued function P applied over the (possibly infinite) set S.
+
+Natural language
+When analyzed in formal semantics, natural languages can be seen to have free and bound variables. In English, personal pronouns like he, she, they, etc. can act as free variables.
+
+Lisa found her book.In the sentence above, the possessive pronoun her is a free variable. It may refer to the previously mentioned Lisa or to any other female. In other words, her book could be referring to Lisa's book (an instance of coreference) or to a book that belongs to a different female (e.g. Jane's book). Whoever the referent of her is can be established according to the situational (i.e. pragmatic) context. The identity of the referent can be shown using coindexing subscripts where i indicates one referent and j indicates a second referent (different from i). Thus, the sentence Lisa found her book has the following interpretations:
+
+Lisai found heri book. (interpretation #1: her = of Lisa)
+Lisai found herj book. (interpretation #2: her = of a female that is not Lisa)The distinction is not purely of academic interest, as some languages do actually have different forms for heri and herj: for example, Norwegian and Swedish translate coreferent heri as sin and noncoreferent herj as hennes.
+English does allow specifying coreference, but it is optional, as both interpretations of the previous example are valid (the ungrammatical interpretation is indicated with an asterisk):
+
+Lisai found heri own book. (interpretation #1: her = of Lisa)
+*Lisai found herj own book. (interpretation #2: her = of a female that is not Lisa)However, reflexive pronouns, such as himself, herself, themselves, etc., and reciprocal pronouns, such as each other, act as bound variables. In a sentence like the following:
+
+Jane hurt herself.the reflexive herself can only refer to the previously mentioned antecedent, in this case Jane, and can never refer to a different female person. In this example, the variable herself is bound to the noun Jane that occurs in subject position. Indicating the coindexation, the first interpretation with Jane and herself coindexed is permissible, but the other interpretation where they are not coindexed is ungrammatical:
+
+Janei hurt herselfi. (interpretation #1: herself = Jane)
+*Janei hurt herselfj. (interpretation #2: herself = a female that is not Jane)The coreference binding can be represented using a lambda expression as mentioned in the previous Formal explanation section. The sentence with the reflexive could be represented as
+
+(λx.x hurt x)Janein which Jane is the subject referent argument and λx.x hurt x is the predicate function (a lambda abstraction) with the lambda notation and x indicating both the semantic subject and the semantic object of sentence as being bound. This returns the semantic interpretation JANE hurt JANE with JANE being the same person.
+Pronouns can also behave in a different way. In the sentence below
+
+Ashley hit her.the pronoun her can only refer to a female that is not Ashley. This means that it can never have a reflexive meaning equivalent to Ashley hit herself. The grammatical and ungrammatical interpretations are:
+
+*Ashleyi hit heri. (interpretation #1: her = Ashley)
+Ashleyi hit herj. (interpretation #2: her = a female that is not Ashley)The first interpretation is impossible. Only the second interpretation is permitted by the grammar.
+Thus, it can be seen that reflexives and reciprocals are bound variables (known technically as anaphors) while true pronouns are free variables in some grammatical structures but variables that cannot be bound in other grammatical structures. The binding phenomena found in natural languages was particularly important to the syntactic government and binding theory (see also: Binding (linguistics)).
+
+See also
+Closure (computer science)
+Combinatory logic
+Lambda lifting
+Name binding
+Scope (programming)
+
+References
+Thompson, Simon (1991). Type theory and functional programming. Wokingham, England: Addison-Wesley. ISBN 0201416670. OCLC 23287456.
+
+Further reading
+Gowers, Timothy; Barrow-Green, June; Leader, Imre, eds. (2008). The Princeton Companion to Mathematics. Princeton, New Jersey: Princeton University Press. pp. 15–16. doi:10.1515/9781400830398. ISBN 978-0-691-11880-2. JSTOR j.ctt7sd01. LCCN 2008020450. MR 2467561. OCLC 227205932. OL 19327100M. Zbl 1242.00016.

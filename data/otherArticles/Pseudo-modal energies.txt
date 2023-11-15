@@ -1,0 +1,4 @@
+Pseudo-modal energies are used for estimating the energy content of a mechanical system near its resonance frequencies. They are defined as the integral of the frequency response function within a certain bandwidth around a resonance.
+
+
+== References ==

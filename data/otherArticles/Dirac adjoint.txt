@@ -1,0 +1,427 @@
+In quantum field theory, the Dirac adjoint defines the dual operation of a Dirac spinor.  The Dirac adjoint is motivated by the need to form well-behaved, measurable quantities out of Dirac spinors, replacing the usual role of the Hermitian adjoint.
+Possibly to avoid confusion with the usual Hermitian adjoint, some textbooks do not provide a name for the Dirac adjoint but simply call it "ψ-bar".
+
+Definition
+Let 
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+   be a Dirac spinor.  Then its Dirac adjoint is defined as
+
+  
+    
+      
+        
+          
+            
+              ψ
+              ¯
+            
+          
+        
+        ≡
+        
+          ψ
+          
+            †
+          
+        
+        
+          γ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle {\bar {\psi }}\equiv \psi ^{\dagger }\gamma ^{0}}
+  where 
+  
+    
+      
+        
+          ψ
+          
+            †
+          
+        
+      
+    
+    {\displaystyle \psi ^{\dagger }}
+   denotes the Hermitian adjoint of the spinor 
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+  , and 
+  
+    
+      
+        
+          γ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \gamma ^{0}}
+   is the time-like gamma matrix.
+
+Spinors under Lorentz transformations
+The Lorentz group of special relativity is not compact, therefore spinor representations of Lorentz transformations are generally not unitary.  That is, if 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+   is a projective representation of some Lorentz transformation,
+
+  
+    
+      
+        ψ
+        ↦
+        λ
+        ψ
+      
+    
+    {\displaystyle \psi \mapsto \lambda \psi }
+  ,then, in general,
+
+  
+    
+      
+        
+          λ
+          
+            †
+          
+        
+        ≠
+        
+          λ
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle \lambda ^{\dagger }\neq \lambda ^{-1}}
+  .The Hermitian adjoint of a spinor transforms according to
+
+  
+    
+      
+        
+          ψ
+          
+            †
+          
+        
+        ↦
+        
+          ψ
+          
+            †
+          
+        
+        
+          λ
+          
+            †
+          
+        
+      
+    
+    {\displaystyle \psi ^{\dagger }\mapsto \psi ^{\dagger }\lambda ^{\dagger }}
+  .Therefore, 
+  
+    
+      
+        
+          ψ
+          
+            †
+          
+        
+        ψ
+      
+    
+    {\displaystyle \psi ^{\dagger }\psi }
+   is not a Lorentz scalar and 
+  
+    
+      
+        
+          ψ
+          
+            †
+          
+        
+        
+          γ
+          
+            μ
+          
+        
+        ψ
+      
+    
+    {\displaystyle \psi ^{\dagger }\gamma ^{\mu }\psi }
+   is not even Hermitian.
+Dirac adjoints, in contrast, transform according to
+
+  
+    
+      
+        
+          
+            
+              ψ
+              ¯
+            
+          
+        
+        ↦
+        
+          
+            (
+            
+              λ
+              ψ
+            
+            )
+          
+          
+            †
+          
+        
+        
+          γ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle {\bar {\psi }}\mapsto \left(\lambda \psi \right)^{\dagger }\gamma ^{0}}
+  .Using the identity 
+  
+    
+      
+        
+          γ
+          
+            0
+          
+        
+        
+          λ
+          
+            †
+          
+        
+        
+          γ
+          
+            0
+          
+        
+        =
+        
+          λ
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle \gamma ^{0}\lambda ^{\dagger }\gamma ^{0}=\lambda ^{-1}}
+  , the transformation reduces to
+
+  
+    
+      
+        
+          
+            
+              ψ
+              ¯
+            
+          
+        
+        ↦
+        
+          
+            
+              ψ
+              ¯
+            
+          
+        
+        
+          λ
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle {\bar {\psi }}\mapsto {\bar {\psi }}\lambda ^{-1}}
+  ,Thus, 
+  
+    
+      
+        
+          
+            
+              ψ
+              ¯
+            
+          
+        
+        ψ
+      
+    
+    {\displaystyle {\bar {\psi }}\psi }
+   transforms as a Lorentz scalar and 
+  
+    
+      
+        
+          
+            
+              ψ
+              ¯
+            
+          
+        
+        
+          γ
+          
+            μ
+          
+        
+        ψ
+      
+    
+    {\displaystyle {\bar {\psi }}\gamma ^{\mu }\psi }
+   as a four-vector.
+
+Usage
+Using the Dirac adjoint, the probability four-current J for a spin-1/2 particle field can be written as
+
+  
+    
+      
+        
+          J
+          
+            μ
+          
+        
+        =
+        c
+        
+          
+            
+              ψ
+              ¯
+            
+          
+        
+        
+          γ
+          
+            μ
+          
+        
+        ψ
+      
+    
+    {\displaystyle J^{\mu }=c{\bar {\psi }}\gamma ^{\mu }\psi }
+  where c is the speed of light and the components of J represent the probability density ρ and the probability 3-current j:
+
+  
+    
+      
+        
+          J
+        
+        =
+        (
+        c
+        ρ
+        ,
+        
+          j
+        
+        )
+      
+    
+    {\displaystyle {\boldsymbol {J}}=(c\rho ,{\boldsymbol {j}})}
+  .Taking μ = 0 and using the relation for gamma matrices
+
+  
+    
+      
+        
+          
+            (
+            
+              γ
+              
+                0
+              
+            
+            )
+          
+          
+            2
+          
+        
+        =
+        I
+      
+    
+    {\displaystyle \left(\gamma ^{0}\right)^{2}=I}
+  ,the probability density becomes
+
+  
+    
+      
+        ρ
+        =
+        
+          ψ
+          
+            †
+          
+        
+        ψ
+      
+    
+    {\displaystyle \rho =\psi ^{\dagger }\psi }
+  .
+
+See also
+Dirac equation
+Rarita–Schwinger equation
+
+References
+B. Bransden and C. Joachain (2000). Quantum Mechanics, 2e, Pearson. ISBN 0-582-35691-1.
+M. Peskin and D. Schroeder (1995). An Introduction to Quantum Field Theory, Westview Press. ISBN 0-201-50397-2.
+A. Zee (2003). Quantum Field Theory in a Nutshell, Princeton University Press. ISBN 0-691-01019-6.

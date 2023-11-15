@@ -1,0 +1,1468 @@
+In mathematics, Budan's theorem is a theorem for bounding the number of real roots of a polynomial in an interval, and computing the parity of this number. It was published in 1807 by François Budan de Boislaurent.
+A similar theorem was published independently by Joseph Fourier in 1820. Each of these theorems is a corollary of the other. Fourier's statement appears more often in the literature of 19th century and has been referred to as Fourier's, Budan–Fourier, Fourier–Budan, and even Budan's theorem.
+Budan's original formulation is used in fast modern algorithms for real-root isolation of polynomials.
+
+Sign variation
+Let 
+  
+    
+      
+        
+          c
+          
+            0
+          
+        
+        ,
+        
+          c
+          
+            1
+          
+        
+        ,
+        
+          c
+          
+            2
+          
+        
+        ,
+        …
+        
+          c
+          
+            k
+          
+        
+      
+    
+    {\displaystyle c_{0},c_{1},c_{2},\ldots c_{k}}
+   be a finite sequence of real numbers. A sign variation or sign change in the sequence is a pair of indices i < j such that 
+  
+    
+      
+        
+          c
+          
+            i
+          
+        
+        
+          c
+          
+            j
+          
+        
+        <
+        0
+        ,
+      
+    
+    {\displaystyle c_{i}c_{j}<0,}
+   and either j = i + 1 or 
+  
+    
+      
+        
+          c
+          
+            k
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle c_{k}=0}
+   for all k such that i < k < j.
+In other words, a sign variation occurs in the sequence at each place where the signs change, when ignoring zeros.
+For studying the real roots of a polynomial, the number of sign variations of several sequences may be used. For Budan's theorem, it is the sequence of the coefficients. For the Fourier's theorem, it is the sequence of values of the successive derivatives at a point. For Sturm's theorem it is the sequence of values at a point of the Sturm sequence.
+
+Descartes' rule of signs
+All results described in this article are based on Descartes' rule of signs.
+If p(x) is a univariate polynomial with real coefficients, let us denote by #+(p) the number of its positive real roots, counted with their multiplicity, and by v(p) the number of sign variations in the sequence of its coefficients. Descartes's rule of signs asserts that
+
+v(p) – #+(p) is a nonnegative even integer.In particular, if v(p) ≤ 1, then one has #+(p) = v(p).
+
+Budan's statement
+Given a univariate polynomial p(x) with real coefficients, let us denote by #(ℓ,r](p) the number of real roots, counted with their multiplicities, of p in a half-open interval (ℓ, r] (with ℓ < r real numbers). Let us denote also by vh(p) the number of sign variations in the sequence of the coefficients of the polynomial ph(x) = p(x + h). In particular, one has v(p) = v0(p) with the notation of the preceding section.
+Budan's theorem is the following: 
+
+  
+    
+      
+        
+          v
+          
+            ℓ
+          
+        
+        (
+        p
+        )
+        −
+        
+          v
+          
+            r
+          
+        
+        (
+        p
+        )
+        −
+        
+          #
+          
+            (
+            ℓ
+            ,
+            r
+            ]
+          
+        
+      
+    
+    {\displaystyle v_{\ell }(p)-v_{r}(p)-\#_{(\ell ,r]}}
+   is a nonnegative even integer.As 
+  
+    
+      
+        
+          #
+          
+            (
+            ℓ
+            ,
+            r
+            ]
+          
+        
+      
+    
+    {\displaystyle \#_{(\ell ,r]}}
+   is non negative, this implies 
+  
+    
+      
+        
+          v
+          
+            ℓ
+          
+        
+        (
+        p
+        )
+        ≥
+        
+          v
+          
+            r
+          
+        
+        (
+        p
+        )
+        .
+      
+    
+    {\displaystyle v_{\ell }(p)\geq v_{r}(p).}
+  
+This is a generalization of Descartes' rule of signs, as, if one chooses r sufficiently large, it is larger than all real roots of p, and all the coefficients of 
+  
+    
+      
+        
+          p
+          
+            r
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle p_{r}(x)}
+   are positive, that is 
+  
+    
+      
+        
+          v
+          
+            r
+          
+        
+        (
+        p
+        )
+        =
+        0.
+      
+    
+    {\displaystyle v_{r}(p)=0.}
+   Thus 
+  
+    
+      
+        
+          v
+          
+            0
+          
+        
+        (
+        p
+        )
+        =
+        
+          v
+          
+            0
+          
+        
+        (
+        p
+        )
+        −
+        
+          v
+          
+            r
+          
+        
+        (
+        p
+        )
+        ,
+      
+    
+    {\displaystyle v_{0}(p)=v_{0}(p)-v_{r}(p),}
+   and 
+  
+    
+      
+        
+          #
+          
+            +
+          
+        
+        =
+        
+          #
+          
+            (
+            0
+            ,
+            r
+            )
+          
+        
+        ,
+      
+    
+    {\displaystyle \#_{+}=\#_{(0,r)},}
+   which makes Descartes' rule of signs a special case of Budan's theorem.
+As for Descartes' rule of signs, if 
+  
+    
+      
+        
+          v
+          
+            ℓ
+          
+        
+        (
+        p
+        )
+        −
+        
+          v
+          
+            r
+          
+        
+        (
+        p
+        )
+        ≤
+        1
+        ,
+      
+    
+    {\displaystyle v_{\ell }(p)-v_{r}(p)\leq 1,}
+   one has 
+  
+    
+      
+        
+          #
+          
+            (
+            ℓ
+            ,
+            r
+            ]
+          
+        
+        =
+        
+          v
+          
+            ℓ
+          
+        
+        (
+        p
+        )
+        −
+        
+          v
+          
+            r
+          
+        
+        (
+        p
+        )
+        .
+      
+    
+    {\displaystyle \#_{(\ell ,r]}=v_{\ell }(p)-v_{r}(p).}
+   This means that, if 
+  
+    
+      
+        
+          v
+          
+            ℓ
+          
+        
+        (
+        p
+        )
+        −
+        
+          v
+          
+            r
+          
+        
+        (
+        p
+        )
+        ≤
+        1
+      
+    
+    {\displaystyle v_{\ell }(p)-v_{r}(p)\leq 1}
+   one has a "zero-root test" and a "one-root test".
+
+Examples
+1. Given the polynomial  
+  
+    
+      
+        p
+        (
+        x
+        )
+        =
+        
+          x
+          
+            3
+          
+        
+        −
+        7
+        x
+        +
+        7
+        ,
+      
+    
+    {\displaystyle p(x)=x^{3}-7x+7,}
+   and the open interval 
+  
+    
+      
+        (
+        0
+        ,
+        2
+        )
+      
+    
+    {\displaystyle (0,2)}
+  , one has
+
+  
+    
+      
+        
+          
+            
+              
+                p
+                (
+                x
+                +
+                0
+                )
+              
+              
+                
+                =
+                p
+                (
+                x
+                )
+                =
+                
+                  x
+                  
+                    3
+                  
+                
+                −
+                7
+                x
+                +
+                7
+              
+            
+            
+              
+                p
+                (
+                x
+                +
+                2
+                )
+              
+              
+                
+                =
+                (
+                x
+                +
+                2
+                
+                  )
+                  
+                    3
+                  
+                
+                −
+                7
+                (
+                x
+                +
+                2
+                )
+                +
+                7
+                =
+                
+                  x
+                  
+                    3
+                  
+                
+                +
+                6
+                
+                  x
+                  
+                    2
+                  
+                
+                +
+                5
+                x
+                +
+                1
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\begin{aligned}p(x+0)&=p(x)=x^{3}-7x+7\\p(x+2)&=(x+2)^{3}-7(x+2)+7=x^{3}+6x^{2}+5x+1\end{aligned}}.}
+  Thus, 
+  
+    
+      
+        
+          v
+          
+            0
+          
+        
+        (
+        p
+        )
+        −
+        
+          v
+          
+            2
+          
+        
+        (
+        p
+        )
+        =
+        2
+        −
+        0
+        =
+        2
+        ,
+      
+    
+    {\displaystyle v_{0}(p)-v_{2}(p)=2-0=2,}
+   and Budan's theorem asserts that the polynomial 
+  
+    
+      
+        p
+        (
+        x
+        )
+      
+    
+    {\displaystyle p(x)}
+   has either two or zero real roots in the open interval 
+  
+    
+      
+        (
+        0
+        ,
+        2
+        )
+        .
+      
+    
+    {\displaystyle (0,2).}
+  
+2. With the same polynomial 
+  
+    
+      
+        p
+        (
+        x
+        )
+        =
+        
+          x
+          
+            3
+          
+        
+        −
+        7
+        x
+        +
+        7
+      
+    
+    {\displaystyle p(x)=x^{3}-7x+7}
+   one has
+
+  
+    
+      
+        p
+        (
+        x
+        +
+        1
+        )
+        =
+        (
+        x
+        +
+        1
+        
+          )
+          
+            3
+          
+        
+        −
+        7
+        (
+        x
+        +
+        1
+        )
+        +
+        7
+        =
+        
+          x
+          
+            3
+          
+        
+        +
+        3
+        
+          x
+          
+            2
+          
+        
+        −
+        4
+        x
+        +
+        1.
+      
+    
+    {\displaystyle p(x+1)=(x+1)^{3}-7(x+1)+7=x^{3}+3x^{2}-4x+1.}
+  Thus, 
+  
+    
+      
+        
+          v
+          
+            0
+          
+        
+        (
+        p
+        )
+        −
+        
+          v
+          
+            1
+          
+        
+        (
+        p
+        )
+        =
+        2
+        −
+        2
+        =
+        0
+        ,
+      
+    
+    {\displaystyle v_{0}(p)-v_{1}(p)=2-2=0,}
+   and Budan's theorem asserts that the polynomial 
+  
+    
+      
+        p
+        (
+        x
+        )
+      
+    
+    {\displaystyle p(x)}
+   has no real root in the open interval 
+  
+    
+      
+        (
+        0
+        ,
+        1
+        )
+        .
+      
+    
+    {\displaystyle (0,1).}
+   This is an example of the use of Budan's theorem as a zero-root test.
+
+Fourier's statement
+Fourier's theorem on polynomial real roots, also called  Fourier–Budan theorem or Budan–Fourier theorem (sometimes just Budan's theorem) is exactly the same as Budan's theorem, except that, for h = l and r, the sequence of the coefficients of p(x + h) is replaced by the sequence of the derivatives of p at h.
+Each theorem is a corollary of the other. This results from the Taylor expansion 
+
+  
+    
+      
+        p
+        (
+        x
+        )
+        =
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            deg
+            ⁡
+            p
+          
+        
+        
+          
+            
+              
+                p
+                
+                  (
+                  i
+                  )
+                
+              
+              (
+              h
+              )
+            
+            
+              i
+              !
+            
+          
+        
+        (
+        x
+        −
+        h
+        
+          )
+          
+            i
+          
+        
+      
+    
+    {\displaystyle p(x)=\sum _{i=0}^{\deg p}{\frac {p^{(i)}(h)}{i!}}(x-h)^{i}}
+  of the polynomial p at h, which implies that the coefficient of xi in p(x + h) is the quotient of 
+  
+    
+      
+        
+          p
+          
+            (
+            i
+            )
+          
+        
+        (
+        h
+        )
+      
+    
+    {\displaystyle p^{(i)}(h)}
+   by i!, a positive number. Thus the sequences considered in Fourier's theorem and in Budan's theorem have the same number of sign variations.
+This strong relationship between the two theorems may explain the priority controversy that occurred in 19th century, and the use of several names for the same theorem. In modern usage, for computer computation, Budan's theorem is generally preferred since the sequences have much larger coefficients in Fourier's theorem than in Budan's, because of the factorial factor.
+
+Proof
+As each theorem is a corollary of the other, it suffices to prove Fourier's theorem.
+Proof: 
+Let 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   be the degree of 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  , so that 
+  
+    
+      
+        f
+        ,
+        
+          f
+          ′
+        
+        ,
+        .
+        .
+        .
+        ,
+        
+          f
+          
+            (
+            n
+            −
+            1
+            )
+          
+        
+      
+    
+    {\displaystyle f,f',...,f^{(n-1)}}
+   are nonconstant polynomials, 
+  
+    
+      
+        
+          f
+          
+            (
+            n
+            )
+          
+        
+      
+    
+    {\displaystyle f^{(n)}}
+   is a nonzero constant, and 
+  
+    
+      
+        
+          f
+          
+            (
+            n
+            +
+            1
+            )
+          
+        
+        ,
+        .
+        .
+        .
+      
+    
+    {\displaystyle f^{(n+1)},...}
+   are all identically zero.
+As a function of 
+  
+    
+      
+        t
+        ,
+      
+    
+    {\displaystyle t,}
+   the sign variation 
+  
+    
+      
+        
+          v
+          
+            t
+          
+        
+        (
+        f
+        )
+      
+    
+    {\displaystyle v_{t}(f)}
+   can only varies at a root of at least one of 
+  
+    
+      
+        f
+        ,
+        
+          f
+          ′
+        
+        ,
+        .
+        .
+        .
+        ,
+        
+          f
+          
+            (
+            n
+            −
+            1
+            )
+          
+        
+        .
+      
+    
+    {\displaystyle f,f',...,f^{(n-1)}.}
+  
+If 
+  
+    
+      
+        
+          v
+          
+            t
+          
+        
+        (
+        f
+        )
+      
+    
+    {\displaystyle v_{t}(f)}
+   varies at 
+  
+    
+      
+        t
+        =
+        r
+      
+    
+    {\displaystyle t=r}
+  , then for some 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  , 
+  
+    
+      
+        
+          f
+          
+            (
+            k
+            )
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle f^{(k)}(x)}
+   has a root at 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  , and each of 
+  
+    
+      
+        f
+        ,
+        
+          f
+          ′
+        
+        ,
+        .
+        .
+        .
+        ,
+        
+          f
+          
+            (
+            k
+            −
+            1
+            )
+          
+        
+      
+    
+    {\displaystyle f,f',...,f^{(k-1)}}
+   has no root at 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  .
+If 
+  
+    
+      
+        k
+        =
+        0
+      
+    
+    {\displaystyle k=0}
+  , then 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        (
+        x
+        −
+        r
+        
+          )
+          
+            s
+          
+        
+        p
+        (
+        x
+        −
+        r
+        )
+      
+    
+    {\displaystyle f(x)=(x-r)^{s}p(x-r)}
+   for some 
+  
+    
+      
+        s
+        ≥
+        1
+      
+    
+    {\displaystyle s\geq 1}
+   and some polynomial 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   that satisfies 
+  
+    
+      
+        p
+        (
+        0
+        )
+        ≠
+        0
+      
+    
+    {\displaystyle p(0)\neq 0}
+  . By explicitly computing 
+  
+    
+      
+        f
+        ,
+        
+          f
+          ′
+        
+        ,
+        .
+        .
+        .
+        ,
+        
+          f
+          
+            (
+            n
+            )
+          
+        
+      
+    
+    {\displaystyle f,f',...,f^{(n)}}
+   at 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   and 
+  
+    
+      
+        r
+        −
+        ϵ
+      
+    
+    {\displaystyle r-\epsilon }
+   for a small 
+  
+    
+      
+        ϵ
+      
+    
+    {\displaystyle \epsilon }
+  , we have 
+  
+    
+      
+        
+          v
+          
+            r
+          
+        
+        (
+        f
+        )
+        =
+        
+          v
+          
+            r
+            −
+            ϵ
+          
+        
+        (
+        f
+        )
+        −
+        s
+        −
+        2
+        
+          s
+          ′
+        
+        ,
+        
+        ∃
+        
+          s
+          ′
+        
+        ≥
+        0.
+      
+    
+    {\displaystyle v_{r}(f)=v_{r-\epsilon }(f)-s-2s',\quad \exists s'\geq 0.}
+   
+In this equation, the term 
+  
+    
+      
+        −
+        s
+      
+    
+    {\displaystyle -s}
+   is due to the signs of 
+  
+    
+      
+        f
+        ,
+        
+          f
+          ′
+        
+        ,
+        .
+        .
+        .
+        ,
+        
+          f
+          
+            (
+            s
+            )
+          
+        
+      
+    
+    {\displaystyle f,f',...,f^{(s)}}
+   changing from 
+  
+    
+      
+        (
+        −
+        1
+        
+          )
+          
+            s
+          
+        
+        sign
+        ⁡
+        (
+        p
+        (
+        0
+        )
+        )
+        ,
+        (
+        −
+        1
+        
+          )
+          
+            s
+            −
+            1
+          
+        
+        sign
+        ⁡
+        (
+        p
+        (
+        0
+        )
+        )
+        ,
+        .
+        .
+        .
+        ,
+        −
+        sign
+        ⁡
+        (
+        p
+        (
+        0
+        )
+        )
+        ,
+        sign
+        ⁡
+        (
+        p
+        (
+        0
+        )
+        )
+      
+    
+    {\displaystyle (-1)^{s}\operatorname {sign} (p(0)),(-1)^{s-1}\operatorname {sign} (p(0)),...,-\operatorname {sign} (p(0)),\operatorname {sign} (p(0))}
+   to 
+  
+    
+      
+        0
+        ,
+        0
+        ,
+        .
+        .
+        .
+        ,
+        0
+        ,
+        sign
+        ⁡
+        (
+        p
+        (
+        0
+        )
+        )
+      
+    
+    {\displaystyle 0,0,...,0,\operatorname {sign} (p(0))}
+  . The term 
+  
+    
+      
+        −
+        2
+        
+          s
+          ′
+        
+        ,
+        
+        ∃
+        
+          s
+          ′
+        
+        ≥
+        0
+      
+    
+    {\displaystyle -2s',\quad \exists s'\geq 0}
+   is due to the higher derivative signs possibly becoming zero.
+If 
+  
+    
+      
+        k
+        ≥
+        1
+      
+    
+    {\displaystyle k\geq 1}
+  , then since some derivatives are zeroed at 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  , but both 
+  
+    
+      
+        
+          f
+          
+            (
+            k
+            −
+            1
+            )
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle f^{(k-1)}(x)}
+   and 
+  
+    
+      
+        
+          f
+          
+            (
+            n
+            )
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle f^{(n)}(x)}
+   remain nonzero, we only lose an even number of sign changes:
+
+If 
+  
+    
+      
+        
+          v
+          
+            t
+          
+        
+        (
+        f
+        )
+      
+    
+    {\displaystyle v_{t}(f)}
+   varies at 
+  
+    
+      
+        t
+        =
+        l
+      
+    
+    {\displaystyle t=l}
+  , then arguing similarly, we find that for both cases, we can take a small 
+  
+    
+      
+        ϵ
+      
+    
+    {\displaystyle \epsilon }
+   such that 
+  
+    
+      
+        
+          v
+          
+            l
+            +
+            ϵ
+          
+        
+        (
+        f
+        )
+        =
+        
+          v
+          
+            l
+          
+        
+        (
+        f
+        )
+      
+    
+    {\displaystyle v_{l+\epsilon }(f)=v_{l}(f)}
+  .
+
+History
+The problem of counting and locating the real roots of a polynomial started to be systematically studied only in
+the beginning of the 19th century.
+In 1807, François Budan de Boislaurent discovered a method for extending Descartes' rule of signs—valid for the interval (0, +∞)—to any interval.Joseph Fourier published a similar theorem in 1820, on which he worked for more than twenty years.Because of the similarity between the two theorems, there was a priority controversy, despite the fact that the two theorems were discovered independently. It was generally Fourier's formulation and proof that were used, during the 19th century, in textbooks on the theory of equations.
+
+Use in 19th century
+Budan's and Fourier's theorems were soon considered of a great importance, although they do not solve completely the problem of counting the number of real roots of a polynomial in an interval. This problem was completely solved 
+in 1827 by Sturm.
+Although Sturm's theorem is not based on Descartes' rule of signs, Sturm's and Fourier's theorems are related not only by the use of the number of sign variations of a sequence of numbers, but also by a similar approach of the problem. Sturm himself acknowledged having been inspired by Fourier's methods: « C'est en m'appuyant sur les principes qu'il a posés, et en imitant ses démonstrations, que j'ai trouvé les nouveaux théorèmes que je vais énoncer. » which translates into « It is by relying upon the principles he has laid out and by imitating his proofs that I have found the new theorems which I am about to present. »
+Because of this, during the 19th century, Fourier's and Sturm's theorems appeared together in almost all books on the theory of equations.
+Fourier and Budan left open the problem of reducing the size of the intervals in which roots are searched in a way that, eventually, the difference between the numbers of sign variations is at most one, allowing certifying that the final intervals contains at most one root each. This problem was solved in 1834 by Alexandre Joseph Hidulph Vincent. Roughly speaking, Vincent's theorem consists of using continued fractions for replacing Budan's linear transformations of the variable by Möbius transformations.
+Budan's, Fourier's and Vincent theorem sank into oblivion at the end of 19th century. The last author mentioning these theorems before the second half of 20th century Joseph Alfred Serret. They were introduced again in 1976 by Collins and Akritas, for providing, in computer algebra, an efficient algorithm for real roots isolation on computers.
+
+See also
+Properties of polynomial roots
+Root-finding algorithm
+
+References
+External links
+O'Connor, John J.; Robertson, Edmund F., "Budan de Boislaurent", MacTutor History of Mathematics Archive, University of St Andrews

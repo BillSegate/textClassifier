@@ -1,0 +1,135 @@
+-yllion (pronounced ) is a proposal from Donald Knuth for the terminology and symbols of an alternate decimal superbase system. In it, he adapts the familiar English terms for large numbers to provide a systematic set of names for much larger numbers. In addition to providing an extended range, -yllion also dodges the long and short scale ambiguity of -illion.
+Knuth's digit grouping is exponential instead of linear; each division doubles the number of digits handled, whereas the familiar system only adds three or six more.  His system is basically the same as one of the ancient and now-unused Chinese numeral systems, in which units stand for 104, 108, 1016, 1032, ..., 102n, and so on (with an exception that the -yllion proposal does not use a word for thousand which the original Chinese numeral system has). Today the corresponding Chinese characters are used for 104, 108, 1012, 1016, and so on.
+
+Details and examples
+In Knuth's -yllion proposal:
+
+1 to 999 have their usual names.
+1000 to 9999 are divided before the 2nd-last digit and named "foo hundred bar." (e.g. 1234 is "twelve hundred thirty-four"; 7623 is "seventy-six hundred twenty-three")
+104 to 108 − 1 are divided before the 4th-last digit and named "foo myriad bar". Knuth also introduces at this level a grouping symbol (comma) for the numeral. So 382,1902 is "three hundred eighty-two myriad nineteen hundred two."
+108 to 1016 − 1 are divided before the 8th-last digit and named "foo myllion bar", and a semicolon separates the digits. So 1,0002;0003,0004 is "one myriad two myllion, three myriad four."
+1016 to 1032 − 1 are divided before the 16th-last digit and named "foo byllion bar", and a colon separates the digits. So 12:0003,0004;0506,7089 is "twelve byllion, three myriad four myllion, five hundred six myriad seventy hundred eighty-nine."
+etc.Each new number name is the square of the previous one — therefore, each new name covers twice as many digits. Knuth continues borrowing the traditional names changing "illion" to "yllion" on each one. 
+Abstractly, then, "one n-yllion" is 
+  
+    
+      
+        
+          10
+          
+            
+              2
+              
+                n
+                +
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle 10^{2^{n+2}}}
+  . "One trigintyllion" (
+  
+    
+      
+        
+          10
+          
+            
+              2
+              
+                32
+              
+            
+          
+        
+      
+    
+    {\displaystyle 10^{2^{32}}}
+  ) would have 232 + 1, or 42;9496,7297, or nearly forty-three myllion (4300 million) digits (by contrast, a conventional "trigintillion" has merely 94 digits — not even a hundred, let alone a thousand million, and still 7 digits short of a googol). Better yet, "one centyllion" (
+  
+    
+      
+        
+          10
+          
+            
+              2
+              
+                102
+              
+            
+          
+        
+      
+    
+    {\displaystyle 10^{2^{102}}}
+  ) would have 2102 + 1, or 507,0602;4009,1291:7605,9868;1282,1505, or about 1/20 of a tryllion digits, whereas a conventional "centillion" has only 304 digits.
+The corresponding Chinese "long scale" numerals are given, with the traditional form listed before the simplified form. Same numerals are used in the Chinese "short scale" (new number name every power of 10 after 1000 (or 103+n)), "myriad scale" (new number name every 104n), and "mid scale" (new number name every 108n).  Today these numerals are still in use, but are used in their "myriad scale" values, which is also used in Japanese and in Korean.  For a more extensive table, see Myriad system.
+
+Latin- prefix
+In order to construct names of the form n-yllion for large values of n, Knuth appends the prefix "latin-" to the name of n without spaces and uses that as the prefix for n. For example, the number "latintwohundredyllion" corresponds to n = 200, and hence to the number 
+  
+    
+      
+        
+          10
+          
+            
+              2
+              
+                202
+              
+            
+          
+        
+      
+    
+    {\displaystyle 10^{2^{202}}}
+  .
+
+Negative powers
+To refer to small quantities with this system, the suffix -th is used.
+For instance, 
+  
+    
+      
+        
+          10
+          
+            −
+            4
+          
+        
+      
+    
+    {\displaystyle 10^{-4}}
+  is a myriadth.
+
+  
+    
+      
+        
+          10
+          
+            −
+            16777216
+          
+        
+      
+    
+    {\displaystyle 10^{-16777216}}
+   is a vigintyllionth.
+
+See also
+Nicolas Chuquet – Mathematician
+Jacques Pelletier du Mans – Humanist, Poet, Mathematician
+Knuth's up-arrow notation – Method of notation of very large integers
+The Sand Reckoner – Work by Archimedes
+
+References
+
+Donald E. Knuth. Supernatural Numbers in The Mathematical Gardener (edited by David A. Klarner). Wadsworth, Belmont, CA, 1981. 310—325.
+Robert P. Munafo. The Knuth -yllion Notation ( Archived 2012-02-13 at the Wayback Machine 2012-02-25), 1996–2012.

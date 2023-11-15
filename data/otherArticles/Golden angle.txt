@@ -1,0 +1,288 @@
+In geometry, the golden angle is the smaller of the two angles created by sectioning the circumference of a circle according to the golden ratio; that is, into two arcs such that the ratio of the length of the smaller arc to the length of the larger arc is the same as the ratio of the length of the larger arc to the full circumference of the circle. 
+Algebraically, let a+b be the circumference of a circle, divided into a longer arc of length a and a smaller arc of length b such that
+
+  
+    
+      
+        
+          
+            
+              a
+              +
+              b
+            
+            a
+          
+        
+        =
+        
+          
+            a
+            b
+          
+        
+      
+    
+    {\displaystyle {\frac {a+b}{a}}={\frac {a}{b}}}
+  The golden angle is then the angle subtended by the smaller arc of length b. It measures approximately 137.5077640500378546463487 ...°  OEIS: A096627 or in radians 2.39996322972865332 ...  OEIS: A131988.
+The name comes from the golden angle's connection to the golden ratio φ; the exact value of the golden angle is
+
+  
+    
+      
+        360
+        
+          (
+          
+            1
+            −
+            
+              
+                1
+                φ
+              
+            
+          
+          )
+        
+        =
+        360
+        (
+        2
+        −
+        φ
+        )
+        =
+        
+          
+            360
+            
+              φ
+              
+                2
+              
+            
+          
+        
+        =
+        180
+        (
+        3
+        −
+        
+          
+            5
+          
+        
+        )
+        
+           degrees
+        
+      
+    
+    {\displaystyle 360\left(1-{\frac {1}{\varphi }}\right)=360(2-\varphi )={\frac {360}{\varphi ^{2}}}=180(3-{\sqrt {5}}){\text{ degrees}}}
+  or
+
+  
+    
+      
+        2
+        π
+        
+          (
+          
+            1
+            −
+            
+              
+                1
+                φ
+              
+            
+          
+          )
+        
+        =
+        2
+        π
+        (
+        2
+        −
+        φ
+        )
+        =
+        
+          
+            
+              2
+              π
+            
+            
+              φ
+              
+                2
+              
+            
+          
+        
+        =
+        π
+        (
+        3
+        −
+        
+          
+            5
+          
+        
+        )
+        
+           radians
+        
+        ,
+      
+    
+    {\displaystyle 2\pi \left(1-{\frac {1}{\varphi }}\right)=2\pi (2-\varphi )={\frac {2\pi }{\varphi ^{2}}}=\pi (3-{\sqrt {5}}){\text{ radians}},}
+  where the equivalences follow from well-known algebraic properties of the golden ratio.
+As its sine and cosine are transcendental numbers, the golden angle cannot be constructed using a straightedge and compass.
+
+Derivation
+The golden ratio is equal to φ = a/b given the conditions above.
+Let ƒ be the fraction of the circumference subtended by the golden angle, or equivalently, the golden angle divided by the angular measurement of the circle.
+
+  
+    
+      
+        f
+        =
+        
+          
+            b
+            
+              a
+              +
+              b
+            
+          
+        
+        =
+        
+          
+            1
+            
+              1
+              +
+              φ
+            
+          
+        
+        .
+      
+    
+    {\displaystyle f={\frac {b}{a+b}}={\frac {1}{1+\varphi }}.}
+  But since
+
+  
+    
+      
+        
+          1
+          +
+          φ
+        
+        =
+        
+          φ
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle {1+\varphi }=\varphi ^{2},}
+  it follows that
+
+  
+    
+      
+        f
+        =
+        
+          
+            1
+            
+              φ
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle f={\frac {1}{\varphi ^{2}}}}
+  This is equivalent to saying that φ 2 golden angles can fit in a circle.
+The fraction of a circle occupied by the golden angle is therefore
+
+  
+    
+      
+        f
+        ≈
+        0.381966.
+        
+      
+    
+    {\displaystyle f\approx 0.381966.\,}
+  The golden angle g can therefore be numerically approximated in degrees as:
+
+  
+    
+      
+        g
+        ≈
+        360
+        ×
+        0.381966
+        ≈
+        
+          137.508
+          
+            ∘
+          
+        
+        ,
+        
+      
+    
+    {\displaystyle g\approx 360\times 0.381966\approx 137.508^{\circ },\,}
+  or in radians as :
+
+  
+    
+      
+        g
+        ≈
+        2
+        π
+        ×
+        0.381966
+        ≈
+        2.39996.
+        
+      
+    
+    {\displaystyle g\approx 2\pi \times 0.381966\approx 2.39996.\,}
+
+Golden angle in nature
+The golden angle plays a significant role in the theory of phyllotaxis; for example, the golden angle is the angle separating the florets on a sunflower. Analysis of the pattern shows that it is highly sensitive to the angle separating the individual primordia, with the Fibonacci angle giving the parastichy with optimal packing density.Mathematical modelling of a plausible physical mechanism for floret development has shown the pattern arising spontaneously from the solution of a nonlinear partial differential equation on a plane.
+
+See also
+137 (number)
+138 (number)
+
+References
+External links
+
+Golden Angle at MathWorld

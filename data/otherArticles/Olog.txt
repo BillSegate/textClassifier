@@ -1,0 +1,753 @@
+The theory of ologs is an attempt to provide a rigorous mathematical framework for knowledge representation, construction of scientific models and data storage using category theory, linguistic and graphical tools. Ologs were introduced in 2012 by David Spivak and Robert Kent.
+
+Etymology
+The term "olog" is short for "ontology log". "Ontology" derives from onto-, from the Greek ὤν, ὄντος "being; that which is", present participle of the verb εἰμί "be", and -λογία, -logia: science, study, theory.
+
+Mathematical formalism
+An olog 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+   for a given domain is a category whose objects are boxes labeled with phrases (more specifically, singular indefinite noun phrases) relevant to the domain, and whose morphisms are directed arrows between the boxes, labeled with verb phrases also relevant to the domain. These noun and verb phrases combine to form sentences that express relationships between objects in the domain.
+In every olog, the objects exist within a target category. Unless otherwise specified, the target category is taken to be 
+  
+    
+      
+        
+          
+            Set
+          
+        
+      
+    
+    {\displaystyle {\textbf {Set}}}
+  , the  category of sets and functions.
+The boxes in the above diagram represent objects of 
+  
+    
+      
+        
+          
+            Set
+          
+        
+      
+    
+    {\displaystyle {\textbf {Set}}}
+  . For example, the box containing the phrase "an amino acid" represents the set of all amino acids, and the box containing the phrase "a side chain" represents the set of all side chains. The arrow labeled "has" that points from "an amino acid" to "a side chain" represents the function that maps each amino acid to its unique side chain.
+Another target category that can be used is the Kleisli category 
+  
+    
+      
+        
+          
+            
+              C
+            
+          
+          
+            
+              P
+            
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}_{\mathbb {P} }}
+   of the power set monad. Given an 
+  
+    
+      
+        A
+        ∈
+        O
+        b
+        (
+        
+          
+            Set
+          
+        
+        )
+      
+    
+    {\displaystyle A\in Ob({\textbf {Set}})}
+  , 
+  
+    
+      
+        
+          P
+        
+        (
+        A
+        )
+      
+    
+    {\displaystyle \mathbb {P} (A)}
+   is then the power set of A. The natural transformation 
+  
+    
+      
+        η
+      
+    
+    {\displaystyle \eta }
+   maps 
+  
+    
+      
+        a
+        ∈
+        A
+      
+    
+    {\displaystyle a\in A}
+   to the singleton 
+  
+    
+      
+        {
+        a
+        }
+      
+    
+    {\displaystyle \{a\}}
+  , and the natural transformation 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+   maps a set of sets to its union. The Kleisli category 
+  
+    
+      
+        
+          
+            
+              C
+            
+          
+          
+            
+              P
+            
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}_{\mathbb {P} }}
+   is the category with the objects matching those in 
+  
+    
+      
+        
+          P
+        
+      
+    
+    {\displaystyle \mathbb {P} }
+  , and morphisms that establish binary relations. Given a morphism 
+  
+    
+      
+        f
+        :
+        A
+        →
+        B
+      
+    
+    {\displaystyle f:A\to B}
+  , and given 
+  
+    
+      
+        a
+        ∈
+        A
+      
+    
+    {\displaystyle a\in A}
+   and 
+  
+    
+      
+        b
+        ∈
+        B
+      
+    
+    {\displaystyle b\in B}
+  , we define the morphism 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   by saying that 
+  
+    
+      
+        (
+        a
+        ,
+        b
+        )
+        ∈
+        R
+      
+    
+    {\displaystyle (a,b)\in R}
+   whenever 
+  
+    
+      
+        b
+        ∈
+        f
+        (
+        a
+        )
+      
+    
+    {\displaystyle b\in f(a)}
+  . The verb phrases used with this target category would need to make sense with objects that are subsets: for example, "is related to" or "is greater than".
+Another possible target category is the Kleisli category of probability distributions, called the Giry monad. This provides a generalization of Markov decision processes.
+
+Ologs and databases
+An olog 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+   can also be viewed as a database schema. Every box (object of 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+  ) in the olog is a table 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   and the arrows (morphisms) emanating from the box are columns in 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+  . The assignment of a particular instance to an object of 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+   is done through a functor 
+  
+    
+      
+        I
+        :
+        
+          
+            C
+          
+        
+        →
+        
+          
+            Set
+          
+        
+      
+    
+    {\displaystyle I:{\mathcal {C}}\to {\textbf {Set}}}
+  . In the example above, the box "an amino acid" will be represented as a table whose number of rows is equal to the number of types of amino acids and whose number of columns is three, one column for each arrow emanating from that box.
+
+Relations between ologs
+"Communication" between different ologs which in practice can be communication between different models or world-views is done using functors. Spivak coins the notions of a 'meaningful' and 'strongly meaningful' functors. Let 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+   and 
+  
+    
+      
+        
+          
+            D
+          
+        
+      
+    
+    {\displaystyle {\mathcal {D}}}
+   be two ologs, 
+  
+    
+      
+        I
+        :
+        
+          
+            C
+          
+        
+        →
+        
+          
+            Set
+          
+        
+      
+    
+    {\displaystyle I:{\mathcal {C}}\to {\textbf {Set}}}
+  , 
+  
+    
+      
+        J
+        :
+        
+          
+            D
+          
+        
+        →
+        
+          
+            Set
+          
+        
+      
+    
+    {\displaystyle J:{\mathcal {D}}\to {\textbf {Set}}}
+   functors (see the section on ologs and databases) and 
+  
+    
+      
+        F
+        :
+        
+          
+            C
+          
+        
+        →
+        
+          
+            D
+          
+        
+      
+    
+    {\displaystyle F:{\mathcal {C}}\to {\mathcal {D}}}
+   a functor. 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   is called a schema mapping. We say that a 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   is meaningful if there exists a natural transformation 
+  
+    
+      
+        m
+        :
+        I
+        →
+        
+          F
+          
+            ∗
+          
+        
+        J
+      
+    
+    {\displaystyle m:I\to F^{*}J}
+   (the pullback of J by F).
+Taking as an example 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+   and 
+  
+    
+      
+        
+          
+            D
+          
+        
+      
+    
+    {\displaystyle {\mathcal {D}}}
+   as two different scientific models, the functor 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   is meaningful if "predictions", which are objects in 
+  
+    
+      
+        
+          
+            Set
+          
+        
+      
+    
+    {\displaystyle {\textbf {Set}}}
+  , made by the first model 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+   can be translated to the second model 
+  
+    
+      
+        
+          
+            D
+          
+        
+      
+    
+    {\displaystyle {\mathcal {D}}}
+  .
+We say that 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   is strongly meaningful if given an object 
+  
+    
+      
+        X
+        ∈
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle X\in {\mathcal {C}}}
+   we have 
+  
+    
+      
+        I
+        (
+        X
+        )
+        =
+        J
+        (
+        F
+        (
+        X
+        )
+        )
+      
+    
+    {\displaystyle I(X)=J(F(X))}
+  . This equality is equivalent to requiring 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   to be a natural isomorphism.
+Sometimes it will be hard to find a meaningful functor 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   from 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+   to 
+  
+    
+      
+        
+          
+            D
+          
+        
+      
+    
+    {\displaystyle {\mathcal {D}}}
+  . In such a case we may try to define a new olog 
+  
+    
+      
+        
+          
+            B
+          
+        
+      
+    
+    {\displaystyle {\mathcal {B}}}
+   which represents the common ground of 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+   and 
+  
+    
+      
+        
+          
+            D
+          
+        
+      
+    
+    {\displaystyle {\mathcal {D}}}
+   and find meaningful functors 
+  
+    
+      
+        
+          F
+          
+            
+              C
+            
+          
+        
+        :
+        
+          
+            B
+          
+        
+        →
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle F_{\mathcal {C}}:{\mathcal {B}}\to {\mathcal {C}}}
+   and 
+  
+    
+      
+        
+          F
+          
+            
+              D
+            
+          
+        
+        :
+        
+          
+            B
+          
+        
+        →
+        
+          
+            D
+          
+        
+      
+    
+    {\displaystyle F_{\mathcal {D}}:{\mathcal {B}}\to {\mathcal {D}}}
+  .
+If communication between ologs is limited to a two-way communication as described above then we may think of a collection of ologs as nodes of a graph and of the edges as functors connecting the ologs. If a simultaneous communication between more than two ologs is allowed then the graph becomes a symmetric simplicial complex.
+
+Rules of good practice
+Spivak provides some rules of good practice for writing an olog whose morphisms have a functional nature (see the first example in the section Mathematical formalism). The text in a box should adhere to the following rules:
+
+begin with the word "a" or "an". (Example: "an amino acid").
+refer to a distinction made and recognizable by the olog's author.
+refer to a distinction for which there is well defined functor whose range is 
+  
+    
+      
+        
+          
+            Set
+          
+        
+      
+    
+    {\displaystyle {\textbf {Set}}}
+  , i.e. an instance can be documented. (Example: there is a set of all amino acids).
+declare all variables in a compound structure. (Example: instead of writing in a box "a man and a woman" write "a man 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   and a woman 
+  
+    
+      
+        w
+      
+    
+    {\displaystyle w}
+   " or "a pair 
+  
+    
+      
+        (
+        m
+        ,
+        w
+        )
+      
+    
+    {\displaystyle (m,w)}
+   where 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   is a man and 
+  
+    
+      
+        w
+      
+    
+    {\displaystyle w}
+   is a woman").The first three rules ensure that the objects (the boxes) defined by the olog's author are well-defined sets. The fourth rule improves the labeling of arrows in an olog.
+
+Applications
+This concept was used in a paper published in the December 2011 issue of BioNanoScience by David Spivak and others to establish a scientific analogy between spider silk and musical composition.
+
+See also
+Hypergraph
+Modeling language
+Ontology language
+Operad theory
+Orgology
+Universal algebra
+Universal logic
+
+References
+External links
+Spivak, David I. "Categorical informatics". math.mit.edu. Retrieved 2 May 2017.
+Spivak, David I. (2014). Category theory for the sciences. Cambridge, MA: MIT Press. ISBN 9780262028134. OCLC 876833252.

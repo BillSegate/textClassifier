@@ -1,0 +1,39 @@
+Mathematical Alphanumeric Symbols is a Unicode block comprising styled forms of Latin and Greek letters and decimal digits that enable mathematicians to denote different notions with different letter styles. The letters in various fonts often have specific, fixed meanings in particular areas of mathematics. By providing uniformity over numerous mathematical articles and books, these conventions help to read mathematical formulas. These also may be used to differentiate between concepts that share a letter in a single problem.
+Unicode now includes many such symbols (in the range U+1D400–U+1D7FF). The rationale behind this is that it enables design and usage of special mathematical characters (fonts) that include all necessary properties to differentiate from other alphanumerics, e.g. in mathematics an italic "𝐴" can have a different meaning from a roman letter "A". Unicode originally included a limited set of such letter forms in its Letterlike Symbols block before completing the set of Latin and Greek letter forms in this block beginning in version 3.1. 
+Unicode expressly recommends that these characters not be used in general text as a substitute for presentational markup; the letters are specifically designed to be semantically different from each other. Unicode does not include a set of normal serif letters in the set. Still they have found some usage on social media, for example by people who want a stylized user name, and in email spam, in an attempt to bypass filters.
+All these letter shapes may be manipulated with MathML's attribute mathvariant.
+The introduction date of some of the more commonly used symbols can be found in the Table of mathematical symbols by introduction date.
+
+Tables of styled letters and digits
+These tables show all styled forms of Latin and Greek letters, symbols and digits in the Unicode Standard, with the normal unstyled forms of these characters shown with a cyan background (the basic unstyled letters may be serif or sans-serif depending upon the font). The styled characters are mostly located in the Mathematical Alphanumeric Symbols block, but the 24 characters in cells with a pink background are located in the letterlike symbols block, for example, ℛ (script capital r) is at U+211B rather than the expected U+1D4AD which is reserved. In the code charts for the Unicode Standard, the reserved code points corresponding to the pink cell are annotated with the name and code point of the correct character. There are a few characters which have names that suggest that they should belong in the tables below, but in fact do not because their official character names are misnomers:
+
+U+2113 ℓ SCRIPT SMALL L is not used as it is a special symbol for litre.
+U+2118 ℘ SCRIPT CAPITAL P is in fact the Weierstrass p which was misnamed, but due to Unicode stability policies the official character name cannot be corrected.
+
+Latin letters
+The Unicode values of the characters in the tables below, except those shown with pink backgrounds or index values of '–', are obtained by adding the base values from the "U+" header row to the index values in the left column (both values are hexadecimal).
+
+Greek letters and symbols
+The Unicode values of the characters in the tables below, except those shown with yellow backgrounds or index values of '–', are obtained by adding the base values from the "U+" header row to the index values in the left column (both values are hexadecimal).
+
+Digits
+The Unicode values of the characters in the tables below are obtained by adding the hexadecimal base values from the "U+" header row to the index values in the left column.
+
+Glyph variants
+Variation selectors may be used to specify chancery (U+FE00) vs roundhand (U+FE01) forms, if the font supports them:
+
+The remainder of the set is at Letterlike Symbols.
+
+Chart for the Mathematical Alphanumeric Symbols block
+History
+The following Unicode-related documents record the purpose and process of defining specific characters in the Mathematical Alphanumeric Symbols block:
+
+See also
+Greek letters used in mathematics, science, and engineering
+List of mathematical uses of Latin letters
+Mathematical operators and symbols in Unicode
+OpenType fonts feature mgrk
+Mathematical notation
+
+
+== References ==

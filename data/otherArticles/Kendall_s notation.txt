@@ -1,0 +1,32 @@
+In queueing theory, a discipline within the mathematical theory of probability, Kendall's notation (or sometimes Kendall notation) is the standard system used to describe and classify a queueing node. D. G. Kendall proposed describing queueing models using three factors written A/S/c in 1953 where A denotes the time between arrivals to the queue, S the service time distribution and c the number of service channels open at the node. It has since been extended to A/S/c/K/N/D where K is the capacity of the queue, N is the size of the population of jobs to be served, and D is the queueing discipline.When the final three parameters are not specified (e.g. M/M/1 queue), it is assumed K = ∞, N = ∞ and D = FIFO.
+
+First example: M/M/1 queue
+A M/M/1 queue means that the time between arrivals is Markovian (M), i.e. the inter-arrival time follows an exponential distribution of parameter λ. The second M means that the service time is Markovian: it follows an exponential distribution of parameter μ. The last parameter is the number of service channel which one (1).
+
+Description of the parameters
+In this section, we describe the parameters A/S/c/K/N/D from left to right.
+
+A: The arrival process
+A code describing the arrival process. The codes used are:
+
+S: The service time distribution
+This gives the distribution of time of the service of a customer. Some common notations are:
+
+c: The number of servers
+The number of service channels (or servers). The M/M/1 queue has a single server and the M/M/c queue c servers.
+
+K: The number of places in the queue
+The capacity of queue, or the maximum number of customers allowed in the queue. When the number is at this maximum, further arrivals are turned away. If this number is omitted, the capacity is assumed to be unlimited, or infinite.
+
+Note: This is sometimes denoted c + K where K is the buffer size, the number of places in the queue above the number of servers c.
+
+N: The calling population
+The size of calling source. The size of the population from which the customers come. A small population will significantly affect the effective arrival rate, because, as more customers are in system, there are fewer free customers available to arrive into the system. If this number is omitted, the population is assumed to be unlimited, or infinite.
+
+D: The queue's discipline
+The Service Discipline or Priority order that jobs in the queue, or waiting line, are served: 
+
+Note: An alternative notation practice is to record the queue discipline before the population and system capacity, with or without enclosing parenthesis. This does not normally cause confusion because the notation is different.
+
+
+== References ==

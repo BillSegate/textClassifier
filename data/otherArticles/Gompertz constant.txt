@@ -1,0 +1,622 @@
+In mathematics, the Gompertz constant or Euler–Gompertz constant, denoted by 
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+  , appears in integral evaluations and as a value of special functions. It is named after Benjamin Gompertz.
+It can be defined by the continued fraction
+
+  
+    
+      
+        δ
+        =
+        
+          
+            1
+            
+              2
+              −
+              
+                
+                  1
+                  
+                    4
+                    −
+                    
+                      
+                        4
+                        
+                          6
+                          −
+                          
+                            
+                              9
+                              
+                                
+                                  8
+                                  −
+                                  
+                                  
+                                
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+
+                                    
+                                    
+                                      ⋱
+                                    
+                                  
+                                  
+                                    −
+                                    
+                                      
+                                        
+                                          n
+                                          
+                                            2
+                                          
+                                        
+                                        
+                                          2
+                                          n
+                                          +
+                                          2
+                                          −
+                                          …
+                                        
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \delta ={\frac {1}{2-{\frac {1}{4-{\frac {4}{6-{\frac {9}{{8-\qquad \qquad } \atop {\qquad }{}^{\ddots }{-{\frac {n^{2}}{2n+2-\dots }}}}}}}}}}},}
+  or, alternatively, by
+
+  
+    
+      
+        δ
+        =
+        1
+        −
+        
+          
+            1
+            
+              3
+              −
+              
+                
+                  2
+                  
+                    5
+                    −
+                    
+                      
+                        6
+                        
+                          7
+                          −
+                          
+                            
+                              12
+                              
+                                
+                                  9
+                                  −
+                                  
+                                  
+                                
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+
+                                    
+                                    
+                                      ⋱
+                                    
+                                  
+                                  
+                                    −
+                                    
+                                      
+                                        
+                                          n
+                                          (
+                                          n
+                                          +
+                                          1
+                                          )
+                                        
+                                        
+                                          2
+                                          n
+                                          +
+                                          3
+                                          −
+                                          …
+                                        
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \delta =1-{\frac {1}{3-{\frac {2}{5-{\frac {6}{7-{\frac {12}{{9-\qquad \qquad } \atop {\qquad }{}^{\ddots }{-{\frac {n(n+1)}{2n+3-\dots }}}}}}}}}}}}
+  or
+
+  
+    
+      
+        δ
+        =
+        
+          
+            1
+            
+              1
+              +
+              
+                
+                  1
+                  
+                    1
+                    +
+                    
+                      
+                        1
+                        
+                          1
+                          +
+                          
+                            
+                              2
+                              
+                                1
+                                +
+                                
+                                  
+                                    2
+                                    
+                                      1
+                                      +
+                                      
+                                        
+                                          3
+                                          
+                                            1
+                                            +
+                                            
+                                              
+                                                3
+                                                
+                                                  1
+                                                  +
+                                                  
+                                                    
+                                                      4
+                                                      
+                                                        1
+                                                        +
+                                                        …
+                                                      
+                                                    
+                                                  
+                                                
+                                              
+                                            
+                                          
+                                        
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \delta ={\frac {1}{1+{\frac {1}{1+{\frac {1}{1+{\frac {2}{1+{\frac {2}{1+{\frac {3}{1+{\frac {3}{1+{\frac {4}{1+\dots }}}}}}}}}}}}}}}}.}
+  The most frequent appearance of 
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+   is in the following integrals:
+
+  
+    
+      
+        δ
+        =
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        ln
+        ⁡
+        (
+        1
+        +
+        x
+        )
+        
+          e
+          
+            −
+            x
+          
+        
+        d
+        x
+        =
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              e
+              
+                −
+                x
+              
+            
+            
+              1
+              +
+              x
+            
+          
+        
+        d
+        x
+        =
+        
+          ∫
+          
+            0
+          
+          
+            1
+          
+        
+        
+          
+            1
+            
+              1
+              −
+              ln
+              ⁡
+              (
+              x
+              )
+            
+          
+        
+        d
+        x
+        .
+      
+    
+    {\displaystyle \delta =\int _{0}^{\infty }\ln(1+x)e^{-x}dx=\int _{0}^{\infty }{\frac {e^{-x}}{1+x}}dx=\int _{0}^{1}{\frac {1}{1-\ln(x)}}dx.}
+  The first integral defines 
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+  , and the second and third follow from an integration of parts and a variable substitution respectively.  The numerical value of 
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+   is about
+
+  
+    
+      
+        δ
+        =
+        0.596347362323194074341078499369279376074
+        …
+      
+    
+    {\displaystyle \delta =0.596347362323194074341078499369279376074\dots }
+  When Euler studied divergent infinite series, he encountered 
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+   via, for example, the above integral representations. Le Lionnais called 
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+   the Gompertz constant because of its role in survival analysis.In 2009 Alexander Aptekarev proved that at least one of the Euler–Mascheroni constant and the Euler–Gompertz constant is irrational. This result was improved in 2012 by Tanguy Rivoal where he proved that at least one of them is transcendental.
+
+Identities involving the Gompertz constant
+The constant 
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+   can be expressed by the exponential integral as
+
+  
+    
+      
+        δ
+        =
+        −
+        e
+        Ei
+        ⁡
+        (
+        −
+        1
+        )
+        .
+      
+    
+    {\displaystyle \delta =-e\operatorname {Ei} (-1).}
+  Applying the Taylor expansion of 
+  
+    
+      
+        Ei
+      
+    
+    {\displaystyle \operatorname {Ei} }
+   we have the series representation
+
+  
+    
+      
+        δ
+        =
+        −
+        e
+        
+          (
+          
+            γ
+            +
+            
+              ∑
+              
+                n
+                =
+                1
+              
+              
+                ∞
+              
+            
+            
+              
+                
+                  (
+                  −
+                  1
+                  
+                    )
+                    
+                      n
+                    
+                  
+                
+                
+                  n
+                  ⋅
+                  n
+                  !
+                
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle \delta =-e\left(\gamma +\sum _{n=1}^{\infty }{\frac {(-1)^{n}}{n\cdot n!}}\right).}
+  Gompertz's constant is connected to the Gregory coefficients via the 2013 formula of I. Mező:
+
+  
+    
+      
+        δ
+        =
+        
+          ∑
+          
+            n
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              ln
+              ⁡
+              (
+              n
+              +
+              1
+              )
+            
+            
+              n
+              !
+            
+          
+        
+        −
+        
+          ∑
+          
+            n
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          C
+          
+            n
+            +
+            1
+          
+        
+        {
+        e
+        ⋅
+        n
+        !
+        }
+        −
+        
+          
+            1
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle \delta =\sum _{n=0}^{\infty }{\frac {\ln(n+1)}{n!}}-\sum _{n=0}^{\infty }C_{n+1}\{e\cdot n!\}-{\frac {1}{2}}.}
+
+Sum of alternating factorials
+The Gompertz constant also happens to be the regularized value of the following divergent series:
+
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            ∞
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            k
+          
+        
+        k
+        !
+        =
+        1
+        −
+        1
+        +
+        2
+        −
+        6
+        +
+        24
+        −
+        120
+        +
+        …
+      
+    
+    {\displaystyle \sum _{k=0}^{\infty }(-1)^{k}k!=1-1+2-6+24-120+\ldots }
+
+Notes
+External links
+Wolfram MathWorld
+OEIS entry

@@ -1,0 +1,11 @@
+Magnetorheological finishing (MRF) is a precision surface finishing technology. Optical surfaces are polished in a computer-controlled magnetorheological (MR) finishing slurry. Unlike conventional rigid lap polishing, the MR fluid's shape and stiffness can be magnetically manipulated and controlled in real time. The optic's final surface form and finishing results are predicted through the use of computer algorithms.
+
+Literature
+[1] W.I. Kordonski (2014). "Magnetorheological Fluid-Based High Precision Finishing Technology." Magnetorheology: Advances and Applications, Norman M. Wereley, Ed., RSC Smart Materials, Cambridge, UK, Chapter 11, 261–277.  
+DOI:10.1039/9781849737548-00261
+[2] S.D. Jacobs, W.I. Kordonski, I.V. Prokhorov, D. Golini, G.R. Gorodkin, T.D. Strafford (2002). "Deterministic Magnetorheological Finishing." US Patent: US5449313A
+[3] Shorey et al. "Experiments and Observations Regarding the Mechanisms of Glass Removal in Magnetorheological Finishing", abstract and full text (pdf)
+[4] Chunlin Miao, et al., "Shear stress in magnetorheological finishing for glasses," Applied Optics 48, 2585-2594 (2009)
+[5] Chunlin Miao, et al., "Process parameter effects on material removal in magnetorheological finishing of borosilicate glass," Applied Optics 49, 1951-1963 (2010)
+
+German Patent: DE69924595T2

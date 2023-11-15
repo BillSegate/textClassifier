@@ -1,0 +1,2446 @@
+In decision theory and estimation theory, Stein's example (also known as Stein's phenomenon or Stein's paradox) is the observation that when three or more parameters are estimated simultaneously, there exist combined estimators more accurate on average (that is, having lower expected mean squared error) than any method that handles the parameters separately. It is named after Charles Stein of Stanford University, who discovered the phenomenon in 1955.An intuitive explanation is that optimizing for the mean-squared error of a combined estimator is not the same as optimizing for the errors of separate estimators of the individual parameters. In practical terms, if the combined error is in fact of interest, then a combined estimator should be used, even if the underlying parameters are independent. If one is instead interested in estimating an individual parameter, then using a combined estimator does not help and is in fact worse.
+
+Formal statement
+The following is the simplest form of the paradox, the special case in which the number of observations is equal to the number of parameters to be estimated. Let 
+  
+    
+      
+        
+          θ
+        
+      
+    
+    {\displaystyle {\boldsymbol {\theta }}}
+   be a vector consisting of 
+  
+    
+      
+        n
+        ≥
+        3
+      
+    
+    {\displaystyle n\geq 3}
+   unknown parameters. To estimate these parameters, a single measurement 
+  
+    
+      
+        
+          X
+          
+            i
+          
+        
+      
+    
+    {\displaystyle X_{i}}
+   is performed for each parameter 
+  
+    
+      
+        
+          θ
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \theta _{i}}
+  , resulting in a vector 
+  
+    
+      
+        
+          X
+        
+      
+    
+    {\displaystyle \mathbf {X} }
+   of length 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  .  Suppose the measurements are known to be independent, Gaussian random variables, with mean 
+  
+    
+      
+        
+          θ
+        
+      
+    
+    {\displaystyle {\boldsymbol {\theta }}}
+   and variance 1, i.e., 
+  
+    
+      
+        
+          X
+        
+        ∼
+        
+          
+            N
+          
+        
+        (
+        
+          θ
+        
+        ,
+        
+          
+            I
+          
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle \mathbf {X} \sim {\mathcal {N}}({\boldsymbol {\theta }},\mathbf {I} _{n})}
+  . Thus, each parameter is estimated using a single noisy measurement, and each measurement is equally inaccurate.
+Under these conditions, it is intuitive and common to use each measurement as an estimate of its corresponding parameter. This so-called "ordinary" decision rule can be written as 
+  
+    
+      
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        =
+        
+          X
+        
+      
+    
+    {\displaystyle {\hat {\boldsymbol {\theta }}}=\mathbf {X} }
+  , which is the maximum likelihood estimator (MLE). The quality of such an estimator is measured by its risk function. A commonly used risk function is the mean squared error, defined as 
+  
+    
+      
+        
+          E
+        
+        [
+        ‖
+        
+          θ
+        
+        −
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        
+          ‖
+          
+            2
+          
+        
+        ]
+      
+    
+    {\displaystyle \mathbb {E} [\|{\boldsymbol {\theta }}-{\hat {\boldsymbol {\theta }}}\|^{2}]}
+  . Surprisingly, it turns out that the "ordinary" decision rule is suboptimal (inadmissible) in terms of mean squared error when 
+  
+    
+      
+        n
+        ≥
+        3
+      
+    
+    {\displaystyle n\geq 3}
+  . In other words, in the setting discussed here, there exist alternative estimators which always achieve lower mean squared error, no matter what the value of 
+  
+    
+      
+        
+          θ
+        
+      
+    
+    {\displaystyle {\boldsymbol {\theta }}}
+   is. For a given 
+  
+    
+      
+        
+          θ
+        
+      
+    
+    {\displaystyle {\boldsymbol {\theta }}}
+   one could obviously define a perfect "estimator" which is always just 
+  
+    
+      
+        
+          θ
+        
+      
+    
+    {\displaystyle {\boldsymbol {\theta }}}
+  , but this estimator would be bad for other values of 
+  
+    
+      
+        
+          θ
+        
+      
+    
+    {\displaystyle {\boldsymbol {\theta }}}
+  . 
+The estimators of Stein's paradox are, for a given 
+  
+    
+      
+        
+          θ
+        
+      
+    
+    {\displaystyle {\boldsymbol {\theta }}}
+  , better than the "ordinary" decision rule 
+  
+    
+      
+        
+          X
+        
+      
+    
+    {\displaystyle \mathbf {X} }
+   for some 
+  
+    
+      
+        
+          X
+        
+      
+    
+    {\displaystyle \mathbf {X} }
+   but necessarily worse for others. It is only on average that they are better. More accurately, an estimator 
+  
+    
+      
+        
+          
+            
+              
+                θ
+                ^
+              
+            
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle {\hat {\boldsymbol {\theta }}}_{1}}
+   is said to dominate another estimator 
+  
+    
+      
+        
+          
+            
+              
+                θ
+                ^
+              
+            
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\hat {\boldsymbol {\theta }}}_{2}}
+   if, for all values of 
+  
+    
+      
+        
+          θ
+        
+      
+    
+    {\displaystyle {\boldsymbol {\theta }}}
+  , the risk of 
+  
+    
+      
+        
+          
+            
+              
+                θ
+                ^
+              
+            
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle {\hat {\boldsymbol {\theta }}}_{1}}
+   is lower than, or equal to, the risk of 
+  
+    
+      
+        
+          
+            
+              
+                θ
+                ^
+              
+            
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\hat {\boldsymbol {\theta }}}_{2}}
+  , and if the inequality is strict for some 
+  
+    
+      
+        
+          θ
+        
+      
+    
+    {\displaystyle {\boldsymbol {\theta }}}
+  . An estimator is said to be admissible if no other estimator dominates it, otherwise it is inadmissible. Thus, Stein's example can be simply stated as follows: The "ordinary" decision rule of the mean of a multivariate Gaussian distribution is inadmissible under mean squared error risk.
+Many simple, practical estimators achieve better performance than the "ordinary" decision rule. The best-known example is the James–Stein estimator, which shrinks 
+  
+    
+      
+        
+          X
+        
+      
+    
+    {\displaystyle \mathbf {X} }
+   towards a particular point (such as the origin) by an amount inversely proportional to the distance of 
+  
+    
+      
+        
+          X
+        
+      
+    
+    {\displaystyle \mathbf {X} }
+   from that point. For a sketch of the proof of this result, see Proof of Stein's example. An alternative proof is due to Larry Brown: he proved that the ordinary estimator for an 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -dimensional multivariate normal mean vector is admissible if and only if the 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   -dimensional Brownian motion is recurrent. Since the Brownian motion is not recurrent for 
+  
+    
+      
+        n
+        ≥
+        3
+      
+    
+    {\displaystyle n\geq 3}
+  , the MLE is not admissible for 
+  
+    
+      
+        n
+        ≥
+        3
+      
+    
+    {\displaystyle n\geq 3}
+  .
+
+An intuitive explanation
+For any particular value of 
+  
+    
+      
+        
+          θ
+        
+      
+    
+    {\displaystyle {\boldsymbol {\theta }}}
+   the new estimator will improve at least one of the individual mean square errors 
+  
+    
+      
+        
+          E
+        
+        [
+        (
+        
+          θ
+          
+            i
+          
+        
+        −
+        
+          
+            
+              
+                θ
+                ^
+              
+            
+          
+          
+            i
+          
+        
+        
+          )
+          
+            2
+          
+        
+        ]
+        .
+      
+    
+    {\displaystyle \mathbb {E} [(\theta _{i}-{\hat {\theta }}_{i})^{2}].}
+   This is not hard − for instance, if 
+  
+    
+      
+        
+          θ
+        
+      
+    
+    {\displaystyle {\boldsymbol {\theta }}}
+   is between −1 and 1, and 
+  
+    
+      
+        σ
+        =
+        1
+      
+    
+    {\displaystyle \sigma =1}
+  , then an estimator that linearly shrinks 
+  
+    
+      
+        
+          X
+        
+      
+    
+    {\displaystyle \mathbf {X} }
+   towards 0 by 0.5 (i.e., 
+  
+    
+      
+        sign
+        ⁡
+        (
+        
+          X
+          
+            i
+          
+        
+        )
+        max
+        (
+        
+          |
+        
+        
+          X
+          
+            i
+          
+        
+        
+          |
+        
+        −
+        0.5
+        ,
+        0
+        )
+      
+    
+    {\displaystyle \operatorname {sign} (X_{i})\max(|X_{i}|-0.5,0)}
+  , soft thresholding with threshold 
+  
+    
+      
+        0.5
+      
+    
+    {\displaystyle 0.5}
+  ) will have a lower mean square error than 
+  
+    
+      
+        
+          X
+        
+      
+    
+    {\displaystyle \mathbf {X} }
+   itself. But there are other values of 
+  
+    
+      
+        
+          θ
+        
+      
+    
+    {\displaystyle {\boldsymbol {\theta }}}
+   for which this estimator is worse than 
+  
+    
+      
+        
+          X
+        
+      
+    
+    {\displaystyle \mathbf {X} }
+   itself. The trick of the Stein estimator, and others that yield the Stein paradox, is that they adjust the shift in such a way that there is always (for any 
+  
+    
+      
+        
+          θ
+        
+      
+    
+    {\displaystyle {\boldsymbol {\theta }}}
+   vector) at least one 
+  
+    
+      
+        
+          X
+          
+            i
+          
+        
+      
+    
+    {\displaystyle X_{i}}
+   whose mean square error is improved, and its improvement more than compensates for any degradation in mean square error that might occur for another 
+  
+    
+      
+        
+          
+            
+              
+                θ
+                ^
+              
+            
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle {\hat {\theta }}_{i}}
+  . The trouble is that, without knowing 
+  
+    
+      
+        
+          θ
+        
+      
+    
+    {\displaystyle {\boldsymbol {\theta }}}
+  , you don't know which of the 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   mean square errors are improved, so you can't use the Stein estimator only for those parameters.
+An example of the above setting occurs in channel estimation in telecommunications, for instance, because different factors affect overall channel performance.
+
+Implications
+Stein's example is surprising, since the "ordinary" decision rule is intuitive and commonly used. In fact, numerous methods for estimator construction, including maximum likelihood estimation, best linear unbiased estimation, least squares estimation and optimal equivariant estimation, all result in the "ordinary" estimator. Yet, as discussed above, this estimator is suboptimal.
+
+Example
+To demonstrate the unintuitive nature of Stein's example, consider the following real-world example. Suppose we are to estimate three unrelated parameters, such as the US wheat yield for 1993, the number of spectators at the Wimbledon tennis tournament in 2001, and the weight of a randomly chosen candy bar from the supermarket. Suppose we have independent Gaussian measurements of each of these quantities. Stein's example now tells us that we can get a better estimate (on average) for the vector of three parameters by simultaneously using the three unrelated measurements.
+At first sight it appears that somehow we get a better estimator for US wheat yield by measuring some other unrelated statistics such as the number of spectators at Wimbledon and the weight of a candy bar. However, we have not obtained a better estimator for US wheat yield by itself, but we have produced an estimator for the vector of the means of all three random variables, which has a reduced total risk.  This occurs because the cost of a bad estimate in one component of the vector is compensated by a better estimate in another component.  Also, a specific set of the three estimated mean values obtained with the new estimator will not necessarily be better than the ordinary set (the measured values). It is only on average that the new estimator is better.
+
+Sketched proof
+The risk function of the decision rule 
+  
+    
+      
+        d
+        (
+        
+          x
+        
+        )
+        =
+        
+          x
+        
+      
+    
+    {\displaystyle d(\mathbf {x} )=\mathbf {x} }
+   is
+
+  
+    
+      
+        R
+        (
+        θ
+        ,
+        d
+        )
+        =
+        
+          E
+          
+            θ
+          
+        
+        ⁡
+        [
+        
+          |
+        
+        
+          θ
+        
+        −
+        
+          X
+        
+        
+          
+            |
+          
+          
+            2
+          
+        
+        ]
+      
+    
+    {\displaystyle R(\theta ,d)=\operatorname {E} _{\theta }[|{\boldsymbol {\theta }}-\mathbf {X} |^{2}]}
+  
+
+  
+    
+      
+        =
+        ∫
+        (
+        
+          θ
+        
+        −
+        
+          x
+        
+        
+          )
+          
+            T
+          
+        
+        (
+        
+          θ
+        
+        −
+        
+          x
+        
+        )
+        
+          
+            (
+            
+              
+                1
+                
+                  2
+                  π
+                
+              
+            
+            )
+          
+          
+            n
+            
+              /
+            
+            2
+          
+        
+        
+          e
+          
+            (
+            −
+            1
+            
+              /
+            
+            2
+            )
+            (
+            
+              θ
+            
+            −
+            
+              x
+            
+            
+              )
+              
+                T
+              
+            
+            (
+            
+              θ
+            
+            −
+            
+              x
+            
+            )
+          
+        
+        d
+        x
+      
+    
+    {\displaystyle =\int ({\boldsymbol {\theta }}-\mathbf {x} )^{T}({\boldsymbol {\theta }}-\mathbf {x} )\left({\frac {1}{2\pi }}\right)^{n/2}e^{(-1/2)({\boldsymbol {\theta }}-\mathbf {x} )^{T}({\boldsymbol {\theta }}-\mathbf {x} )}dx}
+  
+
+  
+    
+      
+        =
+        n
+        .
+      
+    
+    {\displaystyle =n.}
+  Now consider the decision rule
+
+  
+    
+      
+        
+          d
+          ′
+        
+        (
+        
+          x
+        
+        )
+        =
+        
+          x
+        
+        −
+        
+          
+            α
+            
+              
+                |
+              
+              
+                x
+              
+              
+                
+                  |
+                
+                
+                  2
+                
+              
+            
+          
+        
+        
+          x
+        
+        ,
+      
+    
+    {\displaystyle d'(\mathbf {x} )=\mathbf {x} -{\frac {\alpha }{|\mathbf {x} |^{2}}}\mathbf {x} ,}
+  where 
+  
+    
+      
+        α
+        =
+        n
+        −
+        2
+      
+    
+    {\displaystyle \alpha =n-2}
+  . We will show that 
+  
+    
+      
+        
+          d
+          ′
+        
+      
+    
+    {\displaystyle d'}
+   is a better decision rule than 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+  . The risk function is
+
+  
+    
+      
+        R
+        (
+        θ
+        ,
+        
+          d
+          ′
+        
+        )
+        =
+        
+          E
+          
+            θ
+          
+        
+        ⁡
+        
+          [
+          
+            
+              |
+              
+                
+                  θ
+                  −
+                  X
+                
+                +
+                
+                  
+                    α
+                    
+                      
+                        |
+                      
+                      
+                        X
+                      
+                      
+                        
+                          |
+                        
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+                
+                  X
+                
+              
+              |
+            
+            
+              2
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle R(\theta ,d')=\operatorname {E} _{\theta }\left[\left|\mathbf {\theta -X} +{\frac {\alpha }{|\mathbf {X} |^{2}}}\mathbf {X} \right|^{2}\right]}
+  
+
+  
+    
+      
+        =
+        
+          E
+          
+            θ
+          
+        
+        ⁡
+        
+          [
+          
+            
+              |
+            
+            
+              θ
+              −
+              X
+            
+            
+              
+                |
+              
+              
+                2
+              
+            
+            +
+            2
+            (
+            
+              θ
+              −
+              X
+            
+            
+              )
+              
+                T
+              
+            
+            
+              
+                α
+                
+                  
+                    |
+                  
+                  
+                    X
+                  
+                  
+                    
+                      |
+                    
+                    
+                      2
+                    
+                  
+                
+              
+            
+            
+              X
+            
+            +
+            
+              
+                
+                  α
+                  
+                    2
+                  
+                
+                
+                  
+                    |
+                  
+                  
+                    X
+                  
+                  
+                    
+                      |
+                    
+                    
+                      4
+                    
+                  
+                
+              
+            
+            
+              |
+            
+            
+              X
+            
+            
+              
+                |
+              
+              
+                2
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle =\operatorname {E} _{\theta }\left[|\mathbf {\theta -X} |^{2}+2(\mathbf {\theta -X} )^{T}{\frac {\alpha }{|\mathbf {X} |^{2}}}\mathbf {X} +{\frac {\alpha ^{2}}{|\mathbf {X} |^{4}}}|\mathbf {X} |^{2}\right]}
+  
+
+  
+    
+      
+        =
+        
+          E
+          
+            θ
+          
+        
+        ⁡
+        
+          [
+          
+            
+              |
+            
+            
+              θ
+              −
+              X
+            
+            
+              
+                |
+              
+              
+                2
+              
+            
+          
+          ]
+        
+        +
+        2
+        α
+        
+          E
+          
+            θ
+          
+        
+        ⁡
+        
+          [
+          
+            
+              
+                
+                  
+                    (
+                    θ
+                    −
+                    X
+                    )
+                  
+                  
+                    T
+                  
+                
+                
+                  X
+                
+              
+              
+                
+                  |
+                
+                
+                  X
+                
+                
+                  
+                    |
+                  
+                  
+                    2
+                  
+                
+              
+            
+          
+          ]
+        
+        +
+        
+          α
+          
+            2
+          
+        
+        
+          E
+          
+            θ
+          
+        
+        ⁡
+        
+          [
+          
+            
+              1
+              
+                
+                  |
+                
+                
+                  X
+                
+                
+                  
+                    |
+                  
+                  
+                    2
+                  
+                
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle =\operatorname {E} _{\theta }\left[|\mathbf {\theta -X} |^{2}\right]+2\alpha \operatorname {E} _{\theta }\left[{\frac {\mathbf {(\theta -X)} ^{T}\mathbf {X} }{|\mathbf {X} |^{2}}}\right]+\alpha ^{2}\operatorname {E} _{\theta }\left[{\frac {1}{|\mathbf {X} |^{2}}}\right]}
+  — a quadratic in 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  . We may simplify the middle term by considering a general "well-behaved" function 
+  
+    
+      
+        h
+        :
+        
+          x
+        
+        ↦
+        h
+        (
+        
+          x
+        
+        )
+        ∈
+        
+          R
+        
+      
+    
+    {\displaystyle h:\mathbf {x} \mapsto h(\mathbf {x} )\in \mathbb {R} }
+   and using integration by parts. For 
+  
+    
+      
+        1
+        ≤
+        i
+        ≤
+        n
+      
+    
+    {\displaystyle 1\leq i\leq n}
+  , for any continuously differentiable 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+   growing sufficiently slowly for large 
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+      
+    
+    {\displaystyle x_{i}}
+   we have:
+
+  
+    
+      
+        
+          E
+          
+            θ
+          
+        
+        ⁡
+        [
+        (
+        
+          θ
+          
+            i
+          
+        
+        −
+        
+          X
+          
+            i
+          
+        
+        )
+        h
+        (
+        
+          X
+        
+        )
+        ∣
+        
+          X
+          
+            j
+          
+        
+        =
+        
+          x
+          
+            j
+          
+        
+        (
+        j
+        ≠
+        i
+        )
+        ]
+        =
+        ∫
+        (
+        
+          θ
+          
+            i
+          
+        
+        −
+        
+          x
+          
+            i
+          
+        
+        )
+        h
+        (
+        
+          x
+        
+        )
+        
+          
+            (
+            
+              
+                1
+                
+                  2
+                  π
+                
+              
+            
+            )
+          
+          
+            n
+            
+              /
+            
+            2
+          
+        
+        
+          e
+          
+            −
+            (
+            1
+            
+              /
+            
+            2
+            )
+            (
+            
+              θ
+            
+            −
+            
+              x
+            
+            
+              )
+              
+                T
+              
+            
+            (
+            
+              θ
+            
+            −
+            
+              x
+            
+            )
+          
+        
+        d
+        
+          x
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \operatorname {E} _{\theta }[(\theta _{i}-X_{i})h(\mathbf {X} )\mid X_{j}=x_{j}(j\neq i)]=\int (\theta _{i}-x_{i})h(\mathbf {x} )\left({\frac {1}{2\pi }}\right)^{n/2}e^{-(1/2)({\boldsymbol {\theta }}-\mathbf {x} )^{T}({\boldsymbol {\theta }}-\mathbf {x} )}dx_{i}}
+  
+
+  
+    
+      
+        =
+        
+          
+            [
+            
+              h
+              (
+              
+                x
+              
+              )
+              
+                
+                  (
+                  
+                    
+                      1
+                      
+                        2
+                        π
+                      
+                    
+                  
+                  )
+                
+                
+                  n
+                  
+                    /
+                  
+                  2
+                
+              
+              
+                e
+                
+                  −
+                  (
+                  1
+                  
+                    /
+                  
+                  2
+                  )
+                  (
+                  
+                    θ
+                  
+                  −
+                  
+                    x
+                  
+                  
+                    )
+                    
+                      T
+                    
+                  
+                  (
+                  
+                    θ
+                  
+                  −
+                  
+                    x
+                  
+                  )
+                
+              
+            
+            ]
+          
+          
+            
+              x
+              
+                i
+              
+            
+            =
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+        −
+        ∫
+        
+          
+            
+              ∂
+              h
+            
+            
+              ∂
+              
+                x
+                
+                  i
+                
+              
+            
+          
+        
+        (
+        
+          x
+        
+        )
+        
+          
+            (
+            
+              
+                1
+                
+                  2
+                  π
+                
+              
+            
+            )
+          
+          
+            n
+            
+              /
+            
+            2
+          
+        
+        
+          e
+          
+            −
+            (
+            1
+            
+              /
+            
+            2
+            )
+            (
+            
+              θ
+            
+            −
+            
+              x
+            
+            
+              )
+              
+                T
+              
+            
+            (
+            
+              θ
+            
+            −
+            
+              x
+            
+            )
+          
+        
+        d
+        
+          x
+          
+            i
+          
+        
+      
+    
+    {\displaystyle =\left[h(\mathbf {x} )\left({\frac {1}{2\pi }}\right)^{n/2}e^{-(1/2)({\boldsymbol {\theta }}-\mathbf {x} )^{T}({\boldsymbol {\theta }}-\mathbf {x} )}\right]_{x_{i}=-\infty }^{\infty }-\int {\frac {\partial h}{\partial x_{i}}}(\mathbf {x} )\left({\frac {1}{2\pi }}\right)^{n/2}e^{-(1/2)({\boldsymbol {\theta }}-\mathbf {x} )^{T}({\boldsymbol {\theta }}-\mathbf {x} )}dx_{i}}
+  
+
+  
+    
+      
+        =
+        −
+        
+          E
+          
+            θ
+          
+        
+        ⁡
+        
+          [
+          
+            
+              
+                
+                  ∂
+                  h
+                
+                
+                  ∂
+                  
+                    x
+                    
+                      i
+                    
+                  
+                
+              
+            
+            (
+            
+              X
+            
+            )
+            ∣
+            
+              X
+              
+                j
+              
+            
+            =
+            
+              x
+              
+                j
+              
+            
+            (
+            j
+            ≠
+            i
+            )
+          
+          ]
+        
+        .
+      
+    
+    {\displaystyle =-\operatorname {E} _{\theta }\left[{\frac {\partial h}{\partial x_{i}}}(\mathbf {X} )\mid X_{j}=x_{j}(j\neq i)\right].}
+  Therefore,
+
+  
+    
+      
+        
+          E
+          
+            θ
+          
+        
+        ⁡
+        [
+        (
+        
+          θ
+          
+            i
+          
+        
+        −
+        
+          X
+          
+            i
+          
+        
+        )
+        h
+        (
+        
+          X
+        
+        )
+        ]
+        =
+        −
+        
+          E
+          
+            θ
+          
+        
+        ⁡
+        
+          [
+          
+            
+              
+                
+                  ∂
+                  h
+                
+                
+                  ∂
+                  
+                    x
+                    
+                      i
+                    
+                  
+                
+              
+            
+            (
+            
+              X
+            
+            )
+          
+          ]
+        
+        .
+      
+    
+    {\displaystyle \operatorname {E} _{\theta }[(\theta _{i}-X_{i})h(\mathbf {X} )]=-\operatorname {E} _{\theta }\left[{\frac {\partial h}{\partial x_{i}}}(\mathbf {X} )\right].}
+  (This result is known as Stein's lemma.) Now, we choose
+
+  
+    
+      
+        h
+        (
+        
+          x
+        
+        )
+        =
+        
+          
+            
+              x
+              
+                i
+              
+            
+            
+              
+                |
+              
+              
+                x
+              
+              
+                
+                  |
+                
+                
+                  2
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle h(\mathbf {x} )={\frac {x_{i}}{|\mathbf {x} |^{2}}}.}
+  If 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+   met the "well-behaved" condition (it doesn't, but this can be remedied—see below), we would have
+
+  
+    
+      
+        
+          
+            
+              ∂
+              h
+            
+            
+              ∂
+              
+                x
+                
+                  i
+                
+              
+            
+          
+        
+        =
+        
+          
+            1
+            
+              
+                |
+              
+              
+                x
+              
+              
+                
+                  |
+                
+                
+                  2
+                
+              
+            
+          
+        
+        −
+        
+          
+            
+              2
+              
+                x
+                
+                  i
+                
+                
+                  2
+                
+              
+            
+            
+              
+                |
+              
+              
+                x
+              
+              
+                
+                  |
+                
+                
+                  4
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\partial h}{\partial x_{i}}}={\frac {1}{|\mathbf {x} |^{2}}}-{\frac {2x_{i}^{2}}{|\mathbf {x} |^{4}}}}
+  and so
+
+  
+    
+      
+        
+          E
+          
+            θ
+          
+        
+        ⁡
+        
+          [
+          
+            
+              
+                (
+                
+                  θ
+                
+                −
+                
+                  X
+                
+                
+                  )
+                  
+                    T
+                  
+                
+                
+                  X
+                
+              
+              
+                
+                  |
+                
+                
+                  X
+                
+                
+                  
+                    |
+                  
+                  
+                    2
+                  
+                
+              
+            
+          
+          ]
+        
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          E
+          
+            θ
+          
+        
+        ⁡
+        
+          [
+          
+            (
+            
+              θ
+              
+                i
+              
+            
+            −
+            
+              X
+              
+                i
+              
+            
+            )
+            
+              
+                
+                  X
+                  
+                    i
+                  
+                
+                
+                  
+                    |
+                  
+                  
+                    X
+                  
+                  
+                    
+                      |
+                    
+                    
+                      2
+                    
+                  
+                
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle \operatorname {E} _{\theta }\left[{\frac {({\boldsymbol {\theta }}-\mathbf {X} )^{T}\mathbf {X} }{|\mathbf {X} |^{2}}}\right]=\sum _{i=1}^{n}\operatorname {E} _{\theta }\left[(\theta _{i}-X_{i}){\frac {X_{i}}{|\mathbf {X} |^{2}}}\right]}
+  
+
+  
+    
+      
+        =
+        −
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          E
+          
+            θ
+          
+        
+        ⁡
+        
+          [
+          
+            
+              
+                1
+                
+                  
+                    |
+                  
+                  
+                    X
+                  
+                  
+                    
+                      |
+                    
+                    
+                      2
+                    
+                  
+                
+              
+            
+            −
+            
+              
+                
+                  2
+                  
+                    X
+                    
+                      i
+                    
+                    
+                      2
+                    
+                  
+                
+                
+                  
+                    |
+                  
+                  
+                    X
+                  
+                  
+                    
+                      |
+                    
+                    
+                      4
+                    
+                  
+                
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle =-\sum _{i=1}^{n}\operatorname {E} _{\theta }\left[{\frac {1}{|\mathbf {X} |^{2}}}-{\frac {2X_{i}^{2}}{|\mathbf {X} |^{4}}}\right]}
+  
+
+  
+    
+      
+        =
+        −
+        (
+        n
+        −
+        2
+        )
+        
+          E
+          
+            θ
+          
+        
+        ⁡
+        
+          [
+          
+            
+              1
+              
+                
+                  |
+                
+                
+                  X
+                
+                
+                  
+                    |
+                  
+                  
+                    2
+                  
+                
+              
+            
+          
+          ]
+        
+        .
+      
+    
+    {\displaystyle =-(n-2)\operatorname {E} _{\theta }\left[{\frac {1}{|\mathbf {X} |^{2}}}\right].}
+  Then returning to the risk function of 
+  
+    
+      
+        
+          d
+          ′
+        
+      
+    
+    {\displaystyle d'}
+  :
+
+  
+    
+      
+        R
+        (
+        θ
+        ,
+        
+          d
+          ′
+        
+        )
+        =
+        n
+        −
+        2
+        α
+        (
+        n
+        −
+        2
+        )
+        
+          E
+          
+            θ
+          
+        
+        ⁡
+        
+          [
+          
+            
+              1
+              
+                
+                  |
+                
+                
+                  X
+                
+                
+                  
+                    |
+                  
+                  
+                    2
+                  
+                
+              
+            
+          
+          ]
+        
+        +
+        
+          α
+          
+            2
+          
+        
+        
+          E
+          
+            θ
+          
+        
+        ⁡
+        
+          [
+          
+            
+              1
+              
+                
+                  |
+                
+                
+                  X
+                
+                
+                  
+                    |
+                  
+                  
+                    2
+                  
+                
+              
+            
+          
+          ]
+        
+        .
+      
+    
+    {\displaystyle R(\theta ,d')=n-2\alpha (n-2)\operatorname {E} _{\theta }\left[{\frac {1}{|\mathbf {X} |^{2}}}\right]+\alpha ^{2}\operatorname {E} _{\theta }\left[{\frac {1}{|\mathbf {X} |^{2}}}\right].}
+  This quadratic in 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   is minimized at 
+  
+    
+      
+        α
+        =
+        n
+        −
+        2
+      
+    
+    {\displaystyle \alpha =n-2}
+  , giving
+
+  
+    
+      
+        R
+        (
+        θ
+        ,
+        
+          d
+          ′
+        
+        )
+        =
+        R
+        (
+        θ
+        ,
+        d
+        )
+        −
+        (
+        n
+        −
+        2
+        
+          )
+          
+            2
+          
+        
+        
+          E
+          
+            θ
+          
+        
+        ⁡
+        
+          [
+          
+            
+              1
+              
+                
+                  |
+                
+                
+                  X
+                
+                
+                  
+                    |
+                  
+                  
+                    2
+                  
+                
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle R(\theta ,d')=R(\theta ,d)-(n-2)^{2}\operatorname {E} _{\theta }\left[{\frac {1}{|\mathbf {X} |^{2}}}\right]}
+  which of course satisfies 
+  
+    
+      
+        R
+        (
+        θ
+        ,
+        
+          d
+          ′
+        
+        )
+        <
+        R
+        (
+        θ
+        ,
+        d
+        )
+        .
+      
+    
+    {\displaystyle R(\theta ,d')<R(\theta ,d).}
+   making 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+   an inadmissible decision rule.
+It remains to justify the use of
+
+  
+    
+      
+        h
+        (
+        
+          X
+        
+        )
+        =
+        
+          
+            
+              X
+            
+            
+              
+                |
+              
+              
+                X
+              
+              
+                
+                  |
+                
+                
+                  2
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle h(\mathbf {X} )={\frac {\mathbf {X} }{|\mathbf {X} |^{2}}}.}
+  This function is not continuously differentiable, since it is singular at 
+  
+    
+      
+        
+          x
+        
+        =
+        0
+      
+    
+    {\displaystyle \mathbf {x} =0}
+  . However, the function
+
+  
+    
+      
+        h
+        (
+        
+          X
+        
+        )
+        =
+        
+          
+            
+              X
+            
+            
+              ε
+              +
+              
+                |
+              
+              
+                X
+              
+              
+                
+                  |
+                
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle h(\mathbf {X} )={\frac {\mathbf {X} }{\varepsilon +|\mathbf {X} |^{2}}}}
+  is continuously differentiable, and after following the algebra through and letting 
+  
+    
+      
+        ε
+        →
+        0
+      
+    
+    {\displaystyle \varepsilon \to 0}
+  , one obtains the same result.
+
+See also
+James–Stein estimator
+
+Notes
+References
+Lehmann, E. L.; Casella, G. (1998), "ch.5", Theory of Point Estimation (2nd ed.), ISBN 0-471-05849-1
+Stein, C. (1956). "Inadmissibility of the usual estimator for the mean of a multivariate distribution". Proceedings of the Third Berkeley Symposium on Mathematical Statistics and Probability. Vol. 1. pp. 197–206. MR 0084922.
+Samworth, R. J. (2012), "Stein's Paradox" (PDF), Eureka, 62: 38–41

@@ -1,0 +1,95 @@
+This is a timeline of mathematicians in ancient Greece.
+
+Timeline
+Historians traditionally place the beginning of Greek mathematics proper to the age of Thales of Miletus (ca. 624–548 BC), which is indicated by the green line at 600 BC.  The orange line at 300 BC indicates the approximate year in which Euclid's Elements was first published.  The red line at 300 AD passes through Pappus of Alexandria (c. 290 – c. 350 AD), who was one of the last great Greek mathematicians of late antiquity.  Note that the solid thick black line is at year zero, which is a year that does not exist in the Anno Domini (AD) calendar year system 
+
+The mathematician Heliodorus of Larissa is not listed due to the uncertainty of when he lived, which was possibly during the 3rd century AD, after Ptolemy.
+
+Overview of the most important mathematicians and discoveries
+Of these mathematicians, those whose work stands out include: 
+
+Thales of Miletus (c. 624/623  – c. 548/545 BC) is the first known individual to use deductive reasoning applied to geometry, by deriving four corollaries to Thales' theorem. He is the first known individual to whom a mathematical discovery has been attributed.
+Pythagoras (c. 570 – c. 495 BC) was credited with many mathematical and scientific discoveries, including the Pythagorean theorem, Pythagorean tuning, the five regular solids, the Theory of Proportions, the sphericity of the Earth, and the identity of the morning and evening stars as the planet Venus.
+Theaetetus (c. 417 – c. 369 BC) Proved that there are exactly five regular convex polyhedra (it is emphasized that it was, in particular, proved that there does not exist any regular convex polyhedra other than these five). This fact led these five solids, now called the Platonic solids, to play a prominent role in the philosophy of Plato (and consequently, also influenced later Western Philosophy) who associated each of the four classical elements with a regular solid: earth with the cube, air with the octahedron, water with the icosahedron, and fire with the tetrahedron (of the fifth Platonic solid, the dodecahedron, Plato obscurely remarked, "...the god used [it] for arranging the constellations on the whole heaven"). The last book (Book XIII) of the Euclid's Elements, which is probably derived from the work of Theaetetus, is devoted to constructing the Platonic solids and describing their properties; Andreas Speiser has advocated the view that the construction of the 5 regular solids is the chief goal of the deductive system canonized in the Elements. Astronomer Johannes Kepler proposed a model of the Solar System in which the five solids were set inside one another and separated by a series of inscribed and circumscribed spheres.
+Eudoxus of Cnidus (c. 408 – c. 355 BC) is considered by some to be the greatest of classical Greek mathematicians, and in all antiquity second only to Archimedes. Book V of Euclid's Elements is though to be largely due to Eudoxus.
+Aristarchus of Samos (c. 310 – c. 230 BC) presented the first known heliocentric model that placed the Sun at the center of the known universe with the Earth revolving around it. Aristarchus identified the "central fire" with the Sun, and he put the other planets in their correct order of distance around the Sun. In On the Sizes and Distances, he calculates the sizes of the Sun and Moon, as well as their distances from the Earth in terms of Earth's radius.  However, Eratosthenes (c. 276 – c. 194/195 BC) was the first person to calculate the circumference of the Earth.  Posidonius (c. 135 – c. 51 BC) also measured the diameters and distances of the Sun and the Moon as well as the Earth's diameter; his measurement of the diameter of the Sun was more accurate than Aristarchus', differing from the modern value by about half.
+Euclid (fl. 300 BC) is often referred to as the "founder of geometry" or the "father of geometry" because of his incredibly influential treatise called the Elements, which was the first, or at least one of the first, axiomatized deductive systems.
+Archimedes (c. 287 – c. 212 BC) is considered to be the greatest mathematician of ancient history, and one of the greatest of all time. Archimedes anticipated modern calculus and analysis by applying concepts of infinitesimals and the method of exhaustion to derive and rigorously prove a range of geometrical theorems, including: the area of a circle; the surface area and volume of a sphere; area of an ellipse; the area under a parabola; the volume of a segment of a paraboloid of revolution; the volume of a segment of a hyperboloid of revolution; and the area of a spiral. He was also one of the first to apply mathematics to physical phenomena, founding hydrostatics and statics, including an explanation of the principle of the lever. In a lost work, he discovered and enumerated the 13 Archimedean solids, which were later rediscovered by Johannes Kepler around 1620 A.D.
+Apollonius of Perga (c. 240 – c. 190 BC) is known for his work on conic sections and his study of geometry in 3-dimensional space. He is considered one of the greatest ancient Greek mathematicians.
+Hipparchus (c. 190 – c. 120 BC) is considered the founder of trigonometry and also solved several problems of spherical trigonometry.  He was the first whose quantitative and accurate models for the motion of the Sun and Moon survive.  In his work On Sizes and Distances, he measured the apparent diameters of the Sun and Moon and their distances from Earth.  He is also reputed to have measured the Earth's precession.
+Diophantus (c. 201–215 – c. 285–299 AD) wrote Arithmetica which dealt with solving algebraic equations and also introduced syncopated algebra, which was a precursor to modern symbolic algebra.  Because of this, Diophantus is sometimes known as "the father of algebra," which is a title he shares with Muhammad ibn Musa al-Khwarizmi. In contrast to Diophantus, al-Khwarizmi wasn't primarily interested in integers and he gave an exhaustive and systematic description of solving quadratic equations and some higher order algebraic equations.  However, al-Khwarizmi did not use symbolic or syncopated algebra but rather "rhetorical algebra" or ancient Greek "geometric algebra" (the ancient Greeks had expressed and solved some particular instances of algebraic equations in terms of geometric properties such as length and area but they did not solve such problems in general; only particular instances).  An example of "geometric algebra" is: given a triangle (or rectangle, etc.) with a certain area and also given the length of some of its sides (or some other properties), find the length of the remaining side (and justify/prove the answer with geometry). Solving such a problem is often equivalent to finding the roots of a polynomial.
+
+Hellenic mathematicians
+The conquests of Alexander the Great around c. 330 BC led to Greek culture being spread around much of the Mediterranean region, especially in Alexandria, Egypt.  This is why the Hellenistic period of Greek mathematics is typically considered as beginning in the 4th century BC.  During the Hellenistic period, many people living in those parts of the Mediterranean region subject to Greek influence ended up adopting the Greek language and sometimes also Greek culture.  Consequently, some of the Greek mathematicians from this period may not have been "ethnically Greek" with respect to the modern Western notion of ethnicity, which is much more rigid than most other notions of ethnicity that existed in the Mediterranean region at the time.  Ptolemy, for example, was said to have originated from Upper Egypt, which is far South of Alexandria, Egypt. Regardless, their contemporaries considered them Greek.
+
+Straightedge and compass constructions
+For the most part, straightedge and compass constructions dominated ancient Greek mathematics and most theorems and results were stated and proved in terms of geometry. These proofs involved a straightedge (such as that formed by a taut rope), which was used to construct lines, and a compass, which was used to construct circles. The straightedge is an idealized ruler that can draw arbitrarily long lines but (unlike modern rulers) it has no markings on it. A compass can draw a circle starting from two given points: the center and a point on the circle. 
+A taut rope can be used to physically construct both lines (since it forms a straightedge) and circles (by rotating the taut rope around a point).
+Geometric constructions using lines and circles were also used outside of the Mediterranean region. 
+The Shulba Sutras from the Vedic period of Indian mathematics, for instance, contains geometric instructions on how to physically construct a (quality) fire-altar by using a taut rope as a straightedge. These alters could have various shapes but for theological reasons, they were all required to have the same area. This consequently required a high precision construction along with (written) instructions on how to geometrically construct such alters with the tools that were most widely available throughout the Indian subcontinent (and elsewhere) at the time. Ancient Greek mathematicians went one step further by axiomatizing plane geometry in such a way that straightedge and compass constructions became mathematical proofs. Euclid's Elements was the culmination of this effort and for over two thousand years, even as late as the 19th century, it remained the "standard text" on mathematics throughout the Mediterranean region (including Europe and the Middle East), and later also in North and South America after European colonization.
+
+Algebra
+Ancient Greek mathematicians are known to have solved specific instances of polynomial equations with the use of straightedge and compass constructions, which simultaneously gave a geometric proof of the solution's correctness. Once a construction was completed, the answer could be found by measuring the length of a certain line segment (or possibly some other quantity). A quantity multiplied by itself, such as 
+  
+    
+      
+        5
+        ⋅
+        5
+      
+    
+    {\displaystyle 5\cdot 5}
+   for example, would often be constructed as a literal square with sides of length 
+  
+    
+      
+        5
+        ,
+      
+    
+    {\displaystyle 5,}
+   which is why the second power "
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        =
+        x
+        ⋅
+        x
+      
+    
+    {\displaystyle x^{2}=x\cdot x}
+  " is referred to as "
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   squared" in ordinary spoken language. Thus problems that would today be considered "algebra problems" were also solved by ancient Greek mathematicians, although not in full generality. A complete guide to systematically solving low-order polynomials equations for an unknown quantity (instead of just specific instances of such problems) would not appear until The Compendious Book on Calculation by Completion and Balancing by Muhammad ibn Musa al-Khwarizmi, who used Greek geometry to "prove the correctness" of the solutions that were given in the treatise. However, this treatise was entirely rhetorical (meaning that everything, including numbers, was written using words structured in ordinary sentences) and did not have any "algebraic symbols" that are today associated with algebra problems – not even the syncopated algebra that appeared in Arithmetica.
+
+See also
+History of mathematics
+History of calculus – Aspect of history
+History of geometry – Historical development of geometry
+Geometry and topology – branch of mathematics at the intersection between geometry and topologyPages displaying wikidata descriptions as a fallback
+Greek mathematics – Mathematics of Ancient Greeks
+List of Greek mathematicians
+Relationship between mathematics and physics – Study of how mathematics and physics relate to each other
+Timeline of mathematics
+Timeline of algebra – Notable events in the history of algebra
+Timeline of calculus and mathematical analysis – Summary of advancements in Calculus
+Timeline of geometry – Notable events in the history of geometry
+Timeline of mathematical logic
+
+References
+
+Boyer, C.B. (1989), A History of Mathematics (2nd ed.), New York: Wiley, ISBN 978-0-471-09763-1 (1991 pbk ed. ISBN 0-471-54397-7)
+Weyl, Hermann (1952). Symmetry. Princeton, NJ: Princeton University Press. ISBN 0-691-02374-3.

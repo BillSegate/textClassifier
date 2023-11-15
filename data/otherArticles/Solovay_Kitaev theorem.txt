@@ -1,0 +1,900 @@
+In quantum information and computation, the Solovay–Kitaev theorem says, roughly, that if a set of single-qubit quantum gates generates a dense subset of SU(2), then that set can be used to approximate any desired quantum gate with a relatively short sequence of gates. This theorem is considered one of the most significant results in the field of quantum computation and was first announced by Robert M. Solovay in 1995 and independently proven by Alexei Kitaev in 1997. Michael Nielsen and Christopher M. Dawson have noted its importance in the field.A consequence of this theorem is that a quantum circuit of 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   constant-qubit gates can be approximated to 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+   error (in operator norm) by a quantum circuit of 
+  
+    
+      
+        O
+        (
+        m
+        
+          log
+          
+            c
+          
+        
+        ⁡
+        (
+        m
+        
+          /
+        
+        ε
+        )
+        )
+      
+    
+    {\displaystyle O(m\log ^{c}(m/\varepsilon ))}
+   gates from a desired finite universal gate set. By comparison, just knowing that a gate set is universal only implies that constant-qubit gates can be approximated by a finite circuit from the gate set, with no bound on its length. So, the Solovay–Kitaev theorem shows that this approximation can be made surprisingly efficient, thereby justifying that quantum computers need only implement a finite number of gates to gain the full power of quantum computation.
+
+Statement
+Let 
+  
+    
+      
+        
+          
+            G
+          
+        
+      
+    
+    {\displaystyle {\mathcal {G}}}
+   be a finite set of elements in SU(2) containing its own inverses (so 
+  
+    
+      
+        g
+        ∈
+        
+          
+            G
+          
+        
+      
+    
+    {\displaystyle g\in {\mathcal {G}}}
+   implies 
+  
+    
+      
+        
+          g
+          
+            −
+            1
+          
+        
+        ∈
+        
+          
+            G
+          
+        
+      
+    
+    {\displaystyle g^{-1}\in {\mathcal {G}}}
+  ) and such that the group 
+  
+    
+      
+        ⟨
+        
+          
+            G
+          
+        
+        ⟩
+      
+    
+    {\displaystyle \langle {\mathcal {G}}\rangle }
+   they generate is dense in  SU(2). Consider some 
+  
+    
+      
+        ε
+        >
+        0
+      
+    
+    {\displaystyle \varepsilon >0}
+  . Then there is a constant 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   such that for any 
+  
+    
+      
+        U
+        ∈
+        
+          S
+          U
+        
+        (
+        2
+        )
+      
+    
+    {\displaystyle U\in \mathrm {SU} (2)}
+  , there is a sequence 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   of gates from 
+  
+    
+      
+        
+          
+            G
+          
+        
+      
+    
+    {\displaystyle {\mathcal {G}}}
+   of length 
+  
+    
+      
+        O
+        (
+        
+          log
+          
+            c
+          
+        
+        ⁡
+        (
+        1
+        
+          /
+        
+        ε
+        )
+        )
+      
+    
+    {\displaystyle O(\log ^{c}(1/\varepsilon ))}
+   such that 
+  
+    
+      
+        ‖
+        S
+        −
+        U
+        ‖
+        ≤
+        ε
+      
+    
+    {\displaystyle \|S-U\|\leq \varepsilon }
+  . That is, 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   approximates 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+   to operator norm error.
+
+Quantitative bounds
+The constant 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   can be made to be 
+  
+    
+      
+        3
+        +
+        δ
+      
+    
+    {\displaystyle 3+\delta }
+   for any fixed 
+  
+    
+      
+        δ
+        >
+        0
+      
+    
+    {\displaystyle \delta >0}
+  . However, there exist particular gate sets for which we can take 
+  
+    
+      
+        c
+        =
+        1
+      
+    
+    {\displaystyle c=1}
+  , which makes the length of the gate sequence tight up to a constant factor.
+
+Proof idea
+The proof of the Solovay–Kitaev theorem proceeds by recursively constructing a gate sequence giving increasingly good approximations to 
+  
+    
+      
+        U
+        ∈
+        SU
+        ⁡
+        (
+        2
+        )
+      
+    
+    {\displaystyle U\in \operatorname {SU} (2)}
+  . Suppose we have an approximation 
+  
+    
+      
+        
+          U
+          
+            n
+            −
+            1
+          
+        
+        ∈
+        SU
+        ⁡
+        (
+        2
+        )
+      
+    
+    {\displaystyle U_{n-1}\in \operatorname {SU} (2)}
+   such that 
+  
+    
+      
+        ‖
+        U
+        −
+        
+          U
+          
+            n
+            −
+            1
+          
+        
+        ‖
+        ≤
+        
+          ε
+          
+            n
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle \|U-U_{n-1}\|\leq \varepsilon _{n-1}}
+  . Our goal is to find a sequence of gates approximating 
+  
+    
+      
+        U
+        
+          U
+          
+            n
+            −
+            1
+          
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle UU_{n-1}^{-1}}
+   to 
+  
+    
+      
+        
+          ε
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{n}}
+   error, for 
+  
+    
+      
+        
+          ε
+          
+            n
+          
+        
+        <
+        
+          ε
+          
+            n
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{n}<\varepsilon _{n-1}}
+  . By concatenating this sequence of gates with 
+  
+    
+      
+        
+          U
+          
+            n
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle U_{n-1}}
+  , we get a sequence of gates 
+  
+    
+      
+        
+          U
+          
+            n
+          
+        
+      
+    
+    {\displaystyle U_{n}}
+   such that 
+  
+    
+      
+        ‖
+        U
+        −
+        
+          U
+          
+            n
+          
+        
+        ‖
+        ≤
+        
+          ε
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \|U-U_{n}\|\leq \varepsilon _{n}}
+  .
+The key idea is that commutators of elements close to the identity can be approximated "better-than-expected". Specifically, for 
+  
+    
+      
+        V
+        ,
+        W
+        ∈
+        SU
+        ⁡
+        (
+        2
+        )
+      
+    
+    {\displaystyle V,W\in \operatorname {SU} (2)}
+   satisfying 
+  
+    
+      
+        ‖
+        V
+        −
+        I
+        ‖
+        ≤
+        
+          δ
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \|V-I\|\leq \delta _{1}}
+   and 
+  
+    
+      
+        ‖
+        W
+        −
+        I
+        ‖
+        ≤
+        
+          δ
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \|W-I\|\leq \delta _{1}}
+   and approximations 
+  
+    
+      
+        
+          
+            
+              V
+              ~
+            
+          
+        
+        ,
+        
+          
+            
+              W
+              ~
+            
+          
+        
+        ∈
+        SU
+        ⁡
+        (
+        2
+        )
+      
+    
+    {\displaystyle {\tilde {V}},{\tilde {W}}\in \operatorname {SU} (2)}
+   satisfying 
+  
+    
+      
+        ‖
+        V
+        −
+        
+          
+            
+              V
+              ~
+            
+          
+        
+        ‖
+        ≤
+        
+          δ
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \|V-{\tilde {V}}\|\leq \delta _{2}}
+   and 
+  
+    
+      
+        ‖
+        W
+        −
+        
+          
+            
+              W
+              ~
+            
+          
+        
+        ‖
+        ≤
+        
+          δ
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \|W-{\tilde {W}}\|\leq \delta _{2}}
+  , then
+
+  
+    
+      
+        ‖
+        V
+        W
+        
+          V
+          
+            −
+            1
+          
+        
+        
+          W
+          
+            −
+            1
+          
+        
+        −
+        
+          
+            
+              V
+              ~
+            
+          
+        
+        
+          
+            
+              W
+              ~
+            
+          
+        
+        
+          
+            
+              
+                V
+                ~
+              
+            
+          
+          
+            −
+            1
+          
+        
+        
+          
+            
+              
+                W
+                ~
+              
+            
+          
+          
+            −
+            1
+          
+        
+        ‖
+        ≤
+        O
+        (
+        
+          δ
+          
+            1
+          
+        
+        
+          δ
+          
+            2
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle \|VWV^{-1}W^{-1}-{\tilde {V}}{\tilde {W}}{\tilde {V}}^{-1}{\tilde {W}}^{-1}\|\leq O(\delta _{1}\delta _{2}),}
+  where the big O notation hides higher-order terms. One can naively bound the above expression to be 
+  
+    
+      
+        O
+        (
+        
+          δ
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle O(\delta _{2})}
+  , but the group commutator structure creates substantial error cancellation.
+We use this observation by rewriting the expression we wish to approximate as a group commutator 
+  
+    
+      
+        U
+        
+          U
+          
+            n
+            −
+            1
+          
+          
+            −
+            1
+          
+        
+        =
+        
+          V
+          
+            n
+            −
+            1
+          
+        
+        
+          W
+          
+            n
+            −
+            1
+          
+        
+        
+          V
+          
+            n
+            −
+            1
+          
+          
+            −
+            1
+          
+        
+        
+          W
+          
+            n
+            −
+            1
+          
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle UU_{n-1}^{-1}=V_{n-1}W_{n-1}V_{n-1}^{-1}W_{n-1}^{-1}}
+  . This can be done such that both 
+  
+    
+      
+        
+          V
+          
+            n
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle V_{n-1}}
+   and 
+  
+    
+      
+        
+          W
+          
+            n
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle W_{n-1}}
+   are close to the identity (since 
+  
+    
+      
+        ‖
+        U
+        
+          U
+          
+            n
+            −
+            1
+          
+          
+            −
+            1
+          
+        
+        −
+        I
+        ‖
+        ≤
+        
+          ε
+          
+            n
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle \|UU_{n-1}^{-1}-I\|\leq \varepsilon _{n-1}}
+  ). So, if we recursively compute gate sequences approximating 
+  
+    
+      
+        
+          V
+          
+            n
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle V_{n-1}}
+   and 
+  
+    
+      
+        
+          W
+          
+            n
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle W_{n-1}}
+   to 
+  
+    
+      
+        
+          ε
+          
+            n
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{n-1}}
+   error, we get a gate sequence approximating 
+  
+    
+      
+        U
+        
+          U
+          
+            n
+            −
+            1
+          
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle UU_{n-1}^{-1}}
+   to the desired better precision 
+  
+    
+      
+        
+          ε
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{n}}
+   with  
+  
+    
+      
+        
+          ε
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{n}}
+  . We can get a base case approximation with constant 
+  
+    
+      
+        
+          ε
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{0}}
+   by brute-force computation of all sufficiently long gate sequences.
+
+
+== References ==

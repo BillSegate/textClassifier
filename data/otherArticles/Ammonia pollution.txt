@@ -1,0 +1,342 @@
+Ammonia pollution is pollution by the chemical ammonia (NH3) – a compound of nitrogen and hydrogen which is a byproduct of agriculture and industry.  Common forms include air pollution by the ammonia gas emitted by rotting agricultural slurry and fertilizer factories while natural sources include the burning coal mines of Jharia, the caustic Lake Natron and the guano of seabird colonies. Gaseous ammonia reacts with other pollutants in the air to form fine particles of ammonium salts, which affect human breathing. Ammonia gas can also affect the chemistry of the soil on which it settles and will, for example, degrade the conditions required by the sphagnum moss and heathers of peatland.Ammonia detection is facilitated through the use of filter packs and fabric denuders (a gas separator). Techniques such as satellite imaging and rainwater analysis are also used. Much is still unknown about the impact of ammonia pollution, but rising emission rates concern scientists. The level of ammonia in the atmosphere was more than twice as large in 2010 as it was in 1940. Ammonia is now recognized by many countries as a major pollutant and some have begun taking steps to limit their emissions.
+
+Sources
+The table below lists sources of ammonia pollution and their percent contribution to global ammonia emissions. The sources are also classified as either anthropogenic (resulting from humans) or natural.
+
+Effects
+Ammonia decreases the biodiversity of terrestrial and aquatic ecosystems and also forms aerosols in the atmosphere which can cause human health complications if inhaled.
+
+Biodiversity
+Gaseous ammonia emissions enter Earth’s soil and water through both wet and dry deposition. Aqueous ammonia, another form of the compound, may seep directly into the ground or flow into aquatic ecosystems. Both terrestrial and aquatic ammonia pollution decrease biodiversity mainly through the process of nitrification.
+
+Terrestrial Effects
+In terrestrial settings, ammonia increases soil acidity (decreased pH) and causes eutrophication (an overabundance of nutrients). Both of these occur as a direct result of nitrification. In this process, ammonia is converted into nitrate by bacteria  (usually of genera Nitrosomonas and Nitrobacter) performing the following two step reaction:
+Step 1: Ammonia (NH3 ) is oxidized into nitrite (NO2−) by:
+
+  
+    
+      
+        
+          
+            NH
+            
+              3
+            
+            
+              
+            
+          
+          
+            (
+            aq
+            )
+          
+          +
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          
+            (
+            g
+            )
+          
+          ⟶
+          
+            NO
+            
+              2
+            
+            
+              −
+            
+          
+          
+            (
+            aq
+            )
+          
+          +
+          3
+          
+          
+            H
+            
+              +
+            
+          
+          
+            (
+            aq
+            )
+          
+          +
+          2
+          
+          
+            e
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {NH3(aq) + O2(g) -> NO2- (aq) + 3H+(aq) + 2e-}}}
+  
+Step 2: Nitrite (NO2−) is oxidized into nitrate(NO3−)
+
+  
+    
+      
+        
+          
+            NO
+            
+              2
+            
+            
+              −
+            
+          
+          
+            (
+            aq
+            )
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          
+            (
+            l
+            )
+          
+          ⟶
+          
+            NO
+            
+              3
+            
+            
+              −
+            
+          
+          
+            (
+            aq
+            )
+          
+          +
+          2
+          
+          
+            H
+            
+              +
+            
+          
+          
+            (
+            aq
+            )
+          
+          +
+          2
+          
+          
+            e
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {NO2- (aq) + H2O(l) -> NO3- (aq) + 2H+(aq) + 2e-}}}
+  
+The products of this reaction include hydrogen (H+) ions which lower the soil pH and lead to acidification. Increased soil acidity in the ecosystem leads to decreased protection against cold temperatures, drought, disease, and invasive species. The other product, nitrate (NO3−), is a key nutrient for plant growth. This excess nitrate from ammonia nitrification favors nitrophilous plants (those that prefer high nitrate concentrations) and disadvantages others. For example, an increase in nitrophilous plant populations shade other plants from necessary sunlight. Sensitive plant groups such as lichen and moss are particularly susceptible to ammonia pollution and habitats such as bogs, peatlands, grasslands, heathlands, and forests are mainly affected.
+
+Aquatic effects
+In aquatic settings, ammonia causes nitrogenous oxygen demand, eutrophication, and changes in fish health. Nitrogenous biological oxygen demand (NBOD) occurs as a direct result of nitrification (see terrestrial effects). Dissolved oxygen (O2) is used in nitrification to react with NH3. This results in less O2 available to organisms that depend on it. Nitrification also releases nitrate which leads to eutrophication as in terrestrial settings. Nitrophilous algae and macrophytes create large blooms in standing water. This puts stress on resources and also can indirectly poison organisms through toxic algae formation. In contrast, ammonia can also directly harm organisms with permeable skin if they absorb it. Fish kills and changes in fish growth, gill condition, organ weights, and hematocrit (red blood cell) levels are linked to ammonia exposure.
+
+Human health
+Gaseous ammonia that is not deposited forms aerosols by combining with other emissions such as sulfur dioxide (SO2) and nitrogen oxides (NOX). Atmospheric reactions among sulfur dioxide, nitrogen oxides, intermediate products, and other gases eventually result in formation of ammonium nitrate (NH4NO3) and ammonium bisulfate (NH4HSO4) by the following:
+
+  
+    
+      
+        
+          
+            NH
+            
+              3
+            
+            
+              
+            
+          
+          
+            (
+            g
+            )
+          
+          +
+          
+            HNO
+            
+              3
+            
+            
+              
+            
+          
+          
+            (
+            g
+            )
+          
+          ⟶
+          
+            NH
+            
+              4
+            
+            
+              
+            
+          
+          
+            NO
+            
+              3
+            
+            
+              
+            
+          
+          
+            (
+            g
+            )
+          
+        
+      
+    
+    {\displaystyle {\ce {NH3(g) + HNO3 (g) -> NH4NO3(g)}}}
+  
+
+  
+    
+      
+        
+          
+            NH
+            
+              3
+            
+            
+              
+            
+          
+          
+            (
+            g
+            )
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          
+            SO
+            
+              4
+            
+            
+              
+            
+          
+          
+            (
+            g
+            )
+          
+          ⟶
+          
+            NH
+            
+              4
+            
+            
+              
+            
+          
+          
+            HSO
+            
+              4
+            
+            
+              
+            
+          
+          
+            (
+            g
+            )
+          
+        
+      
+    
+    {\displaystyle {\ce {NH3(g) + H2SO4 (g) -> NH4HSO4 (g)}}}
+  
+These resulting ammonium (NH4) aerosols are classified as fine particulate matter (PM2.5 or particulate matter less than 2.5 microns in size). The small size of PM2.5 particles allows them to enter the lungs and bloodstream through inhalation. Ammonium particles can then cause complications including asthma, lung cancer, cardiovascular issues, birth defects, and premature death in humans. The smaller ammonium PM2.5 can also travel further distances (100–1000 km) when compared to unreacted ammonia (less than 10–100 km) in the atmosphere. Some countries like China have focused on reducing SO2 and NOX emissions, however increased NH3 pollution still results in PM2.5 formation and reduces air quality.
+
+Monitoring techniques
+Ammonia pollution is most commonly measured by its presence in the atmosphere. It has no automatic relay system as with other pollutant measurements such as carbon dioxide; therefore, ammonia samples must be collected through other methods including filter packs, fabric denuders, satellite imaging, and rainwater analysis.
+
+Filter packs
+Filter packs consist of an air pump fitted with a Teflon and glass fiber filter. The pump sucks in air and the filters remove ammonia particles. The Teflon and glass fiber filter are coated in citric acid which reacts with the slightly basic ammonia particles. This reaction essentially "glues" the ammonia in place. Later, the filter is tested with Nessler’s reagent (an ammonia indicator) and a spectrophotometer reads the amount of ammonia present.
+
+Fabric denuders
+Fabric denuders function through passive sampling (no pump is used and collection depends only on airflow). A pipe fitted with cloth filters on either side serves as a tunnel for air to diffuse through. The cloth is coated in phosphoric acid which attracts ammonia gas (a base). Air flows through the tube and ammonia sticks to the filters which can then be tested for NH3 concentrations using Nessler's reagent and a spectrophotometer.
+
+Satellite imaging
+Systems of satellites measure gas signatures in the atmosphere over time. Ammonia’s signature is charted giving an estimate of its prevalence in the air and where it is most concentrated. NASA has been using satellite imaging to monitor ammonia emissions since 2008.
+
+Rainwater analysis
+Buckets of rain are collected and then tested for ammonia using techniques described above. This provides the concentration of ammonia gas trapped in atmospheric water vapor.
+
+Regulations
+Although ammonia is now recognized as a potentially hazardous air pollutant, only some countries have taken further action to reduce their emission. Reduction strategies predominantly focus on controlling agricultural practices.
+
+Policy
+The European Union has had two policies in place since 1999 to prevent ammonia pollution. These include the Gothenburg Protocol (1999) and the Directive on Integrated Pollution Protection and Control (1999). The National Emission Ceilings Directive was also put into effect in 2001 by the EU to further reduce NH3 emissions. The Gothenburg Protocol was revised in 2012 to set new, stricter, ceiling limits on ammonia until 2020 and to include all EU-27 countries. The United Kingdom in particular has announced that they plan to cut emissions by 16% by 2030, however no new policies have been enacted. Other countries like China and the United States acknowledge ammonia as a pollutant, but have no policies in place to regulate it.
+Ammonia pollution regulations mainly focus on mitigation through better farming practices. One suggested change is keeping manure and fertilizer in large storage tanks to prevent runoff and volatilization into the air. Another strategy involves feeding livestock diets less dense in protein. This would result in less nitrogen proteins (including ammonia) ending up in manure. A final idea is using less urea and ammonium based fertilizers which are prone to volatilization into ammonia.
+
+See also
+Nitrogen cycle
+Haber-Bosch process
+
+
+== References ==

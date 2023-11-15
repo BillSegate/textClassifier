@@ -1,0 +1,452 @@
+The prime constant is the real number 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   whose 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  th binary digit is 1 if 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   is prime and 0 if 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   is composite or 1.
+In other words, 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   is the number whose binary expansion corresponds to the indicator function of the set of prime numbers.  That is,
+
+  
+    
+      
+        ρ
+        =
+        
+          ∑
+          
+            p
+          
+        
+        
+          
+            1
+            
+              2
+              
+                p
+              
+            
+          
+        
+        =
+        
+          ∑
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              
+                χ
+                
+                  
+                    P
+                  
+                
+              
+              (
+              n
+              )
+            
+            
+              2
+              
+                n
+              
+            
+          
+        
+      
+    
+    {\displaystyle \rho =\sum _{p}{\frac {1}{2^{p}}}=\sum _{n=1}^{\infty }{\frac {\chi _{\mathbb {P} }(n)}{2^{n}}}}
+  where 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   indicates a prime and 
+  
+    
+      
+        
+          χ
+          
+            
+              P
+            
+          
+        
+      
+    
+    {\displaystyle \chi _{\mathbb {P} }}
+   is the characteristic function of the set 
+  
+    
+      
+        
+          P
+        
+      
+    
+    {\displaystyle \mathbb {P} }
+   of prime numbers.
+The beginning of the decimal expansion of ρ is: 
+  
+    
+      
+        ρ
+        =
+        0.414682509851111660248109622
+        …
+      
+    
+    {\displaystyle \rho =0.414682509851111660248109622\ldots }
+   (sequence A051006 in the OEIS)
+The beginning of the binary expansion is: 
+  
+    
+      
+        ρ
+        =
+        0.011010100010100010100010000
+        
+          …
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \rho =0.011010100010100010100010000\ldots _{2}}
+   (sequence A010051 in the OEIS)
+
+Irrationality
+The number 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   can be shown to be irrational.  To see why, suppose it were rational.
+Denote the 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  th digit of the binary expansion of 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   by 
+  
+    
+      
+        
+          r
+          
+            k
+          
+        
+      
+    
+    {\displaystyle r_{k}}
+  .  Then since 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   is assumed rational, its binary expansion is eventually periodic, and so there exist positive integers 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   and 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   such that
+
+  
+    
+      
+        
+          r
+          
+            n
+          
+        
+        =
+        
+          r
+          
+            n
+            +
+            i
+            k
+          
+        
+      
+    
+    {\displaystyle r_{n}=r_{n+ik}}
+   for all 
+  
+    
+      
+        n
+        >
+        N
+      
+    
+    {\displaystyle n>N}
+   and all 
+  
+    
+      
+        i
+        ∈
+        
+          N
+        
+      
+    
+    {\displaystyle i\in \mathbb {N} }
+  .
+Since there are an infinite number of primes, we may choose a prime 
+  
+    
+      
+        p
+        >
+        N
+      
+    
+    {\displaystyle p>N}
+  .  By definition we see that 
+  
+    
+      
+        
+          r
+          
+            p
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle r_{p}=1}
+  .  As noted, we have 
+  
+    
+      
+        
+          r
+          
+            p
+          
+        
+        =
+        
+          r
+          
+            p
+            +
+            i
+            k
+          
+        
+      
+    
+    {\displaystyle r_{p}=r_{p+ik}}
+   for all 
+  
+    
+      
+        i
+        ∈
+        
+          N
+        
+      
+    
+    {\displaystyle i\in \mathbb {N} }
+  .  Now consider the case 
+  
+    
+      
+        i
+        =
+        p
+      
+    
+    {\displaystyle i=p}
+  .  We have 
+  
+    
+      
+        
+          r
+          
+            p
+            +
+            i
+            ⋅
+            k
+          
+        
+        =
+        
+          r
+          
+            p
+            +
+            p
+            ⋅
+            k
+          
+        
+        =
+        
+          r
+          
+            p
+            (
+            k
+            +
+            1
+            )
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle r_{p+i\cdot k}=r_{p+p\cdot k}=r_{p(k+1)}=0}
+  , since 
+  
+    
+      
+        p
+        (
+        k
+        +
+        1
+        )
+      
+    
+    {\displaystyle p(k+1)}
+   is composite because 
+  
+    
+      
+        k
+        +
+        1
+        ≥
+        2
+      
+    
+    {\displaystyle k+1\geq 2}
+  .  Since 
+  
+    
+      
+        
+          r
+          
+            p
+          
+        
+        ≠
+        
+          r
+          
+            p
+            (
+            k
+            +
+            1
+            )
+          
+        
+      
+    
+    {\displaystyle r_{p}\neq r_{p(k+1)}}
+   we see that 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   is irrational.
+
+References
+External links
+Weisstein, Eric W. "Prime Constant". MathWorld.

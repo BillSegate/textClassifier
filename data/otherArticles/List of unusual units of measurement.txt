@@ -1,0 +1,353 @@
+An unusual unit of measurement is a unit of measurement that does not form part of a coherent system of measurement, especially because its exact quantity may not be well known or because it may be an inconvenient multiple or fraction of a base unit.
+Many of the unusual units of measurements listed here are colloquial measurements, units devised to compare a measurement to common and familiar objects.
+
+Length
+Hammer unit
+Valve's Source game engine uses the Hammer unit as its base unit of length. This unit refers to Source's official map creation software, Hammer. The exact definition varies from game to game, but a Hammer unit is usually defined as a sixteenth of a foot (16 Hammer units = 1 foot). This means that 1 Hammer unit is equal to exactly 0.01905 metres.
+
+Rack unit
+One rack unit (U) is 1.75 inches (44.45 mm) and is used to measure rack-mountable audiovisual, computing and industrial equipment. Rack units are typically denoted without a space between the number of units and the 'U'. Thus, a 4U server enclosure (case) is seven inches (177.8 mm) high, or more practically, built to occupy a vertical space seven inches high, with sufficient clearance to allow movement of adjacent hardware.
+
+Hand
+The hand is a non-SI unit of length equal to exactly 4 inches (101.6 mm). It is normally used to measure the height of horses in some English-speaking countries, including Australia, Canada, Ireland, the United Kingdom, and the United States. It is customary when measuring in hands to use a point to indicate inches (quarter-hands) and not tenths of a hand. For example, 15.1 hands normally means 15 hands, 1 inch (5 ft 1 in), rather than 151⁄10 hands.
+
+Light-nanosecond
+The light-nanosecond is defined as exactly 29.9792458 cm. It was popularized in information technology as a unit of distance by Grace Hopper as the distance which a photon could travel in one billionth of a second (roughly 30 cm or one foot): "The speed of light is one foot per nanosecond."
+
+Metric feet
+A metric foot, defined as 300 millimetres (approximately 11.811 inches), has been used occasionally in the UK but has never been an official unit.A Chinese foot is around one third of a metre, with the exact definition depending on jurisdiction.
+
+Horse
+Horses are used to measure distances in horse racing – a horse length (shortened to merely a length when the context makes it obvious) equals roughly 8 feet or 2.4 metres. Shorter distances are measured in fractions of a horse length; also common are measurements of a full or fraction of a head, a neck, or a nose.
+
+Boat length
+In rowing races such as the Oxford and Cambridge Boat Race, the margin of victory and of defeat is expressed in fractions and multiples of boat lengths. The length of a rowing eight is about 62 feet (19 m). A shorter distance is the canvas, which is the length of the covered part of the boat between the bow and the bow oarsman. The Racing Rules of Sailing also makes heavy use of boat lengths.
+
+Football field (length)
+A football field is often used as a comparative measurement of length when talking about distances that may be hard to comprehend when stated in terms of standard units.
+An American football field is usually understood to be 100 yards (91 m) long, though it is technically 120 yards (110 m) when including the two 10 yd (9.1 m) long end zones. The field is 160 ft (53 yd; 49 m) wide.An association football pitch may vary within limits of 90–120 m (98–131 yd) in length and 45–90 m (49–98 yd) in width. The recommended field size is 105 m × 68 m (115 yd × 74 yd) for major competitions such as the FIFA World Cup, UEFA European Championship and UEFA Champions League.
+A Canadian football field is 65 yd (59 m) wide and 150 yd (140 m) long, including two 20 yd (18 m) long end zones.
+
+Block
+In most US cities, a city block is between 1⁄16 and 1⁄8 mi (100 and 200 m). In Manhattan, the measurement "block" usually refers to a north–south block, which is 1⁄20 mi (80 m). Sometimes people living in places (like Manhattan) with a regularly spaced street grid will speak of long blocks and short blocks. Within a typical large North American city, it is often only possible to travel along east–west and north–south streets, so travel distance between two points is often given in the number of blocks east–west plus the number north–south (known to mathematicians as the Manhattan Metric).
+
+Earth radius
+The globally-average radius of Earth, generally given as 6,371 kilometres (3,959 miles), is often employed as a unit of measure to intuitively compare objects of planetary size.
+
+Lunar distance
+Lunar distance (LD), the distance from the centre of Earth to the centre of the Moon, is a unit of measure in astronomy. The lunar distance is approximately 384,400 km (238,900 mi), or 1.28 light-seconds; this is roughly 30 times Earth's diameter. A little less than 400 lunar distances make up an astronomical unit.
+
+Siriometer
+The siriometer is an obsolete astronomical measure equal to one million astronomical units, i.e., one million times the average distance between the Sun and Earth. This distance is equal to about 15.8 light-years, 149.6 Pm, or 4.8 parsecs, and is about twice the distance from Earth to the star Sirius.
+
+Cubit
+The cubit is, among others, a unit used in the Bible for measuring the size of Noah's Ark and of the Ark of the Covenant. Cubits of various lengths were used in Antiquity by various peoples, not only the Hebrews. One cubit is originally the length from someone's elbow to the tip of their middle finger; it usually translates to approximately half a metre ±10%, with an ancient Roman cubit being as long as 120 cm.
+One cubit was equal to 6–7 palms, one palm being the width of a hand not including the thumb.
+
+Area
+Barn
+One barn is 10−28 square metres, about the cross-sectional area of a uranium nucleus. The name probably derives from early neutron-deflection experiments, when the uranium nucleus was described, and the phrases "big as a barn" and "hit a barn door" were used. Barn are typically used for cross sections in nuclear and particle physics. Additional units include the microbarn (or "outhouse") and the yoctobarn (or "shed").
+
+Brass or square
+One brass is exactly 100 square feet (9.29 m2) area (used in measurement of work done or to be done, such as plastering, painting, etc.).  The same word is used, however, for 100 cubic feet (2.83 m3) of estimated or supplied loose material, such as sand, gravel, rubble, etc. This unit is prevalent in the construction industry in India.The same area is called a square in the construction industry in North America, and was historically used in Australia by real estate agents.
+A roof's area may be calculated in square feet, then converted to squares.
+
+Cow's grass
+In Ireland, before the 19th century, a "cow's grass" was a measurement used by farmers to indicate the size of their fields. A cow's grass was equal to the amount of land that could produce enough grass to support a cow.
+
+Football field (area)
+A football pitch, or field, can be used as a man-in-the-street unit of area. The standard FIFA football pitch for international matches is 105 m (344 ft) long by 68 m (223 ft) wide (7,140 m2 or 0.714 ha or 1.76 acres); FIFA allows for a variance of up to 5 m (16.4 ft) in length in either direction and 7 m (23.0 ft) more or 4 m (13.1 ft) less in width (and larger departures if the pitch is not used for international competition), which generally results in the association football pitch generally only being used for order of magnitude comparisons.An American football field, including both end zones, is 360 by 160 ft (120.0 by 53.3 yd; 109.7 by 48.8 m), or 57,600 square feet (5,350 m2) (0.535 hectares or 1.32 acres). A Canadian football field is 65 yards (59 m) wide and 110 yards (100 m) long with end zones adding a combined 40 yards (37 m) to the length, making it 87,750 square feet (8,152 m2) or 0.8215 ha (2.030 acres).
+An Australian rules football field may be approximately 150 metres (160 yd) (or more) long goal to goal and 135 metres (148 yd) (or more) wide, although the field's elliptical nature reduces its area to a certain extent. A 150-by-135-metre (164 by 148 yd) football field has an area of approximately 15,900 m2 (1.59 ha; 3.9 acres), twice the area of a Canadian football field and three times that of an American football field.
+
+Morgen
+A morgen ("morning" in Dutch and German) was approximately the amount of land tillable by one man behind an ox in the morning hours of a day. This was an official unit of measurement in South Africa until the 1970s, and was defined in November 2007 by the South African Law Society as having a conversion factor of 1 morgen = 0.856532 hectares. This unit of measure was also used in the Dutch colonial province of New Netherland (later New York and parts of New England).
+
+Countries, regions, and cities
+The area of a familiar country, state or city is often used as a unit of measure, especially in journalism.
+
+Wales
+Equal to 20,779 km2 (8,023 sq mi), the country of Wales is used in phrases such as "an area the size of Wales" or "twice the area of Wales". England is 6.275 times the size of Wales, and Scotland is roughly four times the size of Wales. Ireland is four times as large as Wales, and France is about twenty-five times larger.
+The British comedy show The Eleven O'Clock Show parodied the use of this measurement, by introducing a news article about an earthquake in Wales, stating that an area the size of Wales was affected. The Radio 4 programme More or Less introduced the idea of "kilowales" – an area 1,000 times the size of Wales. The Register introduced the nanowales (20.78 m2).The measurement has been adopted by rainforest conservation charity Size of Wales, aiming to conserve an area of rainforest equating to the area of Wales. On 1 March 2013, the charity announced that they had succeeded in conserving an area of rainforest the size of Wales and will continue to operate to sustain and increase the protected area.
+
+United States
+In the United States, the area of the smallest state, Rhode Island (1,545 sq mi or 4,000 km2); the largest of the contiguous 48 states, Texas (268,601 sq mi or 695,670 km2); and less commonly Alaska (656,425 sq mi or 1,700,130 km2), the largest of all 50 states, are used in a similar fashion. For example, Antarctica's Larsen B ice shelf was approximately the size of Rhode Island until it broke up in 2002. Other areas may be described like this, too, like in the 1979 movie The China Syndrome when radiation is expected to contaminate "an area the size of Pennsylvania".
+The US Central Intelligence Agency uses Washington, D.C. (61.4 sq mi or 159 km2) as a comparison for city-sized objects.
+
+Other countries
+In the Netherlands, its smallest province, Utrecht (1,386 km2 or 535 sq mi), is often used as a comparison for regions in general.
+The country of Belgium (30,528 km2 or 11,787 sq mi) has also often been used when comparing areas, to the point where it has been regarded as a meme and where there is a website dedicated to notable areas which have been compared to that of Belgium.
+The Isle of Wight (380 km2 or 147 sq mi), an island off the south coast of mainland England, is commonly used to define smaller areas. It has sometimes been used in attempts to examine whether a certain amount of a given object or group would fit in a space its size; in 2018, it was estimated that approximately 2.6 billion people could fit on the Isle of Wight, at a population density of six people per square metre.In Denmark, the outlying island of Bornholm (588 km2 or 227 sq mi) is often used to describe the size of an area.
+In Germany, the Saarland (2,569.69 km2 or 992.16 sq mi) is often used to define areas.In Brazil, it is common to compare relatively small areas to the state of Sergipe (21,910.4 km2 or 8,459.7 sq mi), the smallest in the country. Smaller areas are sometimes compared to the cities of São Paulo (1,521.11 km2 or 587.30 sq mi) or Rio de Janeiro (1,221 km2 or 471 sq mi).
+
+Volume
+Metric ounce
+A metric ounce is an approximation of the imperial ounce, US dry ounce, or US fluid ounce. These three customary units vary. However, the metric ounce is usually taken as 25 or 30 ml when volume is being measured, or grams when mass is being measured.
+The US Food and Drug Administration (FDA) defines the "food labeling ounce" as 30 ml, slightly larger than the 29.6 ml fluid ounce.Several Dutch units of measurement have been replaced with informal metric equivalents, including the ons or ounce. It originally meant 1⁄16 of a pound, or a little over 30 grams depending on which definition of the pound was used, but was redefined as 100 grams when the country metricated.
+
+Shot
+The shot is a liquid volume measure that varies from country to country and state to state depending on legislation. It is routinely used for measuring strong liquor or spirits when the amount served and consumed is smaller than the more common measures of alcoholic "drink" and "pint". There is a legally defined maximum size of a serving in some jurisdictions. The size of a "single" shot is 20–60 ml (0.70–2.11 imp fl oz; 0.68–2.03 US fl oz). The smaller "pony" shot is 20–30 ml (0.70–1.06 imp fl oz; 0.68–1.01 US fl oz). According to Encyclopædia Britannica Almanac 2009, a pony is 0.75 fluid ounces of liquor. According to Wolfram Alpha, one pony is 1 U.S. fluid ounce. "Double" shots (surprisingly not always the size of two single shots, even in the same place) are 40–100 ml (1.4–3.5 imp fl oz; 1.4–3.4 US fl oz). In the UK, spirits are sold in shots of either 25 ml (approximating the old fluid ounce) or 35 ml.
+
+Board foot or super foot
+A board foot is a United States and Canadian unit of approximate volume, used for lumber. It is equivalent to 1 inch × 1 foot × 1 foot (144 cu in or 2,360 cm3). It is also found in the unit of density pounds per board foot. In Australia and New Zealand the terms super foot or superficial foot were formerly used for this unit. The exact volume of wood specified is variable and depends on the type of lumber. For planed lumber the dimensions used to calculate board feet are nominal dimensions, which are larger than the actual size of the planed boards. See Dimensional lumber for more information on this.
+
+Hoppus foot
+A system of measure for timber in the round (standing or felled), now largely superseded by the metric system except in measuring hardwoods in certain countries. Its purpose is to estimate the value of sawn timber in a log, by measuring the unsawn log and allowing for wastage in the mill. Following the so-called "quarter-girth formula" (the square of one quarter of the circumference in inches multiplied by 1⁄144 of the length in feet), the notional log is four feet in circumference, one inch of which yields the hoppus board foot, 1 foot yields the hoppus foot, and 50 feet yields a hoppus ton. This translates to a hoppus foot being equal to 1.273 cubic feet (2,200 in3; 0.0360 m3). The hoppus board foot, when milled, yields about one board foot. The volume yielded by the quarter-girth formula is 78.54% of cubic measure (i.e. 1 ft3 = 0.7854 h ft; 1 h ft = 1.273 ft3).
+
+Cubic ton
+A cubic ton is an antiquated measure of volume, varying based on the commodity from about 16 to 45 cu ft (0.45 to 1.27 m3). It is now only used for lumber, for which one cubic ton is equivalent to 40 cu ft (1.1 m3).
+
+Cord and rick
+The cord is a unit of measure of dry volume used in Canada and the United States to measure firewood and pulpwood. A cord is the amount of wood that, when "ranked and well stowed" (arranged so pieces are aligned, parallel, touching and compact), occupies a volume of 128 cubic feet (3.62 m3). This corresponds to a well-stacked woodpile, 4 feet deep by 4 feet high by 8 feet wide (122 cm × 122 cm × 244 cm), or any other arrangement of linear measurements that yields the same volume. A more unusual measurement for firewood is the "rick" or face cord. It is stacked 16 inches (40.6 cm) deep with the other measurements kept the same as a cord, making it 1⁄3 of a cord; however, regional variations mean that its precise definition is non-standardized.
+
+Twenty-foot equivalent unit
+The twenty-foot equivalent unit is the volume of the smallest standard shipping container. It is equivalent to 1,360 cubic feet (39 m3). Larger intermodal containers are commonly described in multiples of TEU, as are container ship capacities.
+
+Acre-foot
+An acre-foot is a unit of volume commonly used in the United States in reference to large-scale water resources, such as reservoirs, aqueducts, canals, sewer flow capacity, irrigation water and river flows. It is defined by the volume of one acre of surface area to a depth of one foot. 43,560 cu ft (1,233 m3; 325,851 US gal; 271,328 imp gal).
+
+Casual units
+Many well-known objects are regularly used as casual units of volume. They include:
+
+Double-decker bus
+The approximate volume of a double-decker bus, abbreviated to DDB, has been used informally to describe the size of hole created by a major sewer collapse. For example, a report might refer to "a 4 DDB hole".Olympic-size swimming pool
+ For larger volumes of liquid, one measure commonly used in the media in many countries is the Olympic-size swimming pool. A 50 m × 25 m (164 ft × 82 ft) Olympic swimming pool, built to the FR3 minimum depth of 2 metres (6.6 ft) would hold 2,500 m3 (2,500,000 L; 550,000 imp gal; 660,000 US gal; 2.0 acre⋅ft). The US National Institute of Standards and Technology (NIST) defines the Olympic swimming pool as 1 million litres, which is the approximate volume of the smaller FR2 pool.Royal Albert Hall
+The Royal Albert Hall, a large concert hall, is sometimes used as a unit of volume in the UK, for example when referring to volumes of rubbish placed in landfill. It is famously used in the line "Now they know how many holes it takes to fill the Albert Hall." in The Beatles song "A Day in the Life". The volume of the auditorium is between 3 and 3.5 million cubic feet (between 85,000 and 99,000 cubic metres).Melbourne Cricket Ground
+A common measure of volume in Australia, and in the state of Victoria in particular, is the Melbourne Cricket Ground, the largest stadium in Australia and 13th largest in the world. The volume of the Melbourne Cricket Ground is 1,574,000 cubic metres, or about 630 Olympic swimming pools. Its seating capacity (100,000 as of July 2019) is also used as a unit measure of the number of people.Sydney Harbour
+ A unit of volume used in Australia for water. One Sydney Harbour is the amount of water in Sydney Harbour: approximately 562 gigalitres (562,000,000 cubic metres, or 0.562 of a cubic kilometre); or in terms of the more unusual measures above, about 357 Melbourne Cricket Grounds, 238,000 Olympic Swimming pools, or 476,000 acre-feet.The Grand Canyon
+With a volume measure approximately 4 orders of magnitude greater than Sydney Harbour, the volume of the Grand Canyon may be used to visualize even larger things, like the magma chamber underneath Yellowstone and other things. According to the National Park Service, the volume of the Grand Canyon is 4.17 trillion cubic metres (5.45 trillion cubic yards) which is 4,170 km3 (1,000 cu mi).
+
+Flow rate
+Miner's inch
+The volume of water which flows in one unit of time through an orifice of one square inch area. The size of the unit varies from one place to another.
+
+Mass
+Electronvolt mass
+It is common in particle physics to use eV/c2 as a unit of mass. Here, eV (electronvolt) is a unit of energy (the kinetic energy of an electron accelerated over one volt, 1.6×10−19 joules), and c is the speed of light in vacuum. Energy and mass are related through E = mc2. This definition is useful for a linear particle accelerator when accelerating electrons.
+
+In many systems of natural units c = 1, so the c is dropped and eV itself becomes a unit of mass.
+
+Bag of cement and bag mix
+The mass of an old bag of cement was one hundredweight (112 pounds, 51 kg). The amount of material that an aircraft could carry into the air is often visualised as the number of bags of cement that it could lift. In the concrete and petroleum industry, however, a bag of cement is defined as 94 lb (43 kg) because it has an apparent volume close to 1 cubic foot (28 litres). When ready-mix concrete is specified, a "bag mix" unit is used as if the batching company mixes 5 literal bags of cement per cubic yard (or cubic metre) when a "5 bag mix" is ordered.
+
+Grave
+In 1793, the French term "grave" (from "gravity") was suggested as the base unit of mass for the metric system. In 1795, however, the name "kilogramme" was adopted instead.
+
+Jupiter
+When reporting on the masses of extrasolar planets, astronomers often discuss them in terms of multiples of Jupiter's mass (MJ = 1.9 ×1027 kg). For example, "Astronomers recently discovered a planet outside our Solar System with a mass of approximately 3 Jupiters." Furthermore, the mass of Jupiter is nearly equal to one thousandth of the mass of the Sun.
+
+Sun
+Solar mass (M☉ = 2.0×1030 kg) is also often used in astronomy when talking about masses of stars or galaxies; for example, Alpha Centauri A has the mass of 1.1 suns, and the Milky Way has a mass of approximately 6×1011 M☉.
+Solar mass also has a special use when estimating orbital periods and distances of 2 bodies using Kepler's laws: a3 = MtotalT2, where a is length of semi-major axis in AU, T is orbital period in years and Mtotal is the combined mass of objects in M☉. In case of planet orbiting a star, Mtotal can be approximated to mean the mass of the central object. More specifically in the case of Sun and Earth the numbers reduce to Mtotal ~ 1, a ~ 1 and T ~ 1.
+
+Time
+Light-distance
+George Gamow discussed measurements of time such as the "light-mile" and "light-foot", the time taken for light to travel the specified unit distance, defined by "reversing the procedure" used in defining a light-year. A light-foot is roughly one nanosecond.
+
+Shake
+In nuclear engineering and astrophysics contexts, the shake is sometimes used as a conveniently short period of time. 1 shake is defined as 10 nanoseconds.
+
+Jiffy
+In computing, the jiffy is the duration of one tick of the system timer interrupt. Typically, this time is 0.01 seconds, though in some earlier systems (such as the Commodore 8-bit machines) the jiffy was defined as 1⁄60 of a second, roughly equal to the vertical refresh period (i.e. the field rate) on NTSC video hardware (and the period of AC electric power in North America).
+
+Microfortnight
+One unit derived from the FFF system of units is the microfortnight, one millionth of the fundamental time unit of FFF, which equals 1.2096 seconds. This is a fairly representative example of "hacker humor", and is occasionally used in operating systems; for example, the OpenVMS TIMEPROMPTWAIT parameter is measured in microfortnights.
+
+Sidereal day
+The sidereal day is based on the Earth's rotation rate relative to fixed stars, rather than the Sun. A sidereal day is approximately 23 hours, 56 minutes, 4.0905 SI seconds.
+
+Decimal time systems
+The measurement of time is unique in SI in that while the second is the base unit, and measurements of time smaller than a second use prefixed units smaller than a second (e.g. microsecond, nanosecond, etc.), measurements larger than a second instead use traditional divisions, including the sexagesimal-based minute and hour as well as the less regular day and year units.
+SI allows for the use of larger prefixed units based on the second, a system known as metric time, but this is seldom used, since the number of seconds in a day (86,400 or, in rare cases, 86,401) negate one of the metric system's primary advantages: easy conversion by multiplying or dividing by powers of ten.
+There have been numerous proposals and usage of decimal time, most of which were based on the day as the base unit, such that the number of units between any two events that happen at the same time of day would be equal to the number of days between them multiplied by some integer power of ten. In dynastic China, the kè was a unit that represented 1⁄100 of a day (it has since been redefined to 1⁄96 of a day, or 15 minutes). In France, a decimal time system in place from 1793 to 1805 divided the day into 10 hours, each divided into 100 minutes, in turn each divided into 100 seconds; the French Republican Calendar further extended this by assembling days into ten-day "weeks".
+Ordinal dates and Julian days, the latter of which has seen use in astronomy as it is not subject to leap year complications, allow for the expression of a decimal portion of the day. In the mid-1960s, to defeat the advantage of the recently introduced computers for the then popular rally racing in the Midwest, competition lag times in a few events were given in centids (1⁄100 day, 864 seconds, 14.4 minutes), millids (1⁄1,000 day, 86.4 seconds), and centims (1⁄100 minute, 0.6 seconds) the latter two looking and sounding a bit like the related units of minutes and seconds. Decimal time proposals are frequently used in fiction, often in futuristic works.
+In addition to decimal time, there also exist binary clocks and hexadecimal time.
+The Swatch Internet Time system is based on Decimal time.
+
+Sol
+The United States-based NASA, when conducting missions to the planet Mars, has typically used a time of day system calibrated to the mean solar day on that planet (known as a "sol"), training those involved on those missions to acclimate to that length of day, which is 88,775 SI seconds, or 2,375 seconds (about 39 minutes) longer than the mean solar day on Earth. NASA's Martian timekeeping system (instead of breaking down the sol into 25×53×67 or 25×67×53 SI second divisions) slows down clocks so that the 24-hour day is stretched to the length of that on Mars; Martian hours, minutes and seconds are thus 2.75% longer than their SI-compatible counterparts.The Darian calendar is an arrangement of sols into a Martian year. It maintains a seven-sol week (retaining Sunday through Saturday naming customs), with four weeks to a month and 24 months to a Martian year, which contains 668 or 669 sols depending on leap years. The last Saturday of every six months is skipped over in the Darian calendar.
+
+Dog year
+There are two diametrically opposed definitions of the dog year, primarily used to approximate the equivalent age of dogs and other animals with similar life spans. Both are based upon a popular myth regarding the aging of dogs that states that a dog ages seven years in the time it takes a human to age one year.
+
+One seventh of a year, or approximately 52 days. When this definition is used, a standard calendar year is known as a "human year".
+A standard (365-day) calendar year of a dog's life, whereas a "human year" is the period of a dog's (or other animal's) life that is claimed to be equivalent to a year of a human being's life (or seven calendar years).In fact, the aging of a dog varies by breed (larger breeds tend to have shorter lifespans than small and medium-sized breeds); dogs also develop faster and have longer adulthoods relative to their total life span than humans. Most dogs are sexually mature by 1 year old, which corresponds to perhaps 13 years old in humans. Giant dog breeds and bulldogs tend to have the strongest linear correspondence to human aging, with longer adolescences and shorter overall lifespans; such breeds typically age about nine times as fast as humans throughout their lives.
+
+Galactic year
+The galactic year, GY, is the time it takes the solar system to revolve once around the galactic core, approximately 250 million years (megaannum or "Ma"). It is a convenient unit for long-term measurements. For example, oceans appeared on Earth after 4 GY, life is detectable at 5 GY, and multicellular organisms first appeared at 15 GY. The age of the Earth is estimated at about 20 GY. This use of GY is not to be confused with Gyr for gigayear or Gy for Gray (unit).
+
+KerMetric time
+KerMetric time is a concept that divides the day into 100 equal parts called kermits. Each kermit is equivalent to 14.4 minutes. More precise time can be counted by dividing by 1000 or even 10000. The name kermit came from a combination of the surname of Dr. Larkin Kerwin, president of the National Research Council in 1983, with the word "metric". The original working model of KerMetric time as conceived by W. Thayer of NRC was assembled by the designated Clock Construction Team of John Phillips, Ron Hawkins, Les Moore, and Willie Thayer in 1983.
+
+Moment
+A moment was a medieval unit of time. The movement of a shadow on a sundial covered 40 moments in a solar hour. An hour in this case meant one twelfth of the period between sunrise and sunset. The length of a solar hour depended on the length of the day, which in turn varied with the season, so the length of a moment in modern seconds was not fixed, but on average, a moment corresponded to 90 seconds.
+
+Thirds, fourths
+The term "minute" usually means 1⁄60 of an hour, coming from "a minute division of an hour". The term "second" comes from "the second minute division of an hour", as it is 1⁄60 of a minute, or 1⁄60 of 1⁄60 of an hour. While usually sub-second units are represented with SI prefixes on the second (e.g. milliseconds), this system can be extrapolated further, such that a "Third" would mean 1⁄60 of a second (16.7 milliseconds), and a "Fourth" would mean 1⁄60 of a third (278 microseconds), etc. These units are occasionally used in astronomy to denote angles.
+
+Angular measure
+Furman
+The Furman is a unit of angular measure equal to 1⁄65,536 of a circle, or just under 20 arcseconds. It is named for Alan T. Furman, the American mathematician who adapted the CORDIC algorithm for 16-bit fixed-point arithmetic sometime around 1980. 16 bits give a resolution of 216 = 65,536 distinct angles.
+
+Binary degree, binary radian, brad
+A related unit of angular measure equal to 1⁄256 of a circle, represented by 8 bits, has found some use in machinery control where fine precision is not required, most notably crankshaft and camshaft position in internal combustion engine controllers, and in video game programming. There is no consensus as to its name, but it has been called the 8-Bit Furman, the Small Furman, the Furboy and more recently, the miFurman, (milli-binary-Furman). These units are convenient because they form cycles: for the 8-bit unit, the value overflows from 255 to 0 when a full circle has been traversed, so binary addition and subtraction work as expected. Measures are often made using a Gray code, which is trivially converted into more conventional notation. Its value is equivalent to Tau/256 radians, or about 0.0245436926 radians.
+
+Grade (also grad, gradian, gon)
+Coordinates were measured in grades on official French terrestrial ordnance charts from the French revolution well into the 20th century. 1 grade (or in modern symbology, 1 gon) = 0.9° or 0.01 right angle. One advantage of this measure is that the distance between latitude lines 0.01 gon apart at the equator is almost exactly 1 kilometre (and would be exactly 1 km if the original definition of 1 metre = 1⁄10,000 quarter-meridian had been adhered to). One disadvantage is that common angles like 30° and 60° are expressed by fractional values (331⁄3 and 662⁄3 respectively) so this "decimal" unit failed to displace the "sexagesimal" units equilateral-vertex – degree – minute – second invented by Babylonian astronomers.
+
+Mils, strecks
+Mils and strecks are small units of angle used by various military organizations for range estimation and translating map coordinates used for directing artillery fire. The exact size varies between different organizations: there are 6400 NATO mils per turn (1 NATO mil = 0.982 mrad), or 6000 Warsaw pact mils per turn (1 Warsaw pact mil = 1.047 mrad). In the Swedish military, there are 6300 strecks per turn (1 streck = 0.997 mrad).
+
+MERU (Milli Earth Rate Unit)
+The MERU, or Milli Earth Rate Unit, is an angular velocity equal to 1/1000 of Earth's rotation rate. It was introduced by MIT's Instrumentation Laboratories (now Draper Labs) to measure the performance of inertial navigation systems. One MERU = 7.292115×10^−8 radians per second or about 0.2625 milliradians/hour.
+
+Energy
+Gasoline gallon equivalent
+In 2011, the United States Environmental Protection Agency introduced the gallon gasoline equivalent as a unit of energy because their research showed most U.S. citizens do not understand the standard units. The gallon gasoline equivalent is defined as 33.7 kWh, or about 1.213×108 joules.
+Efficiency / fuel economy can be given as miles per gallon gasoline equivalent.
+
+Tons of TNT equivalent
+The energy of various amounts of the explosive TNT (kiloton, megaton, gigaton) is often used as a unit of explosion energy, and sometimes of asteroid impacts and violent explosive volcanic eruptions. One ton of TNT produces 4.184×109 joules, or (by arbitrary definition) exactly 109 thermochemical calories (approximately 3.964×106 BTU). This definition is only loosely based on the actual physical properties of TNT.
+
+Hiroshima bomb and Halifax explosion
+The energy released by the Hiroshima bomb explosion (about 15 kt TNT equivalent, or 6×1013 J) is often used by geologists as a unit when describing the energy of earthquakes, volcanic eruptions, and asteroid impacts.
+Prior to the detonation of the Hiroshima bomb, the size of the Halifax Explosion (about 3 kt TNT equivalent, or 1.26×1013 J), was the standard for this type of relative measurement. Each explosion had been the largest known artificial detonation to date.
+
+Quad
+A quad is a unit of energy equal to 1015 BTUs, or approximately 1.055×1018 J (slightly over one exajoule). It is suitably large to quantify energy usage by nations or by the planet as whole using everyday numbers. For example, in 2004, US energy consumption was about 100 Q/year, while demand worldwide was about 400 Q/year.
+
+Foe
+A foe is a unit of energy equal to 1044 joules (≈9.478×1040 BTU) that was coined by physicist Gerry Brown of Stony Brook University. To measure the staggeringly immense amount of energy produced by a supernova, specialists occasionally use the "foe", an acronym derived from the phrase [ten to the power of] fifty-one ergs, or 1051 ergs. This unit of measure is convenient because a supernova typically releases about one foe of observable energy in a very short period of time (which can be measured in seconds).
+
+Other metric-compatible scales
+Power: Ton of refrigeration
+The rate at which heat is removed by melting one short ton (910 kg) of ice in 24 hours is called a ton of refrigeration, or even a ton of cooling. This unit of refrigeration capacity came from the days when large blocks of ice were used for cooling, and is still used to describe the heat-removal capabilities of refrigerators and chillers today. One ton of refrigeration is exactly equal to 12,000 BTU/h, or 3.517 kW.
+
+Luminous flux: watt equivalent
+With the phaseout of the incandescent lamp in the United States and European Union in the early 21st century, manufacturers and sellers of more energy-efficient lamps have compared the visible light output of their lamps to commonly used incandescent lamp sizes with the watt equivalent or watt incandescent replacement (usually with a lowercase w as a unit symbol, as opposed to capital W for the actual wattage). 1 watt incandescent replacement corresponds to 15 lumens. Thus, a 72-watt halogen lamp, a 23-watt compact fluorescent lamp and a 14-watt light-emitting diode lamp, all of which emit 1500 lumens of visible light, are all marketed as "100 watt incandescent replacement" (100w).
+
+Flow: Amazon River
+The volume of discharge of the Amazon River sometimes used to describe large volumes of water flow such as ocean currents. The unit is equivalent to 216,000 m3/s.
+
+Flow: Sverdrup
+One Sverdrup (Sv) is equal to 1,000,000 cubic metres per second (264,000,000 USgal/s). It is used almost exclusively in oceanography to measure the volumetric rate of transport of ocean currents.
+
+Energy intensity
+The langley (symbol Ly) is used to measure solar radiation or insolation. It is equal to one thermochemical calorie per square centimetre (4.184×104 J/m2 or ≈3.684 BTU/sq ft) and was named after Samuel Pierpont Langley. Its symbol should not be confused with that for the light-year, ly.
+
+Kinematic viscosity
+One of the few CGS units to see wider use, one stokes (symbol S or St) is a unit of kinematic viscosity, defined as 1 cm2/s, i.e., 10−4 m2/s (≈1.08×10−3 sq ft/s).
+
+Angular velocity
+MERU (Milli Earth Rate Unit), an angular velocity equal to 1⁄1000 of Earth's rotation rate: 1 MERU = 0.015 degrees/hour ≈ 0.072921 microradian/second. Sometimes used to measure the angular drift rate of an inertial navigation system.
+
+Electromagnetic flux
+In radio astronomy, the unit of electromagnetic flux is the jansky (symbol Jy), equivalent to 10−26 watts per square metre per hertz (= 10−26 kg/s2 in base units, about 8.8×10−31 BTU/ft2). It is named after the pioneering radio astronomer Karl Jansky. The brightest natural radio sources have flux densities of the order of one to one hundred jansky.
+
+Metre of water equivalent
+A material-dependent unit used in nuclear and particle physics and engineering to measure the thickness of shielding, for example around a nuclear reactor, particle accelerator, or radiation or particle detector. 1 mwe of a material is the thickness of that material that provides the equivalent shielding of one metre (≈39.4 in) of water.
+This unit is commonly used in underground science to express the extent to which the overburden (usually rock) shields an underground space or laboratory from cosmic rays. The actual thickness of overburden through which cosmic rays must traverse to reach the underground space varies as a function of direction due to the shape of the overburden, which may be a mountain, or a flat plain, or something more complex like a cliff side. To express the depth of an underground space in mwe (or kmwe for deep sites) as a single number, the convention is to use the depth beneath a flat overburden at sea level that gives the same overall cosmic ray muon flux in the underground location.
+
+Strontium unit: radiation dose
+The strontium unit, formerly known as the Sunshine Unit (symbol S.U.), is a unit of biological contamination by radioactive substances (specifically strontium-90). It is equal to one picocurie of Sr-90 per gram of body calcium. Since about 2% of the human body mass is calcium, and Sr-90 has a half-life of 28.78 years, releasing 6.697+2.282 MeV per disintegration, this works out to about 1.065×10−12 grays per second. The permissible body burden was established at 1,000 S.U.
+
+Banana equivalent dose
+Bananas, like most organic material, naturally contain a certain amount of radioactive isotopes—even in the absence of any artificial pollution or contamination. The banana equivalent dose, defined as the additional dose a person will absorb from eating one banana, expresses the severity of exposure to radiation, such as resulting from nuclear weapons or medical procedures, in terms that would make sense to most people. This is approximately 78 nanosieverts – in informal publications one often sees this estimate rounded up to 0.1 μSv.
+
+Flight-time equivalent dose
+Natural background radiation typically increases with altitude above the earth's surface. Utilizing this phenomenon, dose resulting from radiological exposures can be expressed in units of flight-time. Flight-time equivalent dose is defined as the time spent in an aircraft at cruising altitude required to receive a radiological dose approximately equivalent to a radiological exposure such as a medical x-ray. One hour of flight-time is approximately equivalent to a dose of 0.004 millisieverts.
+
+Molar mass of cellulose
+In the pulp and paper industry, molar mass is traditionally measured with a method where the intrinsic viscosity (dL/g) of the pulp sample is measured in cupriethylenediamine (Cuen). The intrinsic viscosity [η] is related to the weight-average molar mass (in daltons) by the Mark-Houwink equation: [η] = 0.070 Mw0.70. However, it is typical to cite [η] values directly in dL/g, as the "viscosity" of the cellulose, confusingly as it is not a viscosity.
+
+Iodine, bromine and kappa number
+In measuring unsaturation in fatty acids, the traditional method is the iodine number. Iodine adds stoichiometrically to double bonds, so their amount is reported in grams of iodine spent per 100 grams of oil. The standard unit is a dimensionless stoichiometry ratio of moles double bonds to moles fatty acid. A similar quantity, bromine number, is used in gasoline analysis.
+In pulp and paper industry, a similar kappa number is used to measure how much bleaching a pulp requires. Potassium permanganate is added to react with the unsaturated compounds (lignin and uronic acids) in the pulp and back-titrated. Originally with chlorine bleaching the required quantity of chlorine could be then calculated, although modern methods use multiple stages. Since the oxidizable compounds are not exclusively lignin and the partially pulped lignin does not have a single stoichiometry, the relation between the kappa number and the precise amount of lignin is inexact.
+
+Temperature: Gas Mark
+Gas Mark is a temperature scale, predominantly found on British ovens, that scales linearly with temperature above 135 °C (Gas Mark 1) and scales with the log of Celsius below 135 °C.
+
+Demography and epidemiology
+Demography and quantitative epidemiology are statistical fields that deal with counts or proportions of people, or rates of change in these. Counts and proportions are technically dimensionless, and so have no units of measurement, although identifiers such as "people", "births", "infections" and the like are used for clarity. Rates of change are counts per unit of time and strictly have inverse time dimensions (per unit of time). In demography and epidemiology expressions such as "deaths per year" are used to clarify what is being measured.
+Prevalence, a common measure in epidemiology is strictly a type of denominator data, a dimensionless ratio or proportion. Prevalence may be expressed as a fraction, a percentage or as the number of cases per 1,000, 10,000, or 100,000 in the population of interest.
+
+Micromort
+A micromort is a unit of risk measuring a one-in-a-million probability of death (from micro- and mortality). Micromorts can be used to measure riskiness of various day-to-day activities. A microprobability is a one-in-a million chance of some event; thus a micromort is the microprobability of death. For example, smoking 1.4 cigarettes increases one's death risk by one micromort, as does traveling 370 km (230 miles) by car.
+
+Numbers of people: Stadium capacities
+The large numbers of people involved in demography are often difficult to comprehend. A useful visualisation tool is the audience capacity of large sports stadiums (often about 100,000). Often the capacity of the largest stadium in a region serves as a unit for a large number of people. For example, Uruguay's Estadio Centenario is often used in Uruguay, while in parts of the United States, Michigan Stadium is used in this manner. In Australia, the capacity of the Melbourne Cricket Ground (about 100,000) is often cited in this manner. Hence the Melbourne Cricket Ground serves as both a measure of people and a unit of volume.
+
+Computer and information science
+The growth of computing has necessitated the creation of many new units, several of which are based on unusual foundations.
+
+Data volume
+Volume or capacity of data is often compared to works of literature or large collections of writing. Popular units include the Bible, the Encyclopaedia Britannica, phone books, the complete works of Shakespeare, and the Library of Congress.
+When the Compact Disc began to be used as a data storage device as the CD-ROM, journalists often described the disc capacity (650 megabytes) by using the number of Christian Bibles that can be stored. The King James Version of the Bible in uncompressed plain 8-bit text contains about 4.5 million characters, so a CD-ROM can store about 150 Bibles.
+The print version of the Encyclopædia Britannica is another common data volume metric. It contains approximately 300 million characters, so two copies would fit onto a CD-ROM and still have 50 megabytes (or about 11 bibles) left over.
+The term Library of Congress is often used. It refers to the US Library of Congress. Information researchers have estimated that the entire print collections of the Library of Congress represent roughly 10 terabytes of uncompressed textual data.
+
+Nibble
+A measure of quantity of data or information, the "nibble" (sometimes spelled "nybble" or "nybl") is normally equal to 4 bits, or one half of the common 8-bit byte. The nibble is used to describe the amount of memory used to store a digit of a number stored in binary-coded decimal format, or to represent a single hexadecimal digit. Less commonly, 'nibble' may be used for any contiguous portion of a byte of specified length, e.g. "6-bit nibble"; this usage is most likely to be encountered in connection with a hardware architecture in which the word length is not a multiple of 8, such as older 36-bit minicomputers.
+
+FLOPS
+In computing, FLOPS (FLoating point Operations Per Second) is a measure of a computer's computing power. It is also common to see measurements of kilo, mega, giga, and teraFLOPS.
+It is also used to compare the performance of computers in practice.
+
+BogoMips
+A measure to determine the CPU speed. It was invented by Linus Torvalds and is nowadays present on every Linux operating system. However, it is not a meaningful measure to assess the actual CPU performance.
+
+KLOC
+A computer programming expression, the K-LOC or KLOC, pronounced kay-lok, standing for "kilo-lines of code", i.e., thousand lines of code. The unit was used, especially by IBM managers, to express the amount of work required to develop a piece of software. Given that estimates of 20 lines of functional code per day per programmer were often used, it is apparent that 1 K-LOC could take one programmer as long as 50 working days, or 10 working weeks. This measure is no longer in widespread use because different computer languages require different numbers of lines to achieve the same result (occasionally the measure "assembly equivalent lines of code" is used, with appropriate conversion factors from the language actually used to assembly language).
+Error rates in programming are also measured in "Errors per K-LOC", which is called the defect density. NASA's SATC is one of the few organizations to claim zero defects in a large (>500K-LOC) project, for the space shuttle software.
+An alternative measurement was defined by Pegasus Mail author David Harris: the "WaP" is equivalent to 71,500 lines of program code, because that number of lines is the length of one edition of Leo Tolstoy's War and Peace.
+
+Ticks
+The "tick" is the amount of time between timer interrupts generated by the timer circuit of a CPU. The amount of time is processor-dependent.
+
+Other
+Centipawn
+Chess software frequently uses centipawns internally or externally as a unit measuring how strong each player's situation position is, and hence also by how much one player is beating the other, and how strong a possible move is. 100 centipawns = the value of 1 pawn – more specifically, something like the average value of the pawns at the start of the game, as the actual value of pawns depends on their position. Loss of a pawn will therefore typically lose that player 100 centipawns. The centipawn is often used for comparing possible moves, as in a given position, chess software will often rate the better of two moves within a few centipawns of each other.
+
+Garn
+The garn is NASA's unit of measure for symptoms resulting from space adaptation syndrome, the response of the human body to weightlessness in space, named after US Senator Jake Garn, who became exceptionally spacesick during an orbital flight in 1985. If an astronaut is completely incapacitated by space adaptation syndrome, he or she is under the effect of one garn of symptoms.
+
+Mother Cow Index
+Formerly used in real estate transactions in the American Southwest, it was the number of pregnant cows an acre of a given plot of land could support. It acted as a proxy for the agricultural quality, natural resource availability, and arability of a parcel of land.
+
+Nines
+Numbers very close to, but below one are often expressed in "nines" (N – not to be confused with the unit newton), that is in the number of nines following the decimal separator in writing the number in question. For example, "three nines" or "3N" indicates 0.999 or 99.9%, "four nines five" or "4N5" is the expression for the number 0.99995 or 99.995%.Typical areas of usage are:
+
+The reliability of computer systems, that is the ratio of uptime to the sum of uptime and downtime. "Five nines" reliability in a continuously operated system means an average downtime of no more than approximately five minutes per year (there is no relationship between the number of nines and minutes per year, it is pure coincidence that "five nines" relates to five minutes per year.) (See high availability for a chart.)
+The purity of materials, such as gases and metals.
+
+Pain
+The dol (from the Latin word for pain, dolor) is a unit of measurement for pain. James D. Hardy, Herbert G. Wolff, and Helen Goodell of Cornell University proposed the unit based on their studies of pain during the 1940s and 1950s. They defined one dol to equal a just-noticeable difference in pain. The unit never came into widespread use and other methods are now used to assess the level of pain experienced by patients.
+The Schmidt sting pain index and Starr sting pain index are pain scales rating the relative pain caused by different hymenoptera stings. Schmidt has refined his pain index (with a 1–4 scale) with extensive anecdotal experience, culminating in a paper published in 1990 which classifies the stings of 78 species and 41 genera of Hymenoptera. The Starr sting pain scale uses the same 1–4 scale.
+
+Pepper heat
+ASTA pungency unit
+The ASTA (American Spice Trade Association) pungency unit is based on a scientific method of measuring chili pepper "heat". The technique utilizes high-performance liquid chromatography to identify and measure the concentrations of the various compounds that produce a heat sensation. Scoville units are roughly 1⁄15 the size of pungency units while measuring capsaicin, so a rough conversion is to multiply pungency by 15 to obtain Scoville heat units.
+
+Scoville heat unit
+The Scoville scale is a measure of the hotness of a chili pepper. It is the degree of dilution in sugar water of a specific chili pepper extract when a panel of 5 tasters can no longer detect its "heat". Pure capsaicin (the chemical responsible for the "heat") has 16 million Scoville heat units.
+
+Potrzebie
+The widely-read MAD Magazine made extensive use, as a running gag, of the Potrzebie system of units, which included units of length, mass etc.
+
+Proof: alcohol concentration
+Up to the 20th century, alcoholic spirits were assessed in the UK by mixing with gunpowder and testing the mixture to see whether it would still burn; spirit that just passed the test was said to be at 100° proof. The UK now uses percentage alcohol by volume (ABV) at 20 °C (68.0 °F), where spirit at 100° proof is approximately 57.15% ABV. In the US, "proof number" is defined as twice the ABV at 60 °F (15.6 °C).
+
+Savart
+The Savart is an 18th-century unit for measuring the frequency ratio of two sounds. It is equal to 1⁄1000 of a decade (not to be confused with the time period equal to 10 years). The cent is preferred for musical use.
+
+Telecommunications traffic volume
+The erlang, named after A. K. Erlang, as a dimensionless unit is used in telephony as a statistical measure of the offered intensity of telecommunications traffic on a group of resources. Traffic of one erlang refers to a single resource being in continuous use, or two channels being at fifty percent use, and so on, pro rata. Much telecommunications management and forecasting software uses this.
+
+X-ray intensity
+The crab is defined as the intensity of X-rays emitted from the Crab Nebula at a given photon energy up to 30 kiloelectronvolts. The Crab Nebula is often used for calibration of X-ray telescopes. For measuring the X-ray intensity of a less energetic source, the milliCrab (mCrab) may be used.
+One crab is approximately 24 pW/m2.
+
+See also
+References
+
+
+== Bibliography ==

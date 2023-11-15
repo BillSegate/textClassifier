@@ -1,0 +1,2198 @@
+In control theory, Ackermann's formula is a control system design method for solving the pole allocation problem for invariant-time systems by Jürgen Ackermann. One of the primary problems in control system design is the creation of controllers that will change the dynamics of a system by changing the eigenvalues of the matrix representing the dynamics of the closed-loop system. This is equivalent to changing the poles of the associated transfer function in the case that there is no cancellation of poles and zeros.
+
+State feedback control
+Consider a linear continuous-time invariant system with a state-space representation
+
+  
+    
+      
+        
+          
+            
+              x
+              ˙
+            
+          
+        
+        (
+        t
+        )
+        =
+        A
+        x
+        (
+        t
+        )
+        +
+        B
+        u
+        (
+        t
+        )
+      
+    
+    {\displaystyle {\dot {x}}(t)=Ax(t)+Bu(t)}
+  
+
+  
+    
+      
+        y
+        (
+        t
+        )
+        =
+        C
+        x
+        (
+        t
+        )
+      
+    
+    {\displaystyle y(t)=Cx(t)}
+  where x is the state vector, u is the input vector, and A, B and C are matrices of compatible dimensions that represent the dynamics of the system. An input-output description of this system is given by the transfer function
+
+  
+    
+      
+        G
+        (
+        s
+        )
+        =
+        C
+        (
+        s
+        I
+        −
+        A
+        
+          )
+          
+            −
+            1
+          
+        
+        B
+        =
+        C
+         
+        
+          
+            
+              Adj
+              ⁡
+              (
+              s
+              I
+              −
+              A
+              )
+            
+            
+              det
+              (
+              s
+              I
+              −
+              A
+              )
+            
+          
+        
+         
+        B
+        .
+      
+    
+    {\displaystyle G(s)=C(sI-A)^{-1}B=C\ {\frac {\operatorname {Adj} (sI-A)}{\det(sI-A)}}\ B.}
+  Since the denominator of the right equation is given by the characteristic polynomial of A, the poles of G are eigenvalues of A (note that the converse is not necessarily true, since there may be cancellations between terms of the numerator and the denominator). If the system is unstable, or has a slow response or any other characteristic that does not specify the design criteria, it could be advantageous to make changes to it. The matrices A, B and C, however, may represent physical parameters of a system that cannot be altered. Thus, one approach to this problem might be to create a feedback loop with a gain K that will feed the state variable x into the input u.
+If the system is controllable, there is always an input 
+  
+    
+      
+        u
+        (
+        t
+        )
+      
+    
+    {\displaystyle u(t)}
+   such that any state 
+  
+    
+      
+        
+          x
+          
+            0
+          
+        
+      
+    
+    {\displaystyle x_{0}}
+   can be transferred to any other state 
+  
+    
+      
+        x
+        (
+        t
+        )
+      
+    
+    {\displaystyle x(t)}
+  . With that in mind, a feedback loop can be added to the system with the control input 
+  
+    
+      
+        u
+        (
+        t
+        )
+        =
+        r
+        (
+        t
+        )
+        −
+        K
+        x
+        (
+        t
+        )
+      
+    
+    {\displaystyle u(t)=r(t)-Kx(t)}
+  , such that the new dynamics of the system will be
+
+  
+    
+      
+        
+          
+            
+              x
+              ˙
+            
+          
+        
+        (
+        t
+        )
+        =
+        A
+        x
+        (
+        t
+        )
+        +
+        B
+        [
+        r
+        (
+        t
+        )
+        −
+        K
+        x
+        (
+        t
+        )
+        ]
+        =
+        [
+        A
+        −
+        B
+        K
+        ]
+        x
+        (
+        t
+        )
+        +
+        B
+        r
+        (
+        t
+        )
+      
+    
+    {\displaystyle {\dot {x}}(t)=Ax(t)+B[r(t)-Kx(t)]=[A-BK]x(t)+Br(t)}
+  
+
+  
+    
+      
+        y
+        (
+        t
+        )
+        =
+        C
+        x
+        (
+        t
+        )
+        .
+      
+    
+    {\displaystyle y(t)=Cx(t).}
+  In this new realization, the poles will be dependent on the characteristic polynomial 
+  
+    
+      
+        
+          Δ
+          
+            n
+            e
+            w
+          
+        
+      
+    
+    {\displaystyle \Delta _{new}}
+   of 
+  
+    
+      
+        A
+        −
+        B
+        K
+      
+    
+    {\displaystyle A-BK}
+  , that is
+
+  
+    
+      
+        
+          Δ
+          
+            new
+          
+        
+        (
+        s
+        )
+        =
+        det
+        (
+        s
+        I
+        −
+        (
+        A
+        −
+        B
+        K
+        )
+        )
+        .
+      
+    
+    {\displaystyle \Delta _{\text{new}}(s)=\det(sI-(A-BK)).}
+
+Ackermann's formula
+Computing the characteristic polynomial and choosing a suitable feedback matrix can be a challenging task, especially in larger systems. One way to make computations easier is through Ackermann's formula. For simplicity's sake, consider a single input vector with no reference parameter 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  , such as
+
+  
+    
+      
+        u
+        (
+        t
+        )
+        =
+        −
+        
+          k
+          
+            T
+          
+        
+        x
+        (
+        t
+        )
+      
+    
+    {\displaystyle u(t)=-k^{T}x(t)}
+  
+
+  
+    
+      
+        
+          
+            
+              x
+              ˙
+            
+          
+        
+        (
+        t
+        )
+        =
+        A
+        x
+        (
+        t
+        )
+        −
+        B
+        
+          k
+          
+            T
+          
+        
+        x
+        (
+        t
+        )
+        ,
+      
+    
+    {\displaystyle {\dot {x}}(t)=Ax(t)-Bk^{T}x(t),}
+  where 
+  
+    
+      
+        
+          k
+          
+            T
+          
+        
+      
+    
+    {\displaystyle k^{T}}
+   is a feedback vector of compatible dimensions. Ackermann's formula states that the design process can be simplified by only computing the following equation:
+
+  
+    
+      
+        
+          k
+          
+            T
+          
+        
+        =
+        
+          [
+          
+            0
+             
+            0
+             
+            ⋯
+             
+            0
+             
+            1
+          
+          ]
+        
+        
+          
+            
+              C
+            
+          
+          
+            −
+            1
+          
+        
+        
+          Δ
+          
+            new
+          
+        
+        (
+        A
+        )
+        ,
+      
+    
+    {\displaystyle k^{T}=\left[0\ 0\ \cdots \ 0\ 1\right]{\mathcal {C}}^{-1}\Delta _{\text{new}}(A),}
+  in which 
+  
+    
+      
+        
+          Δ
+          
+            new
+          
+        
+        (
+        A
+        )
+      
+    
+    {\displaystyle \Delta _{\text{new}}(A)}
+   is the desired characteristic polynomial evaluated at matrix 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  , and 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+   is the controllability matrix of the system.
+
+Proof
+This proof is based on Encyclopedia of Life Support Systems entry on Pole Placement Control.  Assume that the system is controllable. The characteristic polynomial of 
+  
+    
+      
+        
+          A
+          
+            C
+            L
+          
+        
+        :=
+        (
+        A
+        −
+        B
+        
+          k
+          
+            T
+          
+        
+        )
+      
+    
+    {\displaystyle A_{CL}:=(A-Bk^{T})}
+   is given by
+
+  
+    
+      
+        Δ
+        (
+        
+          A
+          
+            C
+            L
+          
+        
+        )
+        =
+        (
+        
+          A
+          
+            C
+            L
+          
+        
+        
+          )
+          
+            n
+          
+        
+        +
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            n
+            −
+            1
+          
+        
+        
+          α
+          
+            k
+          
+        
+        
+          A
+          
+            C
+            L
+          
+          
+            k
+          
+        
+      
+    
+    {\displaystyle \Delta (A_{CL})=(A_{CL})^{n}+\sum _{k=0}^{n-1}\alpha _{k}A_{CL}^{k}}
+  Calculating the powers of 
+  
+    
+      
+        
+          A
+          
+            C
+            L
+          
+        
+      
+    
+    {\displaystyle A_{CL}}
+   results in
+
+  
+    
+      
+        
+          
+            
+              
+                (
+                
+                  A
+                  
+                    C
+                    L
+                  
+                
+                
+                  )
+                  
+                    0
+                  
+                
+              
+              
+                
+                =
+                (
+                A
+                −
+                B
+                
+                  k
+                  
+                    T
+                  
+                
+                
+                  )
+                  
+                    0
+                  
+                
+                =
+                I
+              
+            
+            
+              
+                (
+                
+                  A
+                  
+                    C
+                    L
+                  
+                
+                
+                  )
+                  
+                    1
+                  
+                
+              
+              
+                
+                =
+                (
+                A
+                −
+                B
+                
+                  k
+                  
+                    T
+                  
+                
+                
+                  )
+                  
+                    1
+                  
+                
+                =
+                A
+                −
+                B
+                
+                  k
+                  
+                    T
+                  
+                
+              
+            
+            
+              
+                (
+                
+                  A
+                  
+                    C
+                    L
+                  
+                
+                
+                  )
+                  
+                    2
+                  
+                
+              
+              
+                
+                =
+                (
+                A
+                −
+                B
+                
+                  k
+                  
+                    T
+                  
+                
+                
+                  )
+                  
+                    2
+                  
+                
+                =
+                
+                  A
+                  
+                    2
+                  
+                
+                −
+                A
+                B
+                
+                  k
+                  
+                    T
+                  
+                
+                −
+                B
+                
+                  k
+                  
+                    T
+                  
+                
+                A
+                +
+                (
+                B
+                
+                  k
+                  
+                    T
+                  
+                
+                
+                  )
+                  
+                    2
+                  
+                
+                =
+                
+                  A
+                  
+                    2
+                  
+                
+                −
+                A
+                B
+                
+                  k
+                  
+                    T
+                  
+                
+                −
+                (
+                B
+                
+                  k
+                  
+                    T
+                  
+                
+                )
+                [
+                A
+                −
+                B
+                
+                  k
+                  
+                    T
+                  
+                
+                ]
+                =
+                
+                  A
+                  
+                    2
+                  
+                
+                −
+                A
+                B
+                
+                  k
+                  
+                    T
+                  
+                
+                −
+                B
+                
+                  k
+                  
+                    T
+                  
+                
+                
+                  A
+                  
+                    C
+                    L
+                  
+                
+              
+            
+            
+              
+                ⋮
+              
+            
+            
+              
+                (
+                
+                  A
+                  
+                    C
+                    L
+                  
+                
+                
+                  )
+                  
+                    n
+                  
+                
+              
+              
+                
+                =
+                (
+                A
+                −
+                B
+                
+                  k
+                  
+                    T
+                  
+                
+                
+                  )
+                  
+                    n
+                  
+                
+                =
+                
+                  A
+                  
+                    n
+                  
+                
+                −
+                
+                  A
+                  
+                    n
+                    −
+                    1
+                  
+                
+                B
+                
+                  k
+                  
+                    T
+                  
+                
+                −
+                
+                  A
+                  
+                    n
+                    −
+                    2
+                  
+                
+                B
+                
+                  k
+                  
+                    T
+                  
+                
+                
+                  A
+                  
+                    C
+                    L
+                  
+                
+                −
+                ⋯
+                −
+                B
+                
+                  k
+                  
+                    T
+                  
+                
+                
+                  A
+                  
+                    C
+                    L
+                  
+                  
+                    n
+                    −
+                    1
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}(A_{CL})^{0}&=(A-Bk^{T})^{0}=I\\(A_{CL})^{1}&=(A-Bk^{T})^{1}=A-Bk^{T}\\(A_{CL})^{2}&=(A-Bk^{T})^{2}=A^{2}-ABk^{T}-Bk^{T}A+(Bk^{T})^{2}=A^{2}-ABk^{T}-(Bk^{T})[A-Bk^{T}]=A^{2}-ABk^{T}-Bk^{T}A_{CL}\\\vdots \\(A_{CL})^{n}&=(A-Bk^{T})^{n}=A^{n}-A^{n-1}Bk^{T}-A^{n-2}Bk^{T}A_{CL}-\cdots -Bk^{T}A_{CL}^{n-1}\end{aligned}}}
+  
+Replacing the previous equations into 
+  
+    
+      
+        Δ
+        (
+        
+          A
+          
+            C
+            L
+          
+        
+        )
+      
+    
+    {\displaystyle \Delta (A_{CL})}
+   yieldsRewriting the above equation as a matrix product and omitting terms that  
+  
+    
+      
+        
+          k
+          
+            T
+          
+        
+      
+    
+    {\displaystyle k^{T}}
+   does not appear isolated yields
+
+From the Cayley–Hamilton theorem,  
+  
+    
+      
+        Δ
+        
+          (
+          
+            A
+            
+              C
+              L
+            
+          
+          )
+        
+        =
+        0
+      
+    
+    {\displaystyle \Delta \left(A_{CL}\right)=0}
+  , thus
+
+  
+    
+      
+        
+          [
+          
+            B
+             
+             
+            A
+            B
+             
+             
+            ⋯
+             
+             
+            
+              A
+              
+                n
+                −
+                1
+              
+            
+            B
+          
+          ]
+        
+        
+          [
+          
+            
+              
+                
+                  ⋆
+                
+              
+              
+                
+                  ⋮
+                
+              
+              
+                
+                  
+                    k
+                    
+                      T
+                    
+                  
+                
+              
+            
+          
+          ]
+        
+        =
+        Δ
+        (
+        A
+        )
+      
+    
+    {\displaystyle \left[B\ \ AB\ \ \cdots \ \ A^{n-1}B\right]\left[{\begin{array}{c}\star \\\vdots \\k^{T}\end{array}}\right]=\Delta (A)}
+  
+Note that  
+  
+    
+      
+        
+          
+            C
+          
+        
+        =
+        
+          [
+          
+            B
+             
+             
+            A
+            B
+             
+             
+            ⋯
+             
+             
+            
+              A
+              
+                n
+                −
+                1
+              
+            
+            B
+          
+          ]
+        
+      
+    
+    {\displaystyle {\mathcal {C}}=\left[B\ \ AB\ \ \cdots \ \ A^{n-1}B\right]}
+   is the controllability matrix of the system. Since the system is controllable,  
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+   is invertible. Thus,
+
+  
+    
+      
+        
+          [
+          
+            
+              
+                
+                  ⋆
+                
+              
+              
+                
+                  ⋮
+                
+              
+              
+                
+                  
+                    k
+                    
+                      T
+                    
+                  
+                
+              
+            
+          
+          ]
+        
+        =
+        
+          
+            
+              C
+            
+          
+          
+            −
+            1
+          
+        
+        Δ
+        (
+        A
+        )
+      
+    
+    {\displaystyle \left[{\begin{array}{c}\star \\\vdots \\k^{T}\end{array}}\right]={\mathcal {C}}^{-1}\Delta (A)}
+  To find 
+  
+    
+      
+        
+          k
+          
+            T
+          
+        
+      
+    
+    {\displaystyle k^{T}}
+  , both sides can be multiplied by the vector 
+  
+    
+      
+        
+          [
+          
+            
+              
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  ⋯
+                
+                
+                  1
+                
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle \left[{\begin{array}{ccccc}0&0&0&\cdots &1\end{array}}\right]}
+   giving
+
+  
+    
+      
+        
+          [
+          
+            
+              
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  ⋯
+                
+                
+                  1
+                
+              
+            
+          
+          ]
+        
+        
+          [
+          
+            
+              
+                
+                  ⋆
+                
+              
+              
+                
+                  ⋮
+                
+              
+              
+                
+                  
+                    k
+                    
+                      T
+                    
+                  
+                
+              
+            
+          
+          ]
+        
+        =
+        
+          [
+          
+            
+              
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  ⋯
+                
+                
+                  1
+                
+              
+            
+          
+          ]
+        
+        
+          
+            
+              C
+            
+          
+          
+            −
+            1
+          
+        
+        Δ
+        (
+        A
+        )
+      
+    
+    {\displaystyle \left[{\begin{array}{ccccc}0&0&0&\cdots &1\end{array}}\right]\left[{\begin{array}{c}\star \\\vdots \\k^{T}\end{array}}\right]=\left[{\begin{array}{ccccc}0&0&0&\cdots &1\end{array}}\right]{\mathcal {C}}^{-1}\Delta (A)}
+  Thus,
+
+  
+    
+      
+        
+          k
+          
+            T
+          
+        
+        =
+        
+          [
+          
+            
+              
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  ⋯
+                
+                
+                  1
+                
+              
+            
+          
+          ]
+        
+        
+          
+            
+              C
+            
+          
+          
+            −
+            1
+          
+        
+        Δ
+        (
+        A
+        )
+      
+    
+    {\displaystyle k^{T}=\left[{\begin{array}{ccccc}0&0&0&\cdots &1\end{array}}\right]{\mathcal {C}}^{-1}\Delta (A)}
+
+Example
+Consider
+  
+    
+      
+        
+          
+            
+              x
+              ˙
+            
+          
+        
+        =
+        
+          [
+          
+            
+              
+                
+                  1
+                
+                
+                  1
+                
+              
+              
+                
+                  1
+                
+                
+                  2
+                
+              
+            
+          
+          ]
+        
+        x
+        +
+        
+          [
+          
+            
+              
+                
+                  1
+                
+              
+              
+                
+                  0
+                
+              
+            
+          
+          ]
+        
+        u
+      
+    
+    {\displaystyle {\dot {x}}=\left[{\begin{array}{cc}1&1\\1&2\end{array}}\right]x+\left[{\begin{array}{c}1\\0\end{array}}\right]u}
+  
+We know from the characteristic polynomial of 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   that the system is unstable since 
+  
+    
+      
+        d
+        e
+        t
+        (
+        s
+        I
+        −
+        A
+        )
+        =
+        (
+        s
+        −
+        1
+        )
+        (
+        s
+        −
+        2
+        )
+        −
+        1
+        =
+        
+          s
+          
+            2
+          
+        
+        −
+        3
+        s
+        +
+        1
+      
+    
+    {\displaystyle det(sI-A)=(s-1)(s-2)-1=s^{2}-3s+1}
+  , the matrix 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   will only have positive eigenvalues. Thus, to stabilize the system we shall put a feedback gain 
+  
+    
+      
+        K
+        =
+        
+          [
+          
+            
+              
+                
+                  
+                    k
+                    
+                      1
+                    
+                  
+                
+                
+                  
+                    k
+                    
+                      2
+                    
+                  
+                
+              
+            
+          
+          ]
+        
+        .
+      
+    
+    {\displaystyle K=\left[{\begin{array}{cc}k_{1}&k_{2}\end{array}}\right].}
+  
+From Ackermann's formula, we can find a matrix 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+    that will change the system so that its characteristic equation will be equal to a desired polynomial. Suppose we want 
+  
+    
+      
+        
+          Δ
+          
+            desired
+          
+        
+        (
+        s
+        )
+        =
+        
+          s
+          
+            2
+          
+        
+        +
+        11
+        s
+        +
+        30
+      
+    
+    {\displaystyle \Delta _{\text{desired}}(s)=s^{2}+11s+30}
+  .
+Thus, 
+  
+    
+      
+        
+          Δ
+          
+            desired
+          
+        
+        (
+        A
+        )
+        =
+        
+          A
+          
+            2
+          
+        
+        +
+        11
+        A
+        +
+        30
+        I
+      
+    
+    {\displaystyle \Delta _{\text{desired}}(A)=A^{2}+11A+30I}
+   and computing the controllability matrix yields
+
+  
+    
+      
+        
+          
+            C
+          
+        
+        =
+        
+          [
+          
+            
+              
+                
+                  B
+                
+                
+                  A
+                  B
+                
+              
+            
+          
+          ]
+        
+        =
+        
+          [
+          
+            
+              
+                
+                  1
+                
+                
+                  1
+                
+              
+              
+                
+                  0
+                
+                
+                  1
+                
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle {\mathcal {C}}=\left[{\begin{array}{cc}B&AB\end{array}}\right]=\left[{\begin{array}{cc}1&1\\0&1\end{array}}\right]}
+   and 
+  
+    
+      
+        
+          
+            
+              C
+            
+          
+          
+            −
+            1
+          
+        
+        =
+        
+          [
+          
+            
+              
+                
+                  1
+                
+                
+                  −
+                  1
+                
+              
+              
+                
+                  0
+                
+                
+                  1
+                
+              
+            
+          
+          ]
+        
+        .
+      
+    
+    {\displaystyle {\mathcal {C}}^{-1}=\left[{\begin{array}{cc}1&-1\\0&1\end{array}}\right].}
+  Also, we have that 
+  
+    
+      
+        
+          A
+          
+            2
+          
+        
+        =
+        
+          [
+          
+            
+              
+                
+                  2
+                
+                
+                  3
+                
+              
+              
+                
+                  3
+                
+                
+                  5
+                
+              
+            
+          
+          ]
+        
+        .
+      
+    
+    {\displaystyle A^{2}=\left[{\begin{array}{cc}2&3\\3&5\end{array}}\right].}
+  
+Finally, from Ackermann's formula
+
+  
+    
+      
+        
+          k
+          
+            T
+          
+        
+        =
+        
+          [
+          
+            
+              
+                
+                  0
+                
+                
+                  1
+                
+              
+            
+          
+          ]
+        
+        
+          [
+          
+            
+              
+                
+                  1
+                
+                
+                  −
+                  1
+                
+              
+              
+                
+                  0
+                
+                
+                  1
+                
+              
+            
+          
+          ]
+        
+        
+          [
+          
+            
+              [
+              
+                
+                  
+                    
+                      2
+                    
+                    
+                      3
+                    
+                  
+                  
+                    
+                      3
+                    
+                    
+                      5
+                    
+                  
+                
+              
+              ]
+            
+            +
+            11
+            
+              [
+              
+                
+                  
+                    
+                      1
+                    
+                    
+                      1
+                    
+                  
+                  
+                    
+                      1
+                    
+                    
+                      2
+                    
+                  
+                
+              
+              ]
+            
+            +
+            30
+            I
+          
+          ]
+        
+      
+    
+    {\displaystyle k^{T}=\left[{\begin{array}{cc}0&1\end{array}}\right]\left[{\begin{array}{cc}1&-1\\0&1\end{array}}\right]\left[\left[{\begin{array}{cc}2&3\\3&5\end{array}}\right]+11\left[{\begin{array}{cc}1&1\\1&2\end{array}}\right]+30I\right]}
+  
+
+  
+    
+      
+        
+          k
+          
+            T
+          
+        
+        =
+        
+          [
+          
+            
+              
+                
+                  0
+                
+                
+                  1
+                
+              
+            
+          
+          ]
+        
+        
+          [
+          
+            
+              
+                
+                  1
+                
+                
+                  −
+                  1
+                
+              
+              
+                
+                  0
+                
+                
+                  1
+                
+              
+            
+          
+          ]
+        
+        
+          [
+          
+            
+              
+                
+                  43
+                
+                
+                  14
+                
+              
+              
+                
+                  14
+                
+                
+                  57
+                
+              
+            
+          
+          ]
+        
+        =
+        
+          [
+          
+            
+              
+                
+                  0
+                
+                
+                  1
+                
+              
+            
+          
+          ]
+        
+        
+          [
+          
+            
+              
+                
+                  29
+                
+                
+                  −
+                  43
+                
+              
+              
+                
+                  14
+                
+                
+                  57
+                
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle k^{T}=\left[{\begin{array}{cc}0&1\end{array}}\right]\left[{\begin{array}{cc}1&-1\\0&1\end{array}}\right]\left[{\begin{array}{cc}43&14\\14&57\end{array}}\right]=\left[{\begin{array}{cc}0&1\end{array}}\right]\left[{\begin{array}{cc}29&-43\\14&57\end{array}}\right]}
+  
+
+  
+    
+      
+        
+          k
+          
+            T
+          
+        
+        =
+        
+          [
+          
+            
+              
+                
+                  14
+                
+                
+                  57
+                
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle k^{T}=\left[{\begin{array}{cc}14&57\end{array}}\right]}
+
+State observer design
+Ackermann's formula can also be used for the design of state observers. Consider the linear discrete-time observed system
+
+  
+    
+      
+        
+          
+            
+              x
+              ^
+            
+          
+        
+        (
+        n
+        +
+        1
+        )
+        =
+        A
+        
+          
+            
+              x
+              ^
+            
+          
+        
+        (
+        n
+        )
+        +
+        B
+        u
+        (
+        n
+        )
+        +
+        L
+        [
+        
+          
+            
+              y
+              ^
+            
+          
+        
+        (
+        n
+        )
+        −
+        y
+        (
+        n
+        )
+        ]
+      
+    
+    {\displaystyle {\hat {x}}(n+1)=A{\hat {x}}(n)+Bu(n)+L[{\hat {y}}(n)-y(n)]}
+  
+
+  
+    
+      
+        
+          
+            
+              y
+              ^
+            
+          
+        
+        (
+        n
+        )
+        =
+        C
+        
+          
+            
+              x
+              ^
+            
+          
+        
+        (
+        n
+        )
+      
+    
+    {\displaystyle {\hat {y}}(n)=C{\hat {x}}(n)}
+  with observer gain L. Then Ackermann's formula for the design of state observers is noted as
+
+  
+    
+      
+        
+          L
+          
+            ⊤
+          
+        
+        =
+        
+          [
+          
+            0
+             
+            0
+             
+            ⋯
+             
+            0
+             
+            1
+          
+          ]
+        
+        (
+        
+          
+            
+              O
+            
+          
+          
+            ⊤
+          
+        
+        
+          )
+          
+            −
+            1
+          
+        
+        
+          Δ
+          
+            new
+          
+        
+        (
+        
+          A
+          
+            ⊤
+          
+        
+        )
+      
+    
+    {\displaystyle L^{\top }=\left[0\ 0\ \cdots \ 0\ 1\right]({\mathcal {O}}^{\top })^{-1}\Delta _{\text{new}}(A^{\top })}
+  with observability matrix 
+  
+    
+      
+        
+          
+            O
+          
+        
+      
+    
+    {\displaystyle {\mathcal {O}}}
+  . Here it is important to note, that the observability matrix and the system matrix are transposed: 
+  
+    
+      
+        
+          
+            
+              O
+            
+          
+          
+            ⊤
+          
+        
+      
+    
+    {\displaystyle {\mathcal {O}}^{\top }}
+   and 
+  
+    
+      
+        
+          A
+          
+            ⊤
+          
+        
+      
+    
+    {\displaystyle A^{\top }}
+  .
+Ackermann's formula can also be applied on continuous-time observed systems.
+
+See also
+Full state feedback
+
+References
+External links
+Chapter about Ackermann's Formula on Wikibook of Control Systems and Control Engineering

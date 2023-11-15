@@ -1,0 +1,4 @@
+In mathematics, a simplicial space is a simplicial object in the category of topological spaces. In other words, it is a contravariant functor from the simplex category Δ to the category of topological spaces.
+
+
+== References ==

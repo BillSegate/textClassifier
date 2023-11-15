@@ -1,0 +1,139 @@
+Physics often deals with classical models where the dynamical variables are a collection of functions 
+{φα}α over a d-dimensional space/spacetime manifold M where α is the "flavor" index. This involves functionals over the φ's, functional derivatives, functional integrals, etc. From a functional point of view this is equivalent to working with an infinite-dimensional smooth manifold where its points are an assignment of a function for each α, and the procedure is in analogy with differential geometry where the coordinates for a point x of the manifold M are φα(x).
+In the DeWitt notation (named after theoretical physicist Bryce DeWitt), φα(x) is written as φi where i is now understood as an index covering both α and x.
+So, given a smooth functional A, A,i stands for the functional derivative
+
+  
+    
+      
+        
+          A
+          
+            ,
+            i
+          
+        
+        [
+        φ
+        ]
+         
+        
+          
+            
+              
+                =
+              
+              
+                
+                  d
+                  e
+                  f
+                
+              
+            
+          
+        
+         
+        
+          
+            δ
+            
+              δ
+              
+                φ
+                
+                  α
+                
+              
+              (
+              x
+              )
+            
+          
+        
+        A
+        [
+        φ
+        ]
+      
+    
+    {\displaystyle A_{,i}[\varphi ]\ {\stackrel {\mathrm {def} }{=}}\ {\frac {\delta }{\delta \varphi ^{\alpha }(x)}}A[\varphi ]}
+  as a functional of φ. In other words, a "1-form" field over the infinite dimensional "functional manifold".
+In integrals, the Einstein summation convention is used. Alternatively,
+
+  
+    
+      
+        
+          A
+          
+            i
+          
+        
+        
+          B
+          
+            i
+          
+        
+         
+        
+          
+            
+              
+                =
+              
+              
+                
+                  d
+                  e
+                  f
+                
+              
+            
+          
+        
+         
+        
+          ∫
+          
+            M
+          
+        
+        
+          ∑
+          
+            α
+          
+        
+        
+          A
+          
+            α
+          
+        
+        (
+        x
+        )
+        
+          B
+          
+            α
+          
+        
+        (
+        x
+        )
+        
+          d
+          
+            d
+          
+        
+        x
+      
+    
+    {\displaystyle A^{i}B_{i}\ {\stackrel {\mathrm {def} }{=}}\ \int _{M}\sum _{\alpha }A^{\alpha }(x)B_{\alpha }(x)d^{d}x}
+
+References
+Kiefer, Claus (April 2007). Quantum gravity (hardcover) (2nd ed.). Oxford University Press. p. 361. ISBN 978-0-19-921252-1.

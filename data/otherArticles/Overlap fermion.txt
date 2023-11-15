@@ -1,0 +1,337 @@
+In lattice field theory, overlap fermions are a fermion discretization that allows to avoid the fermion doubling problem. They are a realisation of Ginsparg–Wilson fermions.
+Initially introduced by Neuberger in 1998, they were quickly taken up for a variety of numerical simulations. By now overlap fermions are well established and regularly used in non-perturbative fermion simulations, for instance in lattice QCD.Overlap fermions with mass 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   are defined on a Euclidean spacetime lattice with spacing 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   by the overlap Dirac operator
+
+  
+    
+      
+        
+          D
+          
+            ov
+          
+        
+        =
+        
+          
+            1
+            a
+          
+        
+        
+          (
+          
+            
+              (
+              
+                1
+                +
+                a
+                m
+              
+              )
+            
+            
+              1
+            
+            +
+            
+              (
+              
+                1
+                −
+                a
+                m
+              
+              )
+            
+            
+              γ
+              
+                5
+              
+            
+            
+              s
+              i
+              g
+              n
+            
+            [
+            
+              γ
+              
+                5
+              
+            
+            A
+            ]
+          
+          )
+        
+        
+      
+    
+    {\displaystyle D_{\text{ov}}={\frac {1}{a}}\left(\left(1+am\right)\mathbf {1} +\left(1-am\right)\gamma _{5}\mathrm {sign} [\gamma _{5}A]\right)\,}
+  where 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   is the ″kernel″ Dirac operator obeying 
+  
+    
+      
+        
+          γ
+          
+            5
+          
+        
+        A
+        =
+        
+          A
+          
+            †
+          
+        
+        
+          γ
+          
+            5
+          
+        
+      
+    
+    {\displaystyle \gamma _{5}A=A^{\dagger }\gamma _{5}}
+  , i.e. 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   is 
+  
+    
+      
+        
+          γ
+          
+            5
+          
+        
+      
+    
+    {\displaystyle \gamma _{5}}
+  -hermitian. The sign-function usually has to be calculated numerically, e.g. by rational approximations. A common choice for the kernel is
+
+  
+    
+      
+        A
+        =
+        a
+        D
+        −
+        
+          1
+        
+        (
+        1
+        +
+        s
+        )
+        
+      
+    
+    {\displaystyle A=aD-\mathbf {1} (1+s)\,}
+  where 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+   is the massless Dirac operator and 
+  
+    
+      
+        s
+        ∈
+        
+          (
+          
+            −
+            1
+            ,
+            1
+          
+          )
+        
+      
+    
+    {\displaystyle s\in \left(-1,1\right)}
+   is a free parameter that can be tuned to optimise locality of 
+  
+    
+      
+        
+          D
+          
+            ov
+          
+        
+      
+    
+    {\displaystyle D_{\text{ov}}}
+  .Near 
+  
+    
+      
+        p
+        a
+        =
+        0
+      
+    
+    {\displaystyle pa=0}
+   the overlap Dirac operator recovers the correct continuum form (using the Feynman slash notation)
+
+  
+    
+      
+        
+          D
+          
+            ov
+          
+        
+        =
+        m
+        +
+        i
+        
+        
+          p
+          
+          
+          
+          
+            /
+          
+        
+        
+          
+            1
+            
+              1
+              +
+              s
+            
+          
+        
+        +
+        
+          
+            O
+          
+        
+        (
+        a
+        )
+        
+      
+    
+    {\displaystyle D_{\text{ov}}=m+i\,{p\!\!\!/}{\frac {1}{1+s}}+{\mathcal {O}}(a)\,}
+  whereas the unphysical doublers near 
+  
+    
+      
+        p
+        a
+        =
+        π
+      
+    
+    {\displaystyle pa=\pi }
+   are suppressed by a high mass
+
+  
+    
+      
+        
+          D
+          
+            ov
+          
+        
+        =
+        
+          
+            1
+            a
+          
+        
+        +
+        m
+        +
+        i
+        
+        
+          p
+          
+          
+          
+          
+            /
+          
+        
+        
+          
+            1
+            
+              1
+              −
+              s
+            
+          
+        
+        +
+        
+          
+            O
+          
+        
+        (
+        a
+        )
+      
+    
+    {\displaystyle D_{\text{ov}}={\frac {1}{a}}+m+i\,{p\!\!\!/}{\frac {1}{1-s}}+{\mathcal {O}}(a)}
+  and decouple.
+Overlap fermions do not contradict the Nielsen–Ninomiya theorem because they explicitly violate chiral symmetry (obeying the Ginsparg–Wilson equation) and locality.
+
+
+== References ==

@@ -1,0 +1,243 @@
+Combinatorics is a branch of mathematics concerning the study of finite or countable discrete structures.
+
+Essence of combinatorics
+Matroid
+Greedoid
+Ramsey theory
+Van der Waerden's theorem
+Hales–Jewett theorem
+Umbral calculus, binomial type polynomial sequences
+Combinatorial species
+
+Branches of combinatorics
+Algebraic combinatorics
+Analytic combinatorics
+Arithmetic combinatorics
+Combinatorics on words
+Combinatorial design theory
+Enumerative combinatorics
+Extremal combinatorics
+Geometric combinatorics
+Graph theory
+Infinitary combinatorics
+Matroid theory
+Order theory
+Partition theory
+Probabilistic combinatorics
+Topological combinatorics
+
+Multi-disciplinary fields that include combinatorics
+Coding theory
+Combinatorial optimization
+Combinatorics and dynamical systems
+Combinatorics and physics
+Discrete geometry
+Finite geometry
+Phylogenetics
+
+History of combinatorics
+History of combinatorics
+
+General combinatorial principles and methods
+Combinatorial principles
+Trial and error, brute-force search, bogosort, British Museum algorithm
+Pigeonhole principle
+Method of distinguished element
+Mathematical induction
+Recurrence relation, telescoping series
+Generating functions as an application of formal power series
+Cyclic sieving
+Schrödinger method
+Exponential generating function
+Stanley's reciprocity theorem
+Binomial coefficients and their properties
+Combinatorial proof
+Double counting (proof technique)
+Bijective proof
+Inclusion–exclusion principle
+Möbius inversion formula
+Parity, even and odd permutations
+Combinatorial Nullstellensatz
+Incidence algebra
+Greedy algorithm
+Divide and conquer algorithm
+Akra–Bazzi method
+Dynamic programming
+Branch and bound
+Birthday attack, birthday paradox
+Floyd's cycle-finding algorithm
+Reduction to linear algebra
+Sparsity
+Weight function
+Minimax algorithm
+Alpha–beta pruning
+Probabilistic method
+Sieve methods
+Analytic combinatorics
+Symbolic combinatorics
+Combinatorial class
+Exponential formula  
+Twelvefold way  
+MacMahon Master theorem
+
+Data structure concepts
+Data structure
+Data type
+Abstract data type
+Algebraic data type
+Composite type
+Array
+Associative array
+Deque
+List
+Linked list
+Queue
+Priority queue
+Skip list
+Stack
+Tree data structure
+Automatic garbage collection
+
+Problem solving as an art
+Heuristic
+Inductive reasoning
+How to Solve It
+Creative problem solving
+Morphological analysis (problem-solving)
+
+Living with large numbers
+Names of large numbers, long scale
+History of large numbers
+Graham's number
+Moser's number
+Skewes' number
+Large number notations
+Conway chained arrow notation
+Hyper4
+Knuth's up-arrow notation
+Moser polygon notation
+Steinhaus polygon notation
+Large number effects
+Exponential growth
+Combinatorial explosion
+Branching factor
+Granularity
+Curse of dimensionality
+Concentration of measure
+
+Persons influential in the field of combinatorics
+Noga Alon
+George Andrews
+József Beck
+Eric Temple Bell
+Claude Berge
+Béla Bollobás
+Peter Cameron
+Louis Comtet
+John Horton Conway
+On Numbers and Games
+Winning Ways for your Mathematical Plays
+Persi Diaconis
+Ada Dietz
+Paul Erdős
+Erdős conjecture
+Philippe Flajolet
+Solomon Golomb
+Ron Graham
+Ben Green
+Tim Gowers
+Jeff Kahn
+Gil Kalai
+Gyula O. H. Katona
+Daniel J. Kleitman
+Imre Leader
+László Lovász
+Fedor Petrov
+George Pólya
+Vojtěch Rödl
+Gian-Carlo Rota
+Cecil C. Rousseau
+H. J. Ryser
+Dick Schelp
+Vera T. Sós
+Joel Spencer
+Emanuel Sperner
+Richard P. Stanley
+Benny Sudakov
+Endre Szemerédi
+Terence Tao
+Carsten Thomassen
+Jacques Touchard
+Pál Turán
+Bartel Leendert van der Waerden
+Herbert Wilf
+Richard Wilson
+Doron Zeilberger
+
+Combinatorics scholars
+Category:Combinatorialists
+
+Journals
+Advances in Combinatorics
+Annals of Combinatorics
+Ars Combinatoria
+Australasian Journal of Combinatorics
+Bulletin of the Institute of Combinatorics and Its Applications
+Combinatorica
+Combinatorics, Probability and Computing
+Computational Complexity
+Designs, Codes and Cryptography
+Discrete Analysis
+Discrete & Computational Geometry
+Discrete Applied Mathematics
+Discrete Mathematics
+Discrete Mathematics & Theoretical Computer Science
+Discrete Optimization
+Discussiones Mathematicae Graph Theory
+Electronic Journal of Combinatorics
+European Journal of Combinatorics
+The Fibonacci Quarterly
+Finite Fields and Their Applications
+Geombinatorics
+Graphs and Combinatorics
+Integers, Electronic Journal of Combinatorial Number Theory
+Journal of Algebraic Combinatorics
+Journal of Automata, Languages and Combinatorics
+Journal of Combinatorial Designs
+Journal of Combinatorial Mathematics and Combinatorial Computing
+Journal of Combinatorial Optimization
+Journal of Combinatorial Theory, Series A
+Journal of Combinatorial Theory, Series B
+Journal of Complexity
+Journal of Cryptology
+Journal of Graph Algorithms and Applications
+Journal of Graph Theory
+Journal of Integer Sequences (Electronic)
+Journal of Mathematical Chemistry
+Online Journal of Analytic Combinatorics
+Optimization Methods and Software
+The Ramanujan Journal
+Séminaire Lotharingien de Combinatoire
+SIAM Journal on Discrete Mathematics
+
+Prizes
+Euler Medal
+European Prize in Combinatorics
+Fulkerson Prize
+König Prize
+Pólya Prize
+
+See also
+List of factorial and binomial topics
+List of partition topics
+List of permutation topics
+List of puzzle topics.
+List of formal language and literal string topics
+
+References
+External links
+
+Combinatorics, a MathWorld article with many references.
+Combinatorics, from a MathPages.com portal.
+The Hyperbook of Combinatorics, a collection of math articles links.
+The Two Cultures of Mathematics by W. T. Gowers, article on problem solving vs theory building

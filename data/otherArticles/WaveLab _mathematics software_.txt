@@ -1,0 +1,1 @@
+WaveLab is a collection of MATLAB functions for wavelet analysis. Following the success of WaveLab package, there is now the availability of CurveLab and ShearLab.

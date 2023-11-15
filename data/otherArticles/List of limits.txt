@@ -1,0 +1,4041 @@
+This is a list of limits for common functions such as elementary functions. In this article, the terms a, b and c are constants with respect to x.
+
+Limits for general functions
+Definitions of limits and related concepts
+lim
+          
+            x
+            →
+            c
+          
+        
+        f
+        (
+        x
+        )
+        =
+        L
+      
+    
+    {\displaystyle \lim _{x\to c}f(x)=L}
+   if and only if 
+  
+    
+      
+        ∀
+        ε
+        >
+        0
+         
+        ∃
+        δ
+        >
+        0
+        :
+        0
+        <
+        
+          |
+        
+        x
+        −
+        c
+        
+          |
+        
+        <
+        δ
+        
+        ⟹
+        
+        
+          |
+        
+        f
+        (
+        x
+        )
+        −
+        L
+        
+          |
+        
+        <
+        ε
+      
+    
+    {\displaystyle \forall \varepsilon >0\ \exists \delta >0:0<|x-c|<\delta \implies |f(x)-L|<\varepsilon }
+  . This is the (ε, δ)-definition of limit.
+The limit superior and limit inferior of a sequence are defined as 
+  
+    
+      
+        
+          lim sup
+          
+            n
+            →
+            ∞
+          
+        
+        
+          x
+          
+            n
+          
+        
+        =
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          (
+          
+            
+              sup
+              
+                m
+                ≥
+                n
+              
+            
+            
+              x
+              
+                m
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \limsup _{n\to \infty }x_{n}=\lim _{n\to \infty }\left(\sup _{m\geq n}x_{m}\right)}
+   and 
+  
+    
+      
+        
+          lim inf
+          
+            n
+            →
+            ∞
+          
+        
+        
+          x
+          
+            n
+          
+        
+        =
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          (
+          
+            
+              inf
+              
+                m
+                ≥
+                n
+              
+            
+            
+              x
+              
+                m
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \liminf _{n\to \infty }x_{n}=\lim _{n\to \infty }\left(\inf _{m\geq n}x_{m}\right)}
+  .
+A function, 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  , is said to be continuous at a point, c, if
+
+Operations on a single known limit
+If 
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        f
+        (
+        x
+        )
+        =
+        L
+      
+    
+    {\displaystyle \lim _{x\to c}f(x)=L}
+   then:
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        
+        [
+        f
+        (
+        x
+        )
+        ±
+        a
+        ]
+        =
+        L
+        ±
+        a
+      
+    
+    {\displaystyle \lim _{x\to c}\,[f(x)\pm a]=L\pm a}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        
+        a
+        f
+        (
+        x
+        )
+        =
+        a
+        L
+      
+    
+    {\displaystyle \lim _{x\to c}\,af(x)=aL}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        
+          
+            1
+            
+              f
+              (
+              x
+              )
+            
+          
+        
+        =
+        
+          
+            1
+            L
+          
+        
+      
+    
+    {\displaystyle \lim _{x\to c}{\frac {1}{f(x)}}={\frac {1}{L}}}
+   if L is not equal to 0.
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        
+        f
+        (
+        x
+        
+          )
+          
+            n
+          
+        
+        =
+        
+          L
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \lim _{x\to c}\,f(x)^{n}=L^{n}}
+    if n  is a positive integer
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        
+        f
+        (
+        x
+        
+          )
+          
+            
+              1
+              n
+            
+          
+        
+        =
+        
+          L
+          
+            
+              1
+              n
+            
+          
+        
+      
+    
+    {\displaystyle \lim _{x\to c}\,f(x)^{1 \over n}=L^{1 \over n}}
+   if n is a positive integer, and if n is even, then L > 0.In general, if g(x) is continuous at L and 
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        f
+        (
+        x
+        )
+        =
+        L
+      
+    
+    {\displaystyle \lim _{x\to c}f(x)=L}
+   then
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        g
+        
+          (
+          
+            f
+            (
+            x
+            )
+          
+          )
+        
+        =
+        g
+        (
+        L
+        )
+      
+    
+    {\displaystyle \lim _{x\to c}g\left(f(x)\right)=g(L)}
+
+Operations on two known limits
+If 
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        f
+        (
+        x
+        )
+        =
+        
+          L
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \lim _{x\to c}f(x)=L_{1}}
+   and 
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        g
+        (
+        x
+        )
+        =
+        
+          L
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \lim _{x\to c}g(x)=L_{2}}
+   then:
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        
+        [
+        f
+        (
+        x
+        )
+        ±
+        g
+        (
+        x
+        )
+        ]
+        =
+        
+          L
+          
+            1
+          
+        
+        ±
+        
+          L
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \lim _{x\to c}\,[f(x)\pm g(x)]=L_{1}\pm L_{2}}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        
+        [
+        f
+        (
+        x
+        )
+        g
+        (
+        x
+        )
+        ]
+        =
+        
+          L
+          
+            1
+          
+        
+        ⋅
+        
+          L
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \lim _{x\to c}\,[f(x)g(x)]=L_{1}\cdot L_{2}}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        
+          
+            
+              f
+              (
+              x
+              )
+            
+            
+              g
+              (
+              x
+              )
+            
+          
+        
+        =
+        
+          
+            
+              L
+              
+                1
+              
+            
+            
+              L
+              
+                2
+              
+            
+          
+        
+        
+        
+           if 
+        
+        
+          L
+          
+            2
+          
+        
+        ≠
+        0
+      
+    
+    {\displaystyle \lim _{x\to c}{\frac {f(x)}{g(x)}}={\frac {L_{1}}{L_{2}}}\qquad {\text{ if }}L_{2}\neq 0}
+
+Limits involving derivatives or infinitesimal changes
+In these limits, the infinitesimal change 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+   is often denoted 
+  
+    
+      
+        Δ
+        x
+      
+    
+    {\displaystyle \Delta x}
+   or 
+  
+    
+      
+        δ
+        x
+      
+    
+    {\displaystyle \delta x}
+  . If 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  is differentiable at 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , 
+
+  
+    
+      
+        
+          lim
+          
+            h
+            →
+            0
+          
+        
+        
+          
+            
+              f
+              (
+              x
+              +
+              h
+              )
+              −
+              f
+              (
+              x
+              )
+            
+            h
+          
+        
+        =
+        
+          f
+          ′
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle \lim _{h\to 0}{f(x+h)-f(x) \over h}=f'(x)}
+  . This is the definition of the derivative. All differentiation rules can also be reframed as rules involving limits. For example, if g(x) is differentiable at x,
+
+  
+    
+      
+        
+          lim
+          
+            h
+            →
+            0
+          
+        
+        
+          
+            
+              f
+              ∘
+              g
+              (
+              x
+              +
+              h
+              )
+              −
+              f
+              ∘
+              g
+              (
+              x
+              )
+            
+            h
+          
+        
+        =
+        
+          f
+          ′
+        
+        [
+        g
+        (
+        x
+        )
+        ]
+        
+          g
+          ′
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle \lim _{h\to 0}{f\circ g(x+h)-f\circ g(x) \over h}=f'[g(x)]g'(x)}
+  . This is the chain rule.
+
+  
+    
+      
+        
+          lim
+          
+            h
+            →
+            0
+          
+        
+        
+          
+            
+              f
+              (
+              x
+              +
+              h
+              )
+              g
+              (
+              x
+              +
+              h
+              )
+              −
+              f
+              (
+              x
+              )
+              g
+              (
+              x
+              )
+            
+            h
+          
+        
+        =
+        
+          f
+          ′
+        
+        (
+        x
+        )
+        g
+        (
+        x
+        )
+        +
+        f
+        (
+        x
+        )
+        
+          g
+          ′
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle \lim _{h\to 0}{f(x+h)g(x+h)-f(x)g(x) \over h}=f'(x)g(x)+f(x)g'(x)}
+  . This is the product rule.
+
+  
+    
+      
+        
+          lim
+          
+            h
+            →
+            0
+          
+        
+        
+          
+            (
+            
+              
+                
+                  f
+                  (
+                  x
+                  +
+                  h
+                  )
+                
+                
+                  f
+                  (
+                  x
+                  )
+                
+              
+            
+            )
+          
+          
+            1
+            
+              /
+            
+            h
+          
+        
+        =
+        exp
+        ⁡
+        
+          (
+          
+            
+              
+                
+                  f
+                  ′
+                
+                (
+                x
+                )
+              
+              
+                f
+                (
+                x
+                )
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \lim _{h\to 0}\left({\frac {f(x+h)}{f(x)}}\right)^{1/h}=\exp \left({\frac {f'(x)}{f(x)}}\right)}
+  
+
+  
+    
+      
+        
+          lim
+          
+            h
+            →
+            0
+          
+        
+        
+          
+            
+              (
+              
+                
+                  
+                    f
+                    (
+                    
+                      e
+                      
+                        h
+                      
+                    
+                    x
+                    )
+                  
+                  
+                    f
+                    (
+                    x
+                    )
+                  
+                
+              
+              )
+            
+            
+              1
+              
+                /
+              
+              h
+            
+          
+        
+        =
+        exp
+        ⁡
+        
+          (
+          
+            
+              
+                x
+                
+                  f
+                  ′
+                
+                (
+                x
+                )
+              
+              
+                f
+                (
+                x
+                )
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \lim _{h\to 0}{\left({f(e^{h}x) \over {f(x)}}\right)^{1/h}}=\exp \left({\frac {xf'(x)}{f(x)}}\right)}
+  If 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+   and 
+  
+    
+      
+        g
+        (
+        x
+        )
+      
+    
+    {\displaystyle g(x)}
+   are differentiable on an open interval containing c, except possibly c itself, and 
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        f
+        (
+        x
+        )
+        =
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        g
+        (
+        x
+        )
+        =
+        0
+        
+           or 
+        
+        ±
+        ∞
+      
+    
+    {\displaystyle \lim _{x\to c}f(x)=\lim _{x\to c}g(x)=0{\text{ or }}\pm \infty }
+  , L'Hôpital's rule can be used:
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        
+          
+            
+              f
+              (
+              x
+              )
+            
+            
+              g
+              (
+              x
+              )
+            
+          
+        
+        =
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        
+          
+            
+              
+                f
+                ′
+              
+              (
+              x
+              )
+            
+            
+              
+                g
+                ′
+              
+              (
+              x
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \lim _{x\to c}{\frac {f(x)}{g(x)}}=\lim _{x\to c}{\frac {f'(x)}{g'(x)}}}
+
+Inequalities
+If 
+  
+    
+      
+        f
+        (
+        x
+        )
+        ≤
+        g
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)\leq g(x)}
+   for all x in an interval that contains c, except possibly c itself, and the limit of 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+   and 
+  
+    
+      
+        g
+        (
+        x
+        )
+      
+    
+    {\displaystyle g(x)}
+   both exist at c, then
+If 
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        f
+        (
+        x
+        )
+        =
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        h
+        (
+        x
+        )
+        =
+        L
+      
+    
+    {\displaystyle \lim _{x\to c}f(x)=\lim _{x\to c}h(x)=L}
+   and 
+  
+    
+      
+        f
+        (
+        x
+        )
+        ≤
+        g
+        (
+        x
+        )
+        ≤
+        h
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)\leq g(x)\leq h(x)}
+  for all x in an open interval that contains c, except possibly c itself,
+ This is known as the squeeze theorem. This applies even in the cases that f(x) and g(x) take on different values at c, or are discontinuous at c.
+
+Polynomials and functions of the form xa
+lim
+          
+            x
+            →
+            c
+          
+        
+        a
+        =
+        a
+      
+    
+    {\displaystyle \lim _{x\to c}a=a}
+
+Polynomials in x
+lim
+          
+            x
+            →
+            c
+          
+        
+        x
+        =
+        c
+      
+    
+    {\displaystyle \lim _{x\to c}x=c}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        (
+        a
+        x
+        +
+        b
+        )
+        =
+        a
+        c
+        +
+        b
+      
+    
+    {\displaystyle \lim _{x\to c}(ax+b)=ac+b}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        
+          x
+          
+            n
+          
+        
+        =
+        
+          c
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \lim _{x\to c}x^{n}=c^{n}}
+   if n is a positive integer
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            ∞
+          
+        
+        x
+        
+          /
+        
+        a
+        =
+        
+          
+            {
+            
+              
+                
+                  ∞
+                  ,
+                
+                
+                  a
+                  >
+                  0
+                
+              
+              
+                
+                  
+                    does not exist
+                  
+                  ,
+                
+                
+                  a
+                  =
+                  0
+                
+              
+              
+                
+                  −
+                  ∞
+                  ,
+                
+                
+                  a
+                  <
+                  0
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle \lim _{x\to \infty }x/a={\begin{cases}\infty ,&a>0\\{\text{does not exist}},&a=0\\-\infty ,&a<0\end{cases}}}
+  In general, if 
+  
+    
+      
+        p
+        (
+        x
+        )
+      
+    
+    {\displaystyle p(x)}
+  is a polynomial then, by the continuity of polynomials,  This is also true for rational functions, as they are continuous on their domains.
+
+Functions of the form xa
+lim
+          
+            x
+            →
+            c
+          
+        
+        
+          x
+          
+            a
+          
+        
+        =
+        
+          c
+          
+            a
+          
+        
+        .
+      
+    
+    {\displaystyle \lim _{x\to c}x^{a}=c^{a}.}
+   In particular,
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            ∞
+          
+        
+        
+          x
+          
+            a
+          
+        
+        =
+        
+          
+            {
+            
+              
+                
+                  ∞
+                  ,
+                
+                
+                  a
+                  >
+                  0
+                
+              
+              
+                
+                  1
+                  ,
+                
+                
+                  a
+                  =
+                  0
+                
+              
+              
+                
+                  0
+                  ,
+                
+                
+                  a
+                  <
+                  0
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle \lim _{x\to \infty }x^{a}={\begin{cases}\infty ,&a>0\\1,&a=0\\0,&a<0\end{cases}}}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        
+          x
+          
+            1
+            
+              /
+            
+            a
+          
+        
+        =
+        
+          c
+          
+            1
+            
+              /
+            
+            a
+          
+        
+      
+    
+    {\displaystyle \lim _{x\to c}x^{1/a}=c^{1/a}}
+  . In particular,
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            ∞
+          
+        
+        
+          x
+          
+            1
+            
+              /
+            
+            a
+          
+        
+        =
+        
+          lim
+          
+            x
+            →
+            ∞
+          
+        
+        
+          
+            x
+            
+              a
+            
+          
+        
+        =
+        ∞
+        
+           for any 
+        
+        a
+        >
+        0
+      
+    
+    {\displaystyle \lim _{x\to \infty }x^{1/a}=\lim _{x\to \infty }{\sqrt[{a}]{x}}=\infty {\text{ for any }}a>0}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            
+              0
+              
+                +
+              
+            
+          
+        
+        
+          x
+          
+            −
+            n
+          
+        
+        =
+        
+          lim
+          
+            x
+            →
+            
+              0
+              
+                +
+              
+            
+          
+        
+        
+          
+            1
+            
+              x
+              
+                n
+              
+            
+          
+        
+        =
+        +
+        ∞
+      
+    
+    {\displaystyle \lim _{x\to 0^{+}}x^{-n}=\lim _{x\to 0^{+}}{\frac {1}{x^{n}}}=+\infty }
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            
+              0
+              
+                −
+              
+            
+          
+        
+        
+          x
+          
+            −
+            n
+          
+        
+        =
+        
+          lim
+          
+            x
+            →
+            
+              0
+              
+                −
+              
+            
+          
+        
+        
+          
+            1
+            
+              x
+              
+                n
+              
+            
+          
+        
+        =
+        
+          
+            {
+            
+              
+                
+                  −
+                  ∞
+                  ,
+                
+                
+                  
+                    if 
+                  
+                  n
+                  
+                     is odd
+                  
+                
+              
+              
+                
+                  +
+                  ∞
+                  ,
+                
+                
+                  
+                    if 
+                  
+                  n
+                  
+                     is even
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle \lim _{x\to 0^{-}}x^{-n}=\lim _{x\to 0^{-}}{\frac {1}{x^{n}}}={\begin{cases}-\infty ,&{\text{if }}n{\text{ is odd}}\\+\infty ,&{\text{if }}n{\text{ is even}}\end{cases}}}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            ∞
+          
+        
+        a
+        
+          x
+          
+            −
+            1
+          
+        
+        =
+        
+          lim
+          
+            x
+            →
+            ∞
+          
+        
+        a
+        
+          /
+        
+        x
+        =
+        0
+        
+           for any real 
+        
+        a
+      
+    
+    {\displaystyle \lim _{x\to \infty }ax^{-1}=\lim _{x\to \infty }a/x=0{\text{ for any real }}a}
+
+Exponential functions
+Functions of the form ag(x)
+lim
+          
+            x
+            →
+            c
+          
+        
+        
+          e
+          
+            x
+          
+        
+        =
+        
+          e
+          
+            c
+          
+        
+      
+    
+    {\displaystyle \lim _{x\to c}e^{x}=e^{c}}
+  , due to the continuity of 
+  
+    
+      
+        
+          e
+          
+            x
+          
+        
+      
+    
+    {\displaystyle e^{x}}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            ∞
+          
+        
+        
+          a
+          
+            x
+          
+        
+        =
+        
+          
+            {
+            
+              
+                
+                  ∞
+                  ,
+                
+                
+                  a
+                  >
+                  1
+                
+              
+              
+                
+                  1
+                  ,
+                
+                
+                  a
+                  =
+                  1
+                
+              
+              
+                
+                  0
+                  ,
+                
+                
+                  0
+                  <
+                  a
+                  <
+                  1
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle \lim _{x\to \infty }a^{x}={\begin{cases}\infty ,&a>1\\1,&a=1\\0,&0<a<1\end{cases}}}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            ∞
+          
+        
+        
+          a
+          
+            −
+            x
+          
+        
+        =
+        
+          
+            {
+            
+              
+                
+                  0
+                  ,
+                
+                
+                  a
+                  >
+                  1
+                
+              
+              
+                
+                  1
+                  ,
+                
+                
+                  a
+                  =
+                  1
+                
+              
+              
+                
+                  ∞
+                  ,
+                
+                
+                  0
+                  <
+                  a
+                  <
+                  1
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle \lim _{x\to \infty }a^{-x}={\begin{cases}0,&a>1\\1,&a=1\\\infty ,&0<a<1\end{cases}}}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            ∞
+          
+        
+        
+          
+            a
+            
+              x
+            
+          
+        
+        =
+        
+          lim
+          
+            x
+            →
+            ∞
+          
+        
+        
+          
+            a
+          
+          
+            1
+            
+              /
+            
+            x
+          
+        
+        =
+        
+          
+            {
+            
+              
+                
+                  1
+                  ,
+                
+                
+                  a
+                  >
+                  0
+                
+              
+              
+                
+                  0
+                  ,
+                
+                
+                  a
+                  =
+                  0
+                
+              
+              
+                
+                  
+                    does not exist
+                  
+                  ,
+                
+                
+                  a
+                  <
+                  0
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle \lim _{x\to \infty }{\sqrt[{x}]{a}}=\lim _{x\to \infty }{a}^{1/x}={\begin{cases}1,&a>0\\0,&a=0\\{\text{does not exist}},&a<0\end{cases}}}
+
+Functions of the form xg(x)
+lim
+          
+            x
+            →
+            ∞
+          
+        
+        
+          
+            x
+            
+              x
+            
+          
+        
+        =
+        
+          lim
+          
+            x
+            →
+            ∞
+          
+        
+        
+          
+            x
+          
+          
+            1
+            
+              /
+            
+            x
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle \lim _{x\to \infty }{\sqrt[{x}]{x}}=\lim _{x\to \infty }{x}^{1/x}=1}
+
+Functions of the form f(x)g(x)
+lim
+          
+            x
+            →
+            +
+            ∞
+          
+        
+        
+          
+            (
+            
+              
+                x
+                
+                  x
+                  +
+                  k
+                
+              
+            
+            )
+          
+          
+            x
+          
+        
+        =
+        
+          e
+          
+            −
+            k
+          
+        
+      
+    
+    {\displaystyle \lim _{x\to +\infty }\left({\frac {x}{x+k}}\right)^{x}=e^{-k}}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            0
+          
+        
+        
+          
+            (
+            
+              1
+              +
+              x
+            
+            )
+          
+          
+            
+              1
+              x
+            
+          
+        
+        =
+        e
+      
+    
+    {\displaystyle \lim _{x\to 0}\left(1+x\right)^{\frac {1}{x}}=e}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            0
+          
+        
+        
+          
+            (
+            
+              1
+              +
+              k
+              x
+            
+            )
+          
+          
+            
+              m
+              x
+            
+          
+        
+        =
+        
+          e
+          
+            m
+            k
+          
+        
+      
+    
+    {\displaystyle \lim _{x\to 0}\left(1+kx\right)^{\frac {m}{x}}=e^{mk}}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            +
+            ∞
+          
+        
+        
+          
+            (
+            
+              1
+              +
+              
+                
+                  1
+                  x
+                
+              
+            
+            )
+          
+          
+            x
+          
+        
+        =
+        e
+      
+    
+    {\displaystyle \lim _{x\to +\infty }\left(1+{\frac {1}{x}}\right)^{x}=e}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            +
+            ∞
+          
+        
+        
+          
+            (
+            
+              1
+              −
+              
+                
+                  1
+                  x
+                
+              
+            
+            )
+          
+          
+            x
+          
+        
+        =
+        
+          
+            1
+            e
+          
+        
+      
+    
+    {\displaystyle \lim _{x\to +\infty }\left(1-{\frac {1}{x}}\right)^{x}={\frac {1}{e}}}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            +
+            ∞
+          
+        
+        
+          
+            (
+            
+              1
+              +
+              
+                
+                  k
+                  x
+                
+              
+            
+            )
+          
+          
+            m
+            x
+          
+        
+        =
+        
+          e
+          
+            m
+            k
+          
+        
+      
+    
+    {\displaystyle \lim _{x\to +\infty }\left(1+{\frac {k}{x}}\right)^{mx}=e^{mk}}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            0
+          
+        
+        
+          
+            (
+            
+              1
+              +
+              a
+              
+                (
+                
+                  
+                    e
+                    
+                      −
+                      x
+                    
+                  
+                  −
+                  1
+                
+                )
+              
+            
+            )
+          
+          
+            −
+            
+              
+                1
+                x
+              
+            
+          
+        
+        =
+        
+          e
+          
+            a
+          
+        
+      
+    
+    {\displaystyle \lim _{x\to 0}\left(1+a\left({e^{-x}-1}\right)\right)^{-{\frac {1}{x}}}=e^{a}}
+  . This limit can be derived from this limit.
+
+Sums, products and composites
+lim
+          
+            x
+            →
+            0
+          
+        
+        x
+        
+          e
+          
+            −
+            x
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \lim _{x\to 0}xe^{-x}=0}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            ∞
+          
+        
+        x
+        
+          e
+          
+            −
+            x
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \lim _{x\to \infty }xe^{-x}=0}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            0
+          
+        
+        
+          (
+          
+            
+              
+                
+                  a
+                  
+                    x
+                  
+                
+                −
+                1
+              
+              x
+            
+          
+          )
+        
+        =
+        ln
+        ⁡
+        
+          a
+        
+        ,
+      
+    
+    {\displaystyle \lim _{x\to 0}\left({\frac {a^{x}-1}{x}}\right)=\ln {a},}
+   for all positive a.
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            0
+          
+        
+        
+          (
+          
+            
+              
+                
+                  e
+                  
+                    x
+                  
+                
+                −
+                1
+              
+              x
+            
+          
+          )
+        
+        =
+        1
+      
+    
+    {\displaystyle \lim _{x\to 0}\left({\frac {e^{x}-1}{x}}\right)=1}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            0
+          
+        
+        
+          (
+          
+            
+              
+                
+                  e
+                  
+                    a
+                    x
+                  
+                
+                −
+                1
+              
+              x
+            
+          
+          )
+        
+        =
+        a
+      
+    
+    {\displaystyle \lim _{x\to 0}\left({\frac {e^{ax}-1}{x}}\right)=a}
+
+Logarithmic functions
+Natural logarithms
+lim
+          
+            x
+            →
+            c
+          
+        
+        ln
+        ⁡
+        
+          x
+        
+        =
+        ln
+        ⁡
+        c
+      
+    
+    {\displaystyle \lim _{x\to c}\ln {x}=\ln c}
+  , due to the continuity of 
+  
+    
+      
+        ln
+        ⁡
+        
+          x
+        
+      
+    
+    {\displaystyle \ln {x}}
+  . In particular,
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            
+              0
+              
+                +
+              
+            
+          
+        
+        log
+        ⁡
+        x
+        =
+        −
+        ∞
+      
+    
+    {\displaystyle \lim _{x\to 0^{+}}\log x=-\infty }
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            ∞
+          
+        
+        log
+        ⁡
+        x
+        =
+        ∞
+      
+    
+    {\displaystyle \lim _{x\to \infty }\log x=\infty }
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            1
+          
+        
+        
+          
+            
+              ln
+              ⁡
+              (
+              x
+              )
+            
+            
+              x
+              −
+              1
+            
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle \lim _{x\to 1}{\frac {\ln(x)}{x-1}}=1}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            0
+          
+        
+        
+          
+            
+              ln
+              ⁡
+              (
+              x
+              +
+              1
+              )
+            
+            x
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle \lim _{x\to 0}{\frac {\ln(x+1)}{x}}=1}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            0
+          
+        
+        
+          
+            
+              −
+              ln
+              ⁡
+              
+                (
+                
+                  1
+                  +
+                  a
+                  
+                    (
+                    
+                      
+                        e
+                        
+                          −
+                          x
+                        
+                      
+                      −
+                      1
+                    
+                    )
+                  
+                
+                )
+              
+            
+            x
+          
+        
+        =
+        a
+      
+    
+    {\displaystyle \lim _{x\to 0}{\frac {-\ln \left(1+a\left({e^{-x}-1}\right)\right)}{x}}=a}
+  . This limit follows from L'Hôpital's rule.
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            0
+          
+        
+        x
+        ln
+        ⁡
+        x
+        =
+        0
+      
+    
+    {\displaystyle \lim _{x\to 0}x\ln x=0}
+  , hence 
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            0
+          
+        
+        
+          x
+          
+            x
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle \lim _{x\to 0}x^{x}=1}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            ∞
+          
+        
+        
+          
+            
+              ln
+              ⁡
+              x
+            
+            x
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \lim _{x\to \infty }{\frac {\ln x}{x}}=0}
+
+Logarithms to arbitrary bases
+For b > 1,
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            
+              0
+              
+                +
+              
+            
+          
+        
+        
+          log
+          
+            b
+          
+        
+        ⁡
+        x
+        =
+        −
+        ∞
+      
+    
+    {\displaystyle \lim _{x\to 0^{+}}\log _{b}x=-\infty }
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            ∞
+          
+        
+        
+          log
+          
+            b
+          
+        
+        ⁡
+        x
+        =
+        ∞
+      
+    
+    {\displaystyle \lim _{x\to \infty }\log _{b}x=\infty }
+  For b < 1,
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            
+              0
+              
+                +
+              
+            
+          
+        
+        
+          log
+          
+            b
+          
+        
+        ⁡
+        x
+        =
+        ∞
+      
+    
+    {\displaystyle \lim _{x\to 0^{+}}\log _{b}x=\infty }
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            ∞
+          
+        
+        
+          log
+          
+            b
+          
+        
+        ⁡
+        x
+        =
+        −
+        ∞
+      
+    
+    {\displaystyle \lim _{x\to \infty }\log _{b}x=-\infty }
+  Both cases can be generalized to:
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            
+              0
+              
+                +
+              
+            
+          
+        
+        
+          log
+          
+            b
+          
+        
+        ⁡
+        x
+        =
+        −
+        F
+        (
+        b
+        )
+        ∞
+      
+    
+    {\displaystyle \lim _{x\to 0^{+}}\log _{b}x=-F(b)\infty }
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            ∞
+          
+        
+        
+          log
+          
+            b
+          
+        
+        ⁡
+        x
+        =
+        F
+        (
+        b
+        )
+        ∞
+      
+    
+    {\displaystyle \lim _{x\to \infty }\log _{b}x=F(b)\infty }
+  where 
+  
+    
+      
+        F
+        (
+        x
+        )
+        =
+        2
+        H
+        (
+        x
+        −
+        1
+        )
+        −
+        1
+      
+    
+    {\displaystyle F(x)=2H(x-1)-1}
+   and 
+  
+    
+      
+        H
+        (
+        x
+        )
+      
+    
+    {\displaystyle H(x)}
+   is the Heaviside step function
+
+Trigonometric functions
+If 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is expressed in radians:
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            a
+          
+        
+        sin
+        ⁡
+        x
+        =
+        sin
+        ⁡
+        a
+      
+    
+    {\displaystyle \lim _{x\to a}\sin x=\sin a}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            a
+          
+        
+        cos
+        ⁡
+        x
+        =
+        cos
+        ⁡
+        a
+      
+    
+    {\displaystyle \lim _{x\to a}\cos x=\cos a}
+  These limits both follow from the continuity of sin and cos.
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            0
+          
+        
+        
+          
+            
+              sin
+              ⁡
+              x
+            
+            x
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle \lim _{x\to 0}{\frac {\sin x}{x}}=1}
+  . Or, in general,
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            0
+          
+        
+        
+          
+            
+              sin
+              ⁡
+              a
+              x
+            
+            
+              a
+              x
+            
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle \lim _{x\to 0}{\frac {\sin ax}{ax}}=1}
+  , for a not equal to 0.
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            0
+          
+        
+        
+          
+            
+              sin
+              ⁡
+              a
+              x
+            
+            x
+          
+        
+        =
+        a
+      
+    
+    {\displaystyle \lim _{x\to 0}{\frac {\sin ax}{x}}=a}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            0
+          
+        
+        
+          
+            
+              sin
+              ⁡
+              a
+              x
+            
+            
+              b
+              x
+            
+          
+        
+        =
+        
+          
+            a
+            b
+          
+        
+      
+    
+    {\displaystyle \lim _{x\to 0}{\frac {\sin ax}{bx}}={\frac {a}{b}}}
+  , for b not equal to 0.
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            ∞
+          
+        
+        x
+        sin
+        ⁡
+        
+          (
+          
+            
+              1
+              x
+            
+          
+          )
+        
+        =
+        1
+      
+    
+    {\displaystyle \lim _{x\to \infty }x\sin \left({\frac {1}{x}}\right)=1}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            0
+          
+        
+        
+          
+            
+              1
+              −
+              cos
+              ⁡
+              x
+            
+            x
+          
+        
+        =
+        
+          lim
+          
+            x
+            →
+            0
+          
+        
+        
+          
+            
+              cos
+              ⁡
+              x
+              −
+              1
+            
+            x
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \lim _{x\to 0}{\frac {1-\cos x}{x}}=\lim _{x\to 0}{\frac {\cos x-1}{x}}=0}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            0
+          
+        
+        
+          
+            
+              1
+              −
+              cos
+              ⁡
+              x
+            
+            
+              x
+              
+                2
+              
+            
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+      
+    
+    {\displaystyle \lim _{x\to 0}{\frac {1-\cos x}{x^{2}}}={\frac {1}{2}}}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            
+              n
+              
+                ±
+              
+            
+          
+        
+        tan
+        ⁡
+        
+          (
+          
+            π
+            x
+            +
+            
+              
+                π
+                2
+              
+            
+          
+          )
+        
+        =
+        ∓
+        ∞
+      
+    
+    {\displaystyle \lim _{x\to n^{\pm }}\tan \left(\pi x+{\frac {\pi }{2}}\right)=\mp \infty }
+  , for integer n.
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            0
+          
+        
+        
+          
+            
+              tan
+              ⁡
+              x
+            
+            x
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle \lim _{x\to 0}{\frac {\tan x}{x}}=1}
+  . Or, in general,
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            0
+          
+        
+        
+          
+            
+              tan
+              ⁡
+              a
+              x
+            
+            
+              a
+              x
+            
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle \lim _{x\to 0}{\frac {\tan ax}{ax}}=1}
+  , for a not equal to 0.
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            0
+          
+        
+        
+          
+            
+              tan
+              ⁡
+              a
+              x
+            
+            
+              b
+              x
+            
+          
+        
+        =
+        
+          
+            a
+            b
+          
+        
+      
+    
+    {\displaystyle \lim _{x\to 0}{\frac {\tan ax}{bx}}={\frac {a}{b}}}
+  , for b not equal to 0.
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+         
+        
+          
+            
+              
+                sin
+                ⁡
+                sin
+                ⁡
+                ⋯
+                sin
+                ⁡
+                (
+                
+                  x
+                  
+                    0
+                  
+                
+                )
+              
+              ⏟
+            
+          
+          
+            n
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \lim _{n\to \infty }\ \underbrace {\sin \sin \cdots \sin(x_{0})} _{n}=0}
+  , where x0 is an arbitrary real number.
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+         
+        
+          
+            
+              
+                cos
+                ⁡
+                cos
+                ⁡
+                ⋯
+                cos
+                ⁡
+                (
+                
+                  x
+                  
+                    0
+                  
+                
+                )
+              
+              ⏟
+            
+          
+          
+            n
+          
+        
+        =
+        d
+      
+    
+    {\displaystyle \lim _{n\to \infty }\ \underbrace {\cos \cos \cdots \cos(x_{0})} _{n}=d}
+  , where d is the Dottie number. x0 can be any arbitrary real number.
+
+Sums
+In general, any infinite series is the limit of its partial sums. For example, an analytic function is the limit of its Taylor series, within its radius of convergence. 
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          
+            1
+            k
+          
+        
+        =
+        ∞
+      
+    
+    {\displaystyle \lim _{n\to \infty }\sum _{k=1}^{n}{\frac {1}{k}}=\infty }
+  . This is known as the harmonic series.
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          (
+          
+            
+              ∑
+              
+                k
+                =
+                1
+              
+              
+                n
+              
+            
+            
+              
+                1
+                k
+              
+            
+            −
+            log
+            ⁡
+            n
+          
+          )
+        
+        =
+        γ
+      
+    
+    {\displaystyle \lim _{n\to \infty }\left(\sum _{k=1}^{n}{\frac {1}{k}}-\log n\right)=\gamma }
+  . This is the Euler Mascheroni constant.
+
+Notable special limits
+lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            n
+            
+              
+                n
+                !
+              
+              
+                n
+              
+            
+          
+        
+        =
+        e
+      
+    
+    {\displaystyle \lim _{n\to \infty }{\frac {n}{\sqrt[{n}]{n!}}}=e}
+  
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            (
+            
+              n
+              !
+            
+            )
+          
+          
+            1
+            
+              /
+            
+            n
+          
+        
+        =
+        ∞
+      
+    
+    {\displaystyle \lim _{n\to \infty }\left(n!\right)^{1/n}=\infty }
+  . This can be proven by considering the inequality 
+  
+    
+      
+        
+          e
+          
+            x
+          
+        
+        ≥
+        
+          
+            
+              x
+              
+                n
+              
+            
+            
+              n
+              !
+            
+          
+        
+      
+    
+    {\displaystyle e^{x}\geq {\frac {x^{n}}{n!}}}
+   at 
+  
+    
+      
+        x
+        =
+        n
+      
+    
+    {\displaystyle x=n}
+  .
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+        
+          2
+          
+            n
+          
+        
+        
+          
+            
+              
+                2
+                −
+                
+                  
+                    2
+                    +
+                    
+                      
+                        2
+                        +
+                        ⋯
+                        +
+                        
+                          
+                            2
+                          
+                        
+                      
+                    
+                  
+                
+              
+              ⏟
+            
+          
+          
+            n
+          
+        
+        =
+        π
+      
+    
+    {\displaystyle \lim _{n\to \infty }\,2^{n}\underbrace {\sqrt {2-{\sqrt {2+{\sqrt {2+\dots +{\sqrt {2}}}}}}}} _{n}=\pi }
+  . This can be derived from Viète's formula for π.
+
+Limiting behavior
+Asymptotic equivalences
+Asymptotic equivalences, 
+  
+    
+      
+        f
+        (
+        x
+        )
+        ∼
+        g
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)\sim g(x)}
+  , are true if 
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            ∞
+          
+        
+        
+          
+            
+              f
+              (
+              x
+              )
+            
+            
+              g
+              (
+              x
+              )
+            
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle \lim _{x\to \infty }{\frac {f(x)}{g(x)}}=1}
+  . Therefore, they can also be reframed as limits. Some notable asymptotic equivalences include
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            ∞
+          
+        
+        
+          
+            
+              x
+              
+                /
+              
+              ln
+              ⁡
+              x
+            
+            
+              π
+              (
+              x
+              )
+            
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle \lim _{x\to \infty }{\frac {x/\ln x}{\pi (x)}}=1}
+  , due to the prime number theorem, 
+  
+    
+      
+        π
+        (
+        x
+        )
+        ∼
+        
+          
+            x
+            
+              ln
+              ⁡
+              x
+            
+          
+        
+      
+    
+    {\displaystyle \pi (x)\sim {\frac {x}{\ln x}}}
+  , where π(x) is the prime counting function.
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            
+              
+                
+                  2
+                  π
+                  n
+                
+              
+              
+                
+                  (
+                  
+                    
+                      n
+                      e
+                    
+                  
+                  )
+                
+                
+                  n
+                
+              
+            
+            
+              n
+              !
+            
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle \lim _{n\to \infty }{\frac {{\sqrt {2\pi n}}\left({\frac {n}{e}}\right)^{n}}{n!}}=1}
+  , due to Stirling's approximation, 
+  
+    
+      
+        n
+        !
+        ∼
+        
+          
+            2
+            π
+            n
+          
+        
+        
+          
+            (
+            
+              
+                n
+                e
+              
+            
+            )
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle n!\sim {\sqrt {2\pi n}}\left({\frac {n}{e}}\right)^{n}}
+  .
+
+Big O notation
+The behaviour of functions described by Big O notation can also be described by limits. For example
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        ∈
+        
+          
+            O
+          
+        
+        (
+        g
+        (
+        x
+        )
+        )
+      
+    
+    {\displaystyle f(x)\in {\mathcal {O}}(g(x))}
+   if 
+  
+    
+      
+        
+          lim sup
+          
+            x
+            →
+            ∞
+          
+        
+        
+          
+            
+              
+                |
+              
+              f
+              (
+              x
+              )
+              
+                |
+              
+            
+            
+              g
+              (
+              x
+              )
+            
+          
+        
+        <
+        ∞
+      
+    
+    {\displaystyle \limsup _{x\to \infty }{\frac {|f(x)|}{g(x)}}<\infty }
+  
+
+
+== References ==

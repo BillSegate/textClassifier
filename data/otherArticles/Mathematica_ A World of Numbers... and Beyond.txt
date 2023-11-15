@@ -1,0 +1,39 @@
+Mathematica: A World of Numbers... and Beyond is a kinetic and static exhibition of mathematical concepts designed by Charles and Ray Eames, originally debuted at the California Museum of Science and Industry in 1961. Duplicates have since been made, and they (as well as the original) have been moved to other institutions.
+
+History
+In March, 1961 a new science  wing at the California Museum of Science and Industry in Los Angeles opened. The IBM Corporation had been asked by the museum to make a contribution; IBM in turn asked the famous California designer team of Charles Eames and his wife Ray Eames to come up with a good proposal. The result was that the Eames Office was commissioned by IBM to design an interactive exhibition called Mathematica: A World of Numbers... and Beyond. This was the first of many exhibitions designed by the Eames Office.
+The 3,000-square-foot (280 m2) exhibition stayed at the museum until January 1998, making it the longest running of any corporate sponsored museum exhibition. Furthermore, it is the only one of the dozens of exhibitions designed by the Office of Charles and Ray Eames that is still extant. This original Mathematica exhibition was reassembled for display at the Alyce de Roulet Williamson Gallery at Art Center College of Design in Pasadena, California, July 30 through October 1, 2000. It is now owned by and on display at the New York Hall of Science, though it currently lacks the overhead plaques with quotations from mathematicians that were part of the original installation.
+
+Duplicates
+In November, 1961 an exact duplicate was made for Chicago's Museum of Science and Industry, where it was shown until late 1980. From there it was sold and relocated to the Museum of Science in Boston, Massachusetts, where it is permanently on display. The Boston installation bears the closest resemblance to the original Eames design, including numerous overhead plaques featuring historic quotations from famous mathematicians. As part of a refurbishment, a graphic panel was added to supplement the original History Wall timeline, to recognize the contributions of both men and women mathematicians of the late 20th and early 21st centuries.
+A third copy was made for the IBM Pavilion at the 1964/1965 New York World's Fair. Subsequently, it was briefly on display in Manhattan, and was then installed in the Pacific Science Center in Seattle where it stayed until 1980. It was briefly re-installed in New York City at the 590 Madison Ave IBM Headquarters Building, before being moved to SciTrek in Atlanta, but that organization was shut down in 2004 due to funding cuts. The exhibit was then shipped to Petaluma, California to Lucia Eames, the daughter of the original designers. In 2015, the exhibit was acquired by the Henry Ford Museum in Dearborn, Michigan.
+
+Exhibits
+Some of the displays are minimally interactive, in that they start to operate at the push of a button. Other displays are motorized and run continuously, or operate automatically on a fixed cycle as long as power is supplied. The moving display elements combine with noise made by balls falling through the probability machine, to fill the exhibit space with an atmosphere of continuous activity.
+
+Large-scale bean machine showing the binomial distribution as an approximation of the normal distribution in probability theory
+Möbius strip with a motorized red arrow that can trace a complete circuit of the one-sided surface
+A curved funnel-shaped surface modeling a gravitational well using ball bearings orbiting in ellipses
+A three-dimensional cube illustrating the concept of multiplication
+Soap bubbles and films, as examples of minimal surfaces
+Mechanical linkages, such as the Sarrus linkage
+Topological surfaces, such as the Klein bottle
+Models showing perspective and geometric projection
+An arrangement of strings and lights demonstrating conic sections
+An automated dice game demonstrating random walk (unique to the IBM Pavilion/The Henry Ford exhibit)
+"Image Wall" of beautiful mathematics and art images, such as the Fibonacci series and the Golden Spiral
+"History Wall" timeline of mathematical thought and discoveries, and contributions from different world culturesIn addition, large placards hang from the ceiling, carrying interesting quotations from famous mathematicians. Some installations have omitted this feature, although it was an integral part of the original exhibition.
+
+Men of Modern Mathematics poster
+In 1966, five years after the opening of the Mathematica Exhibit, IBM published a 2-by-12-foot (0.61 m × 3.66 m) timeline poster, titled Men of Modern Mathematics. It was based on the items displayed on the exhibit's History Wall, and free copies were distributed to schools.  The timeline covered the period from 1000 AD to approximately 1950 AD, and the poster featured biographical and historical items, along with numerous pictures showing progress in various areas of science, including architecture. The mathematical items in this chart were prepared by Professor Raymond Redheffer of UCLA. Long after the chart was distributed, mathematics departments around the world have proudly displayed this chart on their walls.In 2012, IBM Corporation released a free iPad application, Minds of Modern Mathematics, based on the poster but updated to the present, including expanded coverage of women mathematicians. The app was developed by IBM with the assistance of the Eames Office. As of March 2022, the 32-bit app had not been updated to run on versions of iOS 11 (2017) or later, which now only support 64-bit code.
+
+See also
+Mathematics and art
+Museum of Mathematics – a permanent museum of mathematics, in Manhattan, New York City
+Mathemalchemy – a traveling art installation of mathematical symbols, artifacts, and stories (2021)
+
+References
+External links
+Mathematica exhibit in QuickTime VR — as it appeared in a 2000 showing at the Art Center College of Design in Pasadena, California
+CMSI Remembering the California Museum of Science & Industry
+Mathematica Exhibit at the Museum of Science in Boston, Massachusetts

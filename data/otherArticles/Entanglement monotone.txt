@@ -1,0 +1,446 @@
+In quantum information and quantum computation, an entanglement monotone is a function that quantifies the amount of entanglement present in a quantum state. Any entanglement monotone is a nonnegative function whose value does not increase under local operations and classical communication.
+
+Definition
+Let 
+  
+    
+      
+        
+          
+            S
+          
+        
+        (
+        
+          
+            
+              H
+            
+          
+          
+            A
+          
+        
+        ⊗
+        
+          
+            
+              H
+            
+          
+          
+            B
+          
+        
+        )
+      
+    
+    {\displaystyle {\mathcal {S}}({\mathcal {H}}_{A}\otimes {\mathcal {H}}_{B})}
+  be the space of all states, i.e., Hermitian positive semi-definite operators with trace one, over the bipartite Hilbert space 
+  
+    
+      
+        
+          
+            
+              H
+            
+          
+          
+            A
+          
+        
+        ⊗
+        
+          
+            
+              H
+            
+          
+          
+            B
+          
+        
+      
+    
+    {\displaystyle {\mathcal {H}}_{A}\otimes {\mathcal {H}}_{B}}
+  . An entanglement measure is a function 
+  
+    
+      
+        μ
+        :
+        
+          
+            
+              
+                S
+              
+            
+            (
+            
+              
+                
+                  H
+                
+              
+              
+                A
+              
+            
+            ⊗
+            
+              
+                
+                  H
+                
+              
+              
+                B
+              
+            
+            )
+          
+        
+        →
+        
+          
+            R
+          
+          
+            ≥
+            0
+          
+        
+      
+    
+    {\displaystyle \mu :{\displaystyle {\mathcal {S}}({\mathcal {H}}_{A}\otimes {\mathcal {H}}_{B})}\to \mathbb {R} _{\geq 0}}
+  such that:
+
+  
+    
+      
+        μ
+        (
+        ρ
+        )
+        =
+        0
+      
+    
+    {\displaystyle \mu (\rho )=0}
+   if 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   is separable;
+Monotonically decreasing under LOCC, viz., for the Kraus operator 
+  
+    
+      
+        
+          E
+          
+            i
+          
+        
+        ⊗
+        
+          F
+          
+            i
+          
+        
+      
+    
+    {\displaystyle E_{i}\otimes F_{i}}
+   corresponding to the LOCC 
+  
+    
+      
+        
+          
+            
+              E
+            
+          
+          
+            L
+            O
+            C
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {E}}_{LOCC}}
+  , let 
+  
+    
+      
+        
+          p
+          
+            i
+          
+        
+        =
+        
+          T
+          r
+        
+        [
+        (
+        
+          E
+          
+            i
+          
+        
+        ⊗
+        
+          F
+          
+            i
+          
+        
+        )
+        ρ
+        (
+        
+          E
+          
+            i
+          
+        
+        ⊗
+        
+          F
+          
+            i
+          
+        
+        
+          )
+          
+            †
+          
+        
+        ]
+      
+    
+    {\displaystyle p_{i}=\mathrm {Tr} [(E_{i}\otimes F_{i})\rho (E_{i}\otimes F_{i})^{\dagger }]}
+   and 
+  
+    
+      
+        
+          ρ
+          
+            i
+          
+        
+        =
+        (
+        
+          E
+          
+            i
+          
+        
+        ⊗
+        
+          F
+          
+            i
+          
+        
+        )
+        ρ
+        (
+        
+          E
+          
+            i
+          
+        
+        ⊗
+        
+          F
+          
+            i
+          
+        
+        
+          )
+          
+            †
+          
+        
+        
+          /
+        
+        
+          T
+          r
+        
+        [
+        (
+        
+          E
+          
+            i
+          
+        
+        ⊗
+        
+          F
+          
+            i
+          
+        
+        )
+        ρ
+        (
+        
+          E
+          
+            i
+          
+        
+        ⊗
+        
+          F
+          
+            i
+          
+        
+        
+          )
+          
+            †
+          
+        
+        ]
+      
+    
+    {\displaystyle \rho _{i}=(E_{i}\otimes F_{i})\rho (E_{i}\otimes F_{i})^{\dagger }/\mathrm {Tr} [(E_{i}\otimes F_{i})\rho (E_{i}\otimes F_{i})^{\dagger }]}
+  for a given state 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+  , then (i) 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+   does not increase under the average over all outcomes, 
+  
+    
+      
+        μ
+        (
+        ρ
+        )
+        ≥
+        
+          ∑
+          
+            i
+          
+        
+        
+          p
+          
+            i
+          
+        
+        μ
+        (
+        
+          ρ
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle \mu (\rho )\geq \sum _{i}p_{i}\mu (\rho _{i})}
+   and (ii) 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+   does not increase if the outcomes are all discarded, 
+  
+    
+      
+        μ
+        (
+        ρ
+        )
+        ≥
+        
+          ∑
+          
+            i
+          
+        
+        μ
+        (
+        
+          p
+          
+            i
+          
+        
+        
+          ρ
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle \mu (\rho )\geq \sum _{i}\mu (p_{i}\rho _{i})}
+  .Some authors also add the condition that 
+  
+    
+      
+        μ
+        (
+        ϱ
+        )
+        =
+        1
+      
+    
+    {\displaystyle \mu (\varrho )=1}
+   over the maximally entangled state 
+  
+    
+      
+        ϱ
+      
+    
+    {\displaystyle \varrho }
+  . If the nonnegative function only satisfies condition 2 of the above, then it is called an entanglement monotone.
+
+
+== References ==

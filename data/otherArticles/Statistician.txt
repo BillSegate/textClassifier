@@ -1,0 +1,19 @@
+A statistician is a person who works with theoretical or applied statistics. The profession exists in both the private and public sectors. 
+It is common to combine statistical knowledge with expertise in other subjects, and statisticians may work as employees or as statistical consultants.
+
+Nature of the work
+According to the United States Bureau of Labor Statistics, as of 2014, 26,970 jobs were classified as statistician in the United States. Of these people, approximately 30 percent worked for governments (federal, state, or local). As of October 2021, the median pay for statisticians in the United States was $92,270.Additionally, there is a substantial number of people who use statistics and data analysis in their work but have job titles other than statistician, such as actuaries, applied mathematicians, economists, data scientists, data analysts (predictive analytics), financial analysts, psychometricians, sociologists, epidemiologists, and quantitative psychologists. Statisticians are included with the professions in various national and international occupational classifications.In many countries, including the United States, employment in the field requires either a master's degree in statistics or a related field or a PhD.According to one industry professional, "Typical work includes collaborating with scientists, providing mathematical modeling, simulations, designing randomized experiments and randomized sampling plans, analyzing experimental or survey results, and forecasting future events (such as sales of a product)."According to the BLS, "Overall employment is projected to grow 33% from 2016 to 2026, much faster than average for all occupations. Businesses will need these workers to analyze the increasing volume of digital and electronic data." In October 2021, the CNBC rated it the fastest growing job in science and technology of the next decade, with a projected growth rate of 35.40%.
+
+See also
+List of statisticians
+History of statistics
+Data science
+
+References
+External links
+
+Statistician entry, Occupational Outlook Handbook, U.S. Bureau of Labor Statistics
+Careers Center, American Statistical Association
+Careers information, Royal Statistical Society (UK)
+Listing of tasks and duties - The International Standard Classification of Occupations (ISCO)
+Listings of nature of work etc - O*NET

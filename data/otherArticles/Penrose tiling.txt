@@ -1,0 +1,585 @@
+A Penrose tiling is an example of an aperiodic tiling. Here, a tiling is a covering of the plane by non-overlapping polygons or other shapes, and a tiling is aperiodic if it does not contain arbitrarily large periodic regions or patches. However, despite their lack of translational symmetry, Penrose tilings may have both reflection symmetry and fivefold rotational symmetry. Penrose tilings are named after mathematician and physicist Roger Penrose, who investigated them in the 1970s.
+There are several different variations of Penrose tilings with different tile shapes. The original form of Penrose tiling used tiles of four different shapes, but this was later reduced to only two shapes: either two different rhombi, or two different quadrilaterals called kites and darts. The Penrose tilings are obtained by constraining the ways in which these shapes are allowed to fit together in a way that avoids periodic tiling. This may be done in several different ways, including matching rules, substitution tiling or finite subdivision rules, cut and project schemes, and coverings. Even constrained in this manner, each variation yields infinitely many different Penrose tilings.
+
+Penrose tilings are self-similar: they may be converted to equivalent Penrose tilings with different sizes of tiles, using processes called inflation and deflation. The pattern represented by every finite patch of tiles in a Penrose tiling occurs infinitely many times throughout the tiling. They are quasicrystals: implemented as a physical structure a Penrose tiling will produce diffraction patterns with Bragg peaks and five-fold symmetry, revealing the repeated patterns and fixed orientations of its tiles. The study of these tilings has been important in the understanding of physical materials that also form quasicrystals. Penrose tilings have also been applied in architecture and decoration, as in the floor tiling shown.
+
+Background and history
+Periodic and aperiodic tilings
+Covering a flat surface ("the plane") with some pattern of geometric shapes ("tiles"), with no overlaps or gaps, is called a tiling. The most familiar tilings, such as covering a floor with squares meeting edge-to-edge, are examples of periodic tilings. If a square tiling is shifted by the width of a tile, parallel to the sides of the tile, the result is the same pattern of tiles as before the shift. A shift (formally, a translation) that preserves the tiling in this way is called a period of the tiling. A tiling is called periodic when it has periods that shift the tiling in two different directions.The tiles in the square tiling have only one shape, and it is common for other tilings to have only a finite number of shapes. These shapes are called prototiles, and a set of prototiles is said to admit a tiling or tile the plane if there is a tiling of the plane using only these shapes. That is, each tile in the tiling must be congruent to one of these prototiles.A tiling that has no periods is non-periodic.  A set of prototiles is said to be aperiodic if all of its tilings are non-periodic, and in this case its tilings are also called aperiodic tilings. Penrose tilings are among the simplest known examples of aperiodic tilings of the plane by finite sets of prototiles.
+
+Earliest aperiodic tilings
+The subject of aperiodic tilings received new interest in the 1960s when logician Hao Wang noted connections between decision problems and tilings. In particular, he introduced tilings by square plates with colored edges, now known as Wang dominoes or tiles, and posed the "Domino Problem": to determine whether a given set of Wang dominoes could tile the plane with matching colors on adjacent domino edges. He observed that if this problem were undecidable, then there would have to exist an aperiodic set of Wang dominoes. At the time, this seemed implausible, so Wang conjectured no such set could exist.
+
+Wang's student Robert Berger proved that the Domino Problem was undecidable (so Wang's conjecture was incorrect) in his 1964 thesis, and obtained an aperiodic set of 20,426 Wang dominoes. He also described a reduction to 104 such prototiles; the latter did not appear in his published monograph, but in 1968, Donald Knuth detailed a modification of Berger's set requiring only 92 dominoes.The color matching required in a tiling by Wang dominoes can easily be achieved by modifying the edges of the tiles like jigsaw puzzle pieces so that they can fit together only as prescribed by the edge colorings. Raphael Robinson, in a 1971 paper which simplified Berger's techniques and undecidability proof, used this technique to obtain an aperiodic set of just six prototiles.
+
+Development of the Penrose tilings
+The first Penrose tiling (tiling P1 below) is an aperiodic set of six prototiles, introduced by Roger Penrose in a 1974 paper, based on pentagons rather than squares. Any attempt to tile the plane with regular pentagons necessarily leaves gaps, but Johannes Kepler showed, in his 1619 work Harmonices Mundi, that these gaps can be filled using pentagrams (star polygons), decagons and related shapes. Kepler extended this tiling by five polygons and found no periodic patterns, and already conjectured that every extension would introduce a new feature hence creating an aperiodic tiling. Traces of these ideas can also be found in the work of Albrecht Dürer. Acknowledging inspiration from Kepler, Penrose found matching rules for these shapes, obtaining an aperiodic set. These matching rules can be imposed by decorations of the edges, as with the Wang tiles. Penrose's tiling can be viewed as a completion of Kepler's finite Aa pattern.
+Penrose subsequently reduced the number of prototiles to two, discovering the kite and dart tiling (tiling P2 below) and the rhombus tiling (tiling P3 below). The rhombus tiling was independently discovered by Robert Ammann in 1976. Penrose and John H. Conway investigated the properties of Penrose tilings, and discovered that a substitution property explained their hierarchical nature; their findings were publicized by Martin Gardner in his January 1977 "Mathematical Games" column in Scientific American.In 1981, N. G. de Bruijn provided two different methods to construct Penrose tilings. De Bruijn's "multigrid method" obtains the Penrose tilings as the dual graphs of arrangements of five families of parallel lines. In his "cut and project method", Penrose tilings are obtained as two-dimensional projections from a five-dimensional cubic structure. In these approaches, the Penrose tiling is viewed as a set of points, its vertices, while the tiles are geometrical shapes obtained by connecting vertices with edges.
+
+Penrose tilings
+The three types of Penrose tiling, P1–P3, are described individually below. They have many common features: in each case, the tiles are constructed from shapes related to the pentagon (and hence to the golden ratio), but the basic tile shapes need to be supplemented by matching rules in order to tile aperiodically. These rules may be described using labeled vertices or edges, or patterns on the tile faces; alternatively, the edge profile can be modified (e.g. by indentations and protrusions) to obtain an aperiodic set of prototiles.
+
+Original pentagonal Penrose tiling (P1)
+Penrose's first tiling uses pentagons and three other shapes: a five-pointed "star" (a pentagram), a "boat" (roughly 3/5 of a star) and a "diamond" (a thin rhombus). To ensure that all tilings are non-periodic, there are matching rules that specify how tiles may meet each other, and there are three different types of matching rule for the pentagonal tiles. Treating these three types as different prototiles gives a set of six prototiles overall. It is common to indicate the three different types of pentagonal tiles using three different colors, as in the figure above right.
+
+Kite and dart tiling (P2)
+Penrose's second tiling uses quadrilaterals called the "kite" and "dart", which may be combined to make a rhombus. However, the matching rules prohibit such a combination. Both the kite and dart are composed of two triangles, called Robinson triangles, after 1975 notes by Robinson.
+
+The kite is a quadrilateral whose four interior angles are 72, 72, 72, and 144 degrees. The kite may be bisected along its axis of symmetry to form a pair of acute Robinson triangles (with angles of 36, 72 and 72 degrees).
+The dart is a non-convex quadrilateral whose four interior angles are 36, 72, 36, and 216 degrees. The dart may be bisected along its axis of symmetry to form a pair of obtuse Robinson triangles (with angles of 36, 36 and 108 degrees), which are smaller than the acute triangles.The matching rules can be described in several ways. One approach is to color the vertices (with two colors, e.g., black and white) and require that adjacent tiles have matching vertices. Another is to use a pattern of circular arcs (as shown above left in green and red) to constrain the placement of tiles: when two tiles share an edge in a tiling, the patterns must match at these edges.These rules often force the placement of certain tiles: for example, the concave vertex of any dart is necessarily filled by two kites. The corresponding figure (center of the top row in the lower image on the left) is called an "ace" by Conway; although it looks like an enlarged kite, it does not tile in the same way. Similarly the concave vertex formed when two kites meet along a short edge is necessarily filled by two darts (bottom right). In fact, there are only seven possible ways for the tiles to meet at a vertex; two of these figures – namely, the "star" (top left) and the "sun" (top right) – have 5-fold dihedral symmetry (by rotations and reflections), while the remainder have a single axis of reflection (vertical in the image). Apart from the ace (top middle) and the sun, all of these vertex figures force the placement of additional tiles.
+
+Rhombus tiling (P3)
+The third tiling uses a pair of rhombuses (often referred to as "rhombs" in this context) with equal sides but different angles. Ordinary rhombus-shaped tiles can be used to tile the plane periodically, so restrictions must be made on how tiles can be assembled: no two tiles may form a parallelogram, as this would allow a periodic tiling, but this constraint is not sufficient to force aperiodicity, as figure 1 above shows.
+There are two kinds of tile, both of which can be decomposed into Robinson triangles.
+The thin rhomb t has four corners with angles of 36, 144, 36, and 144 degrees. The t rhomb may be bisected along its short diagonal to form a pair of acute Robinson triangles.
+The thick rhomb T has angles of 72, 108, 72, and 108 degrees. The T rhomb may be bisected along its long diagonal to form a pair of obtuse Robinson triangles; in contrast to the P2 tiling, these are larger than the acute triangles.The matching rules distinguish sides of the tiles, and entail that tiles may be juxtaposed in certain particular ways but not in others. Two ways to describe these matching rules are shown in the image on the right. In one form, tiles must be assembled such that the curves on the faces match in color and position across an edge. In the other, tiles must be assembled such that the bumps on their edges fit together.There are 54 cyclically ordered combinations of such angles that add up to 360 degrees at a vertex, but the rules of the tiling allow only seven of these combinations to appear (although one of these arises in two ways).The various combinations of angles and facial curvature allow construction of arbitrarily complex tiles, such as the Penrose chickens.
+
+Features and constructions
+Golden ratio and local pentagonal symmetry
+Several properties and common features of the Penrose tilings involve the golden ratio 
+  
+    
+      
+        φ
+        =
+        
+          
+            
+              1
+              +
+              
+                
+                  5
+                
+              
+            
+            2
+          
+        
+      
+    
+    {\displaystyle \varphi ={\frac {1+{\sqrt {5}}}{2}}}
+   (approximately 1.618). This is the ratio of chord lengths to side lengths in a regular pentagon, and satisfies φ = 1 + 1/φ.
+
+Consequently, the ratio of the lengths of long sides to short sides in the (isosceles) Robinson triangles is φ:1. It follows that the ratio of long side lengths to short in both kite and dart tiles is also φ:1, as are the length ratios of sides to the short diagonal in the thin rhomb t, and of long diagonal to sides in the thick rhomb T. In both the P2 and P3 tilings, the ratio of the area of the larger Robinson triangle to the smaller one is φ:1, hence so are the ratios of the areas of the kite to the dart, and of the thick rhomb to the thin rhomb. (Both larger and smaller obtuse Robinson triangles can be found in the pentagon on the left: the larger triangles at the top – the halves of the thick rhomb – have linear dimensions scaled up by φ compared to the small shaded triangle at the base, and so the ratio of areas is φ2:1.)
+Any Penrose tiling has local pentagonal symmetry, in the sense that there are points in the tiling surrounded by a symmetric configuration of tiles: such configurations have fivefold rotational symmetry about the center point, as well as five mirror lines of reflection symmetry passing through the point, a dihedral symmetry group. This symmetry will generally preserve only a patch of tiles around the center point, but the patch can be very large: Conway and Penrose proved that whenever the colored curves on the P2 or P3 tilings close in a loop, the region within the loop has pentagonal symmetry, and furthermore, in any tiling, there are at most two such curves of each color that do not close up.There can be at most one center point of global fivefold symmetry: if there were more than one, then rotating each about the other would yield two closer centers of fivefold symmetry, which leads to a mathematical contradiction. There are only two Penrose tilings (of each type) with global pentagonal symmetry: for the P2 tiling by kites and darts, the center point is either a "sun" or "star" vertex.
+
+Inflation and deflation
+Many of the common features of Penrose tilings follow from a hierarchical pentagonal structure given by substitution rules: this is often referred to as inflation and deflation, or composition and decomposition, of tilings or (collections of) tiles. The substitution rules decompose each tile into smaller tiles of the same shape as those used in the tiling (and thus allow larger tiles to be "composed" from smaller ones). This shows that the Penrose tiling has a scaling self-similarity, and so can be thought of as a fractal, using the same process as the pentaflake.Penrose originally discovered the P1 tiling in this way, by decomposing a pentagon into six smaller pentagons (one half of a net of a dodecahedron) and five half-diamonds; he then observed that when he repeated this process the gaps between pentagons could all be filled by stars, diamonds, boats and other pentagons. By iterating this process indefinitely he obtained one of the two P1 tilings with pentagonal symmetry.
+
+Robinson triangle decompositions
+The substitution method for both P2 and P3 tilings can be described using Robinson triangles of different sizes. The Robinson triangles arising in P2 tilings (by bisecting kites and darts) are called A-tiles, while those arising in the P3 tilings (by bisecting rhombs) are called B-tiles. The smaller A-tile, denoted AS, is an obtuse Robinson triangle, while the larger A-tile, AL, is acute; in contrast, a smaller B-tile, denoted BS, is an acute Robinson triangle, while the larger B-tile, BL, is obtuse.
+Concretely, if AS has side lengths (1, 1, φ), then AL has side lengths (φ, φ, 1). B-tiles can be related to such A-tiles in two ways:
+
+If BS has the same size as AL then BL is an enlarged version φAS of AS, with side lengths (φ, φ, φ2 = 1 + φ) – this decomposes into an AL tile and AS tile joined along a common side of length 1.
+If instead BL is identified with AS, then BS is a reduced version (1/φ)AL of AL with side lengths (1/φ,1/φ,1) – joining a BS tile and a BL tile along a common side of length 1 then yields (a decomposition of) an AL tile.In these decompositions, there appears to be an ambiguity: Robinson triangles may be decomposed in two ways, which are mirror images of each other in the (isosceles) axis of symmetry of the triangle. In a Penrose tiling, this choice is fixed by the matching rules. Furthermore, the matching rules also determine how the smaller triangles in the tiling compose to give larger ones.
+
+It follows that the P2 and P3 tilings are mutually locally derivable: a tiling by one set of tiles can be used to generate a tiling by another. For example, a tiling by kites and darts may be subdivided into A-tiles, and these can be composed in a canonical way to form B-tiles and hence rhombs. The P2 and P3 tilings are also both mutually locally derivable with the P1 tiling (see figure 2 above).The decomposition of B-tiles into A-tiles may be written
+
+BS = AL, BL = AL + AS(assuming the larger size convention for the B-tiles), which can be summarized in a substitution matrix equation:
+
+  
+    
+      
+        
+          
+            (
+            
+              
+                
+                  
+                    B
+                    
+                      L
+                    
+                  
+                
+              
+              
+                
+                  
+                    B
+                    
+                      S
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  1
+                
+                
+                  1
+                
+              
+              
+                
+                  1
+                
+                
+                  0
+                
+              
+            
+            )
+          
+        
+        
+          
+            (
+            
+              
+                
+                  
+                    A
+                    
+                      L
+                    
+                  
+                
+              
+              
+                
+                  
+                    A
+                    
+                      S
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        
+        .
+      
+    
+    {\displaystyle {\begin{pmatrix}B_{L}\\B_{S}\end{pmatrix}}={\begin{pmatrix}1&1\\1&0\end{pmatrix}}{\begin{pmatrix}A_{L}\\A_{S}\end{pmatrix}}\,.}
+  Combining this with the decomposition of enlarged φA-tiles into B-tiles yields the substitution
+
+  
+    
+      
+        
+          
+            (
+            
+              
+                
+                  φ
+                  
+                    A
+                    
+                      L
+                    
+                  
+                
+              
+              
+                
+                  φ
+                  
+                    A
+                    
+                      S
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  1
+                
+                
+                  1
+                
+              
+              
+                
+                  1
+                
+                
+                  0
+                
+              
+            
+            )
+          
+        
+        
+          
+            (
+            
+              
+                
+                  
+                    B
+                    
+                      L
+                    
+                  
+                
+              
+              
+                
+                  
+                    B
+                    
+                      S
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  2
+                
+                
+                  1
+                
+              
+              
+                
+                  1
+                
+                
+                  1
+                
+              
+            
+            )
+          
+        
+        
+          
+            (
+            
+              
+                
+                  
+                    A
+                    
+                      L
+                    
+                  
+                
+              
+              
+                
+                  
+                    A
+                    
+                      S
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle {\begin{pmatrix}\varphi A_{L}\\\varphi A_{S}\end{pmatrix}}={\begin{pmatrix}1&1\\1&0\end{pmatrix}}{\begin{pmatrix}B_{L}\\B_{S}\end{pmatrix}}={\begin{pmatrix}2&1\\1&1\end{pmatrix}}{\begin{pmatrix}A_{L}\\A_{S}\end{pmatrix}}\,,}
+  so that the enlarged tile φAL decomposes into two AL tiles and one AS tiles. The matching rules force a particular substitution: the two AL tiles in a φAL tile must form a kite, and thus a kite decomposes into two kites and a two half-darts, and a dart decomposes into a kite and two half-darts. Enlarged φB-tiles decompose into B-tiles in a similar way (via φA-tiles).
+Composition and decomposition can be iterated, so that, for example
+
+  
+    
+      
+        
+          φ
+          
+            n
+          
+        
+        
+          
+            (
+            
+              
+                
+                  
+                    A
+                    
+                      L
+                    
+                  
+                
+              
+              
+                
+                  
+                    A
+                    
+                      S
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        =
+        
+          
+            
+              (
+              
+                
+                  
+                    2
+                  
+                  
+                    1
+                  
+                
+                
+                  
+                    1
+                  
+                  
+                    1
+                  
+                
+              
+              )
+            
+          
+          
+            n
+          
+        
+        
+          
+            (
+            
+              
+                
+                  
+                    A
+                    
+                      L
+                    
+                  
+                
+              
+              
+                
+                  
+                    A
+                    
+                      S
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \varphi ^{n}{\begin{pmatrix}A_{L}\\A_{S}\end{pmatrix}}={\begin{pmatrix}2&1\\1&1\end{pmatrix}}^{n}{\begin{pmatrix}A_{L}\\A_{S}\end{pmatrix}}\,.}
+  The number of kites and darts in the nth iteration of the construction is determined by the nth power of the substitution matrix:
+
+  
+    
+      
+        
+          
+            
+              (
+              
+                
+                  
+                    2
+                  
+                  
+                    1
+                  
+                
+                
+                  
+                    1
+                  
+                  
+                    1
+                  
+                
+              
+              )
+            
+          
+          
+            n
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    F
+                    
+                      2
+                      n
+                      +
+                      1
+                    
+                  
+                
+                
+                  
+                    F
+                    
+                      2
+                      n
+                    
+                  
+                
+              
+              
+                
+                  
+                    F
+                    
+                      2
+                      n
+                    
+                  
+                
+                
+                  
+                    F
+                    
+                      2
+                      n
+                      −
+                      1
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle {\begin{pmatrix}2&1\\1&1\end{pmatrix}}^{n}={\begin{pmatrix}F_{2n+1}&F_{2n}\\F_{2n}&F_{2n-1}\end{pmatrix}}\,,}
+  where Fn is the nth Fibonacci number. The ratio of numbers of kites to darts in any sufficiently large P2 Penrose tiling pattern therefore approximates to the golden ratio φ. A similar result holds for the ratio of the number of thick rhombs to thin rhombs in the P3 Penrose tiling.
+
+Deflation for P2 and P3 tilings
+Starting with a collection of tiles from a given tiling (which might be a single tile, a tiling of the plane, or any other collection), deflation proceeds with a sequence of steps called generations. In one generation of deflation, each tile is replaced with two or more new tiles that are scaled-down versions of tiles used in the original tiling. The substitution rules guarantee that the new tiles will be arranged in accordance with the matching rules. Repeated generations of deflation produce a tiling of the original axiom shape with smaller and smaller tiles. 
+This rule for dividing the tiles is a subdivision rule.
+
+The above table should be used with caution. The half kite and half dart deflation are useful only in the context of deflating a larger pattern as shown in the sun and star deflations. They give incorrect results if applied to single kites and darts.
+In addition, the simple subdivision rule generates holes near the edges of the tiling which are just visible in the top and bottom illustrations on the right. Additional forcing rules are useful.
+
+Consequences and applications
+Inflation and deflation yield a method for constructing kite and dart (P2) tilings, or rhombus (P3) tilings, known as up-down generation.The Penrose tilings, being non-periodic, have no translational symmetry – the pattern cannot be shifted to match itself over the entire plane. However, any bounded region, no matter how large, will be repeated an infinite number of times within the tiling. Therefore, no finite patch can uniquely determine a full Penrose tiling, nor even determine which position within the tiling is being shown.This shows in particular that the number of distinct Penrose tilings (of any type) is uncountably infinite. Up-down generation yields one method to parameterize the tilings, but other methods use Ammann bars, pentagrids, or cut and project schemes.
+
+Related tilings and topics
+Decagonal coverings and quasicrystals
+In 1996, German mathematician Petra Gummelt demonstrated that a covering (so called to distinguish it from a non-overlapping tiling) equivalent to the Penrose tiling can be constructed using a single decagonal tile if two kinds of overlapping regions are allowed. The decagonal tile is decorated with colored patches, and the covering rule allows only those overlaps compatible with the coloring. A suitable decomposition of the decagonal tile into kites and darts transforms such a covering into a Penrose (P2) tiling. Similarly, a P3 tiling can be obtained by inscribing a thick rhomb into each decagon; the remaining space is filled by thin rhombs.
+These coverings have been considered as a realistic model for the growth of quasicrystals: the overlapping decagons are 'quasi-unit cells' analogous to the unit cells from which crystals are constructed, and the matching rules maximize the density of certain atomic clusters. The aperiodic nature of the coverings can make theoretical studies of physical properties, such as electronic structure, difficult due to the absence of Bloch's theorem. However, spectra of quasicrystals can still be computed with error control.
+
+Related tilings
+The three variants of the Penrose tiling are mutually locally derivable. Selecting some subsets from the vertices of a P1 tiling allows to produce other non-periodic tilings. If the corners of one pentagon in P1 are labeled in succession by 1,3,5,2,4 an unambiguous tagging in all the pentagons is established, the order being either clockwise or counterclockwise.
+Points with the same label define a tiling by Robinson triangles while points with the numbers 3 and 4 on them define the vertices of a Tie-and-Navette tiling.
+There are also other related unequivalent tilings, such as the hexagon-boat-star and Mikulla–Roth tilings. For instance, if the matching rules for the rhombus tiling are reduced to a specific restriction on the angles permitted at each vertex, a binary tiling is obtained. Its underlying symmetry is also fivefold but it is not a quasicrystal. It can be obtained either by decorating the rhombs of the original tiling with smaller ones, or by applying substitution rules, but not by de Bruijn's cut-and-project method.
+
+Art and architecture
+The aesthetic value of tilings has long been appreciated, and remains a source of interest in them; hence the visual appearance (rather than the formal defining properties) of Penrose tilings has attracted attention. The similarity with certain decorative patterns used in North Africa and the Middle East has been noted; the physicists Peter J. Lu and Paul Steinhardt have presented evidence that a Penrose tiling underlies examples of medieval Islamic geometric patterns, such as the girih (strapwork) tilings at the Darb-e Imam shrine in Isfahan.Drop City artist Clark Richert used Penrose rhombs in artwork in 1970, derived by projecting the rhombic triacontahedron shadow onto a plane observing the embedded "fat" rhombi and "skinny" rhombi which tile together to produce the non-periodic tessellation. Art historian Martin Kemp has observed that Albrecht Dürer sketched similar motifs of a rhombus tiling.In 1979, Miami University used a Penrose tiling executed in terrazzo to decorate the Bachelor Hall courtyard in their Department of Mathematics and Statistics.In Indian Institute of Information Technology, Allahabad, since the first phase of construction in 2001, academic buildings were designed on the basis of "Penrose Geometry", styled on tessellations developed by Roger Penrose. In many places in those buildings, the floor has geometric patterns composed of Penrose tiling.The floor of the atrium of the Bayliss Building at The University of Western Australia is tiled with Penrose tiles.The Andrew Wiles Building, the location of the Mathematics Department at the University of Oxford as of October 2013, includes a section of Penrose tiling as the paving of its entrance.The pedestrian part of the street Keskuskatu in central Helsinki is paved using a form of Penrose tiling. The work was finished in 2014.San Francisco's 2018 Transbay Transit Center features perforations in its exterior's undulating white metal skin in the Penrose pattern.
+
+See also
+Girih tiles
+List of aperiodic sets of tiles
+Pinwheel tiling
+Pentagonal tiling
+Quaquaversal tiling
+
+Notes
+References
+Primary sources
+Berger, R. (1966). The undecidability of the domino problem. Memoirs of the American Mathematical Society. Vol. 66. ISBN 9780821812662..
+de Bruijn, N. G. (1981). "Algebraic theory of Penrose's non-periodic tilings of the plane, I, II" (PDF). Indagationes Mathematicae. 43 (1): 39–66. doi:10.1016/1385-7258(81)90017-2..
+Gummelt, Petra (1996). "Penrose tilings as coverings of congruent decagons". Geometriae Dedicata. 62 (1): 1–17. doi:10.1007/BF00239998. MR 1400977. Zbl 0893.52011.
+Penrose, Roger (1974). "The role of aesthetics in pure and applied mathematical research". Bulletin of the Institute of Mathematics and Its Applications. 10: 266ff..
+US 4133152, Penrose, Roger, "Set of tiles for covering a surface", published 1979-01-09 .
+Robinson, R.M. (1971). "Undecidability and non-periodicity for tilings of the plane". Inventiones Mathematicae. 12 (3): 177–190. Bibcode:1971InMat..12..177R. doi:10.1007/BF01418780. S2CID 14259496..
+Schechtman, D.; Blech, I.; Gratias, D.; Cahn, J.W. (1984). "Metallic Phase with long-range orientational order and no translational symmetry". Physical Review Letters. 53 (20): 1951–1953. Bibcode:1984PhRvL..53.1951S. doi:10.1103/PhysRevLett.53.1951.
+Wang, H. (1961). "Proving theorems by pattern recognition II". Bell System Technical Journal. 40: 1–42. doi:10.1002/j.1538-7305.1961.tb03975.x..
+
+Secondary sources
+Austin, David (2005a). "Penrose Tiles Talk Across Miles". Providence: American Mathematical Society..
+Austin, David (2005b). "Penrose Tilings Tied up in Ribbons". Providence: American Mathematical Society..
+Colbrook, Matthew; Roman, Bogdan; Hansen, Anders (2019). "How to Compute Spectra with Error Control". Physical Review Letters. 122 (25): 250201. Bibcode:2019PhRvL.122y0201C. doi:10.1103/PhysRevLett.122.250201. PMID 31347861. S2CID 198463498.
+Culik, Karel; Kari, Jarkko (1997). "On aperiodic sets of Wang tiles". Foundations of Computer Science. Lecture Notes in Computer Science. Vol. 1337. pp. 153–162. doi:10.1007/BFb0052084. ISBN 978-3-540-63746-2.
+Gardner, Martin (1997). Penrose Tiles to Trapdoor Ciphers. Cambridge University Press. ISBN 978-0-88385-521-8.. (First published by W. H. Freeman, New York (1989), ISBN 978-0-7167-1986-1.)
+Chapter 1 (pp. 1–18) is a reprint of Gardner, Martin (January 1977). "Extraordinary non-periodic tiling that enriches the theory of tiles". Scientific American. Vol. 236, no. 1. pp. 110–121. Bibcode:1977SciAm.236a.110G. doi:10.1038/scientificamerican0177-110..
+Godrèche, C; Lançon, F. (1992). "A simple example of a non-Pisot tiling with five-fold symmetry" (PDF). Journal de Physique I. 2 (2): 207–220. Bibcode:1992JPhy1...2..207G. doi:10.1051/jp1:1992134. S2CID 120168483..
+Grünbaum, Branko; Shephard, G. C. (1987). Tilings and Patterns. New York: W. H. Freeman. ISBN 978-0-7167-1193-3..
+Kemp, Martin (2005). "Science in culture: A trick of the tiles". Nature. 436 (7049): 332. Bibcode:2005Natur.436..332K. doi:10.1038/436332a..
+Lançon, Frédéric; Billard, Luc (1988). "Two-dimensional system with a quasi-crystalline ground state" (PDF). Journal de Physique. 49 (2): 249–256. CiteSeerX 10.1.1.700.3611. doi:10.1051/jphys:01988004902024900..
+Lord, E.A.; Ranganathan, S. (2001). "The Gummelt decagon as a 'quasi unit cell'" (PDF). Acta Crystallographica. A57 (5): 531–539. CiteSeerX 10.1.1.614.3786. doi:10.1107/S0108767301007504. PMID 11526302.
+Lu, Peter J.; Steinhardt, Paul J. (2007). "Decagonal and Quasi-crystalline Tilings in Medieval Islamic Architecture" (PDF). Science. 315 (5815): 1106–1110. Bibcode:2007Sci...315.1106L. doi:10.1126/science.1135491. PMID 17322056. S2CID 10374218..
+Luck, R. (2000). "Dürer-Kepler-Penrose: the development of pentagonal tilings". Materials Science and Engineering. 294 (6): 263–267. doi:10.1016/S0921-5093(00)01302-2..
+Makovicky, E. (1992). "800-year-old pentagonal tiling from Maragha, Iran, and the new varieties of aperiodic tiling it inspired". In I. Hargittai (ed.). Fivefold Symmetry. Singapore–London: World Scientific. pp. 67–86. ISBN 9789810206000..
+Penrose, Roger (1978). "Pentaplexity" (PDF). Eureka. Vol. 39. pp. 16–22.. (Page numbers cited here are from the reproduction as Penrose, R. (1979–80). "Pentaplexity: A class of non-periodic tilings of the plane". The Mathematical Intelligencer. 2: 32–37. doi:10.1007/BF03024384. S2CID 120305260..)
+Radin, Charles (April 1996). "Book Review: Quasicrystals and geometry" (PDF). Notices of the American Mathematical Society. 43 (4): 416–421.
+Senechal, Marjorie (1996). Quasicrystals and geometry. Cambridge University Press. ISBN 978-0-521-57541-6..
+Steinhardt, Paul J.; Jeong, Hyeong-Chai (1996). "A simpler approach to Penrose tiling with implications for quasicrystal formation". Nature. 382 (1 August): 431–433. Bibcode:1996Natur.382..431S. doi:10.1038/382431a0. S2CID 4354819..
+Zaslavskiĭ, G.M.; Sagdeev, Roal'd Z.; Usikov, D.A.; Chernikov, A.A. (1988). "Minimal chaos, stochastic web and structures of quasicrystal symmetry". Soviet Physics Uspekhi. 31 (10): 887–915. Bibcode:1988SvPhU..31..887Z. doi:10.1070/PU1988v031n10ABEH005632..
+
+External links
+
+Weisstein, Eric W. "Penrose Tiles". MathWorld.
+John Savard. "Penrose Tilings". quadibloc.com. Retrieved 28 November 2009.
+Eric Hwang. "Penrose Tiling". intendo.net. Retrieved 28 November 2009.
+F. Gähler; E. Harriss & D. Frettlöh. "Penrose Rhomb". Tilings Encyclopedia. Department of Mathematics, University of Bielefeld. Retrieved 28 November 2009.
+Kevin Brown. "On de Bruijn Grids and Tilings". mathpages.com. Retrieved 28 November 2009.
+David Eppstein. "Penrose Tiles". The Geometry Junkyard. ics.uci.edu/~eppstein. Retrieved 28 November 2009. This has a list of additional resources.
+William Chow. "Penrose tile in architecture". Retrieved 28 December 2009.
+"Penrose's tiles viewer".

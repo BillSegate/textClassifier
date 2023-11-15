@@ -1,0 +1,232 @@
+Legendre's constant is a mathematical constant occurring in a formula constructed by Adrien-Marie Legendre to approximate the behavior of the prime-counting function 
+  
+    
+      
+        π
+        (
+        x
+        )
+      
+    
+    {\displaystyle \pi (x)}
+  . The value that corresponds precisely to its asymptotic behavior is now known to be 1.
+Examination of available numerical data for known values of 
+  
+    
+      
+        π
+        (
+        x
+        )
+      
+    
+    {\displaystyle \pi (x)}
+   led Legendre to an approximating formula.
+Legendre constructed in 1808 the formula 
+
+  
+    
+      
+        π
+        (
+        x
+        )
+        ≈
+        
+          
+            x
+            
+              log
+              ⁡
+              (
+              x
+              )
+              −
+              B
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \pi (x)\approx {\frac {x}{\log(x)-B}},}
+  where 
+  
+    
+      
+        B
+        =
+        1.08366
+      
+    
+    {\displaystyle B=1.08366}
+   (OEIS: A228211), as giving an approximation of 
+  
+    
+      
+        π
+        (
+        x
+        )
+      
+    
+    {\displaystyle \pi (x)}
+   with a "very satisfying precision".Today, one defines the value of 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   such that
+
+  
+    
+      
+        π
+        (
+        x
+        )
+        ∼
+        
+          
+            x
+            
+              log
+              ⁡
+              (
+              x
+              )
+              −
+              B
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \pi (x)\sim {\frac {x}{\log(x)-B}},}
+  which is solved by putting
+
+  
+    
+      
+        B
+        =
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          (
+          
+            log
+            ⁡
+            (
+            n
+            )
+            −
+            
+              
+                n
+                
+                  π
+                  (
+                  n
+                  )
+                
+              
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle B=\lim _{n\to \infty }\left(\log(n)-{n \over \pi (n)}\right),}
+  provided that this limit exists.
+Not only is it now known that the limit exists, but also that its value is equal to 
+  
+    
+      
+        1
+        ,
+      
+    
+    {\displaystyle 1,}
+   somewhat less than Legendre's 
+  
+    
+      
+        1.08366.
+      
+    
+    {\displaystyle 1.08366.}
+   Regardless of its exact value, the existence of the limit 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   implies the prime number theorem.
+Pafnuty Chebyshev proved in 1849 that if the limit B exists, it must be equal to 1. An easier proof was given by Pintz in 1980.It is an immediate consequence of  the prime number theorem, under the precise form with an explicit estimate of the error term
+
+  
+    
+      
+        π
+        (
+        x
+        )
+        =
+        Li
+        ⁡
+        (
+        x
+        )
+        +
+        O
+        
+          (
+          
+            x
+            
+              e
+              
+                −
+                a
+                
+                  
+                    log
+                    ⁡
+                    x
+                  
+                
+              
+            
+          
+          )
+        
+        
+        
+          as 
+        
+        x
+        →
+        ∞
+      
+    
+    {\displaystyle \pi (x)=\operatorname {Li} (x)+O\left(xe^{-a{\sqrt {\log x}}}\right)\quad {\text{as }}x\to \infty }
+  (for some positive constant a, where O(…) is the big O notation), as proved in 1899 by Charles de La Vallée Poussin, that B indeed is equal to 1. (The prime number theorem had been proved in 1896, independently by Jacques Hadamard and La Vallée Poussin, but without any estimate of the involved error term).
+Being evaluated to such a simple number has made the term Legendre's constant mostly only of historical value, with it often (technically incorrectly) being used to refer to Legendre's first guess 1.08366... instead.
+
+References
+External links
+Weisstein, Eric W. "Legendre's constant". MathWorld.

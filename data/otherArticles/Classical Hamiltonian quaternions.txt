@@ -1,0 +1,1797 @@
+William Rowan Hamilton invented quaternions, a mathematical entity in 1843. This article describes Hamilton's original treatment of quaternions, using his notation and terms. Hamilton's treatment is more geometric than the modern approach, which emphasizes quaternions' algebraic properties. Mathematically, quaternions discussed differ from the modern definition only by the terminology which is used.
+
+Classical elements of a quaternion
+Hamilton defined a quaternion as the quotient of two directed lines in tridimensional space; or, more generally, as the quotient of two vectors.A quaternion can be represented as the sum of a scalar and a vector. It can also be represented as the product of its tensor and its versor.
+
+Scalar
+Hamilton invented the term scalars for the real numbers, because they span the "scale of progression from positive to negative infinity" or because they represent the "comparison of positions upon one common scale". Hamilton regarded ordinary scalar algebra as the science of pure time.
+
+Vector
+Hamilton defined a vector as "a right line ... having not only length but also direction". Hamilton derived the word vector from the Latin vehere, to carry.Hamilton conceived a vector as the "difference of its two extreme points." For Hamilton, a vector was always a three-dimensional entity, having three co-ordinates relative to any given co-ordinate system, including but not limited to both polar and rectangular systems. He therefore referred to vectors as "triplets".
+Hamilton defined addition of vectors in geometric terms, by placing the origin of the second vector at the end of the first. He went on to define vector subtraction.
+By adding a vector to itself multiple times, he defined multiplication of a vector by an integer, then extended this to division by an integer, and multiplication (and division) of a vector by a rational number. Finally, by taking limits, he defined the result of multiplying a vector α by any scalar x as a vector β with the same direction as α if x is positive; the opposite direction to α if x is negative; and a length that is |x| times the length of α.The quotient of two parallel or anti-parallel vectors is therefore a scalar with absolute value equal to the ratio of the lengths of the two vectors; the scalar is positive if the vectors are parallel and negative if they are anti-parallel.
+
+Unit vector
+A unit vector is a vector of length one.  Examples of unit vectors include i, j and k.
+
+Tensor
+Note: The use of the word tensor by Hamilton does not coincide with modern terminology. Hamilton's tensor is actually the absolute value on the quaternion algebra, which makes it a normed vector space.Hamilton defined tensor as a positive numerical quantity, or, more properly, signless number. A tensor can be thought of as a positive scalar. The "tensor" can be thought of as representing a "stretching factor."Hamilton introduced the term tensor in his first book, Lectures on Quaternions, based on lectures he gave shortly after his invention of the quaternions:
+
+it seems convenient to enlarge by definition the signification of the new word tensor, so as to render it capable of including also those other cases in which we operate on a line by diminishing instead of increasing its length ; and generally by altering that length in any definite ratio. We shall thus (as was hinted at the end of the article in question) have fractional and even incommensurable tensors, which will simply be numerical multipliers, and will all be positive or (to speak more properly) SignLess Numbers, that is, unclothed with the algebraic signs of positive and negative ; because, in the operation here considered, we abstract from the directions (as well as from the situations) of the lines which are compared or operated on.Each quaternion has a tensor, which is a measure of its magnitude (in the same way as the length of a vector is a measure of a vectors' magnitude). When a quaternion is defined as the quotient of two vectors, its tensor is the ratio of the lengths of these vectors.
+
+Versor
+A versor is a quaternion with a tensor of 1. Alternatively, a versor can be defined as the quotient of two equal-length vectors.In general a versor defines all of the following: a directional axis; the plane normal to that axis; and an angle of rotation.When a versor and a vector which lies in the plane of the versor are multiplied, the result is a new vector of the same length but turned by the angle of the versor.
+
+Vector arc
+Since every unit vector can be thought of as a point on a unit sphere, and since a versor can be thought of as the quotient of two vectors, a versor has a representative great circle arc, called a vector arc, connecting these two points, drawn from the divisor or lower part of quotient, to the dividend or upper part of the quotient.
+
+Right versor
+When the arc of a versor has the magnitude of a right angle, then it is called a right versor, a right radial or quadrantal versor.
+
+Degenerate forms
+There are two special degenerate versor cases, called the unit-scalars. These two scalars (negative and positive unity) can be thought of as scalar quaternions. These two scalars are special limiting cases, corresponding to versors with angles of either zero or π.
+Unlike other versors, these two cannot be represented by a unique arc. The arc of 1 is a single point, and –1 can be represented by an infinite number of arcs, because there are an infinite number of shortest lines between antipodal points of a sphere.
+
+Quaternion
+Every quaternion can be decomposed into a scalar and a vector.
+
+  
+    
+      
+        q
+        =
+        
+          S
+        
+        (
+        q
+        )
+        +
+        
+          V
+        
+        (
+        q
+        )
+      
+    
+    {\displaystyle q=\mathbf {S} (q)+\mathbf {V} (q)}
+  These two operations S and V are called "take the Scalar of" and "take the vector of" a quaternion. The vector part of a quaternion is also called the right part.Every quaternion is equal to a versor multiplied by the tensor of the quaternion. Denoting the versor of a quaternion by
+
+  
+    
+      
+        
+          U
+        
+        q
+      
+    
+    {\displaystyle \mathbf {U} q}
+  and the tensor of a quaternion by
+
+  
+    
+      
+        
+          T
+        
+        q
+      
+    
+    {\displaystyle \mathbf {T} q}
+  we have
+
+  
+    
+      
+        q
+        =
+        
+          T
+        
+        q
+        
+          U
+        
+        q
+      
+    
+    {\displaystyle q=\mathbf {T} q\mathbf {U} q}
+
+Right quaternion
+A right quaternion is a quaternion whose scalar component is zero,
+
+  
+    
+      
+        S
+        (
+        q
+        )
+        =
+        0
+      
+    
+    {\displaystyle S(q)=0}
+  The angle of a right quaternion is 90 degrees.  A right quaternion can also be thought of as a vector plus a zero scalar. Right quaternions may be put in what was called the standard trinomial form. For example, if Q is a right quaternion, it may be written as:
+
+  
+    
+      
+        Q
+        =
+        x
+        i
+        +
+        y
+        j
+        +
+        z
+        k
+      
+    
+    {\displaystyle Q=xi+yj+zk}
+
+Four operations
+Four operations are of fundamental importance in quaternion notation.
++ − ÷ ×In particular it is important to understand that there is a single operation of multiplication, a single operation of division, and a single operation each of addition and subtraction. This single multiplication operator can operate on any of the types of mathematical entities. Likewise every kind of entity  can be divided, added or subtracted from any other type of entity. Understanding the meaning of the subtraction symbol is critical in quaternion theory, because it leads to an understanding of the concept of a vector.
+
+Ordinal operators
+The two ordinal operations in classical quaternion notation were addition and subtraction or + and −.
+These marks are:
+"...characteristics of synthesis and analysis of a state of progression, according as this state is considered as being derived from, or compared with, some other state of that progression."
+
+Subtraction
+Subtraction is a type of analysis called ordinal analysis
+...let space be now regarded as the field of progression which is to be studied, and POINTS as states of that progression. ...I am led to regard the word "Minus," or the mark −, in geometry, as the sign or characteristic of analysis of one geometric position (in space), as compared with another (such) position. The comparison of one mathematical point with another with a view to the determination of what may be called their ordinal relation, or their relative position in space...
+The first example of subtraction is to take the point A to represent the earth, and the point B to represent the sun, then an arrow drawn from A to B represents the act of moving or vection from A to B.
+
+B − Athis represents the first example in Hamilton's lectures of a vector.  In this case the act of traveling from the earth to the sun.
+
+Addition
+Addition is a type of analysis called ordinal synthesis.
+
+Addition of vectors and scalars
+Vectors and scalars can be added. When a vector is added to a scalar, a completely different entity, a quaternion is created.
+A vector plus a scalar is always a quaternion even if the scalar is zero.  If the scalar added to the vector is zero then the new quaternion produced is called a right quaternion.  It has an angle characteristic of 90 degrees.
+
+Cardinal operations
+The two Cardinal operations in quaternion notation are geometric multiplication and geometric division and can be written:
+
+÷, ×It is not required to learn the following more advanced terms in order to use division and multiplication.
+Division is a kind of analysis called cardinal analysis. Multiplication is a kind of synthesis called cardinal synthesis
+
+Division
+Classically, the quaternion was viewed as the ratio of two vectors, sometimes called a geometric fraction.
+If OA and OB represent two vectors drawn from the origin O to two other points A and B, then the geometric fraction was written as
+
+  
+    
+      
+        O
+        A
+        :
+        O
+        B
+      
+    
+    {\displaystyle OA:OB}
+  Alternately if the two vectors are represented by α and β the quotient was written as
+
+  
+    
+      
+        α
+        ÷
+        β
+      
+    
+    {\displaystyle \alpha \div \beta }
+  or
+
+  
+    
+      
+        
+          
+            α
+            β
+          
+        
+      
+    
+    {\displaystyle {\frac {\alpha }{\beta }}}
+  Hamilton asserts: "The quotient of two vectors is generally a quaternion". Lectures on Quaternions also first introduces the concept of a quaternion as the quotient of two vectors:
+Logically and by definition,if 
+  
+    
+      
+        
+          
+            α
+            β
+          
+        
+        =
+        q
+      
+    
+    {\displaystyle {\frac {\alpha }{\beta }}=q}
+  
+then 
+  
+    
+      
+        
+          q
+        
+        ×
+        
+          β
+        
+        =
+        α
+        .
+      
+    
+    {\displaystyle {q}\times {\beta }=\alpha .}
+  .
+In Hamilton's calculus the product is not commutative, i.e., the order of the variables is of great importance. If the order of q and β were to be reversed the result would not in general be α. The quaternion q can be thought of as an operator that changes β into α, by first rotating it, formerly an act of version and then changing the length of it, formerly called an act of tension.
+Also by definition the quotient of two vectors is equal to the numerator times the reciprocal of the denominator. Since multiplication of vectors is not commutative, the order cannot be changed in the following expression.
+
+  
+    
+      
+        
+          
+            α
+            β
+          
+        
+        =
+        
+        
+          α
+        
+        ×
+        
+          
+            1
+            β
+          
+        
+      
+    
+    {\displaystyle {\frac {\alpha }{\beta }}=\,{\alpha }\times {\frac {1}{\beta }}}
+  Again the order of the two quantities on the right hand side  is significant.
+Hardy presents the definition of division in terms of mnemonic cancellation rules. "Canceling being performed by an upward right hand stroke".If alpha and beta are vectors and q is a quaternion such that
+
+  
+    
+      
+        
+          
+            α
+            β
+          
+        
+        =
+        q
+      
+    
+    {\displaystyle {\frac {\alpha }{\beta }}=q}
+  then 
+  
+    
+      
+        α
+        
+          β
+          
+            −
+            1
+          
+        
+        =
+        q
+      
+    
+    {\displaystyle \alpha \beta ^{-1}=q}
+  
+and 
+  
+    
+      
+        
+          
+            α
+            β
+          
+        
+        .
+        β
+        =
+        α
+        
+          β
+          
+            −
+            1
+          
+        
+        .
+        β
+        =
+        α
+      
+    
+    {\displaystyle {\frac {\alpha }{\beta }}.\beta =\alpha \beta ^{-1}.\beta =\alpha }
+  
+
+  
+    
+      
+        ×
+      
+    
+    {\displaystyle \times }
+   and 
+  
+    
+      
+        ÷
+      
+    
+    {\displaystyle \div }
+   are inverse operations, such that:
+  
+    
+      
+        β
+        ÷
+        α
+        ×
+        α
+        =
+        β
+      
+    
+    {\displaystyle \beta \div \alpha \times \alpha =\beta }
+   and 
+  
+    
+      
+        q
+        ×
+        α
+        ÷
+        α
+        =
+        q
+      
+    
+    {\displaystyle q\times \alpha \div \alpha =q}
+  and
+
+  
+    
+      
+        γ
+        =
+        (
+        γ
+        ÷
+        β
+        )
+        ×
+        (
+        β
+        ÷
+        α
+        )
+        ×
+        α
+      
+    
+    {\displaystyle \gamma =(\gamma \div \beta )\times (\beta \div \alpha )\times \alpha }
+  An important way to think of q is as an operator that changes β into α, by first rotating it (version) and then changing its length (tension).
+
+  
+    
+      
+        γ
+        ÷
+        α
+        =
+        (
+        γ
+        ÷
+        β
+        )
+        ×
+        (
+        β
+        ÷
+        α
+        )
+      
+    
+    {\displaystyle \gamma \div \alpha =(\gamma \div \beta )\times (\beta \div \alpha )}
+
+Division of the unit vectors i, j, k
+The results of using the division operator on i, j, and k was as follows.
+The reciprocal of a unit vector is the vector reversed.
+
+  
+    
+      
+        
+          
+            1
+            i
+          
+        
+        =
+        
+          i
+          
+            −
+            1
+          
+        
+        =
+        −
+        i
+      
+    
+    {\displaystyle {\frac {1}{i}}=i^{-1}=-i}
+  Because a unit vector and its reciprocal are parallel to each other but point in opposite directions, the product of a unit vector and its reciprocal have a special case commutative property, for example if a is any unit vector then:
+
+  
+    
+      
+        
+          
+            1
+            a
+          
+        
+        a
+        =
+        (
+        −
+        a
+        )
+        a
+        =
+        1
+        =
+        a
+        (
+        −
+        a
+        )
+        =
+        a
+        
+          
+            1
+            a
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {1}{a}}a=(-a)a=1=a(-a)=a{\frac {1}{a}}.}
+  However, in the more general case involving more than one vector (whether or not it is a unit vector) the commutative property does not hold. For example:
+
+  
+    
+      
+        i
+        
+          
+            k
+            i
+          
+        
+      
+    
+    {\displaystyle i{\frac {k}{i}}}
+   ≠ 
+  
+    
+      
+        
+          
+            k
+            i
+          
+        
+        i
+        .
+      
+    
+    {\displaystyle {\frac {k}{i}}i.}
+  This is because k/i is carefully defined as:
+
+  
+    
+      
+        
+          
+            k
+            i
+          
+        
+        =
+        k
+        
+          
+            1
+            i
+          
+        
+        =
+        k
+        
+          i
+          
+            −
+            1
+          
+        
+        =
+        k
+        (
+        −
+        i
+        )
+        =
+        −
+        (
+        k
+        i
+        )
+        =
+        −
+        (
+        j
+        )
+        =
+        −
+        j
+      
+    
+    {\displaystyle {\frac {k}{i}}=k{\frac {1}{i}}=ki^{-1}=k(-i)=-(ki)=-(j)=-j}
+  .So that:
+
+  
+    
+      
+        i
+        
+          
+            k
+            i
+          
+        
+        =
+        i
+        (
+        −
+        j
+        )
+        =
+        −
+        k
+      
+    
+    {\displaystyle i{\frac {k}{i}}=i(-j)=-k}
+  ,however
+
+  
+    
+      
+        
+          
+            k
+            i
+          
+        
+        i
+        =
+        (
+        −
+        j
+        )
+        i
+        =
+        −
+        (
+        j
+        i
+        )
+        =
+        −
+        (
+        −
+        k
+        )
+        =
+        k
+      
+    
+    {\displaystyle {\frac {k}{i}}i=(-j)i=-(ji)=-(-k)=k}
+
+Division of two parallel vectors
+While in general the quotient of two vectors is a quaternion, If α and β are two parallel vectors then the quotient of these two vectors is a scalar. For example, if
+
+  
+    
+      
+        α
+        =
+        a
+        i
+      
+    
+    {\displaystyle \alpha =ai}
+  ,
+and 
+  
+    
+      
+        β
+        =
+        b
+        i
+      
+    
+    {\displaystyle \beta =bi}
+   then
+
+  
+    
+      
+        α
+        ÷
+        β
+        =
+        
+          
+            α
+            β
+          
+        
+        =
+        
+          
+            
+              a
+              i
+            
+            
+              b
+              i
+            
+          
+        
+        =
+        
+          
+            a
+            b
+          
+        
+      
+    
+    {\displaystyle \alpha \div \beta ={\frac {\alpha }{\beta }}={\frac {ai}{bi}}={\frac {a}{b}}}
+  Where a/b is a scalar.
+
+Division of two non-parallel vectors
+The quotient of two vectors is in general the quaternion:
+
+  
+    
+      
+        q
+        =
+        
+          
+            α
+            β
+          
+        
+      
+    
+    {\displaystyle q={\frac {\alpha }{\beta }}}
+  
+  
+    
+      
+        =
+        
+          
+            
+              T
+              α
+            
+            
+              T
+              β
+            
+          
+        
+        (
+        cos
+        ⁡
+        ϕ
+        +
+        ϵ
+        sin
+        ⁡
+        ϕ
+        )
+      
+    
+    {\displaystyle ={\frac {T\alpha }{T\beta }}(\cos \phi +\epsilon \sin \phi )}
+  Where α and β are two non-parallel vectors, φ is that angle between them, and ε is a unit vector perpendicular to the plane of the vectors α and β, with its direction given by the standard right hand rule.
+
+Multiplication
+Classical quaternion notation had only one concept of multiplication. Multiplication of two real numbers, two imaginary numbers or a real number by an imaginary number in the classical notation system was the same operation.
+Multiplication of a scalar and a vector was accomplished with the same single multiplication operator; multiplication of two vectors of quaternions used this same operation as did multiplication of a quaternion and a vector or of two quaternions.
+
+Factor, Faciend and Factum
+Factor × Faciend = FactumWhen two quantities are multiplied the first quantity is called the factor, the second quantity is called the faciend and the result is called the factum.
+
+Distributive
+In classical notation, multiplication was distributive. Understanding this makes it simple to see why the product of two vectors in classical notation produced a quaternion.
+
+  
+    
+      
+        q
+        =
+        (
+        a
+        i
+        +
+        b
+        j
+        +
+        c
+        k
+        )
+        ×
+        (
+        e
+        i
+        +
+        f
+        j
+        +
+        g
+        k
+        )
+      
+    
+    {\displaystyle q=(ai+bj+ck)\times (ei+fj+gk)}
+  
+  
+    
+      
+        q
+        =
+        a
+        e
+        (
+        
+          i
+        
+        ×
+        
+          i
+        
+        )
+        +
+        a
+        f
+        (
+        
+          i
+        
+        ×
+        
+          j
+        
+        )
+        +
+        a
+        g
+        (
+        
+          i
+        
+        ×
+        
+          k
+        
+        )
+        +
+        b
+        e
+        (
+        
+          j
+        
+        ×
+        
+          i
+        
+        )
+        +
+        b
+        f
+        (
+        
+          j
+        
+        ×
+        
+          j
+        
+        )
+        +
+        b
+        g
+        (
+        
+          j
+        
+        ×
+        
+          k
+        
+        )
+        +
+        c
+        e
+        (
+        
+          k
+        
+        ×
+        
+          i
+        
+        )
+        +
+        c
+        f
+        (
+        
+          k
+        
+        ×
+        
+          j
+        
+        )
+        +
+        c
+        g
+        (
+        
+          k
+        
+        ×
+        
+          k
+        
+        )
+      
+    
+    {\displaystyle q=ae({i}\times {i})+af({i}\times {j})+ag({i}\times {k})+be({j}\times {i})+bf({j}\times {j})+bg({j}\times {k})+ce({k}\times {i})+cf({k}\times {j})+cg({k}\times {k})}
+  Using the quaternion multiplication table we have:
+
+  
+    
+      
+        q
+        =
+        a
+        e
+        (
+        −
+        1
+        )
+        +
+        a
+        f
+        (
+        +
+        k
+        )
+        +
+        a
+        g
+        (
+        −
+        j
+        )
+        +
+        b
+        e
+        (
+        −
+        k
+        )
+        +
+        b
+        f
+        (
+        −
+        1
+        )
+        +
+        b
+        g
+        (
+        +
+        i
+        )
+        +
+        c
+        e
+        (
+        +
+        j
+        )
+        +
+        c
+        f
+        (
+        −
+        i
+        )
+        +
+        c
+        g
+        (
+        −
+        1
+        )
+      
+    
+    {\displaystyle q=ae(-1)+af(+k)+ag(-j)+be(-k)+bf(-1)+bg(+i)+ce(+j)+cf(-i)+cg(-1)}
+  Then collecting terms:
+
+  
+    
+      
+        q
+        =
+        −
+        a
+        e
+        −
+        b
+        f
+        −
+        c
+        g
+        +
+        (
+        b
+        g
+        −
+        c
+        f
+        )
+        i
+        +
+        (
+        c
+        e
+        −
+        a
+        g
+        )
+        j
+        +
+        (
+        a
+        f
+        −
+        b
+        e
+        )
+        k
+      
+    
+    {\displaystyle q=-ae-bf-cg+(bg-cf)i+(ce-ag)j+(af-be)k}
+  The first three terms are a scalar.
+Letting
+
+  
+    
+      
+        w
+        =
+        −
+        a
+        e
+        −
+        b
+        f
+        −
+        c
+        g
+      
+    
+    {\displaystyle w=-ae-bf-cg}
+  
+  
+    
+      
+        x
+        =
+        (
+        b
+        g
+        −
+        c
+        f
+        )
+      
+    
+    {\displaystyle x=(bg-cf)}
+  
+  
+    
+      
+        y
+        =
+        (
+        c
+        e
+        −
+        a
+        g
+        )
+      
+    
+    {\displaystyle y=(ce-ag)}
+  
+  
+    
+      
+        z
+        =
+        (
+        a
+        f
+        −
+        b
+        e
+        )
+      
+    
+    {\displaystyle z=(af-be)}
+  So that the product of two vectors is a quaternion, and can be written in the form:
+
+  
+    
+      
+        q
+        =
+        w
+        +
+        x
+        i
+        +
+        y
+        j
+        +
+        z
+        k
+      
+    
+    {\displaystyle q=w+xi+yj+zk}
+
+Product of two right quaternions
+The product of two right quaternions is generally a quaternion.
+Let α and β be the right quaternions that result from taking the vectors of two quaternions:
+
+  
+    
+      
+        α
+        =
+        
+          V
+        
+        p
+      
+    
+    {\displaystyle \alpha =\mathbf {V} p}
+  
+  
+    
+      
+        β
+        =
+        
+          V
+        
+        q
+      
+    
+    {\displaystyle \beta =\mathbf {V} q}
+  Their product in general is a new quaternion represented here by r. This product is not ambiguous because classical notation has only one product.
+
+  
+    
+      
+        r
+        =
+        
+        α
+        β
+        ;
+      
+    
+    {\displaystyle r=\,\alpha \beta ;}
+  Like all quaternions r may now be decomposed into its vector and scalar parts.
+
+  
+    
+      
+        r
+        =
+        
+          S
+        
+        r
+        +
+        
+          V
+        
+        r
+      
+    
+    {\displaystyle r=\mathbf {S} r+\mathbf {V} r}
+  The terms on the right are called scalar of the product, and the vector of the product of two right quaternions.
+
+Note: "Scalar of the product" corresponds to Euclidean scalar product of two vectors up to the change of sign (multiplication to −1).
+
+Other operators in detail
+Scalar and vector
+Two important operations in two the classical quaternion notation system were S(q) and V(q) which meant take the scalar part of, and take the imaginary part, what Hamilton called the vector part of the quaternion. Here S and V are operators acting on q. Parenthesis can be omitted in these kinds of expressions without ambiguity. Classical notation:
+
+  
+    
+      
+        q
+        =
+        
+        
+          S
+        
+        q
+        +
+        
+          V
+        
+        q
+      
+    
+    {\displaystyle q=\,\mathbf {S} q+\mathbf {V} q}
+  Here, q is a quaternion. Sq is the scalar of the quaternion while Vq is the vector of the quaternion.
+
+Conjugate
+K is the conjugate operator. The conjugate of a quaternion is a quaternion obtained by multiplying the vector part of the first quaternion by minus one.
+If
+
+  
+    
+      
+        q
+        =
+        
+        
+          S
+        
+        q
+        +
+        
+          V
+        
+        q
+      
+    
+    {\displaystyle q=\,\mathbf {S} q+\mathbf {V} q}
+  then
+
+  
+    
+      
+        
+          K
+        
+        q
+        =
+        
+          S
+        
+        
+        q
+        −
+        
+          V
+        
+        q
+      
+    
+    {\displaystyle \mathbf {K} q=\mathbf {S} \,q-\mathbf {V} q}
+  .The expression
+
+  
+    
+      
+        r
+        =
+        
+        
+          K
+        
+        q
+      
+    
+    {\displaystyle r=\,\mathbf {K} q}
+  ,means, assign the quaternion r the value of the conjugate of the quaternion q.
+
+Tensor
+T is the tensor operator. It returns a kind of number called a tensor.
+The tensor of a positive scalar is that scalar. The tensor of a negative scalar is the absolute value of the scalar (i.e., without the negative sign). For example:
+
+  
+    
+      
+        
+          T
+        
+        (
+        5
+        )
+        =
+        5
+      
+    
+    {\displaystyle \mathbf {T} (5)=5}
+  
+  
+    
+      
+        
+          T
+        
+        (
+        −
+        5
+        )
+        =
+        5
+      
+    
+    {\displaystyle \mathbf {T} (-5)=5}
+  The tensor of a vector is by definition the length of the vector. For example, if:
+
+  
+    
+      
+        α
+        =
+        x
+        i
+        +
+        y
+        j
+        +
+        z
+        k
+      
+    
+    {\displaystyle \alpha =xi+yj+zk}
+  Then
+
+  
+    
+      
+        
+          T
+        
+        α
+        =
+        
+          
+            
+              x
+              
+                2
+              
+            
+            +
+            
+              y
+              
+                2
+              
+            
+            +
+            
+              z
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {T} \alpha ={\sqrt {x^{2}+y^{2}+z^{2}}}}
+  The tensor of a unit vector is one.  Since the versor of a vector is a unit vector, the tensor of the versor of any vector is always equal to unity. Symbolically:
+
+  
+    
+      
+        
+          T
+          U
+        
+        α
+        =
+        1
+      
+    
+    {\displaystyle \mathbf {TU} \alpha =1}
+  A quaternion is by definition the quotient of two vectors and the tensor of a quaternion is by definition the quotient of the tensors of these two vectors. In symbols:
+
+  
+    
+      
+        q
+        =
+        
+          
+            α
+            β
+          
+        
+        .
+      
+    
+    {\displaystyle q={\frac {\alpha }{\beta }}.}
+  
+  
+    
+      
+        
+          T
+        
+        q
+        =
+        
+          
+            
+              
+                T
+              
+              α
+            
+            
+              
+                T
+              
+              β
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \mathbf {T} q={\frac {\mathbf {T} \alpha }{\mathbf {T} \beta }}.}
+  From this definition it can be shown that a useful formula for the tensor of a quaternion is:
+
+  
+    
+      
+        
+          T
+        
+        q
+        =
+        
+          
+            
+              w
+              
+                2
+              
+            
+            +
+            
+              x
+              
+                2
+              
+            
+            +
+            
+              y
+              
+                2
+              
+            
+            +
+            
+              z
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {T} q={\sqrt {w^{2}+x^{2}+y^{2}+z^{2}}}}
+  It can also be proven from this definition that another formula to obtain the tensor of a quaternion is from the common norm, defined as the product of a quaternion and its conjugate. The square root of the common norm of a quaternion is equal to its tensor.
+
+  
+    
+      
+        
+          T
+        
+        q
+        =
+        
+          
+            q
+            K
+            q
+          
+        
+      
+    
+    {\displaystyle \mathbf {T} q={\sqrt {qKq}}}
+  A useful identity is that the square of the tensor of a quaternion is equal to the tensor of the square of a quaternion, so that the parentheses may be omitted.
+
+  
+    
+      
+        (
+        
+          T
+        
+        q
+        
+          )
+          
+            2
+          
+        
+        =
+        
+          T
+        
+        (
+        
+          q
+          
+            2
+          
+        
+        )
+        =
+        
+          T
+        
+        
+          q
+          
+            2
+          
+        
+      
+    
+    {\displaystyle (\mathbf {T} q)^{2}=\mathbf {T} (q^{2})=\mathbf {T} q^{2}}
+  Also, the tensors of conjugate quaternions are equal.
+
+  
+    
+      
+        
+          T
+          K
+        
+        q
+        =
+        
+          T
+        
+        q
+      
+    
+    {\displaystyle \mathbf {TK} q=\mathbf {T} q}
+  The tensor of a quaternion is now called its norm.
+
+Axis and angle
+Taking the angle of a non-scalar quaternion, resulted in a value greater than zero and less than π.When a non-scalar quaternion is viewed as the quotient of two vectors, then the axis of the quaternion is a unit vector perpendicular to the plane of the two vectors in this original quotient, in a direction specified by the right hand rule. The angle is the angle between the two vectors.
+In symbols,
+
+  
+    
+      
+        u
+        =
+        A
+        x
+        .
+        q
+      
+    
+    {\displaystyle u=Ax.q}
+  
+  
+    
+      
+        θ
+        =
+        ∠
+        q
+      
+    
+    {\displaystyle \theta =\angle q}
+
+Reciprocal
+If
+
+  
+    
+      
+        q
+        =
+        
+          
+            α
+            β
+          
+        
+      
+    
+    {\displaystyle q={\frac {\alpha }{\beta }}}
+  then its reciprocal is defined as
+
+  
+    
+      
+        
+          
+            1
+            q
+          
+        
+        =
+        
+          q
+          
+            −
+            1
+          
+        
+        =
+        
+          
+            β
+            α
+          
+        
+      
+    
+    {\displaystyle {\frac {1}{q}}=q^{-1}={\frac {\beta }{\alpha }}}
+  
+The expression:
+
+  
+    
+      
+        
+          q
+        
+        ×
+        
+          α
+        
+        ×
+        
+          
+            1
+            q
+          
+        
+      
+    
+    {\displaystyle {q}\times {\alpha }\times {\frac {1}{q}}}
+  Reciprocals have many important applications, for example rotations, particularly when q is  a versor. A versor has an easy formula for its reciprocal.
+
+  
+    
+      
+        
+          
+            1
+            
+              (
+              
+                U
+              
+              q
+              )
+            
+          
+        
+        =
+        
+          S
+          .
+          U
+        
+        q
+        −
+        
+          V
+          .
+          U
+        
+        q
+        =
+        
+          K
+          .
+          U
+        
+        q
+      
+    
+    {\displaystyle {\frac {1}{(\mathbf {U} q)}}=\mathbf {S.U} q-\mathbf {V.U} q=\mathbf {K.U} q}
+  In words the reciprocal of a versor is equal to its conjugate. The dots between operators show the order of the operations, and also help to indicate that S and U for example, are two different operations rather than a single operation named SU.
+
+Common norm
+The product of a quaternion with its conjugate is its common norm.The operation of taking the common norm of a quaternion is represented with the letter N. By definition the common norm is the product of a quaternion with its conjugate. It can be proven that common norm is equal to the square of the tensor of a quaternion. However this proof does not constitute a definition. Hamilton gives exact, independent definitions of both the common norm and the tensor. This norm was adopted as suggested from the theory of numbers, however to quote Hamilton "they will not often be wanted". The tensor is generally of greater utility. The word norm does not appear in Lectures on Quaternions, and only twice in the table of contents of Elements of Quaternions.
+In symbols:
+
+  
+    
+      
+        
+          N
+        
+        q
+        =
+        
+        q
+        
+          K
+        
+        q
+        =
+        
+        (
+        
+          T
+        
+        q
+        
+          )
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \mathbf {N} q=\,q\mathbf {K} q=\,(\mathbf {T} q)^{2}}
+  The common norm of a versor is always equal to positive unity.
+
+  
+    
+      
+        
+          N
+          U
+        
+        q
+        =
+        
+          U
+        
+        q
+        .
+        
+          K
+          U
+        
+        q
+        =
+        1
+      
+    
+    {\displaystyle \mathbf {NU} q=\mathbf {U} q.\mathbf {KU} q=1}
+
+Biquaternions
+Geometrically real and geometrically imaginary numbers
+In classical quaternion literature the equation
+
+  
+    
+      
+        
+          q
+          
+            2
+          
+        
+        =
+        −
+        1
+      
+    
+    {\displaystyle q^{2}=-1}
+  was thought to have infinitely many solutions that were called geometrically real.
+These solutions are the unit vectors that form the surface of a unit sphere.
+A geometrically real quaternion is one that can be written as a linear combination of i, j and k, such that the squares of the coefficients add up to one. Hamilton demonstrated that there had to be additional roots of this equation in addition to the geometrically real roots. Given the existence of the imaginary scalar, a number of expressions can be written and given proper names. All of these were part of Hamilton's original quaternion calculus. In symbols:
+
+  
+    
+      
+        q
+        +
+        
+          q
+          ′
+        
+        
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle q+q'{\sqrt {-1}}}
+  where q and q′ are real quaternions, and the square root of minus one is the imaginary of ordinary algebra, and are called an imaginary or symbolical roots and not a geometrically real vector quantity.
+
+Imaginary scalar
+Geometrically Imaginary quantities are additional roots of the above equation of a purely symbolic nature. In article 214 of Elements Hamilton proves that if there is an i, j and k there also has to be another quantity h which is an imaginary scalar, which he observes should have already occurred to anyone who had read the preceding articles with attention. Article 149 of Elements is about Geometrically Imaginary numbers and includes a footnote introducing the term biquaternion. The terms imaginary of ordinary algebra and scalar imaginary are sometimes used for these geometrically imaginary quantities.
+Geometrically Imaginary roots to an equation were interpreted in classical thinking as geometrically impossible situations. Article 214 of Elements of Quaternions explores the example of the equation of a line and a circle that do not intersect, as being indicated by the equation having only a geometrically imaginary root.In Hamilton's later writings he proposed using the letter h to denote the imaginary scalar
+
+Biquaternion
+On page 665 of Elements of Quaternions Hamilton defines a biquaternion to be a quaternion with complex number coefficients. The scalar part of a biquaternion is then a complex number called a biscalar. The vector part of a biquaternion is a bivector consisting of three complex components. The biquaternions are then the complexification of the original (real) quaternions.
+
+Other double quaternions
+Hamilton invented the term associative to distinguish between the imaginary scalar (known by now as a complex number) which is both commutative and associative, and four other possible roots of negative unity which he designated L, M, N and O, mentioning them briefly in appendix B of Lectures on Quaternions and in private letters. However, non-associative roots of minus one do not appear in Elements of Quaternions. Hamilton died before he worked on these strange entities. His son claimed them to be "bows reserved for the hands of another Ulysses".
+
+See also
+Cayley–Dickson construction
+Octonions
+Frobenius theorem
+
+Footnotes
+References
+W.R. Hamilton (1853), Lectures on Quaternions at Google Books Dublin: Hodges and Smith
+W.R. Hamilton (1866), Elements of Quaternions at Google Books, 2nd edition, edited by Charles Jasper Joly, Longmans Green & Company.
+A.S. Hardy (1887), Elements of Quaternions
+P.G. Tait (1890), An Elementary Treatise on Quaternions, Cambridge: C.J. Clay and Sons
+Herbert Goldstein(1980), Classical Mechanics, 2nd edition, Library of congress catalog number QA805.G6 1980

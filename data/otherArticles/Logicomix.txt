@@ -1,0 +1,56 @@
+Logicomix: An Epic Search for Truth is a graphic novel about the foundational quest in mathematics, written by Apostolos Doxiadis, author of Uncle Petros and Goldbach's Conjecture, and at the time Berkeley's theoretical computer scientist Christos Papadimitriou. Character design and artwork are by Alecos Papadatos and color is by Annie Di Donna.  The book was originally written in English, and was translated into Greek by author Apostolos Doxiadis for the release in Greece, which preceded the UK and U.S. releases.
+
+Plot
+Set between the late 19th century and the present day, the graphic novel Logicomix is based on the story of the so-called "foundational quest" in mathematics.
+Logicomix intertwines the philosophical struggles with the characters' own personal turmoil.  These are in turn played out just upstage of the momentous historical events of the era and the ideological battles which gave rise to them. The narrator of the story is Bertrand Russell, who stands as an icon of many of these themes: a deeply sensitive and introspective man, Russell was not just a philosopher and pacifist, he was also one of the prominent figures in the foundational quest.  Russell's life story, depicted by Logicomix, is itself a journey through the goals and struggles, and triumph and tragedy shared by many great thinkers of the 20th century: Georg Cantor, Ludwig Wittgenstein, G. E. Moore, Alfred North Whitehead, David Hilbert, Gottlob Frege, Henri Poincaré, Kurt Gödel, and Alan Turing.
+A parallel tale, set in present-day Athens, records the creators’ disagreement on the meaning of the story, thus setting in relief the foundational quest as a quintessentially modern adventure.  It is on the one hand a tragedy of the hubris of rationalism, which descends inextricably on madness, and on the other an origin myth of the computer.
+
+Releases
+In chronological order:
+
+Greece – October 20, 2008, Ikaros Publications, ISBN 978-960-8399-67-9
+Netherlands – August 15, 2009, De Vliegende Hollander, ISBN 978-90-495-0079-5
+United Kingdom – September 7, 2009, Bloomsbury, ISBN 0-7475-9720-0
+United States – September 29, 2009, Bloomsbury USA, ISBN 1-59691-452-1
+France – May 10, 2010, Vuibert, ISBN 978-2-7117-4351-3
+Italy – June 10, 2010, Guanda, ISBN 978-88-6088-168-7
+Germany – August 30, 2010, Atrium-Verlag, ISBN 978-3-85535-069-8
+Finland – September 10, 2010, Avain, ISBN 978-951-692-786-5
+Brazil – 2010, Martins Fontes, ISBN 978-85-7827-278-4
+Croatia (Stripologikon) - 2010, Logicomix Print Ltd. / Mate d.o.o., ISBN 978-953-246-119-0
+Spain (Logicomix. Una búsqueda épica de la verdad) – March 24, 2011, Ediciones Sins Entido, ISBN 978-84-96722-74-3
+Norway – 2010, Arneberg, ISBN 978-82-8220-028-8
+Poland – November 2011, W.A.B., ISBN 978-83-7747-535-5
+Denmark – February 2012, Politisk Revy, ISBN 978-87-7378-325-2
+Czech Republic – September 2012, Dokořán, ISBN 978-80-7363-401-8
+Turkey – October 2012,  Albatros Kitap, ISBN 978-975-906-7151
+Russia – March 2014, Kar'era Press, ISBN 978-5-904946-70-8
+Iran – March 2014, Fatemi Publishing Co., ISBN 978-964-318-755-2
+Israel – 2016, Aliyat Hagag press, ISBN 978-965-545-071-2
+
+Reception
+Jim Holt reviewed the book for the New York Times and says the story "is presented with real graphic verve. (Even though I’m a text guy, I couldn’t keep my eyes off the witty drawings.)" although he does note "one serious misstep" involving the overplaying of the impact Russell's paradox had on mathematics. A review at The Guardian said that the "authors tell the story with a humour and lightness of touch that pokes fun at the philosophers and mathematicians involved, but never trivialises the philosophy or the mathematics", concluding that "Doxiadis has shown that by using fiction to provide an emotional context to mathematical discoveries it can make for a gripping read. Uncle Petros was a bestseller and the much more ambitious Logicomix deserves to be one too."The book was recommended by the New Statesman in late September. On October 2 the book made the New York Times, Sunday Book Review, Editor's Choice list and the next week it was #1 on the NYT Graphic Novel Best Seller list. The book sold out on the day it was released in the United States and United Kingdom, and also got into the Top 10 on Amazon.com and Amazon.co.uk, leading the manager of a major Athens bookstore to say "No Greek book has sold abroad like this in 30 years."
+
+Historical accuracy
+At the beginning of the book (page 16) there is talk of "the non-aggression pact between Nazi Germany and the United Kingdom", signed in Munich, which led to the invasion of Poland, with a drawing showing an infuriated Polish soldier accusing a Briton of being the culprit of such a crime. In fact, the Munich Agreement was concluded  in 1938 and the "non-aggression pact" from the era was between Nazi Germany and the Soviet Union (namely the Molotov–Ribbentrop Pact), which led to the invasion of Poland, with the UK then declaring war on Germany.
+According to Paolo Mancosu in The Bulletin of Symbolic Logic, the authors "admittedly take liberties with the real course of events", for example with reference to the alleged meetings Russell would have had with Frege and Cantor. Although "such departures from reality can be fruitful for narrative purposes", according to Mancosu, in some cases they are objectionable, as the portrayal of Frege as a "rabid paranoid antisemite", and the "constant refrain of the alleged causal link between logic and madness". From "the conceptual point of view, some of the major ideas about the foundation of mathematics are conveyed with reasonable accuracy", although sometimes errors, mistakes, and inaccuracies occur.However, the global judgement by Mancosu is positive:
+
+I enjoyed reading Logicomix immensely. The authors have tackled an extremely complicated subject with thought-provoking ideas in an aesthetically pleasing and entertaining fashion. Thus, my few critical remarks should not mislead you.  I highly recommend Logicomix even though my recommendation is qualified: the reader should provide his/her grain of salt.
+
+Notes
+References
+"A labor of love completed" (PDF). Athens Plus. 2008-10-24. p. 14. Archived from the original (PDF) on 2011-10-06. Retrieved 2009-03-31.
+Psaropoulos, John (20 Mar 2009). "Beauty is truth, truth beauty". Athens News. Athens: Myenpi Publishing. Archived from the original on 17 February 2013. Retrieved 22 October 2010.
+Logicomix at the Comic Book DB (archived from the original)
+
+External links
+Official website
+Unusual Greek math comic tops bestseller lists worldwide, Deutsche Welle, October 12, 2009
+Logicomix, en epic search for truth (private website, 7 August 2013)
+Making of Logicomix
+
+Reviews
+Math, Philosophy, Comics and Bertrand Russell’s Search for Truth, Publishers Weekly, April 14, 2009
+Bertrand Russell: The thinking person's superhero, The Independent, September 2, 2009
+Logicomix, Financial Times, September 5, 2009
+Essay review by Paolo Mancosu, pp. 1–14, U.C. Berkeley, January 2010

@@ -1,0 +1,7 @@
+An X-ray machine is any machine that involves X-rays. It may consist of an X-ray generator and an X-ray detector.
+Examples include:
+
+Machines for medical projectional radiography
+Machines for computed tomography
+Backscatter X-ray machines, used as "body scanners" in airport security
+Detectors in X-ray astronomy

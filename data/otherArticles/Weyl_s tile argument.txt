@@ -1,0 +1,34 @@
+In philosophy, Weyl's tile argument, introduced by Hermann Weyl in 1949, is an argument against the notion that physical space is "discrete", as if composed of a number of finite sized units or tiles. The argument purports to show a distance function approximating Pythagoras' theorem on a discrete space cannot be defined and, since the Pythagorean theorem has been confirmed to be approximately true in nature, physical space is not discrete. Academic debate on the topic continues, with counterarguments proposed in the literature.
+
+The argument
+The tile argument appears in Weyl's 1949 book Philosophy of Mathematics and Natural Sciences, where he writes:
+
+If a square is built up of miniature tiles, then there are as many tiles along the diagonal as there are along the side; thus the diagonal should be equal in length to the side.
+A demonstration of Weyl's argument proceeds by constructing a square tiling of the plane representing a discrete space. A discretized triangle, n units tall and n units long, can be constructed on the tiling. The hypotenuse of the resulting triangle will be n tiles long. However, by the Pythagorean theorem, a corresponding triangle in a continuous space—a triangle whose height and length are n—will have a hypotenuse measuring 
+  
+    
+      
+        n
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle n{\sqrt {2}}}
+   units long. To show that the former result does not converge to the latter for arbitrary values of n, one can examine the percent difference between the two results:  Since n cancels out, the two results never converge, even in the limit of large n. The argument can be constructed for more general triangles, but, in each case, the result is the same. Thus, a discrete space does not even approximate the Pythagorean theorem.
+
+Responses
+In response, Kris McDaniel has argued the Weyl tile argument depends on accepting a "size thesis" which posits that the distance between two points is given by the number of tiles between the two points. However, as McDaniel points out, the size thesis is not accepted for continuous spaces. Thus, we might have reason not to accept the size thesis for discrete spaces.
+
+See also
+Digital physics
+Discrete calculus
+Taxicab metric
+Causal sets
+Poisson point process
+Natura non facit saltus
+
+
+== References ==

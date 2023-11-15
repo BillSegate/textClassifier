@@ -1,0 +1,168 @@
+A discontinuous group is a mathematical concept relating to mappings in topological space.
+
+Definition
+Let 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   be a topological space of points 
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+  , and let 
+  
+    
+      
+        τ
+        →
+        f
+        (
+        τ
+        ,
+        x
+        )
+      
+    
+    {\displaystyle \tau \to f(\tau ,x)}
+  , 
+  
+    
+      
+        x
+        ∈
+        G
+      
+    
+    {\displaystyle x\in G}
+  , be an open continuous representation of the topological group 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   as a transitive group of homeomorphic mappings of 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   on itself. The representation 
+  
+    
+      
+        τ
+        →
+        f
+        (
+        τ
+        ,
+        a
+        )
+      
+    
+    {\displaystyle \tau \to f(\tau ,a)}
+   
+  
+    
+      
+        a
+        ∈
+        H
+      
+    
+    {\displaystyle a\in H}
+   of the discrete subgroup 
+  
+    
+      
+        H
+        ⊂
+        G
+      
+    
+    {\displaystyle H\subset G}
+   in 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   is called discontinuous, if no sequence 
+  
+    
+      
+        f
+        (
+        τ
+        ,
+        
+          a
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle f(\tau ,a_{n})}
+   (
+  
+    
+      
+        n
+        =
+        1
+        ,
+        2
+        ,
+        …
+      
+    
+    {\displaystyle n=1,2,\ldots }
+  ) converges to a point in 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  , as 
+  
+    
+      
+        
+          a
+          
+            n
+          
+        
+      
+    
+    {\displaystyle a_{n}}
+   runs over distinct elements of 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+  .
+
+
+== References ==

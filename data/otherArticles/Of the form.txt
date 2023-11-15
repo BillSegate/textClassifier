@@ -1,0 +1,14 @@
+In mathematics, the phrase "of the form" indicates that a mathematical object, or (more frequently) a collection of objects, follows a certain pattern of expression. It is frequently used to reduce the formality of mathematical proofs.
+
+Example of use
+Here is a proof which should be appreciable with limited mathematical background:
+Statement:
+The product of any two even natural numbers is also even.
+Proof:
+Any even natural number is of the form 2n, where n is a natural number. Therefore, let us assume that we have two even numbers which we will denote by 2k and 2l. Their product is (2k)(2l) = 4(kl) = 2(2kl). Since 2kl is also a natural number, the product is even.
+Note:
+In this case, both exhaustivity and exclusivity were needed. That is, it was not only necessary that every even number is of the form 2n (exhaustivity), but also that every expression of the form 2n is an even number (exclusivity). This will not be the case in every proof, but normally, at least exhaustivity is implied by the phrase of the form.
+
+References
+External links
+Weisstein, Eric W. "Of the Form". MathWorld.

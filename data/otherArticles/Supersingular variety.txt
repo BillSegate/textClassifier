@@ -1,0 +1,13 @@
+In mathematics, a supersingular variety is (usually) a smooth projective variety in nonzero characteristic such that for all n the slopes of the Newton polygon of the nth crystalline cohomology are all n/2 (de Jong 2014). For special classes of varieties such as elliptic curves it is common to use various ad hoc definitions of "supersingular", which are (usually) equivalent to the one given above.
+The term "singular elliptic curve" (or "singular j-invariant") was at one times used to refer to complex elliptic curves whose ring of endomorphisms has rank 2, the maximum possible. Helmut Hasse discovered that, in finite characteristic, elliptic curves can have larger rings of endomorphisms of rank 4, and these were called "supersingular elliptic curves". Supersingular elliptic curves can also be characterized by the slopes of their crystalline cohomology, and the term "supersingular" was later extended to other varieties whose cohomology has similar properties. The terms "supersingular" or "singular" do not mean that the variety has singularities.
+Examples include:
+
+Supersingular elliptic curve. Elliptic curves in non-zero characteristic with an unusually large ring of endomorphisms of rank 4.
+Supersingular Abelian variety Sometimes defined to be an abelian variety isogenous to a product of supersingular elliptic curves, and sometimes defined to be an abelian variety of some rank g  whose endomorphism ring has rank (2g)2.
+Supersingular K3 surface. Certain K3 surfaces in non-zero characteristic.
+Supersingular Enriques surface. Certain Enriques surfaces in characteristic 2.
+A surface is called Shioda supersingular if the rank of its Néron–Severi group is equal to its second Betti number.
+A surface is called Artin supersingular if its formal Brauer group has infinite height.
+
+References
+de Jong (2014), Shioda’s conjecture

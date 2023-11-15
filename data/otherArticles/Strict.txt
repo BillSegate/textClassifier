@@ -1,0 +1,16 @@
+In mathematical writing, the term strict refers to the property of excluding equality and equivalence and often occurs in the context of inequality and monotonic functions. It is often attached to a technical term to indicate that the exclusive meaning of the term is to be understood. The opposite is non-strict, which is often understood to be the case but can be put explicitly for clarity. In some contexts, the word "proper" can also be used as a mathematical synonym for "strict".
+
+Use
+This term is commonly used in the context of inequalities — the phrase "strictly less than" means "less than and not equal to" (likewise "strictly greater than" means "greater than and not equal to"). More generally, a strict partial order, strict total order, and strict weak order exclude equality and equivalence.
+When comparing numbers to zero, the phrases "strictly positive" and "strictly negative" mean "positive and not equal to zero" and "negative and not equal to zero", respectively. In the context of functions, the adverb "strictly" is used to modify the terms "monotonic", "increasing", and "decreasing".
+On the other hand, sometimes one wants to specify the inclusive meanings of terms. In the context of comparisons, one can use the phrases "non-negative", "non-positive", "non-increasing", and "non-decreasing" to make it clear that the inclusive sense of the terms is being used.
+The use of such terms and phrases helps avoid possible ambiguity and confusion. For instance, when reading the phrase "x is positive", it is not immediately clear whether x = 0 is possible, since some authors might use the term positive loosely to mean that x is not less than zero. Such an ambiguity can be mitigated by writing "x is strictly positive" for x > 0, and "x is non-negative" for x ≥ 0. (A precise term like non-negative is never used with the word negative in the wider sense that includes zero.)
+The word "proper" is often used in the same way as "strict". For example, a "proper subset" of a set S is a subset that is not equal to S itself, and a "proper class" is a class which is not also a set.
+
+See also
+Strictly positive measure
+Monotonic function
+Mod about non-strict monotonic distribution.
+
+References
+This article incorporates material from strict on PlanetMath, which is licensed under the Creative Commons Attribution/Share-Alike License.

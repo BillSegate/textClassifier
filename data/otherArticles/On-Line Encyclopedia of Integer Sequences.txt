@@ -1,0 +1,246 @@
+The On-Line Encyclopedia of Integer Sequences (OEIS) is an online database of integer sequences. It was created and maintained by Neil Sloane while researching at AT&T Labs. He transferred the intellectual property and hosting of the OEIS to the OEIS Foundation in 2009. Sloane is the chairman of the OEIS Foundation.
+OEIS records information on integer sequences of interest to both professional and amateur mathematicians, and is widely cited. As of April 2023, it contains over 360,000 sequences, making it the largest database of its kind.Each entry contains the leading terms of the sequence, keywords, mathematical motivations, literature links, and more, including the option to generate a graph or play a musical representation of the sequence. The database is searchable by keyword, by subsequence, or by any of 16 fields.
+
+History
+Neil Sloane started collecting integer sequences as a graduate student in 1964 to support his work in combinatorics. The database was at first stored on punched cards. He published selections from the database in book form twice:
+
+A Handbook of Integer Sequences (1973, ISBN 0-12-648550-X), containing 2,372 sequences in lexicographic order and assigned numbers from 1 to 2372.
+The Encyclopedia of Integer Sequences with Simon Plouffe (1995, ISBN 0-12-558630-2), containing 5,488 sequences and assigned M-numbers from M0000 to M5487.  The Encyclopedia includes the references to the corresponding sequences (which may differ in their few initial terms) in A Handbook of Integer Sequences as N-numbers from N0001 to N2372 (instead of 1 to 2372.) The Encyclopedia includes the A-numbers that are used in the OEIS, whereas the Handbook did not.These books were well received and, especially after the second publication, mathematicians supplied Sloane with a steady flow of new sequences. The collection became unmanageable in book form, and when the database had reached 16,000 entries Sloane decided to go online—first as an email service (August 1994), and soon after as a website (1996). As a spin-off from the database work, Sloane founded the Journal of Integer Sequences in 1998.
+The database continues to grow at a rate of some 10,000 entries a year.
+Sloane has personally managed 'his' sequences for almost 40 years, but starting in 2002, a board of associate editors and volunteers has helped maintain the database.
+In 2004, Sloane celebrated the addition of the 100,000th sequence to the database, A100000, which counts the marks on the Ishango bone. In 2006, the user interface was overhauled and more advanced search capabilities were added. In 2010 an OEIS wiki at OEIS.org was created to simplify the collaboration of the OEIS editors and contributors. The 200,000th sequence, A200000, was added to the database in November 2011; it was initially entered as A200715, and moved to A200000 after a week of discussion on the SeqFan mailing list, following a proposal by OEIS Editor-in-Chief Charles Greathouse to choose a special sequence for A200000. A300000 was defined in February 2018, and by end of July 2020 the database contained more than 336,000 sequences.
+
+Non-integers
+Besides integer sequences, the OEIS also catalogs sequences of fractions, the digits of transcendental numbers, complex numbers and so on by transforming them into integer sequences.
+Sequences of fractions are represented by two sequences (named with the keyword 'frac'): the sequence of numerators and the sequence of denominators. For example, the fifth-order Farey sequence, 
+  
+    
+      
+        
+          
+            
+              1
+              5
+            
+          
+          ,
+          
+            
+              1
+              4
+            
+          
+          ,
+          
+            
+              1
+              3
+            
+          
+          ,
+          
+            
+              2
+              5
+            
+          
+          ,
+          
+            
+              1
+              2
+            
+          
+          ,
+          
+            
+              3
+              5
+            
+          
+          ,
+          
+            
+              2
+              3
+            
+          
+          ,
+          
+            
+              3
+              4
+            
+          
+          ,
+          
+            
+              4
+              5
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle {1 \over 5},{1 \over 4},{1 \over 3},{2 \over 5},{1 \over 2},{3 \over 5},{2 \over 3},{3 \over 4},{4 \over 5}}
+  , is catalogued as the numerator sequence 1, 1, 1, 2, 1, 3, 2, 3, 4 (A006842) and the denominator sequence 5, 4, 3, 5, 2, 5, 3, 4, 5 (A006843).
+Important irrational numbers such as π = 3.1415926535897... are catalogued under representative integer sequences such as decimal expansions (here 3, 1, 4, 1, 5, 9, 2, 6, 5, 3, 5, 8, 9, 7, 9, 3, 2, 3, 8, 4, 6, 2, 6, 4, 3, 3, 8, 3, 2, 7, 9, 5, 0, 2, 8, 8, ... (A000796)), binary expansions (here 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 0, ... (A004601)), or continued fraction expansions (here 3, 7, 15, 1, 292, 1, 1, 1, 2, 1, 3, 1, 14, 2, 1, 1, 2, 2, 2, 2, 1, 84, 2, 1, 1, ... (A001203)).
+
+Conventions
+The OEIS was limited to plain ASCII text until 2011, and it still uses a linear form of conventional mathematical notation (such as f(n) for functions, n for running variables, etc.). Greek letters are usually represented by their full names, e.g., mu for μ, phi for φ.
+Every sequence is identified by the letter A followed by six digits, almost always referred to with leading zeros, e.g., A000315 rather than A315.
+Individual terms of sequences are separated by commas. Digit groups are not separated by commas, periods, or spaces.
+In comments, formulas, etc., a(n) represents the nth term of the sequence.
+
+Special meaning of zero
+Zero is often used to represent non-existent sequence elements. For example, A104157 enumerates the "smallest prime of n2 consecutive primes to form an n × n magic square of least magic constant, or 0 if no such magic square exists." The value of a(1) (a 1 × 1 magic square) is 2; a(3) is 1480028129. But there is no such 2 × 2 magic square, so a(2) is 0. This special usage has a solid mathematical basis in certain counting functions; for example, the totient valence function Nφ(m) (A014197) counts the solutions of φ(x) = m. There are 4 solutions for 4, but no solutions for 14, hence a(14) of A014197 is 0—there are no solutions.
+Other values are also used, most commonly −1 (see A000230 or A094076).
+
+Lexicographical ordering
+The OEIS maintains the lexicographical order of the sequences, so each sequence has a predecessor and a successor (its "context"). OEIS normalizes the sequences for lexicographical ordering, (usually) ignoring all initial zeros and ones, and also the sign of each element. Sequences of weight distribution codes often omit periodically recurring zeros.
+For example, consider: the prime numbers, the palindromic primes, the Fibonacci sequence, the lazy caterer's sequence, and the coefficients in the series expansion of 
+  
+    
+      
+        
+          
+            
+              
+                ζ
+                (
+                n
+                +
+                2
+                )
+              
+              
+                ζ
+                (
+                n
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle {{\zeta (n+2)} \over {\zeta (n)}}}
+  . In OEIS lexicographic order, they are:
+
+Sequence #1: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, ... A000040
+Sequence #2: 2, 3, 5, 7, 11, 101, 131, 151, 181, 191, 313, 353, 373, 383, 727, 757, 787, 797, 919, 929, ... A002385
+Sequence #3: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, ... A000045
+Sequence #4: 1, 2, 4, 7, 11, 16, 22, 29, 37, 46, 56, 67, 79, 92, 106, 121, 137, 154, ... A000124
+Sequence #5: 1, −3, −8, −3, −24, 24, −48, −3, −8, 72, −120, 24, −168, 144, ... A046970whereas unnormalized lexicographic ordering would order these sequences thus: #3, #5, #4, #1, #2.
+
+Self-referential sequences
+Very early in the history of the OEIS, sequences defined in terms of the numbering of sequences in the OEIS itself were proposed. "I resisted adding these sequences for a long time, partly out of a desire to maintain the dignity of the database, and partly because A22 was only known to 11 terms!", Sloane reminisced.
+One of the earliest self-referential sequences Sloane accepted into the OEIS was A031135 (later A091967) "a(n) = n-th term of sequence An or –1 if An has fewer than n terms". This sequence spurred progress on finding more terms of A000022.
+A100544 lists the first term given in sequence An, but it needs to be updated from time to time because of changing opinions on offsets. Listing instead term a(1) of sequence An might seem a good alternative if it weren't for the fact that some sequences have offsets of 2 and greater.
+This line of thought leads to the question "Does sequence An contain the number n?" and the sequences A053873, "Numbers n such that OEIS sequence An contains n", and A053169, "n is in this sequence if and only if n is not in sequence An". Thus, the composite number 2808 is in A053873 because A002808 is the sequence of composite numbers, while the non-prime 40 is in A053169 because it is not in A000040, the prime numbers. Each n is a member of exactly one of these two sequences, and in principle it can be determined which sequence each n belongs to, with two exceptions (related to the two sequences themselves):
+
+It cannot be determined whether 53873 is a member of A053873 or not. If it is in the sequence then by definition it should be; if it is not in the sequence then (again, by definition) it should not be. Nevertheless, either decision would be consistent, and would also resolve the question of whether 53873 is in A053169.
+It can be proved that 53169 both is and is not a member of A053169. If it is in the sequence then by definition it should not be; if it is not in the sequence then (again, by definition) it should be. This is a form of Russell's paradox. Hence it is also not possible to answer if 53169 is in A053873.
+
+Abridged example of a typical entry
+This entry, A046970, was chosen because it contains every field an OEIS entry can have.
+
+Entry fields
+ID number
+Every sequence in the OEIS has a serial number, a six-digit positive integer, prefixed by A (and zero-padded on the left prior to November 2004). The letter "A" stands for "absolute". Numbers are either assigned by the editor(s) or by an A number dispenser, which is handy for when contributors wish to send in multiple related sequences at once and be able to create cross-references. An A number from the dispenser expires a month from issue if not used. But as the following table of arbitrarily selected sequences shows, the rough correspondence holds.Even for sequences in the book predecessors to the OEIS, the ID numbers are not the same. The 1973 Handbook of Integer Sequences contained about 2400 sequences, which were numbered by lexicographic order (the letter N plus four digits, zero-padded where necessary), and the 1995 Encyclopedia of Integer Sequences contained 5487 sequences, also numbered by lexicographic order (the letter M plus 4 digits, zero-padded where necessary). These old M and N numbers, as applicable, are contained in the ID number field in parentheses after the modern A number.
+Sequence data
+The sequence field lists the numbers themselves, to about 260 characters. More terms of the sequences can be provided in so-called B-files. The sequence field makes no distinction between sequences that are finite but still too long to display and sequences that are infinite. To help make that determination, you need to look at the keywords field for "fini", "full", or "more". To determine to which n the values given correspond, see the offset field, which gives the n for the first term given.
+Name
+The name field usually contains the most common name for the sequence, and sometimes also the formula. For example, 1, 8, 27, 64, 125, 216, 343, 512, (A000578) is named "The cubes: a(n) = n^3.".
+Comments
+The comments field is for information about the sequence that does not quite fit in any of the other fields. The comments field often points out interesting relationships between different sequences and less obvious applications for a sequence. For example, Lekraj Beedassy in a comment to A000578 notes that the cube numbers also count the "total number of triangles resulting from criss-crossing cevians within a triangle so that two of its sides are each n-partitioned," while Neil Sloane points out the unexpected relationship between centered hexagonal numbers (A003215) and second Bessel polynomials (A001498) in a comment to A003215.
+References
+References to printed documents (books, papers, ...).
+Links
+Links, i.e. URLs, to online resources. These may be:
+references to applicable articles in journals
+links to the index
+links to text files which hold the sequence terms (in a two column format) over a wider range of indices than held by the main database lines
+links to images in the local database directories which often provide combinatorial background related to graph theory
+others related to computer codes, more extensive tabulations in specific research areas provided by individuals or research groupsFormula
+Formulae, recurrences, generating functions, etc. for the sequence.
+Example
+Some examples of sequence member values.
+Maple
+Maple code.
+Mathematica
+Wolfram Language code.
+Program
+Originally Maple and Mathematica were the preferred programs for calculating sequences in the OEIS, and they both have their own field labels. As of 2016, Mathematica was the most popular choice with 100,000 Mathematica programs followed by 50,000 PARI/GP programs, 35,000 Maple programs, and 45,000 in other languages.
+As for any other part of the record, if there is no name given, the contribution (here: program) was written by the original submitter of the sequence.
+Crossrefs
+Sequence cross-references originated by the original submitter are usually denoted by "Cf."
+Except for new sequences, the "see also" field also includes information on the lexicographic order of the sequence (its "context") and provides links to sequences with close A numbers (A046967, A046968, A046969, A046971, A046972, A046973, in our example). The following table shows the context of our example sequence, A046970:Keyword
+The OEIS has its own standard set of mostly four-letter keywords that characterize each sequence:allocated An A-number which has been set aside for a user but for which the entry has not yet been approved (and perhaps not yet written).
+base The results of the calculation depend on a specific positional base. For example, 2, 3, 5, 7, 11, 101, 131, 151, 181 ... A002385 are prime numbers regardless of base, but they are palindromic specifically in base 10. Most of them are not palindromic in binary. Some sequences rate this keyword depending on how they are defined. For example, the Mersenne primes 3, 7, 31, 127, 8191, 131071, ... A000668 does not rate "base" if defined as "primes of the form 2^n − 1". However, defined as "repunit primes in binary," the sequence would rate the keyword "base".
+bref "sequence is too short to do any analysis with", for example, A079243, the number of isomorphism classes of associative non-commutative non-anti-associative anti-commutative closed binary operations on a set of order n.
+changed The sequence is changed in the last two weeks.
+cofr The sequence represents a continued fraction, for example the continued fraction expansion of e (A003417) or π (A001203).
+cons The sequence is a decimal expansion of a mathematical constant, like e (A001113) or π (A000796).
+core A sequence that is of foundational importance to a branch of mathematics, such as the prime numbers (A000040), the Fibonacci sequence (A000045), etc.
+dead This keyword used for erroneous sequences that have appeared in papers or books, or for duplicates of existing sequences. For example, A088552 is the same as A000668.
+dumb One of the more subjective keywords, for "unimportant sequences," which may or may not directly relate to mathematics, such as popular culture references, arbitrary sequences from Internet puzzles, and sequences related to numeric keypad entries. A001355, "Mix digits of pi and e" is one example of lack of importance, and A085808, "Price is Right wheel" (the sequence of numbers on the Showcase Showdown wheel used in the U.S. game show The Price Is Right) is an example of a non-mathematics-related sequence, kept mainly for trivia purposes.
+easy The terms of the sequence can be easily calculated. Perhaps the sequence most deserving of this keyword is 1, 2, 3, 4, 5, 6, 7, ... A000027, where each term is 1 more than the previous term. The keyword "easy" is sometimes given to sequences "primes of the form f(m)" where f(m) is an easily calculated function. (Though even if f(m) is easy to calculate for large m, it might be very difficult to determine if f(m) is prime).
+eigen A sequence of eigenvalues.
+fini The sequence is finite, although it might still contain more terms than can be displayed. For example, the sequence field of A105417 shows only about a quarter of all the terms, but a comment notes that the last term is 3888.
+frac A sequence of either numerators or denominators of a sequence of fractions representing rational numbers. Any sequence with this keyword ought to be cross-referenced to its matching sequence of numerators or denominators, though this may be dispensed with for sequences of Egyptian fractions, such as A069257, where the sequence of numerators would be A000012. This keyword should not be used for sequences of continued fractions; cofr should be used instead for that purpose.
+full The sequence field displays the complete sequence. If a sequence has the keyword "full", it should also have the keyword "fini". One example of a finite sequence given in full is that of the supersingular primes A002267, of which there are precisely fifteen.
+hard The terms of the sequence cannot be easily calculated, even with raw number crunching power. This keyword is most often used for sequences corresponding to unsolved problems, such as "How many n-spheres can touch another n-sphere of the same size?" A001116 lists the first ten known solutions.
+hear A sequence with a graph audio deemed to be "particularly interesting and/or beautiful", some examples are collected at the OEIS site.
+less A "less interesting sequence".
+look A sequence with a graph visual deemed to be "particularly interesting and/or beautiful". Two examples out of several thousands are A331124 A347347.
+more More terms of the sequence are wanted. Readers can submit an extension.
+mult The sequence corresponds to a multiplicative function. Term a(1) should be 1, and term a(mn) can be calculated by multiplying a(m) by a(n) if m and n are coprime. For example, in A046970, a(12) = a(3)a(4) = −8 × −3.
+new For sequences that were added in the last couple of weeks, or had a major extension recently. This keyword is not given a checkbox in the Web form for submitting new sequences; Sloane's program adds it by default where applicable.
+nice Perhaps the most subjective keyword of all, for "exceptionally nice sequences."
+nonn The sequence consists of nonnegative integers (it may include zeroes). No distinction is made between sequences that consist of nonnegative numbers only because of the chosen offset (e.g., n3, the cubes, which are all nonnegative from n = 0 forwards) and those that by definition are completely nonnegative (e.g., n2, the squares).
+obsc The sequence is considered obscure and needs a better definition.
+recycled When the editors agree that a new proposed sequence is not worth adding to the OEIS, an editor blanks the entry leaving only the keyword line with keyword:recycled. The A-number then becomes available for allocation for another new sequence.
+sign Some (or all) of the values of the sequence are negative. The entry includes both a Signed field with the signs and a Sequence field consisting of all the values passed through the absolute value function.
+tabf "An irregular (or funny-shaped) array of numbers made into a sequence by reading it row by row." For example, A071031, "Triangle read by rows giving successive states of cellular automaton generated by "rule 62."
+tabl A sequence obtained by reading a geometric arrangement of numbers, such as a triangle or square, row by row. The quintessential example is Pascal's triangle read by rows, A007318.
+uned The sequence has not been edited but it could be worth including in the OEIS. The sequence may contain computational or typographical errors. Contributors are encouraged to edit these sequences.
+unkn "Little is known" about the sequence, not even the formula that produces it. For example, A072036, which was presented to the Internet Oracle to ponder.
+walk "Counts walks (or self-avoiding paths)."
+word Depends on the words of a specific language. For example, zero, one, two, three, four, five, etc. For example, 4, 3, 3, 5, 4, 4, 3, 5, 5, 4, 3, 6, 6, 8, 8, 7, 7, 9, 8, 8 ... A005589, "Number of letters in the English name of n, excluding spaces and hyphens."
+Some keywords are mutually exclusive, namely: core and dumb, easy and hard, full and more, less and nice, and nonn and sign.
+Offset
+The offset is the index of the first term given. For some sequences, the offset is obvious. For example, if we list the sequence of square numbers as 0, 1, 4, 9, 16, 25 ..., the offset is 0; while if we list it as 1, 4, 9, 16, 25 ..., the offset is 1. The default offset is 0, and most sequences in the OEIS have offset of either 0 or 1. Sequence A073502, the magic constant for n × n magic square with prime entries (regarding 1 as a prime) with smallest row sums, is an example of a sequence with offset 3, and A072171, "Number of stars of visual magnitude n." is an example of a sequence with offset −1. Sometimes there can be disagreement over what the initial terms of the sequence are, and correspondingly what the offset should be. In the case of the lazy caterer's sequence, the maximum number of pieces you can cut a pancake into with n cuts, the OEIS gives the sequence as 1, 2, 4, 7, 11, 16, 22, 29, 37, ... A000124, with offset 0, while Mathworld gives the sequence as 2, 4, 7, 11, 16, 22, 29, 37, ... (implied offset 1). It can be argued that making no cuts to the pancake is technically a number of cuts, namely n = 0, but it can also be argued that an uncut pancake is irrelevant to the problem. Although the offset is a required field, some contributors don't bother to check if the default offset of 0 is appropriate to the sequence they are sending in. The internal format actually shows two numbers for the offset. The first is the number described above, while the second represents the index of the first entry (counting from 1) that has an absolute value greater than 1. This second value is used to speed up the process of searching for a sequence. Thus A000001, which starts 1, 1, 1, 2 with the first entry representing a(1) has 1, 4 as the internal value of the offset field.
+Author(s)
+The author(s) of the sequence is (are) the person(s) who submitted the sequence, even if the sequence has been known since ancient times. The name of the submitter(s) is given first name (spelled out in full), middle initial(s) (if applicable) and last name; this in contrast to the way names are written in the reference fields. The e-mail address of the submitter is also given before 2011, with the @ character replaced by "(AT)" with some exceptions such as for associate editors or if an e-mail address does not exist. Now it has been the policy for OEIS not to display e-mail addresses in sequences. For most sequences after A055000, the author field also includes the date the submitter sent in the sequence.
+Extension
+Names of people who extended (added more terms to) the sequence or corrected terms of a sequence, followed by date of extension.
+
+Sloane's gap
+In 2009, the OEIS database was used by Philippe Guglielmetti to measure the "importance" of each integer number. The result shown in the plot on the right shows a clear "gap" between two distinct point clouds, the "uninteresting numbers" (blue dots) and the "interesting" numbers that occur comparatively more often in sequences from the OEIS. It contains essentially prime numbers (red), numbers of the form an (green) and highly composite numbers (yellow). This phenomenon was studied by Nicolas Gauvrit, Jean-Paul Delahaye and Hector Zenil who explained the speed of the two clouds in terms of algorithmic complexity and the gap by social factors based on an artificial preference for sequences of primes, even numbers, geometric and Fibonacci-type sequences and so on. Sloane's gap was featured on a Numberphile video in 2013.
+
+See also
+List of OEIS sequences
+Abramowitz and Stegun
+
+Notes
+References
+Borwein, J.; Corless, R. (1996). "The Encyclopedia of Integer Sequences (N. J. A. Sloane and Simon Plouffe)". SIAM Review. 38 (2): 333–337. doi:10.1137/1038058.
+Catchpole, H. (2004). "Exploring the number jungle online". ABC Science. Australian Broadcasting Corporation.
+Delarte, A. (November 11, 2004). "Mathematician reaches 100k milestone for online integer archive". The South End: 5.
+Hayes, B. (1996). "A Question of Numbers" (PDF). American Scientist. 84 (1): 10–14. Bibcode:1996AmSci..84...10H. Archived from the original (PDF) on 2015-10-05. Retrieved 2010-06-01.
+Peterson, I. (2003). "Sequence Puzzles" (PDF). Science News. 163 (20). Archived from the original (PDF) on 2017-05-10. Retrieved 2016-12-24.
+Rehmeyer, J. (2010). "The Pattern Collector — Science News". Science News. www.sciencenews.org. Archived from the original on 2013-10-14. Retrieved 2010-08-08.
+
+Further reading
+Roberts, S. (May 21, 2023), "What Number Comes Next? The Encyclopedia of Integer Sequences Knows.", The New York Times, retrieved 21 May 2023
+Sloane, N. J. A. (1999). "My favorite integer sequences" (PDF). In Ding, C.; Helleseth, T.; Niederreiter, H. (eds.). Sequences and their Applications (Proceedings of SETA '98). London: Springer-Verlag. pp. 103–130. arXiv:math/0207175. Bibcode:2002math......7175S.
+Sloane, N. J. A. (2003). "The On-Line Encyclopedia of Integer Sequences" (PDF). Notices of the American Mathematical Society. 50 (8): 912–915.
+Sloane, N. J. A.; Plouffe, S. (1995). The Encyclopedia of Integer Sequences. San Diego: Academic Press. ISBN 0-12-558630-2.
+Zabolotskii, A. (2022). "The On-Line Encyclopedia of Integer Sequences in 2021". Mat. Pros. Series 3. 8: 199–212.
+Billey, Sara C.; Tenner, Bridget E. (2013). "Fingerprint databases for theorems" (PDF). Notices of the American Mathematical Society. 60 (8): 1034–1039. arXiv:1304.3866. Bibcode:2013arXiv1304.3866B. doi:10.1090/noti1029. S2CID 14435520.
+
+External links
+
+Official website
+Wiki at OEIS

@@ -1,0 +1,344 @@
+In mathematics, a coefficient is a multiplicative factor involved in some term of a polynomial, a series, or an expression. It may be a number (dimensionless), in which case it is known as a numerical factor. It may also be a constant with units of measurement, in which it is known as a constant multiplier. In general, coefficients may be any expression (including variables such as a, b and c). When the combination of variables and constants is not necessarily involved in a product, it may be called a parameter.For example, the polynomial 
+  
+    
+      
+        2
+        
+          x
+          
+            2
+          
+        
+        −
+        x
+        +
+        3
+      
+    
+    {\displaystyle 2x^{2}-x+3}
+   has coefficients 2, −1, and 3, and the powers of the variable 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   in the polynomial 
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        b
+        x
+        +
+        c
+      
+    
+    {\displaystyle ax^{2}+bx+c}
+   have coefficient parameters 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  , 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  , and 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  .
+The constant coefficient, also known as constant term or simply constant is the quantity not attached to variables in an expression. For example, the constant coefficients of the expressions above are the number 3 and the parameter c, respectively. 
+The coefficient attached to the highest degree of the variable in a polynomial is referred to as the leading coefficient. For example, in the expressions above, the leading coefficients are 2 and a, respectively.
+In the context of differential equations, an equation can often be written as equating to zero a polynomial in the unknown functions and their derivatives. In this case, the coefficients of the differential equation are the coefficients of this polynomial, and are generally non-constant functions. A coefficient is a constant coefficient when it is a constant function. For avoiding confusion, the coefficient that is not attached to unknown functions and their derivative is generally called the constant term rather the constant coefficient. In particular, in a linear differential equation with constant coefficient, the constant term is generally not supposed to be a constant function.
+
+Terminology and definition
+In mathematics, a coefficient is a multiplicative factor in some term of a polynomial, a series, or any expression.  For example, in the polynomial
+
+with variables 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   and 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  , the first two terms have the coefficients 7 and −3. The third term 1.5 is the constant coefficient. In the final term, the coefficient is 1 and is not explicitly written.
+In many scenarios, coefficients are numbers (as is the case for each term of the previous example), although they could be parameters of the problem—or any expression in these parameters. In such a case, one must clearly distinguish between symbols representing variables and symbols representing parameters. Following René Descartes, the variables are often denoted by x, y, ..., and the parameters by a, b, c, ..., but this is not always the case. For example, if y is considered a parameter in the above expression, then the coefficient of x would be −3y, and the constant coefficient (with respect to x) would be 1.5 + y.
+When one writes 
+
+it is generally assumed that x is the only variable, and that a, b and c are parameters; thus the constant coefficient is c in this case.
+Any polynomial in a single variable x can be written as
+
+for some nonnegative integer 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  , where 
+  
+    
+      
+        
+          a
+          
+            k
+          
+        
+        ,
+        …
+        ,
+        
+          a
+          
+            1
+          
+        
+        ,
+        
+          a
+          
+            0
+          
+        
+      
+    
+    {\displaystyle a_{k},\dotsc ,a_{1},a_{0}}
+   are the coefficients.  This includes the possibility that some terms have coefficient 0; for example, in 
+  
+    
+      
+        
+          x
+          
+            3
+          
+        
+        −
+        2
+        x
+        +
+        1
+      
+    
+    {\displaystyle x^{3}-2x+1}
+  , the coefficient of 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle x^{2}}
+   is 0, and the term 
+  
+    
+      
+        0
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle 0x^{2}}
+   does not appear explicitly.  For the largest 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   such that 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        ≠
+        0
+      
+    
+    {\displaystyle a_{i}\neq 0}
+   (if any), 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+      
+    
+    {\displaystyle a_{i}}
+   is called the leading coefficient of the polynomial. For example, the leading coefficient of the polynomial
+
+is 4. This can be generalised to multivariate polynomials with respect to a monomial order, see Gröbner basis § Leading term, coefficient and monomial.
+
+Linear algebra
+In linear algebra, a system of linear equations is frequently represented by its coefficient matrix.  For example, the system of equations
+
+the associated coefficient matrix is 
+  
+    
+      
+        
+          
+            (
+            
+              
+                
+                  2
+                
+                
+                  3
+                
+              
+              
+                
+                  5
+                
+                
+                  −
+                  4
+                
+              
+            
+            )
+          
+        
+        .
+      
+    
+    {\displaystyle {\begin{pmatrix}2&3\\5&-4\end{pmatrix}}.}
+    Coefficient matrices are used in algorithms such as Gaussian elimination and Cramer's rule to find solutions to the system.
+The leading entry (sometimes leading coefficient) of a row in a matrix is the first nonzero entry in that row. So, for example, in the matrix
+
+the leading coefficient of the first row is 1; that of the second row is 2; that of the third row is 4, while the last row does not have a leading coefficient.
+Though coefficients are frequently viewed as constants in elementary algebra, they can also be viewed as variables as the context broadens. For example, the coordinates 
+  
+    
+      
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          x
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle (x_{1},x_{2},\dotsc ,x_{n})}
+   of a vector 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   in a vector space with basis 
+  
+    
+      
+        {
+        
+          e
+          
+            1
+          
+        
+        ,
+        
+          e
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          e
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \lbrace e_{1},e_{2},\dotsc ,e_{n}\rbrace }
+   are the coefficients of the basis vectors in the expression
+
+See also
+Correlation coefficient
+Degree of a polynomial
+Monic polynomial
+Binomial coefficient
+
+References
+Further reading
+Sabah Al-hadad and C.H. Scott (1979) College Algebra with Applications, page 42, Winthrop Publishers, Cambridge Massachusetts ISBN 0-87626-140-3 .
+Gordon Fuller, Walter L Wilson, Henry C Miller, (1982) College Algebra, 5th edition, page 24, Brooks/Cole Publishing, Monterey California ISBN 0-534-01138-1 .

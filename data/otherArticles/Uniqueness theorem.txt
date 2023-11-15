@@ -1,0 +1,22 @@
+In mathematics, a uniqueness theorem, also called a unicity theorem, is a theorem asserting the uniqueness of an object satisfying certain conditions, or the equivalence of all objects satisfying the said conditions. Examples of uniqueness theorems include:
+
+Alexandrov's uniqueness theorem of three-dimensional polyhedra
+Black hole uniqueness theorem
+Cauchy–Kowalevski theorem is the main local existence and uniqueness theorem for analytic partial differential equations associated with Cauchy initial value problems.
+Cauchy–Kowalevski–Kashiwara theorem is a wide generalization of the Cauchy–Kowalevski theorem for systems of linear partial differential equations with analytic coefficients.
+Division theorem, the uniqueness of quotient and remainder under Euclidean division.
+Fundamental theorem of arithmetic, the uniqueness of prime factorization.
+Holmgren's uniqueness theorem for linear partial differential equations with real analytic coefficients.
+Picard–Lindelöf theorem, the uniqueness of solutions to first-order differential equations.
+Thompson uniqueness theorem in finite group theory
+Uniqueness theorem for Poisson's equation
+Electromagnetism uniqueness theorem for the solution of Maxwell's equation
+Uniqueness case in finite group theoryThe word unique is sometimes replaced by essentially unique, whenever one wants to stress that the uniqueness is only referred to the underlying structure, whereas the form may vary in all ways that do not affect the mathematical content.A uniqueness theorem (or its proof) is, at least within the mathematics of differential equations, often combined with an existence theorem (or its proof) to a combined existence and uniqueness theorem (e.g., existence and uniqueness of solution to first-order differential equations with boundary condition).
+
+See also
+Existence theorem
+Rigidity (mathematics)
+Uniqueness quantification
+
+
+== References ==

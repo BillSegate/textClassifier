@@ -1,0 +1,11 @@
+Ulam's game, or the Rényi–Ulam game, is a mathematical game similar to the popular game of twenty questions. In Ulam's game, a player attempts to guess an unnamed object or number by asking yes–no questions of another, but one of the answers given may be a lie.Alfréd Rényi (1961) introduced the game in a 1961 paper, based on Hungary's Bar Kokhba game, but the paper was overlooked for many years.
+Stanislaw Ulam (1976, p. 281) rediscovered the game, presenting the idea that there are a million objects and the answer to one question can be wrong, and considered the minimum number of questions required, and the strategy that should be adopted. Pelc (2002) gave a survey of similar games and their relation to information theory.
+
+See also
+Knights and Knaves
+
+References
+
+Pelc, Andrzej (2002), "Searching games with errors---fifty years of coping with liars", Theoretical Computer Science, 270 (1): 71–109, doi:10.1016/S0304-3975(01)00303-6, ISSN 0304-3975, MR 1871067
+Rényi, Alfréd (1961), "On a problem in information theory", Magyar Tud. Akad. Mat. Kutató Int. Közl. (in Hungarian), 6: 505–516, MR 0143666
+Ulam, S. M. (1976), Adventures of a mathematician, Charles Scribner's sons, ISBN 978-0-520-07154-4, MR 0485098

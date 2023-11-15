@@ -1,0 +1,251 @@
+In mathematics Lévy's constant (sometimes known as the Khinchin–Lévy constant) occurs in an expression for the asymptotic behaviour of the denominators of the convergents of continued fractions.
+In 1935, the Soviet mathematician Aleksandr Khinchin showed that the denominators qn of the convergents of the continued fraction expansions of almost all real numbers satisfy 
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            
+              q
+              
+                n
+              
+            
+          
+          
+            1
+            
+              /
+            
+            n
+          
+        
+        =
+        
+          e
+          
+            β
+          
+        
+      
+    
+    {\displaystyle \lim _{n\to \infty }{q_{n}}^{1/n}=e^{\beta }}
+  Soon afterward, in 1936, the French mathematician Paul Lévy found the explicit expression for the constant, namely
+
+  
+    
+      
+        
+          e
+          
+            β
+          
+        
+        =
+        
+          e
+          
+            
+              π
+              
+                2
+              
+            
+            
+              /
+            
+            (
+            12
+            ln
+            ⁡
+            2
+            )
+          
+        
+        =
+        3.275822918721811159787681882
+        …
+      
+    
+    {\displaystyle e^{\beta }=e^{\pi ^{2}/(12\ln 2)}=3.275822918721811159787681882\ldots }
+   (sequence A086702 in the OEIS)The term "Lévy's constant" is sometimes used to refer to 
+  
+    
+      
+        
+          π
+          
+            2
+          
+        
+        
+          /
+        
+        (
+        12
+        ln
+        ⁡
+        2
+        )
+      
+    
+    {\displaystyle \pi ^{2}/(12\ln 2)}
+   (the logarithm of the above expression), which is approximately equal to 1.1865691104… The value derives from the asymptotic expectation of the logarithm of the ratio of successive denominators, using the Gauss-Kuzmin distribution. In particular, the ratio has the asymptotic density function
+
+  
+    
+      
+        f
+        (
+        z
+        )
+        =
+        
+          
+            1
+            
+              z
+              (
+              z
+              +
+              1
+              )
+              ln
+              ⁡
+              (
+              2
+              )
+            
+          
+        
+      
+    
+    {\displaystyle f(z)={\frac {1}{z(z+1)\ln(2)}}}
+  
+for 
+  
+    
+      
+        z
+        ≥
+        1
+      
+    
+    {\displaystyle z\geq 1}
+   and zero otherwise. This gives Lévy's constant as
+
+  
+    
+      
+        β
+        =
+        
+          ∫
+          
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              ln
+              ⁡
+              z
+            
+            
+              z
+              (
+              z
+              +
+              1
+              )
+              ln
+              ⁡
+              2
+            
+          
+        
+        d
+        z
+        =
+        
+          ∫
+          
+            0
+          
+          
+            1
+          
+        
+        
+          
+            
+              ln
+              ⁡
+              
+                z
+                
+                  −
+                  1
+                
+              
+            
+            
+              (
+              z
+              +
+              1
+              )
+              ln
+              ⁡
+              2
+            
+          
+        
+        d
+        z
+        =
+        
+          
+            
+              π
+              
+                2
+              
+            
+            
+              12
+              ln
+              ⁡
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \beta =\int _{1}^{\infty }{\frac {\ln z}{z(z+1)\ln 2}}dz=\int _{0}^{1}{\frac {\ln z^{-1}}{(z+1)\ln 2}}dz={\frac {\pi ^{2}}{12\ln 2}}}
+  .
+The base-10 logarithm of Lévy's constant, which is approximately 0.51532041…, is half of the reciprocal of the limit in Lochs' theorem.
+
+See also
+Khinchin's constant
+
+References
+Further reading
+Khinchin, A. Ya. (14 May 1997). Continued Fractions. Dover. ISBN 0-486-69630-8.
+
+External links
+Weisstein, Eric W. "Lévy Constant". MathWorld.
+OEIS sequence A086702 (Decimal expansion of Lévy's constant)

@@ -1,0 +1,1390 @@
+In mathematics, Voigt notation or Voigt form in multilinear algebra is a way to represent a symmetric tensor by reducing its order. There are a few variants and associated names for this idea: Mandel notation, Mandel–Voigt notation and Nye notation are others found. Kelvin notation is a revival by Helbig of old ideas of Lord Kelvin. The differences here lie in certain weights attached to the selected entries of the tensor. Nomenclature may vary according to what is traditional in the field of application.
+For example, a 2×2 symmetric tensor X has only three distinct elements, the two on the diagonal and the other being off-diagonal. Thus it can be expressed as the vector
+
+  
+    
+      
+        ⟨
+        
+          x
+          
+            11
+          
+        
+        ,
+        
+          x
+          
+            22
+          
+        
+        ,
+        
+          x
+          
+            12
+          
+        
+        ⟩
+      
+    
+    {\displaystyle \langle x_{11},x_{22},x_{12}\rangle }
+  .As another example:
+The stress tensor (in matrix notation) is given as
+
+  
+    
+      
+        
+          σ
+        
+        =
+        
+          [
+          
+            
+              
+                
+                  
+                    σ
+                    
+                      x
+                      x
+                    
+                  
+                
+                
+                  
+                    σ
+                    
+                      x
+                      y
+                    
+                  
+                
+                
+                  
+                    σ
+                    
+                      x
+                      z
+                    
+                  
+                
+              
+              
+                
+                  
+                    σ
+                    
+                      y
+                      x
+                    
+                  
+                
+                
+                  
+                    σ
+                    
+                      y
+                      y
+                    
+                  
+                
+                
+                  
+                    σ
+                    
+                      y
+                      z
+                    
+                  
+                
+              
+              
+                
+                  
+                    σ
+                    
+                      z
+                      x
+                    
+                  
+                
+                
+                  
+                    σ
+                    
+                      z
+                      y
+                    
+                  
+                
+                
+                  
+                    σ
+                    
+                      z
+                      z
+                    
+                  
+                
+              
+            
+          
+          ]
+        
+        .
+      
+    
+    {\displaystyle {\boldsymbol {\sigma }}=\left[{\begin{matrix}\sigma _{xx}&\sigma _{xy}&\sigma _{xz}\\\sigma _{yx}&\sigma _{yy}&\sigma _{yz}\\\sigma _{zx}&\sigma _{zy}&\sigma _{zz}\end{matrix}}\right].}
+  In Voigt notation it is simplified to a 6-dimensional vector:
+
+  
+    
+      
+        
+          
+            
+              σ
+              ~
+            
+          
+        
+        =
+        (
+        
+          σ
+          
+            x
+            x
+          
+        
+        ,
+        
+          σ
+          
+            y
+            y
+          
+        
+        ,
+        
+          σ
+          
+            z
+            z
+          
+        
+        ,
+        
+          σ
+          
+            y
+            z
+          
+        
+        ,
+        
+          σ
+          
+            x
+            z
+          
+        
+        ,
+        
+          σ
+          
+            x
+            y
+          
+        
+        )
+        ≡
+        (
+        
+          σ
+          
+            1
+          
+        
+        ,
+        
+          σ
+          
+            2
+          
+        
+        ,
+        
+          σ
+          
+            3
+          
+        
+        ,
+        
+          σ
+          
+            4
+          
+        
+        ,
+        
+          σ
+          
+            5
+          
+        
+        ,
+        
+          σ
+          
+            6
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle {\tilde {\sigma }}=(\sigma _{xx},\sigma _{yy},\sigma _{zz},\sigma _{yz},\sigma _{xz},\sigma _{xy})\equiv (\sigma _{1},\sigma _{2},\sigma _{3},\sigma _{4},\sigma _{5},\sigma _{6}).}
+  The strain tensor, similar in nature to the stress tensor—both are symmetric second-order tensors --, is given in matrix form as
+
+  
+    
+      
+        
+          ϵ
+        
+        =
+        
+          [
+          
+            
+              
+                
+                  
+                    ϵ
+                    
+                      x
+                      x
+                    
+                  
+                
+                
+                  
+                    ϵ
+                    
+                      x
+                      y
+                    
+                  
+                
+                
+                  
+                    ϵ
+                    
+                      x
+                      z
+                    
+                  
+                
+              
+              
+                
+                  
+                    ϵ
+                    
+                      y
+                      x
+                    
+                  
+                
+                
+                  
+                    ϵ
+                    
+                      y
+                      y
+                    
+                  
+                
+                
+                  
+                    ϵ
+                    
+                      y
+                      z
+                    
+                  
+                
+              
+              
+                
+                  
+                    ϵ
+                    
+                      z
+                      x
+                    
+                  
+                
+                
+                  
+                    ϵ
+                    
+                      z
+                      y
+                    
+                  
+                
+                
+                  
+                    ϵ
+                    
+                      z
+                      z
+                    
+                  
+                
+              
+            
+          
+          ]
+        
+        .
+      
+    
+    {\displaystyle {\boldsymbol {\epsilon }}=\left[{\begin{matrix}\epsilon _{xx}&\epsilon _{xy}&\epsilon _{xz}\\\epsilon _{yx}&\epsilon _{yy}&\epsilon _{yz}\\\epsilon _{zx}&\epsilon _{zy}&\epsilon _{zz}\end{matrix}}\right].}
+  Its representation in Voigt notation is
+
+  
+    
+      
+        
+          
+            
+              ϵ
+              ~
+            
+          
+        
+        =
+        (
+        
+          ϵ
+          
+            x
+            x
+          
+        
+        ,
+        
+          ϵ
+          
+            y
+            y
+          
+        
+        ,
+        
+          ϵ
+          
+            z
+            z
+          
+        
+        ,
+        
+          γ
+          
+            y
+            z
+          
+        
+        ,
+        
+          γ
+          
+            x
+            z
+          
+        
+        ,
+        
+          γ
+          
+            x
+            y
+          
+        
+        )
+        ≡
+        (
+        
+          ϵ
+          
+            1
+          
+        
+        ,
+        
+          ϵ
+          
+            2
+          
+        
+        ,
+        
+          ϵ
+          
+            3
+          
+        
+        ,
+        
+          ϵ
+          
+            4
+          
+        
+        ,
+        
+          ϵ
+          
+            5
+          
+        
+        ,
+        
+          ϵ
+          
+            6
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle {\tilde {\epsilon }}=(\epsilon _{xx},\epsilon _{yy},\epsilon _{zz},\gamma _{yz},\gamma _{xz},\gamma _{xy})\equiv (\epsilon _{1},\epsilon _{2},\epsilon _{3},\epsilon _{4},\epsilon _{5},\epsilon _{6}),}
+  where 
+  
+    
+      
+        
+          γ
+          
+            x
+            y
+          
+        
+        =
+        2
+        
+          ϵ
+          
+            x
+            y
+          
+        
+      
+    
+    {\displaystyle \gamma _{xy}=2\epsilon _{xy}}
+  , 
+  
+    
+      
+        
+          γ
+          
+            y
+            z
+          
+        
+        =
+        2
+        
+          ϵ
+          
+            y
+            z
+          
+        
+      
+    
+    {\displaystyle \gamma _{yz}=2\epsilon _{yz}}
+  , and 
+  
+    
+      
+        
+          γ
+          
+            z
+            x
+          
+        
+        =
+        2
+        
+          ϵ
+          
+            z
+            x
+          
+        
+      
+    
+    {\displaystyle \gamma _{zx}=2\epsilon _{zx}}
+   are engineering shear strains.
+The benefit of using different representations for stress and strain is that the scalar invariance
+
+  
+    
+      
+        
+          σ
+        
+        ⋅
+        
+          ϵ
+        
+        =
+        
+          σ
+          
+            i
+            j
+          
+        
+        
+          ϵ
+          
+            i
+            j
+          
+        
+        =
+        
+          
+            
+              σ
+              ~
+            
+          
+        
+        ⋅
+        
+          
+            
+              ϵ
+              ~
+            
+          
+        
+      
+    
+    {\displaystyle {\boldsymbol {\sigma }}\cdot {\boldsymbol {\epsilon }}=\sigma _{ij}\epsilon _{ij}={\tilde {\sigma }}\cdot {\tilde {\epsilon }}}
+  is preserved.
+Likewise, a three-dimensional symmetric fourth-order tensor can be reduced to a 6×6 matrix.
+
+Mnemonic rule
+A simple mnemonic rule for memorizing Voigt notation is as follows:
+
+Write down the second order tensor in matrix form (in the example, the stress tensor)
+Strike out the diagonal
+Continue on the third column
+Go back to the first element along the first row.Voigt indexes are numbered consecutively from the starting point to the end (in the example, the numbers in blue).
+
+Mandel notation
+For a symmetric tensor of second rank
+
+  
+    
+      
+        
+          σ
+        
+        =
+        
+          [
+          
+            
+              
+                
+                  
+                    σ
+                    
+                      11
+                    
+                  
+                
+                
+                  
+                    σ
+                    
+                      12
+                    
+                  
+                
+                
+                  
+                    σ
+                    
+                      13
+                    
+                  
+                
+              
+              
+                
+                  
+                    σ
+                    
+                      21
+                    
+                  
+                
+                
+                  
+                    σ
+                    
+                      22
+                    
+                  
+                
+                
+                  
+                    σ
+                    
+                      23
+                    
+                  
+                
+              
+              
+                
+                  
+                    σ
+                    
+                      31
+                    
+                  
+                
+                
+                  
+                    σ
+                    
+                      32
+                    
+                  
+                
+                
+                  
+                    σ
+                    
+                      33
+                    
+                  
+                
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle {\boldsymbol {\sigma }}=\left[{\begin{matrix}\sigma _{11}&\sigma _{12}&\sigma _{13}\\\sigma _{21}&\sigma _{22}&\sigma _{23}\\\sigma _{31}&\sigma _{32}&\sigma _{33}\end{matrix}}\right]}
+  only six components are distinct, the three on the diagonal and the others being off-diagonal. 
+Thus it can be expressed, in Mandel notation, as the vector
+
+  
+    
+      
+        
+          
+            
+              
+                σ
+                ~
+              
+            
+          
+          
+            M
+          
+        
+        =
+        ⟨
+        
+          σ
+          
+            11
+          
+        
+        ,
+        
+          σ
+          
+            22
+          
+        
+        ,
+        
+          σ
+          
+            33
+          
+        
+        ,
+        
+          
+            2
+          
+        
+        
+          σ
+          
+            23
+          
+        
+        ,
+        
+          
+            2
+          
+        
+        
+          σ
+          
+            13
+          
+        
+        ,
+        
+          
+            2
+          
+        
+        
+          σ
+          
+            12
+          
+        
+        ⟩
+        .
+      
+    
+    {\displaystyle {\tilde {\sigma }}^{M}=\langle \sigma _{11},\sigma _{22},\sigma _{33},{\sqrt {2}}\sigma _{23},{\sqrt {2}}\sigma _{13},{\sqrt {2}}\sigma _{12}\rangle .}
+  The main advantage of Mandel notation is to allow the use of the same conventional operations used with vectors,
+for example:
+
+  
+    
+      
+        
+          
+            
+              σ
+              ~
+            
+          
+        
+        :
+        
+          
+            
+              σ
+              ~
+            
+          
+        
+        =
+        
+          
+            
+              
+                σ
+                ~
+              
+            
+          
+          
+            M
+          
+        
+        ⋅
+        
+          
+            
+              
+                σ
+                ~
+              
+            
+          
+          
+            M
+          
+        
+        =
+        
+          σ
+          
+            11
+          
+          
+            2
+          
+        
+        +
+        
+          σ
+          
+            22
+          
+          
+            2
+          
+        
+        +
+        
+          σ
+          
+            33
+          
+          
+            2
+          
+        
+        +
+        2
+        
+          σ
+          
+            23
+          
+          
+            2
+          
+        
+        +
+        2
+        
+          σ
+          
+            13
+          
+          
+            2
+          
+        
+        +
+        2
+        
+          σ
+          
+            12
+          
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle {\tilde {\sigma }}:{\tilde {\sigma }}={\tilde {\sigma }}^{M}\cdot {\tilde {\sigma }}^{M}=\sigma _{11}^{2}+\sigma _{22}^{2}+\sigma _{33}^{2}+2\sigma _{23}^{2}+2\sigma _{13}^{2}+2\sigma _{12}^{2}.}
+  A symmetric tensor of rank four satisfying 
+  
+    
+      
+        
+          D
+          
+            i
+            j
+            k
+            l
+          
+        
+        =
+        
+          D
+          
+            j
+            i
+            k
+            l
+          
+        
+      
+    
+    {\displaystyle D_{ijkl}=D_{jikl}}
+   and 
+  
+    
+      
+        
+          D
+          
+            i
+            j
+            k
+            l
+          
+        
+        =
+        
+          D
+          
+            i
+            j
+            l
+            k
+          
+        
+      
+    
+    {\displaystyle D_{ijkl}=D_{ijlk}}
+   has 81 components in three-dimensional space, but only 36 
+components are distinct. Thus, in Mandel notation, it can be expressed as
+
+  
+    
+      
+        
+          
+            
+              
+                D
+                ~
+              
+            
+          
+          
+            M
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    D
+                    
+                      1111
+                    
+                  
+                
+                
+                  
+                    D
+                    
+                      1122
+                    
+                  
+                
+                
+                  
+                    D
+                    
+                      1133
+                    
+                  
+                
+                
+                  
+                    
+                      2
+                    
+                  
+                  
+                    D
+                    
+                      1123
+                    
+                  
+                
+                
+                  
+                    
+                      2
+                    
+                  
+                  
+                    D
+                    
+                      1113
+                    
+                  
+                
+                
+                  
+                    
+                      2
+                    
+                  
+                  
+                    D
+                    
+                      1112
+                    
+                  
+                
+              
+              
+                
+                  
+                    D
+                    
+                      2211
+                    
+                  
+                
+                
+                  
+                    D
+                    
+                      2222
+                    
+                  
+                
+                
+                  
+                    D
+                    
+                      2233
+                    
+                  
+                
+                
+                  
+                    
+                      2
+                    
+                  
+                  
+                    D
+                    
+                      2223
+                    
+                  
+                
+                
+                  
+                    
+                      2
+                    
+                  
+                  
+                    D
+                    
+                      2213
+                    
+                  
+                
+                
+                  
+                    
+                      2
+                    
+                  
+                  
+                    D
+                    
+                      2212
+                    
+                  
+                
+              
+              
+                
+                  
+                    D
+                    
+                      3311
+                    
+                  
+                
+                
+                  
+                    D
+                    
+                      3322
+                    
+                  
+                
+                
+                  
+                    D
+                    
+                      3333
+                    
+                  
+                
+                
+                  
+                    
+                      2
+                    
+                  
+                  
+                    D
+                    
+                      3323
+                    
+                  
+                
+                
+                  
+                    
+                      2
+                    
+                  
+                  
+                    D
+                    
+                      3313
+                    
+                  
+                
+                
+                  
+                    
+                      2
+                    
+                  
+                  
+                    D
+                    
+                      3312
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      2
+                    
+                  
+                  
+                    D
+                    
+                      2311
+                    
+                  
+                
+                
+                  
+                    
+                      2
+                    
+                  
+                  
+                    D
+                    
+                      2322
+                    
+                  
+                
+                
+                  
+                    
+                      2
+                    
+                  
+                  
+                    D
+                    
+                      2333
+                    
+                  
+                
+                
+                  2
+                  
+                    D
+                    
+                      2323
+                    
+                  
+                
+                
+                  2
+                  
+                    D
+                    
+                      2313
+                    
+                  
+                
+                
+                  2
+                  
+                    D
+                    
+                      2312
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      2
+                    
+                  
+                  
+                    D
+                    
+                      1311
+                    
+                  
+                
+                
+                  
+                    
+                      2
+                    
+                  
+                  
+                    D
+                    
+                      1322
+                    
+                  
+                
+                
+                  
+                    
+                      2
+                    
+                  
+                  
+                    D
+                    
+                      1333
+                    
+                  
+                
+                
+                  2
+                  
+                    D
+                    
+                      1323
+                    
+                  
+                
+                
+                  2
+                  
+                    D
+                    
+                      1313
+                    
+                  
+                
+                
+                  2
+                  
+                    D
+                    
+                      1312
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      2
+                    
+                  
+                  
+                    D
+                    
+                      1211
+                    
+                  
+                
+                
+                  
+                    
+                      2
+                    
+                  
+                  
+                    D
+                    
+                      1222
+                    
+                  
+                
+                
+                  
+                    
+                      2
+                    
+                  
+                  
+                    D
+                    
+                      1233
+                    
+                  
+                
+                
+                  2
+                  
+                    D
+                    
+                      1223
+                    
+                  
+                
+                
+                  2
+                  
+                    D
+                    
+                      1213
+                    
+                  
+                
+                
+                  2
+                  
+                    D
+                    
+                      1212
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        .
+      
+    
+    {\displaystyle {\tilde {D}}^{M}={\begin{pmatrix}D_{1111}&D_{1122}&D_{1133}&{\sqrt {2}}D_{1123}&{\sqrt {2}}D_{1113}&{\sqrt {2}}D_{1112}\\D_{2211}&D_{2222}&D_{2233}&{\sqrt {2}}D_{2223}&{\sqrt {2}}D_{2213}&{\sqrt {2}}D_{2212}\\D_{3311}&D_{3322}&D_{3333}&{\sqrt {2}}D_{3323}&{\sqrt {2}}D_{3313}&{\sqrt {2}}D_{3312}\\{\sqrt {2}}D_{2311}&{\sqrt {2}}D_{2322}&{\sqrt {2}}D_{2333}&2D_{2323}&2D_{2313}&2D_{2312}\\{\sqrt {2}}D_{1311}&{\sqrt {2}}D_{1322}&{\sqrt {2}}D_{1333}&2D_{1323}&2D_{1313}&2D_{1312}\\{\sqrt {2}}D_{1211}&{\sqrt {2}}D_{1222}&{\sqrt {2}}D_{1233}&2D_{1223}&2D_{1213}&2D_{1212}\\\end{pmatrix}}.}
+
+Applications
+The notation is named after physicist Woldemar Voigt & John Nye (scientist).  It is useful, for example, in calculations involving constitutive models to simulate materials, such as the generalized Hooke's law, as well as finite element analysis, and Diffusion MRI.Hooke's law has a symmetric fourth-order stiffness tensor with 81 components (3×3×3×3), but because the application of such a rank-4 tensor to a symmetric rank-2 tensor must yield another symmetric rank-2 tensor, not all of the 81 elements are independent. Voigt notation enables such a rank-4 tensor to be represented by a 6×6 matrix. However, Voigt's form does not preserve the sum of the squares, which in the case of Hooke's law has geometric significance. This explains why weights are introduced (to make the mapping an isometry).
+A discussion of invariance of Voigt's notation and Mandel's notation can be found in Helnwein (2001).
+
+References
+See also
+Vectorization (mathematics)
+Hooke's law

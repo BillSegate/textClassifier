@@ -1,0 +1,1674 @@
+The imaginary unit or unit imaginary number (i) is a solution to the quadratic equation 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        1
+        =
+        0
+      
+    
+    {\displaystyle x^{2}+1=0}
+  . Although there is no real number with this property, i can be used to extend the real numbers to what are called complex numbers, using addition and multiplication. A simple example of the use of i in a complex number is 
+  
+    
+      
+        2
+        +
+        3
+        i
+      
+    
+    {\displaystyle 2+3i}
+  .
+Imaginary numbers are an important mathematical concept; they extend the real number system 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+   to the complex number system 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+  , in which at least one root for every nonconstant polynomial exists (see Algebraic closure and Fundamental theorem of algebra). Here, the term "imaginary" is used because there is no real number having a negative square.
+There are two complex square roots of −1: 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   and 
+  
+    
+      
+        −
+        i
+      
+    
+    {\displaystyle -i}
+  , just as there are two complex square roots of every real number other than zero (which has one double square root).
+In contexts in which use of the letter i is ambiguous or problematic, the letter j is sometimes used instead. For example, in electrical engineering and control systems engineering, the imaginary unit is normally denoted by j instead of i, because i is commonly used to denote electric current.
+
+Definition
+The imaginary number i is defined solely by the property that its square is −1:
+
+With i defined this way, it follows directly from algebra that i and 
+  
+    
+      
+        −
+        i
+      
+    
+    {\displaystyle -i}
+   are both square roots of −1.
+Although the construction is called "imaginary", and although the concept of an imaginary number may be intuitively more difficult to grasp than that of a real number, the construction is valid from a mathematical standpoint. Real number operations can be extended to imaginary and complex numbers, by treating i as an unknown quantity while manipulating an expression (and using the definition to replace any occurrence of 
+  
+    
+      
+        
+          i
+          
+            2
+          
+        
+      
+    
+    {\displaystyle i^{2}}
+   with −1). Higher integral powers of i can also be replaced with 
+  
+    
+      
+        −
+        i
+      
+    
+    {\displaystyle -i}
+  , 1, i, or −1:
+
+ or, equivalently, 
+
+Similarly, as with any non-zero real number:
+
+As a complex number, i can be represented in rectangular form as 
+  
+    
+      
+        0
+        +
+        1
+        i
+      
+    
+    {\displaystyle 0+1i}
+  , with a zero real component and a unit imaginary component. In polar form, i can be represented as 
+  
+    
+      
+        1
+        ×
+        
+          e
+          
+            i
+            π
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle 1\times e^{i\pi /2}}
+   (or just 
+  
+    
+      
+        
+          e
+          
+            i
+            π
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle e^{i\pi /2}}
+  ), with an absolute value (or magnitude) of 1 and an argument (or angle) of 
+  
+    
+      
+        
+          
+            
+              π
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {\pi }{2}}}
+   radians. (Adding any multiple of 2π to this angle works as well.)  In the complex plane (also known as the Argand plane), which is a special interpretation of a Cartesian plane, i is the point located one unit from the origin along the imaginary axis (which is orthogonal to the real axis).
+
+i vs. −i
+Being a quadratic polynomial with no multiple root, the defining equation 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        =
+        −
+        1
+      
+    
+    {\displaystyle x^{2}=-1}
+   has two distinct solutions, which are equally valid and which happen to be additive and multiplicative inverses of each other. Once a solution i of the equation has been fixed, the value 
+  
+    
+      
+        −
+        i
+      
+    
+    {\displaystyle -i}
+  , which is distinct from i, is also a solution. Since the equation is the only definition of i, it appears that the definition is ambiguous (more precisely, not well-defined). However, no ambiguity will result as long as one or other of the solutions is chosen and labelled as "i", with the other one then being labelled as 
+  
+    
+      
+        −
+        i
+      
+    
+    {\displaystyle -i}
+  . After all, although 
+  
+    
+      
+        −
+        i
+      
+    
+    {\displaystyle -i}
+   and 
+  
+    
+      
+        +
+        i
+      
+    
+    {\displaystyle +i}
+   are not quantitatively equivalent (they are negatives of each other), there is no algebraic difference between 
+  
+    
+      
+        +
+        i
+      
+    
+    {\displaystyle +i}
+   and 
+  
+    
+      
+        −
+        i
+      
+    
+    {\displaystyle -i}
+  , as both imaginary numbers have equal claim to being the number whose square is −1.
+In fact, if all mathematical textbooks and published literature referring to imaginary or complex numbers were to be rewritten with 
+  
+    
+      
+        −
+        i
+      
+    
+    {\displaystyle -i}
+   replacing every occurrence of 
+  
+    
+      
+        +
+        i
+      
+    
+    {\displaystyle +i}
+   (and, therefore, every occurrence of 
+  
+    
+      
+        −
+        i
+      
+    
+    {\displaystyle -i}
+   replaced by 
+  
+    
+      
+        −
+        (
+        −
+        i
+        )
+        =
+        +
+        i
+      
+    
+    {\displaystyle -(-i)=+i}
+  ), all facts and theorems would remain valid. The distinction between the two roots x of 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        1
+        =
+        0
+      
+    
+    {\displaystyle x^{2}+1=0}
+  , with one of them labelled with a minus sign, is purely a notational relic; neither root can be said to be more primary or fundamental than the other, and neither of them is "positive" or "negative".The issue can be a subtle one. One way of articulating the situation is that although the complex field is unique (as an extension of the real numbers) up to isomorphism, it is not unique up to a unique isomorphism. Indeed, there are two field automorphisms of C that keep each real number fixed, namely the identity and complex conjugation.  For more on this general phenomenon, see Galois group.
+
+Matrices
+Using the concepts of matrices  and matrix multiplication, imaginary units can be represented in linear algebra. The value of 1 is represented by an identity matrix I and the value of i is represented by any matrix J satisfying J2 = −I.  A typical choice is
+
+More generally, a real-valued 2 × 2 matrix J satisfies J2 = −I if and only if J has a matrix trace of zero and a matrix determinant of one, so J can be chosen to be
+
+whenever −z2 − xy = 1.  The product xy is negative because xy = −(1 + z2); thus, the points (x, y) lie on hyperbolas determined by z in quadrant II or IV.
+Matrices larger than 2 × 2 can be used.  For example, I could be chosen to be the 4 × 4 identity matrix with J chosen to be any of the three 4 × 4 Dirac matrices for spatial dimensions, γ1, γ2, γ3.
+Regardless of the choice of representation, the usual rules of complex number mathematics work with these matrices because I × I = I, I × J = J, J × I = J, and J × J = −I.  For example,
+
+Proper use
+The imaginary unit is sometimes written 
+  
+    
+      
+        
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle {\sqrt {-1}}}
+   in advanced mathematics contexts (as well as in less advanced popular texts). However, great care needs to be taken when manipulating formulas involving radicals. The radical sign notation is reserved either for the principal square root function, which is only defined for real 
+  
+    
+      
+        x
+        ≥
+        0
+      
+    
+    {\displaystyle x\geq 0}
+  , or for the principal branch of the complex square root function. Attempting to apply the calculation rules of the principal (real) square root function to manipulate the principal branch of the complex square root function can produce false results:
+
+  
+    
+      
+        −
+        1
+        =
+        i
+        ⋅
+        i
+        =
+        
+          
+            −
+            1
+          
+        
+        ⋅
+        
+          
+            −
+            1
+          
+        
+        =
+        
+          
+            (
+            −
+            1
+            )
+            ⋅
+            (
+            −
+            1
+            )
+          
+        
+        =
+        
+          
+            1
+          
+        
+        =
+        1
+        
+        
+          (incorrect).
+        
+      
+    
+    {\displaystyle -1=i\cdot i={\sqrt {-1}}\cdot {\sqrt {-1}}={\sqrt {(-1)\cdot (-1)}}={\sqrt {1}}=1\qquad {\text{(incorrect).}}}
+  Similarly:
+
+  
+    
+      
+        
+          
+            1
+            i
+          
+        
+        =
+        
+          
+            
+              1
+            
+            
+              −
+              1
+            
+          
+        
+        =
+        
+          
+            
+              1
+              
+                −
+                1
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                −
+                1
+              
+              1
+            
+          
+        
+        =
+        
+          
+            −
+            1
+          
+        
+        =
+        i
+        
+        
+          (incorrect).
+        
+      
+    
+    {\displaystyle {\frac {1}{i}}={\frac {\sqrt {1}}{\sqrt {-1}}}={\sqrt {\frac {1}{-1}}}={\sqrt {\frac {-1}{1}}}={\sqrt {-1}}=i\qquad {\text{(incorrect).}}}
+  Generally, the calculation rules
+
+  
+    
+      
+        
+          
+            a
+          
+        
+        ⋅
+        
+          
+            b
+          
+        
+        =
+        
+          
+            a
+            ⋅
+            b
+          
+        
+      
+    
+    {\displaystyle {\sqrt {a}}\cdot {\sqrt {b}}={\sqrt {a\cdot b}}}
+  and
+
+  
+    
+      
+        
+          
+            
+              a
+            
+            
+              b
+            
+          
+        
+        =
+        
+          
+            
+              a
+              b
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\sqrt {a}}{\sqrt {b}}}={\sqrt {\frac {a}{b}}}}
+  are guaranteed to be valid for real, positive values of a and b only.When a or b is real but negative, these problems can be avoided by writing and manipulating expressions like 
+  
+    
+      
+        i
+        
+          
+            7
+          
+        
+      
+    
+    {\displaystyle i{\sqrt {7}}}
+  , rather than 
+  
+    
+      
+        
+          
+            −
+            7
+          
+        
+      
+    
+    {\displaystyle {\sqrt {-7}}}
+  . For a more thorough discussion, see square root and branch point.
+
+Properties
+Square roots
+Just like all nonzero complex numbers, i has two square roots: they are
+
+  
+    
+      
+        ±
+        
+          (
+          
+            
+              
+                
+                  2
+                
+                2
+              
+            
+            +
+            
+              
+                
+                  2
+                
+                2
+              
+            
+            i
+          
+          )
+        
+        =
+        ±
+        
+          
+            
+              2
+            
+            2
+          
+        
+        (
+        1
+        +
+        i
+        )
+        .
+      
+    
+    {\displaystyle \pm \left({\frac {\sqrt {2}}{2}}+{\frac {\sqrt {2}}{2}}i\right)=\pm {\frac {\sqrt {2}}{2}}(1+i).}
+  Indeed, squaring both expressions yields:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    (
+                    
+                      ±
+                      
+                        
+                          
+                            2
+                          
+                          2
+                        
+                      
+                      (
+                      1
+                      +
+                      i
+                      )
+                    
+                    )
+                  
+                  
+                    2
+                  
+                
+                 
+              
+              
+                
+                =
+                
+                  
+                    (
+                    
+                      ±
+                      
+                        
+                          
+                            2
+                          
+                          2
+                        
+                      
+                    
+                    )
+                  
+                  
+                    2
+                  
+                
+                (
+                1
+                +
+                i
+                
+                  )
+                  
+                    2
+                  
+                
+                 
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    1
+                    2
+                  
+                
+                (
+                1
+                +
+                2
+                i
+                +
+                
+                  i
+                  
+                    2
+                  
+                
+                )
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    1
+                    2
+                  
+                
+                (
+                1
+                +
+                2
+                i
+                −
+                1
+                )
+                 
+              
+            
+            
+              
+              
+                
+                =
+                i
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\left(\pm {\frac {\sqrt {2}}{2}}(1+i)\right)^{2}\ &=\left(\pm {\frac {\sqrt {2}}{2}}\right)^{2}(1+i)^{2}\ \\&={\frac {1}{2}}(1+2i+i^{2})\\&={\frac {1}{2}}(1+2i-1)\ \\&=i.\end{aligned}}}
+  Using the radical sign for the principal square root, we get:
+
+  
+    
+      
+        
+          
+            i
+          
+        
+        =
+        
+          
+            
+              2
+            
+            2
+          
+        
+        (
+        1
+        +
+        i
+        )
+        .
+      
+    
+    {\displaystyle {\sqrt {i}}={\frac {\sqrt {2}}{2}}(1+i).}
+
+Cube roots
+The three cube roots of i are:
+
+  
+    
+      
+        −
+        i
+        ,
+      
+    
+    {\displaystyle -i,}
+  
+
+  
+    
+      
+        
+          
+            
+              3
+            
+            2
+          
+        
+        +
+        
+          
+            i
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle {\frac {\sqrt {3}}{2}}+{\frac {i}{2}},}
+   and
+
+  
+    
+      
+        −
+        
+          
+            
+              3
+            
+            2
+          
+        
+        +
+        
+          
+            i
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle -{\frac {\sqrt {3}}{2}}+{\frac {i}{2}}.}
+  Similar to all the roots of 1, all the roots of i are the vertices of regular polygons, which are inscribed within the unit circle in the complex plane.
+
+Multiplication and division
+Multiplying a complex number by i gives:
+
+  
+    
+      
+        i
+        (
+        a
+        +
+        b
+        i
+        )
+        =
+        a
+        i
+        +
+        b
+        
+          i
+          
+            2
+          
+        
+        =
+        −
+        b
+        +
+        a
+        i
+        .
+      
+    
+    {\displaystyle i(a+bi)=ai+bi^{2}=-b+ai.}
+  (This is equivalent to a 90° counter-clockwise rotation of a vector about the origin in the complex plane.)
+Dividing by i is equivalent to multiplying by the reciprocal of i:
+
+  
+    
+      
+        
+          
+            1
+            i
+          
+        
+        =
+        
+          
+            1
+            i
+          
+        
+        ⋅
+        
+          
+            i
+            i
+          
+        
+        =
+        
+          
+            i
+            
+              i
+              
+                2
+              
+            
+          
+        
+        =
+        
+          
+            i
+            
+              −
+              1
+            
+          
+        
+        =
+        −
+        i
+         
+        .
+      
+    
+    {\displaystyle {\frac {1}{i}}={\frac {1}{i}}\cdot {\frac {i}{i}}={\frac {i}{i^{2}}}={\frac {i}{-1}}=-i~.}
+  Using this identity to generalize division by i to all complex numbers gives:
+
+  
+    
+      
+        
+          
+            
+              a
+              +
+              b
+              i
+            
+            i
+          
+        
+        =
+        −
+        i
+        (
+        a
+        +
+        b
+        i
+        )
+        =
+        −
+        a
+        i
+        −
+        b
+        
+          i
+          
+            2
+          
+        
+        =
+        b
+        −
+        a
+        i
+        .
+      
+    
+    {\displaystyle {\frac {a+bi}{i}}=-i(a+bi)=-ai-bi^{2}=b-ai.}
+  (This is equivalent to a 90° clockwise rotation of a vector about the origin in the complex plane.)
+
+Powers
+The powers of i repeat in a cycle expressible with the following pattern, where n is any integer:
+
+  
+    
+      
+        
+          i
+          
+            4
+            n
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle i^{4n}=1}
+  
+
+  
+    
+      
+        
+          i
+          
+            4
+            n
+            +
+            1
+          
+        
+        =
+        i
+      
+    
+    {\displaystyle i^{4n+1}=i}
+  
+
+  
+    
+      
+        
+          i
+          
+            4
+            n
+            +
+            2
+          
+        
+        =
+        −
+        1
+      
+    
+    {\displaystyle i^{4n+2}=-1}
+  
+
+  
+    
+      
+        
+          i
+          
+            4
+            n
+            +
+            3
+          
+        
+        =
+        −
+        i
+        ,
+      
+    
+    {\displaystyle i^{4n+3}=-i,}
+  This leads to the conclusion that
+
+  
+    
+      
+        
+          i
+          
+            n
+          
+        
+        =
+        
+          i
+          
+            (
+            n
+            
+              mod
+              
+                4
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle i^{n}=i^{(n{\bmod {4}})}}
+  where mod represents the modulo operation.  Equivalently:
+
+  
+    
+      
+        
+          i
+          
+            n
+          
+        
+        =
+        cos
+        ⁡
+        (
+        n
+        π
+        
+          /
+        
+        2
+        )
+        +
+        i
+        sin
+        ⁡
+        (
+        n
+        π
+        
+          /
+        
+        2
+        )
+      
+    
+    {\displaystyle i^{n}=\cos(n\pi /2)+i\sin(n\pi /2)}
+  Although we do not give the details here, if one chooses branch cuts and principal values to support it then this last equation would apply to all complex values of n.
+
+i raised to the power of i
+Making use of Euler's formula, 
+  
+    
+      
+        
+          i
+          
+            i
+          
+        
+      
+    
+    {\displaystyle i^{i}}
+   has infinitely many values
+
+  
+    
+      
+        
+          i
+          
+            i
+          
+        
+        =
+        
+          
+            (
+            
+              e
+              
+                i
+                (
+                π
+                
+                  /
+                
+                2
+                +
+                2
+                k
+                π
+                )
+              
+            
+            )
+          
+          
+            i
+          
+        
+        =
+        
+          e
+          
+            
+              i
+              
+                2
+              
+            
+            (
+            π
+            
+              /
+            
+            2
+            +
+            2
+            k
+            π
+            )
+          
+        
+        =
+        
+          e
+          
+            −
+            (
+            π
+            
+              /
+            
+            2
+            +
+            2
+            k
+            π
+            )
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle i^{i}=\left(e^{i(\pi /2+2k\pi )}\right)^{i}=e^{i^{2}(\pi /2+2k\pi )}=e^{-(\pi /2+2k\pi )}\,,}
+  for any integer k.  A common principal value corresponds to 
+  
+    
+      
+        k
+        =
+        0
+      
+    
+    {\displaystyle k=0}
+   and gives 
+  
+    
+      
+        
+          i
+          
+            i
+          
+        
+        =
+        
+          e
+          
+            −
+            π
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle i^{i}=e^{-\pi /2}}
+  , which is 0.207879576....
+
+Factorial
+The factorial of the imaginary unit i is most often given in terms of the gamma function evaluated at 
+  
+    
+      
+        1
+        +
+        i
+      
+    
+    {\displaystyle 1+i}
+  :
+
+  
+    
+      
+        i
+        !
+        =
+        Γ
+        (
+        1
+        +
+        i
+        )
+        =
+        i
+        Γ
+        (
+        i
+        )
+        ≈
+        0.498015668
+        −
+        0.154949828
+        i
+        .
+      
+    
+    {\displaystyle i!=\Gamma (1+i)=i\Gamma (i)\approx 0.498015668-0.154949828i.}
+  The magnitude of this number is
+
+  
+    
+      
+        
+          |
+        
+        Γ
+        (
+        1
+        +
+        i
+        )
+        
+          |
+        
+        =
+        
+          
+            
+              π
+              
+                sinh
+                ⁡
+                π
+              
+            
+          
+        
+        =
+        0.521564046
+        …
+        ,
+      
+    
+    {\displaystyle |\Gamma (1+i)|={\sqrt {\frac {\pi }{\sinh \pi }}}=0.521564046\ldots ,}
+  while its argument is
+
+  
+    
+      
+        arg
+        ⁡
+        
+          Γ
+          (
+          1
+          +
+          i
+          )
+        
+        =
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            (
+          
+        
+        ln
+        ⁡
+        
+          n
+        
+        −
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            n
+          
+        
+        arccot
+        ⁡
+        
+          k
+        
+        
+          
+            )
+          
+        
+        ≈
+        −
+        0.301640320.
+      
+    
+    {\displaystyle \arg {\Gamma (1+i)}=\lim _{n\to \infty }{\biggl (}\ln {n}-\sum _{k=1}^{n}\operatorname {arccot} {k}{\biggr )}\approx -0.301640320.}
+
+Other operations
+Many mathematical operations that can be carried out with real numbers can also be carried out with i, such as exponentiation, roots, logarithms, and trigonometric functions. The following functions are well-defined, single-valued functions when x is a positive real number.
+A number raised to the ni power is:
+
+  
+    
+      
+        
+          x
+          
+            n
+            i
+          
+        
+        =
+        cos
+        ⁡
+        (
+        n
+        ln
+        ⁡
+        x
+        )
+        +
+        i
+        sin
+        ⁡
+        (
+        n
+        ln
+        ⁡
+        x
+        )
+        .
+      
+    
+    {\displaystyle x^{ni}=\cos(n\ln x)+i\sin(n\ln x).}
+  The nith root of a number is:
+
+  
+    
+      
+        
+          
+            x
+            
+              n
+              i
+            
+          
+        
+        =
+        cos
+        ⁡
+        
+          (
+          
+            
+              
+                ln
+                ⁡
+                x
+              
+              n
+            
+          
+          )
+        
+        −
+        i
+        sin
+        ⁡
+        
+          (
+          
+            
+              
+                ln
+                ⁡
+                x
+              
+              n
+            
+          
+          )
+        
+         
+        .
+      
+    
+    {\displaystyle {\sqrt[{ni}]{x}}=\cos \left({\frac {\ln x}{n}}\right)-i\sin \left({\frac {\ln x}{n}}\right)~.}
+  The cosine of ni is:
+
+  
+    
+      
+        cos
+        ⁡
+        n
+        i
+        =
+        cosh
+        ⁡
+        n
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          (
+          
+            
+              e
+              
+                n
+              
+            
+            +
+            
+              
+                1
+                
+                  e
+                  
+                    n
+                  
+                
+              
+            
+          
+          )
+        
+        =
+        
+          
+            
+              
+                e
+                
+                  2
+                  n
+                
+              
+              +
+              1
+            
+            
+              2
+              
+                e
+                
+                  n
+                
+              
+            
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle \cos ni=\cosh n={\frac {1}{2}}\left(e^{n}+{\frac {1}{e^{n}}}\right)={\frac {e^{2n}+1}{2e^{n}}}\,,}
+  which is a real number when n is a real number.
+The sine of ni is:
+
+  
+    
+      
+        sin
+        ⁡
+        n
+        i
+        =
+        i
+        sinh
+        ⁡
+        n
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          (
+          
+            
+              e
+              
+                n
+              
+            
+            −
+            
+              
+                1
+                
+                  e
+                  
+                    n
+                  
+                
+              
+            
+          
+          )
+        
+        i
+        =
+        
+          
+            
+              
+                e
+                
+                  2
+                  n
+                
+              
+              −
+              1
+            
+            
+              2
+              
+                e
+                
+                  n
+                
+              
+            
+          
+        
+        i
+        
+        ,
+      
+    
+    {\displaystyle \sin ni=i\sinh n={\frac {1}{2}}\left(e^{n}-{\frac {1}{e^{n}}}\right)i={\frac {e^{2n}-1}{2e^{n}}}i\,,}
+  which is a purely imaginary number when n is a real number.
+In contrast, many functions involving i, including those that depend upon log i or the logarithm of another complex number, are complex multi-valued functions, with different values on different branches of the Riemann surface the function is defined on. For example, if one chooses any branch where log i = πi/2 then one can write
+
+  
+    
+      
+        
+          log
+          
+            i
+          
+        
+        ⁡
+        x
+        =
+        −
+        
+          
+            
+              2
+              i
+              ln
+              ⁡
+              x
+            
+            π
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle \log _{i}x=-{\frac {2i\ln x}{\pi }}\,,}
+  when x is a positive real number.  When x is not a positive real number in the above formulas then one must precisely specify the branch to get a single-valued function; see complex logarithm.
+
+History
+Designating square roots of negative numbers as "imaginary" is generally credited to René Descartes, and Isaac Newton used the term as early as 1670. The i notation was introduced by Leonhard Euler.
+
+See also
+Euler's identity
+Hyperbolic unit
+Mathematical constant
+Multiplicity (mathematics)
+Root of unity
+Unit complex number
+
+Notes
+References
+Further reading
+Nahin, Paul J. (1998). An Imaginary Tale: The story of i [the square root of minus one]. Chichester: Princeton University Press. ISBN 0-691-02795-1 – via Archive.org.
+
+External links
+Euler, Leonhard. "Imaginary Roots of Polynomials". at "Convergence". mathdl.maa.org. Mathematical Association of America. Archived from the original on 13 July 2007.

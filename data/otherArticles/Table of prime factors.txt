@@ -1,0 +1,59 @@
+The tables contain the prime factorization of the natural numbers from 1 to 1000.
+When n is a prime number, the prime factorization is just n itself, written in bold below.
+The number 1 is called a unit. It has no prime factors and is neither prime nor composite.
+
+Properties
+Many properties of a natural number n can be seen or directly computed from the prime factorization of n.
+
+The multiplicity of a prime factor p of n is the largest exponent m for which pm divides n. The tables show the multiplicity for each prime factor. If no exponent is written then the multiplicity is 1 (since p = p1). The multiplicity of a prime which does not divide n may be called 0 or may be considered undefined.
+Ω(n), the big Omega function, is the number of prime factors of n counted with multiplicity (so it is the sum of all prime factor multiplicities).
+A prime number has Ω(n) = 1. The first: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37 (sequence A000040 in the OEIS). There are many special types of prime numbers.
+A composite number has Ω(n) > 1. The first: 4, 6, 8, 9, 10, 12, 14, 15, 16, 18, 20, 21 (sequence A002808 in the OEIS). All numbers above 1 are either prime or composite. 1 is neither.
+A semiprime has Ω(n) = 2 (so it is composite). The first: 4, 6, 9, 10, 14, 15, 21, 22, 25, 26, 33, 34 (sequence A001358 in the OEIS).
+A k-almost prime (for a natural number k) has Ω(n) = k (so it is composite if k > 1).
+An even number has the prime factor 2. The first: 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24 (sequence A005843 in the OEIS).
+An odd number does not have the prime factor 2. The first: 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23 (sequence A005408 in the OEIS). All integers are either even or odd.
+A square has even multiplicity for all prime factors (it is of the form a2 for some a). The first: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144 (sequence A000290 in the OEIS).
+A cube has all multiplicities divisible by 3 (it is of the form a3 for some a). The first: 1, 8, 27, 64, 125, 216, 343, 512, 729, 1000, 1331, 1728 (sequence A000578 in the OEIS).
+A perfect power has a common divisor m > 1 for all multiplicities (it is of the form am for some a > 1 and m > 1). The first: 4, 8, 9, 16, 25, 27, 32, 36, 49, 64, 81, 100 (sequence A001597 in the OEIS). 1 is sometimes included.
+A powerful number (also called squareful) has multiplicity above 1 for all prime factors. The first: 1, 4, 8, 9, 16, 25, 27, 32, 36, 49, 64, 72 (sequence A001694 in the OEIS).
+A prime power has only one prime factor. The first: 2, 3, 4, 5, 7, 8, 9, 11, 13, 16, 17, 19 (sequence A000961 in the OEIS). 1 is sometimes included.
+An Achilles number is powerful but not a perfect power. The first: 72, 108, 200, 288, 392, 432, 500, 648, 675, 800, 864, 968 (sequence A052486 in the OEIS).
+A square-free integer has no prime factor with multiplicity above 1. The first: 1, 2, 3, 5, 6, 7, 10, 11, 13, 14, 15, 17 (sequence A005117 in the OEIS)). A number where some but not all prime factors have multiplicity above 1 is neither square-free nor squareful.
+The Liouville function λ(n) is 1 if Ω(n) is even, and is -1 if Ω(n) is odd.
+The Möbius function μ(n) is 0 if n is not square-free. Otherwise μ(n) is 1 if Ω(n) is even, and is −1 if Ω(n) is odd.
+A sphenic number has Ω(n) = 3 and is square-free (so it is the product of 3 distinct primes). The first: 30, 42, 66, 70, 78, 102, 105, 110, 114, 130, 138, 154 (sequence A007304 in the OEIS).
+a0(n) is the sum of primes dividing n, counted with multiplicity. It is an additive function.
+A Ruth-Aaron pair is two consecutive numbers (x, x+1) with a0(x) = a0(x+1). The first (by x value): 5, 8, 15, 77, 125, 714, 948, 1330, 1520, 1862, 2491, 3248 (sequence A039752 in the OEIS), another definition is the same prime only count once, if so, the first (by x value): 5, 24, 49, 77, 104, 153, 369, 492, 714, 1682, 2107, 2299 (sequence A006145 in the OEIS)
+A primorial x# is the product of all primes from 2 to x. The first: 2, 6, 30, 210, 2310, 30030, 510510, 9699690, 223092870, 6469693230, 200560490130, 7420738134810 (sequence A002110 in the OEIS). 1# = 1 is sometimes included.
+A factorial x! is the product of all numbers from 1 to x. The first: 1, 2, 6, 24, 120, 720, 5040, 40320, 362880, 3628800, 39916800, 479001600 (sequence A000142 in the OEIS). 0! = 1 is sometimes included.
+A k-smooth number (for a natural number k) has largest prime factor ≤ k (so it is also j-smooth for any j > k).
+m is smoother than n if the largest prime factor of m is below the largest of n.
+A regular number has no prime factor above 5 (so it is 5-smooth). The first: 1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 15, 16 (sequence A051037 in the OEIS).
+A k-powersmooth number has all pm ≤ k where p is a prime factor with multiplicity m.
+A frugal number has more digits than the number of digits in its prime factorization (when written like below tables with multiplicities above 1 as exponents). The first in decimal: 125, 128, 243, 256, 343, 512, 625, 729, 1024, 1029, 1215, 1250 (sequence A046759 in the OEIS).
+An equidigital number has the same number of digits as its prime factorization. The first in decimal: 1, 2, 3, 5, 7, 10, 11, 13, 14, 15, 16, 17 (sequence A046758 in the OEIS).
+An extravagant number has fewer digits than its prime factorization. The first in decimal: 4, 6, 8, 9, 12, 18, 20, 22, 24, 26, 28, 30 (sequence A046760 in the OEIS).
+An economical number has been defined as a frugal number, but also as a number that is either frugal or equidigital.
+gcd(m, n) (greatest common divisor of m and n) is the product of all prime factors which are both in m and n (with the smallest multiplicity for m and n).
+m and n are coprime (also called relatively prime) if gcd(m, n) = 1 (meaning they have no common prime factor).
+lcm(m, n) (least common multiple of m and n) is the product of all prime factors of m or n (with the largest multiplicity for m or n).
+gcd(m, n) × lcm(m, n) = m × n. Finding the prime factors is often harder than computing gcd and lcm using other algorithms which do not require known prime factorization.
+m is a divisor of n (also called m divides n, or n is divisible by m) if all prime factors of m have at least the same multiplicity in n.The divisors of n are all products of some or all prime factors of n (including the empty product 1 of no prime factors).
+The number of divisors can be computed by increasing all multiplicities by 1 and then multiplying them.
+Divisors and properties related to divisors are shown in table of divisors.
+
+1 to 100
+101 to 200
+201 to 300
+301 to 400
+401 to 500
+501 to 600
+601 to 700
+701 to 800
+801 to 900
+901 to 1000
+See also
+Fundamental theorem of arithmetic – Integers have unique prime factorizations
+List of prime numbers – List of prime numbers and notable types of prime numbers
+Table of divisors – numbers divisible by another numberPages displaying wikidata descriptions as a fallback

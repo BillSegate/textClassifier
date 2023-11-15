@@ -1,0 +1,506 @@
+In mathematics, the Golomb–Dickman constant arises in the theory of random permutations and in number theory. Its value is
+
+  
+    
+      
+        λ
+        =
+        0.62432998854355087099293638310083724
+        …
+      
+    
+    {\displaystyle \lambda =0.62432998854355087099293638310083724\dots }
+   (sequence A084945 in the OEIS)It is not known whether this constant is rational or irrational.
+
+Definitions
+Let an be the average — taken over all permutations of a set of size n — of the length of the longest cycle in each permutation.  Then the Golomb–Dickman constant is
+
+  
+    
+      
+        λ
+        =
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            
+              a
+              
+                n
+              
+            
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle \lambda =\lim _{n\to \infty }{\frac {a_{n}}{n}}.}
+  In the language of probability theory, 
+  
+    
+      
+        λ
+        n
+      
+    
+    {\displaystyle \lambda n}
+   is asymptotically the expected length of the longest cycle in a uniformly distributed random permutation of a set of size n.
+In number theory, the Golomb–Dickman constant appears in connection with the average size of the largest prime factor of an integer. More precisely,
+
+  
+    
+      
+        λ
+        =
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            1
+            n
+          
+        
+        
+          ∑
+          
+            k
+            =
+            2
+          
+          
+            n
+          
+        
+        
+          
+            
+              log
+              ⁡
+              (
+              
+                P
+                
+                  1
+                
+              
+              (
+              k
+              )
+              )
+            
+            
+              log
+              ⁡
+              (
+              k
+              )
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \lambda =\lim _{n\to \infty }{\frac {1}{n}}\sum _{k=2}^{n}{\frac {\log(P_{1}(k))}{\log(k)}},}
+  where 
+  
+    
+      
+        
+          P
+          
+            1
+          
+        
+        (
+        k
+        )
+      
+    
+    {\displaystyle P_{1}(k)}
+   is the largest prime factor of k (sequence A006530 in the OEIS) . So if k is a d digit integer, then 
+  
+    
+      
+        λ
+        d
+      
+    
+    {\displaystyle \lambda d}
+   is the asymptotic average number of digits of the largest prime factor of k.
+The Golomb–Dickman constant appears in number theory in a different way.   What is the
+probability that second largest prime factor of n is smaller than the square root of the largest prime factor of n?  Asymptotically, this probability is 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  .
+More precisely,
+
+  
+    
+      
+        λ
+        =
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          Prob
+        
+        
+          {
+          
+            
+              P
+              
+                2
+              
+            
+            (
+            n
+            )
+            ≤
+            
+              
+                
+                  P
+                  
+                    1
+                  
+                
+                (
+                n
+                )
+              
+            
+          
+          }
+        
+      
+    
+    {\displaystyle \lambda =\lim _{n\to \infty }{\text{Prob}}\left\{P_{2}(n)\leq {\sqrt {P_{1}(n)}}\right\}}
+  where 
+  
+    
+      
+        
+          P
+          
+            2
+          
+        
+        (
+        n
+        )
+      
+    
+    {\displaystyle P_{2}(n)}
+   is the second largest prime factor n.
+The Golomb-Dickman constant also arises when we consider the average length of the largest cycle of any function from a finite set to itself.   If X is a finite set, if we repeatedly apply a function f: X → X to any element x of this set, it eventually enters a cycle, meaning that for some k we have 
+  
+    
+      
+        
+          f
+          
+            n
+            +
+            k
+          
+        
+        (
+        x
+        )
+        =
+        
+          f
+          
+            n
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle f^{n+k}(x)=f^{n}(x)}
+   for sufficiently large n; the smallest k with this property is the length of the cycle. Let bn be the average, taken over all functions from a set of size n to itself, of the length of the largest cycle.  Then Purdom and Williams proved that
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            
+              b
+              
+                n
+              
+            
+            
+              n
+            
+          
+        
+        =
+        
+          
+            
+              π
+              2
+            
+          
+        
+        λ
+        .
+      
+    
+    {\displaystyle \lim _{n\to \infty }{\frac {b_{n}}{\sqrt {n}}}={\sqrt {\frac {\pi }{2}}}\lambda .}
+
+Formulae
+There are several expressions for 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  .  These include:
+
+  
+    
+      
+        λ
+        =
+        
+          ∫
+          
+            0
+          
+          
+            1
+          
+        
+        
+          e
+          
+            
+              L
+              i
+            
+            (
+            t
+            )
+          
+        
+        
+        d
+        t
+      
+    
+    {\displaystyle \lambda =\int _{0}^{1}e^{\mathrm {Li} (t)}\,dt}
+  where 
+  
+    
+      
+        
+          L
+          i
+        
+        (
+        t
+        )
+      
+    
+    {\displaystyle \mathrm {Li} (t)}
+   is the logarithmic integral,
+
+  
+    
+      
+        λ
+        =
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        
+          e
+          
+            −
+            t
+            −
+            
+              E
+              
+                1
+              
+            
+            (
+            t
+            )
+          
+        
+        
+        d
+        t
+      
+    
+    {\displaystyle \lambda =\int _{0}^{\infty }e^{-t-E_{1}(t)}\,dt}
+  where 
+  
+    
+      
+        
+          E
+          
+            1
+          
+        
+        (
+        t
+        )
+      
+    
+    {\displaystyle E_{1}(t)}
+   is the exponential integral, and
+
+  
+    
+      
+        λ
+        =
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              ρ
+              (
+              t
+              )
+            
+            
+              t
+              +
+              2
+            
+          
+        
+        
+        d
+        t
+      
+    
+    {\displaystyle \lambda =\int _{0}^{\infty }{\frac {\rho (t)}{t+2}}\,dt}
+  and
+
+  
+    
+      
+        λ
+        =
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              ρ
+              (
+              t
+              )
+            
+            
+              (
+              t
+              +
+              1
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        
+        d
+        t
+      
+    
+    {\displaystyle \lambda =\int _{0}^{\infty }{\frac {\rho (t)}{(t+1)^{2}}}\,dt}
+  where 
+  
+    
+      
+        ρ
+        (
+        t
+        )
+      
+    
+    {\displaystyle \rho (t)}
+   is the Dickman function.
+
+See also
+Random permutation
+Random permutation statistics
+
+External links
+Weisstein, Eric W. "Golomb-Dickman Constant". MathWorld.
+OEIS sequence A084945 (Decimal expansion of Golomb-Dickman constant)
+Finch, Steven R. (2003). Mathematical Constants. Cambridge University Press. pp. 284–286. ISBN 0-521-81805-2.
+
+
+== References ==

@@ -1,0 +1,34 @@
+This page contains a list of observed/candidate gravitational wave events.
+
+Origin and nomenclature
+Direct observation of gravitational waves, which commenced with the detection of an event by LIGO in 2015, plays a key role in gravitational wave astronomy. LIGO has been involved in all subsequent detections to date, with Virgo joining in August 2017.Joint observation runs of LIGO and VIRGO, designated "O1, O2, etc." span many months, with months of maintenance and upgrades in-between designed to increase the instruments sensitivity and range. Within these run periods, the instruments are capable of detecting gravitational waves.
+The first run, O1, ran from September 12, 2015, to January 19, 2016, and succeeded in its first gravitational wave detection. O2 ran for a greater duration, from November 30, 2016, to August 25, 2017. O3 began on April 1, 2019, which was briefly suspended on September 30, 2019, for maintenance and upgrades, thus O3a. O3b marks resuming of the run and began on November 1, 2019. Due to the COVID-19 pandemic O3 was forced to end prematurely. O4 is planned to begin on May 24, 2023; initially planned for March, the project needed more time to stabilize the instruments.
+The O4 observing run has been extended from one year to 18 months, following plans to make further upgrades for the O5 run. Updated observing plans are published on the official website, containing the latest information on these runs.Gravitational wave events are named starting with the prefix GW, while observations that trigger an event alert but have not (yet) been confirmed are named starting with the prefix S. Six digits then indicate the date of the event, with the two first digits representing the year, the two middle digits the month and two final digits the day of observation. This is similar to the systematic naming for other kinds of astronomical event observations, such as those of gamma-ray bursts.
+Probable detections that are not confidently identified as gravitational wave events are designated LVT ("LIGO-Virgo trigger"). Known gravitational wave events come from the merger of two black holes (BH), two neutron stars (NS), or a black hole and a neutron star (BHNS). Some objects are in the mass gap between the largest predicted neutron star masses (Tolman–Oppenheimer–Volkoff limit) and the smallest known black holes.
+
+List of gravitational wave events
+Candidate events and marginal detections
+There is possible detection of nanohertz waves by observation of the timing of pulsars, but they have not been confirmed at the 5 sigma level of confidence, as yet.
+
+Marginal detections from O1 and O2
+In addition to well-constrained detections listed above, a number of low-significance detections of possible signals were made by LIGO and Virgo. Their characteristics are listed below, only including detections with a <50% chance of being noise:
+
+Observation candidates from O3/2019
+From observation run O3/2019 on, observations are published as Open Public Alerts to facilitate multi-messenger observations of events. Candidate event records can be directly accessed at the Gravitational-Wave Candidate Event Database (GraceDB). On 1 April 2019, the start of the third observation run was announced with a circular published in the public alerts tracker. The first O3/2019 binary black hole detection alert was broadcast on 8 April 2019. A significant percentage of O3 candidate events detected by LIGO are accompanied by corresponding triggers at Virgo.
+False alarm rates are mixed, with more than half of events assigned false alarm rates greater than 1 per 20 years, contingent on presence of glitches around signal, foreground electromagnetic instability, seismic activity, and operational status of any one of the three LIGO-Virgo instruments. For instance, events S190421ar and S190425z weren't detected by Virgo and LIGO's Hanford site, respectively.
+The LIGO/Virgo collaboration took a short break from observing during the month of October 2019 to improve performance and prepare for future plans, with no signals detected in that month as a result.The Kamioka Gravitational Wave Detector (KAGRA) in Japan became operational on 25 February 2020, likely improving the detection and localization of future gravitational wave signals. However, KAGRA does not report their signals in real-time on GraceDB as LIGO and Virgo do, so the results of their observation run will likely not be published until the end of O3.
+The LIGO-Virgo collaboration ended the O3 run early on March 27, 2020, due to health concerns from the COVID-19 pandemic.
+
+Observation candidates from O4/2023
+On 15 June 2022, LIGO announced to start the O4 observing run in March 2023. As the date got closer, engineering challenges delayed the observing run to May 2023. An engineering run to assess the sensitivity of LIGO, Virgo, and KAGRA began in April, with the Hanford detector's first operations beginning on April 29, and the Livingston and Virgo detectors' first operations beginning on May 5.On March 7, 2023, a Gamma-ray burst compatible with a neutron star merger was detected by the Fermi telescope and named GRB 230307A. The burst, identified as being from a host galaxy approximately 296 Mpc away, would likely have only been marginally detected at best by LIGO if it had been operating at the time, as the detectors would only later achieve a sensitivity of 160 Mpc for neutron star mergers by O4's beginning, 3 months later.
+Near the end of the engineering run on 15 May 2023, LIGO announced that O4 would be beginning on 24 May 2023, running for 20 months with up to 2 months of maintenance. The LIGO detectors failed to achieve the hoped for 160-190 Mpc sensitivity for neutron star mergers, but did achieve an improved 130-150 Mpc sensitivity over O3's 100-140 Mpc, later improving to nearly 160 Mpc for both detectors by late 2023. Virgo was found to have a damaged mirror, delaying its observing run until Fall 2023 at the earliest, and KAGRA achieved its planned 1 Mpc neutron star merger sensitivity, with further plans to upgrade beyond 10 Mpc by the end of the observing run.
+On 18 May 2023, near the end of the engineering run and shortly before O4 proper, the first candidate gravitational wave event was detected. VIRGO achieved a 31 Mpc neutron star merger sensitivity (similar to its performance during O2 in 2017) by September, but additional issues delayed its observation run until December 2023.
+
+See also
+GRB 150101B, a weak gamma-ray burst trigger observed prior to aLIGO O1 (beginning September 12, 2015), with claimed similarities to model-supported possible neutron star merger GW170817/GRB 170817A/AT2017gfo.
+
+Notes
+References
+External links
+"Detections". LIGO.
+Video (3:10): LIGO Orrey (1 Dec 2018) on YouTube

@@ -1,0 +1,4 @@
+In mathematics, the Fatou conjecture, named after Pierre Fatou, states that a quadratic family of maps from the complex plane to itself is hyperbolic for an open dense set of parameters.
+
+References
+Świątek, Grzegorz; Graczyk, Jacek (1998), The real Fatou conjecture, Annals of Mathematics Studies, vol. 144, Princeton University Press, ISBN 978-0-691-00257-6, MR 1657075

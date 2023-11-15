@@ -1,0 +1,78 @@
+A list of notable textbooks in thermodynamics and statistical mechanics, arranged by category and date.
+
+Only or mainly thermodynamics
+Fermi, Enrico (1956). Thermodynamics (New ed.). Dover Publications. ISBN 978-0486603612.
+Van Ness, H. C. (1983). Understanding Thermodynamics. Dover Publications. ISBN 978-0486632773.
+Callen, Herbert (1985). Thermodynamics and an Introduction to Themostatistics (2nd ed.). New York: John Wiley & Sons. ISBN 0-471-86256-8.
+Finn, C. B. P. (1993). Thermal Physics (2nd ed.). United States of America: CRC Press. ISBN 0-7487-4379-0.
+Zemansky, Mark W.; Dittman, Richard (1996). Heat and Thermodynamics (7th ed.). McGraw-Hill. ISBN 978-0070170599.
+Pokrovskii, Vladimir (2020). Thermodynamics of Complex Systems: Principles and applications. IOP Publishing, Bristol, UK. ISBN 978-0-7503-3451-8.
+
+Both thermodynamics and statistical mechanics
+Reif, Frederick (1965). Fundamentals of Statistical and Thermal Physics. McGraw-Hill. ISBN 0-07-051800-9.
+Sears, Francis W. (1975). Thermodynamics, Kinetic Theory, and Statistical Thermodynamics. Addison Wesley. ISBN 020106894X.
+Kittel, Charles (1969). Thermal Physics. Chichester: Wiley. ISBN 0-471-49030-X. 2e Kittel, Charles; and Kroemer, Herbert (1980) New York: W.H. Freeman ISBN 0-7167-1088-9
+Mandl, Franz (1971). Statistical physics. Chichester: Wiley. ISBN 0-471-56658-6. 2e (1988) Chichester: Wiley ISBN 0-471-91532-7, ISBN 0-471-91533-5.
+Landsberg, P. T. (1978). Thermodynamics and statistical mechanics. Oxford University Press. ISBN 0-19-851142-6. (1990) New York: Dover ISBN 0-486-66493-7
+Stowe, Keith (1983). Introduction to Statistical Mechanics and Thermodynamics (1st ed.). John Wiley & Sons. ISBN 0-471-87058-7.
+Waldram, J. R. (1985). The theory of thermodynamics. Cambridge: University Press. ISBN 0-521-28796-0.
+Schroeder, Daniel (2000). An Introduction to Thermal Physics. United States of America: Addison Wesley Longman. ISBN 0-201-38027-7.Blundell, Stephen; Blundell, Katherine (2006). Concepts in Thermal Physics. United Kingdom: Oxford University Press. ISBN 978-0-19-856769-1.
+Gould, Harvey and Tobochnik, Jan (2010). Statistical and Thermal Physics. Princeton University Press. ISBN 978-0-691-13744-5.{{cite book}}:  CS1 maint: multiple names: authors list (link)
+Swendsen, Robert (2012). An Introduction to Statistical Mechanics and Thermodynamics. Oxford University Press. ISBN 978-0-19-964694-4.
+
+Statistical mechanics
+Fowler, R. H. (1929). Statistical mechanics : the theory of the properties of matter in equilibrium. Cambridge: University Press.. 2e (1936) Cambridge: University Press; (1980) Cambridge University Press. ISBN 0-521-09377-5
+Tolman, Richard C. (1938). The principles of statistical mechanics. Oxford: Clarendon Press.; (1979) New York: Dover ISBN 0-486-63896-0
+Landau, Lev Davidovich; and Lifshitz, Evgeny Mikhailovich (1969). Statistical Physics. Internet Archive.{{cite book}}:  CS1 maint: multiple names: authors list (link) Vol. 5 of the Course of Theoretical Physics. 3e (1976) Translated by J.B. Sykes and M.J. Kearsley (1980) Oxford : Pergamon Press. ISBN 0-7506-3372-7
+ter Haar, Dirk (1954). Elements of statistical mechanics. London: Constable.. 3e (1995) Oxford: Butterworth-Heinemann ISBN 0-7506-2347-0
+Huang, Kerson (1963). Statistical mechanics. New York: Wiley. ISBN 0-471-41760-2.. 2e (1987) New York: Wiley ISBN 0-471-81518-7
+Kubo, Ryogo; et al. (1965). Statistical mechanics. Amsterdam: North-Holland. ISBN 0-444-10637-5.. 2e (1988) Amsterdam: North-Holland ISBN 0-444-87103-9. 2e (1991) Berlin: Springer Verlag ISBN 0-387-53662-0, ISBN 3-540-53662-0
+Penrose, Oliver (1970). Foundations of statistical mechanics : a deductive treatment. Oxford: Pergamon. ISBN 0-08-013314-2.; (2005) New York: Dover ISBN 0-486-43870-8
+McQuarrie, Donald A. (1975). Statistical mechanics. New York: Harper & Row. ISBN 0-06-044366-9.2e (2000) Sausalito, Calif.: University Science ISBN 1-891389-15-7Reichl, Linda E (1980). A modern course in statistical physics. London: Edward Arnold. ISBN 0-7131-2777-5.2e (1998) Chichester: Wiley ISBN 0-471-59520-9Ma, Shang-keng (1985). Statistical mechanics. Singapore: World Scientific. ISBN 9971-966-06-9.
+Chandler, David (1987). Introduction to Modern Statistical Mechanics. Oxford University Press. ISBN 0-19-504277-8.
+W.A. Wassam, Jr. (2002). Statistical Mechanics : Encyclopedia of Physical Science and Technology, Third Edition, Volume 15. Academic Press. ISBN 978-0-12-227410-7.
+Bowley, Roger and Sanchez, Mariana (2000). Introductory Statistical Mechanics. Oxford University Press. ISBN 978-0-19-850576-1.{{cite book}}:  CS1 maint: multiple names: authors list (link)
+Van Vliet, Carolyne M. (2008). Equilibrium and Non-equilibrium Statistical Mechanics. World Scientific Publishing Company. p. 982. ISBN 978-981-270-477-1.
+Peliti, Luca (2011). Statistical Mechanics in a Nutshell. Princeton University Press. p. 417. ISBN 978-0-691-14529-7.
+Pathria, P. K.; Beale, Paul (2021). Statistical Mechanics (4th ed.). United States: Elsevier/Academic Press. ISBN 978-0081026922.
+Müller-Kirsten, Harald J.W. (2022). Basics of Statistical Physics, 3rd ed. World Scientific. ISBN 978-981-125-609-7.
+
+Specialized topics
+Kinetic theory
+Lifshitz, E. M. & Pitaevskii, L. P. (1981). Physical kinetics. Vol. 10 of the Course of Theoretical Physics (3rd Ed). Translated by J.B. Sykes and R.N. Franklin (1981) London: Pergamon ISBN 0-08-026480-8, ISBN 0-7506-2635-6
+Zubarev, D. N. (1974). Nonequilibrium Statistical Thermodynamics. New York: Consultants Bureau. ISBN 978-0-306-10895-2.
+Zubarev, D. N.; Morozov V.; Ropke G. (1996). Statistical Mechanics of Nonequilibrium Processes: Basic Concepts, Kinetic Theory. John Wiley & Sons. ISBN 3-05-501708-0.
+Zubarev, D. N.; Morozov V.; Ropke G. (1997). Statistical Mechanics of Nonequilibrium Processes: Relaxation and Hydrodynamic Processes. John Wiley & Sons. ISBN 3-527-40084-2.
+
+Quantum statistical mechanics
+Bogoliubov, N. N. (1967–1970). Lectures on Quantum Statistics. Problems of Statistical Mechanics of Quantum Systems. New York: Gordon and Breach.
+Bogoliubov, N. N.; N. N. Bogolubov, Jnr. (1992). Introduction to Quantum Statistical Mechanics. New York: Gordon and Breach. ISBN 2-88124-879-9.
+
+Mathematics of statistical mechanics
+Khinchin, Aleksandr Ya. (1943). Mathematical Foundations of Statistical Mechanics. Translated by G. Gamow (1949) New York: Dover ISBN 0-486-60147-1
+Ruelle, David (1969). Statistical Mechanics: Rigorous Results. New York: Benjamin. ISBN 9780805383607. ISBN 0-8053-8361-1. Reissued (1974), (1989); (1999) Singapore: World Scientific ISBN 981-02-3862-2
+Ruelle, David (1978). Thermodynamic formalism : the mathematical structures of classical equilibrium statistical mechanics. Addison-Wesley. ISBN 0-201-13504-3.; (1984) Cambridge: University Press ISBN 0-521-30225-0. 2e (2004) Cambridge: University Press ISBN 0-521-54649-4
+Minlos, Robert Adol'fovich (2000). Introduction to Mathematical Statistical Mechanics. Providence, RI: American Mathematical Society. ISBN 978-0-8218-1337-9.
+Friedli, Sacha; Velenik, Yvan (2017). Statistical Mechanics of Lattice Systems: a Concrete Mathematical Introduction. Cambridge: Cambridge University Press. ISBN 978-1-107-18482-4.
+
+Miscellaneous
+Hoover, Wm. G. (1991). Computational Statistical Mechanics. Elsevier. ISBN 0-444-88192-1.(available online here)Sethna, James (2006). Statistical Mechanics: Entropy, Order Parameters, and Complexity. Oxford University Press. ISBN 0-19-856677-8.
+Kardar, Mehran (2007). Statistical Physics of Fields. Cambridge University Press. ISBN 978-0-521-87341-3.
+
+Historical
+Boltzmann, Ludwig. Lectures on gas theory. (1896, 1898) Translated by Stephen G. Brush (1964) Berkeley: University of California Press; (1995) New York: Dover ISBN 0-486-68455-5
+Gibbs, Josiah Willard (1902). Elementary Principles in Statistical Mechanics, developed with especial reference to the rational foundation of thermodynamics. New York: Charles Scribner's Sons.
+Sommerfeld, Arnold; ed: F. Bopp, J. Meixner (1952). Thermodynamics and statistical mechanics.{{cite book}}:  CS1 maint: multiple names: authors list (link) Translated by J. Kestin (1956) New York: Academic Press.
+Ehrenfest, Paul and Tatiana (1912). The conceptual foundations of the statistical approach in mechanics. German Encyclopedia of Mathematical Sciences. Translated by Michael J. Moravcsik (1959) Ithaca: Cornell University Press; (1990) New York: Dover ISBN 0-486-66250-0
+
+See also
+List of textbooks on classical mechanics and quantum mechanics
+List of textbooks in electromagnetism
+List of books on general relativity
+
+Further reading
+Thorne, Kip S.; Blandford, Roger D. (2017). Modern Classical Physics: Optics, Fluids, Plasmas, Elasticity, Relativity, and Statistical Physics. Princeton University Press. ISBN 978-0691159027.
+
+References
+External links
+Statistical Mechanics and Thermodynamics Texts Clark University curriculum development project

@@ -1,0 +1,66 @@
+The mathematical field of combinatorics was studied to varying degrees in numerous ancient societies.  Its study in Europe dates to the work of Leonardo Fibonacci in the 13th century AD, which introduced Arabian and Indian ideas to the continent.  It has continued to be studied in the modern era.
+
+Earliest records
+The earliest recorded use of combinatorial techniques comes from problem 79 of the Rhind papyrus, which dates to the 16th century BCE.  The problem concerns a certain geometric series, and has similarities to Fibonacci's problem of counting the number of compositions of 1s and 2s that sum to a given total.In Greece, Plutarch wrote that Xenocrates of Chalcedon (396–314 BC) discovered the number of different syllables possible in the Greek language. This would have been the first attempt on record to solve a difficult problem in permutations and combinations. The claim, however, is implausible: this is one of the few mentions of combinatorics in Greece, and the number they found, 1.002 × 10 12, seems too round to be more than a guess.Later, an argument between Chrysippus (3rd century BCE) and Hipparchus (2nd century BCE) of a rather delicate enumerative problem, which was later shown to be related to Schröder–Hipparchus numbers, is mentioned. There is also evidence that in the Ostomachion, Archimedes (3rd century BCE) considered the configurations of a tiling puzzle, while some combinatorial interests may have been present in lost works of Apollonius.In India, the Bhagavati Sutra had the first mention of a combinatorics problem; the problem asked how many possible combinations of tastes were possible from selecting tastes in ones, twos, threes, etc. from a selection of six different tastes (sweet, pungent, astringent, sour, salt, and bitter). The Bhagavati is also the first text to mention the choose function. In the second century BC, Pingala included an enumeration problem in the Chanda Sutra (also Chandahsutra) which asked how many ways a six-syllable meter could be made from short and long notes. Pingala found the number of meters that had 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   long notes and 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   short notes; this is equivalent to finding the binomial coefficients.
+The ideas of the Bhagavati were generalized by the Indian mathematician Mahavira in 850 AD, and Pingala's work on prosody was expanded by Bhāskara II and Hemacandra in 1100 AD. Bhaskara was the first known person to find the generalised choice function, although Brahmagupta may have known earlier. Hemacandra asked how many meters existed of a certain length if a long note was considered to be twice as long as a short note, which is equivalent to finding the Fibonacci numbers.
+The ancient Chinese book of divination I Ching describes a hexagram as a permutation with repetitions of six lines where each line can be one of two states: solid or dashed. In describing hexagrams in this fashion they determine that there are 
+  
+    
+      
+        
+          2
+          
+            6
+          
+        
+        =
+        64
+      
+    
+    {\displaystyle 2^{6}=64}
+   possible hexagrams. A Chinese monk also may have counted the number of configurations to a game similar to Go around 700 AD. Although China had relatively few advancements in enumerative combinatorics, around 100 AD they solved the Lo Shu Square which is the combinatorial design problem of the normal magic square of order three. Magic squares remained an interest of China, and they began to generalize their original 
+  
+    
+      
+        3
+        ×
+        3
+      
+    
+    {\displaystyle 3\times 3}
+   square between 900 and 1300 AD. China corresponded with the Middle East about this problem in the 13th century. The Middle East also learned about binomial coefficients from Indian work and found the connection to polynomial expansion. The work of Hindus influenced Arabs as seen in the work of al-Khalil ibn Ahmad who considered the possible arrangements of letters to form syllables. His calculations show an understanding of permutations and combinations. In a passage from the work of Arab mathematician Umar al-Khayyami that dates to around 1100, it is corroborated that the Hindus had knowledge of binomial coefficients, but also that their methods reached the middle east.
+Abū Bakr ibn Muḥammad ibn al Ḥusayn Al-Karaji (c.953-1029) wrote on the binomial theorem and Pascal's triangle. In a now lost work known only from subsequent quotation by al-Samaw'al, Al-Karaji introduced the idea of argument by mathematical induction.
+The philosopher and astronomer Rabbi Abraham ibn Ezra (c. 1140) counted the permutations with repetitions in vocalization of Divine Name. He also established the symmetry of binomial coefficients, while a closed formula was obtained later by the talmudist and mathematician Levi ben Gerson (better known as Gersonides), in 1321.
+The arithmetical triangle— a graphical diagram showing relationships among the binomial coefficients— was presented by mathematicians in treatises dating as far back as the 10th century, and would eventually become known as Pascal's triangle.  Later, in Medieval England, campanology provided examples of what is now known as Hamiltonian cycles in certain Cayley graphs on permutations.
+
+Combinatorics in the West
+Combinatorics came to Europe in the 13th century through mathematicians Leonardo Fibonacci and Jordanus de Nemore. Fibonacci's Liber Abaci introduced many of the Arabian and Indian ideas to Europe, including that of the Fibonacci numbers. Jordanus was the first person to arrange the binomial coefficients in a triangle, as he did in proposition 70 of De Arithmetica. This was also done in the Middle East in 1265, and China around 1300. Today, this triangle is known as Pascal's triangle.
+Pascal's contribution to the triangle that bears his name comes from his work on formal proofs about it, and the connections he made between Pascal's triangle and probability. From a letter Leibniz sent to Daniel Bernoulli we learn that Leibniz was formally studying the mathematical theory of partitions in the 17th century, although no formal work was published. Together with Leibniz, Pascal published De Arte Combinatoria in 1666 which was reprinted later. Pascal and Leibniz are considered the founders of modern combinatorics.Both Pascal and Leibniz understood that the binomial expansion was equivalent to the choice function. The notion that algebra and combinatorics corresponded was expanded by De Moivre, who found the expansion of a multinomial. De Moivre also found the formula for derangements using the principle of principle of inclusion-exclusion, a method different from Nikolaus Bernoulli, who had found it previously. De Moivre also managed to approximate the binomial coefficients and factorial, and found a closed form for the Fibonacci numbers by inventing generating functions.In the 18th century, Euler worked on problems of combinatorics, and several problems of probability which are linked to combinatorics. Problems Euler worked on include the Knights tour, Graeco-Latin square, Eulerian numbers, and others. To solve the Seven Bridges of Königsberg problem he invented graph theory, which also led to the formation of topology. Finally, he broke ground with partitions by the use of generating functions.
+
+Contemporary combinatorics
+In the 19th century, the subject of partially ordered sets and lattice theory originated in the work of Dedekind, Peirce, and Schröder. However, it was Garrett Birkhoff's seminal work in his book Lattice Theory published in 1967, and the work of John von Neumann that truly established the subjects. In the 1930s, Hall (1936) and Weisner (1935) independently stated the general Möbius inversion formula. In 1964,  Gian-Carlo Rota's On the Foundations of Combinatorial Theory I. Theory of Möbius Functions  introduced poset and lattice theory as theories in Combinatorics. Richard P. Stanley has had a big impact in contemporary combinatorics for his work in matroid theory, for introducing Zeta polynomials, for explicitly defining Eulerian posets, developing the theory of binomial posets along with Rota and Peter Doubilet, and more. Paul Erdős made seminal contributions to combinatorics throughout the century, winning the Wolf prize in-part for these contributions.
+
+Notes
+References
+N.L. Biggs, The roots of combinatorics, Historia Mathematica 6 (1979), 109–136.
+Katz, Victor J. (1998). A History of Mathematics: An Introduction, 2nd Edition. Addison-Wesley Education Publishers. ISBN 0-321-01618-1.
+O'Connor, John J. and Robertson, Edmund F. (1999–2004). MacTutor History of Mathematics archive. St Andrews University.
+Rashed, R. (1994). The development of Arabic mathematics: between arithmetic and algebra. London.
+Wilson, R. and Watkins, J. (2013). Combinatorics: Ancient & Modern. Oxford.
+Stanley, Richard (2012). Enumerative combinatorics (2nd ed. ed.), 2nd Edition. Cambridge University Press. ISBN 1107602629.

@@ -1,0 +1,5 @@
+The laser printing of single nanoparticles is a method of applying optical forces that direct single nanoparticles to targeted substrate regions. Van der Waals interactions cause attachment of the single nanoparticles to the substrate areas. This has been accomplished with gold and silicon nanoparticles.
+
+References
+Further reading
+Nedev, Spas N.; Urban, Alexander S.; Lutich, Andrey A.; Jäckel, Frank; Feldmann, Jochen (2012). "Parallel Laser Printing of Nanoparticles". Conference on Lasers and Electro-Optics 2012. p. QW3H.1. doi:10.1364/QELS.2012.QW3H.1. ISBN 978-1-55752-943-5.

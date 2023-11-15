@@ -1,0 +1,2791 @@
+A mathematical coincidence is said to occur when two expressions with no direct relationship show a near-equality which has no apparent theoretical explanation.
+For example, there is a near-equality close to the round number 1000 between powers of 2 and powers of 10:
+
+  
+    
+      
+        
+          2
+          
+            10
+          
+        
+        =
+        1024
+        ≈
+        1000
+        =
+        
+          10
+          
+            3
+          
+        
+        .
+      
+    
+    {\displaystyle 2^{10}=1024\approx 1000=10^{3}.}
+  Some mathematical coincidences are used in engineering when one expression is taken as an approximation of another.
+
+Introduction
+A mathematical coincidence often involves an integer, and the surprising feature is the fact that a real number arising in some context is considered by some standard as a "close" approximation to a small integer or to a multiple or power of ten, or more generally, to a rational number with a small denominator.  Other kinds of mathematical coincidences, such as integers simultaneously satisfying multiple seemingly unrelated criteria or coincidences regarding units of measurement, may also be considered.  In the class of those coincidences that are of a purely mathematical sort, some simply result from sometimes very deep mathematical facts, while others appear to come 'out of the blue'.
+Given the countably infinite number of ways of forming mathematical expressions using a finite number of symbols, the number of symbols used and the precision of approximate equality might be the most obvious way to assess mathematical coincidences; but there is no standard, and the strong law of small numbers is the sort of thing one has to appeal to with no formal opposing mathematical guidance. Beyond this, some sense of mathematical aesthetics could be invoked to adjudicate the value of a mathematical coincidence, and there are in fact exceptional cases of true mathematical significance (see Ramanujan's constant below, which made it into print some years ago as a scientific April Fools' joke).  All in all, though, they are generally to be considered for their curiosity value or, perhaps, to encourage new mathematical learners at an elementary level.
+
+Some examples
+Rational approximants
+Sometimes simple rational approximations are exceptionally close to interesting irrational values. These are explainable in terms of large terms in the continued fraction representation of the irrational value, but further insight into why such improbably large terms occur is often not available.
+Rational approximants (convergents of continued fractions) to ratios of logs of different numbers are often invoked as well, making coincidences between the powers of those numbers.Many other coincidences are combinations of numbers that put them into the form that such rational approximants provide close relationships.
+
+Concerning π
+The second convergent of π, [3; 7] = 22/7 = 3.1428..., was known to Archimedes, and is correct to about 0.04%.  The fourth convergent of π, [3; 7, 15, 1] = 355/113 = 3.1415929..., found by Zu Chongzhi, is correct to six decimal places; this high accuracy comes about because π has an unusually large next term in its continued fraction representation: π = [3; 7, 15, 1, 292, ...].
+A coincidence involving π and the golden ratio φ is given by 
+  
+    
+      
+        π
+        ≈
+        4
+        
+          /
+        
+        
+          
+            φ
+          
+        
+        =
+        3.1446
+        …
+      
+    
+    {\displaystyle \pi \approx 4/{\sqrt {\varphi }}=3.1446\dots }
+  . Consequently, the square on the middle-sized edge of a Kepler triangle is similar in perimeter to its circumcircle. Some believe one or the other of these coincidences is to be found in the Great Pyramid of Giza, but it is highly improbable that this was intentional.
+There is a sequence of six nines in pi, popularly known as the Feynman point, beginning at the 762nd decimal place of its decimal representation. For a randomly chosen normal number, the probability of a particular sequence of six consecutive digits—of any type, not just a repeating one—to appear this early is 0.08%. Pi is conjectured, but not known, to be a normal number.
+The first Feigenbaum constant is approximately equal to 
+  
+    
+      
+        
+          
+            
+              10
+              
+                π
+                −
+                1
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {10}{\pi -1}}}
+  , with an error of 0.0015%.
+
+Concerning base 2
+The coincidence 
+  
+    
+      
+        
+          2
+          
+            10
+          
+        
+        =
+        1024
+        ≈
+        1000
+        =
+        
+          10
+          
+            3
+          
+        
+      
+    
+    {\displaystyle 2^{10}=1024\approx 1000=10^{3}}
+  , correct to 2.4%, relates to the rational approximation 
+  
+    
+      
+        
+          
+            
+              
+                log
+                ⁡
+                10
+              
+              
+                log
+                ⁡
+                2
+              
+            
+          
+          ≈
+          3.3219
+          ≈
+          
+            
+              10
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle {\frac {\log 10}{\log 2}}\approx 3.3219\approx {\frac {10}{3}}}
+  , or 
+  
+    
+      
+        2
+        ≈
+        
+          10
+          
+            3
+            
+              /
+            
+            10
+          
+        
+      
+    
+    {\displaystyle 2\approx 10^{3/10}}
+   to within 0.3%.  This relationship is used in engineering, for example to approximate a factor of two in power as 3 dB (actual is 3.0103 dB – see Half-power point), or to relate a kibibyte to a kilobyte; see binary prefix.
+This coincidence can also be expressed as 
+  
+    
+      
+        128
+        =
+        
+          2
+          
+            7
+          
+        
+        ≈
+        
+          5
+          
+            3
+          
+        
+        =
+        125
+      
+    
+    {\displaystyle 128=2^{7}\approx 5^{3}=125}
+   (eliminating common factor of 
+  
+    
+      
+        
+          2
+          
+            3
+          
+        
+      
+    
+    {\displaystyle 2^{3}}
+  , so also correct to 2.4%), which corresponds to the rational approximation 
+  
+    
+      
+        
+          
+            
+              
+                log
+                ⁡
+                5
+              
+              
+                log
+                ⁡
+                2
+              
+            
+          
+          ≈
+          2.3219
+          ≈
+          
+            
+              7
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle {\frac {\log 5}{\log 2}}\approx 2.3219\approx {\frac {7}{3}}}
+  , or 
+  
+    
+      
+        2
+        ≈
+        
+          5
+          
+            3
+            
+              /
+            
+            7
+          
+        
+      
+    
+    {\displaystyle 2\approx 5^{3/7}}
+   (also to within 0.3%). This is invoked for instance in shutter speed settings on cameras, as approximations to powers of two (128, 256, 512) in the sequence of speeds 125, 250, 500, etc, and in the original Who Wants to Be a Millionaire? game show in the question values ...£16,000, £32,000, £64,000, £125,000, £250,000,...
+
+Concerning musical intervals
+In music, the distances between notes (intervals) are measured as ratios of their frequencies, with near-rational ratios often sounding harmonious. In western twelve-tone equal temperament, the ratio between consecutive note frequencies is 
+  
+    
+      
+        
+          
+            2
+            
+              12
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt[{12}]{2}}}
+  . 
+
+The coincidence 
+  
+    
+      
+        
+          2
+          
+            19
+          
+        
+        ≈
+        
+          3
+          
+            12
+          
+        
+      
+    
+    {\displaystyle 2^{19}\approx 3^{12}}
+  , from 
+  
+    
+      
+        
+          
+            
+              log
+              ⁡
+              3
+            
+            
+              log
+              ⁡
+              2
+            
+          
+        
+        =
+        1.5849
+        …
+        ≈
+        
+          
+            19
+            12
+          
+        
+      
+    
+    {\displaystyle {\frac {\log 3}{\log 2}}=1.5849\ldots \approx {\frac {19}{12}}}
+  , closely relates the interval of 7 semitones in equal temperament to a perfect fifth of just intonation:  
+  
+    
+      
+        
+          2
+          
+            7
+            
+              /
+            
+            12
+          
+        
+        ≈
+        3
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle 2^{7/12}\approx 3/2}
+  , correct to about 0.1%. The just fifth is the basis of Pythagorean tuning; the difference between twelve just fifths and seven octaves is the Pythagorean comma.
+The coincidence 
+  
+    
+      
+        
+          
+            (
+            3
+            
+              /
+            
+            2
+            )
+          
+          
+            4
+          
+        
+        =
+        (
+        81
+        
+          /
+        
+        16
+        )
+        ≈
+        5
+      
+    
+    {\displaystyle {(3/2)}^{4}=(81/16)\approx 5}
+   permitted the development of meantone temperament, in which just perfect fifths (ratio 
+  
+    
+      
+        3
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle 3/2}
+  ) and major thirds (
+  
+    
+      
+        5
+        
+          /
+        
+        4
+      
+    
+    {\displaystyle 5/4}
+  ) are "tempered" so that four 
+  
+    
+      
+        3
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle 3/2}
+  's is approximately equal to 
+  
+    
+      
+        5
+        
+          /
+        
+        1
+      
+    
+    {\displaystyle 5/1}
+  , or a 
+  
+    
+      
+        5
+        
+          /
+        
+        4
+      
+    
+    {\displaystyle 5/4}
+   major third up two octaves. The difference (
+  
+    
+      
+        81
+        
+          /
+        
+        80
+      
+    
+    {\displaystyle 81/80}
+  ) between these stacks of intervals is the syntonic comma.
+The coincidence 
+  
+    
+      
+        
+          
+            2
+            
+              12
+            
+          
+        
+        
+          
+            5
+            
+              7
+            
+          
+        
+        =
+        1.33333319
+        …
+        ≈
+        
+          
+            4
+            3
+          
+        
+      
+    
+    {\displaystyle {\sqrt[{12}]{2}}{\sqrt[{7}]{5}}=1.33333319\ldots \approx {\frac {4}{3}}}
+   leads to the rational version of 12-TET, as noted by Johann Kirnberger.
+The coincidence 
+  
+    
+      
+        
+          
+            5
+            
+              8
+            
+          
+        
+        
+          
+            35
+            
+              3
+            
+          
+        
+        =
+        4.00000559
+        …
+        ≈
+        4
+      
+    
+    {\displaystyle {\sqrt[{8}]{5}}{\sqrt[{3}]{35}}=4.00000559\ldots \approx 4}
+   leads to the rational version of quarter-comma meantone temperament.
+The coincidence of powers of 2, above, leads to the approximation that three major thirds concatenate to an octave, 
+  
+    
+      
+        
+          
+            (
+            5
+            
+              /
+            
+            4
+            )
+          
+          
+            3
+          
+        
+        ≈
+        
+          2
+          
+            /
+          
+          1
+        
+      
+    
+    {\displaystyle {(5/4)}^{3}\approx {2/1}}
+  .  This and similar approximations in music are called dieses.
+
+Numerical expressions
+Concerning powers of π
+π
+          
+            2
+          
+        
+        ≈
+        10
+        ;
+      
+    
+    {\displaystyle \pi ^{2}\approx 10;}
+   correct to about 1.32%. This can be understood in terms of the formula for the zeta function 
+  
+    
+      
+        ζ
+        (
+        2
+        )
+        =
+        
+          π
+          
+            2
+          
+        
+        
+          /
+        
+        6.
+      
+    
+    {\displaystyle \zeta (2)=\pi ^{2}/6.}
+   This coincidence was used in the design of slide rules, where the "folded" scales are folded on 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   rather than 
+  
+    
+      
+        
+          
+            10
+          
+        
+        ,
+      
+    
+    {\displaystyle {\sqrt {10}},}
+   because it is a more useful number and has the effect of folding the scales in about the same place.
+
+  
+    
+      
+        
+          π
+          
+            2
+          
+        
+        +
+        π
+        ≈
+        13
+        ;
+      
+    
+    {\displaystyle \pi ^{2}+\pi \approx 13;}
+   correct to about 0.086%.
+
+  
+    
+      
+        
+          π
+          
+            2
+          
+        
+        ≈
+        227
+        
+          /
+        
+        23
+        ,
+      
+    
+    {\displaystyle \pi ^{2}\approx 227/23,}
+   correct to 4 parts per million.
+
+  
+    
+      
+        
+          π
+          
+            3
+          
+        
+        ≈
+        31
+        ,
+      
+    
+    {\displaystyle \pi ^{3}\approx 31,}
+   correct to 0.02%.
+
+  
+    
+      
+        2
+        
+          π
+          
+            3
+          
+        
+        −
+        
+          π
+          
+            2
+          
+        
+        −
+        π
+        ≈
+        
+          7
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle 2\pi ^{3}-\pi ^{2}-\pi \approx 7^{2},}
+   correct to about 0.002% and can be seen as a combination of the above coincidences.
+
+  
+    
+      
+        
+          π
+          
+            4
+          
+        
+        ≈
+        2143
+        
+          /
+        
+        22
+        ;
+      
+    
+    {\displaystyle \pi ^{4}\approx 2143/22;}
+   or 
+  
+    
+      
+        π
+        ≈
+        
+          
+            (
+            
+              
+                9
+                
+                  2
+                
+              
+              +
+              
+                
+                  
+                    19
+                    
+                      2
+                    
+                  
+                  22
+                
+              
+            
+            )
+          
+          
+            1
+            
+              /
+            
+            4
+          
+        
+        ,
+      
+    
+    {\displaystyle \pi \approx \left(9^{2}+{\frac {19^{2}}{22}}\right)^{1/4},}
+   accurate to 8 decimal places (due to Ramanujan: Quarterly Journal of Mathematics, XLV, 1914, pp. 350–372).  Ramanujan states that this "curious approximation" to 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   was "obtained empirically" and has no connection with the theory developed in the remainder of the paper.
+Some near-equivalences, which hold to a high degree of accuracy, are not actually coincidences. For example,
+  
+    
+      
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        cos
+        ⁡
+        (
+        2
+        x
+        )
+        
+          ∏
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        cos
+        ⁡
+        
+          (
+          
+            
+              x
+              n
+            
+          
+          )
+        
+        
+          d
+        
+        x
+        ≈
+        
+          
+            π
+            8
+          
+        
+        .
+      
+    
+    {\displaystyle \int _{0}^{\infty }\cos(2x)\prod _{n=1}^{\infty }\cos \left({\frac {x}{n}}\right)\mathrm {d} x\approx {\frac {\pi }{8}}.}
+  
+The two sides of this expression only differ after the 42nd decimal place; this is not a coincidence.
+
+Containing both π and e
+π
+          
+            4
+          
+        
+        +
+        
+          π
+          
+            5
+          
+        
+        ≈
+        
+          e
+          
+            6
+          
+        
+      
+    
+    {\displaystyle \pi ^{4}+\pi ^{5}\approx e^{6}}
+  , to about 7 decimal places. Equivalently, 
+  
+    
+      
+        4
+        ⋅
+        ln
+        ⁡
+        (
+        π
+        )
+        +
+        ln
+        ⁡
+        (
+        π
+        +
+        1
+        )
+        ≈
+        6
+      
+    
+    {\displaystyle 4\cdot \ln(\pi )+\ln(\pi +1)\approx 6}
+  .
+
+  
+    
+      
+        (
+        e
+        −
+        1
+        )
+        π
+        ≈
+        
+          
+            5
+          
+        
+        +
+        
+          
+            10
+          
+        
+      
+    
+    {\displaystyle (e-1)\pi \approx {\sqrt {5}}+{\sqrt {10}}}
+  , to about 4 decimal places.
+
+  
+    
+      
+        
+          (
+          
+            
+              
+                π
+                2
+              
+            
+            −
+            ln
+            ⁡
+            
+              (
+              
+                
+                  
+                    3
+                    π
+                  
+                  2
+                
+              
+              )
+            
+          
+          )
+        
+        42
+        π
+        ≈
+        e
+      
+    
+    {\displaystyle \left({\frac {\pi }{2}}-\ln \left({\frac {3\pi }{2}}\right)\right)42\pi \approx e}
+  , to about 9 decimal places.
+
+  
+    
+      
+        
+          e
+          
+            π
+          
+        
+        −
+        π
+        ≈
+        20
+      
+    
+    {\displaystyle e^{\pi }-\pi \approx 20}
+  , to about 4 decimal places. (Conway, Sloane, Plouffe, 1988); this is equivalent to 
+  
+    
+      
+        (
+        π
+        +
+        20
+        
+          )
+          
+            i
+          
+        
+        =
+        −
+        0.9999999992
+        …
+        −
+        i
+        ⋅
+        0.000039
+        …
+        ≈
+        −
+        1
+      
+    
+    {\displaystyle (\pi +20)^{i}=-0.9999999992\ldots -i\cdot 0.000039\ldots \approx -1}
+  
+
+  
+    
+      
+        
+          π
+          
+            e
+          
+        
+        +
+        
+          e
+          
+            π
+          
+        
+        ≈
+        45
+        
+          
+            3
+            5
+          
+        
+      
+    
+    {\displaystyle \pi ^{e}+e^{\pi }\approx 45{\frac {3}{5}}}
+  , within 4 parts per million.
+
+  
+    
+      
+        
+          π
+          
+            9
+          
+        
+        
+          /
+        
+        
+          e
+          
+            8
+          
+        
+        ≈
+        10
+      
+    
+    {\displaystyle \pi ^{9}/e^{8}\approx 10}
+  , to about 5 decimal places. That is, 
+  
+    
+      
+        ln
+        ⁡
+        (
+        π
+        )
+        ≈
+        
+          
+            
+              ln
+              ⁡
+              (
+              10
+              )
+              +
+              8
+            
+            9
+          
+        
+      
+    
+    {\displaystyle \ln(\pi )\approx {\ln(10)+8 \over 9}}
+  , within 0.0002%.
+
+  
+    
+      
+        2
+        π
+        +
+        e
+        ≈
+        9
+      
+    
+    {\displaystyle 2\pi +e\approx 9}
+  , within 0.02%.
+
+  
+    
+      
+        
+          e
+          
+            −
+            
+              
+                π
+                9
+              
+            
+          
+        
+        +
+        
+          e
+          
+            −
+            4
+            
+              
+                π
+                9
+              
+            
+          
+        
+        +
+        
+          e
+          
+            −
+            9
+            
+              
+                π
+                9
+              
+            
+          
+        
+        +
+        
+          e
+          
+            −
+            16
+            
+              
+                π
+                9
+              
+            
+          
+        
+        +
+        
+          e
+          
+            −
+            25
+            
+              
+                π
+                9
+              
+            
+          
+        
+        +
+        
+          e
+          
+            −
+            36
+            
+              
+                π
+                9
+              
+            
+          
+        
+        +
+        
+          e
+          
+            −
+            49
+            
+              
+                π
+                9
+              
+            
+          
+        
+        +
+        
+          e
+          
+            −
+            64
+            
+              
+                π
+                9
+              
+            
+          
+        
+        =
+        1.00000000000105
+        …
+        ≈
+        1
+      
+    
+    {\textstyle e^{-{\frac {\pi }{9}}}+e^{-4{\frac {\pi }{9}}}+e^{-9{\frac {\pi }{9}}}+e^{-16{\frac {\pi }{9}}}+e^{-25{\frac {\pi }{9}}}+e^{-36{\frac {\pi }{9}}}+e^{-49{\frac {\pi }{9}}}+e^{-64{\frac {\pi }{9}}}=1.00000000000105\ldots \approx 1}
+  . In fact, this generalizes to the approximate identity:
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            n
+            −
+            1
+          
+        
+        
+          
+            e
+            
+              −
+              
+                
+                  
+                    
+                      k
+                      
+                        2
+                      
+                    
+                    π
+                  
+                  n
+                
+              
+            
+          
+        
+        ≈
+        
+          
+            
+              −
+              1
+              +
+              
+                
+                  n
+                
+              
+            
+            2
+          
+        
+      
+    
+    {\displaystyle \sum _{k=1}^{n-1}{e^{-{\frac {k^{2}\pi }{n}}}}\approx {\frac {-1+{\sqrt {n}}}{2}}}
+   which can be explained by the Jacobian theta functional identity.
+Ramanujan's constant: 
+  
+    
+      
+        
+          e
+          
+            π
+            
+              
+                163
+              
+            
+          
+        
+        ≈
+        262537412640768744
+        =
+        
+          12
+          
+            3
+          
+        
+        (
+        
+          231
+          
+            2
+          
+        
+        −
+        1
+        
+          )
+          
+            3
+          
+        
+        +
+        744
+      
+    
+    {\displaystyle e^{\pi {\sqrt {163}}}\approx 262537412640768744=12^{3}(231^{2}-1)^{3}+744}
+  , within 
+  
+    
+      
+        2.9
+        ⋅
+        
+          10
+          
+            −
+            28
+          
+        
+        %
+      
+    
+    {\displaystyle 2.9\cdot 10^{-28}\%}
+  , discovered in 1859 by Charles Hermite.  This very close approximation is not a typical sort of accidental mathematical coincidence, where no mathematical explanation is known or expected to exist (as is the case for most others here).  It is a consequence of the fact that 163 is a Heegner number.
+There are several integers 
+  
+    
+      
+        k
+        =
+        2198
+        ,
+        422151
+        ,
+        614552
+        ,
+        2508952
+        ,
+        6635624
+        ,
+        199148648
+        ,
+        …
+      
+    
+    {\displaystyle k=2198,422151,614552,2508952,6635624,199148648,\dots }
+   (OEIS: A019297) such that 
+  
+    
+      
+        π
+        ≈
+        
+          
+            
+              ln
+              ⁡
+              (
+              k
+              )
+            
+            
+              n
+            
+          
+        
+      
+    
+    {\displaystyle \pi \approx {\frac {\ln(k)}{\sqrt {n}}}}
+   for some integer n, or equivalently 
+  
+    
+      
+        k
+        ≈
+        
+          e
+          
+            π
+            
+              
+                n
+              
+            
+          
+        
+      
+    
+    {\displaystyle k\approx e^{\pi {\sqrt {n}}}}
+   for the same 
+  
+    
+      
+        n
+        =
+        6
+        ,
+        17
+        ,
+        18
+        ,
+        22
+        ,
+        25
+        ,
+        37
+        ,
+        …
+      
+    
+    {\displaystyle n=6,17,18,22,25,37,\dots }
+   These are not strictly coincidental because they are related to both Ramanujan's constant above and the Heegner numbers. For example, 
+  
+    
+      
+        k
+        =
+        199148648
+        =
+        
+          14112
+          
+            2
+          
+        
+        +
+        104
+        ,
+      
+    
+    {\displaystyle k=199148648=14112^{2}+104,}
+   so these integers k are near-squares or near-cubes and note the consistent forms for n = 18, 22, 37,
+  
+    
+      
+        π
+        ≈
+        
+          
+            
+              ln
+              ⁡
+              (
+              
+                784
+                
+                  2
+                
+              
+              −
+              104
+              )
+            
+            
+              18
+            
+          
+        
+      
+    
+    {\displaystyle \pi \approx {\frac {\ln(784^{2}-104)}{\sqrt {18}}}}
+  
+
+  
+    
+      
+        π
+        ≈
+        
+          
+            
+              ln
+              ⁡
+              (
+              
+                1584
+                
+                  2
+                
+              
+              −
+              104
+              )
+            
+            
+              22
+            
+          
+        
+      
+    
+    {\displaystyle \pi \approx {\frac {\ln(1584^{2}-104)}{\sqrt {22}}}}
+  
+
+  
+    
+      
+        π
+        ≈
+        
+          
+            
+              ln
+              ⁡
+              (
+              
+                14112
+                
+                  2
+                
+              
+              +
+              104
+              )
+            
+            
+              37
+            
+          
+        
+      
+    
+    {\displaystyle \pi \approx {\frac {\ln(14112^{2}+104)}{\sqrt {37}}}}
+  with the last accurate to 14 or 15 decimal places.
+
+  
+    
+      
+        
+          
+            
+              10
+              (
+              
+                e
+                
+                  π
+                
+              
+              −
+              ln
+              ⁡
+              3
+              )
+            
+            
+              ln
+              ⁡
+              2
+            
+          
+        
+        =
+        318.000000033
+        …
+      
+    
+    {\displaystyle {\frac {10(e^{\pi }-\ln 3)}{\ln 2}}=318.000000033\ldots }
+  is almost an integer, to about 8th decimal place.
+
+Other numerical curiosities
+10
+        !
+        =
+        6
+        !
+        ⋅
+        7
+        !
+        =
+        3
+        !
+        ⋅
+        5
+        !
+        ⋅
+        7
+        !
+      
+    
+    {\displaystyle 10!=6!\cdot 7!=3!\cdot 5!\cdot 7!}
+  .
+In a discussion of the birthday problem, the number 
+  
+    
+      
+        λ
+        =
+        
+          
+            1
+            365
+          
+        
+        
+          
+            
+              (
+            
+            
+              23
+              2
+            
+            
+              )
+            
+          
+        
+        =
+        
+          
+            253
+            365
+          
+        
+      
+    
+    {\displaystyle \lambda ={\frac {1}{365}}{23 \choose 2}={\frac {253}{365}}}
+   occurs, which is "amusingly" equal to 
+  
+    
+      
+        ln
+        ⁡
+        (
+        2
+        )
+      
+    
+    {\displaystyle \ln(2)}
+   to 4 digits.
+
+  
+    
+      
+        5
+        ⋅
+        
+          10
+          
+            5
+          
+        
+        −
+        1
+        =
+        31
+        ⋅
+        127
+        ⋅
+        127
+      
+    
+    {\displaystyle 5\cdot 10^{5}-1=31\cdot 127\cdot 127}
+  , the product of three Mersenne primes.
+6√6!, the geometric mean of the first 6 natural numbers, is approximately 2.99; that is, 
+  
+    
+      
+        6
+        !
+        ≈
+        
+          3
+          
+            6
+          
+        
+      
+    
+    {\displaystyle 6!\approx 3^{6}}
+  .
+The sixth harmonic number,  which is approximately 
+  
+    
+      
+        
+          
+            6
+          
+        
+      
+    
+    {\displaystyle {\sqrt {6}}}
+   (2.449489...) to within 5.2 × 10−4.
+
+  
+    
+      
+        
+          
+            109
+            
+              5
+            
+          
+        
+        ≈
+        
+          
+            23
+            9
+          
+        
+      
+    
+    {\displaystyle {\sqrt[{5}]{109}}\approx {\frac {23}{9}}}
+  , within 
+  
+    
+      
+        2
+        ×
+        
+          10
+          
+            −
+            7
+          
+        
+      
+    
+    {\displaystyle 2\times 10^{-7}}
+  .
+
+Decimal coincidences
+3
+          
+            3
+          
+        
+        +
+        
+          4
+          
+            4
+          
+        
+        +
+        
+          3
+          
+            3
+          
+        
+        +
+        
+          5
+          
+            5
+          
+        
+        =
+        3435
+      
+    
+    {\displaystyle 3^{3}+4^{4}+3^{3}+5^{5}=3435}
+  , making 3435 the only non-trivial Münchhausen number in base 10 (excluding 0 and 1). If one adopts the convention that 
+  
+    
+      
+        
+          0
+          
+            0
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle 0^{0}=0}
+  , however, then 438579088 is another Münchhausen number.
+
+  
+    
+      
+        
+        1
+        !
+        +
+        4
+        !
+        +
+        5
+        !
+        =
+        145
+      
+    
+    {\displaystyle \,1!+4!+5!=145}
+   and 
+  
+    
+      
+        
+        4
+        !
+        +
+        0
+        !
+        +
+        5
+        !
+        +
+        8
+        !
+        +
+        5
+        !
+        =
+        40585
+      
+    
+    {\displaystyle \,4!+0!+5!+8!+5!=40585}
+   are the only non-trivial factorions in base 10 (excluding 1 and 2).
+
+  
+    
+      
+        
+          
+            16
+            64
+          
+        
+        =
+        
+          
+            
+              1
+              
+              
+              
+              
+                
+                  ⧸
+                
+              
+              6
+            
+            
+              
+                
+                  ⧸
+                
+              
+              64
+            
+          
+        
+        =
+        
+          
+            1
+            4
+          
+        
+      
+    
+    {\displaystyle {\frac {16}{64}}={\frac {1\!\!\!\not 6}{\not 64}}={\frac {1}{4}}}
+  ,    
+  
+    
+      
+        
+          
+            26
+            65
+          
+        
+        =
+        
+          
+            
+              2
+              
+              
+              
+              
+                
+                  ⧸
+                
+              
+              6
+            
+            
+              
+                
+                  ⧸
+                
+              
+              65
+            
+          
+        
+        =
+        
+          
+            2
+            5
+          
+        
+      
+    
+    {\displaystyle {\frac {26}{65}}={\frac {2\!\!\!\not 6}{\not 65}}={\frac {2}{5}}}
+  ,    
+  
+    
+      
+        
+          
+            19
+            95
+          
+        
+        =
+        
+          
+            
+              1
+              
+              
+              
+              
+                
+                  ⧸
+                
+              
+              9
+            
+            
+              
+                
+                  ⧸
+                
+              
+              95
+            
+          
+        
+        =
+        
+          
+            1
+            5
+          
+        
+      
+    
+    {\displaystyle {\frac {19}{95}}={\frac {1\!\!\!\not 9}{\not 95}}={\frac {1}{5}}}
+  ,  and  
+  
+    
+      
+        
+          
+            49
+            98
+          
+        
+        =
+        
+          
+            
+              4
+              
+              
+              
+              
+                
+                  ⧸
+                
+              
+              9
+            
+            
+              
+                
+                  ⧸
+                
+              
+              98
+            
+          
+        
+        =
+        
+          
+            4
+            8
+          
+        
+      
+    
+    {\displaystyle {\frac {49}{98}}={\frac {4\!\!\!\not 9}{\not 98}}={\frac {4}{8}}}
+  . If the end result of these four anomalous cancellations are multiplied, their product reduces to exactly 1/100.
+
+  
+    
+      
+        
+        (
+        4
+        +
+        9
+        +
+        1
+        +
+        3
+        
+          )
+          
+            3
+          
+        
+        =
+        4913
+      
+    
+    {\displaystyle \,(4+9+1+3)^{3}=4913}
+  , 
+  
+    
+      
+        
+        (
+        5
+        +
+        8
+        +
+        3
+        +
+        2
+        
+          )
+          
+            3
+          
+        
+        =
+        5832
+      
+    
+    {\displaystyle \,(5+8+3+2)^{3}=5832}
+  , and 
+  
+    
+      
+        
+        (
+        1
+        +
+        9
+        +
+        6
+        +
+        8
+        +
+        3
+        
+          )
+          
+            3
+          
+        
+        =
+        19683
+      
+    
+    {\displaystyle \,(1+9+6+8+3)^{3}=19683}
+  . (Along a similar vein, 
+  
+    
+      
+        
+        (
+        3
+        +
+        4
+        
+          )
+          
+            3
+          
+        
+        =
+        343
+      
+    
+    {\displaystyle \,(3+4)^{3}=343}
+  .)
+
+  
+    
+      
+        
+        −
+        1
+        +
+        
+          2
+          
+            7
+          
+        
+        =
+        127
+      
+    
+    {\displaystyle \,-1+2^{7}=127}
+  , making 127 the smallest nice Friedman number. A similar example is 
+  
+    
+      
+        
+          2
+          
+            5
+          
+        
+        ⋅
+        
+          9
+          
+            2
+          
+        
+        =
+        2592
+      
+    
+    {\displaystyle 2^{5}\cdot 9^{2}=2592}
+  .
+
+  
+    
+      
+        
+        
+          1
+          
+            3
+          
+        
+        +
+        
+          5
+          
+            3
+          
+        
+        +
+        
+          3
+          
+            3
+          
+        
+        =
+        153
+      
+    
+    {\displaystyle \,1^{3}+5^{3}+3^{3}=153}
+  , 
+  
+    
+      
+        
+        
+          3
+          
+            3
+          
+        
+        +
+        
+          7
+          
+            3
+          
+        
+        +
+        
+          0
+          
+            3
+          
+        
+        =
+        370
+      
+    
+    {\displaystyle \,3^{3}+7^{3}+0^{3}=370}
+  , 
+  
+    
+      
+        
+        
+          3
+          
+            3
+          
+        
+        +
+        
+          7
+          
+            3
+          
+        
+        +
+        
+          1
+          
+            3
+          
+        
+        =
+        371
+      
+    
+    {\displaystyle \,3^{3}+7^{3}+1^{3}=371}
+  , and 
+  
+    
+      
+        
+        
+          4
+          
+            3
+          
+        
+        +
+        
+          0
+          
+            3
+          
+        
+        +
+        
+          7
+          
+            3
+          
+        
+        =
+        407
+      
+    
+    {\displaystyle \,4^{3}+0^{3}+7^{3}=407}
+   are all narcissistic numbers.
+
+  
+    
+      
+        
+        
+          588
+          
+            2
+          
+        
+        +
+        
+          2353
+          
+            2
+          
+        
+        =
+        5882353
+      
+    
+    {\displaystyle \,588^{2}+2353^{2}=5882353}
+  , a prime number. The fraction 1/17 also produces 0.05882353 when rounded to 8 digits.
+
+  
+    
+      
+        
+        
+          2
+          
+            1
+          
+        
+        +
+        
+          6
+          
+            2
+          
+        
+        +
+        
+          4
+          
+            3
+          
+        
+        +
+        
+          6
+          
+            4
+          
+        
+        +
+        
+          7
+          
+            5
+          
+        
+        +
+        
+          9
+          
+            6
+          
+        
+        +
+        
+          8
+          
+            7
+          
+        
+        =
+        2646798
+      
+    
+    {\displaystyle \,2^{1}+6^{2}+4^{3}+6^{4}+7^{5}+9^{6}+8^{7}=2646798}
+  . The largest number with this pattern is 
+  
+    
+      
+        
+        12157692622039623539
+        =
+        
+          1
+          
+            1
+          
+        
+        +
+        
+          2
+          
+            2
+          
+        
+        +
+        
+          1
+          
+            3
+          
+        
+        +
+        …
+        +
+        
+          9
+          
+            20
+          
+        
+      
+    
+    {\displaystyle \,12157692622039623539=1^{1}+2^{2}+1^{3}+\ldots +9^{20}}
+  .
+
+  
+    
+      
+        
+        
+          7
+          
+            510
+          
+        
+        ≈
+        
+          10
+          
+            431
+          
+        
+      
+    
+    {\displaystyle \,7^{510}\approx 10^{431}}
+  . This is equivalent to 
+  
+    
+      
+        
+          log
+          ⁡
+          7
+        
+        ≈
+        
+          
+            431
+            510
+          
+        
+      
+    
+    {\displaystyle {\log 7}\approx {\frac {431}{510}}}
+  ,
+
+  
+    
+      
+        
+          6
+          
+            9
+          
+        
+        =
+        10077696
+      
+    
+    {\displaystyle 6^{9}=10077696}
+  , which is close to 
+  
+    
+      
+        
+          10
+          
+            7
+          
+        
+        =
+        10000000
+      
+    
+    {\displaystyle 10^{7}=10000000}
+  . Also, 
+  
+    
+      
+        
+          6
+          
+            9
+          
+        
+        −
+        10
+        (
+        
+          6
+          
+            5
+          
+        
+        )
+        =
+        9999936
+      
+    
+    {\displaystyle 6^{9}-10(6^{5})=9999936}
+  , which is even closer to 
+  
+    
+      
+        
+          10
+          
+            7
+          
+        
+        =
+        10000000
+      
+    
+    {\displaystyle 10^{7}=10000000}
+  .
+
+  
+    
+      
+        
+        
+          7
+          
+            6
+          
+        
+        =
+        117649
+        ≈
+        
+          
+            
+              10
+              
+                7
+              
+            
+            85
+          
+        
+        =
+        117647.0588
+      
+    
+    {\displaystyle \,7^{6}=117649\approx {\frac {10^{7}}{85}}=117647.0588}
+  .
+
+Numerical coincidences in numbers from the physical world
+Speed of light
+The speed of light is (by definition) exactly 299,792,458 m/s, extremely close to 3.0 × 108 m/s (300,000,000 m/s). This is a pure coincidence, as the meter was originally defined as 1/10,000,000 of the distance between the Earth's pole and equator along the surface at sea level, and the Earth's circumference just happens to be about 2/15 of a light-second. It is also roughly equal to one foot per nanosecond (the actual number is 0.9836 ft/ns).
+
+Angular diameters of the Sun and the Moon
+As seen from Earth, the angular diameter of the Sun varies between 31′27″ and 32′32″, while that of the Moon is between 29′20″ and 34′6″. The fact that the intervals overlap (the former interval is contained in the latter) is a coincidence, and has implications for the types of solar eclipses that can be observed from Earth.
+
+Gravitational acceleration
+While not constant but varying depending on latitude and altitude, the numerical value of the acceleration caused by Earth's gravity on the surface lies between 9.74 and 9.87 m/s2, which is quite close to 10. This means that as a result of Newton's second law, the weight of a kilogram of mass on Earth's surface corresponds roughly to 10 newtons of force exerted on an object.This is related to the aforementioned coincidence that the square of pi is close to 10. One of the early definitions of the meter was the length of a pendulum whose half swing had a period equal to one second. Since the period of the full swing of a pendulum is approximated by the equation below, algebra shows that if this definition was maintained, gravitational acceleration measured in meters per second per second would be exactly equal to π2.
+
+  
+    
+      
+        T
+        ≈
+        2
+        π
+        
+          
+            
+              L
+              g
+            
+          
+        
+      
+    
+    {\displaystyle T\approx 2\pi {\sqrt {\frac {L}{g}}}}
+  The upper limit of gravity on Earth's surface (9.87 m/s2) is equal to π2 m/s2 to four significant figures. It is approximately 0.6% greater than standard gravity (9.80665 m/s2).
+
+Rydberg constant
+The Rydberg constant, when multiplied by the speed of light and expressed as a frequency, is close to 
+  
+    
+      
+        
+          
+            
+              π
+              
+                2
+              
+            
+            3
+          
+        
+        ×
+        
+          10
+          
+            15
+          
+        
+         
+        
+          Hz
+        
+      
+    
+    {\displaystyle {\frac {\pi ^{2}}{3}}\times 10^{15}\ {\text{Hz}}}
+  :
+
+  
+    
+      
+        
+          
+            3.2898
+            _
+          
+        
+        41960364
+        (
+        17
+        )
+        ×
+        
+          10
+          
+            15
+          
+        
+         
+        
+          Hz
+        
+        =
+        
+          R
+          
+            ∞
+          
+        
+        c
+      
+    
+    {\displaystyle {\underline {3.2898}}41960364(17)\times 10^{15}\ {\text{Hz}}=R_{\infty }c}
+  
+  
+    
+      
+        
+          
+            3.2898
+            _
+          
+        
+        68133696
+        …
+        =
+        
+          
+            
+              π
+              
+                2
+              
+            
+            3
+          
+        
+      
+    
+    {\displaystyle {\underline {3.2898}}68133696\ldots ={\frac {\pi ^{2}}{3}}}
+  This is also approximately the ratio between one meter and one foot: 1 m/ft = 1m/(0.3048m).
+
+US customary to metric conversions
+As discovered by Randall Munroe, a cubic mile is close to 
+  
+    
+      
+        
+          
+            4
+            3
+          
+        
+        π
+      
+    
+    {\displaystyle {\frac {4}{3}}\pi }
+   cubic kilometers (within 0.5%). This means that a sphere with radius n kilometers has almost exactly the same volume as a cube with sides length n miles.The ratio of a mile to a kilometre is approximately the Golden ratio.  As a consequence, a Fibonacci number of miles is approximately the next Fibonacci number of kilometres.
+The ratio of a mile to a kilometre is also very close to 
+  
+    
+      
+        ln
+        ⁡
+        (
+        5
+        )
+      
+    
+    {\displaystyle \ln(5)}
+   (within 0.006%). That is, 
+  
+    
+      
+        
+          5
+          
+            m
+          
+        
+        ≈
+        
+          e
+          
+            k
+          
+        
+      
+    
+    {\displaystyle 5^{m}\approx e^{k}}
+   where m is the number of miles, k is the number of kilometres and e is Euler's number.
+A density of one ounce per cubic foot is very close to one kilogram per cubic metre: 1 oz/ft3 = 1 oz × 0.028349523125 kg/oz / (1 ft × 0.3048 m/ft)3 ≈ 1.0012 kg/m3.
+The ratio between one troy ounce and one gram is approximately 
+  
+    
+      
+        10
+        π
+        −
+        
+          
+            π
+            10
+          
+        
+        =
+        
+          
+            99
+            10
+          
+        
+        π
+      
+    
+    {\displaystyle 10\pi -{\frac {\pi }{10}}={\frac {99}{10}}\pi }
+  .
+
+Fine-structure constant
+The fine-structure constant 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   is close to, and was once conjectured to be precisely equal to, 
+  
+    
+      
+        
+          
+            1
+            137
+          
+        
+      
+    
+    {\displaystyle {\frac {1}{137}}}
+  .
+
+  
+    
+      
+        α
+        =
+        
+          
+            1
+            
+              137.035999074
+              …
+            
+          
+        
+      
+    
+    {\displaystyle \alpha ={\frac {1}{137.035999074\dots }}}
+  
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   is a dimensionless physical constant, so this coincidence is not an artifact of the system of units being used.
+
+Planet Earth
+The radius of geostationary orbit, 42,164 kilometres (26,199 mi) is within 0.02% of the variation of the distance of the moon in a month (the difference between its apogee and perigee), 42,171 kilometres (26,204 mi), and 5% error of the length of the equator, 40,075 kilometres (24,901 mi).
+
+See also
+Almost integer
+Anthropic principle
+Birthday problem
+Exceptional isomorphism
+Narcissistic number
+Sophomore's dream
+Strong law of small numbers
+Experimental mathematics
+Koide formula
+
+References
+External links
+(in Russian) В. Левшин. – Магистр рассеянных наук. – Москва, Детская Литература 1970, 256 с.
+Davis, Philip J. - Are There Coincidences in Mathematics - American Mathematical Monthly, vol. 84 no. 5, 1981.
+Hardy, G. H. – A Mathematician's Apology. – New York: Cambridge University Press, 1993,  (ISBN 0-521-42706-1)
+Weisstein, Eric W. "Almost Integer". MathWorld.
+Various mathematical coincidences in the "Science & Math" section of futilitycloset.com
+Press, W. H., Seemingly Remarkable Mathematical Coincidences Are Easy to Generate

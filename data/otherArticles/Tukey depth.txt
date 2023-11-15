@@ -1,0 +1,253 @@
+In statistics and computational geometry, the Tukey depth  is a measure of the depth of a point in a fixed set of points. The concept is named after its inventor, John Tukey. Given a set of n points 
+  
+    
+      
+        
+          
+            
+              X
+            
+          
+          
+            n
+          
+        
+        =
+        {
+        
+          X
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle {\mathcal {X}}_{n}=\{X_{1},\dots ,X_{n}\}}
+   in d-dimensional space, Tukey's depth of a point x is the smallest fraction (or number) of points in any closed halfspace that contains x.
+Tukey's depth measures how extreme a point is with respect to a point cloud. It is used to define the bagplot, a bivariate generalization of the boxplot.
+For example, for any extreme point of the convex hull there is always a (closed) halfspace that contains only that point, and hence its Tukey depth as a fraction is 1/n.
+
+Definitions
+Sample Tukey's depth of point x, or Tukey's depth of x with respect to the point cloud 
+  
+    
+      
+        
+          
+            
+              X
+            
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle {\mathcal {X}}_{n}}
+  , is defined as 
+
+  
+    
+      
+        D
+        (
+        x
+        ;
+        
+          
+            
+              X
+            
+          
+          
+            n
+          
+        
+        )
+        =
+        
+          inf
+          
+            v
+            ∈
+            
+              
+                R
+              
+              
+                d
+              
+            
+            ,
+            ‖
+            v
+            ‖
+            =
+            1
+          
+        
+        
+          
+            1
+            n
+          
+        
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          1
+        
+        {
+        
+          v
+          
+            T
+          
+        
+        (
+        
+          X
+          
+            i
+          
+        
+        −
+        x
+        )
+        ≥
+        0
+        }
+        ,
+      
+    
+    {\displaystyle D(x;{\mathcal {X}}_{n})=\inf _{v\in \mathbb {R} ^{d},\|v\|=1}{\frac {1}{n}}\sum _{i=1}^{n}\mathbf {1} \{v^{T}(X_{i}-x)\geq 0\},}
+  
+where 
+  
+    
+      
+        
+          1
+        
+        {
+        ⋅
+        }
+      
+    
+    {\displaystyle \mathbf {1} \{\cdot \}}
+   is the indicator function that equals 1 if its argument holds true or 0 otherwise.
+Population Tukey's depth of x wrt to a distribution 
+  
+    
+      
+        
+          P
+          
+            X
+          
+        
+      
+    
+    {\displaystyle P_{X}}
+   is
+
+  
+    
+      
+        D
+        (
+        x
+        ;
+        
+          P
+          
+            X
+          
+        
+        )
+        =
+        
+          inf
+          
+            v
+            ∈
+            
+              
+                R
+              
+              
+                d
+              
+            
+            ,
+            ‖
+            v
+            ‖
+            =
+            1
+          
+        
+        P
+        (
+        
+          v
+          
+            T
+          
+        
+        (
+        X
+        −
+        x
+        )
+        ≥
+        0
+        )
+        ,
+      
+    
+    {\displaystyle D(x;P_{X})=\inf _{v\in \mathbb {R} ^{d},\|v\|=1}P(v^{T}(X-x)\geq 0),}
+  
+where X is a random variable following distribution 
+  
+    
+      
+        
+          P
+          
+            X
+          
+        
+      
+    
+    {\displaystyle P_{X}}
+  .
+
+Tukey mean and relation to centerpoint
+A centerpoint c of a point set of size n is nothing else but a point of Tukey depth of at least n/(d + 1).
+
+See also
+Centerpoint (geometry)
+
+
+== References ==

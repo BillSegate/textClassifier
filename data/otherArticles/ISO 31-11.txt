@@ -1,0 +1,20 @@
+ISO 31-11:1992 was the part of international standard ISO 31 that defines mathematical signs and symbols for use in physical sciences and technology. It was superseded in 2009 by ISO 80000-2:2009 and subsequently revised in 2019 as ISO-80000-2:2019.Its definitions include the following:
+
+Mathematical logic
+Sets
+Miscellaneous signs and symbols
+Operations
+Functions
+Exponential and logarithmic functions
+Circular and hyperbolic functions
+Complex numbers
+Matrices
+Coordinate systems
+Vectors and tensors
+Special functions
+See also
+Mathematical symbols
+Mathematical notation
+
+
+== References and notes ==

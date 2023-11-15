@@ -1,0 +1,43 @@
+The Mercier criterion is a criterion for plasma used in the theoretical study of plasma instability. It was first proposed in 1954 by C. Mercier, who applied the perturbation method (in which 
+  
+    
+      
+        ω
+        =
+        
+          
+            ∂
+            
+              ∂
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \omega ={\frac {\partial }{\partial t}}}
+   represents the frequency
+and 
+  
+    
+      
+        
+          k
+        
+        =
+        
+          
+            ∂
+            
+              ∂
+              z
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {k} ={\frac {\partial }{\partial z}}}
+   is the z-direction of the unit vector) to the plasma mathematical model to compute calculations.
+
+
+== References ==

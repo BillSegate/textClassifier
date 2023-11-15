@@ -1,0 +1,37 @@
+In the philosophy of mathematics, Aristotelian realism holds that mathematics studies properties such as symmetry, continuity and order that can be immanently realized in the physical world (or in any other world there might be). It contrasts with Platonism in holding that the objects of mathematics, such as numbers, do not exist in an "abstract" world but can be physically realized. It contrasts with nominalism, fictionalism, and logicism in holding that mathematics is not about mere names or methods of inference or calculation but about certain real aspects of the world.
+Aristotelian realists emphasize applied mathematics, especially mathematical modeling, rather than pure mathematics as philosophically most important. Marc Lange argues that "Aristotelian realism allows mathematical facts to be explainers in distinctively mathematical explanations" in science as mathematical facts are themselves about the physical world. Paul Thagard describes Aristotelian realism as "the current philosophy of mathematics that fits best with what is known about minds and science."
+
+History
+Although Aristotle did not write extensively on the philosophy of mathematics, his various remarks on the topic exhibit a coherent view of the subject as being both about abstractions and applicable to the real world of space and counting.
+Until the eighteenth century, the most common philosophy of mathematics was the Aristotelian view that it is the "science of quantity", with quantity divided into the continuous (studied by geometry) and the discrete (studied by arithmetic).Aristotelian approaches to the philosophy of mathematics were rare in the twentieth century but were revived by Penelope Maddy in Realism in Mathematics (1990) and by a number of authors since 2000 such as James Franklin,  Anne Newstead, Donald Gillies, and others.
+
+Numbers and sets
+Aristotelian views of (cardinal or counting) numbers begin with Aristotle's observation that the number of a heap or collection is relative to the unit or measure chosen: "'number' means a measured plurality and a plurality of measures ... the measure must always be some identical thing predicable of all the things it measures, e.g. if the things are horses, the measure is 'horse'."  Glenn Kessler develops this into the view that a number is a relation between a heap and a universal that divides it into units; for example, the number 4 is realized in the relation between a heap of parrots and the universal "being a parrot" that divides the heap into so many parrots.: 36–8 On an Aristotelian view, ratios are not closely connected to cardinal numbers. They are relations between quantities such as heights. A ratio of two heights may be the same as the relation between two masses or two time intervals.: 34–5 Aristotelians regard sets as well as numbers as instantiated in the physical world (rather than being Platonist entities). Maddy argued that when an egg carton is opened, a set of three eggs is perceived (that is, a mathematical entity realized in the physical world). However not all mathematical discourse needs to be interpreted realistically; for example Aristotelians may regard the empty set and zero as fictions,: 234–40  and possibly higher infinities.
+
+Structural properties
+Aristotelians regard non-numerical structural properties like symmetry, continuity and order as equally important as numbers. Such properties are realized in physical reality, and are the subject matter of parts of mathematics. For example group theory classifies the different kinds of symmetry, while the calculus studies continuous variation. Provable results about such structures can apply directly to physical reality. For example Euler proved that it was impossible to walk once and once only over the seven bridges of Königsberg.: 48–56
+
+Epistemology
+Since mathematical properties are realized in the physical world, they can be directly perceived. For example, humans easily perceive facial symmetry.
+Aristotelians also accord a role to abstraction and idealisation in mathematical thinking. This view goes back to Aristotle's statement in his Physics that the mind 'separates out' in  thought the properties that it studies in mathematics, considering the timeless properties of bodies apart from the world of change (Physics II.2.193b31-35). 
+At the higher levels of mathematics, Aristotelians follow the theory of Aristotle's Posterior Analytics, according to which the proof of a mathematical proposition ideally allows the reader to understand why the proposition must be true.: 192–6
+
+Objections to Aristotelian realism
+A problem for Aristotelian realism is what account to give of higher infinities, which may not be realized or realizable in the physical world. How to apply Aristotle's theory of Potentiality and actuality to Zermelo–Frankel set theory. Mark Balaguer writes:
+
+"set theory is committed to the existence of infinite sets that are so huge that they simply dwarf garden variety infinite sets, like the set of all the natural numbers. There is just no plausible way to interpret this talk of gigantic infinite sets as being about physical objects."Aristotelians reply that sciences can deal with uninstantiated universals; for example the science of color can deal with a shade of blue that happens not to occur on any real object. However that does require denying the instantiation principle, held by most Aristotelians, which holds that all genuine properties are instantiated. One Aristotelian philosopher of mathematics who denies the instantiation principle on the basis of Frege’s distinction between sense and reference is Donald Gillies. He has used this approach to develop a method of dealing with very large transfinite cardinals from an Aristotelian point of view.Another objection to Aristotelianism is that mathematics deals with idealizations of the physical world, not with the physical world itself. Aristotle himself was aware of the argument that geometers study perfect circles but hoops in the real world are not perfect circles, so it seems that mathematics must be studying some non-physical (Platonic) world.  Aristotelians reply that applied mathematics studies approximations rather than idealizations and that as a result modern mathematics can study the complex shapes and other mathematical structures of real things.: 225–9
+
+References
+Bibliography
+John Bigelow, 1988, The Reality of Numbers, Clarendon, Oxford, ISBN 9780198249573
+James Franklin, 2014, An Aristotelian Realist Philosophy of Mathematics: Mathematics as the Science of Quantity and Structure, Palgrave Macmillan, Basingstoke, ISBN 9781137400727.
+Keith Hossack, 2020, Knowledge and the Philosophy of Number: What Numbers Are and How They Are Known, Bloomsbury, London, ISBN 9781350102927
+Andrew Irvine, 1990. Physicalism in Mathematics, Dordrecht, London, ISBN 9780792305132
+Bob Knapp, 2014, Mathematics is About the World, Lexington KY, ISBN 9781500551971
+Penelope Maddy, 1990, Realism in Mathematics, Oxford University Press, New York, ISBN 9780198240358
+Woosuk Park, 2018, Philosophy's Loss of Logic to Mathematics, Springer, Cham, ISBN 9783319951461
+Andrew Younan, 2022, Matter and Mathematics: An Essentialist Account of Laws of Nature, Catholic University of America Press, Washington DC, ISBN 9780813236124
+
+External links
+The Sydney School in the philosophy of mathematics
+Philpapers category Mathematical Aristotelianism

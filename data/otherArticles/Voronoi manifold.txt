@@ -1,0 +1,21 @@
+Voronoi manifold is a concept used in motion planning, geometric planning, and nonparametric optimization. It is derived from Voronoi diagrams, introduced by mathematician Georgy Voronoi in 1907. Voronoi manifolds play a crucial role in various fields, including robotics, spatial analysis, and optimization.
+
+Overview
+In motion planning, a Voronoi manifold is constructed by transforming the problem into a point navigation scenario within a higher-dimensional configuration space called C-Space. C-Space obstacles, representing physically unachievable configurations, are represented by higher-dimensional manifolds. The structure of these manifolds is closely related to the intersection of C-Space obstacles.In nonparametric optimization, Voronoi manifolds serve as heuristic indicators of unpromising points. The optimization process gradually eliminates these points until a reduced set of promising points remains. Experiment selection involves choosing a point within the region defined by the reduced sample set, known as the Region of Interest (ROI). This point should meet specific criteria related to the Voronoi manifold and the data in the reduced sample set.
+
+Applications
+Voronoi manifolds have significant applications in several domains:
+
+Motion Planning
+In robotics, Voronoi manifolds are employed for synthesizing robot motions while ensuring collision avoidance. They contribute to the development of efficient algorithms for motion planning and path planning in complex environments.
+
+Geometric Planning
+Voronoi manifolds are essential in geometric planning, where they aid in determining optimal paths and configurations in various spatial contexts. They play a crucial role in tasks such as configuration space analysis, obstacle avoidance, and path optimization.
+
+Nonparametric Optimization
+In the field of nonparametric optimization, Voronoi manifolds serve as valuable tools for reducing the sample size and selecting promising points. They help identify regions of interest where experiments or evaluations should be focused, leading to efficient optimization algorithms and improved convergence rates.
+
+References
+See also
+Manifold (mathematics)
+Voronoi diagram

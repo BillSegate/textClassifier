@@ -1,0 +1,786 @@
+In mathematical analysis, the universal chord theorem states that if a function f is continuous on [a,b] and satisfies 
+  
+    
+      
+        f
+        (
+        a
+        )
+        =
+        f
+        (
+        b
+        )
+      
+    
+    {\displaystyle f(a)=f(b)}
+  , then for every natural number 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  , there exists some 
+  
+    
+      
+        x
+        ∈
+        [
+        a
+        ,
+        b
+        ]
+      
+    
+    {\displaystyle x\in [a,b]}
+   such that 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        f
+        
+          (
+          
+            x
+            +
+            
+              
+                
+                  b
+                  −
+                  a
+                
+                n
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle f(x)=f\left(x+{\frac {b-a}{n}}\right)}
+  .
+
+History
+The theorem was published by Paul Lévy in 1934 as a generalization of Rolle's Theorem.
+
+Statement of the theorem
+Let 
+  
+    
+      
+        H
+        (
+        f
+        )
+        =
+        {
+        h
+        ∈
+        [
+        0
+        ,
+        +
+        ∞
+        )
+        :
+        f
+        (
+        x
+        )
+        =
+        f
+        (
+        x
+        +
+        h
+        )
+        
+           for some 
+        
+        x
+        }
+      
+    
+    {\displaystyle H(f)=\{h\in [0,+\infty ):f(x)=f(x+h){\text{ for some }}x\}}
+   denote the chord set of the function f. If f is a continuous function and 
+  
+    
+      
+        h
+        ∈
+        H
+        (
+        f
+        )
+      
+    
+    {\displaystyle h\in H(f)}
+  , then 
+  
+    
+      
+        
+          
+            h
+            n
+          
+        
+        ∈
+        H
+        (
+        f
+        )
+      
+    
+    {\displaystyle {\frac {h}{n}}\in H(f)}
+  
+for all natural numbers n.
+
+Case of n = 2
+The case when n = 2 can be considered an application of the Borsuk–Ulam theorem to the real line. It says that if 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+   is continuous on some
+interval 
+  
+    
+      
+        I
+        =
+        [
+        a
+        ,
+        b
+        ]
+      
+    
+    {\displaystyle I=[a,b]}
+   with the condition that 
+  
+    
+      
+        f
+        (
+        a
+        )
+        =
+        f
+        (
+        b
+        )
+      
+    
+    {\displaystyle f(a)=f(b)}
+  , then there exists some 
+  
+    
+      
+        x
+        ∈
+        [
+        a
+        ,
+        b
+        ]
+      
+    
+    {\displaystyle x\in [a,b]}
+   such that 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        f
+        
+          (
+          
+            x
+            +
+            
+              
+                
+                  b
+                  −
+                  a
+                
+                2
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle f(x)=f\left(x+{\frac {b-a}{2}}\right)}
+  . 
+In less generality, if 
+  
+    
+      
+        f
+        :
+        [
+        0
+        ,
+        1
+        ]
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle f:[0,1]\rightarrow \mathbb {R} }
+   is continuous and 
+  
+    
+      
+        f
+        (
+        0
+        )
+        =
+        f
+        (
+        1
+        )
+      
+    
+    {\displaystyle f(0)=f(1)}
+  , then there exists 
+  
+    
+      
+        x
+        ∈
+        
+          [
+          
+            0
+            ,
+            
+              
+                1
+                2
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle x\in \left[0,{\frac {1}{2}}\right]}
+   that satisfies 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        f
+        (
+        x
+        +
+        1
+        
+          /
+        
+        2
+        )
+      
+    
+    {\displaystyle f(x)=f(x+1/2)}
+  .
+
+Proof of n = 2
+Consider the function 
+  
+    
+      
+        g
+        :
+        
+          [
+          
+            a
+            ,
+            
+              
+                
+                  
+                    b
+                    +
+                    a
+                  
+                  2
+                
+              
+            
+          
+          ]
+        
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle g:\left[a,{\dfrac {b+a}{2}}\right]\to \mathbb {R} }
+   defined by 
+  
+    
+      
+        g
+        (
+        x
+        )
+        =
+        f
+        
+          (
+          
+            x
+            +
+            
+              
+                
+                  
+                    b
+                    −
+                    a
+                  
+                  2
+                
+              
+            
+          
+          )
+        
+        −
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle g(x)=f\left(x+{\dfrac {b-a}{2}}\right)-f(x)}
+  . Being the sum of two continuous functions, 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   is continuous, 
+  
+    
+      
+        g
+        (
+        a
+        )
+        +
+        g
+        (
+        
+          
+            
+              
+                b
+                +
+                a
+              
+              2
+            
+          
+        
+        )
+        =
+        f
+        (
+        b
+        )
+        −
+        f
+        (
+        a
+        )
+        =
+        0
+      
+    
+    {\displaystyle g(a)+g({\dfrac {b+a}{2}})=f(b)-f(a)=0}
+  . It follows that 
+  
+    
+      
+        g
+        (
+        a
+        )
+        ⋅
+        g
+        (
+        
+          
+            
+              
+                b
+                +
+                a
+              
+              2
+            
+          
+        
+        )
+        ≤
+        0
+      
+    
+    {\displaystyle g(a)\cdot g({\dfrac {b+a}{2}})\leq 0}
+   and by applying the intermediate value theorem, there exists 
+  
+    
+      
+        c
+        ∈
+        
+          [
+          
+            a
+            ,
+            
+              
+                
+                  
+                    b
+                    +
+                    a
+                  
+                  2
+                
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle c\in \left[a,{\dfrac {b+a}{2}}\right]}
+   such that 
+  
+    
+      
+        g
+        (
+        c
+        )
+        =
+        0
+      
+    
+    {\displaystyle g(c)=0}
+  , so that 
+  
+    
+      
+        f
+        (
+        c
+        )
+        =
+        f
+        
+          (
+          
+            c
+            +
+            
+              
+                
+                  
+                    b
+                    −
+                    a
+                  
+                  2
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle f(c)=f\left(c+{\dfrac {b-a}{2}}\right)}
+  . Which concludes the proof of the theorem for 
+  
+    
+      
+        n
+        =
+        2
+      
+    
+    {\displaystyle n=2}
+
+Proof of general case
+The proof of the theorem in the general case is very similar to the proof for 
+  
+    
+      
+        n
+        =
+        2
+      
+    
+    {\displaystyle n=2}
+  
+Let 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   be a non negative integer, and consider the function 
+  
+    
+      
+        g
+        :
+        
+          [
+          
+            a
+            ,
+            b
+            −
+            
+              
+                
+                  
+                    b
+                    −
+                    a
+                  
+                  n
+                
+              
+            
+          
+          ]
+        
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle g:\left[a,b-{\dfrac {b-a}{n}}\right]\to \mathbb {R} }
+   defined by 
+  
+    
+      
+        g
+        (
+        x
+        )
+        =
+        f
+        
+          (
+          
+            x
+            +
+            
+              
+                
+                  
+                    b
+                    −
+                    a
+                  
+                  n
+                
+              
+            
+          
+          )
+        
+        −
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle g(x)=f\left(x+{\dfrac {b-a}{n}}\right)-f(x)}
+  . Being the sum of two continuous functions, 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   is continuous. Furthermore, 
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            n
+            −
+            1
+          
+        
+        g
+        
+          (
+          
+            a
+            +
+            k
+            ⋅
+            
+              
+                
+                  
+                    b
+                    −
+                    a
+                  
+                  n
+                
+              
+            
+          
+          )
+        
+        =
+        0
+      
+    
+    {\displaystyle \sum _{k=0}^{n-1}g\left(a+k\cdot {\dfrac {b-a}{n}}\right)=0}
+  . It follows that there exists integers 
+  
+    
+      
+        i
+        ,
+        j
+      
+    
+    {\displaystyle i,j}
+   such that 
+  
+    
+      
+        g
+        
+          (
+          
+            a
+            +
+            i
+            ⋅
+            
+              
+                
+                  
+                    b
+                    −
+                    a
+                  
+                  n
+                
+              
+            
+          
+          )
+        
+        ≤
+        0
+        ≤
+        g
+        
+          (
+          
+            a
+            +
+            j
+            ⋅
+            
+              
+                
+                  
+                    b
+                    −
+                    a
+                  
+                  n
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle g\left(a+i\cdot {\dfrac {b-a}{n}}\right)\leq 0\leq g\left(a+j\cdot {\dfrac {b-a}{n}}\right)}
+   
+The intermediate value theorems gives us c such that 
+  
+    
+      
+        g
+        (
+        c
+        )
+        =
+        0
+      
+    
+    {\displaystyle g(c)=0}
+   and the theorem follows.
+
+See also
+Intermediate value theorem
+Borsuk–Ulam theorem
+Rolle's theorem
+
+
+== References ==

@@ -1,0 +1,198 @@
+The reciprocal Fibonacci constant, or ψ, is defined as the sum of the reciprocals of the Fibonacci numbers:
+
+  
+    
+      
+        ψ
+        =
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            1
+            
+              F
+              
+                k
+              
+            
+          
+        
+        =
+        
+          
+            1
+            1
+          
+        
+        +
+        
+          
+            1
+            1
+          
+        
+        +
+        
+          
+            1
+            2
+          
+        
+        +
+        
+          
+            1
+            3
+          
+        
+        +
+        
+          
+            1
+            5
+          
+        
+        +
+        
+          
+            1
+            8
+          
+        
+        +
+        
+          
+            1
+            13
+          
+        
+        +
+        
+          
+            1
+            21
+          
+        
+        +
+        ⋯
+        .
+      
+    
+    {\displaystyle \psi =\sum _{k=1}^{\infty }{\frac {1}{F_{k}}}={\frac {1}{1}}+{\frac {1}{1}}+{\frac {1}{2}}+{\frac {1}{3}}+{\frac {1}{5}}+{\frac {1}{8}}+{\frac {1}{13}}+{\frac {1}{21}}+\cdots .}
+  The ratio of successive terms in this sum tends to the reciprocal of the golden ratio. Since this is less than 1, the ratio test shows that the sum converges.
+The value of ψ is known to be approximately
+
+  
+    
+      
+        ψ
+        =
+        3.359885666243177553172011302918927179688905133732
+        …
+      
+    
+    {\displaystyle \psi =3.359885666243177553172011302918927179688905133732\dots }
+   (sequence A079586 in the OEIS).Gosper describes an algorithm for fast numerical approximation of its value. The reciprocal Fibonacci series itself provides O(k) digits of accuracy for k terms of expansion, while Gosper's accelerated series provides O(k 2) digits.
+ψ is known to be irrational; this property was conjectured by Paul Erdős, Ronald Graham, and Leonard Carlitz, and proved in 1989 by Richard André-Jeannin.The continued fraction representation of the constant is:
+
+  
+    
+      
+        ψ
+        =
+        [
+        3
+        ;
+        2
+        ,
+        1
+        ,
+        3
+        ,
+        1
+        ,
+        1
+        ,
+        13
+        ,
+        2
+        ,
+        3
+        ,
+        3
+        ,
+        2
+        ,
+        1
+        ,
+        1
+        ,
+        6
+        ,
+        3
+        ,
+        2
+        ,
+        4
+        ,
+        362
+        ,
+        2
+        ,
+        4
+        ,
+        8
+        ,
+        6
+        ,
+        30
+        ,
+        50
+        ,
+        1
+        ,
+        6
+        ,
+        3
+        ,
+        3
+        ,
+        2
+        ,
+        7
+        ,
+        2
+        ,
+        3
+        ,
+        1
+        ,
+        3
+        ,
+        2
+        ,
+        …
+        ]
+        
+        
+      
+    
+    {\displaystyle \psi =[3;2,1,3,1,1,13,2,3,3,2,1,1,6,3,2,4,362,2,4,8,6,30,50,1,6,3,3,2,7,2,3,1,3,2,\dots ]\!\,}
+   (sequence A079587 in the OEIS).
+
+See also
+List of sums of reciprocals
+
+References
+External links
+Weisstein, Eric W. "Reciprocal Fibonacci Constant". MathWorld.

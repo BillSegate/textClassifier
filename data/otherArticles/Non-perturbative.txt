@@ -1,0 +1,133 @@
+In mathematics and physics, a non-perturbative function or process is one that cannot be described by perturbation theory. An example is the function
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          e
+          
+            −
+            1
+            
+              /
+            
+            
+              x
+              
+                2
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle f(x)=e^{-1/x^{2}},}
+  which does not have a Taylor series at x = 0. Every coefficient of the Taylor expansion around x = 0 is exactly zero, but the function is non-zero if x ≠ 0.
+In physics, such functions arise for phenomena which are impossible to understand by perturbation theory, at any finite order. In quantum field theory, 't Hooft–Polyakov monopoles, domain walls, flux tubes, and instantons are examples. A concrete, physical example is given by the Schwinger effect, whereby a strong electric field may spontaneously decay into electron-positron pairs. For not too strong fields, the rate per unit volume of this process is given by,
+
+  
+    
+      
+        Γ
+        =
+        
+          
+            
+              (
+              e
+              E
+              
+                )
+                
+                  2
+                
+              
+            
+            
+              4
+              
+                π
+                
+                  3
+                
+              
+            
+          
+        
+        
+          
+            e
+          
+          
+            −
+            
+              
+                
+                  π
+                  
+                    m
+                    
+                      2
+                    
+                  
+                
+                
+                  e
+                  E
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \Gamma ={\frac {(eE)^{2}}{4\pi ^{3}}}\mathrm {e} ^{-{\frac {\pi m^{2}}{eE}}}}
+  which cannot be expanded in a Taylor series in the electric charge 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+  , or the electric field strength 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+  . Here 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   is the mass of an electron and we have used units where 
+  
+    
+      
+        c
+        =
+        ℏ
+        =
+        1
+      
+    
+    {\displaystyle c=\hbar =1}
+  .
+In theoretical physics, a non-perturbative solution is one that cannot be described in terms of perturbations about some simple background, such as empty space. For this reason, non-perturbative solutions and theories yield insights into areas and subjects that perturbative methods cannot reveal.
+
+See also
+
+
+== References ==

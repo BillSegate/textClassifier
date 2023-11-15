@@ -1,0 +1,438 @@
+The Källén function, also known as triangle function, is a polynomial function in three variables, which appears in geometry and particle physics. In the latter field it is usually denoted by the symbol 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  . It is named after the theoretical physicist Gunnar Källén, who introduced it as a short-hand in his textbook Elementary Particle Physics.
+
+Definition
+The function is given by a quadratic polynomial in three variables
+
+  
+    
+      
+        λ
+        (
+        x
+        ,
+        y
+        ,
+        z
+        )
+        ≡
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        +
+        
+          z
+          
+            2
+          
+        
+        −
+        2
+        x
+        y
+        −
+        2
+        y
+        z
+        −
+        2
+        z
+        x
+        .
+      
+    
+    {\displaystyle \lambda (x,y,z)\equiv x^{2}+y^{2}+z^{2}-2xy-2yz-2zx.}
+
+Applications
+In geometry the function describes the area 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   of a triangle with side lengths 
+  
+    
+      
+        a
+        ,
+        b
+        ,
+        c
+      
+    
+    {\displaystyle a,b,c}
+  :
+
+  
+    
+      
+        A
+        =
+        
+          
+            1
+            4
+          
+        
+        
+          
+            −
+            λ
+            (
+            
+              a
+              
+                2
+              
+            
+            ,
+            
+              b
+              
+                2
+              
+            
+            ,
+            
+              c
+              
+                2
+              
+            
+            )
+          
+        
+        .
+      
+    
+    {\displaystyle A={\frac {1}{4}}{\sqrt {-\lambda (a^{2},b^{2},c^{2})}}.}
+  See also Heron's formula.
+The function appears naturally in the kinematics of relativistic particles, e.g. when expressing the energy and momentum components in the center of mass frame by Mandelstam variables.
+
+Properties
+The function is (obviously) symmetric in permutations of its arguments, as well as independent of a common sign flip of its arguments:
+
+  
+    
+      
+        λ
+        (
+        −
+        x
+        ,
+        −
+        y
+        ,
+        −
+        z
+        )
+        =
+        λ
+        (
+        x
+        ,
+        y
+        ,
+        z
+        )
+        .
+      
+    
+    {\displaystyle \lambda (-x,-y,-z)=\lambda (x,y,z).}
+  If 
+  
+    
+      
+        y
+        ,
+        z
+        >
+        0
+      
+    
+    {\displaystyle y,z>0}
+   the polynomial factorizes into two factors
+
+  
+    
+      
+        λ
+        (
+        x
+        ,
+        y
+        ,
+        z
+        )
+        =
+        (
+        x
+        −
+        (
+        
+          
+            y
+          
+        
+        +
+        
+          
+            z
+          
+        
+        
+          )
+          
+            2
+          
+        
+        )
+        (
+        x
+        −
+        (
+        
+          
+            y
+          
+        
+        −
+        
+          
+            z
+          
+        
+        
+          )
+          
+            2
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle \lambda (x,y,z)=(x-({\sqrt {y}}+{\sqrt {z}})^{2})(x-({\sqrt {y}}-{\sqrt {z}})^{2}).}
+  If 
+  
+    
+      
+        x
+        ,
+        y
+        ,
+        z
+        >
+        0
+      
+    
+    {\displaystyle x,y,z>0}
+   the polynomial factorizes into four factors
+
+  
+    
+      
+        λ
+        (
+        x
+        ,
+        y
+        ,
+        z
+        )
+        =
+        −
+        (
+        
+          
+            x
+          
+        
+        +
+        
+          
+            y
+          
+        
+        +
+        
+          
+            z
+          
+        
+        )
+        (
+        −
+        
+          
+            x
+          
+        
+        +
+        
+          
+            y
+          
+        
+        +
+        
+          
+            z
+          
+        
+        )
+        (
+        
+          
+            x
+          
+        
+        −
+        
+          
+            y
+          
+        
+        +
+        
+          
+            z
+          
+        
+        )
+        (
+        
+          
+            x
+          
+        
+        +
+        
+          
+            y
+          
+        
+        −
+        
+          
+            z
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle \lambda (x,y,z)=-({\sqrt {x}}+{\sqrt {y}}+{\sqrt {z}})(-{\sqrt {x}}+{\sqrt {y}}+{\sqrt {z}})({\sqrt {x}}-{\sqrt {y}}+{\sqrt {z}})({\sqrt {x}}+{\sqrt {y}}-{\sqrt {z}}).}
+  Its most condensed form is
+
+  
+    
+      
+        λ
+        (
+        x
+        ,
+        y
+        ,
+        z
+        )
+        =
+        (
+        x
+        −
+        y
+        −
+        z
+        
+          )
+          
+            2
+          
+        
+        −
+        4
+        y
+        z
+        .
+      
+    
+    {\displaystyle \lambda (x,y,z)=(x-y-z)^{2}-4yz.}
+  Interesting special cases are: eqns. (II.6.8–9) 
+
+  
+    
+      
+        λ
+        (
+        x
+        ,
+        y
+        ,
+        y
+        )
+        =
+        x
+        (
+        x
+        −
+        4
+        y
+        )
+        
+        ,
+      
+    
+    {\displaystyle \lambda (x,y,y)=x(x-4y)\,,}
+  
+
+  
+    
+      
+        λ
+        (
+        x
+        ,
+        y
+        ,
+        0
+        )
+        =
+        (
+        x
+        −
+        y
+        
+          )
+          
+            2
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \lambda (x,y,0)=(x-y)^{2}\,.}
+  
+
+
+== References ==

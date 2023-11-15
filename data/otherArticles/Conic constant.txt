@@ -1,0 +1,12 @@
+In geometry, the conic constant (or Schwarzschild constant, after Karl Schwarzschild) is a quantity describing conic sections, and is represented by the letter K.  The constant is given by  where e is the eccentricity of the conic section.
+The equation for a conic section with apex at the origin and tangent to the y axis is
+
+alternately
+
+where R is the radius of curvature at x = 0.
+This formulation is used in geometric optics to specify oblate elliptical (K > 0), spherical (K = 0), prolate elliptical (0 > K > −1), parabolic (K = −1), and hyperbolic (K < −1) lens and mirror surfaces.  When the paraxial approximation is valid, the optical surface can be treated as a spherical surface with the same radius.
+Some non-optical design references use the letter p as the conic constant.  In these cases, p = K + 1.
+
+References
+
+Smith, Warren J. (2008). Modern Optical Engineering, 4th ed. McGraw-Hill Professional. pp. 512–515. ISBN 978-0-07-147687-4.

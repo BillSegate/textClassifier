@@ -1,0 +1,556 @@
+A planimeter, also known as a platometer, is a measuring instrument used to determine the area of an arbitrary two-dimensional shape.
+
+Construction
+There are several kinds of planimeters, but all operate in a similar way. The precise way in which they are constructed varies, with the main types of mechanical planimeter being polar, linear, and Prytz or "hatchet" planimeters. The Swiss mathematician Jakob Amsler-Laffon built the first modern planimeter in 1854, the concept having been pioneered by Johann Martin Hermann in 1814. Many developments followed Amsler's famous planimeter, including electronic versions.
+
+The Amsler (polar) type consists of a two-bar linkage. At the end of one link is a pointer, used to trace around the boundary of the shape to be measured. The other end of the linkage pivots freely on a weight that keeps it from moving. Near the junction of the two links is a measuring wheel of calibrated diameter, with a scale to show fine rotation, and worm gearing for an auxiliary turns counter scale. As the area outline is traced, this wheel rolls on the surface of the drawing. The operator sets the wheel, turns the counter to zero, and then traces the pointer around the perimeter of the shape. When the tracing is complete, the scales at the measuring wheel show the shape's area.
+When the planimeter's measuring wheel moves perpendicular to its axis, it rolls, and this movement is recorded. When the measuring wheel moves parallel to its axis, the wheel skids without rolling, so this movement is ignored. That means the planimeter measures the distance that its measuring wheel travels, projected perpendicularly to the measuring wheel's axis of rotation. The area of the shape is proportional to the number of turns through which the measuring wheel rotates.
+The polar planimeter is restricted by design to measuring areas within limits determined by its size and geometry. However, the linear type has no restriction in one dimension, because it can roll. Its wheels must not slip, because the movement must be constrained to a straight line.
+Developments of the planimeter can establish the position of the first moment of area (center of mass), and even the second moment of area.
+
+The images show the principles of a linear and a polar planimeter. The pointer M at one end of the planimeter follows the contour C of the surface S to be measured. For the linear planimeter the movement of the "elbow" E is restricted to the y-axis. For the polar planimeter the "elbow" is connected to an arm with its other endpoint O at a fixed position. Connected to the arm ME is the measuring wheel with its axis of rotation parallel to ME. A movement of the arm ME can be decomposed into a movement perpendicular to ME, causing the wheel to rotate, and a movement parallel to ME, causing the wheel to skid, with no contribution to its reading.
+
+Principle
+The working of the linear planimeter may be explained by measuring the area of a rectangle ABCD (see image). Moving with the pointer from A to B the arm EM moves through the yellow parallelogram, with area equal to PQ×EM. This area is also equal to the area of the parallelogram A"ABB". The measuring wheel measures the distance PQ (perpendicular to EM). Moving from C to D the arm EM moves through the green parallelogram, with area equal to the area of the rectangle D"DCC". The measuring wheel now moves in the opposite direction, subtracting this reading from the former. The movements along BC and DA are the same but opposite, so they cancel each other with no net effect on the reading of the wheel. The net result is the measuring of the difference of the yellow and green areas, which is the area of ABCD.
+
+Mathematical derivation
+The operation of a linear planimeter can be justified by applying Green's theorem onto the components of the vector field N, given by:
+
+  
+    
+      
+        
+        
+        N
+        (
+        x
+        ,
+        y
+        )
+        =
+        (
+        b
+        −
+        y
+        ,
+        x
+        )
+        ,
+      
+    
+    {\displaystyle \!\,N(x,y)=(b-y,x),}
+  where b is the y-coordinate of the elbow E.
+This vector field is perpendicular to the measuring arm EM:
+
+  
+    
+      
+        
+          
+            
+              E
+              M
+            
+            →
+          
+        
+        ⋅
+        N
+        =
+        x
+        
+          N
+          
+            x
+          
+        
+        +
+        (
+        y
+        −
+        b
+        )
+        
+          N
+          
+            y
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle {\overrightarrow {EM}}\cdot N=xN_{x}+(y-b)N_{y}=0}
+  and has a constant size, equal to the length m of the measuring arm:
+
+  
+    
+      
+        
+        
+        ‖
+        N
+        ‖
+        =
+        
+          
+            (
+            b
+            −
+            y
+            
+              )
+              
+                2
+              
+            
+            +
+            
+              x
+              
+                2
+              
+            
+          
+        
+        =
+        m
+      
+    
+    {\displaystyle \!\,\|N\|={\sqrt {(b-y)^{2}+x^{2}}}=m}
+  Then:
+
+  
+    
+      
+        
+          
+            
+              
+              
+                
+                
+                  ∮
+                  
+                    C
+                  
+                
+                (
+                
+                  N
+                  
+                    x
+                  
+                
+                
+                d
+                x
+                +
+                
+                  N
+                  
+                    y
+                  
+                
+                
+                d
+                y
+                )
+                =
+                
+                  ∬
+                  
+                    S
+                  
+                
+                
+                  (
+                  
+                    
+                      
+                        
+                          ∂
+                          
+                            N
+                            
+                              y
+                            
+                          
+                        
+                        
+                          ∂
+                          x
+                        
+                      
+                    
+                    −
+                    
+                      
+                        
+                          ∂
+                          
+                            N
+                            
+                              x
+                            
+                          
+                        
+                        
+                          ∂
+                          y
+                        
+                      
+                    
+                  
+                  )
+                
+                
+                d
+                x
+                
+                d
+                y
+              
+            
+            
+              
+                =
+                
+
+                
+              
+              
+                
+                
+                  ∬
+                  
+                    S
+                  
+                
+                
+                  (
+                  
+                    
+                      
+                        
+                          ∂
+                          x
+                        
+                        
+                          ∂
+                          x
+                        
+                      
+                    
+                    −
+                    
+                      
+                        
+                          ∂
+                          (
+                          b
+                          −
+                          y
+                          )
+                        
+                        
+                          ∂
+                          y
+                        
+                      
+                    
+                  
+                  )
+                
+                
+                d
+                x
+                
+                d
+                y
+                =
+                
+                  ∬
+                  
+                    S
+                  
+                
+                
+                d
+                x
+                
+                d
+                y
+                =
+                A
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}&\oint _{C}(N_{x}\,dx+N_{y}\,dy)=\iint _{S}\left({\frac {\partial N_{y}}{\partial x}}-{\frac {\partial N_{x}}{\partial y}}\right)\,dx\,dy\\[8pt]={}&\iint _{S}\left({\frac {\partial x}{\partial x}}-{\frac {\partial (b-y)}{\partial y}}\right)\,dx\,dy=\iint _{S}\,dx\,dy=A,\end{aligned}}}
+  because:
+
+  
+    
+      
+        
+          
+            ∂
+            
+              ∂
+              y
+            
+          
+        
+        (
+        y
+        −
+        b
+        )
+        =
+        
+          
+            ∂
+            
+              ∂
+              y
+            
+          
+        
+        
+          
+            
+              m
+              
+                2
+              
+            
+            −
+            
+              x
+              
+                2
+              
+            
+          
+        
+        =
+        0
+        ,
+      
+    
+    {\displaystyle {\frac {\partial }{\partial y}}(y-b)={\frac {\partial }{\partial y}}{\sqrt {m^{2}-x^{2}}}=0,}
+  The left hand side of the above equation, which is equal to the area A enclosed by the contour, is proportional to the distance measured by the measuring wheel, with proportionality factor m, the length of the measuring arm.
+The justification for the above derivation lies in noting that the linear planimeter only records movement perpendicular to its measuring arm, or when 
+
+  
+    
+      
+        N
+        ⋅
+        (
+        d
+        x
+        ,
+        d
+        y
+        )
+        =
+        
+          N
+          
+            x
+          
+        
+        d
+        x
+        +
+        
+          N
+          
+            y
+          
+        
+        d
+        y
+      
+    
+    {\displaystyle N\cdot (dx,dy)=N_{x}dx+N_{y}dy}
+   is non-zero. When this quantity is integrated over the closed curve C, Green's theorem and the area follow.
+
+Polar coordinates
+The connection with Green's theorem can be understood in terms of integration in polar coordinates: in polar coordinates, area is computed by the integral 
+  
+    
+      
+        
+          ∫
+          
+            θ
+          
+        
+        
+          
+            
+              1
+              2
+            
+          
+        
+        (
+        r
+        (
+        θ
+        )
+        
+          )
+          
+            2
+          
+        
+        
+        d
+        θ
+        ,
+      
+    
+    {\textstyle \int _{\theta }{\tfrac {1}{2}}(r(\theta ))^{2}\,d\theta ,}
+   where the form being integrated is quadratic in r, meaning that the rate at which area changes with respect to change in angle varies quadratically with the radius.
+For a parametric equation in polar coordinates, where both r and θ vary as a function of time, this becomes
+
+For a polar planimeter the total rotation of the wheel is proportional to 
+  
+    
+      
+        
+          ∫
+          
+            t
+          
+        
+        r
+        (
+        t
+        )
+        
+        
+          
+            
+              θ
+              ˙
+            
+          
+        
+        (
+        t
+        )
+        
+        d
+        t
+        ,
+      
+    
+    {\textstyle \int _{t}r(t)\,{\dot {\theta }}(t)\,dt,}
+   as the rotation is proportional to the distance traveled, which at any point in time is proportional to radius and to change in angle, as in the circumference of a circle (
+  
+    
+      
+        ∫
+        r
+        
+        d
+        θ
+        =
+        2
+        π
+        r
+      
+    
+    {\textstyle \int r\,d\theta =2\pi r}
+  ).
+This last integrand 
+  
+    
+      
+        r
+        (
+        t
+        )
+        
+        
+          
+            
+              θ
+              ˙
+            
+          
+        
+        (
+        t
+        )
+      
+    
+    {\textstyle r(t)\,{\dot {\theta }}(t)}
+   can be recognized as the derivative of the earlier integrand 
+  
+    
+      
+        
+          
+            
+              1
+              2
+            
+          
+        
+        (
+        r
+        (
+        t
+        )
+        
+          )
+          
+            2
+          
+        
+        
+          
+            
+              θ
+              ˙
+            
+          
+        
+        (
+        t
+        )
+      
+    
+    {\textstyle {\tfrac {1}{2}}(r(t))^{2}{\dot {\theta }}(t)}
+   (with respect to r), and shows that a polar planimeter computes the area integral in terms of the derivative, which is reflected in Green's theorem, which equates a line integral of a function on a (1-dimensional) contour to the (2-dimensional) integral of the derivative.
+
+See also
+Curvimeter
+Dot planimeter
+Mathematical instrument
+Integraph
+Shoelace formula
+
+References
+Sources
+External links
+
+Hatchet Planimeter
+P. Kunkel: Whistleralley site, The Planimeter
+Larry's Planimeter Platter
+Wuerzburg Planimeter Page
+Robert Foote's planimeter page
+Computer model of a planimeter
+Tanya Leise's planimeter explanations and As the Planimeter’s Wheel Turns
+Make a simple planimeter
+Photo: Geographers using planimeters (1940–1941)
+O. Knill and D. Winter: Green's Theorem and the Planimeter

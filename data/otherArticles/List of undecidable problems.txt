@@ -1,0 +1,126 @@
+In computability theory, an undecidable problem is a type of computational problem that requires a yes/no answer, but where there cannot possibly be any computer program that always gives the correct answer; that is, any possible program would sometimes give the wrong answer or run forever without giving any answer. More formally, an undecidable problem is a problem whose language is not a recursive set; see the article Decidable language.  There are uncountably many undecidable problems, so the list below is necessarily incomplete. Though undecidable languages are not recursive languages, they may be subsets of Turing recognizable languages: i.e., such undecidable languages may be recursively enumerable.
+Many, if not most, undecidable problems in mathematics can be posed as word problems: determining when two distinct strings of symbols (encoding some mathematical concept or object) represent the same object or not.
+For undecidability in axiomatic mathematics, see List of statements undecidable in ZFC.
+
+Problems in logic
+Hilbert's Entscheidungsproblem.
+Type inference and type checking for the second-order lambda calculus (or equivalent).
+Determining whether a first-order sentence in the logic of graphs can be realized by a finite undirected graph.
+Trakhtenbrot's theorem - Finite satisfiability is undecidable.
+Satisfiability of first order Horn clauses.
+
+Problems about abstract machines
+The halting problem (determining whether a Turing machine halts on a given input) and the mortality problem (determining whether it halts for every starting configuration).
+Determining whether a Turing machine is a busy beaver champion (i.e., is the longest-running among halting Turing machines with the same number of states and symbols).
+Rice's theorem states that for all nontrivial properties of partial functions, it is undecidable whether a given machine computes a partial function with that property.
+The halting problem for a Minsky machine: a finite-state automaton with no inputs and two counters that can be incremented, decremented, and tested for zero.
+Universality of a Nondeterministic Pushdown automaton: determining whether all words are accepted.
+The problem whether a tag system halts.
+
+Problems about matrices
+The mortal matrix problem: determining, given a finite set of n × n matrices with integer entries, whether they can be multiplied in some order, possibly with repetition, to yield the zero matrix. This is known to be undecidable for a set of six or more 3 × 3 matrices, or a set of two 15 × 15 matrices.
+Determining whether a finite set of upper triangular 3 × 3 matrices with nonnegative integer entries generates a free semigroup.
+Determining whether two finitely generated subsemigroups of integer matrices have a common element.
+
+Problems in combinatorial group theory
+The word problem for groups.
+The conjugacy problem.
+The group isomorphism problem.
+
+Problems in topology
+Determining whether two finite simplicial complexes are homeomorphic.
+Determining whether a finite simplicial complex is (homeomorphic to) a manifold.
+Determining whether the fundamental group of a finite simplicial complex is trivial.
+Determining whether two non-simply connected 5-manifolds are homeomorphic, or if a 5-manifold is homeomorphic to S5.
+
+Problems in analysis
+For functions in certain classes, the problem of determining: whether two functions are equal, known as the zero-equivalence problem (see Richardson's theorem); the zeroes of a function; whether the indefinite integral of a function is also in the class. Of course, some subclasses of these problems are decidable. For example, there is an effective decision procedure for the elementary integration of any function which belongs to a field of transcendental elementary functions, the Risch algorithm.
+"The problem of deciding whether the definite contour multiple integral of an elementary meromorphic function is zero over an everywhere real analytic manifold on which it is analytic", a consequence of the MRDP theorem resolving Hilbert's tenth problem.
+Determining the domain of a solution to an ordinary differential equation of the form
+  
+    
+      
+        
+          
+            
+              d
+              x
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        p
+        (
+        t
+        ,
+        x
+        )
+        ,
+         
+        x
+        (
+        
+          t
+          
+            0
+          
+        
+        )
+        =
+        
+          x
+          
+            0
+          
+        
+        ,
+      
+    
+    {\displaystyle {\frac {dx}{dt}}=p(t,x),~x(t_{0})=x_{0},}
+  
+where x is a vector in Rn, p(t, x) is a vector of polynomials in t and x, and (t0, x0) belongs to Rn+1.
+
+Problems about formal languages and grammars
+The Post correspondence problem.
+Determining if a context-free grammar generates all possible strings, or if it is ambiguous.
+Given two context-free grammars, determining whether they generate the same set of strings, or whether one generates a subset of the strings generated by the other, or whether there is any string at all that both generate.
+
+Other problems
+The problem of determining if a given set of Wang tiles can tile the plane.
+The problem of determining the Kolmogorov complexity of a string.
+Hilbert's tenth problem: the problem of deciding whether a Diophantine equation (multivariable polynomial equation) has a solution in integers.
+Determining whether a given initial point with rational coordinates is periodic, or whether it lies in the basin of attraction of a given open set, in a piecewise-linear iterated map in two dimensions, or in a piecewise-linear flow in three dimensions.
+Determining whether a λ-calculus formula has a normal form.
+Conway's Game of Life on whether given an initial pattern and another pattern, can the latter pattern ever appear from the initial one.
+Rule 110 - most questions involving "can property X appear later" are undecidable.
+The problem of determining whether a quantum mechanical system has a spectral gap.
+Finding the capacity of an information-stable finite state machine channel.
+In network coding, determining whether a network is solvable.
+Determining whether a player has a winning strategy in a game of Magic: The Gathering.
+Planning in a partially observable Markov decision process.
+The problem of planning air travel from one destination to another, when fares are taken into account.
+In the ray tracing problem for a 3-dimensional system of reflective or refractive objects, determining if a ray beginning at a given position and direction eventually reaches a certain point.
+Determining if a particle path of an ideal fluid on a three dimensional domain eventually reaches a certain region in space.
+
+See also
+Lists of problems
+List of unsolved problems
+Reduction (complexity)
+Unknowability
+
+Notes
+Bibliography
+Brookshear, J. Glenn (1989). Theory of Computation: Formal Languages, Automata, and Complexity. Redwood City, California: Benjamin/Cummings Publishing Company, Inc. Appendix C includes impossibility of algorithms deciding if a grammar contains ambiguities, and impossibility of verifying program correctness by an algorithm as example of Halting Problem.
+Halava, Vesa (1997). "Decidable and undecidable problems in matrix theory". TUCS technical report. 127. Turku Centre for Computer Science. CiteSeerX 10.1.1.31.5792. {{cite journal}}: Cite journal requires |journal= (help)
+Moret, B. M. E.; H. D. Shapiro (1991). Algorithms from P to NP, volume 1 - Design and Efficiency. Redwood City, California: Benjamin/Cummings Publishing Company, Inc. Discusses intractability of problems with algorithms having exponential performance in Chapter 2, "Mathematical techniques for the analysis of algorithms."
+Weinberger, Shmuel (2005). Computers, rigidity, and moduli. Princeton, NJ: Princeton University Press. Discusses undecidability of the word problem for groups, and of various problems in topology.
+
+Further reading
+Poonen, Bjorn (2 April 2012), Undecidable problems: a sampler, arXiv:1204.0299, Bibcode:2012arXiv1204.0299P
+
+External links
+Discussion at MathOverflow

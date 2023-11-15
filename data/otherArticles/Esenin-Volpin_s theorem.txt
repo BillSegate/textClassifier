@@ -1,0 +1,7 @@
+In mathematics, Esenin-Volpin's theorem states that weight of an infinite compact dyadic space is the supremum of the weights of its points.
+It was introduced by  Alexander Esenin-Volpin (1949). It was generalized by (Efimov 1965) and (Turzański 1992).
+
+References
+Efimov, B. A. (1965), "Dyadic bicompacta", Trudy Moskov. Mat. Obšč. (in Russian), 14: 211–247, MR 0202105
+Esenin-Volpin, A. S. (1949), "On the relation between the local and integral weight in dyadic bicompacta", Doklady Akademii Nauk SSSR, New Series (in Russian), 68: 441–444, MR 0031029, Zbl 0033.02203
+Turzański, Marian (1992), "Strong sequences, binary families and Esenin-Volpin's theorem", Comment.Math.Univ.Carolinae, 33 (3): 563–569, MR 1209298, Zbl 0796.54031

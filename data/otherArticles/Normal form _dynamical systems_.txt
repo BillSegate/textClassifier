@@ -1,0 +1,155 @@
+In mathematics, the normal form of a dynamical system is a simplified form that can be useful in determining the system's behavior.
+Normal forms are often used for determining local bifurcations in a system. All systems exhibiting a certain type of bifurcation are locally (around the equilibrium) topologically equivalent to the normal form of the bifurcation. For example, the normal form of a saddle-node bifurcation is 
+
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              x
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        μ
+        +
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\frac {\mathrm {d} x}{\mathrm {d} t}}=\mu +x^{2}}
+  where 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+   is the bifurcation parameter. The transcritical bifurcation 
+
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              x
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        r
+        ln
+        ⁡
+        x
+        +
+        x
+        −
+        1
+      
+    
+    {\displaystyle {\frac {\mathrm {d} x}{\mathrm {d} t}}=r\ln x+x-1}
+  near 
+  
+    
+      
+        x
+        =
+        1
+      
+    
+    {\displaystyle x=1}
+   can be converted to the normal form 
+
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              u
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        μ
+        u
+        −
+        
+          u
+          
+            2
+          
+        
+        +
+        O
+        (
+        
+          u
+          
+            3
+          
+        
+        )
+      
+    
+    {\displaystyle {\frac {\mathrm {d} u}{\mathrm {d} t}}=\mu u-u^{2}+O(u^{3})}
+  with the transformation 
+  
+    
+      
+        u
+        =
+        x
+        −
+        1
+        ,
+        μ
+        =
+        r
+        +
+        1
+      
+    
+    {\displaystyle u=x-1,\mu =r+1}
+  .See also canonical form for use of the terms canonical form, normal form, or standard form more generally in mathematics.
+
+References
+Further reading
+Guckenheimer, John; Holmes, Philip (1983), Nonlinear Oscillations, Dynamical Systems, and Bifurcations of Vector Fields, Springer, Section 3.3, ISBN 0-387-90819-6
+Kuznetsov, Yuri A. (1998), Elements of Applied Bifurcation Theory (Second ed.), Springer, Section 2.4, ISBN 0-387-98382-1
+Murdock, James (2006). "Normal forms". Scholarpedia. 1 (10): 1902. Bibcode:2006SchpJ...1.1902M. doi:10.4249/scholarpedia.1902.
+Murdock, James (2003). Normal Forms and Unfoldings for Local Dynamical Systems. Springer. ISBN 978-0-387-21785-7.

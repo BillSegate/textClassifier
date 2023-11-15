@@ -1,0 +1,33 @@
+A viewshed is the geographical area that is visible from a location. It includes all surrounding points that are in line-of-sight with that location and excludes points that are beyond the horizon or obstructed by terrain and other features (e.g., buildings, trees). Conversely, it can also refer to area from which an object can be seen. A viewshed is not necessarily "visible" to humans; the same concept is used in radio communications to indicate where a specific combination of transmitter, antenna, and terrain allow reception of signal.
+Viewsheds are commonly used in terrain analysis, which is of interest to urban planning, archaeology, and military science. In urban planning, for example, viewsheds tend to be calculated for areas of particular scenic or historic value that are deemed worthy of preservation against development or other change. Viewsheds are often calculated for public areas — for example, from public roadways, public parks, or high-rise buildings. The preservation of viewsheds is frequently a goal in the designation of open space areas, green belts, and community separators.
+
+Representation
+A viewshed can be represented by raster data indicating the visibility of a viewpoint for or from an area of interest. In a binary representation, a cell (shown graphically as a pixel) with a value of 1 (or "true") indicates that the viewpoint is visible from that cell, while a value of 0 (false) indicates that the viewpoint is not visible.  In certain disciplines, such as radio communications, "visibility" may be probabilistic and therefore the viewshed may be represented with non-integer values. Viewsheds for multiple points, lines, or areas may have counts or fractional values for queries involving "how much" or "how many" (e.g., how much of a highway is visible?).
+
+Viewshed and total-viewshed computation
+A terrain can be represented using a regular grid of points called Digital Elevation Model (DEM). Where each point of the DEM is represented by its coordinates X, Y and its height Z.
+Viewshed calculation on a large DEM is costly from a computational point of view. This cost is much higher when calculating the viewshed for all the points of the DEM, also called total-viewshed. A faster algorithm for computing the total-viewshed of large DEMs was proposed on.
+
+History
+Clifford Tandy is credited with coining the term "viewshed" in 1967 by analogy to watershed. The lexicographer Grant Barrett cites a use of the term from 1970 in the Oakland Tribune.
+
+Related concepts
+Viewsheds are a specific type of visibility graph.
+Isovists are a closely related concept that is more common in the study of architecture. Viewsheds and isovists are sometimes said to be equivalent, however others have found differences between them. It has been argued that isovists are more focused on representing space whereas viewsheds are about the visibility of features. Also, the problems they are used in have different scales. Planners use viewsheds where terrain heights come into play whereas architects do not typically take that into account with isovists.The area from which a structure can be seen may be called the "Zone of Visual Influence." This can be referred to as the viewshed as well, though.
+Total-viewshed map refers to the map, where each point represents the number of Km² visible at that point in the DEM.The 3D-viewshed of a point (X,Y) of the DEM consists of the visible space from that point.
+
+Zone of visual influence
+A zone of visual influence is the area from which a development or other structure is theoretically visible. It is usually represented as a map using color to indicate visibility.
+Zones of visual influence are used to identify the parts of a landscape that will be affected by a development.  They are of particular use to landscape architects in determining visual intrusion as part of an environmental impact assessment.  Zones of visual influence have been used extensively in wind farm development.  A map will be created showing the number of wind turbines that are visible from a particular area.  A cumulative zone of visual influence is used to define the cumulative effects of many developments.
+Zones of visual influence are created using GIS tools.
+
+See also
+Computational archaeology
+Isovist
+Scenic highway
+Visibility graph
+Visibility (geometry)
+Euclidean influence zone
+
+
+== References ==

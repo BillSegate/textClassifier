@@ -1,0 +1,61 @@
+This article contains a non-exhaustive list of coordinate charts for Riemannian manifolds and pseudo-Riemannian manifolds. Coordinate charts are mathematical objects of topological manifolds, and they have multiple applications in theoretical and applied mathematics. When a differentiable structure and a metric are defined, greater structure exists, and this allows the definition of constructs such as integration and geodesics.
+
+Charts for Riemannian and pseudo-Riemannian surfaces
+The following charts (with appropriate metric tensors) can be used in the stated classes of Riemannian and pseudo-Riemannian surfaces:
+
+Radially symmetric surfaces:
+Hyperspherical coordinates
+Surfaces embedded in E3:
+Monge chart
+Certain minimal surfaces:
+Asymptotic chart (see also asymptotic line)Euclidean plane E2:
+Cartesian chart
+Sphere S2:
+Spherical coordinates
+Stereographic chart
+Central projection chart
+Axial projection chart
+Mercator chart
+Hyperbolic plane H2:
+Polar chart
+Stereographic chart (Poincaré model)
+Upper half-space chart (Poincaré model)
+Central projection chart (Klein model)
+Mercator chartAdS2 (or S1,1) and dS2 (or H1,1):
+Central projectionSnHopf chart
+HnUpper half-space chart (Poincaré model)
+Hopf chartThe following charts apply specifically to three-dimensional manifolds:
+
+Axially symmetric manifolds:
+Cylindrical chart
+Parabolic chart
+Hyperbolic chart
+Toroidal chartThree-dimensional Euclidean space E3:
+Cartesian
+Polar spherical chart
+Cylindrical chart
+Elliptical cylindrical, hyperbolic cylindrical, parabolic cylindrical charts
+Parabolic chart
+Hyperbolic chart
+Prolate spheroidal chart (rational and trigonometric forms)
+Oblate spheroidal chart (rational and trigonometric forms)
+Toroidal chart
+Cassini toroidal chart and Cassini bipolar chart
+Three-sphere S3Polar chart
+Stereographic chart
+Hopf chart
+Hyperbolic three-space H3Polar chart
+Upper half space chart (Poincaré model)
+Hopf chart
+
+See also
+Coordinate chart
+Coordinate system
+Metric tensor
+List of mathematics lists, particularly:
+List of multivariable calculus topics
+List of Fourier analysis topics
+List of differential geometry topics
+
+
+== References ==

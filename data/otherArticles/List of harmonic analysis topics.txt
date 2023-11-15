@@ -1,0 +1,79 @@
+This is a list of harmonic analysis topics. See also list of Fourier analysis topics and list of Fourier-related transforms, which are more directed towards the classical Fourier series and Fourier transform of mathematical analysis, mathematical physics and engineering.
+
+Fourier analysis
+Fourier series
+Periodic function
+Trigonometric function
+Trigonometric polynomial
+Exponential sum
+Dirichlet kernel
+Fejér kernel
+Gibbs phenomenon
+Parseval's identity
+Parseval's theorem
+Weyl differintegral
+Generalized Fourier series
+Orthogonal functions
+Orthogonal polynomials
+Empirical orthogonal functions
+Set of uniqueness
+
+Fourier transform
+Continuous Fourier transform
+Fourier inversion theorem
+Plancherel's theorem
+Convolution
+Convolution theorem
+Positive-definite function
+Poisson summation formula
+Paley-Wiener theorem
+Sobolev space
+Time–frequency representation
+Quantum Fourier transform
+
+Topological groups
+Topological abelian group
+Haar measure
+Discrete Fourier transform
+Dirichlet character
+Amenable group
+Von Neumann's conjecture
+Pontryagin duality
+Kronecker's theorem on diophantine approximation
+Almost periodic function
+Bohr compactification
+Wiener's tauberian theorem
+
+Representation theory
+Representation of a Lie group
+Unitary representation
+Irreducible representation
+Harish-Chandra character
+Restricted representation
+Induced representation
+Peter–Weyl theorem
+Spherical harmonic
+Casimir operator
+Hecke operator
+Stone–von Neumann theorem
+Discrete series representation
+Tempered representation
+Langlands program
+
+Fast Fourier transform
+Bluestein's FFT algorithm
+Cooley–Tukey FFT algorithm
+Rader's FFT algorithm
+Number-theoretic transform
+Irrational base discrete weighted transform
+
+Analysis of unevenly spaced data
+Least-squares spectral analysis
+
+Applications
+FFT multiplication
+Spectral method
+Fourier transform spectroscopy
+Signal analysis
+Analytic signal
+Welch method

@@ -1,0 +1,30 @@
+The Bailey's FFT (also known as a 4-step FFT) is a high-performance algorithm for computing the fast Fourier transform (FFT). This variation of the Cooley–Tukey FFT algorithm was originally designed for systems with hierarchical memory common in modern computers (and was the first FFT algorithm in this so called "out of core" class).  The algorithm treats the samples as a two dimensional matrix (thus yet another name, a matrix FFT algorithm) and executes short FFT operations on the columns and rows of the matrix, with a correction multiplication by "twiddle factors" in between.The algorithm got its name after an article by David H. Bailey, FFTs in external or hierarchical memory, published in 1989. In this article Bailey credits the algorithm to W. M. Gentleman and G. Sande who published their paper, Fast Fourier Transforms: for fun and profit, some twenty years earlier in 1966. The algorithm can be considered a radix-
+  
+    
+      
+        
+          
+            n
+          
+        
+      
+    
+    {\displaystyle {\sqrt {n}}}
+   FFT decomposition.Here is a brief overview of how the "4-step" version of the Bailey FFT algorithm works:
+
+The data (in natural order) is first arranged into a matrix.
+Each column of a matrix is then independently processed using a standard FFT algorithm.
+Each element of a matrix is multiplied by a correction coefficient.
+Each row of a matrix is then independently processed using a standard FFT algorithm.The result (in natural order) is read column-by-column. Since the operations are performed column-wise and row-wise, steps 2 and 4 (and reading of the result) might include a matrix transpose to rearrange the elements in a way convenient for processing. The algorithm resembles a 2-dimensional FFT, a 3-dimensional (and beyond) extensions are known as 5-step FFT, 6-step FFT, etc.The Bailey FFT is typically used for computing DFTs of large datasets, such as those used in scientific and engineering applications. The Bailey FFT is a very efficient algorithm, and it has been used to compute FFTs of datasets with billions of elements (when applied to the number-theoretic transform, the datasets of the order of 1012 elements were processed in mid-2000s).
+
+See also
+Row-column FFT algorithm
+Vector-radix FFT algorithm
+
+References
+Sources
+Bailey, D. H. (March 1989). "FFTs in external or hierarchical memory" (PDF). Journal of Supercomputing. ACM Press. 4 (1): 23–35. doi:10.1145/76263.76288. ISBN 0897913418. S2CID 52809390.
+Frigo, M.; Johnson, S.G. (February 2005). "The Design and Implementation of FFTW3". Proceedings of the IEEE. 93 (2): 216–231. doi:10.1109/JPROC.2004.840301. ISSN 0018-9219. S2CID 6644892.
+Hart, William B.; Tornaría, Gonzalo; Watkins, Mark (2010). "Congruent Number Theta Coefficients to 1012" (PDF). Lecture Notes in Computer Science. Vol. 6197. Springer Berlin Heidelberg. pp. 186–200. doi:10.1007/978-3-642-14518-6_17. eISSN 1611-3349. ISBN 978-3-642-14517-9. ISSN 0302-9743.
+Al Na'mneh, Rami; Pan, W. David (March 2007). "Five-step FFT algorithm with reduced computational complexity". Information Processing Letters. 101 (6): 262–267. doi:10.1016/j.ipl.2006.10.009. ISSN 0020-0190.
+Arndt, Jörg (1 October 2010). "The Matrix Fourier Algorithm (MFA)". Matters Computational: Ideas, Algorithms, Source Code. Springer Science & Business Media. pp. 438–439. ISBN 978-3-642-14764-7. OCLC 1005788763.

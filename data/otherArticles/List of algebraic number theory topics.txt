@@ -1,0 +1,73 @@
+This is a list of algebraic number theory topics.
+
+Basic topics
+These topics are basic to the field, either as prototypical examples, or as basic objects of study.
+
+Algebraic number field
+Gaussian integer, Gaussian rational
+Quadratic field
+Cyclotomic field
+Cubic field
+Biquadratic field
+Quadratic reciprocity
+Ideal class group
+Dirichlet's unit theorem
+Discriminant of an algebraic number field
+Ramification (mathematics)
+Root of unity
+Gaussian period
+
+Important problems
+Fermat's Last Theorem
+Class number problem for imaginary quadratic fields
+Stark–Heegner theorem
+Heegner number
+Langlands program
+
+General aspects
+Different ideal
+Dedekind domain
+Splitting of prime ideals in Galois extensions
+Decomposition group
+Inertia group
+Frobenius automorphism
+Chebotarev's density theorem
+Totally real field
+Local field
+p-adic number
+p-adic analysis
+Adele ring
+Idele group
+Idele class group
+Adelic algebraic group
+Global field
+Hasse principle
+Hasse–Minkowski theorem
+Galois module
+Galois cohomology
+Brauer group
+
+Class field theory
+Class field theory
+Abelian extension
+Kronecker–Weber theorem
+Hilbert class field
+Takagi existence theorem
+Hasse norm theorem
+Artin reciprocity
+Local class field theory
+
+Iwasawa theory
+Iwasawa theory
+Herbrand–Ribet theorem
+Vandiver's conjecture
+Stickelberger's theorem
+Euler system
+p-adic L-function
+
+Arithmetic geometry
+Arithmetic geometry
+Complex multiplication
+Abelian variety of CM-type
+Chowla–Selberg formula
+Hasse–Weil zeta function

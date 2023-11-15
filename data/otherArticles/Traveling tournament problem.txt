@@ -1,0 +1,8 @@
+The traveling tournament problem (TTP) is a mathematical optimization problem. The question involves scheduling a series of teams such that:
+
+Each team plays every other team twice, once at home and once in the other's stadium.
+No team plays the same opponent in two consecutive weeks.
+No team plays more than three games in a row at home, or three games in a row on the road.A matrix is provided of the travel distances between each team's home city. All teams start and end at their own home city, and the goal is to minimize the total travel distance for every team over the course of the whole season.There have been many papers published on the subject, and a contest exists to find the best solutions for certain specific schedules.
+
+
+== References ==

@@ -1,0 +1,16 @@
+In mathematics, a toy theorem is a simplified instance (special case) of a more general theorem, which can be useful in providing a handy representation of the general theorem, or a framework for proving the general theorem. One way of obtaining a toy theorem is by introducing some simplifying assumptions in a theorem.
+In many cases, a toy theorem is used to illustrate the claim of a theorem, while in other cases, studying the proofs of a toy theorem (derived from a non-trivial theorem) can provide insight that would be hard to obtain otherwise. 
+Toy theorems can also have educational value as well. For example, after presenting a theorem (with, say, a highly non-trivial proof), one can sometimes give some assurance that the theorem really holds, by proving a toy version of the theorem.
+
+Examples
+A toy theorem of the Brouwer fixed-point theorem is obtained by restricting the dimension to one. In this case, the Brouwer fixed-point theorem follows almost immediately from the intermediate value theorem.
+Another example of toy theorem is Rolle's theorem, which is obtained from the mean value theorem by equating the function values at the endpoints.
+
+See also
+Corollary
+Fundamental theorem
+Lemma (mathematics)
+Toy model
+
+References
+This article incorporates material from toy theorem on PlanetMath, which is licensed under the Creative Commons Attribution/Share-Alike License.

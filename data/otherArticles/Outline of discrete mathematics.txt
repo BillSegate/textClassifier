@@ -1,0 +1,238 @@
+Discrete mathematics is the study of mathematical structures that are fundamentally discrete rather than continuous.  In contrast to real numbers that have the property of varying "smoothly", the objects studied in discrete mathematics – such as integers,  graphs, and statements in logic – do not vary smoothly in this way, but have distinct, separated values. Discrete mathematics, therefore, excludes topics in "continuous mathematics" such as calculus and analysis.
+Included below are many of the standard terms used routinely in university-level courses and in research papers. This is not, however, intended as a complete list of mathematical terms; just a selection of typical terms of art that may be encountered.
+
+Subjects in discrete mathematics
+Logic – a study of reasoning
+Modal Logic: A type of logic for the study of necessity and probability
+Set theory – a study of collections of elements
+Number theory – study of integers and integer-valued functions
+Combinatorics – a study of Counting
+Finite mathematics – a course title
+Graph theory – a study of graphs
+Digital geometry and digital topology
+Algorithmics – a study of methods of calculation
+Information theory – a mathematical representation of the conditions and parameters affecting the transmission and processing of information
+Computability and complexity theories – deal with theoretical and practical limitations of algorithms
+Elementary probability theory and Markov chains
+Linear algebra – a study of related linear equations
+Functions – an expression, rule, or law that defines a relationship between one variable (the independent variable) and another variable (the dependent variable)
+Partially ordered set –
+Probability – concerns with numerical descriptions of the chances of occurrence of an event
+Proofs –
+Relation – a collection of ordered pairs containing one object from each set
+
+Discrete mathematical disciplines
+For further reading in discrete mathematics, beyond a basic level, see these pages. Many of these disciplines are closely related to computer science.
+
+Automata theory –
+Coding theory –
+Combinatorics  –
+Computational geometry  –
+Digital geometry  –
+Discrete geometry  –
+Graph theory – a study of graphs
+Mathematical logic –
+Discrete optimization  –
+Set theory –
+Number theory –
+Information theory –
+Game theory –
+
+Concepts in discrete mathematics
+Sets
+Set (mathematics) –
+Element (mathematics) –
+Venn diagram –
+Empty set –
+Subset –
+Union (set theory) –
+Disjoint union –
+Intersection (set theory) –
+Disjoint sets –
+Complement (set theory) –
+Symmetric difference –
+Ordered pair –
+Cartesian product –
+Power set –
+Simple theorems in the algebra of sets –
+Naive set theory –
+Multiset –
+
+Functions
+Function –
+Domain of a function –
+Codomain –
+Range of a function –
+Image (mathematics) –
+Injective function –
+Surjection –
+Bijection –
+Function composition –
+Partial function –
+Multivalued function –
+Binary function –
+Floor function –
+Sign function –
+Inclusion map –
+Pigeonhole principle –
+Relation composition –
+Permutations –
+Symmetry –
+
+Arithmetic
+Decimal –
+Binary numeral system –
+Divisor –
+Division by zero –
+Indeterminate form –
+Empty product –
+Euclidean algorithm –
+Fundamental theorem of arithmetic –
+Modular arithmetic –
+Successor function
+
+Elementary algebra
+Elementary algebra
+
+Left-hand side and right-hand side of an equation –
+Linear equation –
+Quadratic equation –
+Solution point –
+Arithmetic progression –
+Recurrence relation –
+Finite difference –
+Difference operator –
+Groups –
+Group isomorphism –
+Subgroups –
+Fermat's little theorem –
+Cryptography –
+Faulhaber's formula –
+
+Mathematical relations
+Binary relation –
+Heterogeneous relation –
+Reflexive relation –
+Reflexive property of equality –
+Symmetric relation –
+Symmetric property of equality –
+Antisymmetric relation –
+Transitivity (mathematics) –
+Transitive closure –
+Transitive property of equality –
+Equivalence and identity
+Equivalence relation –
+Equivalence class –
+Equality (mathematics) –
+Inequation –
+Inequality (mathematics) –
+Similarity (geometry) –
+Congruence (geometry) –
+Equation –
+Identity (mathematics) –
+Identity element –
+Identity function –
+Substitution property of equality –
+Graphing equivalence –
+Extensionality –
+Uniqueness quantification –
+
+Mathematical phraseology
+If and only if  – iff
+Necessary and sufficient (Sufficient condition) –  
+  
+    
+      
+        
+          
+            P
+            ⇒
+            Q
+          
+        
+      
+    
+    {\displaystyle {\displaystyle P\Rightarrow Q}}
+  , which implies that if P is true, then Q will also be true.
+Distinct –
+Difference –
+Absolute value – 
+  
+    
+      
+        
+          |
+          A
+          |
+        
+      
+    
+    {\displaystyle \left\vert A\right\vert }
+   gives absolute value of the number A
+Up to –
+Modular arithmetic –
+Characterization (mathematics) –
+Normal form –
+Canonical form –
+Without loss of generality –
+Vacuous truth –
+Contradiction, Reductio ad absurdum –
+Counterexample –
+Sufficiently large –
+Pons asinorum –
+Table of mathematical symbols –
+Contrapositive – 
+  
+    
+      
+        ∼
+      
+    
+    {\displaystyle \thicksim }
+  P implies contrapositive of P .
+Mathematical induction –
+
+Combinatorics
+Combinatorics
+
+Permutations and combinations –
+Permutation –
+Combination –
+Factorial –
+Empty product –
+Pascal's triangle –
+Combinatorial proof –
+Bijective proof –
+Double counting (proof technique) –
+
+Probability
+Probability
+
+Average –
+Expected value –
+Discrete random variable –
+Sample space –
+Event –
+Conditional Probability –
+Independence –
+Random variables –
+
+Propositional logic
+Logical operator –
+Truth table –
+De Morgan's laws –
+Open sentence –
+List of topics in logic –
+
+Mathematicians associated with discrete mathematics
+Paul Erdős
+Ronald Graham
+George Szekeres
+Aristotle
+
+See also
+References
+External links
+Archives
+Jonathan Arbib & John Dwyer, Discrete Mathematics for Cryptography, 1st Edition ISBN 978-1-907934-01-8.
+John Dwyer & Suzy Jagger, Discrete Mathematics for Business & Computing, 1st Edition 2010 ISBN 978-1-907934-00-1.

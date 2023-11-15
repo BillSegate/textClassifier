@@ -1,0 +1,17 @@
+A sun valve (Swedish: solventil, "solar valve") is a flow control valve that automatically shuts off gas flow during daylight. It earned its inventor Gustaf Dalén the 1912 Nobel Prize in Physics. Subsequently other variants of sun valve were developed for different uses.
+
+Dalén's valve
+The valve was the key component of the Dalén light used in lighthouses from the 1900s through the 1960s, by which time electric lighting was dominant.
+Prominent engineers, such as Thomas Edison, doubted that the device could work. The German patent office required a demonstration before approving the patent application.
+
+Design
+The valve is controlled by four metal rods enclosed in a glass tube. The central rod that is blackened is surrounded by the three polished rods. As sunlight falls onto all of the rods, the absorbed heat of the sun expands the dark rod, switching a valve to cut the gas supply. After sunset, the central rod cools down, contracting to become the same length as the polished rods and opening the gas supply. The gas is lit by the small, always-burning pilot light.
+
+Reliability
+Dalen's system of acetylene lighting for marine navigation proved very reliable, as exemplified by the lighthouse at Chumbe Island off Zanzibar. This lighthouse was constructed in 1904 and converted to unstaffed automatic acetylene gas operation in 1926. The acetylene lighting installation, controlled by a sun valve, remained in use until the lighthouse was converted to a solar-powered (photovoltaic) system in 2013.
+
+Other variants
+In 1921 Francis Everard Lamplough (an engineer with AGA's rival firm in lighthouse provision: Chance Brothers) patented an alternative 'light valve' in the hope of breaking Dalén's effective monopoly. In subsequent years it was installed on several lighthouses and beacons, but because of its dependence on liquid it could only be used in static locations (unlike Dalén's valves, very many of which were installed on floating buoys). Lamplough's 'valve' was a form of rocker switch, on which were mounted two glass bulbs, one black, the other clear, part-filled with liquid ether and linked by a tube. During the day, heat from the sunlight would cause the air in the black bulb to expand, forcing the liquid into the clear bulb, the additional weight tipping the switch and cutting off the current to the lamp; at night, or at other times of insufficient daylight, the process was reversed, reconnecting the current.In 1935 one Edwin H. Pendleton was granted a US patent for a sun valve activated by a pair of bimetallic strips.
+
+
+== References ==

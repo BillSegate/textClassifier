@@ -1,0 +1,534 @@
+The omega constant is a mathematical constant defined as the unique real number that satisfies the equation
+
+  
+    
+      
+        Ω
+        
+          e
+          
+            Ω
+          
+        
+        =
+        1.
+      
+    
+    {\displaystyle \Omega e^{\Omega }=1.}
+  It is the value of W(1), where W is Lambert's W function.  The name is derived from the alternate name for Lambert's W function, the omega function. The numerical value of Ω is given by
+
+Ω = 0.567143290409783872999968662210... (sequence A030178 in the OEIS).
+1/Ω = 1.763222834351896710225201776951... (sequence A030797 in the OEIS).
+
+Properties
+Fixed point representation
+The defining identity can be expressed, for example, as
+
+  
+    
+      
+        ln
+        ⁡
+        (
+        
+          
+            
+              1
+              Ω
+            
+          
+        
+        )
+        =
+        Ω
+        .
+      
+    
+    {\displaystyle \ln({\tfrac {1}{\Omega }})=\Omega .}
+  or
+
+  
+    
+      
+        −
+        ln
+        ⁡
+        (
+        Ω
+        )
+        =
+        Ω
+      
+    
+    {\displaystyle -\ln(\Omega )=\Omega }
+  as well as
+
+  
+    
+      
+        
+          e
+          
+            −
+            Ω
+          
+        
+        =
+        Ω
+        .
+      
+    
+    {\displaystyle e^{-\Omega }=\Omega .}
+
+Computation
+One can calculate Ω iteratively, by starting with an initial guess Ω0, and considering the sequence
+
+  
+    
+      
+        
+          Ω
+          
+            n
+            +
+            1
+          
+        
+        =
+        
+          e
+          
+            −
+            
+              Ω
+              
+                n
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \Omega _{n+1}=e^{-\Omega _{n}}.}
+  This sequence will converge to Ω as n approaches infinity. This is because Ω is an attractive fixed point of the function e−x.
+It is much more efficient to use the iteration
+
+  
+    
+      
+        
+          Ω
+          
+            n
+            +
+            1
+          
+        
+        =
+        
+          
+            
+              1
+              +
+              
+                Ω
+                
+                  n
+                
+              
+            
+            
+              1
+              +
+              
+                e
+                
+                  
+                    Ω
+                    
+                      n
+                    
+                  
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \Omega _{n+1}={\frac {1+\Omega _{n}}{1+e^{\Omega _{n}}}},}
+  because the function
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          
+            
+              1
+              +
+              x
+            
+            
+              1
+              +
+              
+                e
+                
+                  x
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle f(x)={\frac {1+x}{1+e^{x}}},}
+  in addition to having the same fixed point, also has a derivative that vanishes there. This guarantees quadratic convergence; that is, the number of correct digits is roughly doubled with each iteration.
+Using Halley's method, Ω can be approximated with cubic convergence (the number of correct digits is roughly tripled with each iteration): (see also Lambert W function § Numerical evaluation).
+
+  
+    
+      
+        
+          Ω
+          
+            j
+            +
+            1
+          
+        
+        =
+        
+          Ω
+          
+            j
+          
+        
+        −
+        
+          
+            
+              
+                Ω
+                
+                  j
+                
+              
+              
+                e
+                
+                  
+                    Ω
+                    
+                      j
+                    
+                  
+                
+              
+              −
+              1
+            
+            
+              
+                e
+                
+                  
+                    Ω
+                    
+                      j
+                    
+                  
+                
+              
+              (
+              
+                Ω
+                
+                  j
+                
+              
+              +
+              1
+              )
+              −
+              
+                
+                  
+                    (
+                    
+                      Ω
+                      
+                        j
+                      
+                    
+                    +
+                    2
+                    )
+                    (
+                    
+                      Ω
+                      
+                        j
+                      
+                    
+                    
+                      e
+                      
+                        
+                          Ω
+                          
+                            j
+                          
+                        
+                      
+                    
+                    −
+                    1
+                    )
+                  
+                  
+                    2
+                    
+                      Ω
+                      
+                        j
+                      
+                    
+                    +
+                    2
+                  
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \Omega _{j+1}=\Omega _{j}-{\frac {\Omega _{j}e^{\Omega _{j}}-1}{e^{\Omega _{j}}(\Omega _{j}+1)-{\frac {(\Omega _{j}+2)(\Omega _{j}e^{\Omega _{j}}-1)}{2\Omega _{j}+2}}}}.}
+
+Integral representations
+An identity due to Victor Adamchik is given by the relationship
+
+  
+    
+      
+        
+          ∫
+          
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              d
+              t
+            
+            
+              (
+              
+                e
+                
+                  t
+                
+              
+              −
+              t
+              
+                )
+                
+                  2
+                
+              
+              +
+              
+                π
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            1
+            
+              1
+              +
+              Ω
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \int _{-\infty }^{\infty }{\frac {dt}{(e^{t}-t)^{2}+\pi ^{2}}}={\frac {1}{1+\Omega }}.}
+  Other relations due to Mező
+and Kalugin-Jeffrey-Corless
+are:
+
+  
+    
+      
+        Ω
+        =
+        
+          
+            1
+            π
+          
+        
+        Re
+        ⁡
+        
+          ∫
+          
+            0
+          
+          
+            π
+          
+        
+        log
+        ⁡
+        
+          (
+          
+            
+              
+                
+                  e
+                  
+                    
+                      e
+                      
+                        i
+                        t
+                      
+                    
+                  
+                
+                −
+                
+                  e
+                  
+                    −
+                    i
+                    t
+                  
+                
+              
+              
+                
+                  e
+                  
+                    
+                      e
+                      
+                        i
+                        t
+                      
+                    
+                  
+                
+                −
+                
+                  e
+                  
+                    i
+                    t
+                  
+                
+              
+            
+          
+          )
+        
+        d
+        t
+        ,
+      
+    
+    {\displaystyle \Omega ={\frac {1}{\pi }}\operatorname {Re} \int _{0}^{\pi }\log \left({\frac {e^{e^{it}}-e^{-it}}{e^{e^{it}}-e^{it}}}\right)dt,}
+  
+
+  
+    
+      
+        Ω
+        =
+        
+          
+            1
+            π
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            π
+          
+        
+        log
+        ⁡
+        
+          (
+          
+            1
+            +
+            
+              
+                
+                  sin
+                  ⁡
+                  t
+                
+                t
+              
+            
+            
+              e
+              
+                t
+                cot
+                ⁡
+                t
+              
+            
+          
+          )
+        
+        d
+        t
+        .
+      
+    
+    {\displaystyle \Omega ={\frac {1}{\pi }}\int _{0}^{\pi }\log \left(1+{\frac {\sin t}{t}}e^{t\cot t}\right)dt.}
+  The latter two identities can be extended to other values of the W function (see also Lambert W function § Representations).
+
+Transcendence
+The constant Ω is transcendental. This can be seen as a direct consequence of the Lindemann–Weierstrass theorem. For a contradiction, suppose that Ω is algebraic. By the theorem, e−Ω is transcendental, but Ω = e−Ω, which is a contradiction. Therefore, it must be transcendental.
+
+References
+External links
+Weisstein, Eric W. "Omega Constant". MathWorld.
+"Omega constant (1,000,000 digits)", Darkside communication group (in Japan), retrieved 2017-12-25

@@ -1,0 +1,363 @@
+In theoretical physics, null infinity is a region at the boundary of asymptotically flat spacetimes. In general relativity, straight paths in spacetime, called geodesics, may be space-like, time-like, or light-like (also called null). The distinction between these paths stems from whether the spacetime interval of the path is positive (corresponding to space-like), negative (corresponding to time-like), or zero (corresponding to null). Light-like paths physically correspond to physical phenomena which propagate through space at the speed of light, such as electromagnetic radiation and gravitational radiation. The boundary of a flat spacetime is known as conformal infinity, and can be thought of as the end points of all geodesics as they go off to infinity. The region of null infinity corresponds to the terminus of all null geodesics in a flat Minkowski space. The different regions of conformal infinity are most often visualized on a Penrose diagram, where they make up the boundary of the diagram. There are two distinct region of null infinity, called past and future null infinity, which can be denoted using a script 'I' as 
+  
+    
+      
+        
+          
+            
+              I
+            
+          
+          
+            +
+          
+        
+      
+    
+    {\displaystyle {\mathcal {I}}^{+}}
+   and 
+  
+    
+      
+        
+          
+            
+              I
+            
+          
+          
+            −
+          
+        
+      
+    
+    {\displaystyle {\mathcal {I}}^{-}}
+  . These two regions are often referred to as 'scri-plus' and 'scri-minus' respectively.   Geometrically, each of these regions actually has the structure of a topologically cylindrical three dimensional region.
+The study of null infinity originated from the need to describe the global properties of spacetime. While early methods in general relativity focused on the  local structure built around local frames of reference, work beginning in the 1960s began analyzing global descriptions of general relativity, analyzing the structure of spacetime as a whole. The original study of null infinity originated with Roger Penrose's work analyzing black hole spacetimes. Null infinity is a useful mathematical tool for analyzing behavior in asymptotically flat spaces when limits of null paths need to be taken. For instance, black hole spacetimes are asymptotically flat, and null infinity can be used to characterize radiation in the limit that it travels outward away from the black hole. Null infinity can also be considered in the context of spacetimes which are not necessarily asymptotically flat, such as in the FLRW cosmology.
+
+Conformal compactification in Minkowski spacetime
+The metric for a flat Minkowski spacetime in spherical coordinates is 
+  
+    
+      
+        d
+        
+          s
+          
+            2
+          
+        
+        =
+        −
+        d
+        
+          t
+          
+            2
+          
+        
+        +
+        d
+        
+          r
+          
+            2
+          
+        
+        +
+        
+          r
+          
+            2
+          
+        
+        d
+        
+          Ω
+          
+            2
+          
+        
+      
+    
+    {\displaystyle ds^{2}=-dt^{2}+dr^{2}+r^{2}d\Omega ^{2}}
+  . Conformal compactification induces a transformation which preserves angles, but changes the local structure of the metric and adds the boundary of the manifold, thus making it compact. For a given metric 
+  
+    
+      
+        
+          g
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle g_{ij}}
+  , a conformal compactification scales the entire metric by some conformal factor such that 
+  
+    
+      
+        
+          
+            
+              g
+              
+                i
+                j
+              
+            
+            ¯
+          
+        
+        =
+        
+          Ω
+          
+            2
+          
+        
+        
+          g
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle {\overline {g_{ij}}}=\Omega ^{2}g_{ij}}
+   such that all of the points at infinity are scaled down to a finite value. Typically, the radial and time coordinates are transformed into null coordinates 
+  
+    
+      
+        u
+        =
+        t
+        +
+        r
+      
+    
+    {\displaystyle u=t+r}
+   and 
+  
+    
+      
+        v
+        =
+        t
+        −
+        r
+      
+    
+    {\displaystyle v=t-r}
+  . These are then transformed as 
+  
+    
+      
+        p
+        =
+        
+          tan
+          
+            −
+            1
+          
+        
+        ⁡
+        u
+      
+    
+    {\displaystyle p=\tan ^{-1}u}
+   and 
+  
+    
+      
+        q
+        =
+        
+          tan
+          
+            −
+            1
+          
+        
+        ⁡
+        v
+      
+    
+    {\displaystyle q=\tan ^{-1}v}
+   in order to use the properties of the inverse tangent function to map infinity to a finite value. The typical time and space coordinates may be introduced as  
+  
+    
+      
+        T
+        =
+        p
+        +
+        q
+      
+    
+    {\displaystyle T=p+q}
+   and 
+  
+    
+      
+        R
+        =
+        p
+        −
+        q
+      
+    
+    {\displaystyle R=p-q}
+  . After these coordinate transformations, a conformal factor is introduced, leading to a new unphysical metric for Minkowski space:
+  
+    
+      
+        d
+        
+          s
+          
+            2
+          
+        
+        =
+        −
+        d
+        
+          T
+          
+            2
+          
+        
+        +
+        d
+        
+          R
+          
+            2
+          
+        
+        +
+        (
+        
+          sin
+          
+            2
+          
+        
+        ⁡
+        R
+        )
+        d
+        
+          Ω
+          
+            2
+          
+        
+      
+    
+    {\displaystyle ds^{2}=-dT^{2}+dR^{2}+(\sin ^{2}R)d\Omega ^{2}}
+  .
+This is the metric on a Penrose diagram, illustrated. Unlike the original metric, this metric describes, a manifold with a boundary, given by the restrictions on 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   and 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  . There are two null surfaces on this boundary, corresponding to past and future null infinity. Specifically, future null infinity consists of all points where 
+  
+    
+      
+        T
+        =
+        π
+        −
+        R
+      
+    
+    {\displaystyle T=\pi -R}
+    and 
+  
+    
+      
+        0
+        <
+        R
+        <
+        π
+      
+    
+    {\displaystyle 0<R<\pi }
+  , and past null infinity consists of all points where 
+  
+    
+      
+        T
+        =
+        R
+        −
+        π
+      
+    
+    {\displaystyle T=R-\pi }
+   and  
+  
+    
+      
+        0
+        <
+        R
+        <
+        π
+      
+    
+    {\displaystyle 0<R<\pi }
+  .From the coordinate restrictions, null infinity is a three dimensional null surface, with a cylindrical topology 
+  
+    
+      
+        
+          R
+        
+        ×
+        
+          S
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} \times S^{2}}
+  .The construction given here is specific to the flat metric of Minkowski space. However, such a construction generalizes to other asymptotically flat spaces as well. In such scenarios, null infinity still exists as a three dimensional null surface at the boundary of the spacetime manifold, but the manifold's overall structure might be different. For instance, in Minkowski space, all null geodesics begin at past null infinity and end at future null infinity. However, in the Schwarzschild black hole spacetime, the black hole event horizon leads to two possibilities: geodesics may end at null infinity, but may also end at the black hole's future singularity. The presence of null infinity (along with the other regions of conformal infinity) guarantees geodesic completion on the spacetime manifold, where all geodesics terminate either at a true singularity or intersect the boundary of infinity.
+
+Other physical applications
+The symmetries of null infinity are characteristically different from that of the typical regions of spacetime. While the symmetries of a flat Minkowski spacetime are given by the Poincaré group, the symmetries of null infinity are instead given by the Bondi-Mesner-Sachs (BMS) group. The work by Bondi, Mesner, and Sachs characterized gravitational radiation using analyses related to null infinity, whereas previous work such as the ADM framework dealt with characterizations of spacelike infinity. In recent years, interest has grown in studying gravitons on the boundary null infinity. Using the BMS group, quanta on null infinity can be characterized as massless spin-2 particles, consistent with the quanta of general relativity being gravitons.
+
+References
+Bibliography
+Adamo, T.; Casali, E.; Skinner D. 2014. Ambitwistor strings and the scattering equations at one loop
+Ashtekar, A. 2014. Geometry and Physics of Null Infinity.
+Bondi, H.; Van der Burg, M.G.J.; Metzner, A. 1962. Gravitational Waves in General Relativity, VII. Waves from axi-symmetric isolated systems.
+Carroll, Sean M. 2019. Spacetime and Geometry: An Introduction to General Relativity
+D'Inverno, R.A. 1992. Introducing Einstein's Relativity
+Dray, T.; Streubel, M. 1984. Angular Momentum at Null Infinity
+Hawking, S. W.; Ellis, G.F.R. 1973. The Large Scale Structure of Space-Time
+Lehner, L. 1998. Gravitational Radiation from Black Hole Spacetimes
+Misner, C. W.; Thorne, K. S.; Wheeler, J.A. Gravitation
+Penrose, R. 1965. Gravitational Collapse and Space-time Singularities
+Stewart, John. 1990. Advanced General Relativity.

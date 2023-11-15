@@ -1,0 +1,417 @@
+In the mathematical areas of number theory and analysis, an infinite sequence or a function is said to eventually have a certain property, if it doesn't have the said property across all its ordered instances, but will after some instances have passed. The use of the term "eventually" can be often rephrased as "for sufficiently large numbers", and can be also extended to the class of properties that apply to elements of any ordered set (such as sequences and subsets of 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  ).
+
+Notation
+The general form where the phrase eventually (or sufficiently large) is found appears as follows:
+
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   is eventually true for 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   (
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   is true for sufficiently large 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  ),where 
+  
+    
+      
+        ∀
+      
+    
+    {\displaystyle \forall }
+   and 
+  
+    
+      
+        ∃
+      
+    
+    {\displaystyle \exists }
+   are the universal and existential quantifiers, which is actually a shorthand for:
+
+  
+    
+      
+        ∃
+        a
+        ∈
+        
+          R
+        
+      
+    
+    {\displaystyle \exists a\in \mathbb {R} }
+   such that 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   is true 
+  
+    
+      
+        ∀
+        x
+        ≥
+        a
+      
+    
+    {\displaystyle \forall x\geq a}
+  or somewhat more formally:  
+
+  
+    
+      
+        ∃
+        a
+        ∈
+        
+          R
+        
+        :
+        ∀
+        x
+        ∈
+        
+          R
+        
+        :
+        x
+        ≥
+        a
+        ⇒
+        P
+        (
+        x
+        )
+      
+    
+    {\displaystyle \exists a\in \mathbb {R} :\forall x\in \mathbb {R} :x\geq a\Rightarrow P(x)}
+  This does not necessarily mean that any particular value for 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   is known, but only that such an 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   exists. The phrase "sufficiently large" should not be confused with the phrases "arbitrarily large" or "infinitely large". For more, see Arbitrarily large#Arbitrarily large vs. sufficiently large vs. infinitely large.
+
+Motivation and definition
+For an infinite sequence, one is often more interested in the long-term behaviors of the sequence than the behaviors it exhibits early on. In which case, one way to formally capture this concept is to say that the sequence possesses a certain property eventually, or equivalently, that the property is satisfied by one of its subsequences 
+  
+    
+      
+        (
+        
+          a
+          
+            n
+          
+        
+        
+          )
+          
+            n
+            ≥
+            N
+          
+        
+      
+    
+    {\displaystyle (a_{n})_{n\geq N}}
+  , for some 
+  
+    
+      
+        N
+        ∈
+        
+          N
+        
+      
+    
+    {\displaystyle N\in \mathbb {N} }
+  .For example, the definition of a sequence of real numbers 
+  
+    
+      
+        (
+        
+          a
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle (a_{n})}
+   converging to some limit 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   is:
+
+For each positive number 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+  , there exists a natural number 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   such that for all 
+  
+    
+      
+        n
+        >
+        N
+      
+    
+    {\displaystyle n>N}
+  , 
+  
+    
+      
+        
+          |
+          
+            
+              a
+              
+                n
+              
+            
+            −
+            a
+          
+          |
+        
+        <
+        ε
+      
+    
+    {\displaystyle \left\vert a_{n}-a\right\vert <\varepsilon }
+  .When the term "eventually" is used as a shorthand for "there exists a natural number 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   such that for all 
+  
+    
+      
+        n
+        >
+        N
+      
+    
+    {\displaystyle n>N}
+  ", the convergence definition can be restated more simply as:
+
+For each positive number 
+  
+    
+      
+        ε
+        >
+        0
+      
+    
+    {\displaystyle \varepsilon >0}
+  , eventually 
+  
+    
+      
+        
+          |
+          
+            
+              a
+              
+                n
+              
+            
+            −
+            a
+          
+          |
+        
+        <
+        ε
+      
+    
+    {\displaystyle \left\vert a_{n}-a\right\vert <\varepsilon }
+  .Here, notice that the set of natural numbers that do not satisfy this property is a finite set; that is, the set is empty or has a maximum element. As a result, the use of "eventually" in this case is synonymous with the expression "for all but a finite number of terms" – a special case of the expression "for almost all terms" (although "almost all" can also be used to allow for infinitely many exceptions as well).
+At the basic level, a sequence can be thought of as a function with natural numbers as its domain, and the notion of "eventually" applies to functions on more general sets as well—in particular to those that have an ordering with no greatest element. 
+More specifically, if 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   is such a set and there is an element 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   in 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   such that the function 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   is defined for all elements greater than 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+  , then 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   is said to have some property eventually if there is an element 
+  
+    
+      
+        
+          x
+          
+            0
+          
+        
+      
+    
+    {\displaystyle x_{0}}
+   such that whenever 
+  
+    
+      
+        x
+        >
+        
+          x
+          
+            0
+          
+        
+      
+    
+    {\displaystyle x>x_{0}}
+  , 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+   has the said property. This notion is used, for example, in the study of Hardy fields, which are fields made up of real functions, each of which have certain properties eventually.
+
+Examples
+"All primes greater than 2 are odd" can be written as "Eventually, all primes are odd.”
+Eventually, all primes are congruent to ±1 modulo 6.
+The square of a prime is eventually congruent to 1 mod 24 (specifically, this is true for all primes greater than 3).
+The factorial of a natural number eventually ends in the digit 0 (specifically, this is true for all natural numbers greater than 4).
+
+Implications
+When a sequence or a function has a property eventually, it can have useful implications in the context of proving something in relation to that sequence. For example, in the context of the asymptotic behavior of certain functions, it can be useful to know if it eventually behaves differently than would or could be observed computationally, since otherwise this could not be noticed.The term "eventually" can be also incorporated into many mathematical definitions to make them more concise. These include the definitions of some types of limits (as seen above), and the Big O notation for describing asymptotic behavior.
+
+Other uses in mathematics
+A 3-manifold is called sufficiently large if it contains a properly embedded 2-sided incompressible surface. This property is the main requirement for a 3-manifold to be called a Haken manifold.
+Temporal logic introduces an operator that can be used to express statements interpretable as: Certain property will eventually hold in a future moment in time.
+
+See also
+Almost all
+Big O notation
+Mathematical jargon
+Number theory
+
+
+== References ==

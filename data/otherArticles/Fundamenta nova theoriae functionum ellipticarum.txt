@@ -1,0 +1,8 @@
+Fundamenta nova theoriae functionum ellipticarum  (from Latin: New Foundations of the Theory of Elliptic Functions) is a treatise on elliptic functions by German mathematician Carl Gustav Jacob Jacobi. The book was first published in 1829, and has been reprinted in volume 1 of his collected works and on several later occasions. The book introduces Jacobi elliptic functions and the Jacobi triple product identity.
+
+References
+Citations
+GeneralConway, John Horton (1980), "Monsters and moonshine", The Mathematical Intelligencer, 2 (4): 165–171, doi:10.1007/BF03028594, ISSN 0343-6993, MR 0600222, S2CID 121787388
+Cooke, Roger (2005), "Chapter 31 C. F. G. Jacobi, book on elliptic functions", in Grattan-Guinness, Ivor (ed.), Landmark writings in western mathematics 1640–1940, Elsevier B. V., Amsterdam, pp. 412–430, ISBN 978-0-444-50871-3, MR 2169816
+Jacobi, C. G. J. (1829), Fundamenta nova theoriae functionum ellipticarum (in Latin), Königsberg: Borntraeger, ISBN 978-1-108-05200-9, Reprinted by Cambridge University Press 2012
+Jacobi, C. G. J. (1969) [1881], Gesammelte Werke, Herausgegeben auf Veranlassung der Königlich Preussischen Akademie der Wissenschaften, vol. I–VIII (2nd ed.), New York: Chelsea Publishing Co., MR 0260557, archived from the original on 2013-05-13, retrieved 2012-10-14

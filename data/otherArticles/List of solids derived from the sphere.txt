@@ -1,0 +1,22 @@
+This page lists solids derived from a sphere.
+
+Solids from cutting a sphere with one or more planes
+Dome
+Spherical cap
+Spherical sector
+Spherical segment
+Spherical shell
+Spherical wedge
+
+Solids from deforming a sphere
+Ellipsoid
+Spheroid
+Solid bounded by Morin surface
+Any Genus 0 surface
+
+Solids from intersecting a sphere with other solids or curved planes
+Reuleaux tetrahedron
+Spherical lens
+
+
+== Notes ==

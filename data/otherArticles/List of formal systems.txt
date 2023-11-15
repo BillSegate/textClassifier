@@ -1,0 +1,23 @@
+This is a list of formal systems, also known as logical calculi.
+
+Mathematical
+Domain relational calculus, a calculus for the relational data model
+Functional calculus, a way to apply various types of functions to operators
+Join calculus, a theoretical model for distributed programming
+Lambda calculus, a formulation of the theory of reflexive functions that has deep connections to computational theory
+Matrix calculus, a specialized notation for multivariable calculus over spaces of matrices
+Modal μ-calculus, a common temporal logic used by formal verification methods such as model checking
+Pi-calculus, a formulation of the theory of concurrent, communicating processes that was invented by Robin Milner
+Predicate calculus, specifies the rules of inference governing the logic of predicates
+Propositional calculus, specifies the rules of inference governing the logic of propositions
+Refinement calculus, a way of refining models of programs into efficient programs
+Rho calculus, introduced as a general means to uniformly integrate rewriting and lambda calculus
+Tuple calculus, a calculus for the relational data model, inspired the SQL language
+Umbral calculus, the combinatorics of certain operations on polynomials
+Vector calculus (also called vector analysis), comprising specialized notations for multivariable analysis of vectors in an inner-product space
+
+Other formal systems
+Formal ethics – formal logical system for describing and evaluating the "form" as opposed to the "content" of ethical principlesPages displaying wikidata descriptions as a fallbackMusic is a formal system too. Please have editors illuminate on this.
+
+See also
+Formal system – Mathematical model for deduction or proof systems

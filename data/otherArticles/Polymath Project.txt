@@ -1,0 +1,45 @@
+The Polymath Project is a collaboration among mathematicians to solve important and difficult mathematical problems by coordinating many mathematicians to communicate with each other on finding the best route to the solution. The project began in January 2009 on Timothy Gowers's blog when he posted a problem and asked his readers to post partial ideas and partial progress toward a solution. This experiment resulted in a new answer to a difficult problem, and since then the Polymath Project has grown to describe a particular crowdsourcing process of using an online collaboration to solve any math problem.
+
+Origin
+In January 2009, Gowers chose to start a social experiment on his blog by choosing an important unsolved mathematical problem and issuing an invitation for other people to help solve it collaboratively in the comments section of his blog. Along with the math problem itself, Gowers asked a question which was included in the title of his blog post, "is massively collaborative mathematics possible?"  This post led to his creation of the Polymath Project.
+
+Projects for high school and college
+Since its inception, it has now sponsored a "Crowdmath" project in collaboration with MIT PRIMES program and the Art of Problem Solving. This project is built upon the same idea of the Polymath project that massive collaboration in mathematics is possible and possibly quite fruitful. However, this is specifically aimed at only high school and college students with a goal of creating "a specific opportunity for the upcoming generation of math and science researchers." The problems are original research and unsolved problems in mathematics. All high school and college students from around the world with advanced background of mathematics are encouraged to participate. Older participants are welcomed to participate as mentors and encouraged not to post solutions to the problems. The first Crowdmath project began on March 1, 2016.
+
+Problems solved
+Polymath1
+The initial proposed problem for this project, now called Polymath1 by the Polymath community, was to find a new combinatorial proof to the density version of the Hales–Jewett theorem.  As the project took form, two main threads of discourse emerged. The first thread, which was carried out in the comments of Gowers's blog, would continue with the original goal of finding a combinatorial proof.  The second thread, which was carried out in the comments of Terence Tao's blog, focused on calculating bounds on density of Hales–Jewett numbers and Moser numbers for low dimensions.
+After seven weeks, Gowers announced on his blog that the problem was "probably solved", though work would continue on both Gowers's thread and Tao's thread well into May 2009, some three months after the initial announcement.  In total over 40 people contributed to the Polymath1 project. Both threads of the Polymath1 project have been successful, producing at least two new papers to be published under the pseudonym D. H. J. Polymath, where the initials refer to the problem itself (density Hales–Jewett).
+
+Polymath5
+This project was set up in order to try to solve the Erdős discrepancy problem. It was active for much of 2010 and had a brief revival in 2012, but did not end up solving the problem. However, in September 2015, Terence Tao, one of the participants of Polymath5, solved the problem in a pair of papers. One paper proved an averaged form of the Chowla and Elliott conjectures, making use of recent advances in analytic number theory concerning correlations of values of multiplicative functions. The other paper showed how this new result, combined with some arguments discovered by Polymath5, were enough to give a complete solution to the problem. Thus, Polymath5 ended up making a significant contribution to the solution.
+
+Polymath8
+The Polymath8 project was proposed to improve the bounds for small gaps between primes. It has two components:
+
+Polymath8a, "Bounded gaps between primes", was a project to improve the bound H = H1 on the least gap between consecutive primes that was attained infinitely often, by developing the techniques of Yitang Zhang. This project concluded with a bound of H = 4,680.
+Polymath8b, "Bounded intervals with many primes", was a project to improve the value of H1 further, as well as Hm (the least gap between primes with m-1 primes between them that is attained infinitely often), by combining the Polymath8a results with the techniques of James Maynard. This project concluded with a bound of H = 246, as well as additional bounds on Hm.Both components of the Polymath8 project produced papers, one of which was published under the pseudonym D. H. J. Polymath.
+
+Publications
+Polymath, D. H. J. (2010), "Density Hales-Jewett and Moser numbers", An irregular mind, Bolyai Soc. Math. Stud., vol. 21, János Bolyai Math. Soc., Budapest, pp. 689–753, arXiv:1002.0374, doi:10.1007/978-3-642-14444-8_22, MR 2815620, S2CID 15547977. From the Polymath1 project.
+Polymath, D. H. J. (2012), "A new proof of the density Hales-Jewett theorem", Annals of Mathematics, Second Series, 175 (3): 1283–1327, arXiv:0910.3926, doi:10.4007/annals.2012.175.3.6, MR 2912706, S2CID 60078. From the Polymath1 project.
+Tao, Terence; Croot, Ernest III; Helfgott, Harald (2012), "Deterministic methods to find primes", Mathematics of Computation, 81 (278): 1233–1246, arXiv:1009.3956, doi:10.1090/S0025-5718-2011-02542-1, MR 2869058. From the Polymath4 project. Although the journal editors required the authors to use their real names, the arXiv version uses the Polymath pseudonym.
+Polymath, D. H. J. (2014), "New equidistribution estimates of Zhang type", Algebra & Number Theory, 9 (8): 2067–2199, arXiv:1402.0811, Bibcode:2014arXiv1402.0811P, doi:10.2140/ant.2014.8.2067. From the Polymath8 project.
+Polymath, D.H.J. (2014), "Variants of the Selberg sieve, and bounded intervals containing many primes", Research in the Mathematical Sciences, 1 (12): 12, arXiv:1407.4897, Bibcode:2014arXiv1407.4897P, doi:10.1186/s40687-014-0012-7, MR 3373710, S2CID 119699189 From the Polymath8 project.
+Polymath, D. H. J. (2014), "The "bounded gaps between primes" Polymath project: A retrospective analysis" (PDF), Newsletter of the European Mathematical Society, 94: 13–23, arXiv:1409.8361, Bibcode:2014arXiv1409.8361P.
+
+See also
+Citizen science
+Crowdsourcing
+
+References
+Bibliography
+Barany, Michael J. (2010). "'[B]ut this is blog maths and we're free to make up conventions as we go along': Polymath1 and the modalities of 'massively collaborative mathematics'". Proceedings of the 6th International Symposium on Wikis and Open Collaboration (WikiSym '10). New York: ACM. Article 10. doi:10.1145/1832772.1832786. ISBN 978-1-4503-0056-8. S2CID 17903199.
+Cranshaw, Justin; Kittur, Aniket (2011). "The polymath project: lessons from a successful online collaboration in mathematics". Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '11). New York: ACM. pp. 1865–74. doi:10.1145/1978942.1979213. ISBN 978-1-4503-0228-9. S2CID 2498854.
+Stefaneas Petros, Vandoulakis Ioannis "The Web as a Tool for Proving", Metaphilosophy. Special Issue: Philoweb: Toward a Philosophy of the Web. Guest Editors: Harry Halpin and Alexandre Monnin. Volume 43, Issue 4, pp 480–498, July 2012, DOI: 10.1111/j.1467-9973.2012.01758.x http://web-and-philosophy.org. Reprinted in the collection: Harry Halpin and Alexandre Monnin (Eds) Philosophical Engineering: Toward a Philosophy of the Web. Wiley-Blackwell, 2014, 149–167. DOI: 10.1002/9781118700143.ch10
+
+External links
+Current central hub of the Polymath Project
+Polymath Project blog
+Gowers's blog post inspiring the project
+An introduction to the Polymath Project for non-mathematicians

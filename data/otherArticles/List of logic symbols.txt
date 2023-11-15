@@ -1,0 +1,49 @@
+In logic, a set of symbols is commonly used to express logical representation. The following table lists many common symbols, together with their name, how they should be read out loud, and the related field of mathematics. Additionally, the subsequent columns contains an informal explanation, a short example, the Unicode location, the name for use in HTML documents, and the LaTeX symbol.
+
+Basic logic symbols
+Advanced and rarely used logical symbols
+These symbols are sorted by their Unicode value:
+
+Usage in various countries
+Poland
+As of 2014 in Poland, the universal quantifier is sometimes written 
+  
+    
+      
+        ⋀
+      
+    
+    {\displaystyle \bigwedge }
+  , and the existential quantifier as 
+  
+    
+      
+        ⋁
+      
+    
+    {\displaystyle \bigvee }
+  . The same applies for Germany.
+
+Japan
+The ⇒ symbol is often used in text to mean "result" or "conclusion", as in "We examined whether to sell the product ⇒ We will not sell it". Also, the → symbol is often used to denote "changed to", as in the sentence "The interest rate changed. March 20% → April 21%".
+
+See also
+Józef Maria Bocheński
+List of notation used in Principia Mathematica
+List of mathematical symbols
+Logic alphabet, a suggested set of logical symbols
+Logic gate § Symbols
+Logical connective
+Mathematical operators and symbols in Unicode
+Non-logical symbol
+Polish notation
+Truth function
+Truth table
+Wikipedia:WikiProject Logic/Standards for notation
+
+References
+Further reading
+Józef Maria Bocheński (1959), A Précis of Mathematical Logic, trans., Otto Bird, from the French and German editions, Dordrecht, South Holland:  D. Reidel.
+
+External links
+Named character entities in HTML 4.0

@@ -1,0 +1,13 @@
+A Stoneley wave is a boundary wave (or interface wave) that typically propagates along a solid-solid interface. When found at a liquid-solid interface, this wave is also referred to as a Scholte wave. The wave is of maximum intensity at the interface and decreases exponentially away from it.  It is named after the British seismologist Dr. Robert Stoneley (1894–1976), a lecturer in the University of Leeds, who discovered it on October 1, 1924.
+
+Occurrence and use
+Stoneley waves are most commonly generated during borehole sonic logging and vertical seismic profiling. They propagate along the walls of a fluid-filled borehole.  They make up a large part of the low-frequency component of the signal from the seismic source and their attenuation is sensitive to fractures and formation permeability. Recent studies have found that Stoneley wave processing in borehole help to distinguish between fractured versus non-fractured coal seam. Therefore, analysis of Stoneley waves can make it possible to estimate these rock properties. The standard data processing of sonic logs to derive wave velocity and energy content is explained in and.
+
+Comparison to other waves
+A number of wave modes have been predicted based on the fluidity of the medium.
+
+Effects of permeability
+Permeability can influence Stoneley wave propagation in three ways. Stoneley waves can be partly reflected at sharp impedance contrasts such as fractures, lithology, or borehole diameter changes. Moreover, as formation permeability increases, Stoneley wave velocity decreases, thereby inducing dispersion. The third effect is the attenuation of Stoneley waves.
+
+
+== References ==

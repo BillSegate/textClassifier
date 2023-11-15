@@ -1,0 +1,699 @@
+The square root of 6 is the positive real number that, when multiplied by itself, gives the natural number 6. It is more precisely called the principal square root of 6, to distinguish it from the negative number with the same property. This number appears in numerous geometric and number-theoretic contexts. It can be denoted in surd form as:
+
+  
+    
+      
+        
+          
+            6
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle {\sqrt {6}}\,,}
+  and in exponent form as:
+
+  
+    
+      
+        
+          6
+          
+            
+              1
+              2
+            
+          
+        
+        .
+      
+    
+    {\displaystyle 6^{\frac {1}{2}}.}
+  It is an irrational algebraic number.  The first sixty significant digits of its decimal expansion are:
+
+2.44948974278317809819728407470589139196594748065667012843269....which can be rounded up to 2.45 to within about 99.98% accuracy (about 1 part in 4800); that is, it differs from the correct value by about 1/2,000.  It takes two more digits (2.4495) to reduce the error by about half.  The approximation 218/89 (≈ 2.449438...) is nearly ten times better: despite having a denominator of only 89, it differs from the correct value by less than 1/20,000, or less than one part in 47,000. 
+Since 6 is the product of 2 and 3, the square root of 6 is the geometric mean of 2 and 3, and is the product of the square root of 2 and the square root of 3, both of which are irrational algebraic numbers.
+NASA has published more than a million decimal digits of the square root of six.
+
+Rational approximations
+The square root of 6 can be expressed as the continued fraction
+
+  
+    
+      
+        [
+        2
+        ;
+        2
+        ,
+        4
+        ,
+        2
+        ,
+        4
+        ,
+        2
+        ,
+        …
+        ]
+        =
+        2
+        +
+        
+          
+            
+              
+                
+              
+              
+                
+                  1
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  2
+                  +
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            1
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            4
+                            +
+                            
+                              
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      1
+                                    
+                                  
+                                
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      2
+                                      +
+                                      
+                                        
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                1
+                                              
+                                            
+                                          
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                4
+                                                +
+                                                …
+                                              
+                                            
+                                          
+                                        
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle [2;2,4,2,4,2,\ldots ]=2+{\cfrac {1}{2+{\cfrac {1}{4+{\cfrac {1}{2+{\cfrac {1}{4+\dots }}}}}}}}.}
+   (sequence A040003 in the OEIS)The successive partial evaluations of the continued fraction, which are called its convergents, approach 
+  
+    
+      
+        
+          
+            6
+          
+        
+      
+    
+    {\displaystyle {\sqrt {6}}}
+  :
+
+  
+    
+      
+        
+          
+            2
+            1
+          
+        
+        ,
+        
+          
+            5
+            2
+          
+        
+        ,
+        
+          
+            22
+            9
+          
+        
+        ,
+        
+          
+            49
+            20
+          
+        
+        ,
+        
+          
+            218
+            89
+          
+        
+        ,
+        
+          
+            485
+            198
+          
+        
+        ,
+        
+          
+            2158
+            881
+          
+        
+        ,
+        
+          
+            4801
+            1960
+          
+        
+        ,
+        …
+      
+    
+    {\displaystyle {\frac {2}{1}},{\frac {5}{2}},{\frac {22}{9}},{\frac {49}{20}},{\frac {218}{89}},{\frac {485}{198}},{\frac {2158}{881}},{\frac {4801}{1960}},\dots }
+  Their numerators are 2, 5, 22, 49, 218, 485, 2158, 4801, 21362, 47525, 211462, …(sequence A041006 in the OEIS), and their denominators are 1, 2, 9, 20, 89, 198, 881, 1960, 8721, 19402, 86329, …(sequence A041007 in the OEIS).Each convergent is a best rational approximation of 
+  
+    
+      
+        
+          
+            6
+          
+        
+      
+    
+    {\displaystyle {\sqrt {6}}}
+  ; in other words, it is closer to 
+  
+    
+      
+        
+          
+            6
+          
+        
+      
+    
+    {\displaystyle {\sqrt {6}}}
+   than any rational with a smaller denominator.  Decimal equivalents improve linearly, at a rate of nearly one digit per convergent:
+
+  
+    
+      
+        
+          
+            2
+            1
+          
+        
+        =
+        2.0
+        ,
+        
+        
+          
+            5
+            2
+          
+        
+        =
+        2.5
+        ,
+        
+        
+          
+            22
+            9
+          
+        
+        =
+        2.4444
+        …
+        ,
+        
+        
+          
+            49
+            20
+          
+        
+        =
+        2.45
+        ,
+        
+        
+          
+            218
+            89
+          
+        
+        =
+        2.44943...
+        ,
+        
+        
+          
+            485
+            198
+          
+        
+        =
+        2.449494...
+        ,
+        
+        …
+      
+    
+    {\displaystyle {\frac {2}{1}}=2.0,\quad {\frac {5}{2}}=2.5,\quad {\frac {22}{9}}=2.4444\dots ,\quad {\frac {49}{20}}=2.45,\quad {\frac {218}{89}}=2.44943...,\quad {\frac {485}{198}}=2.449494...,\quad \ldots }
+  The convergents, expressed as x/y, satisfy alternately the Pell's equations
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        −
+        6
+        
+          y
+          
+            2
+          
+        
+        =
+        −
+        2
+        
+        
+          a
+          n
+          d
+        
+        
+        
+          x
+          
+            2
+          
+        
+        −
+        6
+        
+          y
+          
+            2
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle x^{2}-6y^{2}=-2\quad \mathrm {and} \quad x^{2}-6y^{2}=1}
+  When 
+  
+    
+      
+        
+          
+            6
+          
+        
+      
+    
+    {\displaystyle {\sqrt {6}}}
+   is approximated with the Babylonian method, starting with x0 = 2 and using xn+1 = 1/2(xn + 6/xn), the nth approximant xn is equal to the 2nth convergent of the continued fraction:
+
+  
+    
+      
+        
+          x
+          
+            0
+          
+        
+        =
+        2
+        ,
+        
+        
+          x
+          
+            1
+          
+        
+        =
+        
+          
+            5
+            2
+          
+        
+        =
+        2.5
+        ,
+        
+        
+          x
+          
+            2
+          
+        
+        =
+        
+          
+            49
+            20
+          
+        
+        =
+        2.45
+        ,
+        
+        
+          x
+          
+            3
+          
+        
+        =
+        
+          
+            4801
+            1960
+          
+        
+        =
+        2.449489796...
+        ,
+        
+        
+          x
+          
+            4
+          
+        
+        =
+        
+          
+            46099201
+            18819920
+          
+        
+        =
+        2.449489742783179...
+        ,
+        
+        …
+      
+    
+    {\displaystyle x_{0}=2,\quad x_{1}={\frac {5}{2}}=2.5,\quad x_{2}={\frac {49}{20}}=2.45,\quad x_{3}={\frac {4801}{1960}}=2.449489796...,\quad x_{4}={\frac {46099201}{18819920}}=2.449489742783179...,\quad \dots }
+  The Babylonian method is equivalent to Newton's method for root finding applied to the polynomial 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        −
+        6
+      
+    
+    {\displaystyle x^{2}-6}
+  .  The Newton's method update, 
+  
+    
+      
+        
+          x
+          
+            n
+            +
+            1
+          
+        
+        =
+        
+          x
+          
+            n
+          
+        
+        −
+        f
+        (
+        
+          x
+          
+            n
+          
+        
+        )
+        
+          /
+        
+        
+          f
+          ′
+        
+        (
+        
+          x
+          
+            n
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle x_{n+1}=x_{n}-f(x_{n})/f'(x_{n}),}
+   is equal to 
+  
+    
+      
+        (
+        
+          x
+          
+            n
+          
+        
+        +
+        6
+        
+          /
+        
+        
+          x
+          
+            n
+          
+        
+        )
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle (x_{n}+6/x_{n})/2}
+   when 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          x
+          
+            2
+          
+        
+        −
+        6
+      
+    
+    {\displaystyle f(x)=x^{2}-6}
+  .  The method therefore converges quadratically.
+
+Geometry
+In plane geometry, the square root of 6 can be constructed via a sequence of dynamic rectangles, as illustrated here.In solid geometry, the square root of 6 appears as the longest distances between corners (vertices) of the double cube, as illustrated above.  The square roots of all lower natural numbers appear as the distances between other vertex pairs in the double cube (including the vertices of the included two cubes).The edge length of a cube with total surface area of 1 is 
+  
+    
+      
+        
+          
+            
+              6
+            
+            6
+          
+        
+      
+    
+    {\displaystyle {\frac {\sqrt {6}}{6}}}
+   or the reciprocal square root of 6.  The edge lengths of a regular tetrahedron (t), a regular octahedron (o), and a cube (c) of equal total surface areas satisfy 
+  
+    
+      
+        
+          
+            
+              t
+              ⋅
+              o
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+        =
+        
+          
+            6
+          
+        
+      
+    
+    {\displaystyle {\frac {t\cdot o}{c^{2}}}={\sqrt {6}}}
+  .The edge length of a regular octahedron is the square root of 6 times the radius of an inscribed sphere (that is, the distance from the center of the solid to the center of each face).The square root of 6 appears in various other geometry contexts, such as the side length 
+  
+    
+      
+        
+          
+            
+              
+                
+                  6
+                
+              
+              +
+              
+                
+                  2
+                
+              
+            
+            2
+          
+        
+      
+    
+    {\displaystyle {\frac {{\sqrt {6}}+{\sqrt {2}}}{2}}}
+   for the square enclosing an equilateral triangle of side 2 (see figure).
+
+Trigonometry
+The square root of 6, with the square root of 2 added or subtracted, appears in several exact trigonometric values for angles at multiples of 15 degrees (
+  
+    
+      
+        π
+        
+          /
+        
+        12
+      
+    
+    {\displaystyle \pi /12}
+   radians).
+
+In culture
+The square root of six (actually its reciprocal, "the square root of six over six") appears in Star Wars dialogue.The question of "whether the square root of six is three" has been posited as a question that might be answered by economic methods, if social issues can be so addressed.Villard de Honnecourt's 13th century construction of a Gothic "fifth-point arch" with circular arcs of radius 5 has a height of twice the square root of 6, as illustrated here.
+
+See also
+Square root
+Square root of 2
+Square root of 3
+Square root of 5
+Square root of 7
+
+
+== References ==

@@ -1,0 +1,93 @@
+In general physics, delta-v is a change in velocity. The Greek uppercase letter Δ (delta) is the standard mathematical symbol to represent change in some quantity.
+Depending on the situation, delta-v can be either a spatial vector (Δv) or scalar (Δv). In either case it is equal to the acceleration (vector or scalar) integrated over time:
+
+Vector version: 
+Scalar version: If acceleration is constant, the change in velocity can thus be expressed as:
+
+  
+    
+      
+        Δ
+        
+          v
+        
+        =
+        
+          
+            v
+          
+          
+            1
+          
+        
+        −
+        
+          
+            v
+          
+          
+            0
+          
+        
+        =
+        
+          a
+        
+        ×
+        Δ
+        t
+        =
+        
+          a
+        
+        ×
+        (
+        
+          t
+          
+            1
+          
+        
+        −
+        
+          t
+          
+            0
+          
+        
+        )
+      
+    
+    {\displaystyle \Delta \mathbf {v} =\mathbf {v} _{1}-\mathbf {v} _{0}=\mathbf {a} \times \Delta t=\mathbf {a} \times (t_{1}-t_{0})}
+  
+where:
+
+v0 or v0 is initial velocity (at time t0),
+v1 or v1 is subsequent velocity (at time t1).Change in velocity is useful in many cases, such as determining the change in momentum (impulse), where: 
+  
+    
+      
+        Δ
+        
+          p
+        
+        =
+        m
+        Δ
+        
+          v
+        
+      
+    
+    {\displaystyle \Delta \mathbf {p} =m\Delta \mathbf {v} }
+  , where 
+  
+    
+      
+        
+          p
+        
+      
+    
+    {\displaystyle \mathbf {p} }
+   is momentum and m is mass.

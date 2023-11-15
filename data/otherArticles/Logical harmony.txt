@@ -1,0 +1,17 @@
+Logical harmony, a name coined by Michael Dummett, is a supposed constraint on the rules of inference that can be used in a given logical system.
+
+Overview
+The logician Gerhard Gentzen proposed that the meanings of logical connectives could be given by the rules for introducing them into discourse. For example, if one believes that the sky is blue and one also believes that grass is green, then one can introduce the connective and as follows: The sky is blue AND grass is green.  Gentzen's idea was that having rules like this is what gives meaning to one's words, or at least to certain words. The idea has also been associated with the Wittgensteinian notion that in many cases we can say, meaning is use. Most contemporary logicians prefer to think that the introduction rules and the elimination rules for an expression are equally important.  In this case, and is characterized by the following rules:
+
+An apparent problem with this was pointed out by Arthur Prior: Why can't we have an expression (call it "tonk") whose introduction rule is that of OR (from "p" to "p tonk q") but whose elimination rule is that of AND (from "p tonk q" to "q")?  This lets us deduce anything at all from any starting point.  Prior suggested that this meant that inferential rules could not determine meaning.  He was answered by Nuel Belnap, that even though introduction and elimination rules can constitute meaning, not just any pair of such rules will determine a meaningful expression—they must meet certain constraints, such as not allowing us to deduce any new truths in the old vocabulary.  These constraints are what Dummett was referring to.
+Harmony, then, refers to certain constraints that a proof system must let hold between introduction and elimination rules for it to be meaningful, or in other words, for its inference rules to be meaning-constituting.
+The application of harmony to logic may be considered a special case; it makes sense to talk of harmony with respect to not only inferential systems, but also conceptual systems in human cognition, and to type systems in programming languages.
+Semantics of this form has not provided a very great challenge to that sketched in Tarski's semantic theory of truth, but many philosophers interested in reconstituting the semantics of logic in a way that respects Ludwig Wittgenstein's meaning is use have felt that harmony holds the key.
+
+References
+Arthur Prior,  "The runabout inference ticket." Analysis, 21, pp. 38–39, 1960–61.
+Nuel D. Belnap Jr., "Tonk, Plonk, and Plink", Analysis, 22, pp. 130–134, 1961–62.
+Michael Dummett, The Logical Basis of Metaphysics (Harvard University Press, 1991)
+
+External links
+harmony at Greg Restall's Proof and Consequence wiki (archive copy, July 2012)

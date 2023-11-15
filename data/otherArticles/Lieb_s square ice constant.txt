@@ -1,0 +1,83 @@
+Lieb's square ice constant is a mathematical constant used in the field of combinatorics to quantify the number of Eulerian orientations of grid graphs. It was introduced by Elliott H. Lieb in 1967.
+
+Definition
+An n × n grid graph (with periodic boundary conditions and n ≥ 2) has n2 vertices and 2n2 edges; it is 4-regular, meaning that each vertex has exactly four neighbors. An orientation of this graph is an assignment of a direction to each edge; it is an Eulerian orientation if it gives each vertex exactly two incoming edges and exactly two outgoing edges. 
+Denote the number of Eulerian orientations of this graph by f(n). Then
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            
+              f
+              (
+              n
+              )
+            
+            
+              
+                n
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            (
+            
+              
+                4
+                3
+              
+            
+            )
+          
+          
+            
+              3
+              2
+            
+          
+        
+        =
+        
+          
+            
+              8
+              
+                
+                  3
+                
+              
+            
+            9
+          
+        
+        =
+        1.5396007
+        …
+      
+    
+    {\displaystyle \lim _{n\to \infty }{\sqrt[{n^{2}}]{f(n)}}=\left({\frac {4}{3}}\right)^{\frac {3}{2}}={\frac {8{\sqrt {3}}}{9}}=1.5396007\dots }
+  is Lieb's square ice constant. Lieb used a transfer-matrix method to compute this exactly.
+The function f(n) also counts the number of 3-colorings of grid graphs, the number of nowhere-zero 3-flows in 4-regular graphs, and the number of local flat foldings of the Miura fold. Some historical and physical background can be found in the article Ice-type model.
+
+See also
+Spin ice
+Ice-type model
+
+
+== References ==

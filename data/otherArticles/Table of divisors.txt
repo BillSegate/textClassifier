@@ -1,0 +1,75 @@
+The tables below list all of the divisors of the numbers 1 to 1000.
+A divisor of an integer n is an integer m, for which n/m is again an integer (which is necessarily also a divisor of n). For example, 3 is a divisor of 21, since 21/7 = 3 (and therefore 7 is also a divisor of 21).
+If m is a divisor of n then so is −m. The tables below only list positive divisors.
+
+Key to the tables
+d(n) is the number of positive divisors of n, including 1 and n itself
+ σ(n) is the sum of the positive divisors of n, including 1 and n itself
+ s(n) is the sum of the proper divisors of n, including 1, but not n itself; that is,  s(n) = σ(n) − n
+a deficient number is greater than the sum of its proper divisors; that is, s(n) < n
+a perfect number equals the sum of its proper divisors; that is, s(n) = n
+an abundant number is lesser than the sum of its proper divisors; that is, s(n) > n
+a highly abundant number has a sum of positive divisors greater than any lesser number's sum of positive divisors; that is, s(n) > s(m) for every positive integer m < n. Counterintuitively, the first seven highly abundant numbers are not abundant numbers.
+a prime number has only 1 and itself as divisors; that is, d(n) = 2.  Prime numbers are always deficient as s(n)=1.
+a composite number has more than just 1 and itself as divisors; that is, d(n) > 2
+a highly composite number has more divisors than any lesser number; that is, d(n) > d(m) for every positive integer m < n. Counterintuitively, the first two highly composite numbers are not composite numbers.
+a superior highly composite number has more divisors than any other number scaled relative to some positive power of the number itself; that is, there exists some ε such that 
+  
+    
+      
+        
+          
+            
+              d
+              (
+              n
+              )
+            
+            
+              n
+              
+                ε
+              
+            
+          
+        
+        >
+        
+          
+            
+              d
+              (
+              m
+              )
+            
+            
+              m
+              
+                ε
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {d(n)}{n^{\varepsilon }}}>{\frac {d(m)}{m^{\varepsilon }}}}
+   for every other positive integer m. Superior highly composite numbers are always highly composite numbers.
+a weird number is an abundant number that is not semiperfect; that is, no subset of the proper divisors of n sum to n
+
+1 to 100
+101 to 200
+201 to 300
+301 to 400
+401 to 500
+501 to 600
+601 to 700
+701 to 800
+801 to 900
+901 to 1000
+Sortable 1-1000
+See also
+List of prime numbers – List of prime numbers and notable types of prime numbers
+Table of prime factors
+
+External links
+OEIS sequence A027750 (Triangle read by rows in which row n lists the divisors of n)

@@ -1,0 +1,187 @@
+There are many alternatives to the classical calculus of Newton and Leibniz; for example, each of the infinitely many non-Newtonian calculi. Occasionally an alternative calculus is more suited than the classical calculus for expressing a given scientific or mathematical idea.The table below is intended to assist people working with the alternative calculus called the "geometric calculus" (or its discrete analog). Interested readers are encouraged to improve the table by inserting citations for verification, and by inserting more functions and more calculi.
+
+Table
+In the following table 
+  
+    
+      
+        ψ
+        (
+        x
+        )
+        =
+        
+          
+            
+              
+                Γ
+                ′
+              
+              (
+              x
+              )
+            
+            
+              Γ
+              (
+              x
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \psi (x)={\frac {\Gamma '(x)}{\Gamma (x)}}}
+   is the digamma function, 
+  
+    
+      
+        K
+        (
+        x
+        )
+        =
+        
+          e
+          
+            
+              ζ
+              
+                ′
+              
+            
+            (
+            −
+            1
+            ,
+            x
+            )
+            −
+            
+              ζ
+              
+                ′
+              
+            
+            (
+            −
+            1
+            )
+          
+        
+        =
+        
+          e
+          
+            
+              
+                
+                  z
+                  −
+                  
+                    z
+                    
+                      2
+                    
+                  
+                
+                2
+              
+            
+            +
+            
+              
+                z
+                2
+              
+            
+            ln
+            ⁡
+            (
+            2
+            π
+            )
+            −
+            
+              ψ
+              
+                (
+                −
+                2
+                )
+              
+            
+            (
+            z
+            )
+          
+        
+      
+    
+    {\displaystyle K(x)=e^{\zeta ^{\prime }(-1,x)-\zeta ^{\prime }(-1)}=e^{{\frac {z-z^{2}}{2}}+{\frac {z}{2}}\ln(2\pi )-\psi ^{(-2)}(z)}}
+   is the K-function, 
+  
+    
+      
+        (
+        !
+        x
+        )
+        =
+        
+          
+            
+              Γ
+              (
+              x
+              +
+              1
+              ,
+              −
+              1
+              )
+            
+            e
+          
+        
+      
+    
+    {\displaystyle (!x)={\frac {\Gamma (x+1,-1)}{e}}}
+   is subfactorial, 
+  
+    
+      
+        
+          B
+          
+            a
+          
+        
+        (
+        x
+        )
+        =
+        −
+        a
+        ζ
+        (
+        −
+        a
+        +
+        1
+        ,
+        x
+        )
+      
+    
+    {\displaystyle B_{a}(x)=-a\zeta (-a+1,x)}
+   are the generalized to real numbers Bernoulli polynomials.
+
+See also
+Indefinite product
+Product integral
+Fractal derivative
+
+References
+External links
+Non-Newtonian calculus website

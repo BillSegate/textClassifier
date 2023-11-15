@@ -1,0 +1,304 @@
+The Rankine vortex is a simple mathematical model of a vortex in a viscous fluid. It is named after its discoverer, William John Macquorn Rankine.
+The vortices observed in nature are usually modelled with an irrotational (potential or free) vortex. However, in potential vortex, the velocity becomes infinite at the vortex center. In reality, very close to the origin, the motion resembles a solid body rotation. The Rankine vortex model assumes a solid-body rotation inside a cylinder of radius 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   and a potential vortex outside the cylinder. The radius 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   is referred to as the vortex-core radius. The velocity components 
+  
+    
+      
+        (
+        
+          v
+          
+            r
+          
+        
+        ,
+        
+          v
+          
+            θ
+          
+        
+        ,
+        
+          v
+          
+            z
+          
+        
+        )
+      
+    
+    {\displaystyle (v_{r},v_{\theta },v_{z})}
+   of the Rankine vortex, expressed in terms of the cylindrical-coordinate system 
+  
+    
+      
+        (
+        r
+        ,
+        θ
+        ,
+        z
+        )
+      
+    
+    {\displaystyle (r,\theta ,z)}
+   are given by
+
+  
+    
+      
+        
+          v
+          
+            r
+          
+        
+        =
+        0
+        ,
+        
+        
+          v
+          
+            θ
+          
+        
+        (
+        r
+        )
+        =
+        
+          
+            Γ
+            
+              2
+              π
+            
+          
+        
+        
+          
+            {
+            
+              
+                
+                  r
+                  
+                    /
+                  
+                  
+                    a
+                    
+                      2
+                    
+                  
+                
+                
+                  r
+                  ≤
+                  a
+                  ,
+                
+              
+              
+                
+                  1
+                  
+                    /
+                  
+                  r
+                
+                
+                  r
+                  >
+                  a
+                
+              
+            
+            
+          
+        
+        ,
+        
+        
+          v
+          
+            z
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle v_{r}=0,\quad v_{\theta }(r)={\frac {\Gamma }{2\pi }}{\begin{cases}r/a^{2}&r\leq a,\\1/r&r>a\end{cases}},\quad v_{z}=0}
+  where 
+  
+    
+      
+        Γ
+      
+    
+    {\displaystyle \Gamma }
+   is the circulation strength of the Rankine vortex. Since solid-body rotation is characterized by an azimuthal velocity 
+  
+    
+      
+        Ω
+        r
+      
+    
+    {\displaystyle \Omega r}
+  , where 
+  
+    
+      
+        Ω
+      
+    
+    {\displaystyle \Omega }
+   is the constant angular velocity, one can also use the parameter 
+  
+    
+      
+        Ω
+        =
+        Γ
+        
+          /
+        
+        (
+        2
+        π
+        
+          a
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle \Omega =\Gamma /(2\pi a^{2})}
+   to characterize the vortex.
+The vorticity field 
+  
+    
+      
+        (
+        
+          ω
+          
+            r
+          
+        
+        ,
+        
+          ω
+          
+            θ
+          
+        
+        ,
+        
+          ω
+          
+            z
+          
+        
+        )
+      
+    
+    {\displaystyle (\omega _{r},\omega _{\theta },\omega _{z})}
+   associated with the Rankine vortex is
+
+  
+    
+      
+        
+          ω
+          
+            r
+          
+        
+        =
+        0
+        ,
+        
+        
+          ω
+          
+            θ
+          
+        
+        =
+        0
+        ,
+        
+        
+          ω
+          
+            z
+          
+        
+        =
+        
+          
+            {
+            
+              
+                
+                  2
+                  Ω
+                
+                
+                  r
+                  ≤
+                  a
+                  ,
+                
+              
+              
+                
+                  0
+                
+                
+                  r
+                  >
+                  a
+                
+              
+            
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \omega _{r}=0,\quad \omega _{\theta }=0,\quad \omega _{z}={\begin{cases}2\Omega &r\leq a,\\0&r>a\end{cases}}.}
+  At all points inside the core of the Rankine vortex, the vorticity is uniform at twice the angular velocity of the core; whereas vorticity is zero at all points outside the core because the flow there is irrotational.
+In reality, vortex cores are not always circular; and vorticity is not exactly uniform throughout the vortex core.
+
+See also
+Kaufmann (Scully) vortex – an alternative mathematical simplification for a vortex, with a smoother transition.
+Lamb–Oseen vortex – the exact solution for a free vortex decaying due to viscosity.
+Burgers vortex
+
+References
+External links
+Streamlines vs. Trajectories in a Translating Rankine Vortex: an example of a Rankine vortex imposed on a constant velocity field, with animation.

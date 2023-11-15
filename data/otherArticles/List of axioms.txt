@@ -1,0 +1,71 @@
+This is a list of axioms as that term is understood in mathematics. In epistemology, the word axiom is understood differently; see axiom and self-evidence. Individual axioms are almost always part of a larger axiomatic system.
+
+ZF (the Zermelo–Fraenkel axioms without the axiom of choice)
+Together with the axiom of choice (see below), these are the de facto standard axioms for contemporary mathematics or set theory. They can be easily adapted to analogous theories, such as mereology.
+
+Axiom of extensionality
+Axiom of empty set
+Axiom of pairing
+Axiom of union
+Axiom of infinity
+Axiom schema of replacement
+Axiom of power set
+Axiom of regularity
+Axiom schema of specificationSee also Zermelo set theory.
+
+Axiom of choice
+With the Zermelo–Fraenkel axioms above, this makes up the system ZFC in which most mathematics is potentially formalisable.
+
+Equivalents of AC
+Hausdorff maximality theorem
+Well-ordering theorem
+Zorn's lemma
+
+Stronger than AC
+Axiom of global choice
+
+Weaker than AC
+Axiom of countable choice
+Axiom of dependent choice
+Boolean prime ideal theorem
+Axiom of uniformization
+
+Alternates incompatible with AC
+Axiom of real determinacy
+
+Other axioms of mathematical logic
+Von Neumann–Bernays–Gödel axioms
+Continuum hypothesis and its generalization
+Freiling's axiom of symmetry
+Axiom of determinacy
+Axiom of projective determinacy
+Martin's axiom
+Axiom of constructibility
+Rank-into-rank
+Kripke–Platek axioms
+Diamond principle
+
+Geometry
+Parallel postulate
+Birkhoff's axioms (4 axioms)
+Hilbert's axioms (20 axioms)
+Tarski's axioms (10 axioms and 1 schema)
+
+Other axioms
+Axiom of Archimedes (real number)
+Axiom of countability (topology)
+Dirac–von Neumann axioms
+Fundamental axiom of analysis (real analysis)
+Gluing axiom (sheaf theory)
+Haag–Kastler axioms (quantum field theory)
+Huzita's axioms (origami)
+Kuratowski closure axioms (topology)
+Peano's axioms (natural numbers)
+Probability axioms
+Separation axiom (topology)
+Wightman axioms (quantum field theory)
+Action axiom (praxeology)
+
+See also
+Axiomatic quantum field theory
+Minimal axioms for Boolean algebra

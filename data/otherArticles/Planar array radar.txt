@@ -1,0 +1,14 @@
+The planar array radar is a type of radar that uses a high-gain planar array antenna.
+
+Operation
+A fixed delay is established between horizontal arrays in the elevation plane. As the frequency is changed, the phase front across the aperture tends to tilt, with the result that the beam is moved in elevation. The differing frequencies cause each successive beam to be elevated slightly more than previous beams. A 27.5-degree elevation is scanned by the radar.
+
+Advantages
+Each beam group has full transmitter peak power, full antenna gain and full antenna sidelobe performance.
+The use of frequency changes allows economical, simple and reliable inertialess elevation scanning.
+
+Radars
+AN/APG-66
+
+
+== References ==

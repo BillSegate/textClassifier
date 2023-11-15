@@ -1,0 +1,176 @@
+In combinatorics, bijective proof is a proof technique for proving that two sets have equally many elements, or that the sets in two combinatorial classes have equal size, by finding a bijective function that maps one set one-to-one onto the other. This technique can be useful as a way of finding a formula for the number of elements of certain sets, by corresponding them with other sets that are easier to count. Additionally, the nature of the bijection itself often provides powerful insights into each or both of the sets.
+
+Basic examples
+Proving the symmetry of the binomial coefficients
+The symmetry of the binomial coefficients states that
+
+  
+    
+      
+        
+          
+            
+              (
+            
+            
+              n
+              k
+            
+            
+              )
+            
+          
+        
+        =
+        
+          
+            
+              (
+            
+            
+              n
+              
+                n
+                −
+                k
+              
+            
+            
+              )
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {n \choose k}={n \choose n-k}.}
+  This means that there are exactly as many combinations of k things in a set of size n as there are combinations of n − k things in a set of size n.
+
+A bijective proof
+The key idea of the proof may be understood from a simple example: selecting k children to be rewarded with ice cream cones, out of a group of n children, has exactly the same effect as choosing instead the n − k children to be denied ice cream cones. 
+More abstractly and generally, the two quantities asserted to be equal count the subsets of size k and n − k, respectively, of any n-element set S. Let A be the set of all k-element subsets of S, the set A has size 
+  
+    
+      
+        
+          
+            
+              
+                (
+              
+              
+                n
+                k
+              
+              
+                )
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\tbinom {n}{k}}.}
+   Let B be the set of all n−k subsets of S, the set B has size 
+  
+    
+      
+        
+          
+            
+              
+                (
+              
+              
+                n
+                
+                  n
+                  −
+                  k
+                
+              
+              
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\tbinom {n}{n-k}}}
+  . There is a simple bijection between the two sets A and B: it associates every k-element subset (that is, a member of A) with its complement, which contains precisely the remaining n − k elements of S, and hence is a member of B. More formally, this can be written using functional notation as, f : A → B defined by f(X) = Xc for X any k-element subset of S and the complement taken in S. To show that f is a bijection, first assume that f(X1) = f(X2), that is to say, X1c = X2c. Take the complements of each side (in S), using the fact that the complement of a complement of a set is the original set,  to obtain X1 = X2. This shows that f is one-to-one. Now take any n−k-element subset of S in B, say Y. Its complement in S, Yc, is a k-element subset, and so, an element of A. Since f(Yc) = (Yc)c = Y, f is also onto and thus a bijection. The result now follows since the existence of a bijection between these finite sets shows that they have the same size, that is, 
+  
+    
+      
+        
+          
+            
+              
+                (
+              
+              
+                n
+                k
+              
+              
+                )
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                (
+              
+              
+                n
+                
+                  n
+                  −
+                  k
+                
+              
+              
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\tbinom {n}{k}}={\tbinom {n}{n-k}}}
+  .
+
+Other examples
+Problems that admit bijective proofs are not limited to binomial coefficient identities. As the complexity of the problem increases, a bijective proof can become very sophisticated. This technique is particularly useful in areas of discrete mathematics such as combinatorics, graph theory, and number theory.
+The most classical examples of bijective proofs in combinatorics include:
+
+Prüfer sequence, giving a proof of Cayley's formula for the number of labeled trees.
+Robinson-Schensted algorithm, giving a proof of Burnside's formula for the symmetric group.
+Conjugation of Young diagrams, giving a proof of a classical result on the number of certain integer partitions.
+Bijective proofs of the pentagonal number theorem.
+Bijective proofs of the formula for the Catalan numbers.
+
+See also
+Binomial theorem
+Schröder–Bernstein theorem
+Double counting (proof technique)
+Combinatorial principles
+Combinatorial proof
+Categorification
+
+References
+Further reading
+Loehr, Nicholas A. (2011).  Bijective Combinatorics.  CRC Press.  ISBN 143984884X,  ISBN 978-1439848845.
+
+External links
+"Division by three" – by Doyle and Conway.
+"A direct bijective proof of the hook-length formula" –  by Novelli, Pak and Stoyanovsky.
+"Bijective census and random generation of Eulerian planar maps with prescribed vertex degrees" –  by Gilles Schaeffer.
+"Kathy O'Hara's Constructive Proof of the Unimodality of the Gaussian Polynomials" – by Doron Zeilberger.
+"Partition Bijections, a Survey" – by Igor Pak.
+Garsia-Milne Involution Principle – from MathWorld.

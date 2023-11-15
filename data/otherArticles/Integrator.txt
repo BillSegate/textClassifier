@@ -1,0 +1,48 @@
+An integrator in measurement and control applications is an element whose output signal is the time integral of its input signal. It accumulates the input quantity over a defined time to produce a representative output.
+Integration is an important part of many engineering and scientific applications. Mechanical integrators are the oldest type and are still used for metering water flow or electrical power. Electronic analogue integrators are the basis of analog computers and charge amplifiers. Integration can also be performed by algorithms in digital computers.
+
+In signal processing circuits
+An electronic integrator is a form of first-order low-pass filter, which can be performed in the continuous-time (analog) domain or approximated (simulated) in the discrete-time (digital) domain. An integrator will have a low pass filtering effect but when given an offset it will accumulate a value building it until it reaches a limit of the system or overflows.
+A current integrator is an electronic device performing a time integration of an electric current, thus measuring a total electric charge. A capacitor's current–voltage relation makes it a very simple current integrator:
+
+More sophisticated current integrator circuits build on this relation, such as the charge amplifier. A current integrator is also used to measure the electric charge on a Faraday cup in a residual gas analyzer to measure partial pressures of gasses in a vacuum. Another application of current integration is in ion beam deposition, where the measured charge directly corresponds to the number of ions deposited on a substrate, assuming the charge state of the ions is known. The two current-carrying electrical leads must to be connected to the ion source and the substrate, closing the electric circuit which in part is given by the ion beam.
+A voltage integrator is an electronic device performing a time integration of an electric voltage, thus measuring the total volt-second product. A simple resistor–capacitor circuit acts as an integrator at high frequencies above its cutoff frequency.
+
+Op amp integrator
+See also Integrator at op amp applications and op amp integratorAn ideal op amp integrator (e.g. Figure 1) is a voltage integrator that works over all frequencies (limited by the op amp's gain–bandwidth product) and provides gain.
+
+Drawbacks of ideal op amp integrator
+For DC input (f = 0), the capacitive reactance Xc is infinite. Because of this, the op amp gets effectively in an open loop configuration, which has infinite open-loop gain (for an ideal op amp, or simply very large for real op amps). Hence, any small input offset voltages are also amplified and appears at output as a large error. This is referred as false triggering and must be avoided.Thus, an ideal integrator needs to be modified with additional components to reduce the effect of an error voltage in practice. This modified integrator is referred as practical integrator.
+
+Practical op amp integrator
+Main description at: Op amp integrator § Practical circuit
+The gain of an integrator at low frequency can be limited to avoid the saturation problem, by shunting the feedback capacitor with a feedback resistor. This practical integrator acts as a low-pass filter with constant gain in its low frequency pass band. It only performs integration in high frequencies, not in low frequencies, so bandwidth for integrating is limited.
+
+Applications
+Integrating circuits are most commonly used in analog-to-digital converters, ramp generators, and also in wave shaping applications.
+Op-amp integrating amplifiers are used to perform calculus operations in analog computers.
+A totalizer in the industrial instrumentation trade integrates a signal representing water flow, producing a signal representing the total quantity of water that has passed by the flow meter.
+
+In software
+Integrators may also be software components.
+In some computational physics computer simulations, such as numerical weather prediction, molecular dynamics, flight simulators, reservoir simulation, noise barrier design, architectural acoustics, and electronic circuit simulation, an integrator is a numerical method for integrating trajectories from forces (and thereby accelerations) that are only calculated at discrete time steps.
+
+Mechanical integrators
+Mechanical integrators were key elements in the mechanical differential analyser, used to solve practical physical problems.  Mechanical integration mechanisms were also used in control systems such as regulating flows or temperature in industrial processes. Mechanisms such as the ball-and-disk integrator were used both for computation in differential analysers and as components of instruments such as naval gun directors, flow totalizers and others. A planimeter is a mechanical device used for calculating the definite integral of a curve given in graphical form, or more generally finding the area of a closed curve.  An integraph is used to plot the indefinite integral of a function given in graphical form.
+
+See also
+Differentiator
+Digital differential analyzer
+Fractional-order integrator
+Integrating ADC
+Lowpass filter
+Operational amplifier
+Signal processing
+
+References
+External links
+Wolfram Online Integrator
+Calc.Matthen Online Integrator, can do definite integrals
+
+Further reading
+Keng C. Wu (2002). Transistor Circuits for Spacecraft Power System. Springer. pp. 85–87. ISBN 978-1-4020-7261-1.

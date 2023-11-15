@@ -1,0 +1,4 @@
+Liquid slugging is the phenomenon of liquid entering the cylinder of a reciprocating compressor, a common cause of failure.Under normal conditions, the intake and output of a compressor cylinder is entirely vapor or gas, when a liquid accumulates at the suction port liquid slugging can occur. As more of the practically incompressible liquid enters, strain is placed upon the system leading to a variety of failures.
+
+
+== References ==

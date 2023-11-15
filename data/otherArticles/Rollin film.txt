@@ -1,0 +1,149 @@
+A Rollin film, named after Bernard V. Rollin, is a 30 nm-thick liquid film of helium in the helium II state.  It exhibits a "creeping" effect in response to surfaces extending past the film's level (wave propagation).  Helium II can escape from any non-closed container via creeping toward and eventually evaporating from capillaries of 10 to 100 nm or greater.
+Rollin films are involved in the fountain effect where superfluid helium leaks out of a container in a fountain-like manner.  They have high thermal conductivity.  
+The ability of superfluid liquids to cross obstacles that lie at a higher level is often referred to as the Onnes effect, named after Heike Kamerlingh Onnes. The Onnes effect is enabled by the capillary forces dominating gravity and viscous forces.
+Waves propagating across a Rollin film are governed by the same equation as gravity waves in shallow water, but rather than gravity, the restoring force is the van der Waals force. The film suffers a change in chemical potential when the thickness varies. These waves are known as third sound.
+
+Thickness of the film
+The thickness of the film can be calculated by the energy balance. Consider a small fluid volume element 
+  
+    
+      
+        Δ
+        V
+      
+    
+    {\displaystyle \Delta V}
+   which is located at a height 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+   from the free surface. The potential energy due to the gravitational force acting on the fluid element is 
+  
+    
+      
+        ρ
+        g
+        h
+        Δ
+        V
+      
+    
+    {\displaystyle \rho gh\Delta V}
+  , where 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   is the total density and 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   is the gravitational acceleration. The quantum kinetic energy per particle is 
+  
+    
+      
+        
+          ℏ
+          
+            2
+          
+        
+        
+          /
+        
+        (
+        2
+        m
+        
+          l
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle \hbar ^{2}/(2ml^{2})}
+  , where 
+  
+    
+      
+        l
+      
+    
+    {\displaystyle l}
+   is the thickness of the film and 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   is the mass of the particle. Therefore, the net kinetic energy is given by 
+  
+    
+      
+        
+          ℏ
+          
+            2
+          
+        
+        f
+        ρ
+        Δ
+        V
+        
+          /
+        
+        (
+        2
+        
+          m
+          
+            2
+          
+        
+        
+          l
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle \hbar ^{2}f\rho \Delta V/(2m^{2}l^{2})}
+  , where 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   is the fraction of atoms which are Bose–Einstein condensate. Minimizing the total energy with respect to the thickness provides us the value of the thickness:
+
+See also
+Second sound
+
+References
+Fairbank H.A.; Lane C.T. (October 1949). "Rollin Film Rates in Liquid Helium". Physical Review. 76 (8): 1209–1211. Bibcode:1949PhRv...76.1209F. doi:10.1103/PhysRev.76.1209.{{cite journal}}:  CS1 maint: multiple names: authors list (link)
+B.V. Rollin and F. Simon (1939). "On the "film" phenomenon of liquid helium II". Physica. 6 (2): 219–230. Bibcode:1939Phy.....6..219R. doi:10.1016/S0031-8914(39)80013-1.
+David Goodstein (5 July 1969). "Third Sound and the Onset of Superfluidity in Unsaturated Helium Films" (PDF). Physical Review. 183 (1): 327–334. Bibcode:1969PhRv..183..327G. doi:10.1103/PhysRev.183.327.
+
+External links
+Video of the property in action
+Video: Liquid Helium,Superfluid: demonstrating Lambda point transition/viscosity paradox/two fluid model/fountain effect/Rollin film/second sound (Alfred Leitner, 1963, 38 min.)

@@ -1,0 +1,4194 @@
+In number theory, a Liouville number is a real number 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   with the property that, for every positive integer 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  , there exists a pair of integers 
+  
+    
+      
+        (
+        p
+        ,
+        q
+        )
+      
+    
+    {\displaystyle (p,q)}
+   with 
+  
+    
+      
+        q
+        >
+        1
+      
+    
+    {\displaystyle q>1}
+   such that
+
+Liouville numbers are "almost rational", and can thus be approximated "quite closely" by sequences of rational numbers. Precisely, these are transcendental numbers that can be more closely approximated by rational numbers than any algebraic irrational number can be. In 1844, Joseph Liouville showed that all Liouville numbers are transcendental, thus establishing the existence of transcendental numbers for the first time.
+It is known that π and e are not Liouville numbers.
+
+The existence of Liouville numbers (Liouville's constant)
+Liouville numbers can be shown to exist by an explicit construction.
+For any integer 
+  
+    
+      
+        b
+        ≥
+        2
+      
+    
+    {\displaystyle b\geq 2}
+   and any sequence of integers 
+  
+    
+      
+        (
+        
+          a
+          
+            1
+          
+        
+        ,
+        
+          a
+          
+            2
+          
+        
+        ,
+        …
+        )
+      
+    
+    {\displaystyle (a_{1},a_{2},\dots )}
+   such that 
+  
+    
+      
+        
+          a
+          
+            k
+          
+        
+        ∈
+        {
+        0
+        ,
+        1
+        ,
+        2
+        ,
+        …
+        ,
+        b
+        −
+        1
+        }
+      
+    
+    {\displaystyle a_{k}\in \{0,1,2,\dots ,b-1\}}
+   for all 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   and 
+  
+    
+      
+        
+          a
+          
+            k
+          
+        
+        ≠
+        0
+      
+    
+    {\displaystyle a_{k}\neq 0}
+   for infinitely many 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  , define the number
+
+In the special case when 
+  
+    
+      
+        b
+        =
+        10
+      
+    
+    {\displaystyle b=10}
+  , and 
+  
+    
+      
+        
+          a
+          
+            k
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle a_{k}=1}
+   for all 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  , the resulting number 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is called Liouville's constant:
+
+L = 0.11000100000000000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001...It follows from the definition of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   that its base-
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   representation is
+
+  
+    
+      
+        x
+        =
+        
+          
+            (
+            
+              0.
+              
+                a
+                
+                  1
+                
+              
+              
+                a
+                
+                  2
+                
+              
+              000
+              
+                a
+                
+                  3
+                
+              
+              00000000000000000
+              
+                a
+                
+                  4
+                
+              
+              0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+              
+                a
+                
+                  5
+                
+              
+              …
+            
+            )
+          
+          
+            b
+          
+        
+        
+      
+    
+    {\displaystyle x=\left(0.a_{1}a_{2}000a_{3}00000000000000000a_{4}0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000a_{5}\ldots \right)_{b}\;}
+  where the 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  th term is in the 
+  
+    
+      
+        (
+        n
+        !
+        )
+      
+    
+    {\displaystyle (n!)}
+  th place.
+Since this base-
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   representation is non-repeating it follows that 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is not a rational number. Therefore, for any rational number 
+  
+    
+      
+        p
+        
+          /
+        
+        q
+      
+    
+    {\displaystyle p/q}
+  ,  
+  
+    
+      
+        
+          |
+        
+        x
+        −
+        p
+        
+          /
+        
+        q
+        
+          |
+        
+        >
+        0
+      
+    
+    {\displaystyle |x-p/q|>0}
+  .
+Now, for any integer 
+  
+    
+      
+        n
+        ≥
+        1
+      
+    
+    {\displaystyle n\geq 1}
+  , 
+  
+    
+      
+        
+          p
+          
+            n
+          
+        
+      
+    
+    {\displaystyle p_{n}}
+   and 
+  
+    
+      
+        
+          q
+          
+            n
+          
+        
+      
+    
+    {\displaystyle q_{n}}
+   can be defined as follows:
+
+Then,
+
+Therefore, any such 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is a Liouville number.
+
+Notes on the proof
+The inequality 
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            n
+            +
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              a
+              
+                k
+              
+            
+            
+              b
+              
+                k
+                !
+              
+            
+          
+        
+        ≤
+        
+          ∑
+          
+            k
+            =
+            n
+            +
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              b
+              −
+              1
+            
+            
+              b
+              
+                k
+                !
+              
+            
+          
+        
+      
+    
+    {\displaystyle \sum _{k=n+1}^{\infty }{\frac {a_{k}}{b^{k!}}}\leq \sum _{k=n+1}^{\infty }{\frac {b-1}{b^{k!}}}}
+   follows since ak ∈ {0, 1, 2, …, b−1} for all k, so at most ak = b−1. The largest possible sum would occur if the sequence of integers (a1, a2, …) were (b−1, b−1, ...), i.e. ak = b−1, for all k. 
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            n
+            +
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              a
+              
+                k
+              
+            
+            
+              b
+              
+                k
+                !
+              
+            
+          
+        
+      
+    
+    {\displaystyle \sum _{k=n+1}^{\infty }{\frac {a_{k}}{b^{k!}}}}
+   will thus be less than or equal to this largest possible sum.
+The strong inequality 
+  
+    
+      
+        
+          
+            
+              
+                
+                  ∑
+                  
+                    k
+                    =
+                    n
+                    +
+                    1
+                  
+                  
+                    ∞
+                  
+                
+                
+                  
+                    
+                      b
+                      −
+                      1
+                    
+                    
+                      b
+                      
+                        k
+                        !
+                      
+                    
+                  
+                
+                <
+                
+                  ∑
+                  
+                    k
+                    =
+                    (
+                    n
+                    +
+                    1
+                    )
+                    !
+                  
+                  
+                    ∞
+                  
+                
+                
+                  
+                    
+                      b
+                      −
+                      1
+                    
+                    
+                      b
+                      
+                        k
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\sum _{k=n+1}^{\infty }{\frac {b-1}{b^{k!}}}<\sum _{k=(n+1)!}^{\infty }{\frac {b-1}{b^{k}}}\end{aligned}}}
+   follows from the motivation to eliminate the series by way of reducing it to a series for which a formula is known. In the proof so far, the purpose for introducing the inequality in #1 comes from intuition that 
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            1
+            
+              b
+              
+                k
+              
+            
+          
+        
+        =
+        
+          
+            b
+            
+              b
+              −
+              1
+            
+          
+        
+      
+    
+    {\displaystyle \sum _{k=0}^{\infty }{\frac {1}{b^{k}}}={\frac {b}{b-1}}}
+   (the geometric series formula); therefore, if an inequality can be found from 
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            n
+            +
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              a
+              
+                k
+              
+            
+            
+              b
+              
+                k
+                !
+              
+            
+          
+        
+      
+    
+    {\displaystyle \sum _{k=n+1}^{\infty }{\frac {a_{k}}{b^{k!}}}}
+   that introduces a series with (b−1) in the numerator, and if the denominator term can be further reduced from 
+  
+    
+      
+        
+          b
+          
+            k
+            !
+          
+        
+      
+    
+    {\displaystyle b^{k!}}
+  to 
+  
+    
+      
+        
+          b
+          
+            k
+          
+        
+      
+    
+    {\displaystyle b^{k}}
+  , as well as shifting the series indices from 0 to 
+  
+    
+      
+        ∞
+      
+    
+    {\displaystyle \infty }
+  , then both series and (b−1) terms will be eliminated, getting closer to a fraction of the form 
+  
+    
+      
+        
+          
+            1
+            
+              b
+              
+                
+                  exponent
+                
+                ×
+                n
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {1}{b^{{\text{exponent}}\times n}}}}
+  , which is the end-goal of the proof. This motivation is increased here by selecting now from the sum 
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            n
+            +
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              b
+              −
+              1
+            
+            
+              b
+              
+                k
+                !
+              
+            
+          
+        
+      
+    
+    {\displaystyle \sum _{k=n+1}^{\infty }{\frac {b-1}{b^{k!}}}}
+   a partial sum. Observe that, for any term in 
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            n
+            +
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              b
+              −
+              1
+            
+            
+              b
+              
+                k
+                !
+              
+            
+          
+        
+      
+    
+    {\displaystyle \sum _{k=n+1}^{\infty }{\frac {b-1}{b^{k!}}}}
+  , since b ≥ 2, then 
+  
+    
+      
+        
+          
+            
+              b
+              −
+              1
+            
+            
+              b
+              
+                k
+                !
+              
+            
+          
+        
+        <
+        
+          
+            
+              b
+              −
+              1
+            
+            
+              b
+              
+                k
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {b-1}{b^{k!}}}<{\frac {b-1}{b^{k}}}}
+  , for all k (except for when n=1). Therefore, 
+  
+    
+      
+        
+          
+            
+              
+                
+                  ∑
+                  
+                    k
+                    =
+                    n
+                    +
+                    1
+                  
+                  
+                    ∞
+                  
+                
+                
+                  
+                    
+                      b
+                      −
+                      1
+                    
+                    
+                      b
+                      
+                        k
+                        !
+                      
+                    
+                  
+                
+                <
+                
+                  ∑
+                  
+                    k
+                    =
+                    n
+                    +
+                    1
+                  
+                  
+                    ∞
+                  
+                
+                
+                  
+                    
+                      b
+                      −
+                      1
+                    
+                    
+                      b
+                      
+                        k
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\sum _{k=n+1}^{\infty }{\frac {b-1}{b^{k!}}}<\sum _{k=n+1}^{\infty }{\frac {b-1}{b^{k}}}\end{aligned}}}
+   (since, even if n=1, all subsequent terms are smaller). In order to manipulate the indices so that k starts at 0, partial sum will be selected from within 
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            n
+            +
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              b
+              −
+              1
+            
+            
+              b
+              
+                k
+              
+            
+          
+        
+      
+    
+    {\displaystyle \sum _{k=n+1}^{\infty }{\frac {b-1}{b^{k}}}}
+   (also less than the total value since it's a partial sum from a series whose terms are all positive). Choose the partial sum formed by starting at k = (n+1)! which follows from the motivation to write a new series with k=0, namely by noticing that 
+  
+    
+      
+        
+          b
+          
+            (
+            n
+            +
+            1
+            )
+            !
+          
+        
+        =
+        
+          b
+          
+            (
+            n
+            +
+            1
+            )
+            !
+          
+        
+        
+          b
+          
+            0
+          
+        
+      
+    
+    {\displaystyle b^{(n+1)!}=b^{(n+1)!}b^{0}}
+  .
+For the final inequality 
+  
+    
+      
+        
+          
+            b
+            
+              b
+              
+                (
+                n
+                +
+                1
+                )
+                !
+              
+            
+          
+        
+        ≤
+        
+          
+            
+              b
+              
+                n
+                !
+              
+            
+            
+              b
+              
+                (
+                n
+                +
+                1
+                )
+                !
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {b}{b^{(n+1)!}}}\leq {\frac {b^{n!}}{b^{(n+1)!}}}}
+  , this particular inequality has been chosen (true because b ≥ 2, where equality follows if and only if n=1) because of the wish to manipulate 
+  
+    
+      
+        
+          
+            b
+            
+              b
+              
+                (
+                n
+                +
+                1
+                )
+                !
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {b}{b^{(n+1)!}}}}
+   into something of the form 
+  
+    
+      
+        
+          
+            1
+            
+              b
+              
+                
+                  exponent
+                
+                ×
+                n
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {1}{b^{{\text{exponent}}\times n}}}}
+  . This particular inequality allows the elimination of (n+1)! and the numerator, using the property that (n+1)! – n! = (n!)n, thus putting the denominator in ideal form for the substitution 
+  
+    
+      
+        
+          q
+          
+            n
+          
+        
+        =
+        
+          b
+          
+            n
+            !
+          
+        
+      
+    
+    {\displaystyle q_{n}=b^{n!}}
+  .
+
+Irrationality
+Here the proof will show that the number 
+  
+    
+      
+         
+        x
+        =
+        c
+        
+          /
+        
+        d
+         
+        ,
+      
+    
+    {\displaystyle ~x=c/d~,}
+   where c and d are integers and 
+  
+    
+      
+         
+        d
+        >
+        0
+         
+        ,
+      
+    
+    {\displaystyle ~d>0~,}
+   cannot satisfy the inequalities that define a Liouville number. Since every rational number can be represented as such
+  
+    
+      
+         
+        c
+        
+          /
+        
+        d
+         
+        ,
+      
+    
+    {\displaystyle ~c/d~,}
+   the proof will show that no Liouville number can be rational.
+More specifically, this proof shows that for any positive integer n large enough that 
+  
+    
+      
+         
+        
+          2
+          
+            n
+            −
+            1
+          
+        
+        >
+        d
+        >
+        0
+         
+      
+    
+    {\displaystyle ~2^{n-1}>d>0~}
+   [equivalently, for any positive integer 
+  
+    
+      
+         
+        n
+        >
+        1
+        +
+        
+          log
+          
+            2
+          
+        
+        ⁡
+        (
+        d
+        )
+         
+      
+    
+    {\displaystyle ~n>1+\log _{2}(d)~}
+  )], no pair of integers 
+  
+    
+      
+         
+        (
+        
+        p
+        ,
+        
+        q
+        
+        )
+         
+      
+    
+    {\displaystyle ~(\,p,\,q\,)~}
+   exists that simultaneously satisfies the pair of bracketing inequalities
+
+  
+    
+      
+        0
+        <
+        
+          |
+          
+            x
+            −
+            
+              
+                
+                  
+                  p
+                  
+                
+                q
+              
+            
+          
+          |
+        
+        <
+        
+          
+            1
+            
+              
+              
+                q
+                
+                  n
+                
+              
+              
+            
+          
+        
+         
+        .
+      
+    
+    {\displaystyle 0<\left|x-{\frac {\,p\,}{q}}\right|<{\frac {1}{\;q^{n}\,}}~.}
+  If the claim is true, then the desired conclusion follows.
+Let p and q be any integers with 
+  
+    
+      
+         
+        q
+        >
+        1
+         
+        .
+      
+    
+    {\displaystyle ~q>1~.}
+   Then,
+
+  
+    
+      
+        
+          |
+          
+            x
+            −
+            
+              
+                
+                  
+                  p
+                  
+                
+                q
+              
+            
+          
+          |
+        
+        =
+        
+          |
+          
+            
+              
+                
+                  
+                  c
+                  
+                
+                d
+              
+            
+            −
+            
+              
+                
+                  
+                  p
+                  
+                
+                q
+              
+            
+          
+          |
+        
+        =
+        
+          
+            
+              
+              
+                |
+              
+              c
+              
+              q
+              −
+              d
+              
+              p
+              
+                |
+              
+              
+            
+            
+              d
+              
+              q
+            
+          
+        
+      
+    
+    {\displaystyle \left|x-{\frac {\,p\,}{q}}\right|=\left|{\frac {\,c\,}{d}}-{\frac {\,p\,}{q}}\right|={\frac {\,|c\,q-d\,p|\,}{d\,q}}}
+  If 
+  
+    
+      
+        
+          |
+          
+            c
+            
+            q
+            −
+            d
+            
+            p
+          
+          |
+        
+        =
+        0
+         
+        ,
+      
+    
+    {\displaystyle \left|c\,q-d\,p\right|=0~,}
+   then
+
+  
+    
+      
+        
+          |
+          
+            x
+            −
+            
+              
+                
+                  
+                  p
+                  
+                
+                q
+              
+            
+          
+          |
+        
+        =
+        
+          
+            
+              
+              
+                |
+              
+              c
+              
+              q
+              −
+              d
+              
+              p
+              
+                |
+              
+              
+            
+            
+              d
+              
+              q
+            
+          
+        
+        =
+        0
+         
+        ,
+      
+    
+    {\displaystyle \left|x-{\frac {\,p\,}{q}}\right|={\frac {\,|c\,q-d\,p|\,}{d\,q}}=0~,}
+  meaning that such pair of integers 
+  
+    
+      
+         
+        (
+        
+        p
+        ,
+        
+        q
+        
+        )
+         
+      
+    
+    {\displaystyle ~(\,p,\,q\,)~}
+   would violate the first inequality in the definition of a Liouville number, irrespective of any choice of n .
+If, on the other hand, since 
+  
+    
+      
+         
+        
+          |
+          
+            c
+            
+            q
+            −
+            d
+            
+            p
+          
+          |
+        
+        >
+        0
+         
+        ,
+      
+    
+    {\displaystyle ~\left|c\,q-d\,p\right|>0~,}
+   then, since 
+  
+    
+      
+        c
+        
+        q
+        −
+        d
+        
+        p
+      
+    
+    {\displaystyle c\,q-d\,p}
+    is an integer, we can assert the sharper inequality 
+  
+    
+      
+        
+          |
+          
+            c
+            
+            q
+            −
+            d
+            
+            p
+          
+          |
+        
+        ≥
+        1
+         
+        .
+      
+    
+    {\displaystyle \left|c\,q-d\,p\right|\geq 1~.}
+    From this it follows that
+
+  
+    
+      
+        
+          |
+          
+            x
+            −
+            
+              
+                
+                  
+                  p
+                  
+                
+                q
+              
+            
+          
+          |
+        
+        =
+        
+          
+            
+              
+              
+                |
+              
+              c
+              
+              q
+              −
+              d
+              
+              p
+              
+                |
+              
+              
+            
+            
+              d
+              
+              q
+            
+          
+        
+        ≥
+        
+          
+            1
+            
+              
+              d
+              
+              q
+              
+            
+          
+        
+      
+    
+    {\displaystyle \left|x-{\frac {\,p\,}{q}}\right|={\frac {\,|c\,q-d\,p|\,}{d\,q}}\geq {\frac {1}{\,d\,q\,}}}
+  Now for any integer 
+  
+    
+      
+         
+        n
+        >
+        1
+        +
+        
+          log
+          
+            2
+          
+        
+        ⁡
+        (
+        d
+        )
+         
+        ,
+      
+    
+    {\displaystyle ~n>1+\log _{2}(d)~,}
+   the last inequality above implies
+
+  
+    
+      
+        
+          |
+          
+            x
+            −
+            
+              
+                
+                  
+                  p
+                  
+                
+                q
+              
+            
+          
+          |
+        
+        ≥
+        
+          
+            1
+            
+              
+              d
+              
+              q
+              
+            
+          
+        
+        >
+        
+          
+            1
+            
+              
+              
+                2
+                
+                  n
+                  −
+                  1
+                
+              
+              q
+              
+            
+          
+        
+        ≥
+        
+          
+            1
+            
+              
+              
+                q
+                
+                  n
+                
+              
+              
+            
+          
+        
+         
+        .
+      
+    
+    {\displaystyle \left|x-{\frac {\,p\,}{q}}\right|\geq {\frac {1}{\,d\,q\,}}>{\frac {1}{\,2^{n-1}q\,}}\geq {\frac {1}{\;q^{n}\,}}~.}
+  Therefore, in the case 
+  
+    
+      
+         
+        
+          |
+          
+            c
+            
+            q
+            −
+            d
+            
+            p
+          
+          |
+        
+        >
+        0
+         
+      
+    
+    {\displaystyle ~\left|c\,q-d\,p\right|>0~}
+   such pair of integers 
+  
+    
+      
+         
+        (
+        
+        p
+        ,
+        
+        q
+        
+        )
+         
+      
+    
+    {\displaystyle ~(\,p,\,q\,)~}
+   would violate the second inequality in the definition of a Liouville number, for some positive integer n.
+Therefore, to conclude, there is no pair of integers 
+  
+    
+      
+         
+        (
+        
+        p
+        ,
+        
+        q
+        
+        )
+         
+        ,
+      
+    
+    {\displaystyle ~(\,p,\,q\,)~,}
+   with 
+  
+    
+      
+         
+        q
+        >
+        1
+         
+        ,
+      
+    
+    {\displaystyle ~q>1~,}
+   that would qualify such an 
+  
+    
+      
+         
+        x
+        =
+        c
+        
+          /
+        
+        d
+         
+        ,
+      
+    
+    {\displaystyle ~x=c/d~,}
+   as a Liouville number.
+Hence a Liouville number, if it exists, cannot be rational.
+(The section on Liouville's constant proves that Liouville numbers exist by exhibiting the construction of one.  The proof given in this section implies that this number must be irrational.)
+
+Uncountability
+Consider, for example, the number
+
+3.1400010000000000000000050000....3.14(3 zeros)1(17 zeros)5(95 zeros)9(599 zeros)2(4319 zeros)6...
+where the digits are zero except in positions n! where the digit equals the nth digit following the decimal point in the decimal expansion of π.
+As shown in the section on the existence of Liouville numbers, this number, as well as any other non-terminating decimal with its non-zero digits similarly situated, satisfies the definition of a Liouville number. Since the set of all sequences of non-null digits has the cardinality of the continuum, the same thing occurs with the set of all Liouville numbers.
+Moreover, the Liouville numbers form a dense subset of the set of real numbers.
+
+Liouville numbers and measure
+From the point of view of measure theory, the set of all Liouville numbers 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   is small. More precisely, its Lebesgue measure, 
+  
+    
+      
+        λ
+        (
+        L
+        )
+      
+    
+    {\displaystyle \lambda (L)}
+  , is zero. The proof given follows some ideas by John C. Oxtoby.: 8 For positive integers 
+  
+    
+      
+        n
+        >
+        2
+      
+    
+    {\displaystyle n>2}
+   and 
+  
+    
+      
+        q
+        ≥
+        2
+      
+    
+    {\displaystyle q\geq 2}
+   set:
+
+  
+    
+      
+        
+          V
+          
+            n
+            ,
+            q
+          
+        
+        =
+        
+          ⋃
+          
+            p
+            =
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+        
+          (
+          
+            
+              
+                p
+                q
+              
+            
+            −
+            
+              
+                1
+                
+                  q
+                  
+                    n
+                  
+                
+              
+            
+            ,
+            
+              
+                p
+                q
+              
+            
+            +
+            
+              
+                1
+                
+                  q
+                  
+                    n
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle V_{n,q}=\bigcup \limits _{p=-\infty }^{\infty }\left({\frac {p}{q}}-{\frac {1}{q^{n}}},{\frac {p}{q}}+{\frac {1}{q^{n}}}\right)}
+  then
+
+  
+    
+      
+        L
+        ⊆
+        
+          ⋃
+          
+            q
+            =
+            2
+          
+          
+            ∞
+          
+        
+        
+          V
+          
+            n
+            ,
+            q
+          
+        
+        .
+      
+    
+    {\displaystyle L\subseteq \bigcup _{q=2}^{\infty }V_{n,q}.}
+  Observe that for each positive integer 
+  
+    
+      
+        n
+        ≥
+        2
+      
+    
+    {\displaystyle n\geq 2}
+   and 
+  
+    
+      
+        m
+        ≥
+        1
+      
+    
+    {\displaystyle m\geq 1}
+  , then
+
+  
+    
+      
+        L
+        ∩
+        (
+        −
+        m
+        ,
+        m
+        )
+        ⊆
+        
+          ⋃
+          
+            q
+            =
+            2
+          
+          
+            ∞
+          
+        
+        
+          V
+          
+            n
+            ,
+            q
+          
+        
+        ∩
+        (
+        −
+        m
+        ,
+        m
+        )
+        ⊆
+        
+          ⋃
+          
+            q
+            =
+            2
+          
+          
+            ∞
+          
+        
+        
+          ⋃
+          
+            p
+            =
+            −
+            m
+            q
+          
+          
+            m
+            q
+          
+        
+        
+          (
+          
+            
+              
+                p
+                q
+              
+            
+            −
+            
+              
+                1
+                
+                  q
+                  
+                    n
+                  
+                
+              
+            
+            ,
+            
+              
+                p
+                q
+              
+            
+            +
+            
+              
+                1
+                
+                  q
+                  
+                    n
+                  
+                
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle L\cap (-m,m)\subseteq \bigcup \limits _{q=2}^{\infty }V_{n,q}\cap (-m,m)\subseteq \bigcup \limits _{q=2}^{\infty }\bigcup \limits _{p=-mq}^{mq}\left({\frac {p}{q}}-{\frac {1}{q^{n}}},{\frac {p}{q}}+{\frac {1}{q^{n}}}\right).}
+  Since
+
+  
+    
+      
+        
+          |
+          
+            
+              (
+              
+                
+                  
+                    p
+                    q
+                  
+                
+                +
+                
+                  
+                    1
+                    
+                      q
+                      
+                        n
+                      
+                    
+                  
+                
+              
+              )
+            
+            −
+            
+              (
+              
+                
+                  
+                    p
+                    q
+                  
+                
+                −
+                
+                  
+                    1
+                    
+                      q
+                      
+                        n
+                      
+                    
+                  
+                
+              
+              )
+            
+          
+          |
+        
+        =
+        
+          
+            2
+            
+              q
+              
+                n
+              
+            
+          
+        
+      
+    
+    {\displaystyle \left|\left({\frac {p}{q}}+{\frac {1}{q^{n}}}\right)-\left({\frac {p}{q}}-{\frac {1}{q^{n}}}\right)\right|={\frac {2}{q^{n}}}}
+  and 
+  
+    
+      
+        n
+        >
+        2
+      
+    
+    {\displaystyle n>2}
+   then
+
+  
+    
+      
+        
+          
+            
+              
+                μ
+                (
+                L
+                ∩
+                (
+                −
+                m
+                ,
+                
+                m
+                )
+                )
+              
+              
+                
+                ≤
+                
+                  ∑
+                  
+                    q
+                    =
+                    2
+                  
+                  
+                    ∞
+                  
+                
+                
+                  ∑
+                  
+                    p
+                    =
+                    −
+                    m
+                    q
+                  
+                  
+                    m
+                    q
+                  
+                
+                
+                  
+                    2
+                    
+                      q
+                      
+                        n
+                      
+                    
+                  
+                
+                =
+                
+                  ∑
+                  
+                    q
+                    =
+                    2
+                  
+                  
+                    ∞
+                  
+                
+                
+                  
+                    
+                      2
+                      (
+                      2
+                      m
+                      q
+                      +
+                      1
+                      )
+                    
+                    
+                      q
+                      
+                        n
+                      
+                    
+                  
+                
+              
+            
+            
+              
+              
+                
+                ≤
+                (
+                4
+                m
+                +
+                1
+                )
+                
+                  ∑
+                  
+                    q
+                    =
+                    2
+                  
+                  
+                    ∞
+                  
+                
+                
+                  
+                    1
+                    
+                      q
+                      
+                        n
+                        −
+                        1
+                      
+                    
+                  
+                
+                ≤
+                (
+                4
+                m
+                +
+                1
+                )
+                
+                  ∫
+                  
+                    1
+                  
+                  
+                    ∞
+                  
+                
+                
+                  
+                    
+                      d
+                      q
+                    
+                    
+                      q
+                      
+                        n
+                        −
+                        1
+                      
+                    
+                  
+                
+                ≤
+                
+                  
+                    
+                      4
+                      m
+                      +
+                      1
+                    
+                    
+                      n
+                      −
+                      2
+                    
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\mu (L\cap (-m,\,m))&\leq \sum _{q=2}^{\infty }\sum _{p=-mq}^{mq}{\frac {2}{q^{n}}}=\sum _{q=2}^{\infty }{\frac {2(2mq+1)}{q^{n}}}\\[6pt]&\leq (4m+1)\sum _{q=2}^{\infty }{\frac {1}{q^{n-1}}}\leq (4m+1)\int _{1}^{\infty }{\frac {dq}{q^{n-1}}}\leq {\frac {4m+1}{n-2}}.\end{aligned}}}
+  Now
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            
+              4
+              m
+              +
+              1
+            
+            
+              n
+              −
+              2
+            
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \lim _{n\to \infty }{\frac {4m+1}{n-2}}=0}
+  and it follows that for each positive integer 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  , 
+  
+    
+      
+        L
+        ∩
+        (
+        −
+        m
+        ,
+        m
+        )
+      
+    
+    {\displaystyle L\cap (-m,m)}
+   has Lebesgue measure zero. Consequently, so has 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  .
+In contrast, the Lebesgue measure of the set of all real transcendental numbers is infinite (since the set of algebraic numbers is a null set).
+
+Structure of the set of Liouville numbers
+For each positive integer n, set
+
+  
+    
+      
+         
+        
+          U
+          
+            n
+          
+        
+        =
+        
+          ⋃
+          
+            q
+            =
+            2
+          
+          
+            ∞
+          
+        
+         
+        
+          ⋃
+          
+            p
+            =
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+         
+        
+          {
+          
+            x
+            ∈
+            
+              R
+            
+            :
+            0
+            <
+            
+              |
+              
+                x
+                −
+                
+                  
+                    p
+                    
+                      
+                      q
+                      
+                    
+                  
+                
+              
+              |
+            
+            <
+            
+              
+                1
+                
+                  
+                  
+                    q
+                    
+                      n
+                    
+                  
+                  
+                
+              
+            
+          
+          }
+        
+        =
+        
+          ⋃
+          
+            q
+            =
+            2
+          
+          
+            ∞
+          
+        
+         
+        
+          ⋃
+          
+            p
+            =
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+         
+        
+          (
+          
+            
+              
+                p
+                q
+              
+            
+            −
+            
+              
+                1
+                
+                  q
+                  
+                    n
+                  
+                
+              
+            
+             
+            ,
+             
+            
+              
+                p
+                
+                  
+                  q
+                  
+                
+              
+            
+            +
+            
+              
+                1
+                
+                  
+                  
+                    q
+                    
+                      n
+                    
+                  
+                  
+                
+              
+            
+          
+          )
+        
+        ∖
+        
+          {
+          
+            
+              p
+              
+                
+                q
+                
+              
+            
+          
+          }
+        
+         
+      
+    
+    {\displaystyle ~U_{n}=\bigcup \limits _{q=2}^{\infty }~\bigcup \limits _{p=-\infty }^{\infty }~\left\{x\in \mathbb {R} :0<\left|x-{\frac {p}{\,q\,}}\right|<{\frac {1}{\;q^{n}\,}}\right\}=\bigcup \limits _{q=2}^{\infty }~\bigcup \limits _{p=-\infty }^{\infty }~\left({\frac {p}{q}}-{\frac {1}{q^{n}}}~,~{\frac {p}{\,q\,}}+{\frac {1}{\;q^{n}\,}}\right)\setminus \left\{{\frac {p}{\,q\,}}\right\}~}
+  The set of all Liouville numbers can thus be written as
+
+  
+    
+      
+         
+        L
+         
+        =
+         
+        
+          ⋂
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          U
+          
+            n
+          
+        
+         
+        =
+         
+        
+          ⋂
+          
+            n
+            ∈
+            
+              
+                N
+              
+              
+                1
+              
+            
+          
+        
+         
+        
+          ⋃
+          
+            q
+            ⩾
+            2
+          
+        
+         
+        
+          ⋃
+          
+            p
+            ∈
+            
+              Z
+            
+          
+        
+        
+        
+          (
+          
+            
+            
+              (
+              
+                
+                
+                  
+                    
+                      
+                      p
+                      
+                    
+                    q
+                  
+                
+                −
+                
+                  
+                    1
+                    
+                      
+                      
+                        q
+                        
+                          n
+                        
+                      
+                      
+                    
+                  
+                
+                 
+                ,
+                 
+                
+                  
+                    
+                      
+                      p
+                      
+                    
+                    q
+                  
+                
+                +
+                
+                  
+                    1
+                    
+                      
+                      
+                        q
+                        
+                          n
+                        
+                      
+                      
+                    
+                  
+                
+                
+              
+              )
+            
+            ∖
+            
+              {
+              
+                
+                
+                  
+                    
+                      
+                      p
+                      
+                    
+                    q
+                  
+                
+                
+              
+              }
+            
+            
+          
+          )
+        
+         
+        .
+      
+    
+    {\displaystyle ~L~=~\bigcap \limits _{n=1}^{\infty }U_{n}~=~\bigcap \limits _{n\in \mathbb {N} _{1}}~\bigcup \limits _{q\geqslant 2}~\bigcup \limits _{p\in \mathbb {Z} }\,\left(\,\left(\,{\frac {\,p\,}{q}}-{\frac {1}{\;q^{n}\,}}~,~{\frac {\,p\,}{q}}+{\frac {1}{\;q^{n}\,}}\,\right)\setminus \left\{\,{\frac {\,p\,}{q}}\,\right\}\,\right)~.}
+  Each 
+  
+    
+      
+         
+        
+          U
+          
+            n
+          
+        
+         
+      
+    
+    {\displaystyle ~U_{n}~}
+   is an open set; as its closure contains all rationals (the 
+  
+    
+      
+         
+        p
+        
+          /
+        
+        q
+         
+      
+    
+    {\displaystyle ~p/q~}
+   from each punctured interval), it is also a dense subset of real line. Since it is the intersection of countably many such open dense sets, L is comeagre, that is to say, it is a dense Gδ set.
+
+Irrationality measure
+The Liouville–Roth irrationality measure (irrationality exponent, approximation exponent, or Liouville–Roth constant) of a real number 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is a measure of how "closely" it can be approximated by rationals. Generalizing the definition of Liouville numbers, instead of allowing any 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   in the power of 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+  , we find the largest possible value for 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+   such that 
+  
+    
+      
+        0
+        <
+        
+          |
+          
+            x
+            −
+            
+              
+                p
+                q
+              
+            
+          
+          |
+        
+        <
+        
+          
+            1
+            
+              q
+              
+                μ
+              
+            
+          
+        
+      
+    
+    {\displaystyle 0<\left|x-{\frac {p}{q}}\right|<{\frac {1}{q^{\mu }}}}
+   is satisfied by an infinite number of coprime integer pairs 
+  
+    
+      
+        (
+        p
+        ,
+        q
+        )
+      
+    
+    {\displaystyle (p,q)}
+   with 
+  
+    
+      
+        q
+        >
+        0
+      
+    
+    {\displaystyle q>0}
+  . This maximum value of 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+   is defined to be the irrationality measure of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  .: 246   For any value 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+   less than this upper bound, the infinite set of all rationals 
+  
+    
+      
+        p
+        
+          /
+        
+        q
+      
+    
+    {\displaystyle p/q}
+   satisfying the above inequality yield an approximation of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  . Conversely, if 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+   is greater than the upper bound, then there are at most finitely many 
+  
+    
+      
+        (
+        p
+        ,
+        q
+        )
+      
+    
+    {\displaystyle (p,q)}
+   with 
+  
+    
+      
+        q
+        >
+        0
+      
+    
+    {\displaystyle q>0}
+   that satisfy the inequality; thus, the opposite inequality holds for all larger values of 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+  . In other words, given the irrationality measure 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+   of a real number 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , whenever a rational approximation 
+  
+    
+      
+        x
+        ≈
+        p
+        
+          /
+        
+        q
+      
+    
+    {\displaystyle x\approx p/q}
+  , 
+  
+    
+      
+        p
+        ,
+        q
+        ∈
+        
+          N
+        
+      
+    
+    {\displaystyle p,q\in \mathbb {N} }
+   yields 
+  
+    
+      
+        n
+        +
+        1
+      
+    
+    {\displaystyle n+1}
+   exact decimal digits, then
+
+  
+    
+      
+        
+          
+            1
+            
+              10
+              
+                n
+              
+            
+          
+        
+        ≥
+        
+          |
+          
+            x
+            −
+            
+              
+                p
+                q
+              
+            
+          
+          |
+        
+        ≥
+        
+          
+            1
+            
+              q
+              
+                μ
+                +
+                ε
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {1}{10^{n}}}\geq \left|x-{\frac {p}{q}}\right|\geq {\frac {1}{q^{\mu +\varepsilon }}}}
+  for any 
+  
+    
+      
+        ε
+        >
+        0
+      
+    
+    {\displaystyle \varepsilon >0}
+  , except for at most a finite number of "lucky"  pairs 
+  
+    
+      
+        (
+        p
+        ,
+        q
+        )
+      
+    
+    {\displaystyle (p,q)}
+  .
+As a consequence of Dirichlet's approximation theorem every irrational number has irrationality measure at least 2. On the other hand, an application of Borel-Cantelli lemma shows that almost all numbers have an irrationality measure equal to 2.: 246 Below is a table of known upper and lower bounds for the irrationality measures of certain numbers.
+
+Irrationality base
+The irrationality base is a measure of irrationality introduced by J. Sondow as an irrationality measure for Liouville numbers. It is defined as follows:
+Let 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   be an irrational number. If there exists a real number 
+  
+    
+      
+        β
+        ≥
+        1
+      
+    
+    {\displaystyle \beta \geq 1}
+   with the property that for any 
+  
+    
+      
+        ε
+        >
+        0
+      
+    
+    {\displaystyle \varepsilon >0}
+  , there is a positive integer 
+  
+    
+      
+        q
+        (
+        ε
+        )
+      
+    
+    {\displaystyle q(\varepsilon )}
+   such that
+
+  
+    
+      
+        
+          |
+          
+            α
+            −
+            
+              
+                p
+                q
+              
+            
+          
+          |
+        
+        >
+        
+          
+            1
+            
+              (
+              β
+              +
+              ε
+              
+                )
+                
+                  q
+                
+              
+            
+          
+        
+        
+           for all integers 
+        
+        p
+        ,
+        q
+        
+           with 
+        
+        q
+        ≥
+        q
+        (
+        ε
+        )
+      
+    
+    {\displaystyle \left|\alpha -{\frac {p}{q}}\right|>{\frac {1}{(\beta +\varepsilon )^{q}}}{\text{ for all integers }}p,q{\text{ with }}q\geq q(\varepsilon )}
+  ,then 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+   is called the irrationality base of 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   and is represented as 
+  
+    
+      
+        β
+        (
+        α
+        )
+      
+    
+    {\displaystyle \beta (\alpha )}
+  
+If no such 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+   exists, then 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   is called a super Liouville number.
+Example: The series 
+  
+    
+      
+        
+          ε
+          
+            2
+            e
+          
+        
+        =
+        1
+        +
+        
+          
+            1
+            
+              2
+              
+                1
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              4
+              
+                
+                  2
+                  
+                    1
+                  
+                
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              8
+              
+                
+                  4
+                  
+                    
+                      2
+                      
+                        1
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              16
+              
+                
+                  8
+                  
+                    
+                      4
+                      
+                        
+                          2
+                          
+                            1
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              32
+              
+                
+                  16
+                  
+                    
+                      8
+                      
+                        
+                          4
+                          
+                            
+                              2
+                              
+                                1
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        +
+        …
+      
+    
+    {\displaystyle \varepsilon _{2e}=1+{\frac {1}{2^{1}}}+{\frac {1}{4^{2^{1}}}}+{\frac {1}{8^{4^{2^{1}}}}}+{\frac {1}{16^{8^{4^{2^{1}}}}}}+{\frac {1}{32^{16^{8^{4^{2^{1}}}}}}}+\ldots }
+   is a super Liouville number, while the series 
+  
+    
+      
+        
+          τ
+          
+            2
+          
+        
+        =
+        
+          ∑
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            1
+            
+              
+                
+                
+                  n
+                
+              
+              2
+            
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        +
+        
+          
+            1
+            
+              2
+              
+                2
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              2
+              
+                
+                  2
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              2
+              
+                
+                  2
+                  
+                    
+                      2
+                      
+                        2
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              2
+              
+                
+                  2
+                  
+                    
+                      2
+                      
+                        
+                          2
+                          
+                            2
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        +
+        …
+      
+    
+    {\displaystyle \tau _{2}=\sum _{n=1}^{\infty }{\frac {1}{^{n}2}}={\frac {1}{2}}+{\frac {1}{2^{2}}}+{\frac {1}{2^{2^{2}}}}+{\frac {1}{2^{2^{2^{2}}}}}+{\frac {1}{2^{2^{2^{2^{2}}}}}}+\ldots }
+   is a Liouville number with irrationality base 2. (
+  
+    
+      
+        
+          
+            
+            
+              b
+            
+          
+          a
+        
+      
+    
+    {\displaystyle {^{b}a}}
+   represents tetration.)
+
+Liouville numbers and transcendence
+Establishing that a given number is a Liouville number provides a useful tool for proving a given number is transcendental. However, not every transcendental number is a Liouville number. The terms in the continued fraction expansion of every Liouville number are unbounded; using a counting argument, one can then show that there must be uncountably many transcendental numbers which are not Liouville. Using the explicit continued fraction expansion of e, one can show that e is an example of a transcendental number that is not Liouville. Mahler proved in 1953 that π is another such example.The proof proceeds by first establishing a property of irrational algebraic numbers. This property essentially says that irrational algebraic numbers cannot be well approximated by rational numbers, where the condition for "well approximated" becomes more stringent for larger denominators. A Liouville number is irrational but does not have this property, so it can't be algebraic and must be transcendental. The following lemma is usually known as Liouville's theorem (on diophantine approximation), there being several results known as Liouville's theorem.
+Below, the proof will show that no Liouville number can be algebraic.
+Lemma: If α is an irrational number which is the root of an irreducible polynomial f of degree n > 0 with integer coefficients, then there exists a real number A > 0 such that, for all integers p, q, with q > 0,
+
+  
+    
+      
+        
+          |
+          
+            α
+            −
+            
+              
+                p
+                q
+              
+            
+          
+          |
+        
+        >
+        
+          
+            A
+            
+              q
+              
+                n
+              
+            
+          
+        
+      
+    
+    {\displaystyle \left|\alpha -{\frac {p}{q}}\right|>{\frac {A}{q^{n}}}}
+  Proof of Lemma: Let M be the maximum value of |f ′(x)| (the absolute value of the derivative of f) over the interval [α − 1, α + 1]. Let α1, α2, ..., αm be the distinct roots of f which differ from α. Select some value A > 0 satisfying
+
+  
+    
+      
+        A
+        <
+        min
+        
+          (
+          
+            1
+            ,
+            
+              
+                1
+                M
+              
+            
+            ,
+            
+              |
+              
+                α
+                −
+                
+                  α
+                  
+                    1
+                  
+                
+              
+              |
+            
+            ,
+            
+              |
+              
+                α
+                −
+                
+                  α
+                  
+                    2
+                  
+                
+              
+              |
+            
+            ,
+            …
+            ,
+            
+              |
+              
+                α
+                −
+                
+                  α
+                  
+                    m
+                  
+                
+              
+              |
+            
+          
+          )
+        
+      
+    
+    {\displaystyle A<\min \left(1,{\frac {1}{M}},\left|\alpha -\alpha _{1}\right|,\left|\alpha -\alpha _{2}\right|,\ldots ,\left|\alpha -\alpha _{m}\right|\right)}
+  Now assume that there exist some integers p, q contradicting the lemma. Then
+
+  
+    
+      
+        
+          |
+          
+            α
+            −
+            
+              
+                p
+                q
+              
+            
+          
+          |
+        
+        ≤
+        
+          
+            A
+            
+              q
+              
+                n
+              
+            
+          
+        
+        ≤
+        A
+        <
+        min
+        
+          (
+          
+            1
+            ,
+            
+              
+                1
+                M
+              
+            
+            ,
+            
+              |
+              
+                α
+                −
+                
+                  α
+                  
+                    1
+                  
+                
+              
+              |
+            
+            ,
+            
+              |
+              
+                α
+                −
+                
+                  α
+                  
+                    2
+                  
+                
+              
+              |
+            
+            ,
+            …
+            ,
+            
+              |
+              
+                α
+                −
+                
+                  α
+                  
+                    m
+                  
+                
+              
+              |
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \left|\alpha -{\frac {p}{q}}\right|\leq {\frac {A}{q^{n}}}\leq A<\min \left(1,{\frac {1}{M}},\left|\alpha -\alpha _{1}\right|,\left|\alpha -\alpha _{2}\right|,\ldots ,\left|\alpha -\alpha _{m}\right|\right)}
+  Then p/q is in the interval [α − 1, α + 1]; and p/q is not in {α1, α2, ..., αm}, so p/q is not a root of f; and there is no root of f between α and p/q.
+By the mean value theorem, there exists an x0 between p/q and α such that
+
+  
+    
+      
+        f
+        (
+        α
+        )
+        −
+        f
+        (
+        
+          
+            
+              p
+              q
+            
+          
+        
+        )
+        =
+        (
+        α
+        −
+        
+          
+            p
+            q
+          
+        
+        )
+        ⋅
+        
+          f
+          ′
+        
+        (
+        
+          x
+          
+            0
+          
+        
+        )
+      
+    
+    {\displaystyle f(\alpha )-f({\tfrac {p}{q}})=(\alpha -{\frac {p}{q}})\cdot f'(x_{0})}
+  Since α is a root of f but p/q is not, it follows that |f ′(x0)| > 0 and can rearrange:
+
+  
+    
+      
+        
+          |
+          
+            α
+            −
+            
+              
+                p
+                q
+              
+            
+          
+          |
+        
+        =
+        
+          
+            
+              |
+              
+                f
+                (
+                α
+                )
+                −
+                f
+                (
+                
+                  
+                    
+                      p
+                      q
+                    
+                  
+                
+                )
+              
+              |
+            
+            
+              
+                |
+              
+              
+                f
+                ′
+              
+              (
+              
+                x
+                
+                  0
+                
+              
+              )
+              
+                |
+              
+            
+          
+        
+        =
+        
+          |
+          
+            
+              
+                f
+                (
+                
+                  
+                    
+                      p
+                      q
+                    
+                  
+                
+                )
+              
+              
+                
+                  f
+                  ′
+                
+                (
+                
+                  x
+                  
+                    0
+                  
+                
+                )
+              
+            
+          
+          |
+        
+      
+    
+    {\displaystyle \left|\alpha -{\frac {p}{q}}\right|={\frac {\left|f(\alpha )-f({\tfrac {p}{q}})\right|}{|f'(x_{0})|}}=\left|{\frac {f({\tfrac {p}{q}})}{f'(x_{0})}}\right|}
+  Now, f is of the form 
+  
+    
+      
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \sum _{i=0}^{n}}
+   ci xi where each ci is an integer; so expressing  |f(p/q)| as
+
+  
+    
+      
+        
+          |
+          
+            f
+            
+              (
+              
+                
+                  p
+                  q
+                
+              
+              )
+            
+          
+          |
+        
+        =
+        
+          |
+          
+            
+              ∑
+              
+                i
+                =
+                0
+              
+              
+                n
+              
+            
+            
+              c
+              
+                i
+              
+            
+            
+              p
+              
+                i
+              
+            
+            
+              q
+              
+                −
+                i
+              
+            
+          
+          |
+        
+        =
+        
+          
+            1
+            
+              q
+              
+                n
+              
+            
+          
+        
+        
+          |
+          
+            
+              ∑
+              
+                i
+                =
+                0
+              
+              
+                n
+              
+            
+            
+              c
+              
+                i
+              
+            
+            
+              p
+              
+                i
+              
+            
+            
+              q
+              
+                n
+                −
+                i
+              
+            
+          
+          |
+        
+        ≥
+        
+          
+            1
+            
+              q
+              
+                n
+              
+            
+          
+        
+      
+    
+    {\displaystyle \left|f\left({\frac {p}{q}}\right)\right|=\left|\sum _{i=0}^{n}c_{i}p^{i}q^{-i}\right|={\frac {1}{q^{n}}}\left|\sum _{i=0}^{n}c_{i}p^{i}q^{n-i}\right|\geq {\frac {1}{q^{n}}}}
+  N.B. the last inequality holds because p/q is not a root of f and the ci are integers.
+Thus, |f(p/q)| ≥ 1/qn. Since |f ′(x0)| ≤ M by the definition of M, and 1/M > A by the definition of A, then
+
+  
+    
+      
+        
+          |
+          
+            α
+            −
+            
+              
+                p
+                q
+              
+            
+          
+          |
+        
+        =
+        
+          |
+          
+            
+              
+                f
+                (
+                
+                  
+                    
+                      p
+                      q
+                    
+                  
+                
+                )
+              
+              
+                
+                  f
+                  ′
+                
+                (
+                
+                  x
+                  
+                    0
+                  
+                
+                )
+              
+            
+          
+          |
+        
+        ≥
+        
+          
+            1
+            
+              M
+              
+                q
+                
+                  n
+                
+              
+            
+          
+        
+        >
+        
+          
+            A
+            
+              q
+              
+                n
+              
+            
+          
+        
+        ≥
+        
+          |
+          
+            α
+            −
+            
+              
+                p
+                q
+              
+            
+          
+          |
+        
+      
+    
+    {\displaystyle \left|\alpha -{\frac {p}{q}}\right|=\left|{\frac {f({\tfrac {p}{q}})}{f'(x_{0})}}\right|\geq {\frac {1}{Mq^{n}}}>{\frac {A}{q^{n}}}\geq \left|\alpha -{\frac {p}{q}}\right|}
+  which is a contradiction; therefore, no such p, q exist; proving the lemma.
+Proof of assertion: As a consequence of this lemma, let x be a Liouville number; as noted in the article text, x is then irrational. If x is algebraic, then by the lemma, there exists some integer n and some positive real A such that for all p, q
+
+  
+    
+      
+        
+          |
+          
+            x
+            −
+            
+              
+                p
+                q
+              
+            
+          
+          |
+        
+        >
+        
+          
+            A
+            
+              q
+              
+                n
+              
+            
+          
+        
+      
+    
+    {\displaystyle \left|x-{\frac {p}{q}}\right|>{\frac {A}{q^{n}}}}
+  Let r be a positive integer such that 1/(2r) ≤ A. If m = r + n, and since x is a Liouville number, then there exist integers a, b where b > 1 such that
+
+  
+    
+      
+        
+          |
+          
+            x
+            −
+            
+              
+                a
+                b
+              
+            
+          
+          |
+        
+        <
+        
+          
+            1
+            
+              b
+              
+                m
+              
+            
+          
+        
+        =
+        
+          
+            1
+            
+              b
+              
+                r
+                +
+                n
+              
+            
+          
+        
+        =
+        
+          
+            1
+            
+              
+                b
+                
+                  r
+                
+              
+              
+                b
+                
+                  n
+                
+              
+            
+          
+        
+        ≤
+        
+          
+            1
+            
+              2
+              
+                r
+              
+            
+          
+        
+        
+          
+            1
+            
+              b
+              
+                n
+              
+            
+          
+        
+        ≤
+        
+          
+            A
+            
+              b
+              
+                n
+              
+            
+          
+        
+      
+    
+    {\displaystyle \left|x-{\frac {a}{b}}\right|<{\frac {1}{b^{m}}}={\frac {1}{b^{r+n}}}={\frac {1}{b^{r}b^{n}}}\leq {\frac {1}{2^{r}}}{\frac {1}{b^{n}}}\leq {\frac {A}{b^{n}}}}
+  which contradicts the lemma. Hence a Liouville number cannot be algebraic, and therefore must be transcendental.
+
+See also
+Brjuno number
+Diophantine approximation
+
+References
+External links
+The Beginning of Transcendental Numbers

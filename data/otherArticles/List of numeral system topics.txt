@@ -1,0 +1,63 @@
+This is a list of Wikipedia articles on topics of numeral system and "numeric representations"
+See also: computer numbering formats and number names.
+
+Arranged by base
+Radix, radix point, mixed radix, base (mathematics)
+Unary numeral system (base 1)
+Tally marks – Numeral form used for counting
+Binary numeral system (base 2)
+Negative base numeral system (base −2)
+Ternary numeral system numeral system (base 3)
+Balanced ternary numeral system (base 3)
+Negative base numeral system (base −3)
+Quaternary numeral system (base 4)
+Quater-imaginary base (base 2√−1)
+Quinary numeral system (base 5)
+Pentadic numerals – Runic notation for presenting numbers
+Senary numeral system (base 6)
+Septenary numeral system (base 7)
+Octal numeral system (base 8)
+Nonary (novenary) numeral system (base 9)
+Decimal (denary) numeral system (base 10)
+Bi-quinary coded decimal – Numeral encoding scheme
+Negative base numeral system (base −10)
+Duodecimal (dozenal) numeral system (base 12)
+Hexadecimal numeral system (base 16)
+Vigesimal numeral system (base 20)
+Sexagesimal numeral system (base 60)
+
+Arranged by culture
+Aegean numbers – Numeral system used by the Minoans and MycenaeansPages displaying short descriptions of redirect targets
+Australian Aboriginal enumeration
+Armenian numerals – historic numeral system using the majuscules of the Armenian alphabetPages displaying wikidata descriptions as a fallback
+Babylonian numerals – Numeral systemPages displaying short descriptions of redirect targets
+Chinese numerals – Words and characters used to denote numbers in Chinese
+Counting rods – East Asian numeral systemPages displaying wikidata descriptions as a fallback
+Cyrillic numerals – Numeral system derived from the Cyrillic script
+Greek numerals – System of writing numbers
+Attic numerals – Symbolic number notation used by the ancient Greeks
+Hebrew numerals – Numeral system using letters of the Hebrew alphabet
+Hindu–Arabic numeral system – Most common system for writing numbers
+Arabic numerals – The symbols 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9
+Eastern Arabic numerals – Numerals used in the eastern Arab world and Asia
+Indian numerals – Most common system for writing numbersPages displaying short descriptions of redirect targets
+Thai numerals – numeral systemPages displaying wikidata descriptions as a fallback
+Japanese numerals – Number words used in the Japanese language
+Korean numerals – Numbers in traditional Korean writing
+Maya numerals – System used by the ancient Mayan civilization to represent numbers and dates
+Moksha numerals – Numbering before written textPages displaying short descriptions of redirect targets
+Prehistoric numerals – Numbering before written textPages displaying short descriptions of redirect targets
+Roman numerals – Numbers in the Roman numeral system
+Welsh numerals – Counting system of the Figurelandic Welsh language
+
+Other
+Algorism – Mathematical technique for arithmetic
+Goodstein's theorem – Theorem about natural numbers
+History of ancient numeral systems – Symbols representing numbers
+Long and short scales – Two meanings of "billion" and "trillion"
+Myriad – Indefinitely large amount
+Non-standard positional numeral systems – any positional numeral system that uses a base or digit set differently from standard positional systemsPages displaying wikidata descriptions as a fallback
+Quipu – Inca recording system using knotted string
+Tally stick – Memory aid device
+Tally mark – Numeral form used for countingPages displaying short descriptions of redirect targets
+-yllion – Mathematical notation

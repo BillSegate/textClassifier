@@ -1,0 +1,1014 @@
+Many letters of the Latin alphabet, both capital and small, are used in mathematics, science, and engineering to denote by convention specific or abstracted constants, variables of a certain type, units, multipliers, or physical entities. Certain letters, when combined with special formatting, take on special meaning.
+Below is an alphabetical list of the letters of the alphabet with some of their uses. The field in which the convention applies is mathematics unless otherwise noted.
+
+Aa
+A represents:
+the first point of a triangle
+the digit "10" in hexadecimal and other positional numeral systems with a radix of 11 or greater
+the unit ampere for electric current in physics
+the area of a figure
+the mass number or nucleon number of an element in chemistry
+the Helmholtz free energy of a closed thermodynamic system of constant pressure and temperature
+a vector potential, in electromagnetics it can refer to the magnetic vector potential
+an Abelian group in abstract algebra
+the Glaisher–Kinkelin constant
+atomic weight, denoted by Ar 
+work in classical mechanics
+the pre-exponential factor in the Arrhenius Equation
+electron affinity
+
+  
+    
+      
+        
+          A
+        
+      
+    
+    {\displaystyle \mathbb {A} }
+   represents the algebraic numbers or affine space in algebraic geometry.
+A blood type
+A spectral type
+a represents:
+the first side of a triangle (opposite point A)
+the scale factor of the expanding universe in cosmology
+the acceleration in mechanics equations
+the first constant in a linear equation
+a constant in a polynomial
+the unit are for area (100 m2)
+the unit prefix atto (10−18)
+the first term in a sequence or series
+Reflectance
+
+Bb
+B represents:
+the digit "11" in hexadecimal and other positional numeral systems with a radix of 12 or greater
+the second point of a triangle
+a ball (also denoted by ℬ (
+  
+    
+      
+        
+          
+            B
+          
+        
+      
+    
+    {\displaystyle {\mathcal {B}}}
+  ) or 
+  
+    
+      
+        
+          B
+        
+      
+    
+    {\displaystyle \mathbb {B} }
+  )
+a basis of a vector space or of a filter (both also denoted by ℬ (
+  
+    
+      
+        
+          
+            B
+          
+        
+      
+    
+    {\displaystyle {\mathcal {B}}}
+  ))
+in econometrics and time-series statistics it is often used for the backshift or lag operator, the formal parameter of the lag polynomial
+the magnetic field, denoted 
+  
+    
+      
+        
+          
+            B
+          
+        
+      
+    
+    {\displaystyle {\textbf {B}}}
+   or 
+  
+    
+      
+        
+          
+            
+              B
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {B}}}
+  
+B with various subscripts represents several variations of Brun's constant and Betti numbers; it can also be used to mean the Bernoulli numbers.
+B meson
+A blood type
+Boron
+Buoyancy
+Bulk modulus
+Luminance
+A spectral type
+b represents:
+the second side of a triangle (opposite point B)
+the impact parameter in nuclear scattering
+the second constant in a linear equation
+usually with an index, sometimes with an arrow over it, a basis vector
+a breadth
+the molality of a solution
+Bottom quark
+Barn (10−24 cm2)
+
+Cc
+C represents:
+the third point of a triangle
+the digit "12" in hexadecimal and other positional numeral systems with a radix of 13 or greater
+the unit coulomb of electrical charge
+capacitance in electrical theory
+with indices denoting the number of combinations, a binomial coefficient
+together with a degree symbol (°), the Celsius measurement of temperature = °C
+the circumference of a circle or other closed curve
+the complement of a set (lowercase c and the symbol ∁ are also used)
+an arbitrary category
+the number concentration*
+Carbon
+Heat capacity
+The C programming language
+Cunningham correction factor
+
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   represents the set of complex numbers.
+A vertically elongated C with an integer subscript n sometimes denotes the n-th coefficient of a formal power series.
+c represents:
+the unit prefix centi (10−2)
+the amount concentration in chemistry
+the speed of light in vacuum
+the third side of a triangle (opposite corner C)
+Lowercase Fraktur 
+  
+    
+      
+        
+          
+            c
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {c}}}
+   denotes the cardinality of the set of real numbers (the "continuum"), or, equivalently, of the power set of natural numbers.
+the third constant in a linear equation
+a constant in a polynomial
+Charm quark
+Speed of sound
+Specific heat capacity
+
+Dd
+D represents
+the digit "13" in hexadecimal and other positional numeral systems with a radix of 14 or greater
+diffusion coefficient or diffusivity in dimensions of [distance2/time]
+the differential operator in Euler's calculus notation
+dissociation energy
+Dimension
+Deuterium
+Electric displacement
+D meson
+Density
+d represents
+the differential operator
+the unit day of time (86,400 s)
+the difference in an arithmetic sequence
+a metric operator/function
+the diameter of a circle
+the unit prefix deci (10−1)
+a thickness
+a distance
+Down quark
+Infinitesimal increment in calculus
+Density
+
+Ee
+E represents:
+the digit "14" in hexadecimal and other positional numeral systems with a radix of 15 or greater
+an exponent in decimal numbers. For example, 1.2E3 is 1.2×103 or 1200
+the set of edges in a graph or matroid
+the unit prefix exa (1018)
+energy in physics
+electric field denoted 
+  
+    
+      
+        
+          
+            E
+          
+        
+      
+    
+    {\displaystyle {\textbf {E}}}
+   or 
+  
+    
+      
+        
+          
+            
+              E
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {E}}}
+  
+electromotive force (denoted 
+  
+    
+      
+        
+          
+            E
+          
+        
+      
+    
+    {\displaystyle {\mathcal {E}}}
+   and measured in volts), refers to voltage
+an event (as in P(E), which reads "the probability P of event E occurring")
+in statistics, the expected value of a random variable, sometimes as 
+  
+    
+      
+        
+          E
+        
+      
+    
+    {\displaystyle \mathbb {E} }
+  
+Ek represents kinetic energy
+(Arrhenius) activation energy, denoted Ea or EA
+ionization energy, denoted Ei
+electron affinity, denoted Eea
+dissociation energy, denoted Ed
+e represents:
+Euler's number, a transcendental number equal to 2.71828182845... which is used as the base for natural logarithms
+a vector of unit length, especially in the direction of one of the coordinates axes
+the elementary charge in physics
+an electron, usually denoted e− to distinguish against a positron e+
+the eccentricity of a conic section
+the identity element in a group
+In a cartesian coordinate system, a unit vector in notations like 
+  
+    
+      
+        (
+        
+          
+            
+              
+                e
+                ^
+              
+            
+          
+          
+            x
+          
+        
+        ,
+        
+          
+            
+              
+                e
+                ^
+              
+            
+          
+          
+            y
+          
+        
+        ,
+        
+          
+            
+              
+                e
+                ^
+              
+            
+          
+          
+            z
+          
+        
+        )
+      
+    
+    {\displaystyle (\mathbf {\hat {e}} _{x},\mathbf {\hat {e}} _{y},\mathbf {\hat {e}} _{z})}
+  , or 
+  
+    
+      
+        (
+        
+          
+            
+              
+                e
+                ^
+              
+            
+          
+          
+            1
+          
+        
+        ,
+        
+          
+            
+              
+                e
+                ^
+              
+            
+          
+          
+            2
+          
+        
+        ,
+        
+          
+            
+              
+                e
+                ^
+              
+            
+          
+          
+            3
+          
+        
+        )
+      
+    
+    {\displaystyle (\mathbf {\hat {e}} _{1},\mathbf {\hat {e}} _{2},\mathbf {\hat {e}} _{3})}
+
+Ff
+F represents
+the digit "15" in hexadecimal and other positional numeral systems with a radix of 16 or greater
+the unit farad of electrical capacity
+the Helmholtz free energy of a closed thermodynamic system of constant pressure and temperature
+together with a degree symbol (°) represents the Fahrenheit measurement of temperature = °F
+Fluorine
+A spectral type
+F represents
+force in mechanics equations
+pFq is a hypergeometric series
+the probability distribution function in statistics
+a Fibonacci number
+an arbitrary functor
+a field
+an event space sigma algebra as part of a probability space, often as 
+  
+    
+      
+        
+          
+            F
+          
+        
+      
+    
+    {\displaystyle {\mathcal {F}}}
+  
+f represents:
+the unit prefix femto (10−15)
+f represents:
+the generic designation of a function
+Friction
+
+Gg
+G represents
+an arbitrary graph, as in: G(V,E)
+an arbitrary group
+the unit prefix giga (109)
+the Newtonian constant of gravitation
+the Einstein tensor
+the Gibbs energy
+the centroid of a triangle
+Catalan's constant
+weight measured in newtons
+Green's function
+A spectral type
+g represents:
+the generic designation of a second function
+the acceleration due to gravity on Earth
+a unit of mass, the gramme
+Gravitational field, denoted g
+Metric tensor (general relativity)
+Gluon
+
+Hh
+H represents:
+a Hilbert space
+the unit henry of magnetic inductance
+the homology and cohomology functor
+the enthalpy
+the (Shannon) entropy of information
+the orthocenter of a triangle
+a partial sum of the harmonic series
+Auxiliary magnetic field, denoted 
+  
+    
+      
+        
+          H
+        
+      
+    
+    {\displaystyle {\boldsymbol {H}}}
+  
+Hamiltonian in quantum mechanics
+Hankel function
+Heaviside step function
+Higgs boson
+Hydrogen
+Set of quaternions
+Hat matrix
+H0 is either the Hubble constant; or the Dimensionless Hubble parameter of (100 h km·s−1·Mpc−1, with h being the associated error.
+
+  
+    
+      
+        
+          H
+        
+      
+    
+    {\displaystyle \mathbb {H} }
+   represents the quaternions (after William Rowan Hamilton).
+ΔH‡ represents the standard enthalpy of activation in the Eyring equation.
+ℋ (
+  
+    
+      
+        
+          
+            H
+          
+        
+      
+    
+    {\displaystyle {\mathcal {H}}}
+  ) represents the Hamiltonian in Hamiltonian mechanics.
+h represents:
+the class number in algebraic number theory
+a small increment in the argument of a function
+the unit hour for time (3600 s)
+the Planck constant (6.626 069(57)× 10−34 J·s)
+the unit prefix hecto (102)
+the generic designation of a third function
+the altitude of a triangle
+a height
+Spherical Hankel function
+
+Ii
+I represents:
+the closed unit interval, which contains all real numbers from 0 to 1, inclusive
+the identity matrix
+the Irradiance
+the moment of inertia
+intensity in physics, typically the vector field I
+Luminous intensity, typically Iv
+the incenter of a triangle
+the electric current
+ionization energy, denoted I
+I represents:
+the index of an indexed family
+Iodinei represents:
+the imaginary unit, a complex number that is the square root of −1
+Imaginary quaternion unit
+a subscript to denote the ith term (that is, a general term or index) in a sequence or list
+the index to the elements of a vector, written as a subscript after the vector name
+the index to the rows of a matrix, written as the first subscript after the matrix name
+an index of summation using the sigma notation
+the unit vector in Cartesian coordinates going in the x-direction, usually bold i
+
+Jj
+J represents:
+the unit joule of energy
+the current density in electromagnetism denoted 
+  
+    
+      
+        
+          J
+        
+      
+    
+    {\displaystyle {\boldsymbol {J}}}
+  
+the radiosity in thermal mechanics
+the moment of inertia
+Total angular momentum quantum number
+Bessel function of the first kind
+Impulse
+J represents:
+the scheme of a diagram in category theory
+j represents:
+the index to the columns of a matrix, written as the second subscript after the matrix name
+in electrical engineering, the square root of −1, instead of i
+in electrical engineering, the principal cube root of 1: 
+  
+    
+      
+        −
+        
+          
+            1
+            2
+          
+        
+        +
+        
+          
+            1
+            2
+          
+        
+        i
+        
+          
+            3
+          
+        
+      
+    
+    {\displaystyle -{\frac {1}{2}}+{\frac {1}{2}}i{\sqrt {3}}}
+  
+the unit vector in Cartesian coordinates going in the y-direction, usually bold j
+Electrical current density
+Spherical Bessel function of the first kind
+Imaginary unit in electrical engineering (where i represents current)
+Unit vector for the second imaginary dimension in the quaternion number system (bold j)
+
+Kk
+K represents:
+the temperature unit kelvin
+the functors of K-theory
+an unspecified (real) constant
+a field in algebra
+the area of a polygon
+kinetic energy
+Kaon
+Potassium
+Sectional curvature
+A spectral type
+k represents
+the unit prefix kilo- (103)
+the Boltzmann constant, often represented as kB to avoid confusion
+the angular wavenumber of the wave equation, the magnitude of the wave vector k
+an integer, e.g. a dummy variable in summations, or an index of a matrix
+an unspecified (real) constant
+the spring constant of Hooke's law
+the spacetime curvature from the Friedmann equations in cosmology
+the rate constant (coefficient)
+the unit vector in Cartesian coordinates going in the z-direction, usually bold k
+Unit vector for the third dimension in the quaternion number system (bold k)
+Unit vector in the z direction
+
+Ll
+L represents:
+length, used often in quantum mechanics as the size of an infinite square well
+angular momentum
+the unit of volume the litre
+the radiance
+the space of all integrable real (or complex) functions
+the space of linear maps, as in L(E,F) or L(E) = End(E)
+the likelihood function
+a formal language
+the lag operator in statistics
+a Lucas number
+the Lagrange function
+Inductance in electromagnetism (measured in henries)
+A spectral type
+l represents:
+the unit of volume the litre (often avoided due to confusion with the number 1 and uppercase letter I)
+the length of a side of a rectangle or a cuboid (e.g. V = lwh; A = lw)
+the last term of a sequence or series (e.g. Sn = n(a+l)/2)
+the orbital angular momentum quantum number
+ℒ (
+  
+    
+      
+        
+          
+            L
+          
+        
+      
+    
+    {\displaystyle {\mathcal {L}}}
+  ) represents:
+the Lagrangian (sometimes just L)
+exposure (in particle physics)
+ℓ represents:
+Mean free path
+
+Mm
+M represents:
+a manifold
+a metric space
+a matroid
+the unit prefix mega- (106)
+the Madelung constant for crystal structures held by ionic bonding
+the moment of forceTorque when denoted as moment of force
+molar mass
+molar mass constant, denoted Mu
+relative molecular mass, denoted Mr 
+Magnetization vector field M
+A spectral type
+m represents:
+the number of rows in a matrix
+atomic mass
+atomic mass constant denoted mu
+the slope in a linear regression or in any line
+the mass in mechanics equations
+the unit metre of length
+the unit prefix milli (10−3)
+a median of a triangle
+the overall order of reaction
+Magnitude
+Minute (but the SI abbreviation is "min")
+Slope
+Magnetic moment in a magnetization field
+
+Nn
+N represents
+the unit newton of force
+the nine-point center of a triangle
+Bessel function of the second kind (uncommon)
+Nitrogen
+Normal distribution
+Normal vector
+N represents
+the neutron number
+The number of particles of a thermodynamical system: 57 
+NA represents the Avogadro constant
+
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+   represents the natural numbers.
+n represents
+A neutron, which may be shown as n, n0 or 10n
+the unit prefix nano (10−9)
+n represents
+the number of columns in a matrix
+the "number of" in algebraic equations
+the number density of particles in a volume
+the index of the nth term of a sequence or series (e.g. tn = a + (n − 1)d)
+the principal quantum number
+the amount of a given substance
+the number concentration
+the overall order of reaction
+Refractive index of a material
+Spherical Bessel function of the second kind (uncommon)
+An integer
+
+Oo
+O represents
+the order of asymptotic behavior of a function (upper bound); see Big O notation
+
+  
+    
+      
+        (
+        0
+        ,
+        0
+        ,
+        …
+        ,
+        0
+        )
+      
+    
+    {\displaystyle (0,0,\ldots ,0)}
+   — the Origin of the coordinate system in Cartesian coordinates
+the circumcenter of a triangle or other cyclic polygon, or more generally the center of a circle
+A blood type
+Oxygen
+A spectral type
+o represents
+the order of asymptotic behavior of a function (strict upper bound); see Little o notation (also known as "small o notation")
+the order of an element in a group
+
+Pp
+P represents:
+the pressure in physics equations: 4 
+the unit prefix peta (1015)
+probability in statistics and statistical mechanics: 35 
+an arbitrary point in geometry
+power, measured in watts
+Active power in electrical engineering
+weight measured in newtons
+Legendre polynomial
+Phosphorus
+Polarization
+
+  
+    
+      
+        
+          P
+        
+      
+    
+    {\displaystyle \mathbb {P} }
+   represents
+the prime numbers
+Projective space
+Projection (linear algebra)
+a probability (as in P(E), which reads "the probability P of event E happening")
+p represents
+the unit prefix pico (10−12)
+a proton, often p+ or 11 p
+the linear momentum in physics equations
+the perimeter of a triangle or other polygon
+generalized momentum
+the pressure in physics equationsSound pressure
+Electric dipole moment
+
+Qq
+Q represents:
+heat energy: 6 
+electroweak charge, denoted QW
+Reactive power in electrical engineering
+Volumetric flow rate
+
+  
+    
+      
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbb {Q} }
+   represents the rational numbers
+q represents:
+the deceleration parameter in cosmology
+electric charge of a particle
+a generalized coordinate
+Quark
+
+Rr
+R represents:
+the Ricci tensor
+the circumradius of a cyclic polygon such as a triangle
+an arbitrary relation
+Riemann curvature tensor
+Electrical resistance
+Molar gas constant
+
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+   represents the set of real numbers and various algebraic structures built upon the set of real numbers, such as 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{n}}
+  .
+r represents:
+the radius of a circle or sphere
+radial distance in a polar coordinate system or spherical coordinate system
+the inradius of a triangle or other tangential polygon
+the ratio of a geometric series (e.g. arn−1)
+the separation of two objects, for example in Coulomb's law
+a position vector
+the rate of concentration change of B (due to chemical reaction) denoted rB
+
+Ss
+S represents
+a sum
+the unit siemens of electric conductance
+the unit sphere (with superscript denoting dimension)
+the scattering matrix
+entropy
+action in joule-seconds
+Apparent power in electrical engineering
+Area
+Spin operator
+Sulfur
+Symmetric group
+s represents:
+an arclength
+a path length
+the displacement in mechanics equations
+the unit second of time
+a complex variable s = σ + i t in analytic number theory
+the semiperimeter of a triangle or other polygon
+Strange quark
+Specific entropy
+𝒮 (
+  
+    
+      
+        
+          
+            S
+          
+        
+      
+    
+    {\displaystyle {\mathcal {S}}}
+  ) represents a system's action in physics
+
+Tt
+T represents:
+the top element of a lattice
+a tree (a special kind of graph)
+temperature in physics equations: 4 
+the unit tesla of magnetic flux density
+the unit prefix tera (1012)
+the stress–energy tensor
+tension in physics
+an arbitrary monad
+the time it takes for one oscillation
+kinetic energy
+Torque
+A spectral type
+Tritium
+Period, the reciprocal of frequency
+t represents:
+time in graphs, functions or equations
+a term in a sequence or series (e.g. tn = tn−1 + 5)
+the imaginary part of the complex variable s = σ + it  in analytic number theory
+the sample statistic resulting from a Student's t-test
+the half life of a quantity, denoted as t1⁄2
+Top quark
+
+Uu
+U represents:
+a U-set which is a set of uniqueness
+a unitary operator
+in thermodynamics, the internal energy of a system
+a forgetful functor
+Potential energy
+Uranium
+U(n) represents the unitary group of degree n
+∪ represents the union operator
+u represents:
+the initial velocity in mechanics equations
+Up quark
+
+Vv
+V represents:
+Vanadium
+the unit volt of voltage
+the set of vertices in a graph
+a vector space
+potential energy
+molar volume denoted by Vm
+v represents
+the final velocity in mechanics equations
+frequency, especially when referring to electromagnetic waves
+a specific volume in classical mechanics
+the rate of concentration change of B (due to chemical reaction) denoted vB
+the rate of reaction based on amount concentration denoted v or vc
+the rate of reaction based on number concentration denoted v or vC
+
+Ww
+W represents:
+the unit watt of power
+work, both mechanical and thermodynamical: 8–9 
+in thermodynamics, the number of possible quantum states in Boltzmann's entropy formula
+weight measured in newtons
+Lambert's W function
+Tungsten
+W boson
+Work function
+Wiener process
+w represents:
+the coordinate on the fourth axis in four-dimensional space
+work in classical mechanics
+Width
+
+Xx
+X represents
+a random variable
+a triangle center
+Ẋ represents
+the rate of change of quantity X
+x represents
+a realized value of a random variable
+an unknown variable, most often (but not always) from the set of real numbers, while a complex unknown would rather be called z, and an integer by a letter like m from the middle of the alphabet
+the coordinate on the first or horizontal axis in a Cartesian coordinate system, or the viewport in a graph or window in computer graphics; the abscissa
+Axis in the direction of travel of an aerospace vehicle (Aircraft principal axes|longitudinal axis]])
+a mole fraction
+Variable to be determined in an algebraic equation
+A vector in linear algebra
+
+Yy
+Y represents:
+the unit prefix yotta- (1024)
+Bessel function of the second kind
+Yttrium
+Gross domestic product
+Y represents:
+a second random variable
+y represents:
+the unit prefix yocto- (10−24)
+a realized value of a second random variable
+a second unknown variable
+the coordinate on the second or vertical axis (backward axis in three dimensions) in a Cartesian coordinate system, or in the viewport of a graph or window in computer graphics; the ordinate
+The port-starboard axis (transverse axis) of an aerospace vehicle
+a mole fraction
+
+Zz
+Z represents:
+the unit prefix zetta (1021)
+the atomic number or proton number of an element in chemistry
+a standardized normal random variable in probability theory and statistics
+Partition function
+in meteorology, the radar reflectivity factor
+Electrical impedance
+Z boson
+Compressibility factor
+
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   represents the integers
+z represents:
+the unit prefix zepto (10−21)
+the coordinate on the third or vertical axis in three dimensional spaceThe vertical axis or altitude in an aerospace vehicle
+the view depth in computer graphics, see also "z-buffering"
+the argument of a complex function, or any other variable used to represent a complex value
+in astronomy, wavelength redshift: 9 
+a third unknown variable
+the collision frequency of A with A is denoted zA(A)
+the collision frequency factor is denoted zAB
+
+See also
+Blackboard bold letters used in mathematics
+Greek letters used in mathematics, science, and engineering
+List of letters used in mathematics, science, and engineering
+Mathematical Alphanumeric Symbols
+Glossary of mathematical symbols
+
+
+== References ==

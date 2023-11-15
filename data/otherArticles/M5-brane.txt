@@ -1,0 +1,4 @@
+In theoretical physics, an M5-brane is a brane which carries magnetic charge, and the dual under electric-magnetic duality is the M2-brane. M5-brane is analogous to the NS5-brane in string theory. In addition, it is a soliton solution to M-theory.
+
+References
+https://ncatlab.org/nlab/show/M5-brane

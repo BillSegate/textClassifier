@@ -1,0 +1,12 @@
+An 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+  -net or epsilon net in mathematics may refer to:
+
+ε-net (computational geometry) in computational geometry and in geometric probability theory
+ε-net (metric spaces) in metric spaces

@@ -1,0 +1,9 @@
+The age of the captain is a mathematical word problem which cannot be answered even though there seems to be plenty of information supplied. It was given for the first time by Gustave Flaubert in a letter to his sister Caroline in 1841:
+More recently, a simpler version has been used to study how students react to word problems:
+
+A captain owns 26 sheep and 10 goats. How old is the captain?
+
+Many children in elementary school, from different parts of the world, attempt to  "solve" this nonsensical problem by giving the answer 36, obtained by adding the numbers 26 and 10. It has been suggested that this indicates schooling and education fail to instill critical thinking in children, and do not teach them that a question may be unsolvable. However, others have countered that in education students are taught that all questions have a solution and that giving any answer is better than leaving it blank, hence the attempt to "solve" it.
+
+
+== References ==

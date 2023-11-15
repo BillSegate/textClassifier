@@ -1,0 +1,127 @@
+The Mathematics Subject Classification (MSC) is an alphanumerical classification scheme that has collaboratively been produced by staff of, and based on the coverage of, the two major mathematical reviewing databases, Mathematical Reviews and Zentralblatt MATH. The MSC is used by many mathematics journals, which ask authors of research papers and expository articles to list subject codes from the Mathematics Subject Classification in their papers. The current version is MSC2020.
+
+Structure
+The MSC is a hierarchical scheme, with three levels of structure. A classification can be two, three or five digits long, depending on how many levels of the classification scheme are used.
+The first level is represented by a two-digit number, the second by a letter, and the third by another two-digit number. For example:
+
+53 is the classification for differential geometry
+53A is the classification for classical differential geometry
+53A45 is the classification for vector and tensor analysis
+
+First level
+At the top level, 64 mathematical disciplines are labeled with a unique two-digit number. In addition to the typical areas of mathematical research, there are top-level categories for "History and Biography", "Mathematics Education", and for the overlap with different sciences. Physics (i.e. mathematical physics) is particularly well represented in the classification scheme with a number of different categories including:
+
+Fluid mechanics
+Quantum mechanics
+Geophysics
+Optics and electromagnetic theoryAll valid MSC classification codes must have at least the first-level identifier.
+
+Second level
+The second-level codes are a single letter from the Latin alphabet. These represent specific areas covered by the first-level discipline. The second-level codes vary from discipline to discipline.
+For example, for differential geometry, the top-level code is 53, and the second-level codes are:
+
+A for classical differential geometry
+B for local differential geometry
+C for global differential geometry
+D for symplectic geometry and contact geometryIn addition, the special second-level code "-" is used for specific kinds of materials. These codes are of the form:
+
+53-00 General reference works (handbooks, dictionaries, bibliographies, etc.)
+53-01 Instructional exposition (textbooks, tutorial papers, etc.)
+53-02 Research exposition (monographs, survey articles)
+53-03 Historical (must also be assigned at least one classification number from Section 01)
+53-04 Explicit machine computation and programs (not the theory of computation or programming)
+53-06 Proceedings, conferences, collections, etc.The second and third level of these codes are always the same - only the first level changes. For example, it is not valid to use 53- as a classification. Either 53 on its own or, better yet, a more specific code should be used.
+
+Third level
+Third-level codes are the most specific, usually corresponding to a specific kind of mathematical object or a well-known problem or research area.
+The third-level code 99 exists in every category and means none of the above, but in this section.
+
+Using the scheme
+The AMS recommends that papers submitted to its journals for publication have one primary classification and one or more optional secondary classifications. A typical MSC subject class line on a research paper looks like
+MSC Primary 03C90; Secondary 03-02;
+
+History
+According to the American Mathematical Society (AMS) help page about MSC, the MSC has been revised a number of times since 1940. Based on a scheme to organize AMS's Mathematical Offprint Service (MOS scheme), the AMS Classification was established for the classification of reviews in Mathematical Reviews in the 1960s. It saw various ad-hoc changes. Despite its shortcomings, Zentralblatt für Mathematik started to use it as well in the 1970s. In the late 1980s, a jointly revised scheme with more formal rules was agreed upon by Mathematical Reviews and Zentralblatt für Mathematik under the new name Mathematics Subject Classification. It saw various revisions as MSC1990, MSC2000 and MSC2010. In July 2016, Mathematical Reviews and zbMATH started collecting input from the mathematical community on the next revision of MSC, which was released as MSC2020 in January 2020.The original classification of older items has not been changed. This can sometimes make it difficult to search for older works dealing with particular topics. Changes at the first level involved the subjects with (present) codes 03, 08, 12-20, 28, 37, 51, 58, 74, 90, 91, 92.
+
+Relation to other classification schemes
+For physics papers the Physics and Astronomy Classification Scheme (PACS) is often used. Due to the large overlap between mathematics and physics research it is quite common to see both PACS and MSC codes on research papers, particularly for multidisciplinary journals and repositories such as the arXiv.
+The ACM Computing Classification System (CCS) is a similar hierarchical classification scheme for computer science. There is some overlap between the AMS and ACM classification schemes, in subjects related to both mathematics and computer science, however the two schemes differ in the details of their organization of those topics.
+The classification scheme used on the arXiv is chosen to reflect the papers submitted. As arXiv is multidisciplinary its classification scheme does not fit entirely with the MSC, ACM or PACS classification schemes. It is common to see codes from one or more of these schemes on individual papers.
+
+First-level areas
+00: General (Includes topics such as recreational mathematics, philosophy of mathematics and mathematical modeling.)
+01: History and biography
+03: Mathematical logic and foundations (including model theory, computability theory, set theory, proof theory, and algebraic logic)
+05: Combinatorics
+06: Order, lattices, ordered algebraic structures
+08: General algebraic systems
+11: Number theory
+12: Field theory and polynomials
+13: Commutative algebra (Commutative rings and algebras)
+14: Algebraic geometry
+15: Linear and multilinear algebra; matrix theory
+16: Associative rings and (associative) algebras
+17: Non-associative rings and (non-associative) algebras
+18: Category theory; homological algebra
+19: K-theory
+20: Group theory and generalizations
+22: Topological groups, Lie groups (and analysis upon them)
+26: Real functions (including derivatives and integrals)
+28: Measure and integration
+30: Functions of a complex variable (including approximation theory in the complex domain)
+31: Potential theory
+32: Several complex variables and analytic spaces
+33: Special functions
+34: Ordinary differential equations
+35: Partial differential equations
+37: Dynamical systems and ergodic theory
+39: Difference (equations) and functional equations
+40: Sequences, series, summability
+41: Approximations and expansions
+42: Harmonic analysis on Euclidean spaces (including Fourier analysis, Fourier transforms, trigonometric approximation, trigonometric interpolation, and orthogonal functions)
+43: Abstract harmonic analysis
+44: Integral transforms, operational calculus
+45: Integral equations
+46: Functional analysis (including infinite-dimensional holomorphy, integral transforms in distribution spaces)
+47: Operator theory
+49: Calculus of variations and optimal control; optimization (including geometric integration theory)
+51: Geometry
+52: Convex (geometry) and discrete geometry
+53: Differential geometry
+54: General topology
+55: Algebraic topology
+57: Manifolds and cell complexes
+58: Global analysis, analysis on manifolds (including infinite-dimensional holomorphy)
+60: Probability theory and stochastic processes
+62: Statistics
+65: Numerical analysis
+68: Computer science
+70: Mechanics of particles and systems (including particle mechanics)
+74: Mechanics of deformable solids
+76: Fluid mechanics
+78: Optics, electromagnetic theory
+80: Classical thermodynamics, heat transfer
+81: Quantum theory
+82: Statistical mechanics, structure of matter
+83: Relativity and gravitational theory (including relativistic mechanics)
+85: Astronomy and astrophysics
+86: Geophysics
+90: Operations research, mathematical programming
+91: Game theory, economics, social and behavioral sciences
+92: Biology and other natural sciences
+93: Systems theory; control (including optimal control)
+94: Information and communication, circuits
+97: Mathematics education
+
+See also
+Areas of mathematics
+Mathematical knowledge management
+MathSciNet
+
+References
+External links
+MSC2020-Mathematical Sciences Classification System (PDF of MSC2020)
+The Zentralblatt MATH page on the Mathematics Subject Classification. MSC2020 can be seen here.
+Mathematics Subject Classification 2010 – the site where the MSC2010 revision was carried out publicly in an MSCwiki. A view of the whole scheme and the changes made from MSC2000, as well as PDF files of the MSC and ancillary documents are there. A personal copy of the MSC in TiddlyWiki form can be had also.
+The American Mathematical Society page on the Mathematics Subject Classification.
+Rusin, Dave. "A Gentle Introduction to the Mathematics Subject Classification Scheme". Mathematical Atlas. Archived from the original on 2015-05-16.

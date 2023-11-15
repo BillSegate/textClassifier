@@ -1,0 +1,19 @@
+Veṇvāroha is a work in Sanskrit composed by Mādhava  of Sangamagrāma (c. 1350 – c. 1425), the founder of the Kerala school of astronomy and mathematics. It is a work in 74 verses describing methods for the computation of the true positions of the Moon at intervals of about half an hour for various days in an anomalistic cycle. This work is an elaboration of an earlier and shorter work of Mādhava himself titled Sphutacandrāpti. Veṇvāroha is the most popular astronomical work of Mādhava.
+
+Etymology
+The title Veṇvāroha literally means 'Bamboo Climbing' (Veṇu 'bamboo' + āroha 'climbing') and it is indicative of the computational procedure expounded in the text. The computational scheme is like climbing a bamboo tree, going up and up step by step at measured equal heights.
+
+Overview
+It is dated 1403 CE. Acyuta Piṣārati (1550–1621), another prominent mathematician/astronomer of the Kerala school, has composed a Malayalam commentary on Veṇvāroha. This astronomical treatise is of a type generally described as Karaṇa texts in India. Such works are characterized by the fact that they are compilations of computational methods of practical astronomy.
+The novelty and ingenuity of the method attracted the attention of several of the followers of Mādhava and they composed similar texts thereby creating a genre of works in Indian mathematical tradition  collectively referred to as ‘veṇvāroha texts’. These include Drik-veṇvārohakriya of unknown authorship of epoch 1695 and Veṇvārohastaka of Putuman Somāyaji.In the technical terminology of astronomy, the ingenuity introduced by Mādhava in Veṇvāroha can be explained thus: Mādhava has endeavored   to compute the true longitude of the Moon by making use of the true motions rather than the epicyclic astronomy of the Aryabhata tradition. He made  use of the anomalistic revolutions for computing the true positions of the Moon using the successive true daily velocity specified in Candravākyas (Table of Moon-mnemonics) for easy memorization and use.Veṇvāroha has been studied from a modern perspective and the process is explained using the properties of periodic functions.
+
+See also
+Indian mathematics
+Indian mathematicians
+Kerala school of astronomy and mathematics
+Madhava of Sangamagrama
+
+References
+Further reading
+For a fuller technical account of the contents of Veṇvāroha see : K. Chandra Hari. "Computation of the true moon by Madhava of Sangamagrama" (PDF). Indian Journal of History of Science. 38 (3): 231–253. Retrieved 21 March 2010.
+Veṇvāroha with the Malayalam commentary of Achyuta Pisharati has been edited by K.V. Sarma and published by Sanskrit College, Thrippunithura, Kerala, India in 1956.

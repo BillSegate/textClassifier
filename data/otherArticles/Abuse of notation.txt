@@ -1,0 +1,436 @@
+In mathematics, abuse of notation occurs when an author uses a mathematical notation in a way that is not entirely formally correct, but which might help simplify the exposition or suggest the correct intuition (while possibly minimizing errors and confusion at the same time). However, since the concept of formal/syntactical correctness depends on both time and context, certain notations in mathematics that are flagged as abuse in one context could be formally correct in one or more other contexts. Time-dependent abuses of notation may occur when novel notations are introduced to a theory some time before the theory is first formalized; these may be formally corrected by solidifying and/or otherwise improving the theory. Abuse of notation should be contrasted with misuse of notation, which does not have the presentational benefits of the former and should be avoided (such as the misuse of constants of integration).
+ A related concept is abuse of language or abuse of terminology, where a term — rather than a notation — is misused. Abuse of language is an almost synonymous expression for abuses that are non-notational by nature. For example, while the word representation properly designates a group homomorphism from a group G to GL(V), where V is a vector space, it is common to call V "a representation of G". Another common abuse of language consists in identifying two mathematical objects that are different, but canonically isomorphic. Other examples include identifying a constant function with its value, identifying a group with a binary operation with the name of its underlying set, or identifying to 
+  
+    
+      
+        
+          
+            R
+          
+          
+            3
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{3}}
+   the Euclidean space of dimension three equipped with a Cartesian coordinate system.
+
+Examples
+Structured mathematical objects
+Many mathematical objects consist of a set, often called the underlying set, equipped with some additional structure, such as a mathematical operation or a topology. It is a common abuse of notation to use the same notation for the underlying set and the structured object (a phenomenon known as suppression of parameters). For example, 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   may denote the set of the integers, the group of integers together with addition, or the ring of integers with addition and multiplication. In general, there is no problem with this if the object under reference is well understood, and avoiding such an abuse of notation might even make mathematical texts more pedantic and more difficult to read. When this abuse of notation may be confusing, one may distinguish between these structures by denoting 
+  
+    
+      
+        (
+        
+          Z
+        
+        ,
+        +
+        )
+      
+    
+    {\displaystyle (\mathbb {Z} ,+)}
+   the group of integers with addition, and 
+  
+    
+      
+        (
+        
+          Z
+        
+        ,
+        +
+        ,
+        ⋅
+        )
+      
+    
+    {\displaystyle (\mathbb {Z} ,+,\cdot )}
+   the ring of integers.
+Similarly, a topological space consists of a set X (the underlying set) and a topology 
+  
+    
+      
+        
+          
+            T
+          
+        
+        ,
+      
+    
+    {\displaystyle {\mathcal {T}},}
+   which is characterized by a set of subsets of X (the open sets). Most frequently, one considers only one topology on X, so there is usually no problem in referring X as both the underlying set, and the pair consisting of X and its topology 
+  
+    
+      
+        
+          
+            T
+          
+        
+      
+    
+    {\displaystyle {\mathcal {T}}}
+   — even though they are technically distinct mathematical objects. Nevertheless, it could occur on some occasions that two different topologies are considered simultaneously on the same set. In which case, one must exercise care and use notation such as 
+  
+    
+      
+        (
+        X
+        ,
+        
+          
+            T
+          
+        
+        )
+      
+    
+    {\displaystyle (X,{\mathcal {T}})}
+   and 
+  
+    
+      
+        (
+        X
+        ,
+        
+          
+            
+              T
+            
+          
+          ′
+        
+        )
+      
+    
+    {\displaystyle (X,{\mathcal {T}}')}
+   to distinguish between the different topological spaces.
+
+Function notation
+One may encounter, in many textbooks, sentences such as "Let 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+   be a function ...". This is an abuse of notation, as the name of the function is 
+  
+    
+      
+        f
+        ,
+      
+    
+    {\displaystyle f,}
+   and 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+   denotes the value of 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   for the element 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   of its domain. More precisely correct phrasings include "Let 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   be a function of the variable 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   ..." or "Let 
+  
+    
+      
+        x
+        ↦
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle x\mapsto f(x)}
+   be a function ..."  This abuse of notation is widely used, as it simplifies the formulation, and the systematic use of a correct notation quickly becomes pedantic.
+A similar abuse of notation occurs in sentences such as "Let us consider the function 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        x
+        +
+        1
+      
+    
+    {\displaystyle x^{2}+x+1}
+   ...", when in fact 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        x
+        +
+        1
+      
+    
+    {\displaystyle x^{2}+x+1}
+   is a polynomial expression, not a function per se. The function that associates 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        x
+        +
+        1
+      
+    
+    {\displaystyle x^{2}+x+1}
+   to 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   can be denoted 
+  
+    
+      
+        x
+        ↦
+        
+          x
+          
+            2
+          
+        
+        +
+        x
+        +
+        1.
+      
+    
+    {\displaystyle x\mapsto x^{2}+x+1.}
+   Nevertheless, this abuse of notation is widely used, since it is more concise but generally not confusing.
+
+Equality vs. isomorphism
+Many mathematical structures are defined through a characterizing property (often a universal property). Once this desired property is defined, there may be various ways to construct the structure, and the corresponding results are formally different objects, but which have exactly the same properties (i.e., isomorphic). As there is no way to distinguish these isomorphic objects through their properties, it is standard to consider them as equal, even if this is formally wrong.One example of this is the Cartesian product, which is often seen as associative:
+
+  
+    
+      
+        (
+        E
+        ×
+        F
+        )
+        ×
+        G
+        =
+        E
+        ×
+        (
+        F
+        ×
+        G
+        )
+        =
+        E
+        ×
+        F
+        ×
+        G
+      
+    
+    {\displaystyle (E\times F)\times G=E\times (F\times G)=E\times F\times G}
+  .But this is strictly speaking not true: if 
+  
+    
+      
+        x
+        ∈
+        E
+      
+    
+    {\displaystyle x\in E}
+  , 
+  
+    
+      
+        y
+        ∈
+        F
+      
+    
+    {\displaystyle y\in F}
+   and 
+  
+    
+      
+        z
+        ∈
+        G
+      
+    
+    {\displaystyle z\in G}
+  , the identity 
+  
+    
+      
+        (
+        (
+        x
+        ,
+        y
+        )
+        ,
+        z
+        )
+        =
+        (
+        x
+        ,
+        (
+        y
+        ,
+        z
+        )
+        )
+      
+    
+    {\displaystyle ((x,y),z)=(x,(y,z))}
+   would imply that 
+  
+    
+      
+        (
+        x
+        ,
+        y
+        )
+        =
+        x
+      
+    
+    {\displaystyle (x,y)=x}
+   and 
+  
+    
+      
+        z
+        =
+        (
+        y
+        ,
+        z
+        )
+      
+    
+    {\displaystyle z=(y,z)}
+  , and so 
+  
+    
+      
+        (
+        (
+        x
+        ,
+        y
+        )
+        ,
+        z
+        )
+        =
+        (
+        x
+        ,
+        y
+        ,
+        z
+        )
+      
+    
+    {\displaystyle ((x,y),z)=(x,y,z)}
+   would mean nothing. However, these equalities can be legitimized and made rigorous in category theory—using the idea of a natural isomorphism.
+Another example of similar abuses occurs in statements such as "there are two non-Abelian groups of order 8", which more strictly stated means "there are two isomorphism classes of non-Abelian groups of order 8".
+
+Equivalence classes
+Referring to an equivalence class of an equivalence relation by x instead of [x] is an abuse of notation. Formally, if a set X is partitioned by an equivalence relation ~, then for each x ∈ X, the equivalence class {y ∈ X | y ~ x} is denoted [x]. But in practice, if the remainder of the discussion is focused on the equivalence classes rather than the individual elements of the underlying set, then it is common to drop the square brackets in the discussion.
+For example, in modular arithmetic, a finite group of order n can be formed by partitioning the integers via the equivalence relation "x ~ y if and only if x ≡ y (mod n)". The elements of that group would then be [0], [1], ..., [n − 1], but in practice they are usually denoted simply as 0, 1, ..., n − 1.
+Another example is the space of (classes of) measurable functions over a measure space, or classes of Lebesgue integrable functions, where the equivalence relation is equality "almost everywhere".
+
+Subjectivity
+The terms "abuse of language" and "abuse of notation" depend on context. Writing "f : A → B" for a partial function from A to B is almost always an abuse of notation, but not in a category theoretic context, where f can be seen as a morphism in the category of sets and partial functions.
+
+See also
+Mathematical notation
+Misnomer
+
+
+== References ==

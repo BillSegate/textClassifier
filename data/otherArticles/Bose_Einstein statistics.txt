@@ -1,0 +1,996 @@
+In quantum statistics, Bose–Einstein statistics (B–E statistics) describes one of two possible ways in which a collection of non-interacting identical particles may occupy a set of available discrete energy states at thermodynamic equilibrium. The aggregation of particles in the same state, which is a characteristic of particles obeying Bose–Einstein statistics, accounts for the cohesive streaming of laser light and the frictionless creeping of superfluid helium. The theory of this behaviour was developed (1924–25) by Satyendra Nath Bose, who recognized that a collection of identical and indistinguishable particles can be distributed in this way. The idea was later adopted and extended by Albert Einstein in collaboration with Bose.
+Bose–Einstein statistics apply only to particles that do not follow the Pauli exclusion principle restrictions. Particles that follow Bose-Einstein statistics are called bosons, which have integer values of spin. In contrast, particles that follow Fermi-Dirac statistics are called fermions and have half-integer spins.
+
+Bose–Einstein distribution
+At low temperatures, bosons behave differently from fermions (which obey the Fermi–Dirac statistics) in a way that an unlimited number of them can "condense" into the same energy state. This apparently unusual property also gives rise to the special state of matter – the Bose–Einstein condensate. Fermi–Dirac and Bose–Einstein statistics apply when quantum effects are important and the particles are "indistinguishable". Quantum effects appear if the concentration of particles satisfies
+
+where N is the number of particles, V is the volume, and nq is the quantum concentration, for which the interparticle distance is equal to the thermal de Broglie wavelength, so that the wavefunctions of the particles are barely overlapping.
+Fermi–Dirac statistics applies to fermions (particles that obey the Pauli exclusion principle), and Bose–Einstein statistics applies to bosons. As the quantum concentration depends on temperature, most systems at high temperatures obey the classical (Maxwell–Boltzmann) limit, unless they also have a very high density, as for a white dwarf. Both Fermi–Dirac and Bose–Einstein become Maxwell–Boltzmann statistics at high temperature or at low concentration.
+Bose–Einstein statistics was introduced for photons in 1924 by Bose and generalized to atoms by Einstein in 1924–25.
+The expected number of particles in an energy state i for Bose–Einstein statistics is:
+
+with εi > μ and where ni is the occupation number (the number of particles) in state i, 
+  
+    
+      
+        
+          g
+          
+            i
+          
+        
+      
+    
+    {\displaystyle g_{i}}
+   is the degeneracy of energy level i, εi is the energy of the i-th state, μ is the chemical potential (zero for a photon gas), kB is the Boltzmann constant, and T is the absolute temperature.
+The variance of this distribution 
+  
+    
+      
+        V
+        (
+        n
+        )
+      
+    
+    {\displaystyle V(n)}
+   is calculated directly from the expression above for the average number.
+For comparison, the average number of fermions with energy 
+  
+    
+      
+        
+          ε
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{i}}
+   given by Fermi–Dirac particle-energy distribution has a similar form:
+
+As mentioned above, both the Bose–Einstein distribution and the Fermi–Dirac distribution approaches the Maxwell–Boltzmann distribution in the limit of high temperature and low particle density, without the need for any ad hoc assumptions:
+
+In the limit of low particle density, 
+  
+    
+      
+        
+          
+            
+              
+                n
+                ¯
+              
+            
+          
+          
+            i
+          
+        
+        =
+        
+          
+            
+              g
+              
+                i
+              
+            
+            
+              
+                e
+                
+                  (
+                  
+                    ε
+                    
+                      i
+                    
+                  
+                  −
+                  μ
+                  )
+                  
+                    /
+                  
+                  
+                    k
+                    
+                      B
+                    
+                  
+                  T
+                
+              
+              ±
+              1
+            
+          
+        
+        ≪
+        1
+      
+    
+    {\displaystyle {\bar {n}}_{i}={\frac {g_{i}}{e^{(\varepsilon _{i}-\mu )/k_{\text{B}}T}\pm 1}}\ll 1}
+  , therefore 
+  
+    
+      
+        
+          e
+          
+            (
+            
+              ε
+              
+                i
+              
+            
+            −
+            μ
+            )
+            
+              /
+            
+            
+              k
+              
+                B
+              
+            
+            T
+          
+        
+        ±
+        1
+        ≫
+        1
+      
+    
+    {\displaystyle e^{(\varepsilon _{i}-\mu )/k_{\text{B}}T}\pm 1\gg 1}
+   or equivalently 
+  
+    
+      
+        
+          e
+          
+            (
+            
+              ε
+              
+                i
+              
+            
+            −
+            μ
+            )
+            
+              /
+            
+            
+              k
+              
+                B
+              
+            
+            T
+          
+        
+        ≫
+        1
+      
+    
+    {\displaystyle e^{(\varepsilon _{i}-\mu )/k_{\text{B}}T}\gg 1}
+  . In that case, 
+  
+    
+      
+        
+          
+            
+              
+                n
+                ¯
+              
+            
+          
+          
+            i
+          
+        
+        ≈
+        
+          
+            
+              g
+              
+                i
+              
+            
+            
+              e
+              
+                (
+                
+                  ε
+                  
+                    i
+                  
+                
+                −
+                μ
+                )
+                
+                  /
+                
+                
+                  k
+                  
+                    B
+                  
+                
+                T
+              
+            
+          
+        
+        =
+        
+          
+            1
+            Z
+          
+        
+        
+          e
+          
+            −
+            
+              ε
+              
+                i
+              
+            
+            
+              /
+            
+            
+              k
+              
+                B
+              
+            
+            T
+          
+        
+      
+    
+    {\displaystyle {\bar {n}}_{i}\approx {\frac {g_{i}}{e^{(\varepsilon _{i}-\mu )/k_{\text{B}}T}}}={\frac {1}{Z}}e^{-\varepsilon _{i}/k_{\text{B}}T}}
+  , which is the result from Maxwell–Boltzmann statistics.
+In the limit of high temperature, the particles are distributed over a large range of energy values, therefore the occupancy on each state (especially the high energy ones with 
+  
+    
+      
+        
+          ε
+          
+            i
+          
+        
+        −
+        μ
+        ≫
+        
+          k
+          
+            B
+          
+        
+        T
+      
+    
+    {\displaystyle \varepsilon _{i}-\mu \gg k_{\text{B}}T}
+  ) is again very small, 
+  
+    
+      
+        
+          
+            
+              
+                n
+                ¯
+              
+            
+          
+          
+            i
+          
+        
+        =
+        
+          
+            
+              g
+              
+                i
+              
+            
+            
+              
+                e
+                
+                  (
+                  
+                    ε
+                    
+                      i
+                    
+                  
+                  −
+                  μ
+                  )
+                  
+                    /
+                  
+                  
+                    k
+                    
+                      B
+                    
+                  
+                  T
+                
+              
+              ±
+              1
+            
+          
+        
+        ≪
+        1
+      
+    
+    {\displaystyle {\bar {n}}_{i}={\frac {g_{i}}{e^{(\varepsilon _{i}-\mu )/k_{\text{B}}T}\pm 1}}\ll 1}
+  . This again reduces to Maxwell–Boltzmann statistics.In addition to reducing to the Maxwell–Boltzmann distribution in the limit of high 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   and low density, Bose–Einstein statistics also reduces to Rayleigh–Jeans law distribution for low energy states with  
+  
+    
+      
+        
+          ε
+          
+            i
+          
+        
+        −
+        μ
+        ≪
+        
+          k
+          
+            B
+          
+        
+        T
+      
+    
+    {\displaystyle \varepsilon _{i}-\mu \ll k_{\text{B}}T}
+  , namely
+
+History
+Władysław Natanson in 1911 concluded that Planck's law requires indistinguishability of "units of energy", although he did not frame this in terms of Einstein's light quanta.While presenting a lecture at the University of Dhaka (in what was then British India and is now Bangladesh) on the theory of radiation and the ultraviolet catastrophe, Satyendra Nath Bose intended to show his students that the contemporary theory was inadequate, because it predicted results not in accordance with experimental results. During this lecture, Bose committed an error in applying the theory, which unexpectedly gave a prediction that agreed with the experiment. The error was a simple mistake—similar to arguing that flipping two fair coins will produce two heads one-third of the time—that would appear obviously wrong to anyone with a basic understanding of statistics (remarkably, this error resembled the famous blunder by d'Alembert known from his Croix ou Pile article). However, the results it predicted agreed with experiment, and Bose realized it might not be a mistake after all. For the first time, he took the position that the Maxwell–Boltzmann distribution would not be true for all microscopic particles at all scales. Thus, he studied the probability of finding particles in various states in phase space, where each state is a little patch having phase volume of h3, and the position and momentum of the particles are not kept particularly separate but are considered as one variable.
+Bose adapted this lecture into a short article called "Planck's law and the hypothesis of light quanta" and submitted it to the Philosophical Magazine. However, the referee's report was negative, and the paper was rejected. Undaunted, he sent the manuscript to Albert Einstein requesting publication in the Zeitschrift für Physik. Einstein immediately agreed, personally translated the article from English into German (Bose had earlier translated Einstein's article on the general theory of relativity from German to English), and saw to it that it was published. Bose's theory achieved respect when Einstein sent his own paper in support of Bose's to Zeitschrift für Physik, asking that they be published together. The paper came out in 1924.The reason Bose produced accurate results was that since photons are indistinguishable from each other, one cannot treat any two photons having equal quantum numbers (e.g., polarization and momentum vector) as being two distinct identifiable photons. Bose originally had a factor of 2 for the possible spin states, but Einstein changed it to polarization. By analogy, if in an alternate universe coins were to behave like photons and other bosons, the probability of producing two heads would indeed be one-third, and so is the probability of getting a head and a tail which equals one-half for the conventional (classical, distinguishable) coins. Bose's "error" leads to what is now called Bose–Einstein statistics.
+Bose and Einstein extended the idea to atoms and this led to the prediction of the existence of phenomena which became known as Bose–Einstein condensate, a dense collection of bosons (which are particles with integer spin, named after Bose), which was demonstrated to exist by experiment in 1995.
+
+Derivation
+Derivation from the microcanonical ensemble
+In the microcanonical ensemble, one considers a system with fixed energy, volume, and number of particles. We take a system composed of 
+  
+    
+      
+        N
+        =
+        
+          ∑
+          
+            i
+          
+        
+        
+          n
+          
+            i
+          
+        
+      
+    
+    {\textstyle N=\sum _{i}n_{i}}
+   identical bosons, 
+  
+    
+      
+        
+          n
+          
+            i
+          
+        
+      
+    
+    {\displaystyle n_{i}}
+   of which have energy 
+  
+    
+      
+        
+          ε
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{i}}
+   and are distributed over 
+  
+    
+      
+        
+          g
+          
+            i
+          
+        
+      
+    
+    {\displaystyle g_{i}}
+   levels or states with the same energy 
+  
+    
+      
+        
+          ε
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{i}}
+  , i.e. 
+  
+    
+      
+        
+          g
+          
+            i
+          
+        
+      
+    
+    {\displaystyle g_{i}}
+   is the degeneracy associated with energy 
+  
+    
+      
+        
+          ε
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{i}}
+   of total energy 
+  
+    
+      
+        E
+        =
+        
+          ∑
+          
+            i
+          
+        
+        
+          n
+          
+            i
+          
+        
+        
+          ε
+          
+            i
+          
+        
+      
+    
+    {\textstyle E=\sum _{i}n_{i}\varepsilon _{i}}
+  . Calculation of the number of arrangements of 
+  
+    
+      
+        
+          n
+          
+            i
+          
+        
+      
+    
+    {\displaystyle n_{i}}
+   particles distributed among 
+  
+    
+      
+        
+          g
+          
+            i
+          
+        
+      
+    
+    {\displaystyle g_{i}}
+   states is a problem of combinatorics. Since particles are indistinguishable in the quantum mechanical context here, the number of ways for arranging 
+  
+    
+      
+        
+          n
+          
+            i
+          
+        
+      
+    
+    {\displaystyle n_{i}}
+   particles in 
+  
+    
+      
+        
+          g
+          
+            i
+          
+        
+      
+    
+    {\displaystyle g_{i}}
+   boxes (for the 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  th energy level) would be (see image):
+
+where 
+  
+    
+      
+        
+          C
+          
+            k
+          
+          
+            m
+          
+        
+      
+    
+    {\displaystyle C_{k}^{m}}
+   is the k-combination of a set with m elements. The total number of arrangements in an ensemble of bosons is simply the product of the binomial coefficients 
+  
+    
+      
+        
+          C
+          
+            
+              n
+              
+                i
+              
+            
+          
+          
+            
+              n
+              
+                i
+              
+            
+            +
+            
+              g
+              
+                i
+              
+            
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle C_{n_{i}}^{n_{i}+g_{i}-1}}
+   above over all the energy levels, i.e.
+
+The maximum number of arrangements determining the corresponding occupation number 
+  
+    
+      
+        
+          n
+          
+            i
+          
+        
+      
+    
+    {\displaystyle n_{i}}
+   is obtained by maximizing the entropy, or equivalently, setting 
+  
+    
+      
+        
+          d
+        
+        (
+        ln
+        ⁡
+        
+          W
+          
+            BE
+          
+        
+        )
+        =
+        0
+      
+    
+    {\displaystyle \mathrm {d} (\ln W_{\text{BE}})=0}
+   and taking the subsidiary conditions 
+  
+    
+      
+        N
+        =
+        ∑
+        
+          n
+          
+            i
+          
+        
+        ,
+        E
+        =
+        
+          ∑
+          
+            i
+          
+        
+        
+          n
+          
+            i
+          
+        
+        
+          ε
+          
+            i
+          
+        
+      
+    
+    {\textstyle N=\sum n_{i},E=\sum _{i}n_{i}\varepsilon _{i}}
+   into account (as Lagrange multipliers). The result for 
+  
+    
+      
+        
+          n
+          
+            i
+          
+        
+        ≫
+        1
+      
+    
+    {\displaystyle n_{i}\gg 1}
+  , 
+  
+    
+      
+        
+          g
+          
+            i
+          
+        
+        ≫
+        1
+      
+    
+    {\displaystyle g_{i}\gg 1}
+  , 
+  
+    
+      
+        
+          n
+          
+            i
+          
+        
+        
+          /
+        
+        
+          g
+          
+            i
+          
+        
+        =
+        O
+        (
+        1
+        )
+      
+    
+    {\displaystyle n_{i}/g_{i}=O(1)}
+   is the Bose–Einstein distribution.
+
+Derivation from the grand canonical ensemble
+The Bose–Einstein distribution, which applies only to a quantum system of non-interacting bosons, is naturally derived from the grand canonical ensemble without any approximations. In this ensemble, the system is able to exchange energy and exchange particles with a reservoir (temperature T and chemical potential µ fixed by the reservoir).
+Due to the non-interacting quality, each available single-particle level (with energy level ϵ) forms a separate thermodynamic system in contact with the reservoir. That is, the number of particles within the overall system that occupy a given single particle state form a sub-ensemble that is also grand canonical ensemble; hence, it may be analysed through the construction of a grand partition function.
+Every single-particle state is of a fixed energy, 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+  . As the sub-ensemble associated with a single-particle state varies by the number of particles only, it is clear that the total energy of the sub-ensemble is also directly proportional to the number of particles in the single-particle state; where 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   is the number of particles, the total energy of the sub-ensemble will then be 
+  
+    
+      
+        N
+        ε
+      
+    
+    {\displaystyle N\varepsilon }
+  . Beginning with the standard expression for a grand partition function and replacing 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   with 
+  
+    
+      
+        N
+        ε
+      
+    
+    {\displaystyle N\varepsilon }
+  , the grand partition function takes the form
+
+This formula applies to fermionic systems as well as bosonic systems. Fermi–Dirac statistics arises when considering the effect of the Pauli exclusion principle: whilst the number of fermions occupying the same single-particle state can only be either 1 or 0, the number of bosons occupying a single particle state may be any integer. Thus, the grand partition function for bosons can be considered a geometric series and may be evaluated as such:
+
+Note that the geometric series is convergent only if 
+  
+    
+      
+        
+          e
+          
+            (
+            μ
+            −
+            ε
+            )
+            
+              /
+            
+            
+              k
+              
+                B
+              
+            
+            T
+          
+        
+        <
+        1
+      
+    
+    {\displaystyle e^{(\mu -\varepsilon )/k_{\text{B}}T}<1}
+  , including the case where 
+  
+    
+      
+        ϵ
+        =
+        0
+      
+    
+    {\displaystyle \epsilon =0}
+  . This implies that the chemical potential for the Bose gas must be negative, i.e., 
+  
+    
+      
+        μ
+        <
+        0
+      
+    
+    {\displaystyle \mu <0}
+  , whereas the Fermi gas is allowed to take both positive and negative values for the chemical potential.The average particle number for that single-particle substate is given by
+
+This result applies for each single-particle level and thus forms the Bose–Einstein distribution for the entire state of the system.The variance in particle number, 
+  
+    
+      
+        
+          σ
+          
+            N
+          
+          
+            2
+          
+        
+        =
+        ⟨
+        
+          N
+          
+            2
+          
+        
+        ⟩
+        −
+        ⟨
+        N
+        
+          ⟩
+          
+            2
+          
+        
+      
+    
+    {\textstyle \sigma _{N}^{2}=\langle N^{2}\rangle -\langle N\rangle ^{2}}
+  , is:
+
+As a result, for highly occupied states the standard deviation of the particle number of an energy level is very large, slightly larger than the particle number itself: 
+  
+    
+      
+        
+          σ
+          
+            N
+          
+        
+        ≈
+        ⟨
+        N
+        ⟩
+      
+    
+    {\displaystyle \sigma _{N}\approx \langle N\rangle }
+  . This large uncertainty is due to the fact that the probability distribution for the number of bosons in a given energy level is a geometric distribution; somewhat counterintuitively, the most probable value for N is always 0. (In contrast, classical particles have instead a Poisson distribution in particle number for a given state, with a much smaller uncertainty of 
+  
+    
+      
+        
+          σ
+          
+            N
+            ,
+            
+              
+                c
+                l
+                a
+                s
+                s
+                i
+                c
+                a
+                l
+              
+            
+          
+        
+        =
+        
+          
+            ⟨
+            N
+            ⟩
+          
+        
+      
+    
+    {\textstyle \sigma _{N,{\rm {classical}}}={\sqrt {\langle N\rangle }}}
+  , and with the most-probable N value being near 
+  
+    
+      
+        ⟨
+        N
+        ⟩
+      
+    
+    {\displaystyle \langle N\rangle }
+  .)
+
+Derivation in the canonical approach
+It is also possible to derive approximate Bose–Einstein statistics in the canonical ensemble. These derivations are lengthy and only yield the above results in the asymptotic limit of a large number of particles. The reason is that the total number of bosons is fixed in the canonical ensemble. The Bose–Einstein distribution in this case can be derived as in most texts by maximization, but the mathematically best derivation is by the Darwin–Fowler method of mean values as emphasized by Dingle. See also Müller-Kirsten. The fluctuations of the ground state in the condensed region are however markedly different in the canonical and grand-canonical ensembles.
+
+Interdisciplinary applications
+Viewed as a pure probability distribution, the Bose–Einstein distribution has found application in other fields:
+
+In recent years, Bose–Einstein statistics has also been used as a method for term weighting in information retrieval. The method is one of a collection of DFR ("Divergence From Randomness") models, the basic notion being that Bose–Einstein statistics may be a useful indicator in cases where a particular term and a particular document have a significant relationship that would not have occurred purely by chance. Source code for implementing this model is available from the Terrier project at the University of Glasgow.
+The evolution of many complex systems, including the World Wide Web, business, and citation networks, is encoded in the dynamic web describing the interactions between the system's constituents. Despite their irreversible and nonequilibrium nature these networks follow Bose statistics and can undergo Bose–Einstein condensation. Addressing the dynamical properties of these nonequilibrium systems within the framework of equilibrium quantum gases predicts that the "first-mover-advantage", "fit-get-rich" (FGR) and "winner-takes-all" phenomena observed in competitive systems are thermodynamically distinct phases of the underlying evolving networks.
+
+See also
+Bose–Einstein correlations
+Bose–Einstein condensate
+Bose gas
+Einstein solid
+Higgs boson
+Parastatistics
+Planck's law of black body radiation
+Superconductivity
+Fermi–Dirac statistics
+Maxwell–Boltzmann statistics
+
+Notes
+References
+Annett, James F. (2004). Superconductivity, Superfluids and Condensates. New York: Oxford University Press. ISBN 0-19-850755-0.
+Carter, Ashley H. (2001). Classical and Statistical Thermodynamics. Upper Saddle River, New Jersey: Prentice Hall. ISBN 0-13-779208-5.
+Griffiths, David J. (2005). Introduction to Quantum Mechanics (2nd ed.). Upper Saddle River, New Jersey: Pearson, Prentice Hall. ISBN 0-13-191175-9.
+McQuarrie, Donald A. (2000). Statistical Mechanics (1st ed.). Sausalito, California 94965: University Science Books. p. 55. ISBN 1-891389-15-7.{{cite book}}:  CS1 maint: location (link)

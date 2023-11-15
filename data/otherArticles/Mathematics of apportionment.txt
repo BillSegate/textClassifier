@@ -1,0 +1,3061 @@
+Mathematics of apportionment describes mathematical principles and algorithms for fair allocation of identical items among parties with different entitlements. Such principles are used to apportion seats in parliaments among federal states or political parties. See apportionment (politics) for the more concrete principles and issues related to apportionment, and apportionment by country for practical methods used around the world.
+Mathematically, an apportionment method is just a method of rounding fractions to integers. As simple as it may sound, each and every method for rounding suffers from one or more paradoxes. The mathematical theory of apportionment aims to decide what paradoxes can be avoided, or in other words, what properties can be expected from an apportionment method.
+The mathematical theory of apportionment was studied as early as 1907 by the mathematician Agner Krarup Erlang. It was later developed to a great detail by the mathematician Michel Balinsky and the economist Peyton Young. Besides its application to political parties, it is also applicable to fair item allocation when agents have different entitlements. It is also relevant in manpower planning - where jobs should be allocated in proportion to characteristics of the labor pool, to statistics - where the reported rounded numbers of percentages should sum up to 100%, and to bankruptcy problems.
+
+Definitions
+Input
+The inputs to an apportionment method are:
+
+A positive integer 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+   representing the total number of items to allocate. It is also called the house size, since in many cases, the items to allocate are seats in a house of representatives.
+A positive integer 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   representing the number of agents to which items should be allocated. For example, these can be federal states or political parties.
+A vector of numbers 
+  
+    
+      
+        (
+        
+          t
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          t
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle (t_{1},\ldots ,t_{n})}
+   representing entitlements - 
+  
+    
+      
+        
+          t
+          
+            i
+          
+        
+      
+    
+    {\displaystyle t_{i}}
+   represents the entitlement of agent 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  , that is, the amount of items to which 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   is entitled (out of the total of 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  ). These entitlements are often normalized such that 
+  
+    
+      
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          t
+          
+            i
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle \sum _{i=1}^{n}t_{i}=1}
+  . Alternatively, they can be normalized such that their sum is 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  ; in this case the entitlements are called quotas and termed denoted by 
+  
+    
+      
+        
+          q
+          
+            i
+          
+        
+      
+    
+    {\displaystyle q_{i}}
+  , where 
+  
+    
+      
+        
+          q
+          
+            i
+          
+        
+        :=
+        
+          t
+          
+            i
+          
+        
+        ⋅
+        h
+      
+    
+    {\displaystyle q_{i}:=t_{i}\cdot h}
+   and 
+  
+    
+      
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          q
+          
+            i
+          
+        
+        =
+        h
+      
+    
+    {\displaystyle \sum _{i=1}^{n}q_{i}=h}
+  . Alternatively, one is given a vector of populations 
+  
+    
+      
+        (
+        
+          p
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          p
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle (p_{1},\ldots ,p_{n})}
+  ; here, the entitlement of agent 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   is  
+  
+    
+      
+        
+          t
+          
+            i
+          
+        
+        =
+        
+          p
+          
+            i
+          
+        
+        
+          /
+        
+        
+          ∑
+          
+            j
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          p
+          
+            j
+          
+        
+      
+    
+    {\displaystyle t_{i}=p_{i}/\sum _{j=1}^{n}p_{j}}
+  .
+
+Output
+The output is a vector of integers 
+  
+    
+      
+        
+          a
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          a
+          
+            n
+          
+        
+      
+    
+    {\displaystyle a_{1},\ldots ,a_{n}}
+   with 
+  
+    
+      
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          a
+          
+            i
+          
+        
+        =
+        h
+      
+    
+    {\displaystyle \sum _{i=1}^{n}a_{i}=h}
+  , called an apportionment of 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  , where 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+      
+    
+    {\displaystyle a_{i}}
+   is the number of items allocated to agent i.
+For each agent 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  , the real number 
+  
+    
+      
+        
+          q
+          
+            i
+          
+        
+        :=
+        
+          t
+          
+            i
+          
+        
+        ⋅
+        h
+      
+    
+    {\displaystyle q_{i}:=t_{i}\cdot h}
+   is called the quota of 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  , and denotes the exact number of items that should be given to 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  . In general, a "fair" apportionment is one in which each allocation 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+      
+    
+    {\displaystyle a_{i}}
+   is as close as possible to the quota 
+  
+    
+      
+        
+          q
+          
+            i
+          
+        
+      
+    
+    {\displaystyle q_{i}}
+  .
+An apportionment method may return a set of apportionment vectors (in other words: it is a multivalued function). This is required, since in some cases there is no fair way to distinguish between two possible solutions. For example, if 
+  
+    
+      
+        h
+        =
+        101
+      
+    
+    {\displaystyle h=101}
+   (or any other odd number) and 
+  
+    
+      
+        
+          t
+          
+            1
+          
+        
+        =
+        
+          t
+          
+            2
+          
+        
+        =
+        1
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle t_{1}=t_{2}=1/2}
+  , then (50,51) and (51,50) are both equally reasonable solutions, and there is no mathematical way to choose one over the other. While such ties are extremely rare in practice, the theory must account for them (in practice, when an apportionment method returns multiple outputs, one of them may be chosen by some external priority rules, or by coin flipping, but this is beyond the scope of the mathematical apportionment theory).
+An apportionment method is denoted by a multivalued function 
+  
+    
+      
+        M
+        (
+        
+          t
+        
+        ,
+        h
+        )
+      
+    
+    {\displaystyle M(\mathbf {t} ,h)}
+  ; a particular 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  -solution is a single-valued function 
+  
+    
+      
+        f
+        (
+        
+          t
+        
+        ,
+        h
+        )
+      
+    
+    {\displaystyle f(\mathbf {t} ,h)}
+   which selects a single apportionment from 
+  
+    
+      
+        M
+        (
+        
+          t
+        
+        ,
+        h
+        )
+      
+    
+    {\displaystyle M(\mathbf {t} ,h)}
+  .
+A partial apportionment method is an apportionment method for specific fixed values of 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   and 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  ; it is a multivalued function 
+  
+    
+      
+        
+          M
+          
+            ∗
+          
+        
+        (
+        
+          t
+        
+        )
+      
+    
+    {\displaystyle M^{*}(\mathbf {t} )}
+   that accepts only an 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -vectors.
+
+Variants
+Sometimes, the input also contains a vector of integers 
+  
+    
+      
+        
+          r
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          r
+          
+            n
+          
+        
+      
+    
+    {\displaystyle r_{1},\ldots ,r_{n}}
+   representing minimum requirements - 
+  
+    
+      
+        
+          r
+          
+            i
+          
+        
+      
+    
+    {\displaystyle r_{i}}
+   represents the smallest number of items that agent 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   should receive, regardless of its entitlement. So there is an additional requirement on the output: 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        ≥
+        
+          r
+          
+            i
+          
+        
+      
+    
+    {\displaystyle a_{i}\geq r_{i}}
+   for all 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  .
+When the agents are political parties, these numbers are usually 0, so this vector is omitted. But when the agents are states or districts, these numbers are often positive in order to ensure that all are represented. They can be the same for all agents (e.g. 1 for USA states, 2 for France districts), or different (e.g. in Canada or the European parliament).
+Sometimes there is also a vector of maximum requirements, but it is less common.
+
+Basic requirements
+There are basic properties that should be satisfied by any reasonable apportionment method. They were given different names by different authors: the names on the left are from Pukelsheim;: 75  The names in parentheses on the right are from Balinsky and Young.
+Anonymity (=Symmetry) means that the apportionment does not depend on the agents' names or indices. Formally, if 
+  
+    
+      
+        
+          
+            t
+            ′
+          
+        
+      
+    
+    {\displaystyle \mathbf {t'} }
+   is any permutation of 
+  
+    
+      
+        
+          t
+        
+      
+    
+    {\displaystyle \mathbf {t} }
+  , then the apportionments in 
+  
+    
+      
+        M
+        (
+        
+          
+            t
+            ′
+          
+        
+        ,
+        h
+        )
+      
+    
+    {\displaystyle M(\mathbf {t'} ,h)}
+   are exactly the corresponding permutations of the apportionments in 
+  
+    
+      
+        M
+        (
+        
+          t
+        
+        ,
+        h
+        )
+      
+    
+    {\displaystyle M(\mathbf {t} ,h)}
+  .
+This requirement makes sense when there are no minimal requirements, or when the requirements are the same; if they are not the same, then anonymity should hold subject to the requirements being satisfied.
+Balancedness (=Balance) means that if two agents have equal entitlements, then their allocation should differ by at most 1: 
+  
+    
+      
+        
+          t
+          
+            i
+          
+        
+        =
+        
+          t
+          
+            j
+          
+        
+      
+    
+    {\displaystyle t_{i}=t_{j}}
+   implies 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        ≥
+        
+          a
+          
+            j
+          
+        
+        −
+        1
+      
+    
+    {\displaystyle a_{i}\geq a_{j}-1}
+  .
+Concordance (=Weak population monotonicity) means that an agent with a strictly higher entitlement receives at least as many items: 
+  
+    
+      
+        
+          t
+          
+            i
+          
+        
+        >
+        
+          t
+          
+            j
+          
+        
+      
+    
+    {\displaystyle t_{i}>t_{j}}
+   implies 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        ≥
+        
+          a
+          
+            j
+          
+        
+      
+    
+    {\displaystyle a_{i}\geq a_{j}}
+  .
+Decency (=Homogeneity) means that scaling the entitlement vector does not change the outcome. Formally, 
+  
+    
+      
+        M
+        (
+        c
+        ⋅
+        
+          t
+        
+        ,
+        h
+        )
+        =
+        M
+        (
+        
+          t
+        
+        ,
+        h
+        )
+      
+    
+    {\displaystyle M(c\cdot \mathbf {t} ,h)=M(\mathbf {t} ,h)}
+   for every constant c (this is automatically satisfied if the input to the apportionment method is normalized).
+Exactness (=Weak proportionality) means that if there exists a perfect solution, then it must be selected. Formally, if the quota 
+  
+    
+      
+        
+          q
+          
+            i
+          
+        
+        =
+        
+          t
+          
+            i
+          
+        
+        ⋅
+        h
+      
+    
+    {\displaystyle q_{i}=t_{i}\cdot h}
+   of each agent 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   is an integer number, then 
+  
+    
+      
+        M
+        (
+        
+          t
+        
+        ,
+        h
+        )
+      
+    
+    {\displaystyle M(\mathbf {t} ,h)}
+   must contain a unique vector 
+  
+    
+      
+        (
+        
+          q
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          q
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle (q_{1},\ldots ,q_{n})}
+  . In other words, if an h-apportionment 
+  
+    
+      
+        
+          a
+        
+      
+    
+    {\displaystyle \mathbf {a} }
+   is exactly proportional to 
+  
+    
+      
+        
+          t
+        
+      
+    
+    {\displaystyle \mathbf {t} }
+  , then it should be the unique element of 
+  
+    
+      
+        M
+        (
+        
+          t
+        
+        ,
+        h
+        )
+      
+    
+    {\displaystyle M(\mathbf {t} ,h)}
+  .
+Strong exactness: 13  means that exactness also holds "in the limit". That is, if a sequence of entitlement vectors converges to an integer quota vector 
+  
+    
+      
+        (
+        
+          q
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          q
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle (q_{1},\ldots ,q_{n})}
+  , then the only allocation vector in all elements of the sequence is 
+  
+    
+      
+        (
+        
+          q
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          q
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle (q_{1},\ldots ,q_{n})}
+  . To see the difference from weak exactness, consider the following rule. (a) Give each agent its quota rounded down, 
+  
+    
+      
+        ⌊
+        
+          q
+          
+            i
+          
+        
+        ⌋
+      
+    
+    {\displaystyle \lfloor q_{i}\rfloor }
+  ; (b) give the remaining seats iteratively to the largest parties. This rule is weakly exact, but not strongly exact. For example, suppose h=6 and consider the sequence of quota vectors (4+1/k, 2-1/k). The above rule yields the allocation (5,1) for all k, even though the limit when k→∞ is the integer vector (4,2).
+Strong proportionality means that, in addition, if 
+  
+    
+      
+        
+          
+            a
+            ′
+          
+        
+        ∈
+        M
+        (
+        
+          t
+        
+        ,
+        
+          h
+          ′
+        
+        )
+      
+    
+    {\displaystyle \mathbf {a'} \in M(\mathbf {t} ,h')}
+  , and 
+  
+    
+      
+        h
+        <
+        
+          h
+          ′
+        
+      
+    
+    {\displaystyle h<h'}
+  , and there is some h-apportionment 
+  
+    
+      
+        
+          a
+        
+      
+    
+    {\displaystyle \mathbf {a} }
+   that is exactly proportional to 
+  
+    
+      
+        
+          
+            a
+          
+          ′
+        
+      
+    
+    {\displaystyle \mathbf {a} '}
+  , then it should be the unique element of 
+  
+    
+      
+        M
+        (
+        
+          t
+        
+        ,
+        h
+        )
+      
+    
+    {\displaystyle M(\mathbf {t} ,h)}
+  . For example, if one solution in 
+  
+    
+      
+        M
+        (
+        
+          t
+        
+        ,
+        6
+        )
+      
+    
+    {\displaystyle M(\mathbf {t} ,6)}
+   is (3,3), then the only solution in 
+  
+    
+      
+        M
+        (
+        
+          t
+        
+        ,
+        4
+        )
+      
+    
+    {\displaystyle M(\mathbf {t} ,4)}
+   must be (2,2).
+Completeness means that, if some apportionment 
+  
+    
+      
+        
+          a
+        
+      
+    
+    {\displaystyle \mathbf {a} }
+   is returned for a converging sequence of entitlement vectors, then 
+  
+    
+      
+        
+          a
+        
+      
+    
+    {\displaystyle \mathbf {a} }
+   is also returned for their limit vector. In other words, the set 
+  
+    
+      
+        {
+        
+          t
+        
+        
+          |
+        
+        
+          a
+        
+        ∈
+        M
+        (
+        
+          t
+        
+        ,
+        h
+        )
+        }
+      
+    
+    {\displaystyle \{\mathbf {t} |\mathbf {a} \in M(\mathbf {t} ,h)\}}
+   - the set of entitlement vectors for which 
+  
+    
+      
+        
+          a
+        
+      
+    
+    {\displaystyle \mathbf {a} }
+   is a possible apportionment - is topologically closed. An incomplete method can be "completed" by adding the apportionment 
+  
+    
+      
+        
+          a
+        
+      
+    
+    {\displaystyle \mathbf {a} }
+   to any limit entitlement if and only if it belongs to every entitlement in the sequence. The completion of a symmetric and proportional apportionment method is complete, symmetric and proportional.: Prop.2.2 Completeness is violated by methods that apply an external tie-breaking rule, as done by many countries in practice. The tie-breaking rule applies only in the limit case, so it might break the completeness.
+Completeness and weak-exactness together imply strong-exactness. If a complete and weakly-exact method is modified by adding an appropriate tie-breaking rule, then the resulting rule is no longer complete, but it is still strongly-exact.: 13
+
+Other considerations
+The proportionality of apportionment can be measured by seats-to-votes ratio and Gallagher index. The proportionality of apportionment together with electoral thresholds impact political fragmentation and barrier to entry to the political competition.
+
+Common apportionment methods
+There are many apportionment methods, and they can be classified into several approaches.
+
+Largest remainder methods start by computing the vector of quotas rounded down, that is, 
+  
+    
+      
+        ⌊
+        
+          q
+          
+            1
+          
+        
+        ⌋
+        ,
+        …
+        ,
+        ⌊
+        
+          q
+          
+            n
+          
+        
+        ⌋
+      
+    
+    {\displaystyle \lfloor q_{1}\rfloor ,\ldots ,\lfloor q_{n}\rfloor }
+  . If the sum of these rounded values is exactly 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  , then this vector is returned as the unique apportionment. Typically, the sum is smaller than 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  . In this case, the remaining items are allocated among the agents according to their remainders 
+  
+    
+      
+        
+          q
+          
+            i
+          
+        
+        −
+        ⌊
+        
+          q
+          
+            i
+          
+        
+        ⌋
+      
+    
+    {\displaystyle q_{i}-\lfloor q_{i}\rfloor }
+  : the agent with the largest remainder receives one seat, then the agent with the second-largest remainder receives one seat, and so on, until all items are allocated. There are several variants of the LR method, depending on which quota is used:
+The simple quota, also called the Hare quota, is 
+  
+    
+      
+        
+          t
+          
+            i
+          
+        
+        h
+      
+    
+    {\displaystyle t_{i}h}
+  .  Using LR with the Hare quota leads to Hamilton's method.
+The Hagenbach-Bischoff quota, also called the exact Droop quota, is 
+  
+    
+      
+        
+          t
+          
+            i
+          
+        
+        ⋅
+        (
+        h
+        +
+        1
+        )
+      
+    
+    {\displaystyle t_{i}\cdot (h+1)}
+  . The quotas in this method are larger, so there are fewer remaining items. In theory, it is possible that the sum of rounded-down quotas would be 
+  
+    
+      
+        h
+        +
+        1
+      
+    
+    {\displaystyle h+1}
+   which is larger than 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  , but this rarely happens in practice.
+The Imperiali quota is 
+  
+    
+      
+        
+          t
+          
+            i
+          
+        
+        ⋅
+        (
+        h
+        +
+        2
+        )
+      
+    
+    {\displaystyle t_{i}\cdot (h+2)}
+  . This quota is less common, since there are higher chances that the sum of rounded-down quotas will be larger than 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  .
+Divisor methods, instead of using a fixed multiplier in the quota (such as 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+   or 
+  
+    
+      
+        h
+        +
+        1
+      
+    
+    {\displaystyle h+1}
+  ), choose the multiplier such that the sum of rounded quotas is exactly equal to 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  , so there are no remaining items to allocate. Formally, 
+  
+    
+      
+        M
+        (
+        
+          t
+        
+        ,
+        h
+        )
+        :=
+        {
+        
+          a
+        
+        
+          |
+        
+        
+          a
+          
+            i
+          
+        
+        =
+        round
+        ⁡
+        (
+        
+          t
+          
+            i
+          
+        
+        ⋅
+        H
+        )
+        
+           and 
+        
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          a
+          
+            i
+          
+        
+        =
+        h
+        
+           for some real number 
+        
+        H
+        }
+      
+    
+    {\displaystyle M(\mathbf {t} ,h):=\{\mathbf {a} |a_{i}=\operatorname {round} (t_{i}\cdot H){\text{ and }}\sum _{i=1}^{n}a_{i}=h{\text{ for some real number }}H\}}
+  . Divisor methods differ by the method they use for rounding. A divisor method is parametrized by a divisor function 
+  
+    
+      
+        d
+        (
+        k
+        )
+      
+    
+    {\displaystyle d(k)}
+   which specifies, for each integer 
+  
+    
+      
+        k
+        ≥
+        0
+      
+    
+    {\displaystyle k\geq 0}
+  , a real number in the interval 
+  
+    
+      
+        [
+        k
+        ,
+        k
+        +
+        1
+        ]
+      
+    
+    {\displaystyle [k,k+1]}
+  . It means that all numbers in 
+  
+    
+      
+        [
+        k
+        ,
+        d
+        (
+        k
+        )
+        ]
+      
+    
+    {\displaystyle [k,d(k)]}
+   should be rounded down to 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  , and all numbers in 
+  
+    
+      
+        [
+        d
+        (
+        k
+        )
+        ,
+        k
+        +
+        1
+        ]
+      
+    
+    {\displaystyle [d(k),k+1]}
+   should be rounded up to 
+  
+    
+      
+        k
+        +
+        1
+      
+    
+    {\displaystyle k+1}
+  . The rounding function is denoted by 
+  
+    
+      
+        
+          round
+          
+            d
+          
+        
+        ⁡
+        (
+        x
+        )
+      
+    
+    {\displaystyle \operatorname {round} ^{d}(x)}
+  , and returns an integer 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   such that 
+  
+    
+      
+        d
+        (
+        k
+        −
+        1
+        )
+        ≤
+        x
+        ≤
+        d
+        (
+        k
+        )
+      
+    
+    {\displaystyle d(k-1)\leq x\leq d(k)}
+  . The number 
+  
+    
+      
+        d
+        (
+        k
+        )
+      
+    
+    {\displaystyle d(k)}
+   itself can be rounded both up and down, so the rounding function is multi-valued. For example, Adams' method uses 
+  
+    
+      
+        d
+        (
+        k
+        )
+        =
+        k
+      
+    
+    {\displaystyle d(k)=k}
+  , which corresponds to rounding up; D'Hondt/Jefferson method uses 
+  
+    
+      
+        d
+        (
+        k
+        )
+        =
+        k
+        +
+        1
+      
+    
+    {\displaystyle d(k)=k+1}
+  , which corresponds to rounding down; and Webster/Sainte-Laguë method uses  
+  
+    
+      
+        d
+        (
+        k
+        )
+        =
+        k
+        +
+        0.5
+      
+    
+    {\displaystyle d(k)=k+0.5}
+  , which corresponds to rounding to the nearest integer. A divisor method  can also be computed iteratively: initially, 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+      
+    
+    {\displaystyle a_{i}}
+   is set to 0 for all parties. Then, at each iteration, the next seat is allocated to a party which maximizes the ratio  
+  
+    
+      
+        
+          
+            
+              t
+              
+                i
+              
+            
+            
+              d
+              (
+              
+                a
+                
+                  i
+                
+              
+              )
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {t_{i}}{d(a_{i})}}}
+  .
+Rank-index methods are parametrized by a function 
+  
+    
+      
+        r
+        (
+        t
+        ,
+        a
+        )
+      
+    
+    {\displaystyle r(t,a)}
+   which is decreasing in 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  . The apportionment is computed iteratively. Initially, set 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+      
+    
+    {\displaystyle a_{i}}
+   to 0 for all parties. Then, at each iteration, allocate the next seat to an agent which maximizes  
+  
+    
+      
+        r
+        (
+        
+          t
+          
+            i
+          
+        
+        ,
+        
+          a
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle r(t_{i},a_{i})}
+  . Divisor methods are a special case of rank-index methods: a divisor method with divisor function 
+  
+    
+      
+        d
+        (
+        a
+        )
+      
+    
+    {\displaystyle d(a)}
+   is equivalent to a rank-index method with rank-index  
+  
+    
+      
+        r
+        (
+        t
+        ,
+        a
+        )
+        =
+        t
+        
+          /
+        
+        d
+        (
+        a
+        )
+      
+    
+    {\displaystyle r(t,a)=t/d(a)}
+  .
+Optimization-based methods aim to attain, for each instance, an allocation that is "as fair as possible" for this instance. An allocation is "fair" if  
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        =
+        
+          q
+          
+            i
+          
+        
+      
+    
+    {\displaystyle a_{i}=q_{i}}
+   for all agents i; in this case, we say that the "unfairness" of the allocation is 0. If this equality is violated, one can define a measure of "total unfairness", and try to minimize it. One can minimize the sum of unfairness levels, or the maximum unfairness level. Each optimization criterion leads to a different rule.
+
+Staying within the quota
+The exact quota of agent 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   is 
+  
+    
+      
+        
+          q
+          
+            i
+          
+        
+        =
+        
+          t
+          
+            i
+          
+        
+        ⋅
+        h
+      
+    
+    {\displaystyle q_{i}=t_{i}\cdot h}
+  . A basic requirement from an apportionment method is that it allocates to each agent 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   its quota 
+  
+    
+      
+        
+          q
+          
+            i
+          
+        
+      
+    
+    {\displaystyle q_{i}}
+   if it is an integer; otherwise, it should allocate it an integer that is near the exact quota, that is, either its lower quota 
+  
+    
+      
+        ⌊
+        
+          q
+          
+            i
+          
+        
+        ⌋
+      
+    
+    {\displaystyle \lfloor q_{i}\rfloor }
+   or its upper quota 
+  
+    
+      
+        ⌈
+        
+          q
+          
+            i
+          
+        
+        ⌉
+      
+    
+    {\displaystyle \lceil q_{i}\rceil }
+  . We say that an apportionment method -
+
+Satisfies lower quota if 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        ≥
+        ⌊
+        
+          q
+          
+            i
+          
+        
+        ⌋
+      
+    
+    {\displaystyle a_{i}\geq \lfloor q_{i}\rfloor }
+   for all 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   (this holds iff 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        +
+        1
+        >
+        
+          q
+          
+            i
+          
+        
+      
+    
+    {\displaystyle a_{i}+1>q_{i}}
+  ).
+Satisfies upper quota if 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        ≤
+        ⌈
+        
+          q
+          
+            i
+          
+        
+        ⌉
+      
+    
+    {\displaystyle a_{i}\leq \lceil q_{i}\rceil }
+   for all 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   (this holds iff 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        −
+        1
+        <
+        
+          q
+          
+            i
+          
+        
+      
+    
+    {\displaystyle a_{i}-1<q_{i}}
+  ).
+Satisfies both quotas if both the above conditions hold (this holds iff 
+  
+    
+      
+        
+          
+            
+              q
+              
+                i
+              
+            
+            
+              
+                a
+                
+                  i
+                
+              
+              +
+              1
+            
+          
+        
+        <
+        1
+        <
+        
+          
+            
+              q
+              
+                i
+              
+            
+            
+              
+                a
+                
+                  i
+                
+              
+              −
+              1
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {q_{i}}{a_{i}+1}}<1<{\frac {q_{i}}{a_{i}-1}}}
+  ).Hamilton's largest-remainder method satisfies both lower quota and upper quota by construction. This does not hold for the divisor methods:: Prop.6.2, 6.3, 6.4, 6.5 
+All divisor methods satisfy both quotas when there are 2 agents;
+Webster's method is the only divisor method satisfying both quotas for 3 agents;
+Adams' method is the only divisor method satisfying upper quota for any number of agents;
+Jefferson's method is the only divisor method satisfying lower quota for any number of agents;
+No divisor method simultaneously violates upper quota for one agent and violates lower quota for another agent.Therefore, no divisor method satisfies both upper quota and lower quota for any number of agents. The uniqueness of Jefferson and Adams holds even in the much larger class of rank-index methods.
+This can be seen as a disadvantage of divisor methods, but it can also be considered a disadvantage of the quota criterion:: 129 "For example, to give D 26 instead of 25 seats in Table 10.1 would mean taking a seat from one of the smaller states A, B, or C. Such a transfer would penalize the per capita representation of the small state much more - in both absolute and relative terms - than state D is penalized by getting one less than its lower quota. Similar examples can be invented in which some state might reasonably get more than its upper quota. It can be argued that staying within the quota is not really compatible with the idea of proportionality at all, since it allows a much greater variance in the per capita representation of smaller states than it does for larger states."In Monte-Carlo simulations, Webster's method satisfies both quotas with a very high probability. Moreover, Wesbter's method is the only division method that satisfies near quota:: Thm.6.2  there are no agents 
+  
+    
+      
+        i
+        ,
+        j
+      
+    
+    {\displaystyle i,j}
+   such that moving a seat from 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   to 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+   would bring both of them nearer to their quotas:
+  
+    
+      
+        
+          q
+          
+            i
+          
+        
+        −
+        (
+        
+          a
+          
+            i
+          
+        
+        −
+        1
+        )
+         
+        <
+         
+        
+          a
+          
+            i
+          
+        
+        −
+        
+          q
+          
+            i
+          
+        
+         
+         
+        
+           and 
+        
+         
+         
+        (
+        
+          a
+          
+            j
+          
+        
+        +
+        1
+        )
+        −
+        
+          q
+          
+            j
+          
+        
+         
+        <
+         
+        
+          q
+          
+            j
+          
+        
+        −
+        
+          a
+          
+            j
+          
+        
+      
+    
+    {\displaystyle q_{i}-(a_{i}-1)~<~a_{i}-q_{i}~~{\text{ and }}~~(a_{j}+1)-q_{j}~<~q_{j}-a_{j}}
+  .Jefferson's method can be modified to satisfy both quotas, yielding the Quota-Jefferson method. Moreover, any divisor method can be modified to satisfy both quotas. This yields the Quota-Webster method, Quota-Hill method, etc. This family of methods is often called the quatatone methods, as they satisfy both quotas and house-monotonicity.
+
+Minimizing pairwise inequality
+One way to evaluate apportionment methods is by whether they minimize the amount of inequality between pairs of agents. Clearly, inequality should take into account the different entitlements: if 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        
+          /
+        
+        
+          t
+          
+            i
+          
+        
+        =
+        
+          a
+          
+            j
+          
+        
+        
+          /
+        
+        
+          t
+          
+            j
+          
+        
+      
+    
+    {\displaystyle a_{i}/t_{i}=a_{j}/t_{j}}
+   then the agents are treated "equally" (w.r.t. to their entitlements); otherwise, if 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        
+          /
+        
+        
+          t
+          
+            i
+          
+        
+        >
+        
+          a
+          
+            j
+          
+        
+        
+          /
+        
+        
+          t
+          
+            j
+          
+        
+      
+    
+    {\displaystyle a_{i}/t_{i}>a_{j}/t_{j}}
+   then agent 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   is favored, and if 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        
+          /
+        
+        
+          t
+          
+            i
+          
+        
+        <
+        
+          a
+          
+            j
+          
+        
+        
+          /
+        
+        
+          t
+          
+            j
+          
+        
+      
+    
+    {\displaystyle a_{i}/t_{i}<a_{j}/t_{j}}
+   then agent 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+   is favored. However, since there are 16 ways to rearrange the equality 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        
+          /
+        
+        
+          t
+          
+            i
+          
+        
+        =
+        
+          a
+          
+            j
+          
+        
+        
+          /
+        
+        
+          t
+          
+            j
+          
+        
+      
+    
+    {\displaystyle a_{i}/t_{i}=a_{j}/t_{j}}
+  , there are correspondingly many ways by which inequality can be defined.: 100–102 
+
+  
+    
+      
+        
+          |
+        
+        
+          a
+          
+            i
+          
+        
+        
+          /
+        
+        
+          t
+          
+            i
+          
+        
+        −
+        
+          a
+          
+            j
+          
+        
+        
+          /
+        
+        
+          t
+          
+            j
+          
+        
+        
+          |
+        
+      
+    
+    {\displaystyle |a_{i}/t_{i}-a_{j}/t_{j}|}
+  . Webster's method is the unique apportionment method in which, for each pair of agents 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   and 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  , this difference is minimized (that is, moving a seat from 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   to 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+   or vice versa would not make the difference smaller).
+
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        −
+        (
+        
+          t
+          
+            i
+          
+        
+        
+          /
+        
+        
+          t
+          
+            j
+          
+        
+        )
+        
+          a
+          
+            j
+          
+        
+      
+    
+    {\displaystyle a_{i}-(t_{i}/t_{j})a_{j}}
+   for 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        
+          /
+        
+        
+          t
+          
+            i
+          
+        
+        ≥
+        
+          a
+          
+            j
+          
+        
+        
+          /
+        
+        
+          t
+          
+            j
+          
+        
+      
+    
+    {\displaystyle a_{i}/t_{i}\geq a_{j}/t_{j}}
+    This leads to Adams's method.
+
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        (
+        
+          t
+          
+            j
+          
+        
+        
+          /
+        
+        
+          t
+          
+            i
+          
+        
+        )
+        −
+        
+          a
+          
+            j
+          
+        
+      
+    
+    {\displaystyle a_{i}(t_{j}/t_{i})-a_{j}}
+   for 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        
+          /
+        
+        
+          t
+          
+            i
+          
+        
+        ≥
+        
+          a
+          
+            j
+          
+        
+        
+          /
+        
+        
+          t
+          
+            j
+          
+        
+      
+    
+    {\displaystyle a_{i}/t_{i}\geq a_{j}/t_{j}}
+  . This leads to Jefferson's method.
+
+  
+    
+      
+        
+          |
+        
+        
+          t
+          
+            i
+          
+        
+        
+          /
+        
+        
+          a
+          
+            i
+          
+        
+        −
+        
+          t
+          
+            j
+          
+        
+        
+          /
+        
+        
+          a
+          
+            j
+          
+        
+        
+          |
+        
+      
+    
+    {\displaystyle |t_{i}/a_{i}-t_{j}/a_{j}|}
+  . This leads to Dean's method.
+
+  
+    
+      
+        
+          |
+          
+            
+              
+                
+                  
+                    a
+                    
+                      i
+                    
+                  
+                  
+                    /
+                  
+                  
+                    t
+                    
+                      i
+                    
+                  
+                
+                
+                  
+                    a
+                    
+                      j
+                    
+                  
+                  
+                    /
+                  
+                  
+                    t
+                    
+                      j
+                    
+                  
+                
+              
+            
+            −
+            1
+          
+          |
+        
+      
+    
+    {\displaystyle \left|{\frac {a_{i}/t_{i}}{a_{j}/t_{j}}}-1\right|}
+  . This leads to the Huntington-Hill method.This analysis was done by Huntington in the 1920s. Some of the possibilities do not lead to a stable solution. For example, if we define inequality as 
+  
+    
+      
+        
+          |
+        
+        
+          a
+          
+            i
+          
+        
+        
+          /
+        
+        
+          a
+          
+            j
+          
+        
+        −
+        
+          t
+          
+            i
+          
+        
+        
+          /
+        
+        
+          t
+          
+            j
+          
+        
+        
+          |
+        
+      
+    
+    {\displaystyle |a_{i}/a_{j}-t_{i}/t_{j}|}
+  , then there are instances in which, for any allocation, moving a seat from one agent to another might decrease their pairwise inequality. There is an example with 3 states with populations (737,534,329) and 16 seats.: Prop.3.5
+
+Bias towards large/small agents
+When the agents are federal states, it is particularly important to avoid bias between large states and small states. There are several ways to measure this bias formally. All measurements lead to the conclusion that Jefferson's method is biased in favor of large states, Adams' method is biased in favor of small states, and Webster's method is the least biased divisor method.
+
+Consistency properties
+Consistency properties are properties that characterize an apportionment method, rather than a particular apportionment. Each consistency property compares the outcomes of a particular method on different inputs. Several such properties have been studied.
+State-population monotonicity means that, if the entitlement of an agent increases, its apportionment should not decrease. The name comes from the setting where the agents are federal states, whose entitlements are determined by their population. A violation of this property is called the population paradox. There are several variants of this property. One variant - the pairwise PM - is satisfied exclusively by divisor methods. That is, an apportionment method is pairwise PM if-and-only-if it is a divisor method.: Thm.4.3 When 
+  
+    
+      
+        n
+        ≥
+        4
+      
+    
+    {\displaystyle n\geq 4}
+   and 
+  
+    
+      
+        h
+        ≥
+        n
+        +
+        3
+      
+    
+    {\displaystyle h\geq n+3}
+  , no partial apportionment method satisfies pairwise-PM, lower quota and upper quota.: Thm.6.1  Combined with the previous statements, it implies that no divisor method satisfies both quotas.
+House monotonicity means that, when the total number of seats 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+   increases, no agent loses a seat. The violation of this property is called the Alabama paradox. It was considered particularly important in the early days of the USA, when the congress size increased every ten years. House-monotonicity is weaker than pairwise-PM. All rank-index methods (hence all divisor methods) are house-monotone - this clearly follows from the iterative procedure. Besides the divisor methods, there are other house-monotone methods, and some of them also satisfy both quotas. For example, the Quota method of Balinsky and Young satisfies house-monotonicity and upper-quota by construction, and it can be proved that it also satisfies lower-quota. It can be generalized: there is a general algorithm that yields all apportionment methods which are both house-monotone and satisfy both quotas. However, all these quota-based methods (Quota-Jefferson, Quota-Hill, etc.) may violate pairwise-PM: there are examples in which one agent gains in population but loses seats.: Sec.7 Uniformity (also called coherence) means that, if we take some subset of the agents 
+  
+    
+      
+        1
+        ,
+        …
+        ,
+        k
+      
+    
+    {\displaystyle 1,\ldots ,k}
+  , and apply the same method to their combined allocation 
+  
+    
+      
+        
+          h
+          
+            k
+          
+        
+        =
+        
+          a
+          
+            1
+          
+        
+        +
+        ⋯
+        +
+        
+          a
+          
+            k
+          
+        
+      
+    
+    {\displaystyle h_{k}=a_{1}+\cdots +a_{k}}
+  , then the result is the vector 
+  
+    
+      
+        (
+        
+          a
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          a
+          
+            k
+          
+        
+        )
+      
+    
+    {\displaystyle (a_{1},\ldots ,a_{k})}
+  . All rank-index methods (hence all divisor methods) are uniform, since they assign seats to agents in a pre-determined method - determined by 
+  
+    
+      
+        r
+        (
+        t
+        ,
+        a
+        )
+      
+    
+    {\displaystyle r(t,a)}
+  , and this order does not depend on the presence or absence of other agents. Moreover, every uniform method that is also anonymous and balanced must be a rank-index method.: Thm.8.3 Every uniform method that is also anonymous, weakly-exact and concordant (= 
+  
+    
+      
+        
+          t
+          
+            i
+          
+        
+        >
+        
+          t
+          
+            j
+          
+        
+      
+    
+    {\displaystyle t_{i}>t_{j}}
+   implies 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        ≥
+        
+          a
+          
+            j
+          
+        
+      
+    
+    {\displaystyle a_{i}\geq a_{j}}
+  ) must be a divisor method.: Thm.8.4  Moreover, among all anonymous methods:
+Jefferson's method is the only uniform method satisfying lower quota;
+Adams's method is the only uniform method satisfying upper quota;
+Webster's method is the only uniform method that is near quota;
+No uniform method satisfies both quotas. In particular, Hamilton's method and the Quota method are not uniform. However, the Quota method is the unique method that satisfies both quotas in addition to house-monotonicity and "quota-consistency", which is a weaker form of uniformity.
+
+Encouraging coalitions
+When the agents are political parties, they often split or merge. How such splitting/merging affects the apportionment will impact political fragmentation. Suppose a certain apportionment method gives two agents 
+  
+    
+      
+        i
+        ,
+        j
+      
+    
+    {\displaystyle i,j}
+   some 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        ,
+        
+          a
+          
+            j
+          
+        
+      
+    
+    {\displaystyle a_{i},a_{j}}
+   seats respectively, and then these two agents form a coalition, and the method is re-activated.
+
+An apportionment method encourages coalitions if the coalition receives at least 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        +
+        
+          a
+          
+            j
+          
+        
+      
+    
+    {\displaystyle a_{i}+a_{j}}
+    seats (in other words, it is split-proof - a party cannot gain a seat by splitting).
+An apportionment method encourages schisms if the coalition receives at most 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        +
+        
+          a
+          
+            j
+          
+        
+      
+    
+    {\displaystyle a_{i}+a_{j}}
+    seats (in other words, it is merge-proof - two parties cannot gain a seat by merging).Among the divisor methods:: Thm.9.1, 9.2, 9.3 
+Jefferson's method is the unique divisor method that encourages coalitions;
+Adams's method is the unique divisor method that encourages schisms.
+Webster's method is neither split-proof nor merge-proof, but it is "coalition neutral": when votes are distributed randomly, a coalition is equally likely to gain a seat than to lose a seat.: Prop.9.4 Since these are different methods, no divisor method gives every coalition of 
+  
+    
+      
+        i
+        ,
+        j
+      
+    
+    {\displaystyle i,j}
+   exactly 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        +
+        
+          a
+          
+            j
+          
+        
+      
+    
+    {\displaystyle a_{i}+a_{j}}
+   seats. Moreover, this uniqueness can be extended to the much larger class of rank-index methods.A weaker property, called "coalitional-stability", is that every coalition of 
+  
+    
+      
+        i
+        ,
+        j
+      
+    
+    {\displaystyle i,j}
+   should receive between 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        +
+        
+          a
+          
+            j
+          
+        
+        −
+        1
+      
+    
+    {\displaystyle a_{i}+a_{j}-1}
+   and  
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        +
+        
+          a
+          
+            j
+          
+        
+        +
+        1
+      
+    
+    {\displaystyle a_{i}+a_{j}+1}
+   seats; so a party can gain at most one seat by merging/splitting.
+
+The Hamilton method is coalitionally-stable.: Thm.2 : Appendix 
+A divisor method with divisor 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+   is coalitionally-stable iff 
+  
+    
+      
+        d
+        (
+        
+          a
+          
+            1
+          
+        
+        +
+        
+          a
+          
+            2
+          
+        
+        )
+        ≤
+        d
+        (
+        
+          a
+          
+            1
+          
+        
+        )
+        +
+        d
+        (
+        
+          a
+          
+            2
+          
+        
+        )
+        ≤
+        d
+        (
+        
+          a
+          
+            1
+          
+        
+        +
+        
+          a
+          
+            2
+          
+        
+        +
+        1
+        )
+      
+    
+    {\displaystyle d(a_{1}+a_{2})\leq d(a_{1})+d(a_{2})\leq d(a_{1}+a_{2}+1)}
+  ;  this holds for all five standard divisor methods.: Thm.1 Moreover, every method satisfying both quotas is "almost coalitionally-stable" - it gives every coalition between 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        +
+        
+          a
+          
+            j
+          
+        
+        −
+        2
+      
+    
+    {\displaystyle a_{i}+a_{j}-2}
+   and  
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        +
+        
+          a
+          
+            j
+          
+        
+        +
+        2
+      
+    
+    {\displaystyle a_{i}+a_{j}+2}
+    seats.
+
+Summary table
+See also
+Proportional representation
+Multi-attribute proportional representation.
+Apportionment when there are errors in the population counts.
+Proportional cake-cutting with different entitlements
+Fair item allocation
+
+
+== References ==

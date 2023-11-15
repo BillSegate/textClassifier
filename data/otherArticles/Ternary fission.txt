@@ -1,0 +1,24 @@
+Ternary fission is a comparatively rare (0.2 to 0.4% of events) type of nuclear fission in which three charged products are produced rather than two. As in other nuclear fission processes, other uncharged particles such as multiple neutrons and gamma rays are produced in ternary fission. 
+Ternary fission may happen during neutron-induced fission or in spontaneous fission (the type of radioactive decay). About 25% more ternary fission happens in spontaneous fission compared to the same fission system formed after thermal neutron capture, illustrating that these processes remain physically slightly different, even after the absorption of the neutron, possibly because of the extra energy present in the nuclear reaction system of thermal neutron-induced fission.
+Quaternary fission, at 1 per 10 million fissions, is also known (see below).
+
+Products
+The most common nuclear fission process is "binary fission." It produces two charged asymmetrical fission products with maximally probable charged product at 95±15 and 135±15 u atomic mass. However, in this conventional fission of large nuclei, the binary process happens merely because it is the most energetically probable. 
+In anywhere from 2 to 4 fissions per 1000 in a nuclear reactor, the alternative ternary fission process produces three positively charged fragments (plus neutrons, which are not charged and not counted in this reckoning). The smallest of the charged products may range from so small a charge and mass as a single proton (Z=1), up to as large a fragment as the nucleus of argon (Z=18). 
+Although particles as large as argon nuclei may be produced as the smaller (third) charged product in the usual ternary fission, the most common small fragments from ternary fission are helium-4 nuclei, which make up about 90% of the small fragment products. This high incidence is related to the stability (high binding energy) of the alpha particle, which makes more energy available to the reaction. The second-most common particles produced in ternary fission are Tritons (the nuclei of tritium), which make up 7% of the total small fragments, and the third-most are helium-6 nuclei (which decay in about 0.8 seconds to lithium-6). Protons and larger nuclei are in the small fraction (< 2%) which make up the remainder of the small charged products. The two larger charged particles from ternary fission, particularly when alphas are produced, are quite similar in size distribution to those produced in binary fission.
+
+Product energies
+The energy of the third much-smaller product usually ranges between 10 and 20 MeV. In keeping with their origin, alpha particles produced by ternary fission typically have mean energies of about ~ 16 MeV (energies this great are never seen in alpha decay). Since these typically have significantly more energy than the ~ 5 MeV alpha particles from alpha decay, they are accordingly called "long-range alphas" (referring to their longer range in air or other media).
+The other two larger fragments carry away, in their kinetic energies, the remainder of the fission kinetic energy (typically totalling ~ 170 MeV in heavy element fission) that does not appear as the 10 to 20 MeV kinetic energy carried away by the third smaller product. Thus, the larger fragments in ternary fission are each less energetic, by a typical 5 to 10 MeV, than they are seen to be in binary fission.
+
+Importance
+Although the ternary fission process is less common than the binary process, it still produces significant helium-4 and tritium gas buildup in the fuel rods of modern nuclear reactors. This phenomenon was initially detected in 1957, within the environs of the Savannah River National Laboratory.
+
+True ternary fission
+A very rare type of ternary fission process is sometimes called "true ternary fission." It produces three nearly equal-sized charged fragments (Z ~ 30) but only happens in about 1 in 100 million fission events. In this type of fission, the product nuclei split the fission energy in three nearly equal parts and have kinetic energies of ~ 60 MeV. True ternary fission has so far only been observed in nuclei bombarded by heavy, high energy ions.
+
+Quaternary fission
+Another rare fission process, occurring in about 1 in 10 million fissions, is Quaternary fission. It is analogous to ternary fission, save that four charged products are seen. Typically two of these are light particles, with the most common mode of Quaternary fission apparently being two large particles and two alpha particles (rather than one alpha, the most common mode of ternary fission).
+
+
+== References ==

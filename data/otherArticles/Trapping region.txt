@@ -1,0 +1,69 @@
+In applied mathematics, a trapping region of a dynamical system is a region such that every trajectory that starts within the trapping region will move to the region's interior and remain there as the system evolves.
+More precisely, given a dynamical system with flow 
+  
+    
+      
+        
+          ϕ
+          
+            t
+          
+        
+      
+    
+    {\displaystyle \phi _{t}}
+   defined on the phase space 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+  , a subset of the phase space 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   is a trapping region if it is compact and 
+  
+    
+      
+        
+          ϕ
+          
+            t
+          
+        
+        (
+        N
+        )
+        ⊂
+        
+          i
+          n
+          t
+        
+        (
+        N
+        )
+      
+    
+    {\displaystyle \phi _{t}(N)\subset \mathrm {int} (N)}
+   for all 
+  
+    
+      
+        t
+        >
+        0
+      
+    
+    {\displaystyle t>0}
+  .
+
+
+== References ==

@@ -1,0 +1,553 @@
+In combinatorics, double counting, also called counting in two ways, is a combinatorial proof technique for showing that two expressions are equal by demonstrating that they are two ways of counting the size of one set. In this technique, which van Lint & Wilson (2001) call "one of the most important tools in combinatorics", one describes a finite set from two perspectives leading to two distinct expressions for the size of the set. Since both expressions equal the size of the same set, they equal each other.
+
+Examples
+Multiplication (of natural numbers) commutes
+This is a simple example of double counting, often used when teaching multiplication to young children. In this context, multiplication of natural numbers is introduced as repeated addition, and is then shown to be commutative by counting,  in two different ways, a number of items arranged in a rectangular grid.  Suppose the grid has 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   rows and 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   columns.  We first count the items by summing 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   rows of 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   items each, then a second time by summing 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   columns of 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   items each, thus showing that, for these particular values of 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   and 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  , 
+  
+    
+      
+        n
+        ×
+        m
+        =
+        m
+        ×
+        n
+      
+    
+    {\displaystyle n\times m=m\times n}
+  .
+
+Forming committees
+One example of the double counting method counts the number of ways in which a committee can be formed from 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   people, allowing any number of the people (even zero of them) to be part of the committee. That is, one counts the number of subsets that an 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -element set may have. One method for forming a committee is to ask each person to choose whether or not to join it. Each person has two choices – yes or no – and these choices are independent of those of the other people. Therefore there are 
+  
+    
+      
+        2
+        ×
+        2
+        ×
+        ⋯
+        2
+        =
+        
+          2
+          
+            n
+          
+        
+      
+    
+    {\displaystyle 2\times 2\times \cdots 2=2^{n}}
+   possibilities. Alternatively, one may observe that the size of the committee must be some number between 0 and 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  . For each possible size 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  , the number of ways in which a committee of 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   people can be formed from 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   people is the binomial coefficient
+
+Therefore the total number of possible committees is the sum of binomial coefficients over 
+  
+    
+      
+        k
+        =
+        0
+        ,
+        1
+        ,
+        2
+        ,
+        …
+        ,
+        n
+      
+    
+    {\displaystyle k=0,1,2,\dots ,n}
+  . Equating the two expressions gives the identity
+
+a special case of the binomial theorem. A similar double counting method can be used to prove the more general identity
+
+Handshaking lemma
+Another theorem that is commonly proven with a double counting argument states that every undirected graph contains an even number of vertices of odd degree. That is, the number of vertices that have an odd number of incident edges must be even. In more colloquial terms, in a party of people some of whom shake hands, an even number of people must have shaken an odd number of other people's hands; for this reason, the result is known as the handshaking lemma. 
+To prove this by double counting, let 
+  
+    
+      
+        d
+        (
+        v
+        )
+      
+    
+    {\displaystyle d(v)}
+   be the degree of vertex 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  . The number of vertex-edge incidences in the graph may be counted in two different ways: by summing the degrees of the vertices, or by counting two incidences for every edge. Therefore
+
+where 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+   is the number of edges. The sum of the degrees of the vertices is therefore an even number, which could not happen if an odd number of the vertices had odd degree. This fact, with this proof, appears in the 1736 paper of Leonhard Euler on the Seven Bridges of Königsberg that first began the study of graph theory.
+
+Counting trees
+What is the number 
+  
+    
+      
+        
+          T
+          
+            n
+          
+        
+      
+    
+    {\displaystyle T_{n}}
+   of different trees that can be formed from a set of 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   distinct vertices? Cayley's formula gives the answer 
+  
+    
+      
+        
+          T
+          
+            n
+          
+        
+        =
+        
+          n
+          
+            n
+            −
+            2
+          
+        
+      
+    
+    {\displaystyle T_{n}=n^{n-2}}
+  . Aigner & Ziegler (1998) list four proofs of this fact; they write of the fourth, a double counting proof due to Jim Pitman, that it is "the most beautiful of them all."Pitman's proof counts in two different ways the number of different sequences of directed edges that can be added to an empty graph on 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   vertices to form from it a rooted tree. The directed edges point away from the root. One way to form such a sequence is to start with one of the 
+  
+    
+      
+        
+          T
+          
+            n
+          
+        
+      
+    
+    {\displaystyle T_{n}}
+   possible unrooted trees, choose one of its 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   vertices as root, and choose one of the 
+  
+    
+      
+        (
+        n
+        −
+        1
+        )
+        !
+      
+    
+    {\displaystyle (n-1)!}
+   possible sequences in which to add its 
+  
+    
+      
+        n
+        −
+        1
+      
+    
+    {\displaystyle n-1}
+   (directed) edges. Therefore, the total number of sequences that can be formed in this way is 
+  
+    
+      
+        
+          T
+          
+            n
+          
+        
+        n
+        (
+        n
+        −
+        1
+        )
+        !
+        =
+        
+          T
+          
+            n
+          
+        
+        n
+        !
+      
+    
+    {\displaystyle T_{n}n(n-1)!=T_{n}n!}
+  .Another way to count these edge sequences is to consider adding the edges one by one to an empty graph, and to count the number of choices available at each step. If one has added a collection of 
+  
+    
+      
+        n
+        −
+        k
+      
+    
+    {\displaystyle n-k}
+   edges already, so that the graph formed by these edges is a rooted forest with 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   trees, there are 
+  
+    
+      
+        n
+        (
+        k
+        −
+        1
+        )
+      
+    
+    {\displaystyle n(k-1)}
+   choices for the next edge to add: its starting vertex can be any one of the 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   vertices of the graph, and its ending vertex can be any one of the 
+  
+    
+      
+        k
+        −
+        1
+      
+    
+    {\displaystyle k-1}
+   roots other than the root of the tree containing the starting vertex. Therefore, if one multiplies together the number of choices from the first step, the second step, etc., the total number of choices is
+
+Equating these two formulas for the number of edge sequences results in Cayley's formula:
+
+and
+
+As Aigner and Ziegler describe, the formula and the proof can be generalized to count the number of rooted forests with 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   trees, for any 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  .
+
+See also
+Additional examples
+Vandermonde's identity, another identity on sums of binomial coefficients that can be proven by double counting.
+Square pyramidal number. The equality between the sum of the first 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   square numbers and a cubic polynomial can be shown by double counting the triples of numbers 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  , and 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+   where 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+   is larger than either of the other two numbers.
+Lubell–Yamamoto–Meshalkin inequality. Lubell's proof of this result on set families is a double counting argument on permutations, used to prove an inequality rather than an equality.
+Erdős–Ko–Rado theorem, an upper bound on intersecting families of sets, proven by Gyula O. H. Katona using a double counting inequality.
+Proofs of Fermat's little theorem. A divisibility proof by double counting: for any prime 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   and natural number 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  , there are 
+  
+    
+      
+        
+          A
+          
+            p
+          
+        
+        −
+        A
+      
+    
+    {\displaystyle A^{p}-A}
+   length-
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   words over an 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  -symbol alphabet having two or more distinct symbols. These may be grouped into sets of 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   words that can be transformed into each other by circular shifts; these sets are called necklaces. Therefore, 
+  
+    
+      
+        
+          A
+          
+            p
+          
+        
+        −
+        A
+        =
+        p
+        ⋅
+        
+
+        
+      
+    
+    {\displaystyle A^{p}-A=p\cdot {}}
+  (number of necklaces) and is divisible by 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  .
+Proofs of quadratic reciprocity. A proof by Eisenstein derives another important number-theoretic fact by double counting lattice points in a triangle.
+
+Related topics
+Bijective proof. Where double counting involves counting one set in two ways, bijective proofs involve counting two sets in one way, by showing that their elements correspond one-for-one.
+The inclusion–exclusion principle, a formula for the size of a union of sets that may, together with another formula for the same union, be used as part of a double counting argument.
+
+Notes
+References
+Aigner, Martin; Ziegler, Günter M. (1998), Proofs from THE BOOK, Springer-Verlag. Double counting is described as a general principle on page 126; Pitman's double counting proof of Cayley's formula is on pp. 145–146; Katona's double counting inequality for the Erdős–Ko–Rado theorem is pp. 214–215.
+Euler, L. (1736), "Solutio problematis ad geometriam situs pertinentis" (PDF), Commentarii Academiae Scientiarum Imperialis Petropolitanae, 8: 128–140. Reprinted and translated in Biggs, N. L.; Lloyd, E. K.; Wilson, R. J. (1976), Graph Theory 1736–1936, Oxford University Press.
+Garbano, M. L.; Malerba, J. F.; Lewinter, M. (2003), "Hypercubes and Pascal's triangle: a tale of two proofs", Mathematics Magazine, 76 (3): 216–217, doi:10.2307/3219324, JSTOR 3219324.
+Joshi, Mark (2015), "Double Counting", Proof Patterns, Springer International Publishing, pp. 11–17, doi:10.1007/978-3-319-16250-8_2
+Klavžar, Sandi (2006), "Counting hypercubes in hypercubes", Discrete Mathematics, 306 (22): 2964–2967, doi:10.1016/j.disc.2005.10.036.
+van Lint, Jacobus H.; Wilson, Richard M. (2001), A Course in Combinatorics, Cambridge University Press, p. 4, ISBN 978-0-521-00601-9.

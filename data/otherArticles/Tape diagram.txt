@@ -1,0 +1,9 @@
+A tape diagram is a rectangular visual model resembling a piece of tape, that is used to assist with the calculation of ratios and addition, subtraction, and commonly multiplication. It is also known as a divided bar model, fraction strip, length model or strip diagram. In mathematics education, it is used to solve word problems for children in elementary school.
+
+Example
+If, for example, a boy has won fifteen games, and the ratio of his wins to losses is 3:2, a tape diagram can be used to determine his number of losses, such as by doing
+
+Since the ratio between his wins and losses is 3:2, and he has won fifteen games, it can be concluded that the boy has lost ten of these games.
+
+
+== References ==

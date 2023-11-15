@@ -1,0 +1,278 @@
+The Fransén–Robinson constant, sometimes denoted F, is the mathematical constant that represents the area between the graph of the reciprocal Gamma function, 1/Γ(x), and the positive x axis. That is,
+
+  
+    
+      
+        F
+        =
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            1
+            
+              Γ
+              (
+              x
+              )
+            
+          
+        
+        
+        d
+        x
+        =
+        2.8077702420285...
+      
+    
+    {\displaystyle F=\int _{0}^{\infty }{\frac {1}{\Gamma (x)}}\,dx=2.8077702420285...}
+
+Other expressions
+The Fransén–Robinson constant has numerical value F = 2.8077702420285... (sequence A058655 in the OEIS), and continued fraction representation [2; 1, 4, 4, 1, 18, 5, 1, 3, 4, 1, 5, 3, 6, ...] (sequence A046943 in the OEIS). The constant is somewhat close to Euler's number e = 2.71828... .  This fact can be explained by approximating the integral by a sum:
+
+  
+    
+      
+        F
+        =
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            1
+            
+              Γ
+              (
+              x
+              )
+            
+          
+        
+        
+        d
+        x
+        ≈
+        
+          ∑
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            1
+            
+              Γ
+              (
+              n
+              )
+            
+          
+        
+        =
+        
+          ∑
+          
+            n
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            1
+            
+              n
+              !
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle F=\int _{0}^{\infty }{\frac {1}{\Gamma (x)}}\,dx\approx \sum _{n=1}^{\infty }{\frac {1}{\Gamma (n)}}=\sum _{n=0}^{\infty }{\frac {1}{n!}},}
+  and this sum is the standard series for e. The difference is
+
+  
+    
+      
+        F
+        −
+        e
+        =
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              e
+              
+                −
+                x
+              
+            
+            
+              
+                π
+                
+                  2
+                
+              
+              +
+              (
+              ln
+              ⁡
+              x
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        
+        d
+        x
+      
+    
+    {\displaystyle F-e=\int _{0}^{\infty }{\frac {e^{-x}}{\pi ^{2}+(\ln x)^{2}}}\,dx}
+  or equivalently
+
+  
+    
+      
+        F
+        =
+        e
+        +
+        
+          
+            1
+            π
+          
+        
+        
+          ∫
+          
+            −
+            π
+            
+              /
+            
+            2
+          
+          
+            π
+            
+              /
+            
+            2
+          
+        
+        
+          e
+          
+            π
+            tan
+            ⁡
+            θ
+          
+        
+        
+          e
+          
+            −
+            
+              e
+              
+                π
+                tan
+                ⁡
+                θ
+              
+            
+          
+        
+        
+        d
+        θ
+        .
+      
+    
+    {\displaystyle F=e+{\frac {1}{\pi }}\int _{-\pi /2}^{\pi /2}e^{\pi \tan \theta }e^{-e^{\pi \tan \theta }}\,d\theta .}
+  The Fransén–Robinson constant can also be expressed using the Mittag-Leffler function as the limit
+
+  
+    
+      
+        F
+        =
+        
+          lim
+          
+            α
+            →
+            0
+          
+        
+        α
+        
+          E
+          
+            α
+            ,
+            0
+          
+        
+        (
+        1
+        )
+        .
+      
+    
+    {\displaystyle F=\lim _{\alpha \to 0}\alpha E_{\alpha ,0}(1).}
+  It is however unknown whether F can be expressed in closed form in terms of other known constants.
+
+Calculation history
+A fair amount of effort has been made to calculate the numerical value of the Fransén–Robinson constant with high accuracy.
+The value was computed to 36 decimal places by Herman P. Robinson using 11 point Newton–Cotes quadrature, to 65 digits by A. Fransén using Euler–Maclaurin summation, and to 80 digits by Fransén and S. Wrigge using Taylor series and other methods. William A. Johnson computed 300 digits, and Pascal Sebah was able to compute 1025 digits using Clenshaw–Curtis integration.
+
+References
+
+Fransen, Arne (1979). "Accurate determination of the inverse Gamma integral". BIT. 19 (1): 137–138. doi:10.1007/BF01931232. MR 0530126. S2CID 122091723.
+Fransen, Arne; Wrigge, Staffan (1980). "High-Precision values of the Gamma function and of some related coefficients". Mathematics of Computation. 34 (150): 553–566. doi:10.2307/2006104. JSTOR 2006104. MR 0559204.
+Fransen, Arne (1981). "Addendum and corrigendum to "High-Precision values of the Gamma function and of some related coefficients"". Mathematics of Computation. 37 (155): 233–235. doi:10.2307/2007517. JSTOR 2007517. MR 0616377.
+Finch, Steve. "Fransén–Robinson Constant".
+Weisstein, Eric W. "Fransén–Robinson Constant". MathWorld.
+Borwein, Jonathan; Bailey, David; Girgensohn, Roland (2003). Experimentation in Mathematics – Computational Paths to Discovery. A. K. Peters. p. 288. ISBN 1-56881-136-5.

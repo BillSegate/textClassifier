@@ -1,0 +1,59 @@
+An Integraph is a mechanical analog computing device for plotting the integral of a graphically defined function.
+
+History
+Gaspard-Gustave de Coriolis first described the fundamental principal of a mechanical integraph in 1836 in the Journal de Mathématiques Pures et Appliquées. A full description of an integraph was published independently around 1880 by both British physicist Sir Charles Vernon Boys and Bruno Abdank-Abakanowicz, a Polish-Lithuanian mathematician/electrical engineer. Boys described a design for an integraph in 1881 in the Philosophical Magazine. Abakanowicz developed a practical working prototype in 1878, with improved versions of the prototype being manufactured by firms such as Coradi in Zürich, Switzerland. Customized and further improved versions of Abakanowicz's design were manufactured until well after 1900, with these later modifications being made by Abakanowicz in collaboration M. D. Napoli, the "principal inspector of the railroad Chemin de Fer de l’Est and head of its testing laboratory".
+
+Description
+The input to the integraph is a tracing point that is the guiding point that traces the differential curve. The output is defined by the path a disk that rolls along the paper without slipping takes. The mechanism sets the angle of the output disk based on the position of the input curve: if the input is zero, the disk is angled to roll straight, parallel to the x axis on the Cartesian plane. If the input is above zero the disk is angled slightly toward the positive y direction, such that the y value of its position increases as it rolls in that direction.  If the input is below zero, the disk is angled the other way such that its y position decreases as it rolls.
+The hardware consists of a rectangular carriage which moves left to right on rollers. Two sides of the carriage run parallel to the x axis. The other two sides are parallel to the y axis. Along the trailing vertical (y axis) rail slides a smaller carriage holding a tracing point. Along the leading vertical rail slides a second smaller carriage to which is affixed a small, sharp disc, which rests and rolls (but does not slide) on the graphing paper. The trailing carriage is connected both with a point in the center of the carriage and the disc on the leading rail by a system of sliding crossheads and wires, such that the tracing point must follow the disc's tangential path.
+
+Mechanism
+The integraph plots (traces) the integral curve
+
+  
+    
+      
+        Y
+        =
+        F
+        (
+        x
+        )
+        =
+        ∫
+        f
+        (
+        x
+        )
+        d
+        x
+        ,
+      
+    
+    {\displaystyle Y=F(x)=\int f(x)dx,}
+  when we are given the differential curve,
+
+  
+    
+      
+        y
+        =
+        f
+        (
+        x
+        )
+        .
+      
+    
+    {\displaystyle y=f(x).}
+  The mathematical basis of the mechanism depends on the following considerations: For any point (x, y) of the differential curve, construct the auxiliary triangle with vertices (x, y), (x, 0) and (x − 1, 0). The hypotenuse of this right triangle intersects the X-axis making an angle the value of whose tangent is y. This hypotenuse is parallel to the tangent line of the integral curve at (X, Y) that corresponds to (x, y). 
+The integraph may be used to obtain a quadrature of the circle. If the differential curve is the unit circle, the integral curve intersects the lines X = ± 1 at points that are equally spaced at a distance of π/2.
+
+See also
+Mathematical instrument
+Planimeter
+
+References
+
+Granville, William. Elements of Differential and Integral Calculus, New Edition. Ginn and Company. NY, NY, 1934
+Bruno Abdank-Abakanowicz, Les intégraphes, la courbe intégrale et ses applications: étude sur un nouveau système d'intégrateurs mécaniques.Gauthier-Villars, 1886 available at Google Books

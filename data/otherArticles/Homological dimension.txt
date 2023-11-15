@@ -1,0 +1,7 @@
+Homological dimension may refer to the global dimension of a ring. It may also refer to any other concept of dimension that is defined in terms of homological algebra, which includes:
+
+Projective dimension of a module, based on projective resolutions
+Injective dimension of a module, based on injective resolutions
+Weak dimension of a module, or flat dimension, based on flat resolutions
+Weak global dimension of a ring, based on the weak dimension of its modules
+Cohomological dimension of a group

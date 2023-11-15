@@ -1,0 +1,20 @@
+Wedge (∧) is a symbol that looks similar to an in-line caret (^). It is used to represent various operations. In Unicode, the symbol is encoded U+2227 ∧ LOGICAL AND (&and;, &wedge;) and by \wedge and \land in TeX. The opposite symbol (∨) is called a vel, or sometimes a (descending) wedge. Some authors who call the descending wedge vel often call the ascending wedge ac (the corresponding Latin word for "and", also spelled "atque"), keeping their usage parallel
+
+Use
+Wedge is used to represent various operations:
+
+Logical conjunction in propositional logic and first-order logic
+Meet in lattice theory
+Exterior product or wedge product in differential geometry
+
+See also
+
+Turned v
+Vel (symbol)
+List of mathematical symbols
+List of logic symbols
+Wedge (disambiguation)
+/\ (disambiguation)
+
+
+== References ==

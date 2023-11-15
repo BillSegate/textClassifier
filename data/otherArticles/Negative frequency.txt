@@ -1,0 +1,983 @@
+In mathematics, signed frequency (negative and positive frequency) expands upon the concept of frequency, from just an absolute value representing how often some repeating event occurs, to also have a positive or negative sign representing one of two opposing orientations for occurrences of those events. The following examples help illustrate the concept:
+
+For a rotating object, the absolute value of its frequency of rotation indicates how many rotations the object completes per unit of time, while the sign could indicate whether it is rotating clockwise or counterclockwise.
+Mathematically speaking, the vector 
+  
+    
+      
+        (
+        cos
+        ⁡
+        (
+        t
+        )
+        ,
+        sin
+        ⁡
+        (
+        t
+        )
+        )
+      
+    
+    {\displaystyle (\cos(t),\sin(t))}
+   has a positive frequency of +1 radian per unit of time and rotates counterclockwise around the unit circle, while the vector 
+  
+    
+      
+        (
+        cos
+        ⁡
+        (
+        −
+        t
+        )
+        ,
+        sin
+        ⁡
+        (
+        −
+        t
+        )
+        )
+      
+    
+    {\displaystyle (\cos(-t),\sin(-t))}
+   has a negative frequency of -1 radian per unit of time, which rotates clockwise instead.
+For a harmonic oscillator such as a pendulum, the absolute value of its frequency indicates how many times it swings back and forth per unit of time, while the sign could indicate in which of the two opposite directions it started moving.
+For a periodic function represented in a Cartesian coordinate system, the absolute value of its frequency indicates how often in its domain it repeats its values, while changing the sign of its frequency could represent a reflection around its y-axis.
+
+Sinusoids
+Let 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   be a nonnegative angular frequency with units of radians per unit of time and let 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   be a phase in radians. A function 
+  
+    
+      
+        θ
+        (
+        t
+        )
+        =
+        −
+        ω
+        t
+        +
+        φ
+      
+    
+    {\displaystyle \theta (t)=-\omega t+\varphi }
+   has slope 
+  
+    
+      
+        −
+        ω
+        .
+      
+    
+    {\displaystyle -\omega .}
+   When used as the argument of a sinusoid, 
+  
+    
+      
+        −
+        ω
+      
+    
+    {\displaystyle -\omega }
+   can represent a negative frequency.
+Because cosine is an even function, the negative frequency sinusoid 
+  
+    
+      
+        cos
+        ⁡
+        (
+        −
+        ω
+        t
+        +
+        φ
+        )
+      
+    
+    {\displaystyle \cos(-\omega t+\varphi )}
+   is indistinguishable from the positive frequency sinusoid 
+  
+    
+      
+        cos
+        ⁡
+        (
+        ω
+        t
+        −
+        φ
+        )
+        .
+      
+    
+    {\displaystyle \cos(\omega t-\varphi ).}
+  
+Similarly, because sine is an odd function, the negative frequency sinusoid 
+  
+    
+      
+        sin
+        ⁡
+        (
+        −
+        ω
+        t
+        +
+        φ
+        )
+      
+    
+    {\displaystyle \sin(-\omega t+\varphi )}
+   is indistinguishable from the positive frequency sinusoid 
+  
+    
+      
+        
+          -
+        
+        sin
+        ⁡
+        (
+        ω
+        t
+        −
+        φ
+        )
+      
+    
+    {\displaystyle {\text{-}}\sin(\omega t-\varphi )}
+   or 
+  
+    
+      
+        sin
+        ⁡
+        (
+        ω
+        t
+        −
+        φ
+        +
+        π
+        )
+        .
+      
+    
+    {\displaystyle \sin(\omega t-\varphi +\pi ).}
+  
+Thus any sinusoid can be represented in terms of positive frequencies only.
+
+The sign of the underlying phase slope is ambiguous. Because 
+  
+    
+      
+        cos
+        ⁡
+        (
+        ω
+        t
+        +
+        φ
+        )
+      
+    
+    {\displaystyle \cos(\omega t+\varphi )}
+   leads 
+  
+    
+      
+        sin
+        ⁡
+        (
+        ω
+        t
+        +
+        φ
+        )
+      
+    
+    {\displaystyle \sin(\omega t+\varphi )}
+   by 
+  
+    
+      
+        
+          
+            
+              π
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {\pi }{2}}}
+   radians (or 1/4 cycle) for positive frequencies and lags by the same amount for negative frequencies, the ambiguity about the phase slope is resolved simply by observing a cosine and sine operator simultaneously and seeing which one leads the other.
+The sign of 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   is also preserved in the complex-valued function:
+
+since 
+  
+    
+      
+        R
+        (
+        t
+        )
+      
+    
+    {\displaystyle R(t)}
+   and 
+  
+    
+      
+        I
+        (
+        t
+        )
+      
+    
+    {\displaystyle I(t)}
+   can be separately observed and compared. A common interpretation is that 
+  
+    
+      
+        
+          e
+          
+            i
+            ω
+            t
+          
+        
+      
+    
+    {\displaystyle e^{i\omega t}}
+  is a simpler function than either of its components, because it simplifies multiplicative trigonometric calculations, which leads to its formal description as the analytic representation of 
+  
+    
+      
+        cos
+        ⁡
+        (
+        ω
+        t
+        )
+      
+    
+    {\displaystyle \cos(\omega t)}
+  .The sum of an analytic representation with its complex conjugate extracts the actual real-valued function they represent. For instance:
+
+which gives rise to the somewhat misleading interpretation that 
+  
+    
+      
+        cos
+        ⁡
+        (
+        ω
+        t
+        )
+      
+    
+    {\displaystyle \cos(\omega t)}
+   comprises both a positive and a negative frequency. But the "sum" involves a cancellation of all imaginary components 
+  
+    
+      
+        (
+        
+          
+            
+              1
+              2
+            
+          
+        
+        i
+        sin
+        ⁡
+        (
+        ω
+        t
+        )
+        −
+        
+          
+            
+              1
+              2
+            
+          
+        
+        i
+        sin
+        ⁡
+        (
+        ω
+        t
+        )
+        )
+      
+    
+    {\displaystyle ({\tfrac {1}{2}}i\sin(\omega t)-{\tfrac {1}{2}}i\sin(\omega t))}
+  . That cancellation merely results in an ambiguity about the sign of the frequency. Using either sign provides an equivalent representation of the same cosine wave.
+In any measure that indicates both frequencies, one of the two frequencies is a false positive or alias of the other, because 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   can have only one sign. The Fourier transform, for instance, merely tells us that 
+  
+    
+      
+        cos
+        ⁡
+        (
+        ω
+        t
+        )
+      
+    
+    {\displaystyle \cos(\omega t)}
+   cross-correlates equally well with 
+  
+    
+      
+        cos
+        ⁡
+        (
+        ω
+        t
+        )
+        +
+        i
+        sin
+        ⁡
+        (
+        ω
+        t
+        )
+      
+    
+    {\displaystyle \cos(\omega t)+i\sin(\omega t)}
+   as with 
+  
+    
+      
+        cos
+        ⁡
+        (
+        ω
+        t
+        )
+        −
+        i
+        sin
+        ⁡
+        (
+        ω
+        t
+        )
+        .
+      
+    
+    {\displaystyle \cos(\omega t)-i\sin(\omega t).}
+    Nevertheless, treating a real sinusoid as the combination of a positive and a negative frequency is sometimes useful (and mathematically valid).
+
+Applications
+Simplifying the Fourier transform
+Perhaps the best-known application of negative frequency is the formula:
+
+  
+    
+      
+        
+          
+            
+              f
+              ^
+            
+          
+        
+        (
+        ω
+        )
+        =
+        
+          ∫
+          
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+        f
+        (
+        t
+        )
+        
+          e
+          
+            −
+            i
+            ω
+            t
+          
+        
+        d
+        t
+        ,
+      
+    
+    {\displaystyle {\hat {f}}(\omega )=\int _{-\infty }^{\infty }f(t)e^{-i\omega t}dt,}
+  which is a measure of the energy in function 
+  
+    
+      
+        f
+        (
+        t
+        )
+      
+    
+    {\displaystyle f(t)}
+   at frequency 
+  
+    
+      
+        ω
+        .
+      
+    
+    {\displaystyle \omega .}
+   When evaluated for a continuum of argument 
+  
+    
+      
+        ω
+        ,
+      
+    
+    {\displaystyle \omega ,}
+   the result is called the Fourier transform.For instance, consider the function:
+
+  
+    
+      
+        f
+        (
+        t
+        )
+        =
+        
+          A
+          
+            1
+          
+        
+        
+          e
+          
+            i
+            
+              ω
+              
+                1
+              
+            
+            t
+          
+        
+        +
+        
+          A
+          
+            2
+          
+        
+        
+          e
+          
+            i
+            
+              ω
+              
+                2
+              
+            
+            t
+          
+        
+        ,
+         
+        ∀
+         
+        t
+        ∈
+        
+          R
+        
+        ,
+         
+        
+          ω
+          
+            1
+          
+        
+        >
+        0
+        ,
+         
+        
+          ω
+          
+            2
+          
+        
+        >
+        0.
+      
+    
+    {\displaystyle f(t)=A_{1}e^{i\omega _{1}t}+A_{2}e^{i\omega _{2}t},\ \forall \ t\in \mathbb {R} ,\ \omega _{1}>0,\ \omega _{2}>0.}
+  And:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      f
+                      ^
+                    
+                  
+                
+                (
+                ω
+                )
+              
+              
+                
+                =
+                
+                  ∫
+                  
+                    −
+                    ∞
+                  
+                  
+                    ∞
+                  
+                
+                [
+                
+                  A
+                  
+                    1
+                  
+                
+                
+                  e
+                  
+                    i
+                    
+                      ω
+                      
+                        1
+                      
+                    
+                    t
+                  
+                
+                +
+                
+                  A
+                  
+                    2
+                  
+                
+                
+                  e
+                  
+                    i
+                    
+                      ω
+                      
+                        2
+                      
+                    
+                    t
+                  
+                
+                ]
+                
+                  e
+                  
+                    −
+                    i
+                    ω
+                    t
+                  
+                
+                d
+                t
+              
+            
+            
+              
+              
+                
+                =
+                
+                  ∫
+                  
+                    −
+                    ∞
+                  
+                  
+                    ∞
+                  
+                
+                
+                  A
+                  
+                    1
+                  
+                
+                
+                  e
+                  
+                    i
+                    
+                      ω
+                      
+                        1
+                      
+                    
+                    t
+                  
+                
+                
+                  e
+                  
+                    −
+                    i
+                    ω
+                    t
+                  
+                
+                d
+                t
+                +
+                
+                  ∫
+                  
+                    −
+                    ∞
+                  
+                  
+                    ∞
+                  
+                
+                
+                  A
+                  
+                    2
+                  
+                
+                
+                  e
+                  
+                    i
+                    
+                      ω
+                      
+                        2
+                      
+                    
+                    t
+                  
+                
+                
+                  e
+                  
+                    −
+                    i
+                    ω
+                    t
+                  
+                
+                d
+                t
+              
+            
+            
+              
+              
+                
+                =
+                
+                  ∫
+                  
+                    −
+                    ∞
+                  
+                  
+                    ∞
+                  
+                
+                
+                  A
+                  
+                    1
+                  
+                
+                
+                  e
+                  
+                    i
+                    (
+                    
+                      ω
+                      
+                        1
+                      
+                    
+                    −
+                    ω
+                    )
+                    t
+                  
+                
+                d
+                t
+                +
+                
+                  ∫
+                  
+                    −
+                    ∞
+                  
+                  
+                    ∞
+                  
+                
+                
+                  A
+                  
+                    2
+                  
+                
+                
+                  e
+                  
+                    i
+                    (
+                    
+                      ω
+                      
+                        2
+                      
+                    
+                    −
+                    ω
+                    )
+                    t
+                  
+                
+                d
+                t
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\hat {f}}(\omega )&=\int _{-\infty }^{\infty }[A_{1}e^{i\omega _{1}t}+A_{2}e^{i\omega _{2}t}]e^{-i\omega t}dt\\&=\int _{-\infty }^{\infty }A_{1}e^{i\omega _{1}t}e^{-i\omega t}dt+\int _{-\infty }^{\infty }A_{2}e^{i\omega _{2}t}e^{-i\omega t}dt\\&=\int _{-\infty }^{\infty }A_{1}e^{i(\omega _{1}-\omega )t}dt+\int _{-\infty }^{\infty }A_{2}e^{i(\omega _{2}-\omega )t}dt\end{aligned}}}
+  Note that although most functions do not comprise infinite duration sinusoids, that idealization is a common simplification that facilitates understanding.
+Looking at the first term of this result, when 
+  
+    
+      
+        ω
+        =
+        
+          ω
+          
+            1
+          
+        
+        ,
+      
+    
+    {\displaystyle \omega =\omega _{1},}
+   the negative frequency 
+  
+    
+      
+        −
+        
+          ω
+          
+            1
+          
+        
+      
+    
+    {\displaystyle -\omega _{1}}
+   cancels the positive frequency, leaving just the constant coefficient 
+  
+    
+      
+        
+          A
+          
+            1
+          
+        
+      
+    
+    {\displaystyle A_{1}}
+   (because 
+  
+    
+      
+        
+          e
+          
+            i
+            0
+            t
+          
+        
+        =
+        
+          e
+          
+            0
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle e^{i0t}=e^{0}=1}
+  ), which causes the infinite integral to diverge.  At other values of 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   the residual oscillations cause the integral to converge to zero.  This idealized Fourier transform is usually written as:
+
+  
+    
+      
+        
+          
+            
+              f
+              ^
+            
+          
+        
+        (
+        ω
+        )
+        =
+        2
+        π
+        
+          A
+          
+            1
+          
+        
+        δ
+        (
+        ω
+        −
+        
+          ω
+          
+            1
+          
+        
+        )
+        +
+        2
+        π
+        
+          A
+          
+            2
+          
+        
+        δ
+        (
+        ω
+        −
+        
+          ω
+          
+            2
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle {\hat {f}}(\omega )=2\pi A_{1}\delta (\omega -\omega _{1})+2\pi A_{2}\delta (\omega -\omega _{2}).}
+  For realistic durations, the divergences and convergences are less extreme, and smaller non-zero convergences (spectral leakage) appear at many other frequencies, but the concept of negative frequency still applies.  Fourier's original formulation (the sine transform and the cosine transform) requires an integral for the cosine and another for the sine.  And the resultant trigonometric expressions are often less tractable than complex exponential expressions.  (see Analytic signal, Euler's formula § Relationship to trigonometry, and Phasor)
+
+Sampling of positive and negative frequencies and aliasing
+See also
+Angle § Sign
+
+Notes
+Further reading
+Positive and Negative Frequencies
+Lyons, Richard G. (Nov 11, 2010). Chapt 8.4. Understanding Digital Signal Processing (3rd ed.). Prentice Hall. 944 pgs. ISBN 0137027419.
+Lyons, Richard G. (Nov 2001). "Understanding Digital Signal Processing's Frequency Domain". RF Design magazine. Retrieved Dec 29, 2022.

@@ -1,0 +1,433 @@
+The history of logarithms is the story of a correspondence (in modern terms, a group isomorphism) between multiplication on the positive real numbers and addition on the real number line that was formalized in seventeenth century Europe and was widely used to simplify calculation until the advent of the digital computer.  The Napierian logarithms were published first in 1614. E. W. Hobson called it "one of the very greatest scientific discoveries that the world has seen.": p.5  Henry Briggs introduced common (base 10) logarithms, which were easier to use. Tables of logarithms were published in many forms over four centuries. The idea of logarithms was also used to construct the slide rule, which became ubiquitous in science and engineering until the 1970s. A breakthrough generating the natural logarithm was the result of a search for an expression of area against a rectangular hyperbola, and required the assimilation of a new function into standard mathematics.
+
+Napier's wonderful invention
+The method of logarithms was publicly propounded for the first time by John Napier in 1614, in his book entitled Mirifici Logarithmorum Canonis Descriptio (Description of the Wonderful Canon of Logarithms). The book contains fifty-seven pages of explanatory matter and ninety pages of tables of trigonometric functions and their natural logarithms. These tables greatly simplified calculations in spherical trigonometry, which are central to astronomy and celestial navigation and which typically include products of sines, cosines and other functions. Napier described other uses, such as solving ratio problems, as well.John Napier wrote a separate volume describing how he constructed his tables, but held off publication to see how his first book would be received. John died in 1617. His son, Robert, published his father's book, Mirifici Logarithmorum Canonis Constructio (Construction of the Wonderful Canon of Logarithms), with additions by Henry Briggs, in 1619 in Latin and then in 1620 in English.Napier conceived the logarithm as the relationship between two particles moving along a line, one at constant speed and the other at a speed proportional to its distance from a fixed endpoint. While in modern terms, the logarithm function can be explained simply as the inverse of the exponential function or as the integral of 1/x, Napier worked decades before calculus was invented, the exponential function was understood, or coordinate geometry was developed by Descartes.: pp.6–8  Napier pioneered the use of a decimal point in numerical calculation, something that did not become commonplace until the next century.: pp.21–23 Napier's new method for computation gained rapid acceptance. Johannes Kepler praised it; Edward Wright, an authority on navigation, translated Napier's Descriptio into English the next year. Briggs extended the concept to the more convenient base 10.: pp.16–18
+
+Common logarithm
+As the common log of ten is one, of a hundred is two, and a thousand is three, the concept of common logarithms is very close to the decimal-positional number system. The common log is said to have base 10, but base 10,000 is ancient and still common in East Asia. In his book The Sand Reckoner, Archimedes used the myriad as the base of a number system designed to count the grains of sand in the universe. As was noted in 2000:
+In antiquity Archimedes gave a recipe for reducing multiplication to addition by making use of geometric progression of numbers and relating them to an arithmetic progression.In 1616 Henry Briggs visited John Napier at Edinburgh in order to discuss the suggested change to Napier's logarithms. The following year he again visited for a similar purpose. During these conferences the alteration proposed by Briggs was agreed upon, and on his return from his second visit to Edinburgh, in 1617, he published the first chiliad of his logarithms.
+In 1624, Briggs published his Arithmetica Logarithmica, in folio, a work containing the logarithms of thirty thousand natural numbers to fourteen decimal places (1-20,000 and 90,001 to 100,000).
+This table was later extended by Adriaan Vlacq, but to 10 places, and by Alexander John Thompson to 20 places in 1952.
+Briggs was one of the first to use finite-difference methods to compute tables of functions.
+He also completed a table of logarithmic sines and tangents for the hundredth part of every degree to fourteen decimal places, with a table of natural sines to fifteen places and the tangents and secants for the same to ten places, all of which were printed at Gouda in 1631 and published in 1633 under the title of Trigonometria Britannica; this work was probably a successor to his 1617 Logarithmorum Chilias Prima ("The First Thousand Logarithms"), which gave a brief account of logarithms and a long table of the first 1000 integers calculated to the 14th decimal place.
+
+Natural logarithm
+In 1649, Alphonse Antonio de Sarasa, a former student of Grégoire de Saint-Vincent, related logarithms to the quadrature of the hyperbola, by pointing out that the area A(t) under the hyperbola from x = 1 to x = t satisfies
+
+  
+    
+      
+        A
+        (
+        t
+        u
+        )
+        =
+        A
+        (
+        t
+        )
+        +
+        A
+        (
+        u
+        )
+        .
+      
+    
+    {\displaystyle A(tu)=A(t)+A(u).}
+  At first the reaction to Saint-Vincent's hyperbolic logarithm was a continuation of studies of quadrature as in Christiaan Huygens (1651) and James Gregory (1667). Subsequently, an industry of making logarithms arose as "logaritmotechnia", the title of works by Nicholas Mercator (1668), Euclid Speidell (1688), and John Craig (1710)By use of the geometric series with its conditional radius of convergence, an alternating series called the Mercator series expresses the logarithm function over the interval (0,2). Since the series is negative in (0,1), the "area under the hyperbola" must be considered negative there, so a signed measure, instead of purely positive area, determines the hyperbolic logarithm.
+Historian Tom Whiteside described the transition to the analytic function as follows:
+By the end of the 17th century we can say that much more than being a calculating device suitably well-tabulated, the logarithm function, very much on the model of the hyperbola-area, had been accepted into mathematics. When, in the 18th century, this geometric basis was discarded in favour of a fully analytical one, no extension or reformulation was necessary – the concept of "hyperbola-area" was transformed painlessly into "natural logarithm".Leonard Euler treated a logarithm as an exponent of a certain number called the base of the logarithm. He noted that the number 2.71828, and its reciprocal, provided a point on the hyperbola xy = 1 such that an area of one square unit lies beneath the hyperbola, right of (1,1) and above the asymptote of the hyperbola. He then called the logarithm, with this number as base, the natural logarithm.
+As noted by Howard Eves, "One of the anomalies in the history of mathematics is the fact that logarithms were discovered before exponents were in use." Carl B. Boyer wrote, "Euler was among the first to treat logarithms as exponents, in the manner now so familiar."
+
+Pioneers of logarithms
+Predecessors
+The Babylonians sometime in 2000–1600 BC may have invented the quarter square multiplication algorithm to multiply two numbers using only addition, subtraction and a table of quarter squares. Thus, such a table served a similar purpose to tables of logarithms, which also allow multiplication to be calculated using addition and table lookups. However, the quarter-square method could not be used for division without an additional table of reciprocals (or the knowledge of a sufficiently simple algorithm to generate reciprocals). Large tables of quarter squares were used to simplify the accurate multiplication of large numbers from 1817 onwards until this was superseded by the use of computers.The Indian mathematician Virasena worked with the concept of ardhaccheda: the number of times a number of the form 2n could be halved. For exact powers of 2, this equals the binary logarithm, but it differs from the logarithm for other numbers and it gives 2-adic order rather than the logarithm.Michael Stifel published Arithmetica integra in Nuremberg in 1544, which contains a table of integers and powers of 2 that has been considered an early version of a table of binary logarithms.In the 16th and early 17th centuries an algorithm called prosthaphaeresis was used to approximate multiplication and division. This used the trigonometric identity
+
+  
+    
+      
+        cos
+        ⁡
+        α
+        cos
+        ⁡
+        β
+        =
+        
+          
+            1
+            2
+          
+        
+        [
+        cos
+        ⁡
+        (
+        α
+        +
+        β
+        )
+        +
+        cos
+        ⁡
+        (
+        α
+        −
+        β
+        )
+        ]
+      
+    
+    {\displaystyle \cos \alpha \cos \beta ={\frac {1}{2}}[\cos(\alpha +\beta )+\cos(\alpha -\beta )]}
+  or similar to convert the multiplications to additions and table lookups. However, logarithms are more straightforward and require less work. It can be shown using Euler's formula that the two techniques are related.
+
+Bürgi
+The Swiss mathematician Jost Bürgi constructed a table of progressions which can be considered a table of antilogarithms independently of John Napier, whose publication (1614) was known by the time Bürgi published at the behest of Johannes Kepler. We know that Bürgi had some way of simplifying calculations around 1588, but most likely this way was the use of prosthaphaeresis, and not the use of his table of progressions which probably goes back to about 1600. Indeed, Wittich, who was in Kassel from 1584 to 1586, brought with him knowledge of prosthaphaeresis, a method by which multiplications and divisions can be replaced by additions and subtractions of trigonometrical values.  This procedure achieves the same as the logarithms will a few years later.
+
+Napier
+The method of logarithms was first publicly propounded by John Napier in 1614, in a book titled Mirifici Logarithmorum Canonis Descriptio.Johannes Kepler, who used logarithm tables extensively to compile his Ephemeris and therefore dedicated it to Napier, remarked:
+
+ ... the accent in calculation led Justus Byrgius [Joost Bürgi] on the way to these very logarithms many years before Napier's system appeared; but ... instead of rearing up his child for the public benefit he deserted it in the birth.
+Napier imagined a point P travelling across a line segment P0 to Q. Starting at P0, with a certain initial speed, P travels at a speed proportional to its distance to Q, causing P to never reach Q. Napier juxtaposed this figure with that of a point L travelling along
+an unbounded line segment, starting at L0, and with a constant speed equal to that of the initial speed of point P. Napier defined the
+distance from L0 to L as the logarithm of the distance from P to Q.By repeated subtractions Napier calculated (1 − 10−7)L for L ranging from 1 to 100. The result for L=100 is approximately 0.99999 = 1 − 10−5. Napier then calculated the products of these numbers with 107(1 − 10−5)L for L from 1 to 50, and did similarly with 0.9998 ≈ (1 − 10−5)20 and 0.9 ≈ 0.99520. These computations, which occupied 20 years, allowed him to give, for any number N from 5 to 10 million, the number L that solves the equation
+
+  
+    
+      
+        N
+        =
+        
+          10
+          
+            7
+          
+        
+        (
+        1
+        −
+        
+          10
+          
+            −
+            7
+          
+        
+        
+          )
+          
+            L
+          
+        
+        .
+      
+    
+    {\displaystyle N=10^{7}(1-10^{-7})^{L}.}
+  Napier first called L an "artificial number", but later introduced the word "logarithm" to mean a number that indicates a ratio: λόγος (logos) meaning proportion, and ἀριθμός (arithmos) meaning number. In modern notation, the relation to natural logarithms is:
+
+  
+    
+      
+        L
+        =
+        
+          log
+          
+            (
+            1
+            −
+            
+              10
+              
+                −
+                7
+              
+            
+            )
+          
+        
+        ⁡
+        
+          (
+          
+            
+              N
+              
+                10
+                
+                  7
+                
+              
+            
+          
+          )
+        
+        ≈
+        
+          10
+          
+            7
+          
+        
+        
+          log
+          
+            1
+            
+              /
+            
+            e
+          
+        
+        ⁡
+        
+          (
+          
+            
+              N
+              
+                10
+                
+                  7
+                
+              
+            
+          
+          )
+        
+        =
+        −
+        
+          10
+          
+            7
+          
+        
+        
+          log
+          
+            e
+          
+        
+        ⁡
+        
+          (
+          
+            
+              N
+              
+                10
+                
+                  7
+                
+              
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle L=\log _{(1-10^{-7})}\left({\frac {N}{10^{7}}}\right)\approx 10^{7}\log _{1/e}\left({\frac {N}{10^{7}}}\right)=-10^{7}\log _{e}\left({\frac {N}{10^{7}}}\right),}
+  where the very close approximation corresponds to the observation that
+
+  
+    
+      
+        (
+        1
+        −
+        
+          10
+          
+            −
+            7
+          
+        
+        
+          )
+          
+            
+              10
+              
+                7
+              
+            
+          
+        
+        ≈
+        
+          
+            1
+            e
+          
+        
+        .
+      
+    
+    {\displaystyle (1-10^{-7})^{10^{7}}\approx {\frac {1}{e}}.}
+  The invention was quickly and widely met with acclaim. The works of Bonaventura Cavalieri (Italy), Edmund Wingate (France), Xue Fengzuo (China), and Johannes Kepler's Chilias logarithmorum (Germany) helped spread the concept further.
+
+Euler
+Around 1730, Leonhard Euler defined the exponential function and the natural logarithm by
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  e
+                  
+                    x
+                  
+                
+              
+              
+                
+                =
+                
+                  lim
+                  
+                    n
+                    →
+                    ∞
+                  
+                
+                
+                  
+                    (
+                    
+                      1
+                      +
+                      
+                        
+                          x
+                          n
+                        
+                      
+                    
+                    )
+                  
+                  
+                    n
+                  
+                
+                ,
+              
+            
+            
+              
+                ln
+                ⁡
+                (
+                x
+                )
+              
+              
+                
+                =
+                
+                  lim
+                  
+                    n
+                    →
+                    ∞
+                  
+                
+                n
+                (
+                
+                  x
+                  
+                    1
+                    
+                      /
+                    
+                    n
+                  
+                
+                −
+                1
+                )
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}e^{x}&=\lim _{n\rightarrow \infty }\left(1+{\frac {x}{n}}\right)^{n},\\[6pt]\ln(x)&=\lim _{n\rightarrow \infty }n(x^{1/n}-1).\end{aligned}}}
+  In his 1748 textbook Introduction to the Analysis of the Infinite, Euler published the now-standard approach to logarithms via an inverse function: In chapter 6, "On exponentials and logarithms", he begins with a constant base a and discusses the transcendental function 
+  
+    
+      
+        y
+        =
+        
+          a
+          
+            z
+          
+        
+        .
+      
+    
+    {\displaystyle y=a^{z}.}
+   Then its inverse is the logarithm:
+
+z = loga y.
+
+Tables of logarithms
+Mathematical tables containing common logarithms (base-10) were extensively used in computations prior to the advent of computers and calculators, not only because logarithms convert problems of multiplication and division into much easier addition and subtraction problems, but for an additional property that is unique to base-10 and proves useful: Any positive number can be expressed as the product of a number from the interval [1,10) and an integer power of 10. This can be envisioned as shifting the decimal separator of the given number to the left yielding a positive, and to the right yielding a negative exponent of 10. Only the logarithms of these normalized numbers (approximated by a certain number of digits), which are called mantissas, need to be tabulated in lists to a similar precision (a similar number of digits). These mantissas are all positive and enclosed in the interval [0,1). The common logarithm of any given positive number is then obtained by adding its mantissa to the common logarithm of the second factor. This logarithm is called the characteristic of the given number. Since the common logarithm of a power of 10 is exactly the exponent, the characteristic is an integer number, which makes the common logarithm exceptionally useful in dealing with decimal numbers. For numbers less than 1, the characteristic makes the resulting logarithm negative, as required. See common logarithm for details on the use of characteristics and mantissas.
+
+Early tables
+Michael Stifel published Arithmetica integra in Nuremberg in 1544 which contains a table of integers and powers of 2 that has been considered an early version of a logarithmic table.The first published table of logarithms was in John Napier's 1614,  Mirifici Logarithmorum Canonis Descriptio. The book contained fifty-seven pages of explanatory matter and ninety pages of tables of trigonometric functions and their natural logarithms.The English mathematician Henry Briggs visited Napier in 1615, and proposed a re-scaling of Napier's logarithms to form what is now known as the common or base-10 logarithms. Napier delegated to Briggs the computation of a revised table, and they later published, in 1617, Logarithmorum Chilias Prima ("The First Thousand Logarithms"), which gave a brief account of logarithms and a table for the first 1000 integers calculated to the 14th decimal place.
+In 1624, Briggs' Arithmetica Logarithmica appeared in folio as a work containing the logarithms of 30,000 natural numbers to fourteen decimal places (1-20,000 and 90,001 to 100,000). This table was later extended by Adriaan Vlacq, but to 10 places, and by Alexander John Thompson to 20 places in 1952.
+Briggs was one of the first to use finite-difference methods to compute tables of functions.Vlacq's table was later found to contain 603 errors, but "this cannot be regarded as a great number, when it is considered that the table was the result of an original calculation, and that more than 2,100,000 printed figures are liable to error."  An edition of Vlacq's work, containing many corrections, was issued at Leipzig in 1794 under the title Thesaurus Logarithmorum Completus by Jurij Vega.
+François Callet's seven-place table (Paris, 1795), instead of stopping at 100,000, gave the eight-place logarithms of the numbers between 100,000 and 108,000, in order to diminish the errors of interpolation, which were greatest in the early part of the table, and this addition was generally included in seven-place tables. The only important published extension of Vlacq's table was made by Edward Sang in 1871, whose table contained the seven-place logarithms of all numbers below 200,000.
+Briggs and Vlacq also published original tables of the logarithms of the trigonometric functions. Briggs completed a table of logarithmic sines and logarithmic tangents for the hundredth part of every degree to fourteen decimal places, with a table of natural sines to fifteen places and the tangents and secants for the same to ten places, all of which were printed at Gouda in 1631 and published in 1633 under the title of Trigonometria Britannica. Tables logarithms of trigonometric functions simplify hand calculations where a function of an angle must be multiplied by another number, as is often the case.
+Besides the tables mentioned above, a great collection, called Tables du Cadastre, was constructed under the direction of Gaspard de Prony, by an original computation, under the auspices of the French republican government of the 1790s.  This work, which contained the logarithms of all numbers up to 100,000 to nineteen places, and of the numbers between 100,000 and 200,000 to twenty-four places, exists only in manuscript, "in seventeen enormous folios," at the Observatory of Paris.  It was begun in 1792, and "the whole of the calculations, which to secure greater accuracy were performed in duplicate, and the two manuscripts subsequently collated with care, were completed in the short space of two years." Cubic interpolation could be used to find the logarithm of any number to a similar accuracy.
+For different needs, logarithm tables ranging from small handbooks to multi-volume editions have been compiled:
+
+Slide rule
+The slide rule was invented around 1620–1630, shortly after John Napier's publication of the concept of the logarithm. Edmund Gunter of Oxford developed a calculating device with a single logarithmic scale; with additional measuring tools it could be used to multiply and divide. The first description of this scale was published in Paris in 1624 by Edmund Wingate (c.1593–1656), an English mathematician, in a book entitled L'usage de la reigle de proportion en l'arithmetique & geometrie. The book contains a double scale, logarithmic on one side, tabular on the other. In 1630, William Oughtred of Cambridge invented a circular slide rule, and in 1632 combined two handheld Gunter rules to make a device that is recognizably the modern slide rule. Like his contemporary at Cambridge, Isaac Newton, Oughtred taught his ideas privately to his students.  Also like Newton, he became involved in a vitriolic controversy over priority, with his one-time student Richard Delamain and the prior claims of Wingate. Oughtred's ideas were only made public in publications of his student William Forster in 1632 and 1653.
+In 1677, Henry Coggeshall created a two-foot folding rule for timber measure, called the Coggeshall slide rule, expanding the slide rule's use beyond mathematical inquiry.
+In 1722, Warner introduced the two- and three-decade scales, and in 1755 Everard included an inverted scale; a slide rule containing all of these scales is usually known as a "polyphase" rule.
+In 1815, Peter Mark Roget invented the log log slide rule, which included a scale displaying the logarithm of the logarithm. This allowed the user to directly perform calculations involving roots and exponents. This was especially useful for fractional powers.
+In 1821, Nathaniel Bowditch, described in the American Practical Navigator a "sliding rule" that contained scales trigonometric functions on the fixed part and a line of log-sines and log-tans on the slider used to solve navigation problems.
+In 1845, Paul Cameron of Glasgow introduced a Nautical Slide-Rule capable of answering navigation questions, including right ascension and declination of the sun and principal stars.
+
+Modern form
+A more modern form of slide rule was created in 1859 by French artillery lieutenant Amédée Mannheim, "who was fortunate in having his rule made by a firm of national reputation and in having it adopted by the French Artillery." It was around this time that engineering became a recognized profession, resulting in widespread slide rule use in Europe–but not in the United States.  There Edwin Thacher's cylindrical rule took hold after 1881. The duplex rule was invented by William Cox in 1891, and was produced by Keuffel and Esser Co. of New York.
+
+Impact
+Writing in 1914 on the 300th anniversary of Napier's tables, E. W. Hobson described logarithms as "providing a great labour-saving instrument for the use of all those who have occasion to carry out extensive numerical calculations" and comparing it in importance to the "Indian invention" of our decimal number system.: p. 5  
+Napier's improved method of calculation was soon adopted in Britain and Europe. Kepler dedicated his 1620 Ephereris to Napier, congratulating him on his invention and its benefits to astronomy.: p. 16  Edward Wright, an authority on celestial navigation, translated Napier's Latin Descriptio into English in 1615, shortly after its publication. Briggs extended the concept to the more convenient base 10, or common logarithm.: pp.16–18 “Probably no work has ever influenced science as a whole, and mathematics in particular, so profoundly as this modest little book [the Descriptio]. It opened the way for the abolition, once and for all, of the infinitely laborious, nay, nightmarish, processes of long division and multiplication, of finding the power and the root of numbers.”The logarithm function remains a staple of mathematical analysis, but printed tables of logarithms gradually diminished in importance in the twentieth century as mechanical calculators and, later, electronic computers took over computations that required high accuracy. The introduction of hand-held scientific calculators in the 1970s ended the era of slide rules. Logarithmic scale graphs are widely used to display data with a wide range. The decibel, a logarithmic unit, is also widely used. The current, 2002, edition of The American Practical Navigator (Bowditch) still contains tables of logarithms and logarithms of trigonometric functions.: p.565ff
+
+References
+Original sources
+Henry Briggs (1624) Arithmetica Logarithmica
+Grégoire de Saint-Vincent (1647) Opus Geometricum Quadraturae Circuli et Sectionum Coni
+Christiaan Huygens (1651) Theoremata de quadratura hyperboles, ellipsis et circuli, in Oeuvres Complètes, Tome XI, link from Internet Archive.
+James Gregory (1667) Vera Circuli et Hyperbolae Quadratura, Padua: Patavii, via Internet Archive
+William Brouncker (1667) The Squaring of the Hyperbola, Philosophical Transactions of the Royal Society of London, abridged edition 1809, v. i, pp 233–6, link form Biodiversity Heritage Library.
+Nicholas Mercator (1668) Logarithmitechnia, London
+
+Secondary sources
+Frances Maseres (1791) Scriptores Logarithmici, or a collection of several curious tracts on the nature and construction of logarithms, link from Google Books.
+Karl Bopp (1907) "Die Kegelschnitte der Gregorius a St. Vincentio", Abhandlungen zum Geschichte der mathematische Wissenschaft, XX Heft.
+Florian Cajori (1913) "History of the exponential and logarithm concepts", American Mathematical Monthly 20: pages 5 to 14, pages 35 to 47, pages 75 to 84, pages 107 to 117, pages 148 to 151, pages 173 to 182, pages 205 to 210, links from Jstor
+George A. Gibson (1922) "James Gregory’s mathematical work", Proceedings of the Edinburgh Mathematical Society 41: 2 to 25 & (second series) 1: 1 to 18.
+Christoph J. Scriba (1983) "Gregory’s converging double sequence: a new look at the controversy between Huygens and Gregory over the 'analytical' quadrature of the circle", Historia Mathematica 10: 274 to 85.
+R.C. Pierce (1977) "A brief history of logarithm", Two-Year College Mathematics Journal 8(1):22–6.
+K.M. Clark (2012) "Priority, parallel discovery, and pre-eminence: Napier, Burgi and the early history of the logarithm relation", Revue d’histoire de Mathematique 18(2): 223–70.
+
+External links
+
+Rafael Villareal-Calderon (2008) Chopping Logs: A Look at the History and Uses of Logs, The Montana Mathematical Enthusiast 5(2,3): 237 to 44, link from University of Montana
+Martin Flashman The History of Logarithms from Humboldt State University

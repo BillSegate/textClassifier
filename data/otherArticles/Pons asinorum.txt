@@ -1,0 +1,370 @@
+In geometry, the statement that the angles opposite the equal sides of an isosceles triangle are themselves equal is known as the pons asinorum (Latin: [ˈpõːs asɪˈnoːrũː], English:  PONZ ass-i-NOR-əm), typically translated as "bridge of asses". This statement is Proposition 5 of Book 1 in Euclid's Elements, and is also known as the isosceles triangle theorem.  Its converse is also true: if two angles of a triangle are equal, then the sides opposite them are also equal. The term is also applied to the Pythagorean theorem.Pons asinorum is also used metaphorically for a problem or challenge which acts as a test of critical thinking, referring to the "ass' bridge's" ability to separate capable and incapable reasoners. Its first known usage in this context was in 1645.A persistent piece of mathematical folklore claims that an artificial intelligence program discovered an original and more elegant proof of this theorem. In fact, Marvin Minsky recounts that he had rediscovered the Pappus proof (which he was not aware of) by simulating what a mechanical theorem prover might do.
+
+Proofs
+Euclid and Proclus
+Euclid's statement of the pons asinorum includes a second conclusion that if the equal sides of the triangle are extended below the base, then the angles between the extensions and the base are also equal. Euclid's proof involves drawing auxiliary lines to these extensions. But, as Euclid's commentator Proclus points out, Euclid never uses the second conclusion and his proof can be simplified somewhat by drawing the auxiliary lines to the sides of the triangle instead, the rest of the proof proceeding in more or less the same way. 
+There has been much speculation and debate as to why Euclid added the second conclusion to the theorem, given that it makes the proof more complicated. One plausible explanation, given by Proclus, is that the second conclusion can be used in possible objections to the proofs of later propositions where Euclid does not cover every case. The proof relies heavily on what is today called side-angle-side, the previous proposition in the Elements.
+Proclus' variation of Euclid's proof proceeds as follows: 
+Let ABC be an isosceles triangle with AB and AC being the equal sides. Pick an arbitrary point D on side AB and construct E on AC so that AD = AE. Draw the lines BE, DC and DE. 
+Consider the triangles BAE and CAD; BA = CA, AE = AD, and 
+  
+    
+      
+        ∠
+        A
+      
+    
+    {\displaystyle \angle A}
+   is equal to itself, so by side-angle-side, the triangles are congruent and corresponding sides and angles are equal. 
+Therefore 
+  
+    
+      
+        ∠
+        A
+        B
+        E
+        =
+        ∠
+        A
+        C
+        D
+      
+    
+    {\displaystyle \angle ABE=\angle ACD}
+   and 
+  
+    
+      
+        ∠
+        A
+        D
+        C
+        =
+        ∠
+        A
+        E
+        B
+      
+    
+    {\displaystyle \angle ADC=\angle AEB}
+  , and BE = CD. 
+Since AB = AC and AD = AE, BD = CE by subtraction of equal parts. 
+Now consider the triangles DBE and ECD; BD = CE, BE = CD, and 
+  
+    
+      
+        ∠
+        D
+        B
+        E
+        =
+        ∠
+        E
+        C
+        D
+      
+    
+    {\displaystyle \angle DBE=\angle ECD}
+   have just been shown, so applying side-angle-side again, the triangles are congruent. 
+Therefore 
+  
+    
+      
+        ∠
+        B
+        D
+        E
+        =
+        ∠
+        C
+        E
+        D
+      
+    
+    {\displaystyle \angle BDE=\angle CED}
+   and 
+  
+    
+      
+        ∠
+        B
+        E
+        D
+        =
+        ∠
+        C
+        D
+        E
+      
+    
+    {\displaystyle \angle BED=\angle CDE}
+  . 
+Since 
+  
+    
+      
+        ∠
+        B
+        D
+        E
+        =
+        ∠
+        C
+        E
+        D
+      
+    
+    {\displaystyle \angle BDE=\angle CED}
+   and 
+  
+    
+      
+        ∠
+        C
+        D
+        E
+        =
+        ∠
+        B
+        E
+        D
+      
+    
+    {\displaystyle \angle CDE=\angle BED}
+  , 
+  
+    
+      
+        ∠
+        B
+        D
+        C
+        =
+        ∠
+        C
+        E
+        B
+      
+    
+    {\displaystyle \angle BDC=\angle CEB}
+   by subtraction of equal parts.
+Consider a third pair of triangles, BDC and CEB; DB = EC, DC = EB, and 
+  
+    
+      
+        ∠
+        B
+        D
+        C
+        =
+        ∠
+        C
+        E
+        B
+      
+    
+    {\displaystyle \angle BDC=\angle CEB}
+  , so applying side-angle-side a third time, the triangles are congruent. 
+In particular, angle CBD = BCE, which was to be proved.
+
+Pappus
+Proclus gives a much shorter proof attributed to Pappus of Alexandria. This is not only simpler but it requires no additional construction at all. The method of proof is to apply side-angle-side to the triangle and its mirror image. More modern authors, in imitation of the method of proof given for the previous proposition have described this as picking up the triangle, turning it over and laying it down upon itself.
+This method is lampooned by Charles Lutwidge Dodgson in Euclid and his Modern Rivals, calling it an "Irish bull" because it apparently requires the triangle to be in two places at once.The proof is as follows: 
+Let ABC be an isosceles triangle with AB and AC being the equal sides. 
+Consider the triangles ABC and ACB, where ACB is considered a second triangle with vertices A, C and B corresponding respectively to A, B and C in the original triangle. 
+
+  
+    
+      
+        ∠
+        A
+      
+    
+    {\displaystyle \angle A}
+   is equal to itself, AB = AC and AC = AB, so by side-angle-side, triangles ABC and ACB are congruent. 
+In particular, 
+  
+    
+      
+        ∠
+        B
+        =
+        ∠
+        C
+      
+    
+    {\displaystyle \angle B=\angle C}
+  .
+
+Others
+A standard textbook method is to construct the bisector of the angle at A.
+This is simpler than Euclid's proof, but Euclid does not present the construction of an angle bisector until proposition 9. So the order of presentation of the Euclid's propositions would have to be changed to avoid the possibility of circular reasoning.
+The proof proceeds as follows:
+As before, let the triangle be ABC with AB = AC. 
+Construct the angle bisector of 
+  
+    
+      
+        ∠
+        B
+        A
+        C
+      
+    
+    {\displaystyle \angle BAC}
+   and extend it to meet BC at X. 
+AB = AC and AX is equal to itself. 
+Furthermore, 
+  
+    
+      
+        ∠
+        B
+        A
+        X
+        =
+        ∠
+        C
+        A
+        X
+      
+    
+    {\displaystyle \angle BAX=\angle CAX}
+  , so, applying side-angle-side, triangle BAX and triangle CAX are congruent. 
+It follows that the angles at B and C are equal.Legendre uses a similar construction in Éléments de géométrie, but taking X to be the midpoint of BC. The proof is similar but side-side-side must be used instead of side-angle-side, and side-side-side is not given by Euclid until later in the Elements.
+In 1876, while a member of the United States Congress, future President James A. Garfield developed a proof using the trapezoid, which was published in the New England Journal of Education. Mathematics historian William Dunham wrote that Garfield's trapezoid work was "really a very clever proof." According to the Journal, Garfield arrived at the proof "in mathematical amusements and discussions with other members of congress."
+
+In inner product spaces
+The isosceles triangle theorem holds in inner product spaces over the real or complex numbers.  In such spaces, it takes a form that says of vectors x, y, and z that if
+
+  
+    
+      
+        x
+        +
+        y
+        +
+        z
+        =
+        0
+        
+           and 
+        
+        ‖
+        x
+        ‖
+        =
+        ‖
+        y
+        ‖
+        ,
+      
+    
+    {\displaystyle x+y+z=0{\text{ and }}\|x\|=\|y\|,}
+  then
+
+  
+    
+      
+        ‖
+        x
+        −
+        z
+        ‖
+        =
+        ‖
+        y
+        −
+        z
+        ‖
+        .
+      
+    
+    {\displaystyle \|x-z\|=\|y-z\|.}
+  Since
+
+  
+    
+      
+        ‖
+        x
+        −
+        z
+        
+          ‖
+          
+            2
+          
+        
+        =
+        ‖
+        x
+        
+          ‖
+          
+            2
+          
+        
+        −
+        2
+        x
+        ⋅
+        z
+        +
+        ‖
+        z
+        
+          ‖
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle \|x-z\|^{2}=\|x\|^{2}-2x\cdot z+\|z\|^{2},}
+  and
+
+  
+    
+      
+        x
+        ⋅
+        z
+        =
+        ‖
+        x
+        ‖
+        ‖
+        z
+        ‖
+        cos
+        ⁡
+        θ
+      
+    
+    {\displaystyle x\cdot z=\|x\|\|z\|\cos \theta }
+  where θ is the angle between the two vectors, the conclusion of this inner product space form of the theorem is equivalent to the statement about equality of angles.
+
+Etymology and related terms
+Another medieval term for the pons asinorum was Elefuga which, according to Roger Bacon, comes from Greek elegia "misery", and Latin fuga "flight", that is "flight of the wretches". Though this etymology is dubious, it is echoed in Chaucer's use of the term "flemyng of wreches" for the theorem.There are two possible explanations for the name pons asinorum, the simplest being that the diagram used resembles an actual bridge. But the more popular explanation is that it is the first real test in the Elements of the intelligence of the reader and functions as a "bridge" to the harder propositions that follow. Gauss supposedly once espoused a similar belief in the necessity of immediately understanding Euler's identity as a benchmark pursuant to becoming a first-class mathematician.Similarly, the name Dulcarnon was given to the 47th proposition of Book I of Euclid, better known as the Pythagorean theorem, after the Arabic Dhū 'l qarnain ذُو ٱلْقَرْنَيْن, meaning "the owner of the two horns", because diagrams of the theorem showed two smaller squares like horns at the top of the figure. The term is also used as a metaphor for a dilemma. The theorem was also sometimes called "the Windmill" for similar reasons.
+
+Metaphorical usage
+Uses of the pons asinorum as a metaphor for a test of critical thinking include:
+
+Richard Aungerville's 14th century Philobiblon contains the passage "Quot Euclidis discipulos retrojecit Elefuga quasi scopulos eminens et abruptus, qui nullo scalarum suffragio scandi posset! Durus, inquiunt, est his sermo; quis potest eum audire?", which compares the theorem to a steep cliff that no ladder may help scale and asks how many would-be geometers have been turned away.
+The term pons asinorum, in both its meanings as a bridge and as a test, is used as a metaphor for finding the middle term of a syllogism.
+The 18th-century poet Thomas Campbell wrote a humorous poem called "Pons asinorum" where a geometry class assails the theorem as a company of soldiers might charge a fortress; the battle was not without casualties.
+Economist John Stuart Mill called Ricardo's Law of Rent the pons asinorum of economics.
+Pons Asinorum is the name given to a particular configuration of a Rubik's Cube.
+Eric Raymond referred to the issue of syntactically-significant whitespace in the Python programming language as its pons asinorum.
+The Finnish aasinsilta and Swedish åsnebrygga is a literary technique where a tenuous, even contrived connection between two arguments or topics, which is almost but not quite a non sequitur, is used as an awkward transition between them. In serious text, it is considered a stylistic error, since it belongs properly to the stream of consciousness- or causerie-style writing. Typical examples are ending a section by telling what the next section is about, without bothering to explain why the topics are related, expanding a casual mention into a detailed treatment, or finding a contrived connection between the topics (e.g. "We bought some red wine; speaking of red liquids, tomorrow is the World Blood Donor Day").
+In Dutch, ezelsbruggetje ('little bridge of asses') is the word for a mnemonic. The same is true for the German Eselsbrücke.
+In Czech, oslí můstek has two meanings – it can describe either a contrived connection between two topics or a mnemonic.
+
+References
+External links
+
+Pons asinorum at PlanetMath.
+D. E. Joyce's presentation of Euclid's Elements

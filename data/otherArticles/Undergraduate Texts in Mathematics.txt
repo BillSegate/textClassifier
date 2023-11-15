@@ -1,0 +1,194 @@
+Undergraduate Texts in Mathematics (UTM) (ISSN 0172-6056) is a series of undergraduate-level textbooks in mathematics published by Springer-Verlag.  The books in this series, like the other Springer-Verlag mathematics series, are small yellow books of a standard size.
+The books in this series tend to be written at a more elementary level than the similar Graduate Texts in Mathematics series, although there is a fair amount of overlap between the two series in terms of material covered and difficulty level.
+There is no Springer-Verlag numbering of the books like in the Graduate Texts in Mathematics series. 
+The books are numbered here by year of publication.
+
+List of books
+Halmos, Paul R. (1974). Finite-Dimensional Vector Spaces. ISBN 978-0-387-90093-3.
+Halmos, Paul R. (1974). Lectures on Boolean algebras. ISBN 978-0-387-90094-0.
+Halmos, Paul R. (1974). Naive Set Theory. ISBN 978-0-387-90092-6.
+Martin, George E. (1975). The Foundations of Geometry and the Non-Euclidean Plane. ISBN 978-1-4612-5727-1.
+Kemeny, John G.; Snell, J. Laurie (1976). Finite Markov Chains: With a New Appendix: "Generalization of a Fundamental Matrix". ISBN 978-0-387-90192-3.
+Singer, I. M.; Thorpe, J. A. (1976). Lecture Notes on Elementary Topology and Geometry. ISBN 978-0-387-90202-9.
+Apostol, Tom M. (1976). Introduction to Analytic Number Theory. ISBN 978-0-387-90163-3.
+Sigler, L. E. (1976). Algebra. ISBN 978-0-387-90195-4.
+Fleming, Wendell (1977). Functions of Several Variables. ISBN 978-0-387-90206-7.
+Croom, F. H. (1978). Basic Concepts of Algebraic Topology. ISBN 978-0-387-90288-3.
+LeCuyer, Edward J. (1978). Introduction to College Mathematics with A Programming Language. ISBN 978-0-387-90280-7.
+Duda, E.; Whyburn, G. (1979). Dynamic Topology. ISBN 978-0-387-90358-3.
+Jantosciak, J.; Prenowitz, W. (1979). Join Geometries: A Theory of Convex Sets and Linear Geometry. ISBN 978-0-387-90340-8.
+Malitz, Jerome (1979). Introduction to Mathematical Logic: Set Theory – Computable Functions – Model Theory. ISBN 978-0-387-90346-0.
+Wilson, R. L. (1979). Much Ado About Calculus: A Modern Treatment with Applications Prepared for Use with the Computer. ISBN 978-0-387-90347-7.
+Thorpe, John A. (1979). Elementary Topics in Differential Geometry. doi:10.1007/978-1-4612-6153-7. ISBN 978-0-387-90357-6.
+Franklin, Joel (1980). Methods of Mathematical Economics: Linear and Nonlinear Programming. Fixed-Point Theorems. ISBN 978-0-387-90481-8.
+Macki, Jack; Strauss, Aaron (1981). Introduction to Optimal Control Theory. ISBN 978-0-387-90624-9.
+Foulds, L. R. (1981). Optimization Techniques: An Introduction. ISBN 978-0-387-90586-0.
+Fischer, E. (1982). Intermediate Real Analysis. ISBN 978-0-387-90721-5.
+Martin, George E. (1982). Transformation Geometry: An Introduction to Symmetry. ISBN 978-0-387-90636-2.
+Martin, George E. (1983). The Foundations of Geometry and the Non-Euclidean Plane. ISBN 978-0-387-90694-2.
+Owen, David R. (1983). A First Course in the Mathematical Foundations of Thermodynamics. ISBN 978-0-387-90897-7.
+Smith, K. T. (1983). Primer of Modern Analysis: Directions for Knowing All Dark Things, Rhind Papyrus, 1800 B.C. ISBN 978-0-387-90797-0.
+Armstrong, M. A. (1983). Basic Topology. doi:10.1007/978-1-4757-1793-8. ISBN 978-0-387-90839-7.
+Dixmier, Jacques (1984). General Topology. ISBN 0-387-90972-9.
+Morrey, Charles B. Jr.; Protter, Murray H. (1984). Intermediate Calculus. ISBN 978-0-387-96058-6.
+Curtis, Charles W. (1984). Linear Algebra: An Introductory Approach. ISBN 978-0-387-90992-9.
+Driver, R.D. (1984). Why Math?. ISBN 978-0-387-90973-8.
+Foulds, L. R. (1984). Combinatorial Optimization for Undergraduates. ISBN 978-0-387-90977-6.
+Jänich, Klaus (1984). Topology. ISBN 978-0-387-90892-2.
+Bühler, W. K.; Cornell, G.; Opolka, H.; Scharlau, W. (1985). From Fermat to Minkowski: Lectures on the Theory of Numbers and Its Historical Development. ISBN 978-0-387-90942-4.
+Marsden, Jerrold; Weinstein, Alan (1985). Calculus I. ISBN 978-0-387-90974-5.
+Marsden, Jerrold; Weinstein, Alan (1985). Calculus II. ISBN 978-0-387-90975-2.
+Marsden, Jerrold; Weinstein, Alan (1985). Calculus III. ISBN 978-0-387-90985-1.
+Lang, Serge (1986). Introduction to Linear Algebra (2nd ed.). ISBN 978-0-387-96205-4.
+Stanton, Dennis; White, Dennis (1986). Constructive Combinatorics. ISBN 978-0-387-96347-1.
+Klambauer, Gabriel (1986). Aspects of Calculus. ISBN 978-0-387-96274-0.
+Lang, Serge (1986). A First Course in Calculus (5th ed.). doi:10.1007/978-1-4419-8532-3. ISBN 978-0-387-96201-6.
+James, I. M. (1987). Topological and Uniform Spaces. ISBN 978-0-387-96466-9.
+Lang, Serge (1987). Calculus of Several Variables. ISBN 978-0-387-96405-8.
+Lang, Serge (1987). Linear Algebra (3rd ed.). ISBN 978-0-387-96412-6.
+Peressini, Anthony L.; Sullivan, Francis E.; Uhl, J.J. Jr. (1988). The Mathematics of Nonlinear Programming. ISBN 978-0-387-96614-4.
+Samuel, Pierre (1988). Projective Geometry. ISBN 978-0-387-96752-3.
+Armstrong, Mark A. (1988). Groups and Symmetry. doi:10.1007/978-1-4757-4034-9. ISBN 978-0-387-96675-5.
+Brémaud, Pierre (1988). An Introduction to Probabilistic Modeling. doi:10.1007/978-1-4612-1046-7. ISBN 978-0-387-96460-7.
+Bressoud, David M. (1989). Factorization and Primality Testing. doi:10.1007/978-1-4612-4544-5. ISBN 978-0-387-97040-0.
+Brickman, Louis (1989). Mathematical Introduction to Linear Programming and Game Theory. doi:10.1007/978-1-4612-4540-7. ISBN 978-0-387-96931-2.
+Strayer, James K. (1989). Linear Programming and Its Applications. doi:10.1007/978-1-4612-1009-2. ISBN 978-0-387-96930-5.
+Flanigan, Francis J.; Kazdan, Jerry L. (1990). Calculus Two: Linear and Nonlinear Functions (2nd ed.). ISBN 978-0-387-97388-3.
+Iooss, Gérard; Joseph, Daniel D. (1990). Elementary Stability and Bifurcation Theory (2nd ed.). doi:10.1007/978-1-4612-0997-3. ISBN 978-0-387-97068-4.
+Hoffmann, Karl-Heinz; Hämmerlin, Günther (1991). Numerical Mathematics. doi:10.1007/978-1-4612-4442-4. ISBN 978-0-387-97494-1.
+Morrey, Charles B. Jr.; Protter, Murray H. (1991). A First Course in Real Analysis (2nd ed.). doi:10.1007/978-1-4419-8744-0. ISBN 978-0-387-97437-8.
+Bressoud, David M. (1991). Second Year Calculus: From Celestial Mechanics to Special Relativity. doi:10.1007/978-1-4612-0959-1. ISBN 978-0-387-97606-8.
+Millman, Richard S.; Parker, George D. (1991). Geometry: A Metric Approach with Models (2nd ed.). ISBN 978-0-387-97412-5.
+Palka, Bruce P. (1991). An Introduction to Complex Function Theory. ISBN 978-0-387-97427-9.
+Banchoff, Thomas; Wermer, John (1992). Linear Algebra Through Geometry (2nd ed.). doi:10.1007/978-1-4612-4390-8. ISBN 978-0-387-97586-3.
+Devlin, Keith (1993). The Joy of Sets: Fundamentals of Contemporary Set Theory (2nd ed.). doi:10.1007/978-1-4612-0903-4. ISBN 978-0-387-94094-6.
+Kinsey, L. Christine (1993). Topology of Surfaces. doi:10.1007/978-1-4612-0899-0. ISBN 978-0-387-94102-8.
+Valenza, Robert J. (1993). Linear Algebra: An Introduction to Abstract Mathematics. doi:10.1007/978-1-4612-0901-0. ISBN 978-0-387-94099-1.
+Ebbinghaus, H. -D.; Flum, J.; Thomas, W. (1994). Mathematical Logic (2nd ed.). doi:10.1007/978-1-4757-2355-7. ISBN 978-0-387-94258-2.
+Berberian, Sterling K. (1994). A First Course in Real Analysis. doi:10.1007/978-1-4419-8548-4. ISBN 978-0-387-94217-9.
+Jänich, Klaus (1994). Linear Algebra. doi:10.1007/978-1-4612-4298-7. ISBN 978-0-387-94128-8.
+Pedrick, George (1994). A First Course in Analysis. doi:10.1007/978-1-4419-8554-5. ISBN 978-0-387-94108-0.
+Stillwell, John (1994). Elements of Algebra: Geometry, Numbers, Equations. doi:10.1007/978-1-4757-3976-3. ISBN 978-0-387-94290-2.
+Anglin, W.S. (1994). Mathematics: A Concise History and Philosophy. doi:10.1007/978-1-4612-0875-4. ISBN 978-0-387-94280-3.
+Simmonds, James G. (1994). A Brief on Tensor Analysis (2nd ed.). doi:10.1007/978-1-4419-8522-4. ISBN 978-0-387-94088-5.
+Anglin, W.S.; Lambek, J. (1995). The Heritage of Thales. ISBN 978-0-387-94544-6.
+Isaac, Richard (1995). The Pleasures of Probability. ISBN 978-0-387-94415-9.
+Exner, George R. (1996). An Accompaniment to Higher Mathematics. doi:10.1007/978-1-4612-3998-7. ISBN 978-0-387-94617-7.
+Troutman, John L. (1996). Variational Calculus and Optimal Control: Optimization with Elementary Convexity (2nd ed.). doi:10.1007/978-1-4612-0737-5. ISBN 978-0-387-94511-8.
+Browder, Andrew (1996). Mathematical Analysis: An Introduction. doi:10.1007/978-1-4612-0715-3. ISBN 978-0-387-94614-6.
+Buskes, Gerard; Rooij, Arnoud Van (1997). Topological Spaces: From Distance to Neighborhood. doi:10.1007/978-1-4612-0665-1. ISBN 978-0-387-94994-9.
+Fine, Benjamin; Rosenberger, Gerhard (1997). The Fundamental Theorem of Algebra. doi:10.1007/978-1-4612-1928-6. ISBN 978-0-387-94657-3.
+Beardon, Alan F. (1997). Limits: A New Approach to Real Analysis. doi:10.1007/978-1-4612-0697-2. ISBN 978-0-387-98274-8.
+Gordon, Hugh (1997). Discrete Probability. doi:10.1007/978-1-4612-1966-8. ISBN 978-0-387-98227-4.
+Roman, Steven (1997). Introduction to Coding and Information Theory. ISBN 978-0-387-94704-4.
+Sethuraman, Bharath (1997). Rings, Fields, and Vector Spaces: An Introduction to Abstract Algebra via Geometric Constructibility. doi:10.1007/978-1-4757-2700-5. ISBN 978-0-387-94848-5.
+Lang, Serge (1997). Undergraduate Analysis (2nd ed.). doi:10.1007/978-1-4757-2698-5. ISBN 978-0-387-94841-6.
+Hilton, Peter; Holton, Derek; Pedersen, Jean (1997). Mathematical Reflections: In a Room with Many Mirrors. doi:10.1007/978-1-4612-1932-3. ISBN 978-0-387-94770-9.
+Martin, George E. (1998). Geometric Constructions. doi:10.1007/978-1-4612-0629-3. ISBN 978-0-387-98276-2.
+Protter, Murray H. (1998). Basic Elements of Real Analysis. doi:10.1007/b98884. ISBN 978-0-387-98479-7.
+Priestley, W. M. (1998). Calculus: A Liberal Art (2nd ed.). doi:10.1007/978-1-4612-1658-2. ISBN 978-0-387-98379-0.
+Singer, David A. (1998). Geometry: Plane and Fancy. doi:10.1007/978-1-4612-0607-1. ISBN 978-0-387-98306-6.
+Smith, Larry (1998). Linear Algebra (3rd ed.). doi:10.1007/978-1-4612-1670-4. ISBN 978-0-387-98455-1.
+Lidl, Rudolf; Pilz, Günter (1998). Applied Abstract Algebra (2nd ed.). doi:10.1007/978-1-4757-2941-2. ISBN 978-0-387-98290-8.
+Stillwell, John (1998). Numbers and Geometry. doi:10.1007/978-1-4612-0687-3. ISBN 978-0-387-98289-2.
+Laubenbacher, Reinhard; Pengelley, David (1999). Mathematical Expeditions: Chronicles by the Explorers. ISBN 978-0-387-98434-6.
+Frazier, Michael W. (1999). An Introduction to Wavelets Through Linear Algebra. ISBN 978-0-387-98639-5.
+Schiff, Joel L. (1999). The Laplace Transform: Theory and Applications. ISBN 978-0-387-98698-2.
+Brunt, B. van; Carter, M. (2000). The Lebesgue-Stieltjes Integral: A Practical Introduction. doi:10.1007/978-1-4612-1174-7. ISBN 978-0-387-95012-9.
+Exner, George R. (2000). Inside Calculus. doi:10.1007/b97700. ISBN 978-0-387-98932-7.
+Hartshorne, Robin (2000). Geometry: Euclid and Beyond. doi:10.1007/978-0-387-22676-7. ISBN 978-0-387-98650-0.
+Callahan, James J. (2000). The Geometry of Spacetime: An Introduction to Special and General Relativity. doi:10.1007/978-1-4757-6736-0. ISBN 978-0-387-98641-8.
+Cederberg, Judith N. (2001). A Course in Modern Geometries (2nd ed.). doi:10.1007/978-1-4757-3490-4. ISBN 978-0-387-98972-3.
+Gamelin, Theodore W. (2001). Complex Analysis. doi:10.1007/978-0-387-21607-2. ISBN 978-0-387-95093-8.
+Jänich, Klaus (2001). Vector Analysis. doi:10.1007/978-1-4757-3478-2. ISBN 978-0-387-98649-4.
+Martin, George E. (2001). Counting: The Art of Enumerative Combinatorics. doi:10.1007/978-1-4757-4878-9. ISBN 978-0-387-95225-3.
+Hilton, Peter; Holton, Derek; Pedersen, Jean (2002). Mathematical Vistas: From a Room with Many Windows. doi:10.1007/978-1-4757-3681-6. ISBN 978-0-387-95064-8.
+Saxe, Karen (2002). Beginning Functional Analysis. doi:10.1007/978-1-4757-3687-8. ISBN 978-0-387-95224-6.
+Lang, Serge (2002). Short Calculus: The Original Edition of "A First Course in Calculus". doi:10.1007/978-1-4613-0077-9. ISBN 978-0-387-95327-4.
+Estep, Donald (2002). Practical Analysis in One Variable. doi:10.1007/b97698. ISBN 978-0-387-95484-4.
+Toth, Gabor (2002). Glimpses of Algebra and Geometry (2nd ed.). doi:10.1007/b98964. ISBN 978-0-387-95345-8.
+Aitsahlia, Farid; Chung, Kai Lai (2003). Elementary Probability Theory: With Stochastic Processes and an Introduction to Mathematical Finance (4th ed.). doi:10.1007/978-0-387-21548-8. ISBN 978-0-387-95578-0.
+Erdös, Paul; Suranyi, Janos (2003). Topics in the Theory of Numbers. doi:10.1007/978-1-4613-0015-1. ISBN 978-0-387-95320-5.
+Lovász, L.; Pelikán, J.; Vesztergombi, K. (2003). Discrete Mathematics: Elementary and Beyond. doi:10.1007/b97469. ISBN 978-0-387-95584-1.
+Stillwell, John (2003). Elements of Number Theory. doi:10.1007/978-0-387-21735-2. ISBN 978-0-387-95587-2.
+Buchmann, Johannes (2004). Introduction to Cryptography (2nd ed.). doi:10.1007/978-1-4419-9003-7. ISBN 978-0-387-21156-5.
+Irving, Ronald S. (2004). Integers, Polynomials, and Rings: A Course in Algebra. doi:10.1007/b97633. ISBN 978-0-387-40397-7.
+Ross, Clay C. (2004). Differential Equations: An Introduction with Mathematica (2nd ed.). doi:10.1007/978-1-4757-3949-7. ISBN 978-0-387-21284-5.
+Cull, Paul; Flahive, Mary; Robson, Robby (2005). Difference Equations: From Rabbits to Chaos. doi:10.1007/0-387-27645-9. ISBN 978-0-387-23233-1.
+Chambert-Loir, Antoine (2005). A Field Guide to Algebra. doi:10.1007/b138364. ISBN 978-0-387-21428-3.
+Elaydi, Saber (2005). An Introduction to Difference Equations (3rd ed.). doi:10.1007/0-387-27602-5. ISBN 978-0-387-23059-7.
+Lang, Serge (2005). Undergraduate Algebra (3rd ed.). doi:10.1007/0-387-27475-8. ISBN 978-0-387-22025-3.
+Singer, Stephanie Frank (2005). Linearity, Symmetry, and Prediction in the Hydrogen Atom. doi:10.1007/b136359. ISBN 978-0-387-24637-6.
+Stillwell, John (2005). The Four Pillars of Geometry. doi:10.1007/0-387-29052-4. ISBN 978-0-387-25530-9.
+Bix, Robert (2006). Conics and Cubics: A Concrete Introduction to Algebraic Curves (2nd ed.). doi:10.1007/0-387-39273-4. ISBN 978-0-387-31802-8.
+Moschovakis, Yiannis (2006). Notes on Set Theory (2nd ed.). doi:10.1007/0-387-31609-4. ISBN 978-0387287225.
+Knoebel, Art; Laubenbacher, Reinhard; Lodder, Jerry; Pengelley, David (2007). Mathematical Masterpieces: Further Chronicles by the Explorers. doi:10.1007/978-0-387-33062-4. ISBN 978-0-387-33060-0.
+Harris, John M.; Hirst, Jeffry L.; Mossinghoff, Michael (2008). Combinatorics and Graph Theory (2nd ed.). doi:10.1007/978-0-387-79711-3. ISBN 978-0-387-79710-6.
+Stillwell, John (2008). Naive Lie Theory. doi:10.1007/978-0-387-78214-0. ISBN 978-0-387-78214-0.
+Hairer, Ernst; Wanner, Gerhard (2008) [1996]. Analysis by its History. doi:10.1007/978-0-387-77036-9. ISBN 978-0-387-94551-4.
+Edgar, Gerald (2008). Edgar, Gerald (ed.). Measure, Topology, and Fractal Geometry (2nd ed.). doi:10.1007/978-0-387-74749-1. ISBN 978-0-387-74748-4.
+Herod, James; Shonkwiler, Ronald W. (2009). Mathematical Biology: An Introduction with Maple and Matlab (2nd ed.). doi:10.1007/978-0-387-70984-0. ISBN 978-0-387-70983-3.
+Mendivil, Frank; Shonkwiler, Ronald W. (2009). Explorations in Monte Carlo Methods. doi:10.1007/978-0-387-87837-9. ISBN 978-0-387-87836-2.
+Stein, William (2009). Elementary Number Theory: Primes, Congruences, and Secrets: A Computational Approach. doi:10.1007/b13279. ISBN 978-0-387-85524-0.
+Childs, Lindsay N. (2009). Childs, Lindsay N (ed.). A Concrete Introduction to Higher Algebra (3rd ed.). doi:10.1007/978-0-387-74725-5. ISBN 978-0-387-74527-5.
+Halmos, Paul R.; Givant, Steven (2009). Introduction to Boolean Algebras. doi:10.1007/978-0-387-68436-9. ISBN 978-0-387-40293-2.
+Bak, Joseph; Newman, Donald J. (2010). Complex Analysis (3rd ed.). doi:10.1007/978-1-4419-7288-0. ISBN 978-1-4419-7287-3.
+Beck, Matthias; Geoghegan, Ross (2010). The Art of Proof: Basic Training for Deeper Mathematics. doi:10.1007/978-1-4419-7023-7. ISBN 978-1-4419-7022-0.
+Callahan, James J. (2010). Advanced Calculus: A Geometric View. ISBN 978-1-4419-7331-3.
+Hurlbert, Glenn (2010). Linear Optimization: The Simplex Workbook. ISBN 978-0-387-79147-0.
+Stillwell, John (2010). Mathematics and Its History (3rd ed.). doi:10.1007/978-1-4419-6053-5. ISBN 978-1-441-96052-8.
+Ghorpade, Sudhir R.; Limaye, Balmohan V. (2010). A Course in Multivariable Calculus and Analysis. doi:10.1007/978-1-4419-1621-1. ISBN 978-1-4419-1620-4.
+Davidson, Kenneth R.; Donsig, Allan P. (2010). Real Analysis and Applications: Theory in Practice. doi:10.1007/978-0-387-98098-0. ISBN 978-0-387-98097-3.
+Daepp, Ulrich; Gorkin, Pamela (2011). Reading, Writing, and Proving: A Closer Look at Mathematics (2nd ed.). doi:10.1007/978-1-4419-9479-0. ISBN 978-1-4419-9478-3.
+Bloch, Ethan D. (2011). Proofs and Fundamentals: A First Course in Abstract Mathematics (2nd ed.). doi:10.1007/978-1-4419-7127-2. ISBN 978-1-4419-7126-5.
+Adkins, William A.; Davidson, Mark G. (2012). Ordinary Differential Equations. ISBN 978-1-461-43617-1.
+Ostermann, Alexander; Wanner, Gerhard (2012). Geometry by Its History. ISBN 978-3-642-29163-0.
+Petersen, Peter (2012). Linear Algebra. ISBN 978-1-4614-3612-6.
+Roman, Steven (2012). Introduction to the Mathematics of Finance: Arbitrage and Option Pricing. ISBN 978-1-4614-3582-2.
+Gerstein, Larry J. (2012). Introduction to Mathematical Structures and Proofs (2nd ed.). doi:10.1007/978-1-4614-4265-3. ISBN 978-1-4614-4264-6.
+Vanderbei, Robert J.; Çinlar, Erhan (2013). Real and Convex Analysis. ISBN 978-1-4614-5256-0.
+Bajnok, Bela (2013). An Invitation to Abstract Mathematics. ISBN 978-1-461-46635-2.
+McInerney, Andrew (2013). First Steps in Differential Geometry. ISBN 978-1-4614-7731-0.
+Ross, Kenneth A. (2013). Elementary Analysis: The Theory of Calculus. ISBN 978-1-4614-6270-5.
+Stillwell, John (2013). The Real Numbers: An Introduction to Set Theory and Analysis. doi:10.1007/978-3-319-01577-4. ISBN 978-3-319-01576-7.
+Conway, John B. (2014). A Course in Point Set Topology. ISBN 978-3-319-02367-0.
+Olver, Peter J. (2014). Introduction to Partial Differential Equations. ISBN 978-3-319-02098-3.
+Mercer, Peter R. (2014). More Calculus of a Single Variable. doi:10.1007/978-1-4939-1926-0. ISBN 978-1-4939-1925-3.
+Hoffstein, Jeffrey; Pipher, Jill; Silverman, Joseph H. (2014). An Introduction to Mathematical Cryptography (2nd ed.). doi:10.1007/978-1-4939-1711-2. ISBN 978-1-4939-1710-5.
+Terrell, Maria Shea; Lax, Peter D. (2014). Calculus with Applications (2nd ed.). doi:10.1007/978-1-4614-7946-8. ISBN 978-1-4614-7945-1.
+Axler, Sheldon (2015). Linear Algebra Done Right (3rd ed.). doi:10.1007/978-3-319-11080-6. ISBN 978-3-319-11079-0.
+Beck, Matthias; Robins, Sinai (2015). Computing the Continuous Discretely: Integer-point Enumeration in Polyhedra (2nd ed.). doi:10.1007/978-1-4939-2969-6. ISBN 978-1-4939-2968-9.
+Laczkovich, Miklós; Sós, Vera T. (2015). Real Analysis: Foundations and Functions of One Variable. doi:10.1007/978-1-4939-2766-1. ISBN 978-1-4939-2765-4.
+Pugh, Charles C. (2015). Real Mathematical Analysis (2nd ed.). doi:10.1007/978-3-319-17771-7. ISBN 978-3-319-17770-0.
+Logan, David J. (2015). A First Course in Differential Equations (3rd ed.). doi:10.1007/978-3-319-17852-3. ISBN 978-3-319-17851-6.
+Silverman, Joseph H.; Tate, John (2015). Rational Points on Elliptic Curves (2nd ed.). doi:10.1007/978-3-319-18588-0. ISBN 978-3-319-18587-3.
+Little, Charles; Kee, Teo; van Brunt, Bruce (2015). Real Analysis via Sequences and Series. doi:10.1007/978-1-4939-2651-0. ISBN 978-1-4939-2650-3. Zbl 1325.26002.
+Abbott, Stephen (2015). Understanding Analysis (2nd ed.). doi:10.1007/978-1-4939-2712-8. ISBN 978-1-4939-2711-1.
+Cox, David; Little, John; O'Shea, Danal (2015). Ideals, Varieties, and Algorithms: An Introduction to Computational Algebraic Geometry and Commutative Algebra (4th ed.). doi:10.1007/978-3-319-16721-3. ISBN 978-3-319-16720-6.
+Logan, David J. (2015). Applied Partial Differential Equations (3rd ed.). doi:10.1007/978-3-319-12493-3. ISBN 978-3-319-12492-6.
+Tapp, Kristopher (2016). Differential Geometry of Curves and Surfaces. doi:10.1007/978-3-319-39799-3. ISBN 978-3-319-39798-6.
+Hijab, Omar (2016). Introduction to Calculus and Classical Analysis (4th ed.). doi:10.1007/978-3-319-28400-2. ISBN 978-3-319-28399-9.
+Shurman, Jerry (2016). Calculus and Analysis in Euclidean Space. doi:10.1007/978-3-319-49314-5. ISBN 978-3-319-49312-1.
+Laczkovich, Miklós; Sós, Vera T. (2017). Real Analysis: Series, Functions of Several Variables, and Applications. doi:10.1007/978-1-4939-7369-9. ISBN 978-1-4939-7367-5.
+Lax, Peter D.; Terrell, Maria Shea (2017). Multivariable Calculus with Applications. doi:10.1007/978-3-319-74073-7. ISBN 978-3-319-74072-0.
+Shores, Thomas S. (2018). Applied Linear Algebra and Matrix Analysis (2nd ed.). doi:10.1007/978-3-319-74748-4. ISBN 978-3-319-74747-7.
+Olver, Peter J.; Shakiban, Chehrzad (2018). Applied Linear Algebra (2nd ed.). doi:10.1007/978-3-319-91041-3. ISBN 978-3-319-91040-6.
+Stanley, Richard P. (2018). Algebraic Combinatorics: Walks, Trees, Tableaux, and More (2nd ed.). doi:10.1007/978-3-319-77173-1. ISBN 978-3-319-77172-4.
+Ghorpade, Sudhir R.; Limaye, Balmohan V. (2018). A Course in Calculus and Real Analysis (2nd ed.). doi:10.1007/978-3-030-01400-1. ISBN 978-3-030-01399-8.
+Asmar, Nakhle H.; Grafakos, Loukas (2018). Complex Analysis with Applications. doi:10.1007/978-3-319-94063-2. ISBN 978-3-319-94062-5.
+Rosenthal, Daniel; Rosenthal, David; Rosenthal, Peter (2018). A Readable Introduction to Real Mathematics (2nd ed.). doi:10.1007/978-3-030-00632-7. ISBN 978-3-030-00631-0.
+Takloo-Bighash, Ramin (2018). A Pythagorean Introduction to Number Theory. doi:10.1007/978-3-030-02604-2. ISBN 978-3-030-02603-5.
+Petersen, T. Kyle (2019). Inquiry-Based Enumerative Combinatorics: One, Two, Skip a Few... Ninety-Nine, One Hundred. doi:10.1007/978-3-030-18308-0. ISBN 978-3-030-18307-3. S2CID 198449235.
+Saari, Donald G. (2019). Mathematics of Finance: An Intuitive Introduction. doi:10.1007/978-3-030-25443-8. ISBN 978-3-030-25442-1. S2CID 203236074.
+Jongsma, Calvin (2019). Introduction to Discrete Mathematics via Logic and Proof. doi:10.1007/978-3-030-25358-5. ISBN 978-3-030-25357-8. S2CID 209065336.
+Lee, Nam-Hoon (2020). Geometry: from Isometries to Special Relativity. doi:10.1007/978-3-030-42101-4. ISBN 978-3-030-42100-7. S2CID 219025032.
+Bajnok, Bela (2020). An Invitation to Abstract Mathematics (2nd ed.). doi:10.1007/978-3-030-56174-1. ISBN 978-3-030-56173-4.
+Stillwell, John (2020). Mathematics and Its History. doi:10.1007/978-3-030-55193-3. ISBN 978-3-030-55192-6.
+Toth, Gabor (2021). Elements of Mathematics: A Problem-Centered Approach to History and Foundations. doi:10.1007/978-3-030-75051-0. ISBN 978-3-030-75050-3.
+Morris, Sidney A.; Jones, Arthur; Pearson, Kenneth R. (2022). Abstract Algebra and Famous Impossibilities: Squaring the Circle, Doubling the Cube, Trisecting an Angle, and Solving Quintic Equations. doi:10.1007/978-3-031-05698-7. ISBN 978-3-031-05697-0.
+McLeman, Cam; McNicholas, Erin; Starr, Colin (2022). Explorations in Number Theory: Commuting through the Numberverse. doi:10.1007/978-3-030-98931-6. ISBN 978-3-030-98930-9.
+Ireland, Kenneth; Cuoco, Al (2023). Excursions in Number Theory, Algebra, and Analysis. doi:10.1007/978-3-031-13017-5. ISBN 978-3-031-13016-8.
+Sheydvasser, Arseniy (2023). Linear Fractional Transformations: An Illustrated Introduction. doi:10.1007/978-3-031-25002-6. ISBN 978-3-031-25001-9.
+
+External links
+Springer-Verlag's Summary of Undergraduate Texts in Mathematics

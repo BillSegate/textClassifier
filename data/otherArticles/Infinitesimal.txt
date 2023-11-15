@@ -1,0 +1,1035 @@
+In mathematics, an infinitesimal number is a quantity that is closer to 0 than any standard real number, but that is not 0. The word infinitesimal comes from a 17th-century Modern Latin coinage infinitesimus, which originally referred to the "infinity-th" item in a sequence.
+Infinitesimals do not exist in the standard real number system, but they do exist in other number systems, such as the surreal number system and the hyperreal number system, which can be thought of as the real numbers augmented with both infinitesimal and infinite quantities; the augmentations are the reciprocals of one another.
+Infinitesimal numbers were introduced in the development of calculus, in which the derivative was first conceived as a ratio of two infinitesimal quantities. This definition was not rigorously formalized. As calculus developed further, infinitesimals were replaced by limits, which can be calculated using the standard real numbers.
+Infinitesimals regained popularity in the 20th century with Abraham Robinson's development of nonstandard analysis and the hyperreal numbers, which, after centuries of controversy, showed that a formal treatment of infinitesimal calculus was possible. Following this, mathematicians developed surreal numbers, a related formalization of infinite and infinitesimal numbers that include both hyperreal cardinal and ordinal numbers, which is the largest ordered field.
+Vladimir Arnold wrote in 1990:
+
+Nowadays, when teaching analysis, it is not very popular to talk about infinitesimal quantities. Consequently, present-day students are not fully in command of this language. Nevertheless, it is still necessary to have command of it.
+The crucial insight for making infinitesimals feasible mathematical entities was that they could still retain certain properties such as angle or slope, even if these entities were infinitely small.Infinitesimals are a basic ingredient in calculus as developed by Leibniz, including the law of continuity and the transcendental law of homogeneity. In common speech, an infinitesimal object is an object that is smaller than any feasible measurement, but not zero in size—or, so small that it cannot be distinguished from zero by any available means. Hence, when used as an adjective in mathematics, infinitesimal means infinitely small, smaller than any standard real number. Infinitesimals are often compared to other infinitesimals of similar size, as in examining the derivative of a function. An infinite number of infinitesimals are summed to calculate an integral.
+The concept of infinitesimals was originally introduced around 1670 by either Nicolaus Mercator or Gottfried Wilhelm Leibniz. Archimedes used what eventually came to be known as the method of indivisibles in his work The Method of Mechanical Theorems to find areas of regions and volumes of solids. In his formal published treatises, Archimedes solved the same problem using the method of exhaustion. The 15th century saw the work of Nicholas of Cusa, further developed in the 17th century by Johannes Kepler, in particular, the calculation of the area of a circle by representing the latter as an infinite-sided polygon. Simon Stevin's work on the decimal representation of all numbers in the 16th century prepared the ground for the real continuum. Bonaventura Cavalieri's method of indivisibles led to an extension of the results of the classical authors. The method of indivisibles related to geometrical figures as being composed of entities of codimension 1. John Wallis's infinitesimals differed from indivisibles in that he would decompose geometrical figures into infinitely thin building blocks of the same dimension as the figure, preparing the ground for general methods of the integral calculus. He exploited an infinitesimal denoted 1/∞ in area calculations.
+The use of infinitesimals by Leibniz relied upon heuristic principles, such as the law of continuity: what succeeds for the finite numbers succeeds also for the infinite numbers and vice versa; and the transcendental law of homogeneity that specifies procedures for replacing expressions involving unassignable quantities, by expressions involving only assignable ones. The 18th century saw routine use of infinitesimals by mathematicians such as Leonhard Euler and Joseph-Louis Lagrange. Augustin-Louis Cauchy exploited infinitesimals both in defining continuity in his Cours d'Analyse, and in defining an early form of a Dirac delta function. As Cantor and Dedekind were developing more abstract versions of Stevin's continuum, Paul du Bois-Reymond wrote a series of papers on infinitesimal-enriched continua based on growth rates of functions. Du Bois-Reymond's work inspired both Émile Borel and Thoralf Skolem. Borel explicitly linked du Bois-Reymond's work to Cauchy's work on rates of growth of infinitesimals. Skolem developed the first non-standard models of arithmetic in 1934. A mathematical implementation of both the law of continuity and infinitesimals was achieved by Abraham Robinson in 1961, who developed nonstandard analysis based on earlier work by Edwin Hewitt in 1948 and Jerzy Łoś in 1955. The hyperreals implement an infinitesimal-enriched continuum and the transfer principle implements Leibniz's law of continuity. The standard part function implements Fermat's adequality.
+
+History of the infinitesimal
+The notion of infinitely small quantities was discussed by the Eleatic School. The Greek mathematician Archimedes (c. 287 BC – c. 212 BC), in The Method of Mechanical Theorems, was the first to propose a logically rigorous definition of infinitesimals. His Archimedean property defines a number x as infinite if it satisfies the conditions |x|>1, |x|>1+1, |x|>1+1+1, ..., and infinitesimal if x≠0 and a similar set of conditions holds for x and the reciprocals of the positive integers. A number system is said to be Archimedean if it contains no infinite or infinitesimal members.
+The English mathematician John Wallis introduced the expression 1/∞ in his 1655 book Treatise on the Conic Sections. The symbol, which denotes the reciprocal, or inverse, of ∞, is the symbolic representation of the mathematical concept of an infinitesimal. In his Treatise on the Conic Sections, Wallis also discusses the concept of a relationship between the symbolic representation of infinitesimal 1/∞ that he introduced and the concept of infinity for which he introduced the symbol ∞. The concept suggests a thought experiment of adding an infinite number of parallelograms of infinitesimal width to form a finite area. This concept was the predecessor to the modern method of integration used in integral calculus. The conceptual origins of the concept of the infinitesimal 1/∞ can be traced as far back as the Greek philosopher Zeno of Elea, whose Zeno's dichotomy paradox was the first mathematical concept to consider the relationship between a finite interval and an interval approaching that of an infinitesimal-sized interval.
+Infinitesimals were the subject of political and religious controversies in 17th century Europe, including a ban on infinitesimals issued by clerics in Rome in 1632.Prior to the invention of calculus mathematicians were able to calculate tangent lines using Pierre de Fermat's method of adequality and René Descartes' method of normals. There is debate among scholars as to whether the method was infinitesimal or algebraic in nature. When Newton and Leibniz invented the calculus, they made use of infinitesimals, Newton's fluxions and Leibniz' differential. The use of infinitesimals was attacked as incorrect by Bishop Berkeley in his work The Analyst. Mathematicians, scientists, and engineers continued to use infinitesimals to produce correct results. In the second half of the nineteenth century, the calculus was reformulated by Augustin-Louis Cauchy, Bernard Bolzano, Karl Weierstrass, Cantor, Dedekind, and others using the (ε, δ)-definition of limit and set theory.
+While the followers of Cantor, Dedekind, and Weierstrass sought to rid analysis of infinitesimals, and their philosophical allies like Bertrand Russell and Rudolf Carnap declared that infinitesimals are pseudoconcepts, Hermann Cohen and his Marburg school of neo-Kantianism sought to develop a working logic of infinitesimals. The mathematical study of systems containing infinitesimals continued through the work of Levi-Civita, Giuseppe Veronese, Paul du Bois-Reymond, and others, throughout the late nineteenth and the twentieth centuries, as documented by Philip Ehrlich (2006). In the 20th century, it was found that infinitesimals could serve as a basis for calculus and analysis (see hyperreal numbers).
+
+First-order properties
+In extending the real numbers to include infinite and infinitesimal quantities, one typically wishes to be as conservative as possible by not changing any of their elementary properties. This guarantees that as many familiar results as possible are still available. Typically, elementary means that there is no quantification over sets, but only over elements. This limitation allows statements of the form "for any number x..." For example, the axiom that states "for any number x, x + 0 = x" would still apply. The same is true for quantification over several numbers, e.g., "for any numbers x and y, xy = yx." However, statements of the form "for any set S of numbers ..." may not carry over. Logic with this limitation on quantification is referred to as first-order logic.
+The resulting extended number system cannot agree with the reals on all properties that can be expressed by quantification over sets, because the goal is to construct a non-Archimedean system, and the Archimedean principle can be expressed by quantification over sets. One can conservatively extend any theory including reals, including set theory, to include infinitesimals, just by adding a countably infinite list of axioms that assert that a number is smaller than 1/2, 1/3, 1/4, and so on. Similarly, the completeness property cannot be expected to carry over, because the reals are the unique complete ordered field up to isomorphism.
+We can distinguish three levels at which a non-Archimedean number system could have first-order properties compatible with those of the reals:
+
+An ordered field obeys all the usual axioms of the real number system that can be stated in first-order logic. For example, the commutativity axiom x + y = y + x holds.
+A real closed field has all the first-order properties of the real number system, regardless of whether they are usually taken as axiomatic, for statements involving the basic ordered-field relations +, ×, and ≤. This is a stronger condition than obeying the ordered-field axioms. More specifically, one includes additional first-order properties, such as the existence of a root for every odd-degree polynomial. For example, every number must have a cube root.
+The system could have all the first-order properties of the real number system for statements involving any relations (regardless of whether those relations can be expressed using +, ×, and ≤). For example, there would have to be a sine function that is well defined for infinite inputs; the same is true for every real function.Systems in category 1, at the weak end of the spectrum, are relatively easy to construct but do not allow a full treatment of classical analysis using infinitesimals in the spirit of Newton and Leibniz. For example, the transcendental functions are defined in terms of infinite limiting processes, and therefore there is typically no way to define them in first-order logic. Increasing the analytic strength of the system by passing to categories 2 and 3, we find that the flavor of the treatment tends to become less constructive, and it becomes more difficult to say anything concrete about the hierarchical structure of infinities and infinitesimals.
+
+Number systems that include infinitesimals
+Formal series
+Laurent series
+An example from category 1 above is the field of Laurent series with a finite number of negative-power terms. For example, the Laurent series consisting only of the constant term 1 is identified with the real number 1, and the series with only the linear term x is thought of as the simplest infinitesimal, from which the other infinitesimals are constructed. Dictionary ordering is used, which is equivalent to considering higher powers of x as negligible compared to lower powers. David O. Tall refers to this system as the super-reals, not to be confused with the superreal number system of Dales and Woodin. Since a Taylor series evaluated with a Laurent series as its argument is still a Laurent series, the system can be used to do calculus on transcendental functions if they are analytic. These infinitesimals have different first-order properties than the reals because, for example, the basic infinitesimal x does not have a square root.
+
+The Levi-Civita field
+The Levi-Civita field is similar to the Laurent series, but is algebraically closed. For example, the basic infinitesimal x has a square root. This field is rich enough to allow a significant amount of analysis to be done, but its elements can still be represented on a computer in the same sense that real numbers can be represented in floating-point.
+
+Transseries
+The field of transseries is larger than the Levi-Civita field. An example of a transseries is:
+
+  
+    
+      
+        
+          e
+          
+            
+              ln
+              ⁡
+              ln
+              ⁡
+              x
+            
+          
+        
+        +
+        ln
+        ⁡
+        ln
+        ⁡
+        x
+        +
+        
+          ∑
+          
+            j
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          e
+          
+            x
+          
+        
+        
+          x
+          
+            −
+            j
+          
+        
+        ,
+      
+    
+    {\displaystyle e^{\sqrt {\ln \ln x}}+\ln \ln x+\sum _{j=0}^{\infty }e^{x}x^{-j},}
+  where for purposes of ordering x is considered infinite.
+
+Surreal numbers
+Conway's surreal numbers fall into category 2, except that the surreal numbers form a proper class and not a set. They are a system designed to be as rich as possible in different sizes of numbers, but not necessarily for convenience in doing analysis, in the sense that every ordered field is a subfield of the surreal numbers. There is a natural extension of the exponential function to the surreal numbers.: ch. 10
+
+Hyperreals
+The most widespread technique for handling infinitesimals is the hyperreals, developed by Abraham Robinson in the 1960s. They fall into category 3 above, having been designed that way so all of classical analysis can be carried over from the reals. This property of being able to carry over all relations in a natural way is known as the transfer principle, proved by Jerzy Łoś in 1955. For example, the transcendental function sin has a natural counterpart *sin that takes a hyperreal input and gives a hyperreal output, and similarly the set of natural numbers 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+   has a natural counterpart 
+  
+    
+      
+        
+          
+          
+            ∗
+          
+        
+        
+          N
+        
+      
+    
+    {\displaystyle ^{*}\mathbb {N} }
+  , which contains both finite and infinite integers. A proposition such as 
+  
+    
+      
+        ∀
+        n
+        ∈
+        
+          N
+        
+        ,
+        sin
+        ⁡
+        n
+        π
+        =
+        0
+      
+    
+    {\displaystyle \forall n\in \mathbb {N} ,\sin n\pi =0}
+   carries over to the hyperreals as 
+  
+    
+      
+        ∀
+        n
+        ∈
+        
+          
+
+          
+          
+            ∗
+          
+        
+        
+          N
+        
+        ,
+        
+          
+
+          
+          
+            ∗
+          
+        
+        
+        
+        sin
+        ⁡
+        n
+        π
+        =
+        0
+      
+    
+    {\displaystyle \forall n\in {}^{*}\mathbb {N} ,{}^{*}\!\!\sin n\pi =0}
+   .
+
+Superreals
+The superreal number system of Dales and Woodin is a generalization of the hyperreals. It is different from the super-real system defined by David Tall.
+
+Dual numbers
+In linear algebra, the dual numbers extend the reals by adjoining one infinitesimal, the new element ε with the property ε2 = 0 (that is, ε is nilpotent). Every dual number has the form z = a + bε with a and b being uniquely determined real numbers.
+One application of dual numbers is automatic differentiation. This application can be generalized to polynomials in n variables, using the Exterior algebra of an n-dimensional vector space.
+
+Smooth infinitesimal analysis
+Synthetic differential geometry or smooth infinitesimal analysis have roots in category theory. This approach departs from the classical logic used in conventional mathematics by denying the general applicability of the law of excluded middle – i.e., not (a ≠ b) does not have to mean a = b. A nilsquare or nilpotent infinitesimal can then be defined. This is a number x where x2 = 0 is true, but x = 0 need not be true at the same time. Since the background logic is intuitionistic logic, it is not immediately clear how to classify this system with regard to classes 1, 2, and 3. Intuitionistic analogues of these classes would have to be developed first.
+
+Infinitesimal delta functions
+Cauchy used an infinitesimal 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   to write down a unit impulse, infinitely tall and narrow Dirac-type delta function 
+  
+    
+      
+        
+          δ
+          
+            α
+          
+        
+      
+    
+    {\displaystyle \delta _{\alpha }}
+   satisfying 
+  
+    
+      
+        ∫
+        F
+        (
+        x
+        )
+        
+          δ
+          
+            α
+          
+        
+        (
+        x
+        )
+        =
+        F
+        (
+        0
+        )
+      
+    
+    {\displaystyle \int F(x)\delta _{\alpha }(x)=F(0)}
+   in a number of articles in 1827, see Laugwitz (1989). Cauchy defined an infinitesimal in 1821 (Cours d'Analyse) in terms of a sequence tending to zero. Namely, such a null sequence becomes an infinitesimal in Cauchy's and Lazare Carnot's terminology.
+Modern set-theoretic approaches allow one to define infinitesimals via the ultrapower construction, where a null sequence becomes an infinitesimal in the sense of an equivalence class modulo a relation defined in terms of a suitable ultrafilter. The article by Yamashita (2007) contains bibliography on modern Dirac delta functions in the context of an infinitesimal-enriched continuum provided by the hyperreals.
+
+Logical properties
+The method of constructing infinitesimals of the kind used in nonstandard analysis depends on the model and which collection of axioms are used. We consider here systems where infinitesimals can be shown to exist.
+In 1936 Maltsev proved the compactness theorem. This theorem is fundamental for the existence of infinitesimals as it proves that it is possible to formalise them. A consequence of this theorem is that if there is a number system in which it is true that for any positive integer n there is a positive number x such that 0 < x < 1/n, then there exists an extension of that number system in which it is true that there exists a positive number x such that for any positive integer n we have 0 < x < 1/n. The possibility to switch "for any" and "there exists" is crucial. The first statement is true in the real numbers as given in ZFC set theory : for any positive integer n it is possible to find a real number between 1/n and zero, but this real number depends on n. Here, one chooses n first, then one finds the corresponding x. In the second expression, the statement says that there is an x (at least one), chosen first, which is between 0 and 1/n for any n. In this case x is infinitesimal. This is not true in the real numbers (R) given by ZFC. Nonetheless, the theorem proves that there is a model (a number system) in which this is true. The question is: what is this model? What are its properties? Is there only one such model?
+There are in fact many ways to construct such a one-dimensional linearly ordered set of numbers, but fundamentally, there are two different approaches:
+
+1) Extend the number system so that it contains more numbers than the real numbers.2) Extend the axioms (or extend the language) so that the distinction between the infinitesimals and non-infinitesimals can be made in the real numbers themselves.In 1960, Abraham Robinson provided an answer following the first approach. The extended set is called the hyperreals and contains numbers less in absolute value than any positive real number. The method may be considered relatively complex but it does prove that infinitesimals exist in the universe of ZFC set theory. The real numbers are called standard numbers and the new non-real hyperreals are called nonstandard.
+In 1977 Edward Nelson provided an answer following the second approach. The extended axioms are IST, which stands either for Internal set theory or for the initials of the three extra axioms: Idealization, Standardization, Transfer. In this system, we consider that the language is extended in such a way that we can express facts about infinitesimals. The real numbers are either standard or nonstandard. An infinitesimal is a nonstandard real number that is less, in absolute value, than any positive standard real number.
+In 2006 Karel Hrbacek developed an extension of Nelson's approach in which the real numbers are stratified in (infinitely) many levels; i.e., in the coarsest level, there are no infinitesimals nor unlimited numbers. Infinitesimals are at a finer level and there are also infinitesimals with respect to this new level and so on.
+
+Infinitesimals in teaching
+Calculus textbooks based on infinitesimals include the classic Calculus Made Easy by Silvanus P. Thompson (bearing the motto "What one fool can do another can") and the German text Mathematik fur Mittlere Technische Fachschulen der Maschinenindustrie by R. Neuendorff. Pioneering works based on Abraham Robinson's infinitesimals include texts by Stroyan (dating from 1972) and Howard Jerome Keisler (Elementary Calculus: An Infinitesimal Approach). Students easily relate to the intuitive notion of an infinitesimal difference 1-"0.999...", where "0.999..." differs from its standard meaning as the real number 1, and is reinterpreted as an infinite terminating extended decimal that is strictly less than 1.Another elementary calculus text that uses the theory of infinitesimals as developed by Robinson is Infinitesimal Calculus by Henle and Kleinberg, originally published in 1979. The authors introduce the language of first-order logic, and demonstrate the construction of a first order model of the hyperreal numbers. The text provides an introduction to the basics of integral and differential calculus in one dimension, including sequences and series of functions. In an Appendix, they also treat the extension of their model to the hyperhyperreals, and demonstrate some applications for the extended model.
+An elementary calculus text based on smooth infinitesimal analysis is  Bell, John L. (2008). A Primer of Infinitesimal Analysis, 2nd Edition. Cambridge University Press. ISBN 9780521887182.
+A more recent calculus text utilizing infinitesimals is Dawson, C. Bryan (2022), Calculus Set Free: Infinitesimals to the Rescue, Oxford University Press.  ISBN 9780192895608.
+
+Functions tending to zero
+In a related but somewhat different sense, which evolved from the original definition of "infinitesimal" as an infinitely small quantity, the term has also been used to refer to a function tending to zero. More precisely, Loomis and Sternberg's Advanced Calculus defines the function class of infinitesimals, 
+  
+    
+      
+        
+          
+            I
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {I}}}
+  , as a subset of functions 
+  
+    
+      
+        f
+        :
+        V
+        →
+        W
+      
+    
+    {\displaystyle f:V\to W}
+   between normed vector spaces by 
+  
+    
+      
+        
+          
+            I
+          
+        
+        (
+        V
+        ,
+        W
+        )
+        =
+        {
+        f
+        :
+        V
+        →
+        W
+         
+        
+          |
+        
+         
+        f
+        (
+        0
+        )
+        =
+        0
+        ,
+        (
+        ∀
+        ϵ
+        >
+        0
+        )
+        (
+        ∃
+        δ
+        >
+        0
+        )
+         
+        ∍
+         
+        
+          |
+        
+        
+          |
+        
+        ξ
+        
+          |
+        
+        
+          |
+        
+        <
+        δ
+        
+        ⟹
+        
+        
+          |
+        
+        
+          |
+        
+        f
+        (
+        ξ
+        )
+        
+          |
+        
+        
+          |
+        
+        <
+        ϵ
+        }
+      
+    
+    {\displaystyle {\mathfrak {I}}(V,W)=\{f:V\to W\ |\ f(0)=0,(\forall \epsilon >0)(\exists \delta >0)\ \backepsilon \ ||\xi ||<\delta \implies ||f(\xi )||<\epsilon \}}
+  , as well as two related classes 
+  
+    
+      
+        
+          
+            O
+          
+        
+        ,
+        
+          
+            o
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {O}},{\mathfrak {o}}}
+   (see Big-O notation) by 
+  
+    
+      
+        
+          
+            O
+          
+        
+        (
+        V
+        ,
+        W
+        )
+        =
+        {
+        f
+        :
+        V
+        →
+        W
+         
+        
+          |
+        
+         
+        f
+        (
+        0
+        )
+        =
+        0
+        ,
+         
+        (
+        ∃
+        r
+        >
+        0
+        ,
+        c
+        >
+        0
+        )
+         
+        ∍
+         
+        
+          |
+        
+        
+          |
+        
+        ξ
+        
+          |
+        
+        
+          |
+        
+        <
+        r
+        
+        ⟹
+        
+        
+          |
+        
+        
+          |
+        
+        f
+        (
+        ξ
+        )
+        
+          |
+        
+        
+          |
+        
+        ≤
+        c
+        
+          |
+        
+        
+          |
+        
+        ξ
+        
+          |
+        
+        
+          |
+        
+        }
+      
+    
+    {\displaystyle {\mathfrak {O}}(V,W)=\{f:V\to W\ |\ f(0)=0,\ (\exists r>0,c>0)\ \backepsilon \ ||\xi ||<r\implies ||f(\xi )||\leq c||\xi ||\}}
+  , and
+  
+    
+      
+        
+          
+            o
+          
+        
+        (
+        V
+        ,
+        W
+        )
+        =
+        {
+        f
+        :
+        V
+        →
+        W
+         
+        
+          |
+        
+         
+        f
+        (
+        0
+        )
+        =
+        0
+        ,
+         
+        
+          lim
+          
+            
+              |
+            
+            
+              |
+            
+            ξ
+            
+              |
+            
+            
+              |
+            
+            →
+            0
+          
+        
+        
+          |
+        
+        
+          |
+        
+        f
+        (
+        ξ
+        )
+        
+          |
+        
+        
+          |
+        
+        
+          /
+        
+        
+          |
+        
+        
+          |
+        
+        ξ
+        
+          |
+        
+        
+          |
+        
+        =
+        0
+        }
+      
+    
+    {\displaystyle {\mathfrak {o}}(V,W)=\{f:V\to W\ |\ f(0)=0,\ \lim _{||\xi ||\to 0}||f(\xi )||/||\xi ||=0\}}
+  .The set inclusions 
+  
+    
+      
+        
+          
+            o
+          
+        
+        (
+        V
+        ,
+        W
+        )
+        ⊊
+        
+          
+            O
+          
+        
+        (
+        V
+        ,
+        W
+        )
+        ⊊
+        
+          
+            I
+          
+        
+        (
+        V
+        ,
+        W
+        )
+      
+    
+    {\displaystyle {\mathfrak {o}}(V,W)\subsetneq {\mathfrak {O}}(V,W)\subsetneq {\mathfrak {I}}(V,W)}
+  generally hold. That the inclusions are proper is demonstrated by the real-valued functions of a real variable 
+  
+    
+      
+        f
+        :
+        x
+        ↦
+        
+          |
+        
+        x
+        
+          
+            |
+          
+          
+            1
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle f:x\mapsto |x|^{1/2}}
+  , 
+  
+    
+      
+        g
+        :
+        x
+        ↦
+        x
+      
+    
+    {\displaystyle g:x\mapsto x}
+  , and 
+  
+    
+      
+        h
+        :
+        x
+        ↦
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle h:x\mapsto x^{2}}
+  :  
+  
+    
+      
+        f
+        ,
+        g
+        ,
+        h
+        ∈
+        
+          
+            I
+          
+        
+        (
+        
+          R
+        
+        ,
+        
+          R
+        
+        )
+        ,
+         
+        g
+        ,
+        h
+        ∈
+        
+          
+            O
+          
+        
+        (
+        
+          R
+        
+        ,
+        
+          R
+        
+        )
+        ,
+         
+        h
+        ∈
+        
+          
+            o
+          
+        
+        (
+        
+          R
+        
+        ,
+        
+          R
+        
+        )
+      
+    
+    {\displaystyle f,g,h\in {\mathfrak {I}}(\mathbb {R} ,\mathbb {R} ),\ g,h\in {\mathfrak {O}}(\mathbb {R} ,\mathbb {R} ),\ h\in {\mathfrak {o}}(\mathbb {R} ,\mathbb {R} )}
+   but 
+  
+    
+      
+        f
+        ,
+        g
+        ∉
+        
+          
+            o
+          
+        
+        (
+        
+          R
+        
+        ,
+        
+          R
+        
+        )
+      
+    
+    {\displaystyle f,g\notin {\mathfrak {o}}(\mathbb {R} ,\mathbb {R} )}
+   and 
+  
+    
+      
+        f
+        ∉
+        
+          
+            O
+          
+        
+        (
+        
+          R
+        
+        ,
+        
+          R
+        
+        )
+      
+    
+    {\displaystyle f\notin {\mathfrak {O}}(\mathbb {R} ,\mathbb {R} )}
+  .As an application of these definitions, a mapping 
+  
+    
+      
+        F
+        :
+        V
+        →
+        W
+      
+    
+    {\displaystyle F:V\to W}
+   between normed vector spaces is defined to be differentiable at 
+  
+    
+      
+        α
+        ∈
+        V
+      
+    
+    {\displaystyle \alpha \in V}
+   if there is a 
+  
+    
+      
+        T
+        ∈
+        
+          H
+          o
+          m
+        
+        (
+        V
+        ,
+        W
+        )
+      
+    
+    {\displaystyle T\in \mathrm {Hom} (V,W)}
+   [i.e, a bounded linear map 
+  
+    
+      
+        V
+        →
+        W
+      
+    
+    {\displaystyle V\to W}
+  ] such that 
+  
+    
+      
+        [
+        F
+        (
+        α
+        +
+        ξ
+        )
+        −
+        F
+        (
+        α
+        )
+        ]
+        −
+        T
+        (
+        ξ
+        )
+        ∈
+        
+          
+            o
+          
+        
+        (
+        V
+        ,
+        W
+        )
+      
+    
+    {\displaystyle [F(\alpha +\xi )-F(\alpha )]-T(\xi )\in {\mathfrak {o}}(V,W)}
+  in a neighborhood of 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  . If such a map exists, it is unique; this map is called the differential and is denoted by 
+  
+    
+      
+        d
+        
+          F
+          
+            α
+          
+        
+      
+    
+    {\displaystyle dF_{\alpha }}
+  , coinciding with the traditional notation for the classical (though logically flawed) notion of a differential as an infinitely small "piece" of F. This definition represents a generalization of the usual definition of differentiability for vector-valued functions of (open subsets of) Euclidean spaces.
+
+Array of random variables
+Let 
+  
+    
+      
+        (
+        Ω
+        ,
+        
+          
+            F
+          
+        
+        ,
+        
+          P
+        
+        )
+      
+    
+    {\displaystyle (\Omega ,{\mathcal {F}},\mathbb {P} )}
+   be a probability space and let 
+  
+    
+      
+        n
+        ∈
+        
+          N
+        
+      
+    
+    {\displaystyle n\in \mathbb {N} }
+  . An array 
+  
+    
+      
+        {
+        
+          X
+          
+            n
+            ,
+            k
+          
+        
+        :
+        Ω
+        →
+        
+          R
+        
+        ∣
+        1
+        ≤
+        k
+        ≤
+        
+          k
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{X_{n,k}:\Omega \to \mathbb {R} \mid 1\leq k\leq k_{n}\}}
+   of random variables is called infinitesimal if for every 
+  
+    
+      
+        ϵ
+        >
+        0
+      
+    
+    {\displaystyle \epsilon >0}
+  , we have:
+
+  
+    
+      
+        
+          max
+          
+            1
+            ≤
+            k
+            ≤
+            
+              k
+              
+                n
+              
+            
+          
+        
+        
+          P
+        
+        {
+        ω
+        ∈
+        Ω
+        ∣
+        |
+        
+          X
+          
+            n
+            ,
+            k
+          
+        
+        (
+        ω
+        )
+        |
+        ≥
+        ϵ
+        }
+        →
+        0
+        
+           as 
+        
+        n
+        →
+        ∞
+      
+    
+    {\displaystyle \max _{1\leq k\leq k_{n}}\mathbb {P} \{\omega \in \Omega \mid \vert X_{n,k}(\omega )\vert \geq \epsilon \}\to 0{\text{ as }}n\to \infty }
+  The notion of infinitesimal array is essential in some central limit theorems and it is easily seen by monotonicity of the expectation operator that any array satisfying Lindeberg's condition is infinitesimal, thus playing an important role in Lindeberg's Central Limit Theorem (a generalization of the central limit theorem).
+
+See also
+Notes
+
+
+== References ==

@@ -1,0 +1,2894 @@
+In mathematics, Vincent's theorem—named after Alexandre Joseph Hidulphe Vincent—is a theorem that isolates the real roots of polynomials with rational coefficients.
+Even though Vincent's theorem is the basis of the fastest method for the isolation of the real roots of polynomials, it was almost totally forgotten, having been overshadowed by Sturm's theorem; consequently, it does not appear in any of the classical books on the theory of equations (of the 20th century), except for Uspensky's book. Two variants of this theorem are presented, along with several (continued fractions and bisection) real root isolation methods derived from them.
+
+Sign variation
+Let c0, c1, c2, ... be a finite or infinite sequence of real numbers. Suppose l < r and the following conditions hold:If r = l+1 the numbers cl and cr have opposite signs.
+If r ≥ l+2 the numbers cl+1, ..., cr−1 are all zero and the numbers cl and cr have opposite signs.This is called a sign variation or sign change between the numbers cl and cr.
+When dealing with the polynomial p(x) in one variable, one defines the number of sign variations of p(x) as the number of sign variations in the sequence of its coefficients.Two versions of this theorem are presented: the continued fractions version due to Vincent,  and the bisection version due to Alesina and Galuzzi.
+
+Vincent's theorem: Continued fractions version (1834 and 1836)
+If in a polynomial equation with rational coefficients and without multiple roots, one makes successive transformations of the form
+
+  
+    
+      
+        x
+        =
+        
+          a
+          
+            1
+          
+        
+        +
+        
+          
+            1
+            
+              x
+              ′
+            
+          
+        
+        ,
+        
+        
+          x
+          ′
+        
+        =
+        
+          a
+          
+            2
+          
+        
+        +
+        
+          
+            1
+            
+              x
+              ″
+            
+          
+        
+        ,
+        
+        
+          x
+          ″
+        
+        =
+        
+          a
+          
+            3
+          
+        
+        +
+        
+          
+            1
+            
+              x
+              ‴
+            
+          
+        
+        ,
+        …
+      
+    
+    {\displaystyle x=a_{1}+{\frac {1}{x'}},\quad x'=a_{2}+{\frac {1}{x''}},\quad x''=a_{3}+{\frac {1}{x'''}},\ldots }
+  where 
+  
+    
+      
+        
+          a
+          
+            1
+          
+        
+        ,
+        
+          a
+          
+            2
+          
+        
+        ,
+        
+          a
+          
+            3
+          
+        
+        ,
+        …
+      
+    
+    {\displaystyle a_{1},a_{2},a_{3},\ldots }
+   are any positive numbers greater than or equal to one, then after a number of such transformations, the resulting transformed equation either has zero sign variations or it has a single sign variation. In the first case there is no root, whereas in the second case there is a single positive real root. Furthermore, the corresponding root of the proposed equation is approximated by the finite continued fraction:
+
+  
+    
+      
+        
+          a
+          
+            1
+          
+        
+        +
+        
+          
+            
+              
+                
+              
+              
+                
+                  1
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  
+                    a
+                    
+                      2
+                    
+                  
+                  +
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            1
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            
+                              a
+                              
+                                3
+                              
+                            
+                            +
+                            
+                              
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      1
+                                    
+                                  
+                                
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      ⋱
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle a_{1}+{\cfrac {1}{a_{2}+{\cfrac {1}{a_{3}+{\cfrac {1}{\ddots }}}}}}}
+  Moreover, if infinitely many numbers 
+  
+    
+      
+        
+          a
+          
+            1
+          
+        
+        ,
+        
+          a
+          
+            2
+          
+        
+        ,
+        
+          a
+          
+            3
+          
+        
+        ,
+        …
+      
+    
+    {\displaystyle a_{1},a_{2},a_{3},\ldots }
+   satisfying this property can be found, then the root is represented by the (infinite) corresponding continued fraction.
+The above statement is an exact translation of the theorem found in Vincent's original papers; however, the following remarks are needed for a clearer understanding:
+
+If 
+  
+    
+      
+        
+          f
+          
+            n
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle f_{n}(x)}
+   denotes the polynomial obtained after n substitutions (and after removing the denominator), then there exists N such that for all 
+  
+    
+      
+        n
+        ≥
+        N
+      
+    
+    {\displaystyle n\geq N}
+   either 
+  
+    
+      
+        
+          f
+          
+            n
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle f_{n}(x)}
+   has no sign variation or it has one sign variation. In the latter case 
+  
+    
+      
+        
+          f
+          
+            n
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle f_{n}(x)}
+   has a single positive real root for all 
+  
+    
+      
+        n
+        ≥
+        N
+      
+    
+    {\displaystyle n\geq N}
+  .
+The continued fraction represents a positive root of the original equation, and the original equation may have more than one positive root. Moreover, assuming 
+  
+    
+      
+        
+          a
+          
+            1
+          
+        
+        ≥
+        1
+      
+    
+    {\displaystyle a_{1}\geq 1}
+  , we can only obtain a root of the original equation that is > 1. To obtain an arbitrary positive root we need to assume that 
+  
+    
+      
+        
+          a
+          
+            1
+          
+        
+        ≥
+        0
+      
+    
+    {\displaystyle a_{1}\geq 0}
+  .
+Negative roots are obtained by replacing x by −x, in which case the negative roots become positive.
+
+Vincent's theorem: Bisection version (Alesina and Galuzzi 2000)
+Let p(x) be a real polynomial of degree deg(p) that has only simple roots. It is possible to determine a positive quantity δ so that for every pair of positive real numbers a, b with 
+  
+    
+      
+        
+          |
+        
+        b
+        −
+        a
+        
+          |
+        
+        <
+        δ
+      
+    
+    {\displaystyle |b-a|<\delta }
+  , every transformed polynomial of the form
+
+has exactly 0 or 1 sign variations. The second case is possible if and only if  p(x) has a single root within (a, b).
+
+The Alesina–Galuzzi "a_b roots test"
+From equation (1) the following criterion is obtained for determining whether a polynomial has any roots in the interval (a, b):
+Perform on p(x) the substitution
+
+  
+    
+      
+        x
+        ←
+        
+          
+            
+              a
+              +
+              b
+              x
+            
+            
+              1
+              +
+              x
+            
+          
+        
+      
+    
+    {\displaystyle x\leftarrow {\frac {a+bx}{1+x}}}
+  and count the number of sign variations in the sequence of coefficients of the transformed polynomial; this number gives an upper bound on the number of real roots p(x) has inside the open interval (a, b). More precisely, the number ρab(p) of real roots in the open interval (a, b)—multiplicities counted—of the polynomial p(x) in R[x], of degree deg(p), is bounded above by the number of sign variations varab(p), where
+
+  
+    
+      
+        
+          var
+          
+            a
+            b
+          
+        
+        ⁡
+        (
+        p
+        )
+        =
+        var
+        ⁡
+        
+          (
+          
+            (
+            1
+            +
+            x
+            
+              )
+              
+                deg
+                ⁡
+                (
+                p
+                )
+              
+            
+            p
+            
+              (
+              
+                
+                  
+                    a
+                    +
+                    b
+                    x
+                  
+                  
+                    1
+                    +
+                    x
+                  
+                
+              
+              )
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle \operatorname {var} _{ab}(p)=\operatorname {var} \left((1+x)^{\deg(p)}p\left({\frac {a+bx}{1+x}}\right)\right),}
+  
+
+  
+    
+      
+        
+          var
+          
+            a
+            b
+          
+        
+        ⁡
+        (
+        p
+        )
+        =
+        
+          var
+          
+            b
+            a
+          
+        
+        ⁡
+        (
+        p
+        )
+        ≥
+        
+          ρ
+          
+            a
+            b
+          
+        
+        (
+        p
+        )
+        .
+      
+    
+    {\displaystyle \operatorname {var} _{ab}(p)=\operatorname {var} _{ba}(p)\geq \rho _{ab}(p).}
+  As in the case of Descartes' rule of signs if varab(p) = 0 it follows that ρab(p) = 0 and if varab(p) = 1 it follows that ρab(p) = 1.
+A special case of the Alesina–Galuzzi "a_b roots test" is Budan's "0_1 roots test".
+
+Sketch of a proof
+A detailed discussion of Vincent's theorem, its extension, the geometrical interpretation of the transformations involved and three different proofs can be found in the work by Alesina and Galuzzi. A fourth proof is due to Ostrowski who rediscovered a special case of a theorem stated by Obreschkoff, p. 81, in 1920–1923.
+To prove (both versions of) Vincent's theorem Alesina and Galuzzi show that after a series of transformations mentioned in the theorem, a polynomial with one positive root eventually has one sign variation. To show this, they use the following corollary to the theorem by Obreschkoff of 1920–1923 mentioned earlier; that is, the following corollary gives the necessary conditions under which a polynomial with one positive root has exactly one sign variation in the sequence of its coefficients; see also the corresponding figure.
+
+Corollary. (Obreschkoff's cone or sector theorem, 1920–1923 p. 81): If a real polynomial has one simple root x0, and all other (possibly multiple) roots lie in the sector
+
+  
+    
+      
+        
+          S
+          
+            
+              3
+            
+          
+        
+        =
+        
+          {
+          
+            x
+            =
+            −
+            α
+            +
+            i
+            β
+             
+            :
+             
+            
+              |
+            
+            β
+            
+              |
+            
+            ≤
+            
+              
+                3
+              
+            
+            
+              |
+            
+            α
+            
+              |
+            
+            ,
+            α
+            >
+            0
+          
+          }
+        
+      
+    
+    {\displaystyle S_{\sqrt {3}}=\left\{x=-\alpha +i\beta \ :\ |\beta |\leq {\sqrt {3}}|\alpha |,\alpha >0\right\}}
+  
+then the sequence of its coefficients has exactly one sign variation.Consider now the Möbius transformation 
+
+  
+    
+      
+        M
+        (
+        x
+        )
+        =
+        
+          
+            
+              a
+              x
+              +
+              b
+            
+            
+              c
+              x
+              +
+              d
+            
+          
+        
+        ,
+        
+        a
+        ,
+        b
+        ,
+        c
+        ,
+        d
+        ∈
+        
+          
+            Z
+          
+          
+            >
+            0
+          
+        
+      
+    
+    {\displaystyle M(x)={\frac {ax+b}{cx+d}},\qquad a,b,c,d\in \mathbb {Z} _{>0}}
+  and the three circles shown in the corresponding figure; assume that  a/c < b/d.
+
+The (yellow) circle
+  
+    
+      
+        
+          |
+          
+            x
+            −
+            
+              
+                
+                  1
+                  2
+                
+              
+            
+            
+              (
+              
+                
+                  
+                    
+                      a
+                      c
+                    
+                  
+                
+                +
+                
+                  
+                    
+                      b
+                      d
+                    
+                  
+                
+              
+              )
+            
+          
+          |
+        
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+          (
+          
+            
+              
+                
+                  b
+                  d
+                
+              
+            
+            −
+            
+              
+                
+                  a
+                  c
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \left|x-{\tfrac {1}{2}}\left({\tfrac {a}{c}}+{\tfrac {b}{d}}\right)\right|={\tfrac {1}{2}}\left({\tfrac {b}{d}}-{\tfrac {a}{c}}\right)}
+  
+whose diameter lies on the real axis, with endpoints a/c  and b/d, is mapped by the inverse Möbius transformation
+
+  
+    
+      
+        
+          M
+          
+            −
+            1
+          
+        
+        (
+        x
+        )
+        =
+        
+          
+            
+              d
+              x
+              −
+              b
+            
+            
+              −
+              c
+              x
+              +
+              a
+            
+          
+        
+      
+    
+    {\displaystyle M^{-1}(x)={\frac {dx-b}{-cx+a}}}
+  
+onto the imaginary axis. For example the point
+
+  
+    
+      
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+          (
+          
+            
+              
+                
+                  a
+                  c
+                
+              
+            
+            +
+            
+              
+                
+                  b
+                  d
+                
+              
+            
+          
+          )
+        
+        +
+        
+          
+            
+              i
+              2
+            
+          
+        
+        
+          (
+          
+            
+              
+                
+                  b
+                  d
+                
+              
+            
+            −
+            
+              
+                
+                  a
+                  c
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle {\tfrac {1}{2}}\left({\tfrac {a}{c}}+{\tfrac {b}{d}}\right)+{\tfrac {i}{2}}\left({\tfrac {b}{d}}-{\tfrac {a}{c}}\right)}
+  
+gets mapped onto the point −i d/c. The exterior points get mapped onto the half-plane with Re(x) < 0.The two circles (only their blue crescents are visible) with center
+  
+    
+      
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+          (
+          
+            
+              
+                
+                  a
+                  c
+                
+              
+            
+            +
+            
+              
+                
+                  b
+                  d
+                
+              
+            
+          
+          )
+        
+        ±
+        
+          
+            
+              i
+              
+                2
+                
+                  
+                    3
+                  
+                
+              
+            
+          
+        
+        
+          (
+          
+            
+              
+                
+                  b
+                  d
+                
+              
+            
+            −
+            
+              
+                
+                  a
+                  c
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle {\tfrac {1}{2}}\left({\tfrac {a}{c}}+{\tfrac {b}{d}}\right)\pm {\tfrac {i}{2{\sqrt {3}}}}\left({\tfrac {b}{d}}-{\tfrac {a}{c}}\right)}
+  
+and radius
+
+  
+    
+      
+        
+          
+            
+              1
+              
+                3
+              
+            
+          
+        
+        
+          (
+          
+            
+              
+                
+                  b
+                  d
+                
+              
+            
+            −
+            
+              
+                
+                  a
+                  c
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle {\tfrac {1}{\sqrt {3}}}\left({\tfrac {b}{d}}-{\tfrac {a}{c}}\right)}
+  
+are mapped by the inverse Möbius transformation
+
+  
+    
+      
+        
+          M
+          
+            −
+            1
+          
+        
+        (
+        x
+        )
+        =
+        
+          
+            
+              d
+              x
+              −
+              b
+            
+            
+              −
+              c
+              x
+              +
+              a
+            
+          
+        
+      
+    
+    {\displaystyle M^{-1}(x)={\frac {dx-b}{-cx+a}}}
+  
+onto the lines Im(x) = ±√3 Re(x). For example the point
+
+  
+    
+      
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+          (
+          
+            
+              
+                
+                  a
+                  c
+                
+              
+            
+            +
+            
+              
+                
+                  b
+                  d
+                
+              
+            
+          
+          )
+        
+        −
+        
+          
+            
+              
+                3
+                i
+              
+              
+                2
+                
+                  
+                    3
+                  
+                
+              
+            
+          
+        
+        
+          (
+          
+            
+              
+                
+                  b
+                  d
+                
+              
+            
+            −
+            
+              
+                
+                  a
+                  c
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle {\tfrac {1}{2}}\left({\tfrac {a}{c}}+{\tfrac {b}{d}}\right)-{\tfrac {3i}{2{\sqrt {3}}}}\left({\tfrac {b}{d}}-{\tfrac {a}{c}}\right)}
+  
+gets mapped to the point
+
+  
+    
+      
+        
+          
+            
+              
+                −
+                d
+              
+              
+                2
+                c
+              
+            
+          
+        
+        
+          (
+          
+            1
+            −
+            i
+            
+              
+                3
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle {\tfrac {-d}{2c}}\left(1-i{\sqrt {3}}\right).}
+  
+The exterior points (those outside the eight-shaped figure) get mapped onto the 
+  
+    
+      
+        
+          S
+          
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle S_{\sqrt {3}}}
+   sector.From the above it becomes obvious that if a polynomial has a single positive root inside the eight-shaped figure and all other roots are outside of it, it presents one sign variation in the sequence of its coefficients. This also guarantees the termination of the process.
+
+Historical background
+Early applications of Vincent's theorem
+In his fundamental papers, Vincent presented examples that show precisely how to use his theorem to isolate real roots of polynomials with continued fractions. However the resulting method had exponential computing time, a fact that mathematicians must have realized then, as was realized by Uspensky p. 136, a century later.
+
+The exponential nature of Vincent's algorithm is due to the way the partial quotients ai (in Vincent's theorem) are computed. That is, to compute each partial quotient ai (that is,  to locate where the roots lie on the x-axis) Vincent uses Budan's theorem as a "no roots test"; in other words, to find the integer part of a root Vincent performs successive substitutions of the form x ← x+1 and stops only when the polynomials p(x) and p(x+1) differ in the number of sign variations in the sequence of their coefficients (i.e. when the number of sign variations of p(x+1) is decreased).
+See the corresponding diagram where the root lies in the interval (5, 6). It can be easily inferred that, if the root is far away from the origin, it takes a lot of time to find its integer part this way, hence the exponential nature of Vincent's method. Below there is an explanation of how this drawback is overcome.
+
+Disappearance of Vincent's theorem
+Vincent was the last author in the 19th century to use his theorem for the isolation of the real roots of a polynomial.
+The reason for that was the appearance of Sturm's theorem in 1827, which solved the real root isolation problem in polynomial time, by defining the precise number of real roots a polynomial has in a  real open interval (a, b). The resulting (Sturm's) method for computing the real roots of polynomials has been the only one widely known and used ever since—up to about 1980, when it was replaced (in almost all computer algebra systems) by methods derived from Vincent's theorem, the fastest one being the Vincent–Akritas–Strzeboński (VAS) method.Serret included in his Algebra, pp 363–368, Vincent's theorem along with its proof and directed all interested readers to Vincent's papers for examples on how it is used. Serret was the last author to mention Vincent's theorem in the 19th century.
+
+Comeback of Vincent's theorem
+In the 20th century Vincent's theorem cannot be found in any of the theory of equations books; the only exceptions are the books by Uspensky and Obreschkoff, where in the second there is just the statement of the theorem.
+It was in Uspensky's book that Akritas found Vincent's theorem and made it the topic of his Ph.D. Thesis "Vincent's Theorem in Algebraic Manipulation", North Carolina State University, USA, 1978.  A major achievement at the time was getting hold of Vincent's original paper of 1836, something that had eluded Uspensky—resulting thus in a great misunderstanding.  Vincent's original paper of 1836 was made available to Akritas through the commendable efforts (interlibrary loan) of a librarian in the Library of the University of Wisconsin–Madison, USA.
+
+Real root isolation methods derived from Vincent's theorem
+Isolation of the real roots of a polynomial is the process of finding open disjoint intervals such that each contains exactly one real root and every real root is contained in some interval. According to the French school of mathematics of the 19th century, this is the first step in computing the real roots, the second being their approximation to any degree of accuracy; moreover, the focus is on the positive roots, because to isolate the negative roots of the polynomial p(x) replace x by −x (x ← −x) and repeat the process.
+The continued fractions version of Vincent's theorem can be used to isolate the positive roots of a given polynomial p(x) of degree deg(p). To see this, represent by the Möbius transformation 
+
+  
+    
+      
+        M
+        (
+        x
+        )
+        =
+        
+          
+            
+              a
+              x
+              +
+              b
+            
+            
+              c
+              x
+              +
+              d
+            
+          
+        
+        ,
+        
+        a
+        ,
+        b
+        ,
+        c
+        ,
+        d
+        ∈
+        
+          N
+        
+      
+    
+    {\displaystyle M(x)={\frac {ax+b}{cx+d}},\qquad a,b,c,d\in \mathbb {N} }
+  
+the continued fraction that leads to a transformed polynomial 
+ with one sign variation  in the sequence of its coefficients. Then, the single positive root of f(x) (in the interval (0, ∞)) corresponds to that positive root of p(x) that is in the open interval with endpoints 
+  
+    
+      
+        
+          
+            b
+            d
+          
+        
+      
+    
+    {\displaystyle {\frac {b}{d}}}
+   and 
+  
+    
+      
+        
+          
+            a
+            c
+          
+        
+      
+    
+    {\displaystyle {\frac {a}{c}}}
+  . These endpoints are not ordered and correspond to M(0) and M(∞) respectively.
+Therefore, to isolate the positive roots of a polynomial, all that must be done is to compute—for each root—the variables a, b, c, d of the corresponding Möbius transformation 
+
+  
+    
+      
+        M
+        (
+        x
+        )
+        =
+        
+          
+            
+              a
+              x
+              +
+              b
+            
+            
+              c
+              x
+              +
+              d
+            
+          
+        
+      
+    
+    {\displaystyle M(x)={\frac {ax+b}{cx+d}}}
+  that leads to a transformed polynomial as in equation (2), with one sign variation in the sequence of its coefficients.
+Crucial Observation: The variables a, b, c, d of a Möbius transformation 
+
+  
+    
+      
+        M
+        (
+        x
+        )
+        =
+        
+          
+            
+              a
+              x
+              +
+              b
+            
+            
+              c
+              x
+              +
+              d
+            
+          
+        
+      
+    
+    {\displaystyle M(x)={\frac {ax+b}{cx+d}}}
+  (in Vincent's theorem) leading to a transformed polynomial—as in equation (2)—with one sign variation in the sequence of its coefficients can be computed:
+
+either by continued fractions, leading to the Vincent–Akritas–Strzebonski (VAS) continued fractions method,
+or by bisection, leading to (among others) the Vincent–Collins–Akritas (VCA) bisection method.The "bisection part" of this all important observation appeared as a special theorem in the papers by Alesina and Galuzzi.All methods described below (see the article on Budan's theorem for their historical background) need to compute (once) an upper bound, ub, on the values of the positive roots of the polynomial under consideration. Exception is the VAS method where additionally lower bounds, lb, must be computed at almost every cycle of the main loop. To compute the lower bound lb of the polynomial p(x) compute the upper bound ub of the polynomial 
+  
+    
+      
+        
+          x
+          
+            deg
+            ⁡
+            (
+            p
+            )
+          
+        
+        p
+        
+          (
+          
+            
+              1
+              x
+            
+          
+          )
+        
+      
+    
+    {\displaystyle x^{\deg(p)}p\left({\frac {1}{x}}\right)}
+   and set 
+  
+    
+      
+        l
+        b
+        =
+        
+          
+            1
+            
+              u
+              b
+            
+          
+        
+      
+    
+    {\displaystyle lb={\frac {1}{ub}}}
+  .
+Excellent (upper and lower) bounds on the values of just the positive roots of polynomials have been developed by Akritas, Strzeboński and Vigklas based on previous work by Doru Stefanescu. They are described in P. S. Vigklas' Ph.D. Thesis and elsewhere. These bounds have already been implemented in the computer algebra systems  Mathematica, SageMath, SymPy, Xcas etc.
+All three methods described below follow the excellent presentation of François Boulier, p. 24.
+
+Continued fractions method
+Only one continued fractions method derives from Vincent's theorem. As stated above, it started in the 1830s when Vincent presented, in the papers several examples that show how to use his theorem to isolate the real roots of polynomials with continued fractions. However the resulting method had exponential computing time. Below is an explanation of how this method evolved.
+
+Vincent–Akritas–Strzeboński (VAS, 2005)
+This is the second method (after VCA) developed to handle the exponential behavior of Vincent's method.
+The VAS continued fractions method is a direct implementation of Vincent's theorem. It was originally presented by Vincent from 1834 to 1938 in the papers  in a exponential form; namely, Vincent computed each partial quotient ai by a series of unit increments ai ← ai + 1, which are equivalent to substitutions of the form x ← x + 1.
+Vincent's method was converted into its polynomial complexity form by Akritas, who in his 1978 Ph.D. Thesis (Vincent's theorem in algebraic manipulation, North Carolina State University, USA) computed each partial quotient ai as the lower bound, lb, on the values of the positive roots of a polynomial. This is called the ideal positive lower root bound that computes the integer part of the smallest positive root (see the corresponding figure). To wit, now set ai ← lb or, equivalently, perform the substitution x ← x + lb, which takes about the same time as the substitution x ← x + 1.
+
+Finally, since the ideal positive lower root bound does not exist, Strzeboński introduced in 2005 the substitution 
+  
+    
+      
+        x
+        ←
+        l
+        
+          b
+          
+            c
+            o
+            m
+            p
+            u
+            t
+            e
+            d
+          
+        
+        ∗
+        x
+      
+    
+    {\displaystyle x\leftarrow lb_{computed}*x}
+  , whenever 
+  
+    
+      
+        l
+        
+          b
+          
+            c
+            o
+            m
+            p
+            u
+            t
+            e
+            d
+          
+        
+        >
+        16
+      
+    
+    {\displaystyle lb_{computed}>16}
+  ; in general 
+  
+    
+      
+        l
+        b
+        >
+        l
+        
+          b
+          
+            c
+            o
+            m
+            p
+            u
+            t
+            e
+            d
+          
+        
+      
+    
+    {\displaystyle lb>lb_{computed}}
+   and the value 16 was determined experimentally. Moreover, it has been shown that the VAS (continued fractions) method is faster than the fastest implementation of the VCA (bisection) method, a fact that was confirmed independently; more precisely, for the Mignotte polynomials of high degree VAS is about 50,000 times faster than the fastest implementation of VCA.
+In 2007, Sharma removed the hypothesis of the ideal positive lower bound and proved that VAS is still polynomial in time.
+VAS is the default algorithm for root isolation in Mathematica, SageMath, SymPy, Xcas.
+For a comparison between Sturm's method and VAS use the functions realroot(poly) and time(realroot(poly)) of Xcas. By default, to isolate the real roots of poly realroot uses the VAS method; to use Sturm's method write realroot(sturm, poly). See also the External links for an application by A. Berkakis for Android devices that does the same thing.
+Here is how VAS(p, M) works, where for simplicity Strzeboński's contribution is not included: 
+
+Let p(x) be  a polynomial of degree deg(p) such that p(0) ≠ 0. To isolate its positive roots, associate with p(x) the Möbius transformation M(x) = x and repeat the following steps while there are pairs {p(x), M(x)} to be processed.
+Use Descartes' rule of signs on p(x) to compute, if possible, (using the number var of sign variations in the sequence of its coefficients) the number of its roots inside the interval (0, ∞). If there are no roots return the empty set, ∅ whereas if there is one root return the interval (a, b), where a = min(M(0), M(∞)), and b = max(M(0), M(∞)); if b = ∞ set b = ub, where ub is an upper bound on the values of the positive roots of p(x).
+If there are two or more sign variations Descartes' rule of signs implies that there may be zero, one or more real roots inside the interval (0, ∞); in this case consider separately the roots of p(x) that lie inside the interval (0, 1) from those inside the interval (1, ∞). A special test must be made for 1.
+To guarantee that there are roots inside the interval (0, 1) the ideal lower bound, lb is used; that is the integer part of the smallest positive root is computed with the help of the lower bound, 
+  
+    
+      
+        l
+        
+          b
+          
+            c
+            o
+            m
+            p
+            u
+            t
+            e
+            d
+          
+        
+      
+    
+    {\displaystyle lb_{computed}}
+  , on the values of the positive roots of p(x). If 
+  
+    
+      
+        l
+        
+          b
+          
+            c
+            o
+            m
+            p
+            u
+            t
+            e
+            d
+          
+        
+        >
+        1
+      
+    
+    {\displaystyle lb_{computed}>1}
+  , the substitution 
+  
+    
+      
+        x
+        ←
+        x
+        +
+        l
+        
+          b
+          
+            c
+            o
+            m
+            p
+            u
+            t
+            e
+            d
+          
+        
+      
+    
+    {\displaystyle x\leftarrow x+lb_{computed}}
+   is performed to p(x) and M(x), whereas if 
+  
+    
+      
+        l
+        
+          b
+          
+            c
+            o
+            m
+            p
+            u
+            t
+            e
+            d
+          
+        
+        ≤
+        1
+      
+    
+    {\displaystyle lb_{computed}\leq 1}
+   use substitution(s) x ← x+1 to find the integer part of the root(s).
+To compute the roots inside the interval (0, 1) perform the substitution 
+  
+    
+      
+        x
+        ←
+        
+          
+            1
+            
+              1
+              +
+              x
+            
+          
+        
+      
+    
+    {\displaystyle x\leftarrow {\frac {1}{1+x}}}
+   to p(x) and M(x) and process the pair
+  
+    
+      
+        
+          {
+          
+            (
+            1
+            +
+            x
+            
+              )
+              
+                deg
+                ⁡
+                (
+                p
+                )
+              
+            
+            p
+            
+              (
+              
+                
+                  
+                    1
+                    
+                      1
+                      +
+                      x
+                    
+                  
+                
+              
+              )
+            
+            ,
+            M
+            (
+            
+              
+                
+                  1
+                  
+                    1
+                    +
+                    x
+                  
+                
+              
+            
+            )
+          
+          }
+        
+        ,
+      
+    
+    {\displaystyle \left\{(1+x)^{\deg(p)}p\left({\tfrac {1}{1+x}}\right),M({\tfrac {1}{1+x}})\right\},}
+  
+whereas to compute the roots in the interval (1, ∞) perform the substitution x ← x + 1 to p(x) and M(x) and process the pair {p(1 + x), M(1 + x)}. It may well turn out that 1 is a root of p(x), in which case, M(1) is a root of the original polynomial and the isolation interval reduces to a point.Below is a recursive presentation of VAS(p, M).
+VAS(p, M):
+Input: A univariate, square-free polynomial 
+  
+    
+      
+        p
+        (
+        x
+        )
+        ∈
+        
+          Z
+        
+        [
+        x
+        ]
+        ,
+        p
+        (
+        0
+        )
+        ≠
+        0
+      
+    
+    {\displaystyle p(x)\in \mathbb {Z} [x],p(0)\neq 0}
+  , of degree deg(p), and the Möbius transformation 
+
+  
+    
+      
+        M
+        (
+        x
+        )
+        =
+        
+          
+            
+              a
+              x
+              +
+              b
+            
+            
+              c
+              x
+              +
+              d
+            
+          
+        
+        =
+        x
+        ,
+        
+        a
+        ,
+        b
+        ,
+        c
+        ,
+        d
+        ∈
+        
+          N
+        
+        .
+      
+    
+    {\displaystyle M(x)={\frac {ax+b}{cx+d}}=x,\qquad a,b,c,d\in \mathbb {N} .}
+  Output: A list of isolating intervals of the positive roots of p(x).
+
+1 var ← the number of sign variations of p(x) // Descartes' rule of signs;
+2 if var = 0 then RETURN ∅;
+3 if var = 1 then RETURN {(a, b)} // a = min(M(0), M(∞)), b = max(M(0), M(∞)), but if b = ∞ set b = ub, where ub is an upper bound on the values of the positive roots of p(x);
+4 lb ← the ideal lower bound on the positive roots of p(x);
+5 if lb ≥ 1 then p ← p(x + lb), M ← M(x + lb);
+6 p01 ← (x + 1)deg(p) p(1/x + 1), M01 ← M(1/x + 1) // Look for real roots in (0, 1);
+7 m ← M(1) // Is 1 a root?
+8 p1∞ ← p(x + 1), M1∞ ← M(x + 1) // Look for real roots in (1, ∞);
+9 if p(1) ≠ 0  then
+10 RETURN VAS(p01, M01) ∪ VAS(p1∞, M1∞)
+11 else
+12 RETURN VAS(p01, M01) ∪ {[m, m]} ∪ VAS(p1∞, M1∞)
+13 end
+
+Remarks
+
+For simplicity Strzeboński's contribution is not included.
+In the above algorithm with each polynomial there is associated a Möbius transformation M(x).
+In line 1 Descartes' rule of signs is applied.
+If lines 4 and 5 are removed from VAS(p, M) the resulting algorithm is Vincent's exponential one.
+Any substitution performed on the polynomial p(x) is also performed on the associated Möbius transformation M(x) (lines 5 6 and 8).
+The isolating intervals are computed from the Möbius transformation in line 3, except for integer roots computed in line 7 (also 12).
+
+Example of VAS(p, M)
+We apply the VAS method to p(x) = x3 − 7x + 7 (note that: M(x) = x).
+
+Iteration 1
+VAS(x3 − 7x + 7, x)
+1 var ← 2 // the number of sign variations in the sequence of coefficients of p(x) = x3 − 7x + 7
+4 lb ← 1 // the ideal lower bound—found using lbcomputed and substitution(s) x ← x + 1
+5 p ← x3 + 3x2 − 4x + 1, M ← x + 1
+6 p01 ← x3 − x2 − 2x + 1, M01 ← x + 2/x + 1
+7 m ← 1
+8 p1∞ ← x3 + 6x2 + 5x + 1, M1∞ ← x + 2
+10          RETURN VAS(x3 − x2 − 2x + 1, x + 2/x + 1) ∪ VAS(x3 + 6x2 + 5x + 1, x + 2)
+
+List of isolation intervals: { }.
+List of pairs {p, M} to be processed: 
+
+  
+    
+      
+        
+          {
+          
+            
+              {
+              
+                
+                  x
+                  
+                    3
+                  
+                
+                −
+                
+                  x
+                  
+                    2
+                  
+                
+                −
+                2
+                x
+                +
+                1
+                ,
+                
+                  
+                    
+                      
+                        x
+                        +
+                        2
+                      
+                      
+                        x
+                        +
+                        1
+                      
+                    
+                  
+                
+              
+              }
+            
+            ,
+            {
+            
+              x
+              
+                3
+              
+            
+            +
+            6
+            
+              x
+              
+                2
+              
+            
+            +
+            5
+            x
+            +
+            1
+            ,
+            x
+            +
+            2
+            }
+          
+          }
+        
+        .
+      
+    
+    {\displaystyle \left\{\left\{x^{3}-x^{2}-2x+1,{\tfrac {x+2}{x+1}}\right\},\{x^{3}+6x^{2}+5x+1,x+2\}\right\}.}
+  Remove the first and process it.
+
+Iteration 2
+VAS(x3 − x2 − 2x + 1, x + 2/x + 1)
+1 var ← 2 // the number of sign variations in the sequence of coefficients of p(x) = x3 − x2 − 2x + 1
+4 lb ← 0 // the ideal lower bound—found using lbcomputed and substitution(s) x ← x + 1
+6 p01 ← x3 + x2 − 2x − 1, M01 ← 2x + 3/x + 1
+7 m ← 3/2
+8 p1∞ ← x3 + 2x2 − x − 1, M1∞ ← x + 3/x + 2
+10          RETURN VAS(x3 + x2 − 2x − 1, 2x + 3/x + 2) ∪ VAS(x3 + 2x2 − x − 1, x + 3/x + 2)
+
+List of isolation intervals: { }.
+List of pairs {p, M} to be processed: 
+
+  
+    
+      
+        
+          {
+          
+            
+              {
+              
+                
+                  x
+                  
+                    3
+                  
+                
+                +
+                
+                  x
+                  
+                    2
+                  
+                
+                −
+                2
+                x
+                −
+                1
+                ,
+                
+                  
+                    
+                      
+                        2
+                        x
+                        +
+                        3
+                      
+                      
+                        x
+                        +
+                        2
+                      
+                    
+                  
+                
+              
+              }
+            
+            ,
+            
+              {
+              
+                
+                  x
+                  
+                    3
+                  
+                
+                +
+                2
+                
+                  x
+                  
+                    2
+                  
+                
+                −
+                x
+                −
+                1
+                ,
+                
+                  
+                    
+                      
+                        x
+                        +
+                        3
+                      
+                      
+                        x
+                        +
+                        2
+                      
+                    
+                  
+                
+              
+              }
+            
+            ,
+            {
+            
+              x
+              
+                3
+              
+            
+            +
+            6
+            
+              x
+              
+                2
+              
+            
+            +
+            5
+            x
+            +
+            1
+            ,
+            x
+            +
+            2
+            }
+          
+          }
+        
+        .
+      
+    
+    {\displaystyle \left\{\left\{x^{3}+x^{2}-2x-1,{\tfrac {2x+3}{x+2}}\right\},\left\{x^{3}+2x^{2}-x-1,{\tfrac {x+3}{x+2}}\right\},\{x^{3}+6x^{2}+5x+1,x+2\}\right\}.}
+  Remove the first and process it.
+
+Iteration 3
+VAS(x3 + x2 − 2x − 1, 2x + 3/x + 2)
+1 var ← 1 // the number of sign variations in the sequence of coefficients of p(x) = x3 + x2 − 2x − 1
+3          RETURN {(3/2, 2)}
+
+List of isolation intervals: {(3/2, 2)}.
+List of pairs {p, M} to be processed: 
+
+  
+    
+      
+        
+          {
+          
+            
+              {
+              
+                
+                  x
+                  
+                    3
+                  
+                
+                +
+                2
+                
+                  x
+                  
+                    2
+                  
+                
+                −
+                x
+                −
+                1
+                ,
+                
+                  
+                    
+                      
+                        x
+                        +
+                        3
+                      
+                      
+                        x
+                        +
+                        2
+                      
+                    
+                  
+                
+              
+              }
+            
+            ,
+            {
+            
+              x
+              
+                3
+              
+            
+            +
+            6
+            
+              x
+              
+                2
+              
+            
+            +
+            5
+            x
+            +
+            1
+            ,
+            x
+            +
+            2
+            }
+          
+          }
+        
+        .
+      
+    
+    {\displaystyle \left\{\left\{x^{3}+2x^{2}-x-1,{\tfrac {x+3}{x+2}}\right\},\{x^{3}+6x^{2}+5x+1,x+2\}\right\}.}
+  Remove the first and process it.
+
+Iteration 4
+VAS(x3 + 2x2 − x − 1, x + 3/x + 2)
+1 var ← 1 // the number of sign variations in the sequence of coefficients of p(x) = x3 + 2x2 − x − 1
+3          RETURN {(1, 3/2)}
+
+List of isolation intervals: {(1, 3/2), (3/2, 2)}.
+List of pairs {p, M} to be processed: 
+
+  
+    
+      
+        
+          {
+          
+            {
+            
+              
+                x
+                
+                  3
+                
+              
+              +
+              6
+              
+                x
+                
+                  2
+                
+              
+              +
+              5
+              x
+              +
+              1
+              ,
+              x
+              +
+              2
+            
+            }
+          
+          }
+        
+        .
+      
+    
+    {\displaystyle \left\{\left\{x^{3}+6x^{2}+5x+1,x+2\right\}\right\}.}
+  Remove the first and process it.
+
+Iteration 5
+VAS(x3 + 6x2 + 5x + 1, x + 2)
+1 var ← 0 // the number of sign variations in the sequence of coefficients of p(x) = x3 + 6x2 + 5x + 1
+2          RETURN ∅
+
+List of isolation intervals: {(1, 3/2), (3/2, 2)}.
+List of pairs {p, M} to be processed: ∅.
+Finished.
+
+Conclusion
+Therefore, the two positive roots of the polynomial p(x) = x3 − 7x + 7 lie inside the isolation intervals (1, 3/2) and (3/2, 2)}. Each root can be approximated by (for example) bisecting the isolation interval it lies in until the difference of the endpoints is smaller than 10−6; following this approach, the roots turn out to be ρ1 = 1.3569 and ρ2 = 1.69202.
+
+Bisection methods
+There are various bisection methods derived from Vincent's theorem; they are all presented and compared elsewhere. Here the two most important of them are described, namely, the Vincent–Collins–Akritas (VCA) method and the Vincent–Alesina–Galuzzi (VAG) method.
+The Vincent–Alesina–Galuzzi (VAG) method is the simplest of all methods derived from Vincent's theorem but has the most time consuming test (in line 1) to determine if a polynomial has roots in the interval of interest; this makes it the slowest of the methods presented in this article.
+By contrast, the Vincent–Collins–Akritas (VCA) method is more complex but uses a simpler test (in line 1) than VAG. This along with certain improvements have made VCA the fastest bisection method.
+
+Vincent–Collins–Akritas (VCA, 1976)
+This was the first method developed to overcome the exponential nature of Vincent's original approach, and has had quite an interesting history as far as its name is concerned. This method, which isolates the real roots, using Descartes' rule of signs and Vincent's theorem, had been originally called modified Uspensky's algorithm by its inventors Collins and Akritas. After going through names like "Collins–Akritas method" and "Descartes' method" (too confusing if ones considers Fourier's article), it was finally François Boulier, of Lille University, who gave it the name Vincent–Collins–Akritas (VCA) method, p. 24, based on the fact that "Uspensky's method" does not exist and neither does "Descartes' method". The best implementation of this method is due to Rouillier and Zimmerman, and  to this date, it is the fastest bisection method. It has the same worst case complexity as Sturm's algorithm, but is almost always much faster. It has been implemented in Maple's RootFinding package.
+Here is how VCA(p, (a, b)) works:
+
+Given a polynomial porig(x) of degree deg(p), such that porig(0) ≠ 0, whose positive roots must be isolated, first compute an upper bound, ub on the values of these positive roots and set p(x) = porig(ub * x) and (a, b) = (0, ub). The positive roots of p(x) all lie in the interval (0, 1) and there is a bijection between them and the roots of porig(x), which all lie in the interval (a, b) = (0, ub) (see the corresponding figure); this bijection is expressed by α(a,b) = a +α(0,1)(b − a). Likewise, there is a bijection between the intervals (0, 1) and (0, ub).Repeat the following steps while there are pairs {p(x), (a, b)} to be processed.
+Use Budan's "0_1 roots test" on p(x) to compute (using the number var of sign variations in the sequence of its coefficients) the number of its roots inside the interval (0, 1). If there are no roots return the empty set, ∅ and if there is one root return the interval (a, b).
+If there are two or more sign variations Budan's "0_1 roots test" implies that there may be zero, one, two or more real roots inside the interval (0, 1). In this case cut it in half and consider separately the roots of p(x) inside the interval (0, 1/2)—and that correspond to the roots of porig(x) inside the interval (a, 1/2(a + b)) from those inside the interval (1/2, 1) and correspond to the roots of porig(x) inside the interval (1/2(a + b), b); that is, process, respectively, the pairs
+  
+    
+      
+        
+          {
+          
+            
+              2
+              
+                deg
+                ⁡
+                (
+                p
+                )
+              
+            
+            p
+            (
+            
+              
+                
+                  x
+                  2
+                
+              
+            
+            )
+            ,
+            (
+            a
+            ,
+            
+              
+                
+                  1
+                  2
+                
+              
+            
+            (
+            a
+            +
+            b
+            )
+            )
+          
+          }
+        
+        ,
+        
+        
+          {
+          
+            
+              2
+              
+                deg
+                ⁡
+                (
+                p
+                )
+              
+            
+            p
+            (
+            
+              
+                
+                  1
+                  2
+                
+              
+            
+            (
+            x
+            +
+            1
+            )
+            )
+            ,
+            (
+            
+              
+                
+                  1
+                  2
+                
+              
+            
+            (
+            a
+            +
+            b
+            )
+            ,
+            b
+            )
+          
+          }
+        
+      
+    
+    {\displaystyle \left\{2^{\deg(p)}p({\tfrac {x}{2}}),(a,{\tfrac {1}{2}}(a+b))\right\},\quad \left\{2^{\deg(p)}p({\tfrac {1}{2}}(x+1)),({\tfrac {1}{2}}(a+b),b)\right\}}
+  (see the corresponding figure). It may well turn out that 1/2 is a root of p(x), in which case 1/2(a + b) is a root of porig(x) and the isolation interval reduces to a point.Below is a recursive presentation of the original algorithm VCA(p, (a, b)).
+VCA(p, (a, b))
+Input: A univariate, square-free polynomial p(ub * x) ∈ Z[x], p(0) ≠ 0 of degree deg(p), and the open interval (a, b) = (0, ub), where ub is an upper bound on the values of the positive roots of p(x). (The positive roots of p(ub * x) are all in the open interval (0, 1)).Output: A list of isolating intervals of the positive roots of p(x)
+
+1 var ← the number of sign variations of (x + 1)deg(p)p(1/x + 1) // Budan's "0_1 roots test";
+2 if var = 0 then RETURN ∅;
+3 if var = 1 then RETURN {(a, b)};
+4 p01/2 ← 2deg(p)p(x/2) // Look for real roots in (0, 1/2);
+5 m ← 1/2(a + b) // Is 1/2 a root?
+6 p1/21 ← 2deg(p)p(x + 1/2) // Look for real roots in (1/2, 1);
+7 if p(1/2) ≠ 0 then
+8         RETURN VCA (p01/2, (a, m)) ∪ VCA (p1/21, (m, b))
+9 else
+10        RETURN VCA (p01/2, (a, m)) ∪ {[m, m]} ∪ VCA (p1/21, (m, b))
+11 end
+
+Remark
+
+In the above algorithm with each polynomial there is associated an interval (a, b). As shown elsewhere, p. 11, a Möbius transformation can also be associated with each polynomial in which case VCA looks more like VAS.
+In line 1 Budan's "0_1 roots test" is applied.
+
+Example of VCA(p, (a,b))
+Given the polynomial porig(x) = x3 − 7x + 7 and considering as an upper bound on the values of the positive roots ub = 4 the arguments of the VCA method are: p(x) = 64x3 − 28x + 7 and (a, b) = (0, 4).
+
+Iteration 1
+1 var ← 2 // the number of sign variations in the sequence of coefficients of (x + 1)3p(1/x + 1) = 7x3 − 7x2 − 35x + 43
+4 p01/2 ← 64x3 − 112x + 56
+5 m ← 2
+6 p1/21 ← 64x3 + 192x2 + 80x + 8
+7 p(1/2) = 1
+8          RETURN VCA(64x3 − 112x + 56, (0, 2)) ∪ VCA(64x3 + 192x2 + 80x + 8, (2, 4))
+
+List of isolation intervals: { }.
+List of pairs {p, I} to be processed: 
+
+  
+    
+      
+        
+          {
+          
+            
+              {
+              
+                64
+                
+                  x
+                  
+                    3
+                  
+                
+                −
+                112
+                x
+                +
+                56
+                ,
+                (
+                0
+                ,
+                2
+                )
+              
+              }
+            
+            ,
+            
+              {
+              
+                64
+                
+                  x
+                  
+                    3
+                  
+                
+                +
+                192
+                
+                  x
+                  
+                    2
+                  
+                
+                +
+                80
+                x
+                +
+                8
+                ,
+                (
+                2
+                ,
+                4
+                )
+              
+              }
+            
+          
+          }
+        
+        .
+      
+    
+    {\displaystyle \left\{\left\{64x^{3}-112x+56,(0,2)\right\},\left\{64x^{3}+192x^{2}+80x+8,(2,4)\right\}\right\}.}
+  Remove the first and process it.
+
+Iteration 2
+VCA(64x3 − 112x + 56, (0, 2))
+1 var ← 2 // the number of sign variations in the sequence of coefficients of (x + 1)3p(1/x + 1) = 56x3 + 56x2 − 56x + 8
+4 p01/2 ← 64x3 − 448x + 448
+5 m ← 1
+6 p1/21 ← 64x3 + 192x2 − 256x + 64
+7 p(1/2) = 8
+8          RETURN VCA(64x3 − 448x + 448, (0, 1)) ∪ VCA(64x3 + 192x2 − 256x + 64, (1, 2))
+
+List of isolation intervals: { }.
+List of pairs {p, I} to be processed:
+
+  
+    
+      
+        
+          {
+          
+            
+              {
+              
+                64
+                
+                  x
+                  
+                    3
+                  
+                
+                −
+                448
+                x
+                +
+                448
+                ,
+                (
+                0
+                ,
+                1
+                )
+              
+              }
+            
+            ,
+            
+              {
+              
+                64
+                
+                  x
+                  
+                    3
+                  
+                
+                +
+                192
+                
+                  x
+                  
+                    2
+                  
+                
+                −
+                256
+                x
+                +
+                64
+                ,
+                (
+                1
+                ,
+                2
+                )
+              
+              }
+            
+            ,
+            
+              {
+              
+                64
+                
+                  x
+                  
+                    3
+                  
+                
+                +
+                192
+                
+                  x
+                  
+                    2
+                  
+                
+                +
+                80
+                x
+                +
+                8
+                ,
+                (
+                2
+                ,
+                4
+                )
+              
+              }
+            
+          
+          }
+        
+        .
+      
+    
+    {\displaystyle \left\{\left\{64x^{3}-448x+448,(0,1)\right\},\left\{64x^{3}+192x^{2}-256x+64,(1,2)\right\},\left\{64x^{3}+192x^{2}+80x+8,(2,4)\right\}\right\}.}
+  Remove the first and process it.
+
+Iteration 3
+VCA(64x3 − 448x + 448, (0, 1))
+1 var ← 0 // the number of sign variations in the sequence of coefficients of (x + 1)3p(1/x + 1) = 448x3 + 896x2 + 448x + 64
+2          RETURN ∅
+
+List of isolation intervals: { }.
+List of pairs {p, I} to be processed: 
+
+  
+    
+      
+        
+          {
+          
+            
+              {
+              
+                64
+                
+                  x
+                  
+                    3
+                  
+                
+                +
+                192
+                
+                  x
+                  
+                    2
+                  
+                
+                −
+                256
+                x
+                +
+                64
+                ,
+                (
+                1
+                ,
+                2
+                )
+              
+              }
+            
+            ,
+            
+              {
+              
+                64
+                
+                  x
+                  
+                    3
+                  
+                
+                +
+                192
+                
+                  x
+                  
+                    2
+                  
+                
+                +
+                80
+                x
+                +
+                8
+                ,
+                (
+                2
+                ,
+                4
+                )
+              
+              }
+            
+          
+          }
+        
+        .
+      
+    
+    {\displaystyle \left\{\left\{64x^{3}+192x^{2}-256x+64,(1,2)\right\},\left\{64x^{3}+192x^{2}+80x+8,(2,4)\right\}\right\}.}
+  Remove the first and process it.
+
+Iteration 4
+VCA(64x3 + 192x2 − 256x + 64, (1, 2))
+1 var ← 2 // the number of sign variations in the sequence of coefficients of (x + 1)3p(1/x + 1) = 64x3 − 64x2 − 128x + 64
+4 p01/2 ← 64x3 + 384x2 − 1024x + 512
+5 m ← 3/2
+6 p1/21 ← 64x3 + 576x2 − 64x + 64
+7 p(1/2) = −8
+8 RETURN VCA(64x3 + 384x2 − 1024x + 512, (1, 3/2)) ∪ VCA(64x3 + 576x2 − 64x − 64, (3/2, 2))
+
+List of isolation intervals: { }.
+List of pairs {p, I} to be processed: 
+
+  
+    
+      
+        
+          {
+          
+            
+              {
+              
+                64
+                
+                  x
+                  
+                    3
+                  
+                
+                +
+                384
+                
+                  x
+                  
+                    2
+                  
+                
+                −
+                1024
+                x
+                +
+                512
+                ,
+                
+                  (
+                  
+                    1
+                    ,
+                    
+                      
+                        
+                          3
+                          2
+                        
+                      
+                    
+                  
+                  )
+                
+              
+              }
+            
+            ,
+            
+              {
+              
+                64
+                
+                  x
+                  
+                    3
+                  
+                
+                +
+                576
+                
+                  x
+                  
+                    2
+                  
+                
+                −
+                64
+                x
+                −
+                64
+                ,
+                
+                  (
+                  
+                    
+                      
+                        
+                          3
+                          2
+                        
+                      
+                    
+                    ,
+                    2
+                  
+                  )
+                
+              
+              }
+            
+            ,
+            
+              {
+              
+                64
+                
+                  x
+                  
+                    3
+                  
+                
+                +
+                192
+                
+                  x
+                  
+                    2
+                  
+                
+                +
+                80
+                x
+                +
+                8
+                ,
+                (
+                2
+                ,
+                4
+                )
+              
+              }
+            
+          
+          }
+        
+        .
+      
+    
+    {\displaystyle \left\{\left\{64x^{3}+384x^{2}-1024x+512,\left(1,{\tfrac {3}{2}}\right)\right\},\left\{64x^{3}+576x^{2}-64x-64,\left({\tfrac {3}{2}},2\right)\right\},\left\{64x^{3}+192x^{2}+80x+8,(2,4)\right\}\right\}.}
+  Remove the first and process it.
+
+Iteration 5
+VCA(64x3 + 384x2 − 1024x + 512, (1, 3/2))
+1 var ← 1 // the number of sign variations in the sequence of coefficients of (x + 1)3p(1/x + 1) = 512x3 + 512x2 − 128x − 64
+3 RETURN {(1, 3/2)}
+
+List of isolation intervals: {(1, 3/2)}.
+List of pairs {p, I} to be processed: 
+
+  
+    
+      
+        
+          {
+          
+            
+              {
+              
+                64
+                
+                  x
+                  
+                    3
+                  
+                
+                +
+                576
+                
+                  x
+                  
+                    2
+                  
+                
+                −
+                64
+                x
+                −
+                64
+                ,
+                
+                  (
+                  
+                    
+                      
+                        
+                          3
+                          2
+                        
+                      
+                    
+                    ,
+                    2
+                  
+                  )
+                
+              
+              }
+            
+            ,
+            
+              {
+              
+                64
+                
+                  x
+                  
+                    3
+                  
+                
+                +
+                192
+                
+                  x
+                  
+                    2
+                  
+                
+                +
+                80
+                x
+                +
+                8
+                ,
+                (
+                2
+                ,
+                4
+                )
+              
+              }
+            
+          
+          }
+        
+        .
+      
+    
+    {\displaystyle \left\{\left\{64x^{3}+576x^{2}-64x-64,\left({\tfrac {3}{2}},2\right)\right\},\left\{64x^{3}+192x^{2}+80x+8,(2,4)\right\}\right\}.}
+  Remove the first and process it.
+
+Iteration 6
+VCA(64x3 + 576x2 − 64x − 64, (3/2, 2)) 
+
+1 var ← 1 // the number of sign variations in the sequence of coefficients of (x + 1)3p(1/x + 1) = −64x3 − 256x2 + 256x + 512
+3 RETURN {(3/2, 2)}
+
+List of isolation intervals: {(1, 3/2), (3/2, 2)}.
+List of pairs {p, I} to be processed: 
+
+  
+    
+      
+        
+          {
+          
+            {
+            
+              64
+              
+                x
+                
+                  3
+                
+              
+              +
+              192
+              
+                x
+                
+                  2
+                
+              
+              +
+              80
+              x
+              +
+              8
+              ,
+              (
+              2
+              ,
+              4
+              )
+            
+            }
+          
+          }
+        
+        .
+      
+    
+    {\displaystyle \left\{\left\{64x^{3}+192x^{2}+80x+8,(2,4)\right\}\right\}.}
+  Remove the first and process it.
+
+Iteration 7
+VCA(64x3 + 192x2 + 80x + 8, (2, 4))
+1 var ← 0 // the number of sign variations in the sequence of coefficients of (x + 1)3p(1/x + 1) = 8x3 + 104x2 + 376x + 344
+2 RETURN ∅
+
+List of isolation intervals: {(1, 3/2), (3/2, 2)}.
+List of pairs {p, I} to be processed: ∅.
+Finished.
+
+Conclusion
+Therefore, the two positive roots of the polynomial p(x) = x3 − 7x + 7 lie inside the isolation intervals (1, 3/2) and (3/2, 2)}. Each root can be approximated by (for example) bisecting the isolation interval it lies in until the difference of the endpoints is smaller than 10−6; following this approach, the roots turn out to be ρ1 = 1.3569 and ρ2 = 1.69202.
+
+Vincent–Alesina–Galuzzi (VAG, 2000)
+This was developed last and is the simplest real root isolation method derived from Vincent's theorem.
+Here is how VAG(p, (a, b)) works: 
+
+Given a polynomial p(x) of degree deg(p), such that p(0) ≠ 0, whose positive roots must be isolated, first compute an upper bound, ub on the values of these positive roots and set (a, b) = (0, ub). The positive roots of p(x) all lie in the interval (a, b).
+Repeat the following steps while there are intervals (a, b) to be processed; in this case the polynomial p(x) stays the same.
+Use the Alesina–Galuzzi "a_b roots test"  on p(x) to compute (using the number var of sign variations in the sequence of its coefficients) the number of its roots inside the interval (a, b). If there are no roots return the empty set, ∅ and if there is one root return the interval (a, b).
+If there are two or more sign variations the Alesina–Galuzzi "a_b roots test" implies that there may be zero, one, two or more real roots inside the interval (a, b). In this case cut it in half and consider separately the roots of p(x) inside the interval (a, 1/2(a + b)) from those inside the interval (1/2(a + b), b); that is, process, respectively, the intervals (a, 1/2(a + b)) and (1/2(a + b), b). It may well turn out that 1/2(a + b) is a root of p(x), in which case the isolation interval reduces to a point.Below is a recursive presentation of VAG(p, (a, b)).
+VAG(p, (a, b))Input: A univariate, square-free polynomial p(x) ∈ Z[x], p(0) ≠ 0 of degree deg(p) and the open interval (a, b) = (0, ub), where ub is an upper bound on the values of the positive roots of p(x). Output: A list of isolating intervals of the positive roots of p(x).
+
+1 var ← the number of sign variations of (x + 1)deg(p) p(a + bx/1 + x) // The Alesina–Galuzzi "a_b roots test";
+2 if var = 0 then RETURN ∅;
+3 if var = 1 then RETURN {(a, b)};
+4 m ← 1/2(a + b) // Subdivide the interval (a, b) in two equal parts;
+5 if p(m) ≠ 0 then
+6        RETURN VAG(p, (a, m)) ∪ VAG(p, (m, b))
+7 else
+8        RETURN VAG(p, (a, m)) ∪  {[m, m]} ∪ VAG(p, (m, b))
+9 end
+
+Remarks
+
+Compared to VCA the above algorithm is extremely simple; by contrast, VAG uses the time consuming "a_b roots test" and that makes it much slower than VCA.
+As Alesina and Galuzzi point out, p. 189, there is a variant of this algorithm due to Donato Saeli. Saeli suggested that the mediant of the endpoints be used instead of their midpoint 1/2(a + b). However, it has been shown that using the mediant of the endpoints is in general much slower than the "mid-point" version.
+
+Example of VAG(p, (a,b))
+Given the polynomial p(x) = x3 − 7x + 7 and considering as an upper bound on the values of the positive roots ub = 4 the arguments of VAG are: p(x) = x3 − 7x + 7 and (a, b) = (0, 4).
+
+Iteration 1
+1 var ← 2 // the number of sign variations in the sequence of coefficients of (x + 1)3p(4x/x + 1) = 43x3 − 35x2 − 7x + 7
+4 m ← 1/2(0 + 4) = 2
+5 p(m) = 1
+8          RETURN VAG(x3 − 7x + 7, (0, 2)) ∪ VAG(x3 − 7x + 7, (2, 4)
+
+List of isolation intervals: {}.
+List of intervals to be processed: {(0, 2), (2, 4)}.
+Remove the first and process it.
+
+Iteration 2
+VAG(x3 − 7x + 7, (0, 2))
+1 var ← 2 // the number of sign variations in the sequence of coefficients of (x + 1)3p(2x/x + 1) = x3 − 7x2 + 7x + 7
+4 m ← 1/2(0 + 2) = 1
+5 p(m) = 1
+8          RETURN VAG(x3 − 7x + 7, (0, 1)) ∪ VAG(x3 − 7x + 7, (1, 2)
+
+List of isolation intervals: {}.
+List of intervals to be processed: {(0, 1), (1, 2), (2, 4)}.
+Remove the first and process it.
+
+Iteration 3
+VAG(x3 − 7x + 7, (0, 1))
+1 var ← 0 // the number of sign variations in the sequence of coefficients of (x + 1)3p(x/x + 1) = x3 + 7x2 + 14x + 7
+2          RETURN ∅
+
+List of isolation intervals: {}.
+List of intervals to be processed: {(1, 2), (2, 4)}.
+Remove the first and process it.
+
+Iteration 4
+VAG(x3 − 7x + 7, (1, 2))
+1 var ← 2 // the number of sign variations in the sequence of coefficients of (x + 1)3p(2x + 1/x + 1) = x3 − 2x2 − x + 1
+4 m ← 1/2(1 + 2) = 3/2
+5 p(m) = −1/8
+8          RETURN VAG(x3 − 7x + 7, (1, 3/2)) ∪ VAG(x3 − 7x + 7, (3/2, 2))
+
+List of isolation intervals: {}.
+List of intervals to be processed: {(1, 3/2), (3/2, 2), (2, 4)}.
+Remove the first and process it.
+
+Iteration 5
+VAG(x3 − 7x + 7, (1, 3/2))
+1 var ← 1 // the number of sign variations in the sequence of coefficients of 23(x + 1)3p(3/2x + 1/x + 1) = x3 + 2x2 − 8x − 8
+3          RETURN (1, 3/2)
+
+List of isolation intervals: {(1, 3/2)}.
+List of intervals to be processed: {(3/2, 2), (2, 4)}.
+Remove the first and process it.
+
+Iteration 6
+VAG(x3 − 7x + 7, (3/2, 2))
+1 var ← 1 // the number of sign variations in the sequence of coefficients of 23(x + 1)3p(2x + 3/2/x + 1) = 8x3 + 4x2 − 4x − 1
+3          RETURN (3/2, 2)
+
+List of isolation intervals: {(1, 3/2), (3/2, 2)}.
+List of intervals to be processed: {(2, 4)}.
+Remove the first and process it.
+
+Iteration 7
+VAG(x3 − 7x + 7, (2, 4))
+1 var ← 0 // the number of sign variations in the sequence of coefficients of (x + 1)3p(4x + 2/x + 1) = 344x3 + 376x2 + 104x + 8
+2          RETURN ∅
+
+List of isolation intervals: {(1, 3/2), (3/2, 2)}.
+List of intervals to be processed: ∅.
+Finished.
+
+Conclusion
+Therefore, the two positive roots of the polynomial p(x) = x3 − 7x + 7 lie inside the isolation intervals (1, 3/2) and (3/2, 2)}. Each root can be approximated by (for example) bisecting the isolation interval it lies in until the difference of the endpoints is smaller than 10−6; following this approach, the roots turn out to be ρ1 = 1.3569 and ρ2 = 1.69202.
+
+See also
+Properties of polynomial roots
+Root-finding algorithm
+Vieta's formulas
+Newton's method
+
+References
+External links
+Berkakis, Antonis: RealRoots, a free App for Android devices to compare Sturm's method and VAS
+https://play.google.com/store/apps/details?id=org.kde.necessitas.berkakis.realroots

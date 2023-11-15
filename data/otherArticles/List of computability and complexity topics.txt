@@ -1,0 +1,168 @@
+This is a list of computability and complexity topics, by Wikipedia page.
+Computability theory is the part of the theory of computation that deals with what can be computed, in principle. Computational complexity theory deals with how hard computations are, in quantitative terms, both with upper bounds (algorithms whose complexity in the worst cases, as use of computing resources, can be estimated), and from below (proofs that no procedure to carry out some task can be very fast).
+For more abstract foundational matters, see the list of mathematical logic topics. See also list of algorithms, list of algorithm general topics.
+
+Calculation
+Lookup table
+Mathematical table
+Multiplication table
+Generating trigonometric tables
+History of computers
+Multiplication algorithm
+Peasant multiplication
+Division by two
+Exponentiating by squaring
+Addition chain
+Scholz conjecture
+Presburger arithmetic
+
+Computability theory: models of computation
+Arithmetic circuits
+Algorithm
+Procedure, recursion
+Finite state automaton
+Mealy machine
+Minsky register machine
+Moore machine
+State diagram
+State transition system
+Deterministic finite automaton
+Nondeterministic finite automaton
+Generalized nondeterministic finite automaton
+Regular language
+Pumping lemma
+Myhill-Nerode theorem
+Regular expression
+Regular grammar
+Prefix grammar
+Tree automaton
+Pushdown automaton
+Context-free grammar
+Büchi automaton
+Chomsky hierarchy
+Context-sensitive language, context-sensitive grammar
+Recursively enumerable language
+Register machine
+Stack machine
+Petri net
+Post machine
+Rewriting
+Markov algorithm
+Term rewriting
+String rewriting system
+L-system
+Knuth–Bendix completion algorithm
+Star height
+Star height problem
+Generalized star height problem
+Cellular automaton
+Rule 110 cellular automaton
+Conway's Game of Life
+Langton's ant
+Edge of chaos
+Turing machine
+Deterministic Turing machine
+Non-deterministic Turing machine
+Alternating automaton
+Alternating Turing machine
+Turing-complete
+Turing tarpit
+Oracle machine
+Lambda calculus
+Combinatory logic
+Combinator
+B, C, K, W System
+Parallel computing
+Flynn's taxonomy
+Quantum computer
+Universal quantum computer
+Church–Turing thesis
+Recursive function
+
+Decision problems
+Entscheidungsproblem
+Halting problem
+Correctness
+Post correspondence problem
+Decidable language
+Undecidable language
+Word problem for groups
+Wang tile
+Penrose tiling
+
+Definability questions
+Computable number
+Definable number
+Halting probability
+Algorithmic information theory
+Algorithmic probability
+Data compression
+
+Complexity theory
+Advice (complexity)
+Amortized analysis
+Arthur–Merlin protocol
+Best and worst cases
+Busy beaver
+Circuit complexity
+Constructible function
+Cook's theorem
+Exponential time
+Function problem
+Linear time
+Linear speedup theorem
+Natural proof
+Polynomial time
+Polynomial-time many-one reduction
+Polynomial-time Turing reduction
+Savitch's theorem
+Space hierarchy theorem
+Speed Prior
+Speedup theorem
+Subquadratic time
+Time hierarchy theorem
+
+Complexity classes
+See the list of complexity classes
+
+Exponential hierarchy
+Polynomial hierarchy
+
+Named problems
+Clique problem
+Hamiltonian cycle problem
+Hamiltonian path problem
+Integer factorization
+Knapsack problem
+Satisfiability problem
+2-satisfiability
+Boolean satisfiability problem
+Subset sum problem
+3SUM
+Traveling salesman problem
+Vertex cover problem
+One-way function
+Set cover problem
+Independent set problem
+
+Extensions
+Probabilistic algorithm, randomized algorithm
+Las Vegas algorithm
+Non-determinism
+Non-deterministic Turing machine
+Interactive computation
+Interactive proof system
+Probabilistic Turing Machine
+Approximation algorithm
+Simulated annealing
+Ant colony optimization algorithms
+Game semantics
+Generalized game
+Multiple-agent system
+Parameterized complexity
+Process calculi
+Pi-calculus
+Hypercomputation
+Real computation
+Computable analysis
+Weihrauch reducibility

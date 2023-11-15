@@ -1,0 +1,330 @@
+In theoretical physics, Van der Waerden notation refers to the usage of two-component spinors (Weyl spinors) in four spacetime dimensions. This is standard in twistor theory and supersymmetry. It is named after Bartel Leendert van der Waerden.
+
+Dotted indices
+Undotted indices (chiral indices)Spinors with lower undotted indices have a left-handed chirality, and are called chiral indices.
+
+  
+    
+      
+        
+          Σ
+          
+            
+              l
+              e
+              f
+              t
+            
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    ψ
+                    
+                      α
+                    
+                  
+                
+              
+              
+                
+                  0
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle \Sigma _{\mathrm {left} }={\begin{pmatrix}\psi _{\alpha }\\0\end{pmatrix}}}
+  Dotted indices (anti-chiral indices)Spinors with raised dotted indices, plus an overbar on the symbol (not index), are right-handed, and called anti-chiral indices.
+
+  
+    
+      
+        
+          Σ
+          
+            
+              r
+              i
+              g
+              h
+              t
+            
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  0
+                
+              
+              
+                
+                  
+                    
+                      
+                        
+                          χ
+                          ¯
+                        
+                      
+                    
+                    
+                      
+                        
+                          α
+                          ˙
+                        
+                      
+                    
+                  
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle \Sigma _{\mathrm {right} }={\begin{pmatrix}0\\{\bar {\chi }}^{\dot {\alpha }}\\\end{pmatrix}}}
+  Without the indices, i.e. "index free notation", an overbar is retained on right-handed spinor, since ambiguity arises between chirality when no index is indicated.
+
+Hatted indices
+Indices which have hats are called Dirac indices, and are the set of dotted and undotted, or chiral and anti-chiral, indices. For example, if
+
+  
+    
+      
+        α
+        =
+        1
+        ,
+        2
+        
+        ,
+        
+          
+            
+              α
+              ˙
+            
+          
+        
+        =
+        
+          
+            
+              1
+              ˙
+            
+          
+        
+        ,
+        
+          
+            
+              2
+              ˙
+            
+          
+        
+      
+    
+    {\displaystyle \alpha =1,2\,,{\dot {\alpha }}={\dot {1}},{\dot {2}}}
+  then a spinor in the chiral basis is represented as
+
+  
+    
+      
+        
+          Σ
+          
+            
+              
+                α
+                ^
+              
+            
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    ψ
+                    
+                      α
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      
+                        
+                          χ
+                          ¯
+                        
+                      
+                    
+                    
+                      
+                        
+                          α
+                          ˙
+                        
+                      
+                    
+                  
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle \Sigma _{\hat {\alpha }}={\begin{pmatrix}\psi _{\alpha }\\{\bar {\chi }}^{\dot {\alpha }}\\\end{pmatrix}}}
+  where
+
+  
+    
+      
+        
+          
+            
+              α
+              ^
+            
+          
+        
+        =
+        (
+        α
+        ,
+        
+          
+            
+              α
+              ˙
+            
+          
+        
+        )
+        =
+        1
+        ,
+        2
+        ,
+        
+          
+            
+              1
+              ˙
+            
+          
+        
+        ,
+        
+          
+            
+              2
+              ˙
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {\alpha }}=(\alpha ,{\dot {\alpha }})=1,2,{\dot {1}},{\dot {2}}}
+  In this notation the Dirac adjoint (also called the Dirac conjugate) is
+
+  
+    
+      
+        
+          Σ
+          
+            
+              
+                α
+                ^
+              
+            
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    χ
+                    
+                      α
+                    
+                  
+                
+                
+                  
+                    
+                      
+                        
+                          ψ
+                          ¯
+                        
+                      
+                    
+                    
+                      
+                        
+                          α
+                          ˙
+                        
+                      
+                    
+                  
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle \Sigma ^{\hat {\alpha }}={\begin{pmatrix}\chi ^{\alpha }&{\bar {\psi }}_{\dot {\alpha }}\end{pmatrix}}}
+
+See also
+Dirac equation
+Infeld–Van der Waerden symbols
+Lorentz transformation
+Pauli equation
+Ricci calculus
+
+Notes
+References
+Spinors in physics
+P. Labelle (2010), Supersymmetry, Demystified series, McGraw-Hill (USA), ISBN 978-0-07-163641-4
+Hurley, D.J.; Vandyck, M.A. (2000), Geometry, Spinors and Applications, Springer, ISBN 1-85233-223-9
+Penrose, R.; Rindler, W. (1984), Spinors and Space–Time, vol. 1, Cambridge University Press, ISBN 0-521-24527-3
+Budinich, P.; Trautman, A. (1988), The Spinorial Chessboard, Springer-Verlag, ISBN 0-387-19078-3

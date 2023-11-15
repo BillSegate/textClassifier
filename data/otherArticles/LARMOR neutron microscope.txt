@@ -1,0 +1,13 @@
+The LARMOR neutron microscope is a microscope based on the principle of neutron scattering. It is named in honor of Joseph Larmor and the principle of larmor precession that will increase resolution and accuracy. It is located at ISIS Neutron and Muon Source in Oxfordshire.
+
+Description
+LARMOR will be used to make high-precision, deep images of physical objects. Since neutrons bear no electrical charge, neutron beams can penetrate deeply into materials. By examining the few interactions that neutrons do have with atoms they encounter and enhancing the imaging using larmor precession, the microscope is predicted to create images with an atom-level resolution. The microscope will allow for observation of magnetic materials, complex liquids and living specimens. An example of application of this research is improved electronics and charge storage in lithium-ion batteries.LARMOR is a joint project of the Delft University of Technology, the Eindhoven University of Technology, the University of Groningen and the Science and Technology Facilities Council's ISIS Neutron and Muon Source . It is funded jointly by the participating Dutch universities and ISIS Neutron and Muon Source, and the Dutch NWO will contribute 2.3 million Euros. One-third of the microscope's time will be reserved for research from the Netherlands.
+
+See also
+Neutron microscope
+Larmor precession
+Larmor website
+ISIS Neutron and Muon Source
+
+
+== References ==

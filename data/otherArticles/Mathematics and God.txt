@@ -1,0 +1,19 @@
+Connections between mathematics and God include the use of mathematics in arguments about the existence of God and about whether belief in God is beneficial.
+
+Mathematical arguments for God's existence
+In the 1070s, Anselm of Canterbury, an Italian medieval philosopher and theologian, created an ontological argument which sought to use logic to prove the existence of God. A more elaborate version was given by Gottfried Leibniz in the early eighteenth century. Kurt Gödel created a formalization of Leibniz' version, known as Gödel's ontological proof.A more recent argument was made by Stephen D. Unwin in 2003, who suggested the use of Bayesian probability to estimate the probability of God's existence.
+
+Mathematical arguments for belief
+A common application of decision theory to the belief in God is Pascal's wager, published by Blaise Pascal in his 1669 work Pensées. The application was a defense of Christianity stating that "If God does not exist, the Atheist loses little by believing in him and gains little by not believing. If God does exist, the Atheist gains eternal life by believing and loses an infinite good by not believing". The atheist's wager has been proposed as a counterargument to Pascal's Wager.
+
+See also
+Existence of God
+
+Further reading
+Cohen, Daniel J., Equations from God: Pure Mathematics and Victorian Faith, Johns Hopkins University Press, 2007 ISBN 0801891868.
+Livio, Mario, Is God a Mathematician?, Simon & Schuster, 2011 ISBN 1416594434.
+Ransford, H. Chris, God and the Mathematics of Infinity: What Irreducible Mathematics Says about Godhood, Columbia University Press, 2017 ISBN 3838270193.
+Unwin, Stephen D. (September 2003). The Probability of God. New York: Crown Forum. p. 272. ISBN 978-1-4000-9754-8.
+
+
+== References ==

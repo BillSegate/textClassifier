@@ -1,0 +1,7 @@
+This is a list of complexity classes in computational complexity theory. For other computational and complexity subjects, see list of computability and complexity topics.
+Many of these classes have a 'co' partner which consists of the complements of all languages in the original class.  For example, if a language L is in NP then the complement of L is in co-NP.  (This does not mean that the complement of NP is co-NP—there are languages which are known to be in both, and other languages which are known to be in neither.)
+"The hardest problems" of a class refer to problems which belong to the class such that every other problem of that class can be reduced to it. Furthermore, the reduction is also a problem of the given class, or its subset.
+
+References
+External links
+Complexity Zoo - list of over 500 complexity classes and their properties

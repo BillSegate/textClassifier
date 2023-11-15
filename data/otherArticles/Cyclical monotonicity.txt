@@ -1,0 +1,263 @@
+In mathematics, cyclical monotonicity is a generalization of the notion of monotonicity to the case of vector-valued function.
+
+Definition
+Let 
+  
+    
+      
+        ⟨
+        ⋅
+        ,
+        ⋅
+        ⟩
+      
+    
+    {\displaystyle \langle \cdot ,\cdot \rangle }
+   denote the inner product on an inner product space 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   and let 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+   be a nonempty subset of 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  . A correspondence 
+  
+    
+      
+        f
+        :
+        U
+        ⇉
+        X
+      
+    
+    {\displaystyle f:U\rightrightarrows X}
+   is called cyclically monotone if for every set of points 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            m
+            +
+            1
+          
+        
+        ∈
+        U
+      
+    
+    {\displaystyle x_{1},\dots ,x_{m+1}\in U}
+   with 
+  
+    
+      
+        
+          x
+          
+            m
+            +
+            1
+          
+        
+        =
+        
+          x
+          
+            1
+          
+        
+      
+    
+    {\displaystyle x_{m+1}=x_{1}}
+   it holds that 
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            m
+          
+        
+        ⟨
+        
+          x
+          
+            k
+            +
+            1
+          
+        
+        ,
+        f
+        (
+        
+          x
+          
+            k
+            +
+            1
+          
+        
+        )
+        −
+        f
+        (
+        
+          x
+          
+            k
+          
+        
+        )
+        ⟩
+        ≥
+        0.
+      
+    
+    {\displaystyle \sum _{k=1}^{m}\langle x_{k+1},f(x_{k+1})-f(x_{k})\rangle \geq 0.}
+
+Properties
+For the case of scalar functions of one variable the definition above is equivalent to usual monotonicity.
+Gradients of convex functions are cyclically monotone.
+In fact, the converse is true. Suppose 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+   is convex and 
+  
+    
+      
+        f
+        :
+        U
+        ⇉
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle f:U\rightrightarrows \mathbb {R} ^{n}}
+   is a correspondence with nonempty values. Then if 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   is cyclically monotone, there exists an upper semicontinuous convex function 
+  
+    
+      
+        F
+        :
+        U
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle F:U\to \mathbb {R} }
+   such that 
+  
+    
+      
+        f
+        (
+        x
+        )
+        ⊂
+        ∂
+        F
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)\subset \partial F(x)}
+   for every 
+  
+    
+      
+        x
+        ∈
+        U
+      
+    
+    {\displaystyle x\in U}
+  , where 
+  
+    
+      
+        ∂
+        F
+        (
+        x
+        )
+      
+    
+    {\displaystyle \partial F(x)}
+   denotes the subgradient of 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   at 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  .
+
+
+== References ==

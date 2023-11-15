@@ -1,0 +1,64 @@
+This is a list of multivariable calculus topics. See also multivariable calculus, vector calculus, list of real analysis topics, list of calculus topics.
+
+Closed and exact differential forms
+Contact (mathematics)
+Contour integral
+Contour line
+Critical point (mathematics)
+Curl (mathematics)
+Current (mathematics)
+Curvature
+Curvilinear coordinates
+Del
+Differential form
+Differential operator
+Directional derivative
+Divergence
+Divergence theorem
+Double integral
+Equipotential surface
+Euler's theorem on homogeneous functions
+Exterior derivative
+Flux
+Frenet–Serret formulas
+Gauss's law
+Gradient
+Green's theorem
+Green's identities
+Harmonic function
+Helmholtz decomposition
+Hessian matrix
+Hodge star operator
+Inverse function theorem
+Irrotational vector field
+Isoperimetry
+Jacobian matrix
+Lagrange multiplier
+Lamellar vector field
+Laplacian
+Laplacian vector field
+Level set
+Line integral
+Matrix calculus
+Mixed derivatives
+Monkey saddle
+Multiple integral
+Newtonian potential
+Parametric equation
+Parametric surface
+Partial derivative
+Partial differential equation
+Potential
+Real coordinate space
+Saddle point
+Scalar field
+Solenoidal vector field
+Stokes' theorem
+Submersion
+Surface integral
+Symmetry of second derivatives
+Taylor's theorem
+Total derivative
+Vector field
+Vector operator
+Vector potential

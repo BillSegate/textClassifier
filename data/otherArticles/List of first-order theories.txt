@@ -1,0 +1,933 @@
+In first-order logic, a first-order theory is given by a set of axioms in some
+language. This entry lists some of the more common examples used in model theory and some of their properties.
+
+Preliminaries
+For every natural mathematical structure there is a  signature σ  listing the constants, functions, and relations of the theory together with their arities,  so that the object is naturally a σ-structure.   Given a signature σ there is a unique first-order language  Lσ that can be used to capture the first-order expressible facts about the σ-structure.
+There are two common ways to specify theories:
+
+List or describe a set of sentences in the language Lσ, called the axioms of the theory.
+Give a set of  σ-structures, and define a theory to be the set of sentences in Lσ holding in all these models. For example, the "theory of finite fields" consists of all sentences in the language of fields that are true in all finite fields.An Lσ theory may:
+
+be consistent: no proof of contradiction exists;
+be satisfiable: there exists a σ-structure for which the sentences of the theory are all true (by the completeness theorem, satisfiability is equivalent to consistency);
+be complete: for any statement, either it or its negation is provable;
+have quantifier elimination;
+eliminate imaginaries;
+be finitely axiomatizable;
+be decidable: There is an algorithm to decide which statements are provable;
+be recursively axiomatizable;
+be model complete or sub-model complete;
+be κ-categorical: All models of cardinality κ are isomorphic;
+be stable  or unstable;
+be ω-stable (same as totally transcendental for countable theories);
+be superstable
+have an atomic model;
+have a prime model;
+have a saturated model.
+
+Pure identity theories
+The signature of the pure identity theory is empty, with no functions, constants, or relations.
+Pure identity theory has no (non-logical) axioms. It is decidable.
+One of the few interesting properties that can be stated in the language of pure identity theory is that of being infinite.
+This is given by an infinite set of axioms stating there are at least 2 elements, there are at least 3 elements, and so on:
+
+∃x1 ∃x2 ¬x1 = x2,    ∃x1 ∃x2 ∃x3 ¬x1 = x2 ∧ ¬x1 = x3 ∧ ¬x2 = x3,...These axioms define the theory of an infinite set.
+The opposite property of being finite cannot be stated in first-order logic for any theory that has arbitrarily large finite models: in fact any such  theory has infinite models by the compactness theorem. In general if a property can be stated by a finite number of sentences of first-order logic then the opposite property can also be stated in first-order logic, but if a property needs an infinite number of sentences then its opposite property cannot be stated in first-order logic.
+Any statement of pure identity theory is equivalent to either σ(N) or to ¬σ(N) for some finite subset N of the non-negative integers, where σ(N) is the statement that the number of elements is in N. It is even possible to describe all possible theories in this language as follows. Any theory is either  the theory of all sets of cardinality in N for some finite subset N of the non-negative integers, or the theory of all sets whose cardinality is not in N, for some finite or infinite subset N of the non-negative integers. (There are no theories whose models are exactly sets of cardinality N if N is an infinite subset of the integers.) The complete theories are the theories of sets of cardinality n for some finite n, and the theory of infinite sets.
+One special case of this is the inconsistent theory defined by the axiom ∃x ¬x = x. It is a perfectly good theory with many good properties: it is complete, decidable, finitely axiomatizable, and so on. The only problem is that it has no models at all. By Gödel's completeness theorem, it is the only theory (for any given language) with no models. It is not the same as the theory of the empty set (in versions of first-order logic that allow a model to be empty): the theory of the empty set has exactly one model, which has no elements.
+
+Unary relations
+A set of unary  relations Pi for i in some set I is called independent if for every two disjoint finite subsets A and B of I  there is some element x such that Pi(x) is true for i in A and false for i in B. Independence can be expressed by a set of first-order statements.
+The theory of a countable number of independent unary relations is complete, but has no atomic models. It is also an example of a theory that is superstable but not totally transcendental.
+
+Equivalence relations
+The signature of equivalence relations has one binary infix relation symbol ~, no constants, and no functions. Equivalence relations satisfy the axioms:
+
+Reflexive ∀x x~x;
+Symmetric ∀x ∀y x~y → y~x;
+Transitive: ∀x ∀y ∀z (x~y ∧ y~z) → x~z.Some first-order properties of equivalence relations are:
+
+~ has an infinite number of equivalence classes;
+~ has exactly n equivalence classes (for any fixed positive integer n);
+All equivalence classes are infinite;
+All equivalence classes have size exactly n (for any fixed positive integer n).The theory of an equivalence relation with exactly 2 infinite equivalence classes is an easy example of a theory which is ω-categorical but not categorical for any larger cardinal.
+The equivalence relation ~ should not be confused with the identity symbol '=': if x=y then x~y, but the converse is not necessarily true. Theories of equivalence relations are not all that difficult or interesting, but often give easy examples or counterexamples for various statements.
+The following constructions are sometimes used to produce examples of theories with certain spectra; in fact by applying them to a small number of explicit theories T one gets examples of complete countable theories with all possible uncountable spectra. If T is a theory in some language, we define a new theory 2T by adding a new binary relation to the language, and adding axioms stating that it is an equivalence relation, such that there are an infinite number of equivalence classes all of which are models of T. It is  possible to iterate this construction transfinitely: given an ordinal α, define a new theory by adding an equivalence relation Eβ for each β<α, together with axioms stating that whenever β<γ then each Eγ equivalence class is the union of infinitely many Eβ equivalence classes, and each E0 equivalence class is a model of T. Informally, one can visualize models of this theory as infinitely branching trees of height α with models of T attached to all leaves.
+
+Orders
+The signature of orders has no constants or functions, and one binary relation symbols ≤. (It is of course possible to use ≥, < or > instead as the basic relation, with the obvious minor changes to the axioms.)
+We define x ≥ y, x < y, x > y as abbreviations for y ≤ x, x ≤ y ∧¬y ≤ x, y < x,
+Some first-order properties of orders: 
+
+Transitive: ∀x ∀y ∀z x ≤ y∧y ≤ z → x ≤ z
+Reflexive: ∀x x ≤ x
+Antisymmetric: ∀x ∀y x ≤ y ∧ y ≤ x → x = y
+Partial: Transitive ∧ Reflexive ∧ Antisymmetric;
+Linear (or total): Partial ∧ ∀x ∀y x ≤ y ∨ y ≤ x
+Dense: ∀x ∀z x < z → ∃y x < y ∧ y < z  ("Between any 2 distinct elements there is another element")
+There is a smallest element: ∃x ∀y x ≤ y
+There is a largest element: ∃x ∀y y ≤ x
+Every element has an immediate successor: ∀x ∃y ∀z x < z ↔ y ≤ zThe theory DLO of dense linear orders without endpoints (i.e. no smallest or largest element) is complete, ω-categorical, but not categorical for any uncountable cardinal. There are three other very similar theories: the theory of dense linear orders with a:
+
+Smallest but no largest element;
+Largest but no smallest element;
+Largest and smallest element.Being well ordered ("any non-empty subset has a minimal element") is not a first-order property; the usual definition involves quantifying over all subsets.
+
+Lattices
+Lattices can be considered either as special sorts of partially ordered sets, with a signature consisting of one binary relation symbol ≤, or as algebraic structures with a signature consisting of two binary operations ∧ and ∨. The two approaches can be related  by defining  a ≤ b to mean a∧b = a.
+For two binary operations the axioms for a lattice are:
+
+For one relation ≤ the axioms are:
+
+Axioms stating ≤ is a partial order, as above.
+
+  
+    
+      
+        ∀
+        a
+        ∀
+        b
+        ∃
+        c
+        
+        c
+        ≤
+        a
+        ∧
+        c
+        ≤
+        b
+        ∧
+        ∀
+        d
+        
+        d
+        ≤
+        a
+        ∧
+        d
+        ≤
+        b
+        →
+        d
+        ≤
+        c
+      
+    
+    {\displaystyle \forall a\forall b\exists c\;c\leq a\wedge c\leq b\wedge \forall d\;d\leq a\wedge d\leq b\rightarrow d\leq c}
+   (existence of c = a∧b)
+
+  
+    
+      
+        ∀
+        a
+        ∀
+        b
+        ∃
+        c
+        
+        a
+        ≤
+        c
+        ∧
+        b
+        ≤
+        c
+        ∧
+        ∀
+        d
+        
+        a
+        ≤
+        d
+        ∧
+        b
+        ≤
+        d
+        →
+        c
+        ≤
+        d
+      
+    
+    {\displaystyle \forall a\forall b\exists c\;a\leq c\wedge b\leq c\wedge \forall d\;a\leq d\wedge b\leq d\rightarrow c\leq d}
+   (existence of c = a∨b)First-order properties include:
+
+  
+    
+      
+        ∀
+        x
+        ∀
+        y
+        ∀
+        z
+        
+        x
+        ∨
+        (
+        y
+        ∧
+        z
+        )
+        =
+        (
+        x
+        ∨
+        y
+        )
+        ∧
+        (
+        x
+        ∨
+        z
+        )
+      
+    
+    {\displaystyle \forall x\forall y\forall z\;x\vee (y\wedge z)=(x\vee y)\wedge (x\vee z)}
+   (distributive lattices)
+
+  
+    
+      
+        ∀
+        x
+        ∀
+        y
+        ∀
+        z
+        
+        x
+        ∨
+        (
+        y
+        ∧
+        (
+        x
+        ∨
+        z
+        )
+        )
+        =
+        (
+        x
+        ∨
+        y
+        )
+        ∧
+        (
+        x
+        ∨
+        z
+        )
+      
+    
+    {\displaystyle \forall x\forall y\forall z\;x\vee (y\wedge (x\vee z))=(x\vee y)\wedge (x\vee z)}
+   (modular lattices)Heyting algebras can be defined as lattices with certain extra first-order properties.
+Completeness is not a first-order property of lattices.
+
+Graphs
+The signature of graphs has no constants or functions, and one binary relation symbol R, where R(x,y) is read as "there is an edge from x to y".
+The axioms for the theory of graphs are
+
+Symmetric: ∀x ∀y R(x,y)→ R(y,x)
+Anti-reflexive: ∀x ¬R(x,x) ("no loops")The theory of random graphs has the following extra axioms for each positive integer n:
+
+For any two disjoint finite sets of size n, there is a point joined to all points of the first set and to no points of the second set. (For each fixed n, it is easy to write this statement in the language of graphs.)The theory of random graphs is ω categorical, complete, and decidable, and its countable model is called the Rado graph. A statement in the language of graphs is true in this theory if and only if the probability that an n-vertex random graph models the statement tends to 1 in the limit as n goes to infinity.
+
+Boolean algebras
+There are several different signatures and conventions used for Boolean algebras: 
+
+The signature has two constants, 0 and 1, and two binary functions ∧ and ∨ ("and" and "or"), and one unary function ¬ ("not"). This can be confusing as the functions use the same symbols as the propositional functions of first-order logic.
+In set theory, a common convention is that the language has two constants, 0 and 1, and two binary functions · and +, and one unary function −. The three functions have the same interpretation as the functions in the first convention. Unfortunately, this convention clashes badly with the next convention:
+In algebra, the usual convention is that the language has two constants, 0 and 1, and two binary functions · and +. The function · has the same meaning as ∧, but a+b means a∨b∧¬(a∧b). The reason for this is that the axioms for a Boolean algebra are then just the axioms for a ring with 1 plus ∀x x2 = x. Unfortunately this clashes with the standard convention in set theory given above.The axioms are:
+
+The axioms for a distributive lattice (see above)
+∀a a∧¬a = 0, ∀a a∨¬a = 1 (properties of negation)
+Some authors add the extra axiom ¬0 = 1, to exclude the trivial algebra with one element.Tarski proved that the theory of Boolean algebras is decidable.
+We write x ≤ y as an abbreviation for x∧y = x, and atom(x) as an abbreviation for ¬x = 0 ∧ ∀y y ≤ x → y = 0 ∨ y = x, read as "x is an atom", in other words a non-zero element with nothing between it and 0. Here are some first-order properties of Boolean algebras:
+
+Atomic: ∀x x = 0 ∨ ∃y y ≤ x ∧ atom(y)
+Atomless: ∀x ¬atom(x)The theory of atomless Boolean algebras is ω-categorical and complete.
+For any Boolean algebra B, there are several invariants defined as follows. 
+
+the ideal I(B) consists of elements that are the sum of an atomic and an atomless element (an element with no atoms below it).
+The quotient algebras Bi of B are defined inductively by B0=B, Bk+1 = Bk/I(Bk).
+The invariant m(B) is the smallest integer such that Bm+1 is trivial, or ∞ if no such integer exists.
+If m(B) is finite, the invariant n(B) is the number of atoms of Bm(B) if this number is finite, or ∞ if this number is infinite.
+The invariant l(B) is 0 if Bm(B) is atomic or if m(B) is ∞, and 1 otherwise.Then two Boolean algebras are elementarily equivalent if and only if their invariants l, m, and n are the same. In other words, the values of these invariants classify the possible completions of the theory of Boolean algebras. So the possible complete theories are:
+
+The trivial algebra (if this is allowed; sometimes 0≠1 is included as an axiom.)
+The theory with m = ∞
+The theories with m a natural number, n a natural number or ∞, and l = 0 or 1 (with l = 0 if n = 0).
+
+Groups
+The signature of group theory has one constant 1 (the identity), one function of arity 1 (the inverse) whose value on t is denoted by t−1, and one function of arity 2, which is usually omitted from terms. For any integer n, tn is an abbreviation for the obvious term for the nth power of t.
+Groups are defined by the axioms
+
+Identity: ∀x 1x = x ∧ x1 = x
+Inverse: ∀x x−1x = 1 ∧ xx−1 = 1
+Associativity: ∀x∀y∀z (xy)z = x(yz)Some properties of groups that can be defined in the first-order language of groups are:
+
+Abelian: ∀x ∀y xy = yx.
+Torsion free: ∀x x2 = 1→x = 1, ∀x x3 = 1 → x = 1, ∀x x4 = 1 → x = 1, ...
+Divisible: ∀x ∃y y2 = x, ∀x ∃y y3 = x, ∀x ∃y y4 = x, ...
+Infinite (as in identity theory)
+Exponent n (for any fixed positive integer n): ∀x xn = 1
+Nilpotent of class n (for any fixed positive integer n)
+Solvable of class n (for any fixed positive integer n)The theory of abelian groups is decidable. The theory of infinite divisible torsion-free abelian groups is complete, as is the theory of infinite abelian groups of exponent p (for p prime).
+The theory of finite groups is the set of first-order statements in the language of groups that are true in all finite groups (there are plenty of infinite models of this theory). It is not completely trivial to find any such statement that is not true for all groups: one example is 
+"given two elements of order 2, either they are conjugate or there is a non-trivial element commuting with both of them".
+The properties of being finite, or free, or simple, or torsion are not first-order. More precisely, the first-order theory of all groups with one of these properties has models that do not have this property.
+
+Rings and fields
+The signature of (unital) rings has two constants 0 and 1, two binary functions + and ×, and, optionally, one unary negation function −.
+Rings
+Axioms: Addition makes the ring into an abelian group, multiplication is associative and has an identity 1, and multiplication is left and right distributive.
+Commutative rings
+The axioms for rings plus ∀x ∀y xy = yx.
+Fields
+The axioms for commutative rings plus ∀x (¬ x = 0 → ∃y xy = 1) and ¬ 1 = 0.
+Many of the examples given here have only universal, or algebraic axioms.  The class of structures satisfying such a theory has the property of being closed under substructure.   For example, a subset of a group closed under the group actions of multiplication and inverse is again a group.  Since the signature of fields does not usually include multiplicative and additive inverse, the axioms for  inverses are not universal, and therefore a substructure of a field closed under addition and multiplication  is not always a field.   This can be remedied by adding unary inverse functions to the language.
+For any positive integer n the property that all equations of degree n have a root can be expressed by a single first-order sentence:
+
+∀ a1 ∀ a2... ∀ an ∃x (...((x+a1)x +a2)x+...)x+an = 0Perfect fields
+The axioms for fields, plus axioms for each prime number p stating that if p 1 = 0 (i.e. the field has characteristic p), then every field element has a pth root.
+Algebraically closed fields of characteristic p
+The axioms for fields, plus for every positive n the axiom that all polynomials of degree n have a root, plus axioms fixing the characteristic. The classical examples of complete theories. Categorical in all uncountable cardinals. The theory ACFp has a universal domain property, in the sense that every structure N satisfying the universal axioms of  ACFp is a substructure of a sufficiently large algebraically closed field  
+  
+    
+      
+        M
+        ⊨
+        A
+        C
+        
+          F
+          
+            0
+          
+        
+      
+    
+    {\displaystyle M\models ACF_{0}}
+  , and additionally any two such embeddings N → M induce an automorphism of M.
+Finite fields
+The theory of finite fields is the set of all first-order statements that are true in all finite fields. Significant examples of such statements can, for example, be given by applying the Chevalley–Warning theorem, over the prime fields. The name is a little misleading as the theory has plenty of infinite models. Ax proved that the theory is decidable.
+Formally real fields
+The axioms for fields plus, for every positive integer n, the axiom:
+
+∀ a1 ∀ a2... ∀ an a1a1+a2a2+ ...+anan=0 → a1=0∧a2=0∧ ... ∧an=0.That is, 0 is not a non-trivial sum of squares.
+Real closed fields
+The axioms for formally real fields plus the axioms:
+
+∀x ∃y (x=yy ∨ x+yy= 0);
+for every odd positive integer n, the axiom stating that every polynomial of degree n has a root.The theory of real closed fields is effective and complete and therefore decidable (the Tarski–Seidenberg theorem). The addition of further function symbols (e.g., the exponential function, the sine function) may change decidability. 
+ p-adic fields
+Ax & Kochen (1965) showed that the theory of p-adic fields is decidable and gave a set of axioms for it.
+
+Geometry
+Axioms for various systems of geometry usually use a typed language, with the different types corresponding to different geometric objects such as points, lines, circles, planes, and so on. The signature will often consist of binary incidence relations between objects of different types; for example, the relation that a point lies on a line. The signature may have more complicated relations; for example ordered geometry might have a ternary "betweenness" relation for 3 points, which says whether one lies between two others, or a "congruence" relation between 2 pairs of points.
+Some examples of axiomatized systems of geometry include ordered geometry, absolute geometry, affine geometry, Euclidean geometry, projective geometry,  and hyperbolic geometry. For each of these geometries there are many different and inequivalent systems of axioms for various dimensions. Some of these axiom systems include "completeness" axioms that are not first order.
+As a typical example, the axioms for projective geometry use 2 types, points and lines, and a binary incidence relation between points and lines. If point and line variables are indicated by small and capital letter, and a incident to A is written as aA, then one set of axioms is
+
+  
+    
+      
+        ∀
+        a
+        ∀
+        b
+        
+        ¬
+        a
+        =
+        b
+        →
+        ∃
+        C
+        
+        a
+        C
+        ∧
+        b
+        C
+      
+    
+    {\displaystyle \forall a\forall b\;\lnot a=b\rightarrow \exists C\;aC\land bC}
+   (There is a line through any 2 distinct points a,b ...)
+
+  
+    
+      
+        ∀
+        a
+        ∀
+        b
+        ∀
+        C
+        ∀
+        D
+        
+        ¬
+        a
+        =
+        b
+        ∧
+        a
+        C
+        ∧
+        b
+        C
+        ∧
+        a
+        D
+        ∧
+        b
+        D
+        →
+        C
+        =
+        D
+      
+    
+    {\displaystyle \forall a\forall b\forall C\forall D\;\lnot a=b\land aC\land bC\land aD\land bD\rightarrow C=D}
+   (... which is unique)
+
+  
+    
+      
+        ∀
+        a
+        ∀
+        b
+        ∀
+        c
+        ∀
+        d
+        ∀
+        e
+        ∀
+        G
+        ∀
+        H
+        
+        a
+        H
+        ∧
+        b
+        H
+        ∧
+        e
+        H
+        ∧
+        c
+        G
+        ∧
+        d
+        G
+        ∧
+        e
+        G
+        →
+        ∃
+        f
+        ∃
+        I
+        ∃
+        J
+        
+        a
+        I
+        ∧
+        c
+        I
+        ∧
+        f
+        I
+        ∧
+        b
+        J
+        ∧
+        d
+        J
+        ∧
+        f
+        J
+      
+    
+    {\displaystyle \forall a\forall b\forall c\forall d\forall e\forall G\forall H\;aH\land bH\land eH\land cG\land dG\land eG\rightarrow \exists f\exists I\exists J\;aI\land cI\land fI\land bJ\land dJ\land fJ}
+   (Veblen's axiom: if ab and cd lie on intersecting lines, then so do ac and bd.)
+
+  
+    
+      
+        ∀
+        A
+        ∃
+        b
+        ∃
+        c
+        ∃
+        d
+        
+        b
+        A
+        ∧
+        c
+        A
+        ∧
+        d
+        A
+        ∧
+        ¬
+        b
+        =
+        c
+        ∧
+        ¬
+        b
+        =
+        d
+        ∧
+        ¬
+        c
+        =
+        d
+      
+    
+    {\displaystyle \forall A\exists b\exists c\exists d\;bA\land cA\land dA\land \lnot b=c\land \lnot b=d\land \lnot c=d}
+   (Every line has at least 3 points)Euclid did not state all the axioms for Euclidean geometry explicitly, and the first complete list was given by Hilbert in Hilbert's axioms. This is not a first-order axiomatization as one of Hilbert's axioms is a second order completeness axiom. Tarski's axioms are a first-order axiomatization of Euclidean geometry. Tarski showed this axiom system is complete and decidable by relating it to the complete and decidable theory of real closed fields.
+
+Differential algebra
+The theory DF of differential fields.The signature is that of fields (0, 1, +, −, ×) together with a unary function ∂, the derivation.
+The axioms are those for fields together with
+
+  
+    
+      
+        ∀
+        u
+        ∀
+        v
+        
+        ∂
+        (
+        u
+        v
+        )
+        =
+        u
+        
+        ∂
+        v
+        +
+        v
+        
+        ∂
+        u
+      
+    
+    {\displaystyle \forall u\forall v\,\partial (uv)=u\,\partial v+v\,\partial u}
+  
+
+  
+    
+      
+        ∀
+        u
+        ∀
+        v
+        
+        ∂
+        (
+        u
+        +
+        v
+        )
+        =
+        ∂
+        u
+        +
+        ∂
+        v
+         
+        .
+      
+    
+    {\displaystyle \forall u\forall v\,\partial (u+v)=\partial u+\partial v\ .}
+  For this theory one can add the condition that the characteristic is p, a prime or zero,
+to get the theory DFp of differential fields of characteristic p (and similarly with the other theories below).
+If K is a differential field then the field of constants 
+  
+    
+      
+        k
+        =
+        {
+        u
+        ∈
+        K
+        :
+        ∂
+        (
+        u
+        )
+        =
+        0
+        }
+        .
+      
+    
+    {\displaystyle k=\{u\in K:\partial (u)=0\}.}
+  
+The theory of differentially perfect fields is the theory of differential fields together with the condition that the field of constants is perfect; in other words, for each prime p it has the axiom:
+
+  
+    
+      
+        ∀
+        u
+        
+        ∂
+        (
+        u
+        )
+        =
+        0
+        ∧
+        p
+        1
+        =
+        0
+        →
+        ∃
+        v
+        
+        
+          v
+          
+            p
+          
+        
+        =
+        u
+      
+    
+    {\displaystyle \forall u\,\partial (u)=0\land p1=0\rightarrow \exists v\,v^{p}=u}
+  (There is little point in demanding that the whole field should be a perfect field, because in non-zero characteristic this implies the differential is 0.)
+For technical reasons to do with quantifier elimination, it is sometimes more convenient to force the constant field to be perfect by adding a new symbol r to the signature with the axioms
+
+  
+    
+      
+        ∀
+        u
+        
+        ∂
+        (
+        u
+        )
+        =
+        0
+        ∧
+        p
+        1
+        =
+        0
+        →
+        r
+        (
+        u
+        
+          )
+          
+            p
+          
+        
+        =
+        u
+      
+    
+    {\displaystyle \forall u\,\partial (u)=0\land p1=0\rightarrow r(u)^{p}=u}
+  
+
+  
+    
+      
+        ∀
+        u
+        
+        ¬
+        ∂
+        (
+        u
+        )
+        =
+        0
+        →
+        r
+        (
+        u
+        )
+        =
+        0.
+      
+    
+    {\displaystyle \forall u\,\lnot \partial (u)=0\rightarrow r(u)=0.}
+  The theory of differentially closed fields (DCF) is the theory of differentially perfect fields with axioms saying that if f and g are  differential polynomials and the separant of f is nonzero  and g≠0 and  f has order greater than that of g, then there is some x in the field with f(x)=0 and g(x)≠0.
+
+Addition
+The theory of the natural numbers with a successor function has signature consisting of a constant 0 and a unary function S ("successor": S(x) is interpreted as x+1), and has axioms:
+
+∀x ¬ Sx = 0
+∀x∀y Sx = Sy → x = y
+Let P(x) be a first-order formula with a single free variable x. Then the following formula is an axiom:(P(0) ∧ ∀x(P(x)→P(Sx))) → ∀y P(y).The last axiom (induction) can be replaced by the axioms
+
+For each integer n>0, the axiom ∀x SSS...Sx ≠ x (with n copies of S)
+∀x ¬ x = 0 → ∃y Sy = xThe theory of the natural numbers with a successor function is complete and decidable, and is κ-categorical for uncountable κ but not for countable κ.
+Presburger arithmetic is the theory of the natural numbers under addition, with signature consisting of a constant 0, a unary function S, and a binary function +. It is complete and decidable. The axioms are 
+
+∀x ¬ Sx = 0
+∀x∀y Sx = Sy → x = y
+∀x x + 0 = x
+∀x∀y x + Sy = S(x + y)
+Let P(x) be a first-order formula with a single free variable x. Then the following formula is an axiom:(P(0) ∧ ∀x(P(x)→P(Sx))) → ∀y P(y).
+
+Arithmetic
+Many of the first-order theories described above can be extended to complete recursively enumerable consistent theories. This is no longer true for most of the following theories; they can usually encode both multiplication and addition of natural numbers, and this gives them enough power to encode themselves, which implies that Gödel's incompleteness theorem applies and the theories can no longer be both complete and recursively enumerable (unless they are inconsistent).
+The signature of a theory of arithmetic has:
+
+The constant 0;
+The unary function, the successor function, here denoted by prefix S, or by prefix σ or postfix ′ elsewhere;
+Two binary functions, denoted by infix + and ×, called "addition" and "multiplication."Some authors take the signature to contain a constant 1 instead of the function S, then define S in the obvious way as  St = 1 + t.
+Robinson arithmetic (also called Q). Axioms (1) and (2) govern the distinguished element 0. (3) assures that S is an injection. Axioms (4) and (5) are the standard recursive definition of addition; (6) and (7) do the same for multiplication.  Robinson arithmetic  can be thought of as  Peano arithmetic without induction. Q is  a weak theory for which Gödel's incompleteness theorem holds.
+Axioms:
+
+∀x ¬ Sx = 0
+∀x ¬ x = 0 → ∃y Sy = x
+∀x∀y Sx = Sy → x = y
+∀x x + 0 = x
+∀x∀y x + Sy = S(x + y)
+∀x x × 0 = 0
+∀x∀y x × Sy = (x × y) + x.IΣn is first-order Peano arithmetic with induction restricted to Σn formulas (for n = 0, 1, 2, ...). The theory IΣ0 is often denoted by IΔ0. This is a series of more and more powerful fragments of Peano arithmetic. The case n = 1 has about the same strength as  primitive recursive arithmetic (PRA).
+Exponential function arithmetic (EFA) is IΣ0 with an axiom stating that xy exists for all x and y (with the usual properties).
+First-order Peano arithmetic, PA. The "standard" theory of arithmetic. The axioms are the axioms of Robinson arithmetic above, together with the axiom scheme of induction:
+
+  
+    
+      
+        ϕ
+        (
+        0
+        )
+        ∧
+        (
+        ∀
+        x
+        ϕ
+        (
+        x
+        )
+        →
+        ϕ
+        (
+        S
+        x
+        )
+        )
+        →
+        (
+        ∀
+        x
+        ϕ
+        (
+        x
+        )
+        )
+      
+    
+    {\displaystyle \phi (0)\wedge (\forall x\phi (x)\rightarrow \phi (Sx))\rightarrow (\forall x\phi (x))}
+   for any formula φ in the language of PA. φ may contain free variables other than x.Kurt Gödel's  1931 paper proved that PA is incomplete, and has no consistent recursively enumerable completions.
+Complete arithmetic (also known as true arithmetic) is the theory of the standard model of arithmetic, the natural numbers N. It is complete but does not have a recursively enumerable set of axioms.
+For the real numbers, the situation is slightly different: The case that includes just addition and multiplication cannot encode the integers, and hence Gödel's incompleteness theorem does not apply. Complications arise when adding further function symbols (e.g., exponentiation).
+
+Second order arithmetic
+Second-order arithmetic can refer to a first-order theory (in spite of the name) with two types of variables, thought of as varying over integers and subsets of the integers. (There is also a theory of arithmetic in second order logic that is called second order arithmetic. It has only one model, unlike the corresponding theory in first-order logic, which is incomplete.) The signature will typically be the signature 0, S, +, × of arithmetic, together with a membership relation ∈ between integers and subsets (though there are numerous minor variations).  The axioms are those of Robinson arithmetic, together with axiom schemes of induction and comprehension.
+There are  many different subtheories of second order arithmetic that differ in which formulas are allowed in the induction and comprehension schemes. 
+In order of increasing strength, five of the most common  systems
+are 
+
+  
+    
+      
+        
+          
+            
+              R
+              C
+              A
+            
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle {\mathsf {RCA}}_{0}}
+  , Recursive Comprehension
+
+  
+    
+      
+        
+          
+            
+              W
+              K
+              L
+            
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle {\mathsf {WKL}}_{0}}
+  , Weak Kőnig's lemma
+
+  
+    
+      
+        
+          
+            
+              A
+              C
+              A
+            
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle {\mathsf {ACA}}_{0}}
+  , Arithmetical comprehension
+
+  
+    
+      
+        
+          
+            
+              A
+              T
+              R
+            
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle {\mathsf {ATR}}_{0}}
+  , Arithmetical Transfinite Recursion
+
+  
+    
+      
+        
+          Π
+          
+            1
+          
+          
+            1
+          
+        
+        
+          
+            -
+          
+        
+        
+          
+            
+              C
+              A
+            
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \Pi _{1}^{1}{\mbox{-}}{\mathsf {CA}}_{0}}
+  , 
+  
+    
+      
+        
+          Π
+          
+            1
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \Pi _{1}^{1}}
+   comprehensionThese are defined in detail in the articles on second order arithmetic and reverse mathematics.
+
+Set theories
+The usual signature of set theory has one binary relation ∈, no constants, and no functions. Some of the theories below are "class theories" which have two sorts of object, sets and classes. There are three common ways of handling this in first-order logic:
+
+Use first-order logic with two types.
+Use ordinary first-order logic, but add a new unary predicate "Set", where "Set(t)" means informally "t is a set".
+Use ordinary first-order logic, and instead of adding a new predicate to the language, treat "Set(t)" as an abbreviation for "∃y t∈y"Some first-order set theories include:
+
+Weak theories lacking powersets:
+S'  (Tarski, Mostowski, and Robinson, 1953); (finitely axiomatizable)
+Kripke–Platek set theory; KP;
+Pocket set theory
+General set theory, GST
+Constructive set theory, CZF
+Mac Lane set theory and  Elementary topos theory
+Zermelo set theory; Z
+Zermelo–Fraenkel set theory; ZF, ZFC;
+Von Neumann–Bernays–Gödel set theory; NBG; (finitely axiomatizable)
+Ackermann set theory;
+Scott–Potter set theory
+New Foundations; NF (finitely axiomatizable)
+Positive set theory
+Morse–Kelley set theory; MK;
+Tarski–Grothendieck set theory; TG;Some extra first-order axioms that can be added to one of these (usually ZF) include:
+
+axiom of choice, axiom of dependent choice
+Generalized continuum hypothesis
+Martin's axiom (usually together with the negation of the continuum hypothesis), Martin's maximum
+◊ and ♣
+Axiom of constructibility (V=L)
+proper forcing axiom
+analytic determinacy, projective determinacy, Axiom of determinacy
+Many large cardinal axioms
+
+See also
+Glossary of areas of mathematics
+List of mathematical theories
+
+References
+Further reading
+Chang, C.C.; Keisler, H. Jerome (1989), Model Theory (3 ed.), Elsevier, ISBN 0-7204-0692-7
+Hodges, Wilfrid (1997), A shorter model theory, Cambridge University Press, ISBN 0-521-58713-1
+Marker, David (2002), Model Theory: An Introduction, Graduate Texts in Mathematics, vol. 217, Springer, ISBN 0-387-98760-6

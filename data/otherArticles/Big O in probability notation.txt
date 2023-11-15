@@ -1,0 +1,621 @@
+The order in probability notation is used in probability theory and statistical theory in direct parallel to the big-O notation that is standard in mathematics.  Where the big-O notation deals with the convergence of sequences or sets of ordinary numbers, the order in probability notation deals with convergence of sets of random variables, where convergence is in the sense of convergence in probability.
+
+Definitions
+Small o: convergence in probability
+For a set of random variables Xn and a corresponding set of constants an (both indexed by n, which need not be discrete), the notation
+
+  
+    
+      
+        
+          X
+          
+            n
+          
+        
+        =
+        
+          o
+          
+            p
+          
+        
+        (
+        
+          a
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle X_{n}=o_{p}(a_{n})}
+  means that the set of values Xn/an converges to zero in probability as n approaches an appropriate limit.
+Equivalently, Xn = op(an) can be written as Xn/an = op(1),
+i.e.
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        P
+        
+          [
+          
+            
+              |
+              
+                
+                  
+                    X
+                    
+                      n
+                    
+                  
+                  
+                    a
+                    
+                      n
+                    
+                  
+                
+              
+              |
+            
+            ≥
+            ε
+          
+          ]
+        
+        =
+        0
+        ,
+      
+    
+    {\displaystyle \lim _{n\to \infty }P\left[\left|{\frac {X_{n}}{a_{n}}}\right|\geq \varepsilon \right]=0,}
+  for every positive ε.
+
+Big O: stochastic boundedness
+The notation
+
+  
+    
+      
+        
+          X
+          
+            n
+          
+        
+        =
+        
+          O
+          
+            p
+          
+        
+        (
+        
+          a
+          
+            n
+          
+        
+        )
+        
+           as 
+        
+        n
+        →
+        ∞
+      
+    
+    {\displaystyle X_{n}=O_{p}(a_{n}){\text{ as }}n\to \infty }
+  means that the set of values Xn/an is stochastically bounded.  That is, for any ε > 0, there exists a finite M > 0 and a finite N > 0 such that
+
+  
+    
+      
+        P
+        
+          (
+          
+            
+              |
+            
+            
+              
+                
+                  X
+                  
+                    n
+                  
+                
+                
+                  a
+                  
+                    n
+                  
+                
+              
+            
+            
+              |
+            
+            >
+            M
+          
+          )
+        
+        <
+        ε
+        ,
+        
+        ∀
+        
+        n
+        >
+        N
+        .
+      
+    
+    {\displaystyle P\left(|{\frac {X_{n}}{a_{n}}}|>M\right)<\varepsilon ,\;\forall \;n>N.}
+
+Comparison of the two definitions
+The difference between the definitions is subtle. If one uses the definition of the limit, one gets:
+
+Big 
+  
+    
+      
+        
+          O
+          
+            p
+          
+        
+        (
+        1
+        )
+      
+    
+    {\displaystyle O_{p}(1)}
+  : 
+  
+    
+      
+        ∀
+        ε
+        
+        ∃
+        
+          N
+          
+            ε
+          
+        
+        ,
+        
+          δ
+          
+            ε
+          
+        
+        
+        
+           such that 
+        
+        P
+        (
+        
+          |
+        
+        
+          X
+          
+            n
+          
+        
+        
+          |
+        
+        ≥
+        
+          δ
+          
+            ε
+          
+        
+        )
+        ≤
+        ε
+        
+        ∀
+        n
+        >
+        
+          N
+          
+            ε
+          
+        
+      
+    
+    {\displaystyle \forall \varepsilon \quad \exists N_{\varepsilon },\delta _{\varepsilon }\quad {\text{ such that }}P(|X_{n}|\geq \delta _{\varepsilon })\leq \varepsilon \quad \forall n>N_{\varepsilon }}
+  
+Small 
+  
+    
+      
+        
+          o
+          
+            p
+          
+        
+        (
+        1
+        )
+      
+    
+    {\displaystyle o_{p}(1)}
+  : 
+  
+    
+      
+        ∀
+        ε
+        ,
+        δ
+        
+        ∃
+        
+          N
+          
+            ε
+            ,
+            δ
+          
+        
+        
+        
+           such that 
+        
+        P
+        (
+        
+          |
+        
+        
+          X
+          
+            n
+          
+        
+        
+          |
+        
+        ≥
+        δ
+        )
+        ≤
+        ε
+        
+        ∀
+        n
+        >
+        
+          N
+          
+            ε
+            ,
+            δ
+          
+        
+      
+    
+    {\displaystyle \forall \varepsilon ,\delta \quad \exists N_{\varepsilon ,\delta }\quad {\text{ such that }}P(|X_{n}|\geq \delta )\leq \varepsilon \quad \forall n>N_{\varepsilon ,\delta }}
+  The difference lies in the 
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+  : for stochastic boundedness, it suffices that there exists one (arbitrary large) 
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+   to satisfy the inequality, and 
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+   is allowed to be dependent on 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+   (hence the 
+  
+    
+      
+        
+          δ
+          
+            ε
+          
+        
+      
+    
+    {\displaystyle \delta _{\varepsilon }}
+  ). On the other hand, for convergence, the statement has to hold not only for one, but for any (arbitrary small) 
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+  . In a sense, this means that the sequence must be bounded, with a bound that gets smaller as the sample size increases. 
+This suggests that if a sequence is 
+  
+    
+      
+        
+          o
+          
+            p
+          
+        
+        (
+        1
+        )
+      
+    
+    {\displaystyle o_{p}(1)}
+  , then it is 
+  
+    
+      
+        
+          O
+          
+            p
+          
+        
+        (
+        1
+        )
+      
+    
+    {\displaystyle O_{p}(1)}
+  , i.e. convergence in probability implies stochastic boundedness. But the reverse does not hold.
+
+Example
+If 
+  
+    
+      
+        (
+        
+          X
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle (X_{n})}
+   is a stochastic sequence such that each element has finite variance, then
+
+  
+    
+      
+        
+          X
+          
+            n
+          
+        
+        −
+        E
+        (
+        
+          X
+          
+            n
+          
+        
+        )
+        =
+        
+          O
+          
+            p
+          
+        
+        
+          (
+          
+            
+              var
+              ⁡
+              (
+              
+                X
+                
+                  n
+                
+              
+              )
+            
+          
+          )
+        
+      
+    
+    {\displaystyle X_{n}-E(X_{n})=O_{p}\left({\sqrt {\operatorname {var} (X_{n})}}\right)}
+  (see Theorem 14.4-1 in Bishop et al.)
+If, moreover, 
+  
+    
+      
+        
+          a
+          
+            n
+          
+          
+            −
+            2
+          
+        
+        var
+        ⁡
+        (
+        
+          X
+          
+            n
+          
+        
+        )
+        =
+        var
+        ⁡
+        (
+        
+          a
+          
+            n
+          
+          
+            −
+            1
+          
+        
+        
+          X
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle a_{n}^{-2}\operatorname {var} (X_{n})=\operatorname {var} (a_{n}^{-1}X_{n})}
+   is a null sequence for a sequence 
+  
+    
+      
+        (
+        
+          a
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle (a_{n})}
+   of real numbers, then 
+  
+    
+      
+        
+          a
+          
+            n
+          
+          
+            −
+            1
+          
+        
+        (
+        
+          X
+          
+            n
+          
+        
+        −
+        E
+        (
+        
+          X
+          
+            n
+          
+        
+        )
+        )
+      
+    
+    {\displaystyle a_{n}^{-1}(X_{n}-E(X_{n}))}
+   converges to zero in probability by Chebyshev's inequality, so
+
+  
+    
+      
+        
+          X
+          
+            n
+          
+        
+        −
+        E
+        (
+        
+          X
+          
+            n
+          
+        
+        )
+        =
+        
+          o
+          
+            p
+          
+        
+        (
+        
+          a
+          
+            n
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle X_{n}-E(X_{n})=o_{p}(a_{n}).}
+  
+
+
+== References ==

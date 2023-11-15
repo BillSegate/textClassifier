@@ -1,0 +1,34 @@
+In the philosophy of mathematics, formalism is the view that holds that statements of mathematics and logic can be considered to be statements about the consequences of the manipulation of strings (alphanumeric sequences of symbols, usually as equations) using established manipulation rules. A central idea of formalism "is that mathematics is not a body of propositions representing an abstract sector of reality, but is much more akin to a game, bringing with it no more commitment to an ontology of objects or properties than ludo or chess." According to formalism, the truths expressed in logic and mathematics are not about numbers, sets, or triangles or any other coextensive subject matter — in fact, they aren't "about" anything at all. Rather, mathematical statements are syntactic forms whose shapes and locations have no meaning unless they are given an interpretation (or semantics). In contrast to mathematical realism, logicism, or intuitionism, formalism's contours are less defined due to broad approaches that can be categorized as formalist. 
+Along with realism and intuitionism, formalism is one of the main theories in the philosophy of mathematics that developed in the late nineteenth and early twentieth century. Among formalists, David Hilbert was the most prominent advocate.
+
+Early formalism
+The early mathematical formalists attempted "to block, avoid, or sidestep (in some way) any ontological commitment to a problematic realm of abstract objects." German mathematicians Eduard Heine and Carl Johannes Thomae are considered early advocates of mathematical formalism. Heine and Thomae's formalism can be found in Gottlob Frege's criticisms in The Foundations of Arithmetic.  
+According to Alan Weir, the formalism of Heine and Thomae that Frege attacks can be "describe[d] as term formalism or game formalism." Term formalism is the view that mathematical expressions refer to symbols, not numbers. Heine expressed this view as follows: "When it comes to definition, I take a purely formal position, in that I call certain tangible signs numbers, so that the existence of these numbers is not in question."Thomae is characterized as a game formalist who claimed that "[f]or the formalist, arithmetic is a game with signs which are called empty. That means that they have no other content (in the calculating game) than they are assigned by their behaviour with respect to certain rules of combination (rules of the game)."Frege provides three criticisms of Heine and Thomae's formalism: "that [formalism] cannot account for the application of mathematics; that it confuses formal theory with metatheory; [and] that it can give no coherent explanation of the concept of an infinite sequence." Frege's criticism of Heine's formalism is that his formalism cannot account for infinite sequences. Dummett argues that more developed accounts of formalism than Heine's account could avoid Frege's objections by claiming they are concerned with abstract symbols rather than concrete objects. Frege objects to the comparison of formalism with that of a game, such as chess. Frege argues that Thomae's formalism fails to distinguish between game and theory.
+
+Hilbert's formalism
+A major figure of formalism was David Hilbert, whose program was intended to be a complete and consistent axiomatization of all of mathematics. Hilbert aimed to show the consistency of mathematical systems from the assumption that the "finitary arithmetic" (a subsystem of the usual arithmetic of the positive integers, chosen to be philosophically uncontroversial) was consistent (i.e. no contradictions can be derived from the system).
+The way that Hilbert tried to show that an axiomatic system was consistent was by formalizing it using a particular language. In order to formalize an axiomatic system, you must first choose a language in which you can express and perform operations within that system. This language must include five components:
+
+It must include variables such as x, which can stand for some number.
+It must have quantifiers such as the symbol for the existence of an object.
+It must include equality.
+It must include connectives such as ↔ for "if and only if."
+It must include certain undefined terms called parameters. For geometry, these undefined terms might be something like a point or a line, which we still choose symbols for.By adopting this language, Hilbert thought that we could prove all theorems within any axiomatic system using nothing more than the axioms themselves and the chosen formal language.
+Gödel's conclusion in his incompleteness theorems was that you cannot prove consistency within any consistent axiomatic system rich enough to include classical arithmetic. On the one hand, you must use only the formal language chosen to formalize this axiomatic system; on the other hand, it is impossible to prove the consistency of this language in itself. Hilbert was originally frustrated by Gödel's work because it shattered his life's goal to completely formalize everything in number theory. However, Gödel did not feel that he contradicted everything about Hilbert's formalist point of view. After Gödel published his work, it became apparent that proof theory still had some use, the only difference is that it could not be used to prove the consistency of all of number theory as Hilbert had hoped.Hilbert was initially a deductivist, but he considered certain metamathematical methods to yield intrinsically meaningful results and was a realist with respect to the finitary arithmetic. Later, he held the opinion that there was no other meaningful mathematics whatsoever, regardless of interpretation.
+
+Further developments
+Other formalists, such as Rudolf Carnap, considered mathematics to be the investigation of formal axiom systems.Haskell Curry defines mathematics as "the science of formal systems." Curry's formalism is unlike that of term formalists, game formalists, or Hilbert's formalism. For Curry, mathematical formalism is about the formal structure of mathematics and not about a formal system. Stewart Shapiro describes Curry's formalism as starting from the "historical thesis that as a branch of mathematics develops, it becomes more and more rigorous in its methodology, the end-result being the codification of the branch in formal deductive systems."
+
+Criticisms of formalism
+Kurt Gödel indicated one of the weak points of formalism by addressing the question of consistency in axiomatic systems. 
+Bertrand Russell has argued that formalism fails to explain what is meant by the linguistic application of numbers in statements such as "there are three men in the room".
+
+See also
+QED project
+Mathematical formalism
+Formalized mathematics
+Formal system
+
+References
+External links
+ Media related to Formalism (deductive) at Wikimedia Commons

@@ -1,0 +1,1303 @@
+In mathematics, a Newtonian series, named after Isaac Newton, is a sum over a sequence 
+  
+    
+      
+        
+          a
+          
+            n
+          
+        
+      
+    
+    {\displaystyle a_{n}}
+   written in the form
+
+  
+    
+      
+        f
+        (
+        s
+        )
+        =
+        
+          ∑
+          
+            n
+            =
+            0
+          
+          
+            ∞
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            n
+          
+        
+        
+          
+            
+              (
+            
+            
+              s
+              n
+            
+            
+              )
+            
+          
+        
+        
+          a
+          
+            n
+          
+        
+        =
+        
+          ∑
+          
+            n
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              (
+              −
+              s
+              
+                )
+                
+                  n
+                
+              
+            
+            
+              n
+              !
+            
+          
+        
+        
+          a
+          
+            n
+          
+        
+      
+    
+    {\displaystyle f(s)=\sum _{n=0}^{\infty }(-1)^{n}{s \choose n}a_{n}=\sum _{n=0}^{\infty }{\frac {(-s)_{n}}{n!}}a_{n}}
+  where 
+
+  
+    
+      
+        
+          
+            
+              (
+            
+            
+              s
+              n
+            
+            
+              )
+            
+          
+        
+      
+    
+    {\displaystyle {s \choose n}}
+  is the binomial coefficient and 
+  
+    
+      
+        (
+        s
+        
+          )
+          
+            n
+          
+        
+      
+    
+    {\displaystyle (s)_{n}}
+   is the falling factorial.  Newtonian series often appear in relations of the form seen in umbral calculus.
+
+List
+The generalized binomial theorem gives
+
+  
+    
+      
+        (
+        1
+        +
+        z
+        
+          )
+          
+            s
+          
+        
+        =
+        
+          ∑
+          
+            n
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              (
+            
+            
+              s
+              n
+            
+            
+              )
+            
+          
+        
+        
+          z
+          
+            n
+          
+        
+        =
+        1
+        +
+        
+          
+            
+              (
+            
+            
+              s
+              1
+            
+            
+              )
+            
+          
+        
+        z
+        +
+        
+          
+            
+              (
+            
+            
+              s
+              2
+            
+            
+              )
+            
+          
+        
+        
+          z
+          
+            2
+          
+        
+        +
+        ⋯
+        .
+      
+    
+    {\displaystyle (1+z)^{s}=\sum _{n=0}^{\infty }{s \choose n}z^{n}=1+{s \choose 1}z+{s \choose 2}z^{2}+\cdots .}
+  A proof for this identity can be obtained by showing that it satisfies the differential equation
+
+  
+    
+      
+        (
+        1
+        +
+        z
+        )
+        
+          
+            
+              d
+              (
+              1
+              +
+              z
+              
+                )
+                
+                  s
+                
+              
+            
+            
+              d
+              z
+            
+          
+        
+        =
+        s
+        (
+        1
+        +
+        z
+        
+          )
+          
+            s
+          
+        
+        .
+      
+    
+    {\displaystyle (1+z){\frac {d(1+z)^{s}}{dz}}=s(1+z)^{s}.}
+  The digamma function: 
+
+  
+    
+      
+        ψ
+        (
+        s
+        +
+        1
+        )
+        =
+        −
+        γ
+        −
+        
+          ∑
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              (
+              −
+              1
+              
+                )
+                
+                  n
+                
+              
+            
+            n
+          
+        
+        
+          
+            
+              (
+            
+            
+              s
+              n
+            
+            
+              )
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \psi (s+1)=-\gamma -\sum _{n=1}^{\infty }{\frac {(-1)^{n}}{n}}{s \choose n}.}
+  The Stirling numbers of the second kind are given by the finite sum
+
+  
+    
+      
+        
+          {
+          
+            
+              
+                
+                  n
+                
+              
+              
+                
+                  k
+                
+              
+            
+          
+          }
+        
+        =
+        
+          
+            1
+            
+              k
+              !
+            
+          
+        
+        
+          ∑
+          
+            j
+            =
+            0
+          
+          
+            k
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            k
+            −
+            j
+          
+        
+        
+          
+            
+              (
+            
+            
+              k
+              j
+            
+            
+              )
+            
+          
+        
+        
+          j
+          
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle \left\{{\begin{matrix}n\\k\end{matrix}}\right\}={\frac {1}{k!}}\sum _{j=0}^{k}(-1)^{k-j}{k \choose j}j^{n}.}
+  This formula is a special case of the kth forward difference of the monomial xn evaluated at x = 0:
+
+  
+    
+      
+        
+          Δ
+          
+            k
+          
+        
+        
+          x
+          
+            n
+          
+        
+        =
+        
+          ∑
+          
+            j
+            =
+            0
+          
+          
+            k
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            k
+            −
+            j
+          
+        
+        
+          
+            
+              (
+            
+            
+              k
+              j
+            
+            
+              )
+            
+          
+        
+        (
+        x
+        +
+        j
+        
+          )
+          
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle \Delta ^{k}x^{n}=\sum _{j=0}^{k}(-1)^{k-j}{k \choose j}(x+j)^{n}.}
+  A related identity forms the basis of the Nörlund–Rice integral:
+
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            n
+          
+        
+        
+          
+            
+              (
+            
+            
+              n
+              k
+            
+            
+              )
+            
+          
+        
+        
+          
+            
+              (
+              −
+              1
+              
+                )
+                
+                  n
+                  −
+                  k
+                
+              
+            
+            
+              s
+              −
+              k
+            
+          
+        
+        =
+        
+          
+            
+              n
+              !
+            
+            
+              s
+              (
+              s
+              −
+              1
+              )
+              (
+              s
+              −
+              2
+              )
+              ⋯
+              (
+              s
+              −
+              n
+              )
+            
+          
+        
+        =
+        
+          
+            
+              Γ
+              (
+              n
+              +
+              1
+              )
+              Γ
+              (
+              s
+              −
+              n
+              )
+            
+            
+              Γ
+              (
+              s
+              +
+              1
+              )
+            
+          
+        
+        =
+        B
+        (
+        n
+        +
+        1
+        ,
+        s
+        −
+        n
+        )
+        ,
+        s
+        ∉
+        {
+        0
+        ,
+        …
+        ,
+        n
+        }
+      
+    
+    {\displaystyle \sum _{k=0}^{n}{n \choose k}{\frac {(-1)^{n-k}}{s-k}}={\frac {n!}{s(s-1)(s-2)\cdots (s-n)}}={\frac {\Gamma (n+1)\Gamma (s-n)}{\Gamma (s+1)}}=B(n+1,s-n),s\notin \{0,\ldots ,n\}}
+  where 
+  
+    
+      
+        Γ
+        (
+        x
+        )
+      
+    
+    {\displaystyle \Gamma (x)}
+   is the Gamma function and 
+  
+    
+      
+        B
+        (
+        x
+        ,
+        y
+        )
+      
+    
+    {\displaystyle B(x,y)}
+   is the Beta function.
+The trigonometric functions have umbral identities:
+
+  
+    
+      
+        
+          ∑
+          
+            n
+            =
+            0
+          
+          
+            ∞
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            n
+          
+        
+        
+          
+            
+              (
+            
+            
+              s
+              
+                2
+                n
+              
+            
+            
+              )
+            
+          
+        
+        =
+        
+          2
+          
+            s
+            
+              /
+            
+            2
+          
+        
+        cos
+        ⁡
+        
+          
+            
+              π
+              s
+            
+            4
+          
+        
+      
+    
+    {\displaystyle \sum _{n=0}^{\infty }(-1)^{n}{s \choose 2n}=2^{s/2}\cos {\frac {\pi s}{4}}}
+  and 
+
+  
+    
+      
+        
+          ∑
+          
+            n
+            =
+            0
+          
+          
+            ∞
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            n
+          
+        
+        
+          
+            
+              (
+            
+            
+              s
+              
+                2
+                n
+                +
+                1
+              
+            
+            
+              )
+            
+          
+        
+        =
+        
+          2
+          
+            s
+            
+              /
+            
+            2
+          
+        
+        sin
+        ⁡
+        
+          
+            
+              π
+              s
+            
+            4
+          
+        
+      
+    
+    {\displaystyle \sum _{n=0}^{\infty }(-1)^{n}{s \choose 2n+1}=2^{s/2}\sin {\frac {\pi s}{4}}}
+  The umbral nature of these identities is a bit more clear by writing them in terms of the falling factorial 
+  
+    
+      
+        (
+        s
+        
+          )
+          
+            n
+          
+        
+      
+    
+    {\displaystyle (s)_{n}}
+  . The first few terms of the sin series are
+
+  
+    
+      
+        s
+        −
+        
+          
+            
+              (
+              s
+              
+                )
+                
+                  3
+                
+              
+            
+            
+              3
+              !
+            
+          
+        
+        +
+        
+          
+            
+              (
+              s
+              
+                )
+                
+                  5
+                
+              
+            
+            
+              5
+              !
+            
+          
+        
+        −
+        
+          
+            
+              (
+              s
+              
+                )
+                
+                  7
+                
+              
+            
+            
+              7
+              !
+            
+          
+        
+        +
+        ⋯
+      
+    
+    {\displaystyle s-{\frac {(s)_{3}}{3!}}+{\frac {(s)_{5}}{5!}}-{\frac {(s)_{7}}{7!}}+\cdots }
+  which can be recognized as resembling the Taylor series for sin x, with (s)n standing in the place of xn.
+In analytic number theory it is of interest to sum
+
+  
+    
+      
+        
+        
+          ∑
+          
+            k
+            =
+            0
+          
+        
+        
+          B
+          
+            k
+          
+        
+        
+          z
+          
+            k
+          
+        
+        ,
+      
+    
+    {\displaystyle \!\sum _{k=0}B_{k}z^{k},}
+  where B are the Bernoulli numbers. Employing the generating function its Borel sum can be evaluated as 
+
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            0
+          
+        
+        
+          B
+          
+            k
+          
+        
+        
+          z
+          
+            k
+          
+        
+        =
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        
+          e
+          
+            −
+            t
+          
+        
+        
+          
+            
+              t
+              z
+            
+            
+              
+                e
+                
+                  t
+                  z
+                
+              
+              −
+              1
+            
+          
+        
+        
+        d
+        t
+        =
+        
+          ∑
+          
+            k
+            =
+            1
+          
+        
+        
+          
+            z
+            
+              (
+              k
+              z
+              +
+              1
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \sum _{k=0}B_{k}z^{k}=\int _{0}^{\infty }e^{-t}{\frac {tz}{e^{tz}-1}}\,dt=\sum _{k=1}{\frac {z}{(kz+1)^{2}}}.}
+  The general relation gives the Newton series
+
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            0
+          
+        
+        
+          
+            
+              
+                B
+                
+                  k
+                
+              
+              (
+              x
+              )
+            
+            
+              z
+              
+                k
+              
+            
+          
+        
+        
+          
+            
+              
+                (
+              
+              
+                
+                  1
+                  −
+                  s
+                
+                k
+              
+              
+                )
+              
+            
+            
+              s
+              −
+              1
+            
+          
+        
+        =
+        
+          z
+          
+            s
+            −
+            1
+          
+        
+        ζ
+        (
+        s
+        ,
+        x
+        +
+        z
+        )
+        ,
+      
+    
+    {\displaystyle \sum _{k=0}{\frac {B_{k}(x)}{z^{k}}}{\frac {1-s \choose k}{s-1}}=z^{s-1}\zeta (s,x+z),}
+  where 
+  
+    
+      
+        ζ
+      
+    
+    {\displaystyle \zeta }
+   is the Hurwitz zeta function and 
+  
+    
+      
+        
+          B
+          
+            k
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle B_{k}(x)}
+   the Bernoulli polynomial. The series does not converge, the identity holds formally.
+Another identity is 
+
+  
+    
+      
+        
+          
+            1
+            
+              Γ
+              (
+              x
+              )
+            
+          
+        
+        =
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              (
+            
+            
+              
+                x
+                −
+                a
+              
+              k
+            
+            
+              )
+            
+          
+        
+        
+          ∑
+          
+            j
+            =
+            0
+          
+          
+            k
+          
+        
+        
+          
+            
+              (
+              −
+              1
+              
+                )
+                
+                  k
+                  −
+                  j
+                
+              
+            
+            
+              Γ
+              (
+              a
+              +
+              j
+              )
+            
+          
+        
+        
+          
+            
+              (
+            
+            
+              k
+              j
+            
+            
+              )
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\frac {1}{\Gamma (x)}}=\sum _{k=0}^{\infty }{x-a \choose k}\sum _{j=0}^{k}{\frac {(-1)^{k-j}}{\Gamma (a+j)}}{k \choose j},}
+  
+which converges for 
+  
+    
+      
+        x
+        >
+        a
+      
+    
+    {\displaystyle x>a}
+  .  This follows from the general form of a Newton series for equidistant nodes (when it exists, i.e. is convergent)
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          ∑
+          
+            k
+            =
+            0
+          
+        
+        
+          
+            
+              (
+            
+            
+              
+                
+                  
+                    x
+                    −
+                    a
+                  
+                  h
+                
+              
+              k
+            
+            
+              )
+            
+          
+        
+        
+          ∑
+          
+            j
+            =
+            0
+          
+          
+            k
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            k
+            −
+            j
+          
+        
+        
+          
+            
+              (
+            
+            
+              k
+              j
+            
+            
+              )
+            
+          
+        
+        f
+        (
+        a
+        +
+        j
+        h
+        )
+        .
+      
+    
+    {\displaystyle f(x)=\sum _{k=0}{{\frac {x-a}{h}} \choose k}\sum _{j=0}^{k}(-1)^{k-j}{k \choose j}f(a+jh).}
+
+See also
+Binomial transform
+List of factorial and binomial topics
+Nörlund–Rice integral
+Carlson's theorem
+
+References
+Philippe Flajolet and Robert Sedgewick, "Mellin transforms and asymptotics: Finite differences and Rice's integrals",  Theoretical Computer Science 144 (1995) pp 101–124.

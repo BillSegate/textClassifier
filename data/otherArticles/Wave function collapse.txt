@@ -1,0 +1,967 @@
+In quantum mechanics, wave function collapse occurs when a wave function—initially in a superposition of several eigenstates—reduces to a single eigenstate due to interaction with the external world. This interaction is called an observation, and is the essence of a measurement in quantum mechanics, which connects the wave function with classical observables such as position and momentum. Collapse is one of the two processes by which quantum systems evolve in time; the other is the continuous evolution governed by the Schrödinger equation. Collapse is a black box for a thermodynamically irreversible interaction with a classical environment.Calculations of quantum decoherence show that when a quantum system interacts with the environment, the superpositions apparently reduce to mixtures of classical alternatives. Significantly, the combined wave function of the system and environment continue to obey the Schrödinger equation throughout this apparent collapse. More importantly, this is not enough to explain actual wave function collapse, as decoherence does not reduce it to a single eigenstate.Historically, Werner Heisenberg was the first to use the idea of wave function reduction to explain quantum measurement.
+
+Mathematical description
+Before collapsing, the wave function may be any square-integrable function, and is therefore associated with the probability density of a quantum-mechanical system. This function is expressible as a linear combination of the eigenstates of any observable. Observables represent classical dynamical variables, and when one is measured by a classical observer, the wave function is projected onto a random eigenstate of that observable. The observer simultaneously measures the classical value of that observable to be the eigenvalue of the final state.
+
+Mathematical background
+The quantum state of a physical system is described by a wave function (in turn—an element of a ray in projective Hilbert space). This can be expressed as a vector using Dirac or bra–ket notation :
+
+  
+    
+      
+        
+          |
+        
+        ψ
+        ⟩
+        =
+        
+          ∑
+          
+            i
+          
+        
+        
+          c
+          
+            i
+          
+        
+        
+          |
+        
+        
+          ϕ
+          
+            i
+          
+        
+        ⟩
+        .
+      
+    
+    {\displaystyle |\psi \rangle =\sum _{i}c_{i}|\phi _{i}\rangle .}
+  The kets 
+  
+    
+      
+        
+          |
+        
+        
+          ϕ
+          
+            1
+          
+        
+        ⟩
+        ,
+        
+          |
+        
+        
+          ϕ
+          
+            2
+          
+        
+        ⟩
+        ,
+        
+          |
+        
+        
+          ϕ
+          
+            3
+          
+        
+        ⟩
+        ,
+        …
+      
+    
+    {\displaystyle |\phi _{1}\rangle ,|\phi _{2}\rangle ,|\phi _{3}\rangle ,\dots }
+   specify the different quantum "alternatives" available—a particular quantum state. They form an orthonormal eigenbasis, formally
+
+  
+    
+      
+        ⟨
+        
+          ϕ
+          
+            i
+          
+        
+        
+          |
+        
+        
+          ϕ
+          
+            j
+          
+        
+        ⟩
+        =
+        
+          δ
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle \langle \phi _{i}|\phi _{j}\rangle =\delta _{ij}}
+  where 
+  
+    
+      
+        
+          δ
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle \delta _{ij}}
+   represents the Kronecker delta.
+An observable (i.e. measurable parameter of the system) is associated with each eigenbasis, with each quantum alternative having a specific eigenvalue of the observable. A "measurable parameter of the system" could be the usual position 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   and the momentum 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   of, say, a particle, but also its energy 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+  , 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+   components of spin (
+  
+    
+      
+        
+          s
+          
+            z
+          
+        
+      
+    
+    {\displaystyle s_{z}}
+  ), orbital (
+  
+    
+      
+        
+          L
+          
+            z
+          
+        
+      
+    
+    {\displaystyle L_{z}}
+  ) and total angular (
+  
+    
+      
+        
+          J
+          
+            z
+          
+        
+      
+    
+    {\displaystyle J_{z}}
+  ) momenta, etc. In the basis representation these are respectively 
+  
+    
+      
+        
+          |
+        
+        
+          r
+        
+        ,
+        t
+        ⟩
+        =
+        
+          |
+        
+        x
+        ,
+        t
+        ⟩
+        +
+        
+          |
+        
+        y
+        ,
+        t
+        ⟩
+        +
+        
+          |
+        
+        z
+        ,
+        t
+        ⟩
+        ,
+        
+          |
+        
+        
+          p
+        
+        ,
+        t
+        ⟩
+        =
+        
+          |
+        
+        
+          p
+          
+            x
+          
+        
+        ,
+        t
+        ⟩
+        +
+        
+          |
+        
+        
+          p
+          
+            y
+          
+        
+        ,
+        t
+        ⟩
+        +
+        
+          |
+        
+        
+          p
+          
+            z
+          
+        
+        ,
+        t
+        ⟩
+        ,
+        
+          |
+        
+        E
+        ⟩
+        ,
+        
+          |
+        
+        
+          s
+          
+            z
+          
+        
+        ⟩
+        ,
+        
+          |
+        
+        
+          L
+          
+            z
+          
+        
+        ⟩
+        ,
+        
+          |
+        
+        
+          J
+          
+            z
+          
+        
+        ⟩
+        ,
+        …
+      
+    
+    {\displaystyle |\mathbf {r} ,t\rangle =|x,t\rangle +|y,t\rangle +|z,t\rangle ,|\mathbf {p} ,t\rangle =|p_{x},t\rangle +|p_{y},t\rangle +|p_{z},t\rangle ,|E\rangle ,|s_{z}\rangle ,|L_{z}\rangle ,|J_{z}\rangle ,\dots }
+  .
+The coefficients 
+  
+    
+      
+        
+          c
+          
+            1
+          
+        
+        ,
+        
+          c
+          
+            2
+          
+        
+        ,
+        
+          c
+          
+            3
+          
+        
+        .
+        .
+        .
+      
+    
+    {\displaystyle c_{1},c_{2},c_{3}...}
+   are the probability amplitudes corresponding to each basis 
+  
+    
+      
+        
+          |
+        
+        
+          ϕ
+          
+            1
+          
+        
+        ⟩
+        ,
+        
+          |
+        
+        
+          ϕ
+          
+            2
+          
+        
+        ⟩
+        ,
+        
+          |
+        
+        
+          ϕ
+          
+            3
+          
+        
+        ⟩
+        ,
+        …
+      
+    
+    {\displaystyle |\phi _{1}\rangle ,|\phi _{2}\rangle ,|\phi _{3}\rangle ,\dots }
+  . These are complex numbers. The moduli square of 
+  
+    
+      
+        
+          c
+          
+            i
+          
+        
+      
+    
+    {\displaystyle c_{i}}
+  , that is 
+  
+    
+      
+        
+          |
+        
+        
+          c
+          
+            i
+          
+        
+        
+          
+            |
+          
+          
+            2
+          
+        
+        =
+        
+          
+            c
+          
+          
+            i
+          
+          
+            ∗
+          
+        
+        
+          c
+          
+            i
+          
+        
+      
+    
+    {\displaystyle |c_{i}|^{2}={c}_{i}^{*}c_{i}}
+   (where 
+  
+    
+      
+        ∗
+      
+    
+    {\displaystyle *}
+   denotes complex conjugate), is the probability of measuring the system to be in the state 
+  
+    
+      
+        
+          |
+        
+        
+          ϕ
+          
+            i
+          
+        
+        ⟩
+      
+    
+    {\displaystyle |\phi _{i}\rangle }
+  .
+For simplicity in the following, all wave functions are assumed to be normalized; the total probability of measuring all possible states is one:
+
+  
+    
+      
+        ⟨
+        ψ
+        
+          |
+        
+        ψ
+        ⟩
+        =
+        
+          ∑
+          
+            i
+          
+        
+        
+          |
+        
+        
+          c
+          
+            i
+          
+        
+        
+          
+            |
+          
+          
+            2
+          
+        
+        =
+        1.
+      
+    
+    {\displaystyle \langle \psi |\psi \rangle =\sum _{i}|c_{i}|^{2}=1.}
+
+The process of collapse
+With these definitions it is easy to describe the process of collapse. For any observable, the wave function is initially some linear combination of the eigenbasis 
+  
+    
+      
+        {
+        
+          |
+        
+        
+          ϕ
+          
+            i
+          
+        
+        ⟩
+        }
+      
+    
+    {\displaystyle \{|\phi _{i}\rangle \}}
+   of that observable. When an external agency (an observer, experimenter) measures the observable associated with the eigenbasis 
+  
+    
+      
+        {
+        
+          |
+        
+        
+          ϕ
+          
+            i
+          
+        
+        ⟩
+        }
+      
+    
+    {\displaystyle \{|\phi _{i}\rangle \}}
+  , the wave function collapses from the full 
+  
+    
+      
+        
+          |
+        
+        ψ
+        ⟩
+      
+    
+    {\displaystyle |\psi \rangle }
+   to just one of the basis eigenstates, 
+  
+    
+      
+        
+          |
+        
+        
+          ϕ
+          
+            i
+          
+        
+        ⟩
+      
+    
+    {\displaystyle |\phi _{i}\rangle }
+  , that is:
+
+  
+    
+      
+        
+          |
+        
+        ψ
+        ⟩
+        →
+        
+          |
+        
+        
+          ϕ
+          
+            i
+          
+        
+        ⟩
+        .
+      
+    
+    {\displaystyle |\psi \rangle \rightarrow |\phi _{i}\rangle .}
+  The probability of collapsing to a given eigenstate 
+  
+    
+      
+        
+          |
+        
+        
+          ϕ
+          
+            k
+          
+        
+        ⟩
+      
+    
+    {\displaystyle |\phi _{k}\rangle }
+   is the Born probability, 
+  
+    
+      
+        
+          P
+          
+            k
+          
+        
+        =
+        
+          |
+        
+        
+          c
+          
+            k
+          
+        
+        
+          
+            |
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle P_{k}=|c_{k}|^{2}}
+  . Immediately post-measurement, other elements of the wave function vector, 
+  
+    
+      
+        
+          c
+          
+            i
+            ≠
+            k
+          
+        
+      
+    
+    {\displaystyle c_{i\neq k}}
+  , have "collapsed" to zero, and  
+  
+    
+      
+        
+          |
+        
+        
+          c
+          
+            i
+          
+        
+        
+          
+            |
+          
+          
+            2
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle |c_{i}|^{2}=1}
+  .More generally, collapse is defined for an operator 
+  
+    
+      
+        
+          
+            
+              Q
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {Q}}}
+   with eigenbasis 
+  
+    
+      
+        {
+        
+          |
+        
+        
+          ϕ
+          
+            i
+          
+        
+        ⟩
+        }
+      
+    
+    {\displaystyle \{|\phi _{i}\rangle \}}
+  . If the system is in state 
+  
+    
+      
+        
+          |
+        
+        ψ
+        ⟩
+      
+    
+    {\displaystyle |\psi \rangle }
+  , and 
+  
+    
+      
+        
+          
+            
+              Q
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {Q}}}
+   is measured, the probability of collapsing the system to eigenstate 
+  
+    
+      
+        
+          |
+        
+        
+          ϕ
+          
+            i
+          
+        
+        ⟩
+      
+    
+    {\displaystyle |\phi _{i}\rangle }
+   and measuring the eigenvalue 
+  
+    
+      
+        
+          q
+          
+            i
+          
+        
+      
+    
+    {\displaystyle q_{i}}
+   of 
+  
+    
+      
+        
+          |
+        
+        
+          ϕ
+          
+            i
+          
+        
+        ⟩
+      
+    
+    {\displaystyle |\phi _{i}\rangle }
+   with respect to 
+  
+    
+      
+        
+          
+            
+              Q
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {Q}}}
+   would be 
+  
+    
+      
+        
+          |
+        
+        ⟨
+        ψ
+        
+          |
+        
+        
+          ϕ
+          
+            i
+          
+        
+        ⟩
+        
+          
+            |
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle |\langle \psi |\phi _{i}\rangle |^{2}}
+  . Note that this is not the probability that the particle is in state 
+  
+    
+      
+        
+          |
+        
+        
+          ϕ
+          
+            i
+          
+        
+        ⟩
+      
+    
+    {\displaystyle |\phi _{i}\rangle }
+  ; it is in state 
+  
+    
+      
+        
+          |
+        
+        ψ
+        ⟩
+      
+    
+    {\displaystyle |\psi \rangle }
+   until cast to an eigenstate of 
+  
+    
+      
+        
+          
+            
+              Q
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {Q}}}
+  .
+However, we never observe collapse to a single eigenstate of a continuous-spectrum operator (e.g. position, momentum, or a scattering Hamiltonian), because such eigenfunctions are non-normalizable. In these cases, the wave function will partially collapse to a linear combination of "close" eigenstates (necessarily involving a spread in eigenvalues) that embodies the imprecision of the measurement apparatus. The more precise the measurement, the tighter the range. Calculation of probability proceeds identically, except with an integral over the expansion coefficient 
+  
+    
+      
+        c
+        (
+        q
+        ,
+        t
+        )
+        d
+        q
+      
+    
+    {\displaystyle c(q,t)dq}
+  . This phenomenon is unrelated to the uncertainty principle, although increasingly precise measurements of one operator (e.g. position) will naturally homogenize the expansion coefficient of wave function with respect to another, incompatible operator (e.g. momentum), lowering the probability of measuring any particular value of the latter.
+
+Quantum decoherence
+Quantum decoherence explains why a system interacting with an environment transitions from being a pure state, exhibiting superpositions, to a mixed state, an incoherent combination of classical alternatives.  This transition is fundamentally reversible, as the combined state of system and environment is still pure, but for all practical purposes irreversible, as the environment is a very large and complex quantum system, and it is not feasible to reverse their interaction. Decoherence is thus very important for explaining the classical limit of quantum mechanics, but cannot explain wave function collapse, as all classical alternatives are still present in the mixed state, and wave function collapse selects only one of them.
+
+History and context
+The concept of wavefunction collapse was introduced by Werner Heisenberg in his 1927 paper on the uncertainty principle, "Über den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik", and incorporated into the mathematical formulation of quantum mechanics by John von Neumann, in his 1932 treatise Mathematische Grundlagen der Quantenmechanik. Heisenberg did not try to specify exactly what the collapse of the wavefunction meant. However, he emphasized that it should not be understood as a physical process.  Niels Bohr also repeatedly cautioned that we must give up a "pictorial representation", and perhaps also interpreted collapse as a formal, not physical, process.Consistent with Heisenberg, von Neumann postulated that there were two processes of wave function change:
+
+The probabilistic, non-unitary, non-local, discontinuous change brought about by observation and measurement, as outlined above.
+The deterministic, unitary,  continuous time evolution of an isolated system that obeys the Schrödinger equation (or a relativistic equivalent, i.e. the Dirac equation).In general, quantum systems exist in superpositions of those basis states that most closely correspond to classical descriptions, and, in the absence of measurement, evolve according to the Schrödinger equation. However, when a measurement is made, the wave function collapses—from an observer's perspective—to just one of the basis states, and the property being measured uniquely acquires the eigenvalue of that particular state, 
+  
+    
+      
+        
+          λ
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \lambda _{i}}
+  . After the collapse, the system again evolves according to the Schrödinger equation.
+By explicitly dealing with the interaction of object and measuring instrument, von Neumann has attempted to create consistency of the two processes of wave function change.
+He was able to prove the possibility of a quantum mechanical measurement scheme consistent with wave function collapse. However, he did not prove the necessity of such a collapse. Although von Neumann's projection postulate is often presented as a normative description of quantum measurement, it was conceived by taking into account experimental evidence available during the 1930s (in particular the Compton-Simon experiment was paradigmatic), but many important present-day measurement procedures do not satisfy it (so-called measurements of the second kind).The existence of the wave function collapse is required in
+
+the Copenhagen interpretation
+the objective collapse interpretations
+the transactional interpretation
+the von Neumann–Wigner interpretation in which consciousness causes collapse.On the other hand, the collapse is considered a redundant or optional approximation in
+
+the consistent histories approach, self-dubbed "Copenhagen done right"
+the Bohm interpretation
+the many-worlds interpretation
+the ensemble interpretation
+the relational quantum mechanics interpretationThe cluster of phenomena described by the expression wave function collapse is a fundamental problem in the interpretation of quantum mechanics, and is known as the measurement problem.
+In the Copenhagen Interpretation collapse is postulated to be a special characteristic of interaction with classical systems (of which measurements are a special case). Mathematically it can be shown that collapse is equivalent to interaction with a classical system modeled within quantum theory as systems with Boolean algebras of observables and equivalent to a conditional expectation value.Everett's many-worlds interpretation deals with it by discarding the collapse-process, thus reformulating the relation between measurement apparatus and system in such a way that the linear laws of quantum mechanics are universally valid; that is, the only process according to which a quantum system evolves is governed by the Schrödinger equation or some relativistic equivalent.
+A general description of the evolution of quantum mechanical systems is possible by using density operators and quantum operations. In this formalism (which is closely related to the C*-algebraic formalism) the collapse of the wave function corresponds to a non-unitary quantum operation. Within the C* formalism this non-unitary process is equivalent to the algebra gaining a non-trivial centre or centre of its centralizer corresponding to classical observables.The significance ascribed to the wave function varies from interpretation to interpretation, and varies even within an interpretation (such as the Copenhagen Interpretation). If the wave function merely encodes an observer's knowledge of the universe then the wave function collapse corresponds to the receipt of new information. This is somewhat analogous to the situation in classical physics, except that the classical "wave function" does not necessarily obey a wave equation. If the wave function is physically real, in some sense and to some extent, then the collapse of the wave function is also seen as a real process, to the same extent.
+
+See also
+Notes
+References
+External links
+ Quotations related to Wave function collapse at Wikiquote

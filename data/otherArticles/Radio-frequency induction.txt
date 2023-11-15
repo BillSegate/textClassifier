@@ -1,0 +1,17 @@
+For the common use of RF induction process of heating a metal object by electromagnetic induction, see induction heatingRadio-frequency induction (RF induction) is the use of a radio frequency magnetic field to transfer energy by means of electromagnetic induction in the near field. A radio-frequency alternating current is passed through a coil of wire that acts as the transmitter, and a second coil or conducting object, magnetically coupled to the first coil, acts as the receiver.
+
+See also
+Radio-frequency identification (RFID)
+Radio antenna
+Electromagnetic radiation
+Electromagnetic induction
+Induction plasma technology
+List of electronics topics
+List of radiation topics
+Transformer
+
+External articles
+Budyansky, A. and A. Zykov, "Static current-voltage characteristics for radio-frequencyinduction discharge".  Plasma Science, 1995. IEEE Conference Record - Abstracts., 1995 Page(s):146
+Hopwood, J.; Guarnieri, C.R.; Whitehair, S.J.; Cuomo, J.J. (1993). "Electromagnetic fields in a radio‐frequency induction plasma". Journal of Vacuum Science & Technology A: Vacuum, Surfaces, and Films. 11 (1): 147. Bibcode:1993JVST...11..147H. doi:10.1116/1.578281. IBM Research Division, T. J. Watson Research Center, Yorktown Heights, New York 10598.
+Maurizio Vignati and Livio Giuliani "Radiofrequency Exposure Near High-voltage Lines".
+Tenforde, T. S., and W. T. Kaune, "Interaction of extremely low frequency electric and magnetic fields with humans". Health Phys 53(6):585-606 (1987).

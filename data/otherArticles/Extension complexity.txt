@@ -1,0 +1,101 @@
+In convex geometry and polyhedral combinatorics, the extension complexity of a convex polytope 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   is the smallest number of facets among convex polytopes 
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+   that have 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   as a projection. In this context, 
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+   is called an extended formulation of 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  ; it may have much higher dimension than 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  .The extension complexity depends on the precise shape of 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  , not just on its combinatorial structure. For instance, regular polygons with 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   sides have extension complexity 
+  
+    
+      
+        O
+        (
+        log
+        ⁡
+        n
+        )
+      
+    
+    {\displaystyle O(\log n)}
+   (expressed using big O notation), but some other convex 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -gons have extension complexity at least proportional to 
+  
+    
+      
+        
+          
+            n
+          
+        
+      
+    
+    {\displaystyle {\sqrt {n}}}
+  .If a polytope describing the feasible solutions to a combinatorial optimization problem has low extension complexity, this could potentially be used to devise efficient algorithms for the problem, using linear programming on its extended formulation. For this reason, researchers have studied the extension complexity of the polytopes arising in this way. For instance, it is known that the matching polytope has exponential extension complexity. On the other hand, the independence polytope of regular matroids has polynomial extension complexity.The notion of extension complexity has also been generalized from linear programming to semidefinite programming, by considering projections of spectrahedra in place of projections of polytopes.
+
+
+== References ==

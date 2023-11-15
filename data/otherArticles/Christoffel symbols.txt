@@ -1,0 +1,2081 @@
+In mathematics and physics, the Christoffel symbols are an array of numbers describing a metric connection.  The metric connection is a specialization of the affine connection to surfaces or other manifolds endowed with a metric, allowing distances to be measured on that surface.  In differential geometry, an affine connection can be defined without reference to a metric, and many additional concepts follow: parallel transport, covariant derivatives, geodesics, etc. also do not require the concept of a metric. However, when a metric is available, these concepts can be directly tied to the "shape" of the manifold itself; that shape is determined by how the tangent space is attached to the cotangent space by the metric tensor. Abstractly, one would say that the manifold has an associated (orthonormal) frame bundle, with each "frame" being a possible choice of a coordinate frame. An invariant metric implies that the structure group of the frame bundle is the orthogonal group O(p, q). As a result, such a manifold is necessarily a (pseudo-)Riemannian manifold. The Christoffel symbols provide a concrete representation of the connection of (pseudo-)Riemannian geometry in terms of coordinates on the manifold. Additional concepts, such as parallel transport, geodesics, etc. can then be expressed in terms of Christoffel symbols.
+In general, there are an infinite number of metric connections for a given metric tensor; however, there is a unique connection that is free of torsion, the Levi-Civita connection. It is common in physics and general relativity to work almost exclusively with the Levi-Civita connection, by working in coordinate frames (called holonomic coordinates) where the torsion vanishes. For example, in Euclidean spaces, the Christoffel symbols describe how the local coordinate bases change from point to point.
+At each point of the underlying n-dimensional manifold, for any local coordinate system around that point, the Christoffel symbols are denoted Γijk for i, j, k = 1, 2, ..., n. Each entry of this n × n × n array is a real number. Under linear coordinate transformations on the manifold, the Christoffel symbols transform like the components of a tensor, but under general coordinate transformations (diffeomorphisms) they do not.  Most of the algebraic properties of the Christoffel symbols follow from their relationship to the affine connection; only a few follow from the fact that the structure group is the orthogonal group O(m, n) (or the Lorentz group O(3, 1) for general relativity).
+Christoffel symbols are used for performing practical calculations. For example, the Riemann curvature tensor can be expressed entirely in terms of the Christoffel symbols and their first partial derivatives. In general relativity, the connection plays the role of the gravitational force field with the corresponding gravitational potential being the metric tensor. When the coordinate system and the metric tensor share some symmetry, many of the Γijk are zero.
+The Christoffel symbols are named for Elwin Bruno Christoffel (1829–1900).
+
+Note
+The definitions given below are valid for both Riemannian manifolds and pseudo-Riemannian manifolds, such as those of general relativity, with careful distinction being made between upper and lower indices (contra-variant and co-variant indices). The formulas hold for either sign convention, unless otherwise noted.
+Einstein summation convention is used in this article, with vectors indicated by bold font. The connection coefficients of the Levi-Civita connection (or pseudo-Riemannian connection) expressed in a coordinate basis are called Christoffel symbols.
+
+Preliminary definitions
+Given a manifold 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  , an atlas consists of a collection of charts 
+  
+    
+      
+        φ
+        :
+        U
+        →
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \varphi :U\to \mathbb {R} ^{n}}
+   for each open cover 
+  
+    
+      
+        U
+        ⊂
+        M
+      
+    
+    {\displaystyle U\subset M}
+  . Such charts allow the standard vector basis 
+  
+    
+      
+        (
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            1
+          
+        
+        ,
+        ⋯
+        ,
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle ({\vec {e}}_{1},\cdots ,{\vec {e}}_{n})}
+   on 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{n}}
+   to be pulled back to a vector basis on the tangent space 
+  
+    
+      
+        T
+        M
+      
+    
+    {\displaystyle TM}
+   of 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  . This is done as follows. Given some arbitrary real function 
+  
+    
+      
+        f
+        :
+        M
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle f:M\to \mathbb {R} }
+  , the chart allows a gradient to be defined:
+
+  
+    
+      
+        
+          ∂
+          
+            i
+          
+        
+        f
+        ≡
+        
+          
+            
+              ∂
+              
+                (
+                
+                  f
+                  ∘
+                  
+                    φ
+                    
+                      −
+                      1
+                    
+                  
+                
+                )
+              
+            
+            
+              ∂
+              
+                x
+                
+                  i
+                
+              
+            
+          
+        
+        
+        
+          
+            for 
+          
+        
+        i
+        =
+        1
+        ,
+        
+        2
+        ,
+        
+        …
+        ,
+        
+        n
+      
+    
+    {\displaystyle \partial _{i}f\equiv {\frac {\partial \left(f\circ \varphi ^{-1}\right)}{\partial x^{i}}}\quad {\mbox{for }}i=1,\,2,\,\dots ,\,n}
+  This gradient is commonly called a pullback because it "pulls back" the gradient on 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{n}}
+   to a gradient on 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  . The pullback does not depend on the actual function 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  ; it can be shown that it is the same, no matter what 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   is used. In this way, the standard vector basis 
+  
+    
+      
+        (
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            1
+          
+        
+        ,
+        ⋯
+        ,
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle ({\vec {e}}_{1},\cdots ,{\vec {e}}_{n})}
+   on 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{n}}
+   pulls back to a standard ("coordinate") vector basis 
+  
+    
+      
+        (
+        
+          ∂
+          
+            1
+          
+        
+        ,
+        ⋯
+        ,
+        
+          ∂
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle (\partial _{1},\cdots ,\partial _{n})}
+   on 
+  
+    
+      
+        T
+        M
+      
+    
+    {\displaystyle TM}
+  . This is called the "coordinate basis", because it explicitly depends on the coordinates on 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{n}}
+  . It is sometimes called the "local basis".
+This definition allows a common abuse of notation. The 
+  
+    
+      
+        
+          ∂
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \partial _{i}}
+   were defined to be in one-to-one correspondence with the basis vectors 
+  
+    
+      
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle {\vec {e}}_{i}}
+   on 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{n}}
+  . The notation 
+  
+    
+      
+        
+          ∂
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \partial _{i}}
+   serves as a reminder that the basis vectors on the tangent space 
+  
+    
+      
+        T
+        M
+      
+    
+    {\displaystyle TM}
+   came from a gradient construction. Despite this, it is common to "forget" this construction, and just write (or rather, define) vectors 
+  
+    
+      
+        
+          e
+          
+            i
+          
+        
+      
+    
+    {\displaystyle e_{i}}
+   on 
+  
+    
+      
+        T
+        M
+      
+    
+    {\displaystyle TM}
+   such that 
+  
+    
+      
+        
+          e
+          
+            i
+          
+        
+        ≡
+        
+          ∂
+          
+            i
+          
+        
+      
+    
+    {\displaystyle e_{i}\equiv \partial _{i}}
+  . The full range of commonly used notation includes the use of arrows and boldface to denote vectors:
+
+  
+    
+      
+        
+          ∂
+          
+            i
+          
+        
+        ≡
+        
+          
+            ∂
+            
+              ∂
+              
+                x
+                
+                  i
+                
+              
+            
+          
+        
+        ≡
+        
+          e
+          
+            i
+          
+        
+        ≡
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            i
+          
+        
+        ≡
+        
+          
+            e
+          
+          
+            i
+          
+        
+        ≡
+        
+          
+            ∂
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \partial _{i}\equiv {\frac {\partial }{\partial x^{i}}}\equiv e_{i}\equiv {\vec {e}}_{i}\equiv \mathbf {e} _{i}\equiv {\boldsymbol {\partial }}_{i}}
+  where 
+  
+    
+      
+        ≡
+      
+    
+    {\displaystyle \equiv }
+   is used as a reminder that these are defined to be equivalent notation for the same concept. The choice of notation is according to style and taste, and varies from text to text.
+The coordinate basis provides a vector basis for vector fields on 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  . Commonly used notation for vector fields on 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   include 
+
+  
+    
+      
+        X
+        =
+        
+          
+            
+              X
+              →
+            
+          
+        
+        =
+        
+          X
+          
+            i
+          
+        
+        
+          ∂
+          
+            i
+          
+        
+        =
+        
+          X
+          
+            i
+          
+        
+        
+          
+            ∂
+            
+              ∂
+              
+                x
+                
+                  i
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle X={\vec {X}}=X^{i}\partial _{i}=X^{i}{\frac {\partial }{\partial x^{i}}}}
+  The upper-case 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  , without the vector-arrow, is particularly popular for index-free notation, because it both minimizes clutter and reminds that results are independent of the chosen basis, and, in this case, independent of the atlas. 
+The same abuse of notation is used to push forward one-forms from 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{n}}
+   to 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  . This is done by writing 
+  
+    
+      
+        (
+        
+          φ
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          φ
+          
+            n
+          
+        
+        )
+        =
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle (\varphi ^{1},\ldots ,\varphi ^{n})=(x^{1},\ldots ,x^{n})}
+   or 
+  
+    
+      
+        x
+        =
+        φ
+      
+    
+    {\displaystyle x=\varphi }
+   or 
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+        =
+        
+          φ
+          
+            i
+          
+        
+      
+    
+    {\displaystyle x^{i}=\varphi ^{i}}
+  . The one-form is then 
+  
+    
+      
+        d
+        
+          x
+          
+            i
+          
+        
+        =
+        d
+        
+          φ
+          
+            i
+          
+        
+      
+    
+    {\displaystyle dx^{i}=d\varphi ^{i}}
+  . This is soldered to the basis vectors as 
+  
+    
+      
+        d
+        
+          x
+          
+            i
+          
+        
+        (
+        
+          ∂
+          
+            j
+          
+        
+        )
+        =
+        
+          δ
+          
+            j
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle dx^{i}(\partial _{j})=\delta _{j}^{i}}
+  . Note the careful use of upper and lower indexes, to distinguish contravarient and covariant vectors.
+The pullback induces (defines) a metric tensor on 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  . Several styles of notation are commonly used:
+
+where both the centerdot and the angle-bracket 
+  
+    
+      
+        ⟨
+        ,
+        ⟩
+      
+    
+    {\displaystyle \langle ,\rangle }
+   denote the scalar product. The last form uses the tensor 
+  
+    
+      
+        
+          η
+          
+            a
+            b
+          
+        
+      
+    
+    {\displaystyle \eta _{ab}}
+  , which is understood to be the "flat-space" metric tensor. For Riemannian manifolds, it is the Kronecker delta 
+  
+    
+      
+        
+          η
+          
+            a
+            b
+          
+        
+        =
+        
+          δ
+          
+            a
+            b
+          
+        
+      
+    
+    {\displaystyle \eta _{ab}=\delta _{ab}}
+  . For pseudo-Riemannian manifolds, it is the diagonal matrix having signature 
+  
+    
+      
+        (
+        p
+        ,
+        q
+        )
+      
+    
+    {\displaystyle (p,q)}
+  . The notation 
+  
+    
+      
+        
+          e
+          
+            i
+          
+          
+            a
+          
+        
+      
+    
+    {\displaystyle e_{i}^{a}}
+   serves as a reminder that pullback really is a linear transform, given as the gradient, above. The index letters 
+  
+    
+      
+        a
+        ,
+        b
+        ,
+        c
+        ,
+        ⋯
+      
+    
+    {\displaystyle a,b,c,\cdots }
+   live in 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{n}}
+   while the index letters 
+  
+    
+      
+        i
+        ,
+        j
+        ,
+        k
+        ,
+        ⋯
+      
+    
+    {\displaystyle i,j,k,\cdots }
+   live in the tangent manifold.
+The matrix inverse 
+  
+    
+      
+        
+          g
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle g^{ij}}
+   of the metric tensor 
+  
+    
+      
+        
+          g
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle g_{ij}}
+   is given by
+
+This is used to define the dual basis:
+
+Some texts write 
+  
+    
+      
+        
+          
+            g
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \mathbf {g} _{i}}
+   for 
+  
+    
+      
+        
+          
+            e
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \mathbf {e} _{i}}
+  , so that the metric tensor takes the particularly beguiling form 
+  
+    
+      
+        
+          g
+          
+            i
+            j
+          
+        
+        =
+        
+          
+            g
+          
+          
+            i
+          
+        
+        ⋅
+        
+          
+            g
+          
+          
+            j
+          
+        
+      
+    
+    {\displaystyle g_{ij}=\mathbf {g} _{i}\cdot \mathbf {g} _{j}}
+  . This is commonly done so that the symbol 
+  
+    
+      
+        
+          e
+          
+            i
+          
+        
+      
+    
+    {\displaystyle e_{i}}
+   can be used unambiguously for the vierbein.
+
+Definition in Euclidean space
+In Euclidean space, the general definition given below for the Christoffel symbols of the second kind can be proven to be equivalent to:
+
+Christoffel symbols of the first kind can then be found via index lowering:
+
+Rearranging, we see that (assuming the partial derivative belongs to the tangent space, which cannot occur on a non-Euclidean curved space):
+
+In words, the arrays represented by the Christoffel symbols track how the basis changes from point to point. If the derivative does not lie on the tangent space, the right expression is the projection of the derivative over the tangent space (see covariant derivative below). Symbols of the second kind decompose the change with respect to the basis, while symbols of the first kind decompose it with respect to the dual basis. In this form, it is easy to see the symmetry of the lower or last two indices:
+ and 
+  
+    
+      
+        
+          Γ
+          
+            k
+            i
+            j
+          
+        
+        =
+        
+          Γ
+          
+            k
+            j
+            i
+          
+        
+        ,
+      
+    
+    {\displaystyle \Gamma _{kij}=\Gamma _{kji},}
+  
+from the definition of 
+  
+    
+      
+        
+          
+            e
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \mathbf {e} _{i}}
+   and the fact that partial derivatives commute (as long as the manifold and coordinate system are well behaved).
+The same numerical values for Christoffel symbols of the second kind also relate to derivatives of the dual basis, as seen in the expression:
+
+which we can rearrange as:
+
+General definition
+The Christoffel symbols come in two forms: the first kind, and the second kind. The definition of the second kind is more basic, and thus is presented first.
+
+Christoffel symbols of the second kind (symmetric definition)
+The Christoffel symbols of the second kind are the connection coefficients—in a coordinate basis—of the Levi-Civita connection.
+In other words, the Christoffel symbols of the second kind Γkij (sometimes Γkij or {kij}) are defined as the unique coefficients such that
+
+where ∇i is the Levi-Civita connection on M taken in the coordinate direction ei (i.e., ∇i ≡ ∇ei) and where ei = ∂i is a local coordinate (holonomic) basis. Since this connection has zero torsion, and holonomic vector fields commute (i.e. 
+  
+    
+      
+        [
+        
+          e
+          
+            i
+          
+        
+        ,
+        
+          e
+          
+            j
+          
+        
+        ]
+        =
+        [
+        
+          ∂
+          
+            i
+          
+        
+        ,
+        
+          ∂
+          
+            j
+          
+        
+        ]
+        =
+        0
+      
+    
+    {\displaystyle [e_{i},e_{j}]=[\partial _{i},\partial _{j}]=0}
+  ) we have
+
+Hence in this basis the connection coefficients are symmetric:
+For this reason, a torsion-free connection is often called symmetric.
+The Christoffel symbols can be derived from the vanishing of the covariant derivative of the metric tensor gik:
+
+As a shorthand notation, the nabla symbol and the partial derivative symbols are frequently dropped, and instead a semicolon and a comma are used to set off the index that is being used for the derivative.  Thus, the above is sometimes written as
+
+Using that the symbols are symmetric in the lower two indices, one can solve explicitly for the Christoffel symbols as a function of the metric tensor by permuting the indices and resumming:
+where (gjk) is the inverse of the matrix (gjk), defined as (using the Kronecker delta, and Einstein notation for summation) gjigik = δ jk. Although the Christoffel symbols are written in the same notation as tensors with index notation, they do not transform like tensors under a change of coordinates.
+
+Contraction of indices
+Contracting the upper index with either of the lower indices (those being symmetric) leads to
+
+where 
+  
+    
+      
+        g
+        =
+        det
+        
+          g
+          
+            i
+            k
+          
+        
+      
+    
+    {\displaystyle g=\det g_{ik}}
+   is the determinant of the metric tensor. This identity can be used to evaluate divergence of vectors.
+
+Christoffel symbols of the first kind
+The Christoffel symbols of the first kind can be derived either from the Christoffel symbols of the second kind and the metric,
+or from the metric alone,
+As an alternative notation one also finds
+It is worth noting that [ab, c] = [ba, c].
+
+Connection coefficients in a nonholonomic basis
+The Christoffel symbols are most typically defined in a coordinate basis, which is the convention followed here. In other words, the name Christoffel symbols is reserved only for coordinate (i.e., holonomic) frames. However, the connection coefficients can also be defined in an arbitrary (i.e., nonholonomic) basis of tangent vectors ui by
+
+Explicitly, in terms of the metric tensor, this is
+where cklm = gmpcklp are the commutation coefficients of the basis; that is,
+
+where uk are the basis vectors and [ , ] is the Lie bracket. The standard unit vectors in spherical and cylindrical coordinates furnish an example of a basis with non-vanishing commutation coefficients. The difference between the connection in such a frame, and the Levi-Civita connection is known as the contorsion tensor.
+
+Ricci rotation coefficients (asymmetric definition)
+When we choose the basis Xi ≡ ui orthonormal: gab ≡ ηab = ⟨Xa, Xb⟩ then gmk,l ≡ ηmk,l = 0. This implies that
+
+and the connection coefficients become antisymmetric in the first two indices:
+
+where
+
+In this case, the connection coefficients ωabc are called the Ricci rotation coefficients.Equivalently, one can define Ricci rotation coefficients as follows:
+where ui is an orthonormal nonholonomic basis and uk = ηklul its co-basis.
+
+Transformation law under change of variable
+Under a change of variable from 
+  
+    
+      
+        
+          (
+          
+            
+              x
+              
+                1
+              
+            
+            ,
+            
+            …
+            ,
+            
+            
+              x
+              
+                n
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \left(x^{1},\,\ldots ,\,x^{n}\right)}
+   to 
+  
+    
+      
+        
+          (
+          
+            
+              
+                
+                  
+                    x
+                    ¯
+                  
+                
+              
+              
+                1
+              
+            
+            ,
+            
+            …
+            ,
+            
+            
+              
+                
+                  
+                    x
+                    ¯
+                  
+                
+              
+              
+                n
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \left({\bar {x}}^{1},\,\ldots ,\,{\bar {x}}^{n}\right)}
+  , Christoffel symbols transform as
+
+where the overline denotes the Christoffel symbols in the 
+  
+    
+      
+        
+          
+            
+              
+                x
+                ¯
+              
+            
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle {\bar {x}}^{i}}
+   coordinate system. The Christoffel symbol does not transform as a tensor, but rather as an object in the jet bundle. More precisely, the Christoffel symbols can be considered as functions on the jet bundle of the frame bundle of M, independent of any local coordinate system. Choosing a local coordinate system determines a local section of this bundle, which can then be used to pull back the Christoffel symbols to functions on M, though of course these functions then depend on the choice of local coordinate system.
+For each point, there exist coordinate systems in which the Christoffel symbols vanish at the point.  These are called (geodesic) normal coordinates, and are often used in Riemannian geometry.
+There are some interesting properties which can be derived directly from the transformation law.
+
+For linear transformation, the inhomogeneous part of the transformation (second term on the right-hand side) vanishes identically and then 
+  
+    
+      
+        
+          
+            
+              Γ
+              
+                i
+              
+            
+          
+          
+            j
+            k
+          
+        
+      
+    
+    {\displaystyle {\Gamma ^{i}}_{jk}}
+   behaves like a tensor.
+If we have two fields of connections, say 
+  
+    
+      
+        
+          
+            
+              Γ
+              
+                i
+              
+            
+          
+          
+            j
+            k
+          
+        
+      
+    
+    {\displaystyle {\Gamma ^{i}}_{jk}}
+   and 
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    Γ
+                    ~
+                  
+                
+              
+              
+                i
+              
+            
+          
+          
+            j
+            k
+          
+        
+      
+    
+    {\displaystyle {{\tilde {\Gamma }}^{i}}_{jk}}
+  , then their difference 
+  
+    
+      
+        
+          
+            
+              Γ
+              
+                i
+              
+            
+          
+          
+            j
+            k
+          
+        
+        −
+        
+          
+            
+              
+                
+                  
+                    Γ
+                    ~
+                  
+                
+              
+              
+                i
+              
+            
+          
+          
+            j
+            k
+          
+        
+      
+    
+    {\displaystyle {\Gamma ^{i}}_{jk}-{{\tilde {\Gamma }}^{i}}_{jk}}
+   is a tensor since the inhomogeneous terms cancel each other. The inhomogeneous terms depend only on how the coordinates are changed, but are independent of Christoffel symbol itself.
+If the Christoffel symbol is unsymmetric about its lower indices in one coordinate system i.e., 
+  
+    
+      
+        
+          
+            
+              Γ
+              
+                i
+              
+            
+          
+          
+            j
+            k
+          
+        
+        ≠
+        
+          
+            
+              Γ
+              
+                i
+              
+            
+          
+          
+            k
+            j
+          
+        
+      
+    
+    {\displaystyle {\Gamma ^{i}}_{jk}\neq {\Gamma ^{i}}_{kj}}
+  , then they remain unsymmetric under any change of coordinates. A corollary to this property is that it is impossible to find a coordinate system in which all elements of Christoffel symbol are zero at a point, unless lower indices are symmetric. This property was pointed out by Albert Einstein and Erwin Schrödinger independently.
+
+Relationship to parallel transport and derivation of Christoffel symbols in Riemannian space
+If a vector 
+  
+    
+      
+        
+          ξ
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \xi ^{i}}
+   is transported parallel on a curve parametrized by some parameter 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   on a Riemannian manifold, the rate of change of the components of the vector is given by
+
+Now just by using the condition that the scalar product 
+  
+    
+      
+        
+          g
+          
+            i
+            k
+          
+        
+        
+          ξ
+          
+            i
+          
+        
+        
+          η
+          
+            k
+          
+        
+      
+    
+    {\displaystyle g_{ik}\xi ^{i}\eta ^{k}}
+   formed by two arbitrary vectors 
+  
+    
+      
+        
+          ξ
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \xi ^{i}}
+   and 
+  
+    
+      
+        
+          η
+          
+            k
+          
+        
+      
+    
+    {\displaystyle \eta ^{k}}
+   is unchanged is enough to derive the Christoffel symbols. The condition is
+
+which by the product rule expands to
+
+Applying the parallel transport rule for the two arbitrary vectors and relabelling dummy indices and collecting the coefficients of 
+  
+    
+      
+        
+          ξ
+          
+            i
+          
+        
+        
+          η
+          
+            k
+          
+        
+        d
+        
+          x
+          
+            l
+          
+        
+      
+    
+    {\displaystyle \xi ^{i}\eta ^{k}dx^{l}}
+   (arbitrary), we obtain
+
+This is same as the equation obtained by requiring the covariant derivative of the metric tensor to vanish in the General definition section. The derivation from here is simple. By cyclically permuting the indices 
+  
+    
+      
+        i
+        k
+        l
+      
+    
+    {\displaystyle ikl}
+   in above equation, we can obtain two more equations and then linearly combining these three equations, we can express 
+  
+    
+      
+        
+          
+            
+              Γ
+              
+                i
+              
+            
+          
+          
+            j
+            k
+          
+        
+      
+    
+    {\displaystyle {\Gamma ^{i}}_{jk}}
+   in terms of metric tensor.
+
+Relationship to index-free notation
+Let X and Y be vector fields with components Xi and Yk. Then the kth component of the covariant derivative of Y with respect to X is given by
+
+Here, the Einstein notation is used, so repeated indices indicate summation over indices and contraction with the metric tensor serves to raise and lower indices:
+
+Keep in mind that gik ≠ gik and that gik = δ ik, the Kronecker delta. The convention is that the metric tensor is the one with the lower indices; the correct way to obtain gik from gik is to solve the linear equations gijgjk = δ ik.
+The statement that the connection is torsion-free, namely that
+
+is equivalent to the statement that—in a coordinate basis—the Christoffel symbol is symmetric in the lower two indices:
+
+The index-less transformation properties of a tensor are given by pullbacks for covariant indices, and pushforwards for contravariant indices. The article on covariant derivatives provides additional discussion of the correspondence between index-free notation and indexed notation.
+
+Covariant derivatives of tensors
+The covariant derivative of a contravariant vector field with components Vm is
+
+By corollary, divergence of a vector can be obtained as
+
+The covariant derivative of a covector field ωm is
+
+The symmetry of the Christoffel symbol now implies
+
+for any scalar field, but in general the covariant derivatives of higher order tensor fields do not commute (see curvature tensor).
+The covariant derivative of a type (2, 0) tensor field Aik is
+
+that is,
+
+If the tensor field is mixed then its covariant derivative is
+
+and if the tensor field is of type (0, 2) then its covariant derivative is
+
+Contravariant derivatives of tensors
+To find the contravariant derivative of a vector field, we must first transform it into a covariant derivative using the metric tensor
+
+Applications
+In general relativity
+The Christoffel symbols find frequent use in Einstein's theory of general relativity, where spacetime is represented by a curved 4-dimensional Lorentz manifold with a Levi-Civita connection. The Einstein field equations—which determine the geometry of spacetime in the presence of matter—contain the Ricci tensor, and so calculating the Christoffel symbols is essential. Once the geometry is determined, the paths of particles and light beams are calculated by solving the geodesic equations in which the Christoffel symbols explicitly appear.
+
+In classical (non-relativistic) mechanics
+Let 
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+      
+    
+    {\displaystyle x^{i}}
+   be the generalized coordinates and 
+  
+    
+      
+        
+          
+            
+              
+                x
+                ˙
+              
+            
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle {\dot {x}}^{i}}
+   be the generalized velocities, then the kinetic energy for a unit mass is given by 
+  
+    
+      
+        T
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+          g
+          
+            i
+            k
+          
+        
+        
+          
+            
+              
+                x
+                ˙
+              
+            
+          
+          
+            i
+          
+        
+        
+          
+            
+              
+                x
+                ˙
+              
+            
+          
+          
+            k
+          
+        
+      
+    
+    {\displaystyle T={\tfrac {1}{2}}g_{ik}{\dot {x}}^{i}{\dot {x}}^{k}}
+  , where 
+  
+    
+      
+        
+          g
+          
+            i
+            k
+          
+        
+      
+    
+    {\displaystyle g_{ik}}
+   is the metric tensor. If 
+  
+    
+      
+        V
+        
+          (
+          
+            x
+            
+              i
+            
+          
+          )
+        
+      
+    
+    {\displaystyle V\left(x^{i}\right)}
+  , the potential function, exists then the contravariant components of the generalized force per unit mass are 
+  
+    
+      
+        
+          F
+          
+            i
+          
+        
+        =
+        ∂
+        V
+        
+          /
+        
+        ∂
+        
+          x
+          
+            i
+          
+        
+      
+    
+    {\displaystyle F_{i}=\partial V/\partial x^{i}}
+  . The metric (here in a purely spatial domain) can be obtained from the line element 
+  
+    
+      
+        d
+        
+          s
+          
+            2
+          
+        
+        =
+        2
+        T
+        d
+        
+          t
+          
+            2
+          
+        
+      
+    
+    {\displaystyle ds^{2}=2Tdt^{2}}
+  . Substituting the Lagrangian 
+  
+    
+      
+        L
+        =
+        T
+        −
+        V
+      
+    
+    {\displaystyle L=T-V}
+   into the Euler-Lagrange equation, we get
+Now multiplying by 
+  
+    
+      
+        
+          g
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle g^{ij}}
+  , we get
+
+When Cartesian coordinates can be adopted (as in inertial frames of reference), we have an Euclidean metrics, the Christoffel symbol vanishes, and the equation reduces to Newton's second law of motion. In curvilinear coordinates (forcedly in non-inertial frames, where the metrics is non-Euclidean and not flat), fictitious forces like the Centrifugal force and Coriolis force originate from the Christoffel symbols, so from the purely spatial curvilinear coordinates.
+
+In Earth surface coordinates
+Given a spherical coordinate system, which describes points on the Earth surface (approximated as an ideal sphere).
+
+For a point x, R is the distance to the Earth core (usually approximately the Earth radius). θ and φ are the latitude and longitude. Positive θ is the northern hemisphere. To simplify the derivatives, the angles are given in radians (where d sin(x)/dx = cos(x), the degree values introduce an additional factor of 360 / 2 pi).
+At any location, the tangent directions are 
+  
+    
+      
+        
+          e
+          
+            R
+          
+        
+      
+    
+    {\displaystyle e_{R}}
+   (up), 
+  
+    
+      
+        
+          e
+          
+            θ
+          
+        
+      
+    
+    {\displaystyle e_{\theta }}
+   (north) and 
+  
+    
+      
+        
+          e
+          
+            φ
+          
+        
+      
+    
+    {\displaystyle e_{\varphi }}
+   (east) - you can also use indices 1,2,3.
+
+The related metric tensor has only diagonal elements (the squared vector lengths). This is an advantage of the coordinate system and not generally true.
+
+Now the necessary quantities can be calculated. Examples:
+
+The resulting Christoffel symbols of the second kind 
+  
+    
+      
+        
+          
+            
+              Γ
+              
+                k
+              
+            
+          
+          
+            j
+            i
+          
+        
+        =
+        
+          e
+          
+            k
+          
+        
+        ⋅
+        
+          
+            
+              ∂
+              
+                e
+                
+                  j
+                
+              
+            
+            
+              ∂
+              
+                x
+                
+                  i
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\Gamma ^{k}}_{ji}=e^{k}\cdot {\frac {\partial e_{j}}{\partial x^{i}}}}
+   then are (organized by the "derivative" index i in a matrix):
+
+These values show how the tangent directions (columns: 
+  
+    
+      
+        
+          e
+          
+            R
+          
+        
+      
+    
+    {\displaystyle e_{R}}
+  , 
+  
+    
+      
+        
+          e
+          
+            θ
+          
+        
+      
+    
+    {\displaystyle e_{\theta }}
+  , 
+  
+    
+      
+        
+          e
+          
+            φ
+          
+        
+      
+    
+    {\displaystyle e_{\varphi }}
+  ) change, seen from an outside perspective (e.g. from space), but given in the tangent directions of the actual location (rows: R, θ, φ).
+As an example, take the nonzero derivatives by θ in 
+  
+    
+      
+        
+          
+            
+              Γ
+              
+                k
+              
+            
+          
+          
+            j
+             
+            θ
+          
+        
+      
+    
+    {\displaystyle {\Gamma ^{k}}_{j\ \theta }}
+  , which corresponds to a movement towards north (positive dθ):
+
+The new north direction 
+  
+    
+      
+        
+          e
+          
+            θ
+          
+        
+      
+    
+    {\displaystyle e_{\theta }}
+   changes by -R dθ in the up (R) direction. So the north direction will rotate downwards towards the center of the Earth.
+Similarly, the up direction 
+  
+    
+      
+        
+          e
+          
+            R
+          
+        
+      
+    
+    {\displaystyle e_{R}}
+   will be adjusted towards the north. The different lengths of 
+  
+    
+      
+        
+          e
+          
+            R
+          
+        
+      
+    
+    {\displaystyle e_{R}}
+   and 
+  
+    
+      
+        
+          e
+          
+            θ
+          
+        
+      
+    
+    {\displaystyle e_{\theta }}
+   lead to a factor of 1/R .
+Moving north, the east tangent vector 
+  
+    
+      
+        
+          e
+          
+            φ
+          
+        
+      
+    
+    {\displaystyle e_{\varphi }}
+   changes its length (-tan(θ) on the diagonal), it will shrink (-tan(θ) dθ < 0) on the northern hemisphere, and increase (-tan(θ) dθ > 0) on the southern hemisphere.These effects are maybe not apparent during the movement, because they are the adjustments that keep the measurements in the coordinates R, θ, φ. Nevertheless, it can affect distances, physics equations, etc. So if e.g. you need the exact change of a magnetic field pointing approximately "south", it can be necessary to also correct your measurement by the change of the north direction using the Christoffel symbols to get the "true" (tensor) value.
+The Christoffel symbols of the first kind 
+  
+    
+      
+        
+          
+            
+              Γ
+              
+                l
+              
+            
+          
+          
+            j
+            i
+          
+        
+        =
+        
+          g
+          
+            l
+            k
+          
+        
+        
+          
+            
+              Γ
+              
+                k
+              
+            
+          
+          
+            j
+            i
+          
+        
+      
+    
+    {\displaystyle {\Gamma _{l}}_{ji}=g_{lk}{\Gamma ^{k}}_{ji}}
+   show the same change using metric-corrected coordinates, e.g. for derivative by φ:
+
+See also
+Basic introduction to the mathematics of curved spacetime
+Differentiable manifold
+List of formulas in Riemannian geometry
+Ricci calculus
+Riemann–Christoffel tensor
+Gauss–Codazzi equations
+Example computation of Christoffel symbols
+
+Notes
+References
+Abraham, Ralph; Marsden, Jerrold E. (1978), Foundations of Mechanics, London: Benjamin/Cummings Publishing, pp. See chapter 2, paragraph 2.7.1, ISBN 0-8053-0102-X
+Adler, Ronald; Bazin, Maurice; Schiffer, Menahem (1965), Introduction to General Relativity (First ed.), McGraw-Hill Book Company
+Bishop, R.L.; Goldberg, S.I. (1968), Tensor Analysis on Manifolds (First Dover 1980 ed.), The Macmillan Company, ISBN 0-486-64039-6
+Choquet-Bruhat, Yvonne; DeWitt-Morette, Cécile (1977), Analysis, Manifolds and Physics, Amsterdam: Elsevier, ISBN 978-0-7204-0494-4
+Landau, Lev Davidovich; Lifshitz, Evgeny Mikhailovich (1951), The Classical Theory of Fields, Course of Theoretical Physics, vol. 2 (Fourth Revised English ed.), Oxford: Pergamon Press, pp. See chapter 10, paragraphs 85, 86 and 87, ISBN 0-08-025072-6
+Kreyszig, Erwin (1991), Differential Geometry, Dover Publications, ISBN 978-0-486-66721-8
+Misner, Charles W.; Thorne, Kip S.; Wheeler, John Archibald (1970), Gravitation, New York: W.H. Freeman, pp. See chapter 8, paragraph 8.5, ISBN 0-7167-0344-0
+Ludvigsen, Malcolm (1999), General Relativity: A Geometrical Approach, Cambridge University Press, ISBN 0-521-63019-3
+Spivak, Michael (1999), A Comprehensive introduction to differential geometry, vol. 2, Publish or Perish, ISBN 0-914098-71-3
+Chatterjee, U.; Chatterjee, N. (2010). Vector & Tensor Analysis. Academic Publishers. ISBN 978-93-8059-905-2.
+Struik, D.J. (1961). Lectures on Classical Differential Geometry (first published in 1988 Dover ed.). Dover. ISBN 0-486-65609-8.
+P.Grinfeld (2014). Introduction to Tensor Analysis and the Calculus of Moving Surfaces. Springer. ISBN 978-1-4614-7866-9.
+"Several Tensor Equations Shown In Full". www.tero.co.uk. Retrieved 2023-01-01.

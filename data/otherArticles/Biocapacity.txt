@@ -1,0 +1,34 @@
+The biocapacity or biological capacity of an ecosystem is an estimate of its production of certain biological materials such as natural resources, and its absorption and filtering of other materials such as carbon dioxide from the atmosphere.Biocapacity is used together with ecological footprint as a method of measuring human impact on the environment. Biocapacity and ecological footprint are tools created by the Global Footprint Network, used in sustainability studies around the world.
+Biocapacity is expressed in terms of global hectares per person, thus is dependent on human population. A global hectare is an adjusted unit that represents the average biological productivity of all productive hectares on Earth in a given year (because not all hectares produce the same amount of ecosystem services). Biocapacity is calculated from United Nations population and land use data, and may be reported at various regional levels, such as a city, a country, or the world as a whole.
+For example, there were roughly 12.2 billion hectares of biologically productive land and water areas on this planet in 2016. Dividing by the number of people alive in that year, 7.4 billion, gives a biocapacity for the Earth of 1.6 global hectares per person. These 1.6 global hectares includes the areas for wild species that compete with people for space.
+
+Applications of biocapacity
+An increase in global population can result in a decrease in biocapacity.  This is usually due to the fact that the Earth's resources have to be shared; therefore, there becomes little to supply the increasing demand of the increasing population. Currently, this issue can be resolved by outsourcing. However, resources will run out due to the increasing demands and as a result a collapse of an ecosystem can be the consequence of such actions. When the ecological footprint becomes greater than the biocapacity of the population, a biocapacity deficit is suspected.
+'Global biocapacity' is a term sometimes used to describe the total capacity of an ecosystem to support various continuous activity and changes.  When the ecological footprint of a population exceeds the biocapacity of the environment it lives in, this is called an 'biocapacity deficit'. Such a deficit comes from three sources: overusing one's own ecosystems ("overshoot"), net imports, or use of the global commons. Latest data from Global Footprint Network suggests that humanity was using an equivalence of 1.7 Earths in 2016.  The dominant factor of global ecological overshoot comes from carbon dioxide emissions stemming from fossil fuel burning. Additional stresses of greenhouse gases, climate change, and ocean acidification can also aggravate the problem. 
+In reference to the definition of biocapacity: 1.7 Earths means the renewable resources are being liquidated because they are being consumed faster than the resources can regenerate. Therefore, it will take one year and eight months for the resources humanity uses in one year to be able to regenerate again, including absorbing all the waste we generate. So instead of taking one year's worth of resources per year, we are yearly consuming resources that should last us one year and eight months.
+In addition, if this matter becomes severe, an ecological reserve will be set on areas to preserve their ecosystems. Awareness about our depleting resources include: agricultural land, forest resources and rangeland. Biocapacity used in correlation to ecological footprint can therefore suggest whether a specific population, region, country or part of a world is living in the means of their capital. Accordingly, the study of biocapacity and ecological footprint is known as the Ecological Footprint Analysis (EFA).Biocapacity is also affected by the technology used during the year. With new technologies emerging, it is not clear whether the technology in that year is good or bad but the technology does impact resource supply and demand, which in turn affects biocapacity. Hence what is considered “useful” can change from year to year (e.g. use of corn (maize) stover for cellulosic ethanol production would result in corn stover becoming a useful material, and thus increase the biocapacity of maize cropland).
+Moreover, environmentalists have created ecological footprint calculators for a single person(s) to determine whether they are encompassing more than what is available for them in their population. Consequently, biocapacity results will be applied to their ecological footprint to determine how much they may contribute or take away from sustainable development.
+In general, biocapacity is the amount of resources available to people at a specific moment in time to a specific population (supply) and to differentiate between ecological footprint – which is the environmental demand of a regional ecosystem. Biocapacity is able to determine the human impacts on Earth. By determining productivity of land (i.e. the resources available for human consumption), biocapacity will be able to predict and perhaps examine the effects on the ecosystems closely based on collected results of human consumption.  The biocapacity of an area is calculated by multiplying the actual physical area by the yield factor with the appropriate equivalence factor. Biocapacity is usually expressed in global hectares (gha). Since global hectares is able to convert human consumptions like food and water into a measurement, biocapacity can be applied to determine the carrying capacity of the Earth. Likewise, because an economy is tied to various production factors such as natural resources, biocapacity can also be applied to determine human capital.
+
+See also
+List of countries by ecological footprint
+Global Footprint Network
+Global Hectare
+Human population
+Carrying Capacity
+Ecological reserve
+Sustainable Development
+Ecological Footprint
+World Energy Consumption
+
+References
+Other resources
+Videos
+
+Finding Australia’s biocapacity Dr Mathis Wackernagel explains biocapacity and how it’s calculated.
+Ecological Balance Sheets for 180+ Countries Global Footprint NetworkPeer-reviewed Articles
+
+The importance of resource security for poverty eradication;
+Defying the Footprint Oracle: Implications of Country Resource TrendsData
+
+Results from the National Footprint and Biocapacity Accounts

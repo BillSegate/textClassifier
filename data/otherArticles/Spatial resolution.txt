@@ -1,0 +1,10 @@
+In physics and geosciences, the term spatial resolution refers to distance between independent measurements, or the physical dimension that represents a pixel of the image.  While in some instruments, like cameras and telescopes, spatial resolution is directly connected to angular resolution, other instruments, like synthetic aperture radar or a network of weather stations, produce data whose spatial sampling layout is more related to the Earth's surface, such as in remote sensing and satellite imagery.
+
+See also
+Image resolution
+Ground sample distance
+Level of detail
+Resel
+
+
+== References ==

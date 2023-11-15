@@ -1,0 +1,155 @@
+In mathematics, the random Fibonacci sequence is a stochastic analogue of the Fibonacci sequence defined by the recurrence relation 
+  
+    
+      
+        
+          f
+          
+            n
+          
+        
+        =
+        
+          f
+          
+            n
+            −
+            1
+          
+        
+        ±
+        
+          f
+          
+            n
+            −
+            2
+          
+        
+      
+    
+    {\displaystyle f_{n}=f_{n-1}\pm f_{n-2}}
+  , where the signs + or − are chosen at random with equal probability 
+  
+    
+      
+        
+          
+            
+              1
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {1}{2}}}
+  , independently for different 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  . By a theorem of Harry Kesten and Hillel Furstenberg, random recurrent sequences of this kind grow at a certain exponential rate, but it is difficult to compute the rate explicitly. In 1999, Divakar Viswanath showed that the growth rate of the random Fibonacci sequence is equal to 1.1319882487943... (sequence A078416 in the OEIS), a mathematical constant that was later named Viswanath's constant.
+
+Description
+A random Fibonacci sequence is an integer random sequence given by the numbers 
+  
+    
+      
+        
+          f
+          
+            n
+          
+        
+      
+    
+    {\displaystyle f_{n}}
+   for natural numbers 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  , where 
+  
+    
+      
+        
+          f
+          
+            1
+          
+        
+        =
+        
+          f
+          
+            2
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle f_{1}=f_{2}=1}
+   and the subsequent terms are chosen randomly according to the random recurrence relation
+
+An instance of the random Fibonacci sequence starts with 1,1 and the value of the each subsequent term is determined by a fair coin toss: given two consecutive elements of the sequence, the next element is either their sum or their difference with probability 1/2, independently of all the choices made previously. If in the random Fibonacci sequence the plus sign is chosen at each step, the corresponding instance is the Fibonacci sequence (Fn),
+
+If the signs alternate in minus-plus-plus-minus-plus-plus-... pattern, the result is the sequence
+
+However, such patterns occur with vanishing probability in a random experiment. In a typical run, the terms will not follow a predictable pattern:
+
+Similarly to the deterministic case, the random Fibonacci sequence may be profitably described via matrices:
+
+where the signs are chosen independently for different n with equal probabilities for + or −. Thus
+
+where (Mk) is a sequence of independent identically distributed random matrices taking values A or B with probability 1/2:
+
+Growth rate
+Johannes Kepler discovered that as n increases, the ratio of the successive terms of the Fibonacci sequence (Fn) approaches the golden ratio 
+  
+    
+      
+        φ
+        =
+        (
+        1
+        +
+        
+          
+            5
+          
+        
+        )
+        
+          /
+        
+        2
+        ,
+      
+    
+    {\displaystyle \varphi =(1+{\sqrt {5}})/2,}
+   which is approximately 1.61803. In 1765, Leonhard Euler published an explicit formula, known today as the Binet formula,
+
+It demonstrates that the Fibonacci numbers grow at an exponential rate equal to the golden ratio φ.
+In 1960, Hillel Furstenberg and Harry Kesten showed that for a general class of random matrix products, the norm grows as λn, where n is the number of factors. Their results apply to a broad class of random sequence generating processes that includes the random Fibonacci sequence. As a consequence, the nth root of |fn| converges to a constant value almost surely, or with probability one:
+
+An explicit expression for this constant was found by Divakar Viswanath in 1999. It uses Furstenberg's formula for the Lyapunov exponent of a random matrix product and integration over a certain fractal measure on the Stern–Brocot tree. Moreover, Viswanath computed the numerical value above using floating point arithmetic validated by an analysis of the rounding error.
+
+Generalization
+Mark Embree and Nick Trefethen showed in 1999 that the sequence
+
+decays almost surely if β is less than a critical value β* ≈ 0.70258, known as the Embree–Trefethen constant, and otherwise grows almost surely. They also showed that the asymptotic ratio σ(β) between consecutive terms converges almost surely for every value of β. The graph of σ(β) appears to have a fractal structure, with a global minimum near βmin ≈ 0.36747 approximately equal to σ(βmin) ≈ 0.89517.
+
+References
+External links
+Weisstein, Eric W. "Random Fibonacci Sequence". MathWorld.
+OEIS sequence A078416 (Decimal expansion of Viswanath's constant)
+Random Fibonacci Numbers.  Numberphile's video about the random Fibonnaci sequence.

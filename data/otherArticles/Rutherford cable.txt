@@ -1,0 +1,9 @@
+A Rutherford cable is a way of forming a superconducting electrical cable, often used to generate magnetic fields in particle accelerators. The superconducting strands are arranged as a many-stranded helix that has been flattened into a rectangular cable. It can typically only be applied to flexible superconductors that can be drawn into wire such as the niobium-based superconductors used in the Large Hadron Collider. The cable is named after the Rutherford Laboratory where the cable design was developed.
+
+References
+Seidel, P. (2015). Applied Superconductivity: Handbook on Devices and Applications. Encyclopedia of Applied Physics. Wiley. p. 495. ISBN 978-3-527-41209-9. Retrieved September 5, 2017.
+Schilders, W.H.; Maten, E.J.W.; Houben, S.H.M.J. (2013). Scientific Computing in Electrical Engineering: Proceedings of the SCEE-2002 Conference held in Eindhoven. Mathematics in Industry. Springer Berlin Heidelberg. p. 174. ISBN 978-3-642-55872-6. Retrieved September 5, 2017.
+Koshizuka, N.; Tajima, S. (2013). Advances in Superconductivity XI: Proceedings of the 11th International Symposium on Superconductivity (ISS '98), November 16–19, 1998, Fukuoka. Springer Japan. p. 1380. ISBN 978-4-431-66874-9. Retrieved September 5, 2017.
+
+External links
+[1]

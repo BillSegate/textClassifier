@@ -1,0 +1,14 @@
+In mathematics, the tombstone, halmos, end-of-proof, or Q.E.D. symbol "∎" (or "□") is a symbol used to denote the end of a proof, in place of the traditional abbreviation "Q.E.D."  for the Latin phrase "quod erat demonstrandum". It is inspired by the typographic practice of end marks, an element that marks the end of an article.In Unicode, it is represented as character U+220E ∎ END OF PROOF. Its graphic form varies, as it may be a hollow or filled rectangle or square.
+In AMS-LaTeX, the symbol is automatically appended at the end of a proof environment \begin{proof} ... \end{proof}. It can also be obtained from the commands \qedsymbol, \qedhere or \qed (the latter causes the symbol to be right aligned).It is sometimes called a "Halmos finality symbol" or "halmos" after the mathematician Paul Halmos, who first used it in a mathematical context in 1950. He got the idea of using it from seeing end marks in magazines, that is, typographic signs that indicate the end of an article. In his memoir I Want to Be a Mathematician, he wrote the following:
+The symbol is definitely not my invention — it appeared in popular magazines (not mathematical ones) before I adopted it, but, once again, I seem to have introduced it into mathematics. It is the symbol that sometimes looks like ▯, and is used to indicate an end, usually the end of a proof. It is most frequently called the 'tombstone', but at least one generous author referred to it as the 'halmos'.
+
+See also
+-30-
+Block Elements
+End-of-file
+End-of-Transmission character
+Therefore sign (∴)
+
+Notes
+References
+Miller, Jeff (September 29, 2007), Earliest Uses of Symbols of Set Theory and Logic, retrieved June 26, 2010

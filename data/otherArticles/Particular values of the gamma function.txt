@@ -1,0 +1,3668 @@
+The gamma function is an important special function in mathematics. Its particular values can be expressed in closed form for integer and half-integer arguments, but no simple expressions are known for the values at rational points in general. Other fractional arguments can be approximated through efficient infinite products, infinite series, and recurrence relations.
+
+Integers and half-integers
+For positive integer arguments, the gamma function coincides with the factorial. That is,
+
+  
+    
+      
+        Γ
+        (
+        n
+        )
+        =
+        (
+        n
+        −
+        1
+        )
+        !
+        ,
+      
+    
+    {\displaystyle \Gamma (n)=(n-1)!,}
+  and hence
+
+  
+    
+      
+        
+          
+            
+              
+                Γ
+                (
+                1
+                )
+              
+              
+                
+                =
+                1
+                ,
+              
+            
+            
+              
+                Γ
+                (
+                2
+                )
+              
+              
+                
+                =
+                1
+                ,
+              
+            
+            
+              
+                Γ
+                (
+                3
+                )
+              
+              
+                
+                =
+                2
+                ,
+              
+            
+            
+              
+                Γ
+                (
+                4
+                )
+              
+              
+                
+                =
+                6
+                ,
+              
+            
+            
+              
+                Γ
+                (
+                5
+                )
+              
+              
+                
+                =
+                24
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\Gamma (1)&=1,\\\Gamma (2)&=1,\\\Gamma (3)&=2,\\\Gamma (4)&=6,\\\Gamma (5)&=24,\end{aligned}}}
+  and so on. For non-positive integers, the gamma function is not defined.
+For positive half-integers, the function values are given exactly by
+
+  
+    
+      
+        Γ
+        
+          (
+          
+            
+              
+                n
+                2
+              
+            
+          
+          )
+        
+        =
+        
+          
+            π
+          
+        
+        
+          
+            
+              (
+              n
+              −
+              2
+              )
+              !
+              !
+            
+            
+              2
+              
+                
+                  
+                    n
+                    −
+                    1
+                  
+                  2
+                
+              
+            
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle \Gamma \left({\tfrac {n}{2}}\right)={\sqrt {\pi }}{\frac {(n-2)!!}{2^{\frac {n-1}{2}}}}\,,}
+  or equivalently, for non-negative integer values of n:
+
+  
+    
+      
+        
+          
+            
+              
+                Γ
+                
+                  (
+                  
+                    
+                      
+                        
+                          1
+                          2
+                        
+                      
+                    
+                    +
+                    n
+                  
+                  )
+                
+              
+              
+                
+                =
+                
+                  
+                    
+                      (
+                      2
+                      n
+                      −
+                      1
+                      )
+                      !
+                      !
+                    
+                    
+                      2
+                      
+                        n
+                      
+                    
+                  
+                
+                
+                
+                  
+                    π
+                  
+                
+                =
+                
+                  
+                    
+                      (
+                      2
+                      n
+                      )
+                      !
+                    
+                    
+                      
+                        4
+                        
+                          n
+                        
+                      
+                      n
+                      !
+                    
+                  
+                
+                
+                  
+                    π
+                  
+                
+              
+            
+            
+              
+                Γ
+                
+                  (
+                  
+                    
+                      
+                        
+                          1
+                          2
+                        
+                      
+                    
+                    −
+                    n
+                  
+                  )
+                
+              
+              
+                
+                =
+                
+                  
+                    
+                      (
+                      −
+                      2
+                      
+                        )
+                        
+                          n
+                        
+                      
+                    
+                    
+                      (
+                      2
+                      n
+                      −
+                      1
+                      )
+                      !
+                      !
+                    
+                  
+                
+                
+                
+                  
+                    π
+                  
+                
+                =
+                
+                  
+                    
+                      (
+                      −
+                      4
+                      
+                        )
+                        
+                          n
+                        
+                      
+                      n
+                      !
+                    
+                    
+                      (
+                      2
+                      n
+                      )
+                      !
+                    
+                  
+                
+                
+                  
+                    π
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\Gamma \left({\tfrac {1}{2}}+n\right)&={\frac {(2n-1)!!}{2^{n}}}\,{\sqrt {\pi }}={\frac {(2n)!}{4^{n}n!}}{\sqrt {\pi }}\\\Gamma \left({\tfrac {1}{2}}-n\right)&={\frac {(-2)^{n}}{(2n-1)!!}}\,{\sqrt {\pi }}={\frac {(-4)^{n}n!}{(2n)!}}{\sqrt {\pi }}\end{aligned}}}
+  where n!! denotes the double factorial. In particular,
+
+and by means of the reflection formula,
+
+General rational argument
+In analogy with the half-integer formula,
+
+  
+    
+      
+        
+          
+            
+              
+                Γ
+                
+                  (
+                  
+                    n
+                    +
+                    
+                      
+                        
+                          1
+                          3
+                        
+                      
+                    
+                  
+                  )
+                
+              
+              
+                
+                =
+                Γ
+                
+                  (
+                  
+                    
+                      
+                        1
+                        3
+                      
+                    
+                  
+                  )
+                
+                
+                  
+                    
+                      (
+                      3
+                      n
+                      −
+                      2
+                      )
+                      !
+                      !
+                      !
+                    
+                    
+                      3
+                      
+                        n
+                      
+                    
+                  
+                
+              
+            
+            
+              
+                Γ
+                
+                  (
+                  
+                    n
+                    +
+                    
+                      
+                        
+                          1
+                          4
+                        
+                      
+                    
+                  
+                  )
+                
+              
+              
+                
+                =
+                Γ
+                
+                  (
+                  
+                    
+                      
+                        1
+                        4
+                      
+                    
+                  
+                  )
+                
+                
+                  
+                    
+                      (
+                      4
+                      n
+                      −
+                      3
+                      )
+                      !
+                      !
+                      !
+                      !
+                    
+                    
+                      4
+                      
+                        n
+                      
+                    
+                  
+                
+              
+            
+            
+              
+                Γ
+                
+                  (
+                  
+                    n
+                    +
+                    
+                      
+                        
+                          1
+                          q
+                        
+                      
+                    
+                  
+                  )
+                
+              
+              
+                
+                =
+                Γ
+                
+                  (
+                  
+                    
+                      
+                        1
+                        q
+                      
+                    
+                  
+                  )
+                
+                
+                  
+                    
+                      
+                        
+                          (
+                        
+                      
+                      q
+                      n
+                      −
+                      (
+                      q
+                      −
+                      1
+                      )
+                      
+                        
+                          )
+                        
+                      
+                      
+                        !
+                        
+                          (
+                          q
+                          )
+                        
+                      
+                    
+                    
+                      q
+                      
+                        n
+                      
+                    
+                  
+                
+              
+            
+            
+              
+                Γ
+                
+                  (
+                  
+                    n
+                    +
+                    
+                      
+                        
+                          p
+                          q
+                        
+                      
+                    
+                  
+                  )
+                
+              
+              
+                
+                =
+                Γ
+                
+                  (
+                  
+                    
+                      
+                        p
+                        q
+                      
+                    
+                  
+                  )
+                
+                
+                  
+                    1
+                    
+                      q
+                      
+                        n
+                      
+                    
+                  
+                
+                
+                  ∏
+                  
+                    k
+                    =
+                    1
+                  
+                  
+                    n
+                  
+                
+                (
+                k
+                q
+                +
+                p
+                −
+                q
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\Gamma \left(n+{\tfrac {1}{3}}\right)&=\Gamma \left({\tfrac {1}{3}}\right){\frac {(3n-2)!!!}{3^{n}}}\\\Gamma \left(n+{\tfrac {1}{4}}\right)&=\Gamma \left({\tfrac {1}{4}}\right){\frac {(4n-3)!!!!}{4^{n}}}\\\Gamma \left(n+{\tfrac {1}{q}}\right)&=\Gamma \left({\tfrac {1}{q}}\right){\frac {{\big (}qn-(q-1){\big )}!^{(q)}}{q^{n}}}\\\Gamma \left(n+{\tfrac {p}{q}}\right)&=\Gamma \left({\tfrac {p}{q}}\right){\frac {1}{q^{n}}}\prod _{k=1}^{n}(kq+p-q)\end{aligned}}}
+  where n!(q) denotes the qth multifactorial of n. Numerically,
+
+  
+    
+      
+        Γ
+        
+          (
+          
+            
+              
+                1
+                3
+              
+            
+          
+          )
+        
+        ≈
+        2.678
+        
+        938
+        
+        534
+        
+        707
+        
+        747
+        
+        6337
+      
+    
+    {\displaystyle \Gamma \left({\tfrac {1}{3}}\right)\approx 2.678\,938\,534\,707\,747\,6337}
+   OEIS: A073005
+
+  
+    
+      
+        Γ
+        
+          (
+          
+            
+              
+                1
+                4
+              
+            
+          
+          )
+        
+        ≈
+        3.625
+        
+        609
+        
+        908
+        
+        221
+        
+        908
+        
+        3119
+      
+    
+    {\displaystyle \Gamma \left({\tfrac {1}{4}}\right)\approx 3.625\,609\,908\,221\,908\,3119}
+   OEIS: A068466
+
+  
+    
+      
+        Γ
+        
+          (
+          
+            
+              
+                1
+                5
+              
+            
+          
+          )
+        
+        ≈
+        4.590
+        
+        843
+        
+        711
+        
+        998
+        
+        803
+        
+        0532
+      
+    
+    {\displaystyle \Gamma \left({\tfrac {1}{5}}\right)\approx 4.590\,843\,711\,998\,803\,0532}
+   OEIS: A175380
+
+  
+    
+      
+        Γ
+        
+          (
+          
+            
+              
+                1
+                6
+              
+            
+          
+          )
+        
+        ≈
+        5.566
+        
+        316
+        
+        001
+        
+        780
+        
+        235
+        
+        2043
+      
+    
+    {\displaystyle \Gamma \left({\tfrac {1}{6}}\right)\approx 5.566\,316\,001\,780\,235\,2043}
+   OEIS: A175379
+
+  
+    
+      
+        Γ
+        
+          (
+          
+            
+              
+                1
+                7
+              
+            
+          
+          )
+        
+        ≈
+        6.548
+        
+        062
+        
+        940
+        
+        247
+        
+        824
+        
+        4377
+      
+    
+    {\displaystyle \Gamma \left({\tfrac {1}{7}}\right)\approx 6.548\,062\,940\,247\,824\,4377}
+   OEIS: A220086
+
+  
+    
+      
+        Γ
+        
+          (
+          
+            
+              
+                1
+                8
+              
+            
+          
+          )
+        
+        ≈
+        7.533
+        
+        941
+        
+        598
+        
+        797
+        
+        611
+        
+        9047
+      
+    
+    {\displaystyle \Gamma \left({\tfrac {1}{8}}\right)\approx 7.533\,941\,598\,797\,611\,9047}
+   OEIS: A203142.As 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   tends to infinity,
+
+  
+    
+      
+        Γ
+        
+          (
+          
+            
+              
+                1
+                n
+              
+            
+          
+          )
+        
+        ∼
+        n
+        −
+        γ
+      
+    
+    {\displaystyle \Gamma \left({\tfrac {1}{n}}\right)\sim n-\gamma }
+  where 
+  
+    
+      
+        γ
+      
+    
+    {\displaystyle \gamma }
+   is the Euler–Mascheroni constant and 
+  
+    
+      
+        ∼
+      
+    
+    {\displaystyle \sim }
+   denotes asymptotic equivalence.
+It is unknown whether these constants are transcendental in general, but Γ(1/3) and Γ(1/4) were shown to be transcendental by G. V. Chudnovsky. Γ(1/4) / 4√π has also long been known to be transcendental, and Yuri Nesterenko proved in 1996 that Γ(1/4), π, and eπ are algebraically independent.
+The number Γ(1/4) is related to the lemniscate constant ϖ by
+
+  
+    
+      
+        Γ
+        
+          (
+          
+            
+              
+                1
+                4
+              
+            
+          
+          )
+        
+        =
+        
+          
+            2
+            ϖ
+            
+              
+                2
+                π
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \Gamma \left({\tfrac {1}{4}}\right)={\sqrt {2\varpi {\sqrt {2\pi }}}},}
+  and it has been conjectured by Gramain that
+
+  
+    
+      
+        Γ
+        
+          (
+          
+            
+              
+                1
+                4
+              
+            
+          
+          )
+        
+        =
+        
+          
+            
+              4
+              
+                π
+                
+                  3
+                
+              
+              
+                e
+                
+                  2
+                  γ
+                  −
+                  
+                    δ
+                  
+                  +
+                  1
+                
+              
+            
+            
+              4
+            
+          
+        
+      
+    
+    {\displaystyle \Gamma \left({\tfrac {1}{4}}\right)={\sqrt[{4}]{4\pi ^{3}e^{2\gamma -\mathrm {\delta } +1}}}}
+  where δ is the Masser–Gramain constant OEIS: A086058, although numerical work by Melquiond et al. indicates that this conjecture is false.Borwein and Zucker have found that Γ(n/24) can be expressed algebraically in terms of π, K(k(1)), K(k(2)), K(k(3)), and K(k(6)) where K(k(N)) is a complete elliptic integral of the first kind. This permits efficiently approximating the gamma function of rational arguments to high precision using quadratically convergent arithmetic–geometric mean iterations. For example:
+
+  
+    
+      
+        
+          
+            
+              
+                Γ
+                
+                  (
+                  
+                    
+                      
+                        1
+                        6
+                      
+                    
+                  
+                  )
+                
+              
+              
+                
+                =
+                
+                  
+                    
+                      
+                        
+                          
+                            3
+                            π
+                          
+                        
+                      
+                      Γ
+                      
+                        
+                          (
+                          
+                            
+                              1
+                              3
+                            
+                          
+                          )
+                        
+                        
+                          2
+                        
+                      
+                    
+                    
+                      2
+                      
+                        3
+                      
+                    
+                  
+                
+              
+            
+            
+              
+                Γ
+                
+                  (
+                  
+                    
+                      
+                        1
+                        4
+                      
+                    
+                  
+                  )
+                
+              
+              
+                
+                =
+                2
+                
+                  
+                    K
+                    
+                      (
+                      
+                        
+                          
+                            1
+                            2
+                          
+                        
+                      
+                      )
+                    
+                    
+                      
+                        π
+                      
+                    
+                  
+                
+              
+            
+            
+              
+                Γ
+                
+                  (
+                  
+                    
+                      
+                        1
+                        3
+                      
+                    
+                  
+                  )
+                
+              
+              
+                
+                =
+                
+                  
+                    
+                      
+                        2
+                        
+                          7
+                          
+                            /
+                          
+                          9
+                        
+                      
+                      
+                        
+                          
+                            π
+                            K
+                            
+                              (
+                              
+                                
+                                  
+                                    1
+                                    4
+                                  
+                                
+                                
+                                  (
+                                  
+                                    2
+                                    −
+                                    
+                                      
+                                        3
+                                      
+                                    
+                                  
+                                  )
+                                
+                              
+                              )
+                            
+                          
+                          
+                            3
+                          
+                        
+                      
+                    
+                    
+                      3
+                      
+                        12
+                      
+                    
+                  
+                
+              
+            
+            
+              
+                Γ
+                
+                  (
+                  
+                    
+                      
+                        1
+                        8
+                      
+                    
+                  
+                  )
+                
+                Γ
+                
+                  (
+                  
+                    
+                      
+                        3
+                        8
+                      
+                    
+                  
+                  )
+                
+              
+              
+                
+                =
+                8
+                
+                  
+                    2
+                    
+                      4
+                    
+                  
+                
+                
+                  
+                    
+                      (
+                      
+                        
+                          
+                            2
+                          
+                        
+                        −
+                        1
+                      
+                      )
+                    
+                    π
+                  
+                
+                K
+                
+                  (
+                  
+                    3
+                    −
+                    2
+                    
+                      
+                        2
+                      
+                    
+                  
+                  )
+                
+              
+            
+            
+              
+                
+                  
+                    
+                      Γ
+                      
+                        (
+                        
+                          
+                            
+                              1
+                              8
+                            
+                          
+                        
+                        )
+                      
+                    
+                    
+                      Γ
+                      
+                        (
+                        
+                          
+                            
+                              3
+                              8
+                            
+                          
+                        
+                        )
+                      
+                    
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    
+                      2
+                      
+                        
+                          
+                            (
+                            
+                              1
+                              +
+                              
+                                
+                                  2
+                                
+                              
+                            
+                            )
+                          
+                          K
+                          
+                            (
+                            
+                              
+                                1
+                                2
+                              
+                            
+                            )
+                          
+                        
+                      
+                    
+                    
+                      π
+                      
+                        4
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\Gamma \left({\tfrac {1}{6}}\right)&={\frac {{\sqrt {\frac {3}{\pi }}}\Gamma \left({\frac {1}{3}}\right)^{2}}{\sqrt[{3}]{2}}}\\\Gamma \left({\tfrac {1}{4}}\right)&=2{\sqrt {K\left({\tfrac {1}{2}}\right){\sqrt {\pi }}}}\\\Gamma \left({\tfrac {1}{3}}\right)&={\frac {2^{7/9}{\sqrt[{3}]{\pi K\left({\frac {1}{4}}\left(2-{\sqrt {3}}\right)\right)}}}{\sqrt[{12}]{3}}}\\\Gamma \left({\tfrac {1}{8}}\right)\Gamma \left({\tfrac {3}{8}}\right)&=8{\sqrt[{4}]{2}}{\sqrt {\left({\sqrt {2}}-1\right)\pi }}K\left(3-2{\sqrt {2}}\right)\\{\frac {\Gamma \left({\tfrac {1}{8}}\right)}{\Gamma \left({\tfrac {3}{8}}\right)}}&={\frac {2{\sqrt {\left(1+{\sqrt {2}}\right)K\left({\frac {1}{2}}\right)}}}{\sqrt[{4}]{\pi }}}\end{aligned}}}
+  No similar relations are known for Γ(1/5) or other denominators.
+In particular, where AGM() is the arithmetic–geometric mean, we have
+
+  
+    
+      
+        Γ
+        
+          (
+          
+            
+              
+                1
+                3
+              
+            
+          
+          )
+        
+        =
+        
+          
+            
+              
+                2
+                
+                  
+                    7
+                    9
+                  
+                
+              
+              ⋅
+              
+                π
+                
+                  
+                    2
+                    3
+                  
+                
+              
+            
+            
+              
+                3
+                
+                  
+                    1
+                    12
+                  
+                
+              
+              ⋅
+              AGM
+              ⁡
+              
+                
+                  (
+                  
+                    2
+                    ,
+                    
+                      
+                        2
+                        +
+                        
+                          
+                            3
+                          
+                        
+                      
+                    
+                  
+                  )
+                
+                
+                  
+                    1
+                    3
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \Gamma \left({\tfrac {1}{3}}\right)={\frac {2^{\frac {7}{9}}\cdot \pi ^{\frac {2}{3}}}{3^{\frac {1}{12}}\cdot \operatorname {AGM} \left(2,{\sqrt {2+{\sqrt {3}}}}\right)^{\frac {1}{3}}}}}
+  
+
+  
+    
+      
+        Γ
+        
+          (
+          
+            
+              
+                1
+                4
+              
+            
+          
+          )
+        
+        =
+        
+          
+            
+              
+                (
+                2
+                π
+                
+                  )
+                  
+                    
+                      3
+                      2
+                    
+                  
+                
+              
+              
+                AGM
+                ⁡
+                
+                  (
+                  
+                    
+                      
+                        2
+                      
+                    
+                    ,
+                    1
+                  
+                  )
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \Gamma \left({\tfrac {1}{4}}\right)={\sqrt {\frac {(2\pi )^{\frac {3}{2}}}{\operatorname {AGM} \left({\sqrt {2}},1\right)}}}}
+  
+
+  
+    
+      
+        Γ
+        
+          (
+          
+            
+              
+                1
+                6
+              
+            
+          
+          )
+        
+        =
+        
+          
+            
+              
+                2
+                
+                  
+                    14
+                    9
+                  
+                
+              
+              ⋅
+              
+                3
+                
+                  
+                    1
+                    3
+                  
+                
+              
+              ⋅
+              
+                π
+                
+                  
+                    5
+                    6
+                  
+                
+              
+            
+            
+              AGM
+              ⁡
+              
+                
+                  (
+                  
+                    1
+                    +
+                    
+                      
+                        3
+                      
+                    
+                    ,
+                    
+                      
+                        8
+                      
+                    
+                  
+                  )
+                
+                
+                  
+                    2
+                    3
+                  
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \Gamma \left({\tfrac {1}{6}}\right)={\frac {2^{\frac {14}{9}}\cdot 3^{\frac {1}{3}}\cdot \pi ^{\frac {5}{6}}}{\operatorname {AGM} \left(1+{\sqrt {3}},{\sqrt {8}}\right)^{\frac {2}{3}}}}.}
+  Other formulas include the infinite products
+
+  
+    
+      
+        Γ
+        
+          (
+          
+            
+              
+                1
+                4
+              
+            
+          
+          )
+        
+        =
+        (
+        2
+        π
+        
+          )
+          
+            
+              3
+              4
+            
+          
+        
+        
+          ∏
+          
+            k
+            =
+            1
+          
+          
+            ∞
+          
+        
+        tanh
+        ⁡
+        
+          (
+          
+            
+              
+                π
+                k
+              
+              2
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \Gamma \left({\tfrac {1}{4}}\right)=(2\pi )^{\frac {3}{4}}\prod _{k=1}^{\infty }\tanh \left({\frac {\pi k}{2}}\right)}
+  and
+
+  
+    
+      
+        Γ
+        
+          (
+          
+            
+              
+                1
+                4
+              
+            
+          
+          )
+        
+        =
+        
+          A
+          
+            3
+          
+        
+        
+          e
+          
+            −
+            
+              
+                G
+                π
+              
+            
+          
+        
+        
+          
+            π
+          
+        
+        
+          2
+          
+            
+              1
+              6
+            
+          
+        
+        
+          ∏
+          
+            k
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            (
+            
+              1
+              −
+              
+                
+                  1
+                  
+                    2
+                    k
+                  
+                
+              
+            
+            )
+          
+          
+            k
+            (
+            −
+            1
+            
+              )
+              
+                k
+              
+            
+          
+        
+      
+    
+    {\displaystyle \Gamma \left({\tfrac {1}{4}}\right)=A^{3}e^{-{\frac {G}{\pi }}}{\sqrt {\pi }}2^{\frac {1}{6}}\prod _{k=1}^{\infty }\left(1-{\frac {1}{2k}}\right)^{k(-1)^{k}}}
+  where A is the Glaisher–Kinkelin constant and G is Catalan's constant.
+The following two representations for  Γ(3/4) were given by I. Mező
+
+  
+    
+      
+        
+          
+            
+              
+                π
+                
+                  
+                    
+                      e
+                      
+                        π
+                      
+                    
+                  
+                
+              
+              2
+            
+          
+        
+        
+          
+            1
+            
+              
+                Γ
+                
+                  2
+                
+              
+              
+                (
+                
+                  
+                    3
+                    4
+                  
+                
+                )
+              
+            
+          
+        
+        =
+        i
+        
+          ∑
+          
+            k
+            =
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+        
+          e
+          
+            π
+            (
+            k
+            −
+            2
+            
+              k
+              
+                2
+              
+            
+            )
+          
+        
+        
+          θ
+          
+            1
+          
+        
+        
+          (
+          
+            
+              
+                
+                  i
+                  π
+                
+                2
+              
+            
+            (
+            2
+            k
+            −
+            1
+            )
+            ,
+            
+              e
+              
+                −
+                π
+              
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle {\sqrt {\frac {\pi {\sqrt {e^{\pi }}}}{2}}}{\frac {1}{\Gamma ^{2}\left({\frac {3}{4}}\right)}}=i\sum _{k=-\infty }^{\infty }e^{\pi (k-2k^{2})}\theta _{1}\left({\frac {i\pi }{2}}(2k-1),e^{-\pi }\right),}
+  and
+
+  
+    
+      
+        
+          
+            
+              π
+              2
+            
+          
+        
+        
+          
+            1
+            
+              
+                Γ
+                
+                  2
+                
+              
+              
+                (
+                
+                  
+                    3
+                    4
+                  
+                
+                )
+              
+            
+          
+        
+        =
+        
+          ∑
+          
+            k
+            =
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              
+                θ
+                
+                  4
+                
+              
+              (
+              i
+              k
+              π
+              ,
+              
+                e
+                
+                  −
+                  π
+                
+              
+              )
+            
+            
+              e
+              
+                2
+                π
+                
+                  k
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\sqrt {\frac {\pi }{2}}}{\frac {1}{\Gamma ^{2}\left({\frac {3}{4}}\right)}}=\sum _{k=-\infty }^{\infty }{\frac {\theta _{4}(ik\pi ,e^{-\pi })}{e^{2\pi k^{2}}}},}
+  where θ1 and θ4 are two of the Jacobi theta functions.
+Certain values of the gamma function can also be written in terms of the hypergeometric function. For instance, 
+  
+    
+      
+        Γ
+        
+          
+            (
+            
+              
+                1
+                4
+              
+            
+            )
+          
+          
+            4
+          
+        
+        =
+        
+          
+            
+              32
+              
+                π
+                
+                  3
+                
+              
+            
+            
+              33
+            
+          
+        
+        
+          
+
+          
+          
+            3
+          
+        
+        
+          F
+          
+            2
+          
+        
+        
+          (
+          
+            
+              
+                1
+                2
+              
+            
+            ,
+             
+            
+              
+                1
+                6
+              
+            
+            ,
+             
+            
+              
+                5
+                6
+              
+            
+            ;
+             
+            1
+            ,
+             
+            1
+            ;
+             
+            
+              
+                8
+                1331
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \Gamma \left({\frac {1}{4}}\right)^{4}={\frac {32\pi ^{3}}{\sqrt {33}}}{}_{3}F_{2}\left({\frac {1}{2}},\ {\frac {1}{6}},\ {\frac {5}{6}};\ 1,\ 1;\ {\frac {8}{1331}}\right)}
+  
+and 
+
+  
+    
+      
+        Γ
+        
+          
+            (
+            
+              
+                1
+                3
+              
+            
+            )
+          
+          
+            6
+          
+        
+        =
+        
+          
+            
+              12
+              
+                π
+                
+                  4
+                
+              
+            
+            
+              10
+            
+          
+        
+        
+          
+
+          
+          
+            3
+          
+        
+        
+          F
+          
+            2
+          
+        
+        
+          (
+          
+            
+              
+                1
+                2
+              
+            
+            ,
+             
+            
+              
+                1
+                6
+              
+            
+            ,
+             
+            
+              
+                5
+                6
+              
+            
+            ;
+             
+            1
+            ,
+             
+            1
+            ;
+             
+            −
+            
+              
+                9
+                64000
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \Gamma \left({\frac {1}{3}}\right)^{6}={\frac {12\pi ^{4}}{\sqrt {10}}}{}_{3}F_{2}\left({\frac {1}{2}},\ {\frac {1}{6}},\ {\frac {5}{6}};\ 1,\ 1;\ -{\frac {9}{64000}}\right)}
+  
+however it is an open question whether this is possible for all rational inputs to the gamma function.
+
+Products
+Some product identities include:
+
+  
+    
+      
+        
+          ∏
+          
+            r
+            =
+            1
+          
+          
+            2
+          
+        
+        Γ
+        
+          (
+          
+            
+              
+                r
+                3
+              
+            
+          
+          )
+        
+        =
+        
+          
+            
+              2
+              π
+            
+            
+              3
+            
+          
+        
+        ≈
+        3.627
+        
+        598
+        
+        728
+        
+        468
+        
+        435
+        
+        7012
+      
+    
+    {\displaystyle \prod _{r=1}^{2}\Gamma \left({\tfrac {r}{3}}\right)={\frac {2\pi }{\sqrt {3}}}\approx 3.627\,598\,728\,468\,435\,7012}
+   OEIS: A186706
+
+  
+    
+      
+        
+          ∏
+          
+            r
+            =
+            1
+          
+          
+            3
+          
+        
+        Γ
+        
+          (
+          
+            
+              
+                r
+                4
+              
+            
+          
+          )
+        
+        =
+        
+          
+            2
+            
+              π
+              
+                3
+              
+            
+          
+        
+        ≈
+        7.874
+        
+        804
+        
+        972
+        
+        861
+        
+        209
+        
+        8721
+      
+    
+    {\displaystyle \prod _{r=1}^{3}\Gamma \left({\tfrac {r}{4}}\right)={\sqrt {2\pi ^{3}}}\approx 7.874\,804\,972\,861\,209\,8721}
+   OEIS: A220610
+
+  
+    
+      
+        
+          ∏
+          
+            r
+            =
+            1
+          
+          
+            4
+          
+        
+        Γ
+        
+          (
+          
+            
+              
+                r
+                5
+              
+            
+          
+          )
+        
+        =
+        
+          
+            
+              4
+              
+                π
+                
+                  2
+                
+              
+            
+            
+              5
+            
+          
+        
+        ≈
+        17.655
+        
+        285
+        
+        081
+        
+        493
+        
+        524
+        
+        2483
+      
+    
+    {\displaystyle \prod _{r=1}^{4}\Gamma \left({\tfrac {r}{5}}\right)={\frac {4\pi ^{2}}{\sqrt {5}}}\approx 17.655\,285\,081\,493\,524\,2483}
+  
+
+  
+    
+      
+        
+          ∏
+          
+            r
+            =
+            1
+          
+          
+            5
+          
+        
+        Γ
+        
+          (
+          
+            
+              
+                r
+                6
+              
+            
+          
+          )
+        
+        =
+        4
+        
+          
+            
+              
+                π
+                
+                  5
+                
+              
+              3
+            
+          
+        
+        ≈
+        40.399
+        
+        319
+        
+        122
+        
+        003
+        
+        790
+        
+        0785
+      
+    
+    {\displaystyle \prod _{r=1}^{5}\Gamma \left({\tfrac {r}{6}}\right)=4{\sqrt {\frac {\pi ^{5}}{3}}}\approx 40.399\,319\,122\,003\,790\,0785}
+  
+
+  
+    
+      
+        
+          ∏
+          
+            r
+            =
+            1
+          
+          
+            6
+          
+        
+        Γ
+        
+          (
+          
+            
+              
+                r
+                7
+              
+            
+          
+          )
+        
+        =
+        
+          
+            
+              8
+              
+                π
+                
+                  3
+                
+              
+            
+            
+              7
+            
+          
+        
+        ≈
+        93.754
+        
+        168
+        
+        203
+        
+        582
+        
+        503
+        
+        7970
+      
+    
+    {\displaystyle \prod _{r=1}^{6}\Gamma \left({\tfrac {r}{7}}\right)={\frac {8\pi ^{3}}{\sqrt {7}}}\approx 93.754\,168\,203\,582\,503\,7970}
+  
+
+  
+    
+      
+        
+          ∏
+          
+            r
+            =
+            1
+          
+          
+            7
+          
+        
+        Γ
+        
+          (
+          
+            
+              
+                r
+                8
+              
+            
+          
+          )
+        
+        =
+        4
+        
+          
+            
+              π
+              
+                7
+              
+            
+          
+        
+        ≈
+        219.828
+        
+        778
+        
+        016
+        
+        957
+        
+        263
+        
+        6207
+      
+    
+    {\displaystyle \prod _{r=1}^{7}\Gamma \left({\tfrac {r}{8}}\right)=4{\sqrt {\pi ^{7}}}\approx 219.828\,778\,016\,957\,263\,6207}
+  In general:
+
+  
+    
+      
+        
+          ∏
+          
+            r
+            =
+            1
+          
+          
+            n
+          
+        
+        Γ
+        
+          (
+          
+            
+              
+                r
+                
+                  n
+                  +
+                  1
+                
+              
+            
+          
+          )
+        
+        =
+        
+          
+            
+              
+                (
+                2
+                π
+                
+                  )
+                  
+                    n
+                  
+                
+              
+              
+                n
+                +
+                1
+              
+            
+          
+        
+      
+    
+    {\displaystyle \prod _{r=1}^{n}\Gamma \left({\tfrac {r}{n+1}}\right)={\sqrt {\frac {(2\pi )^{n}}{n+1}}}}
+  From those products can be deduced other values, for example, from the former equations for 
+  
+    
+      
+        
+          ∏
+          
+            r
+            =
+            1
+          
+          
+            3
+          
+        
+        Γ
+        
+          (
+          
+            
+              
+                r
+                4
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \prod _{r=1}^{3}\Gamma \left({\tfrac {r}{4}}\right)}
+  , 
+  
+    
+      
+        Γ
+        
+          (
+          
+            
+              
+                1
+                4
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \Gamma \left({\tfrac {1}{4}}\right)}
+   and 
+  
+    
+      
+        Γ
+        
+          (
+          
+            
+              
+                2
+                4
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \Gamma \left({\tfrac {2}{4}}\right)}
+  , can be deduced:
+  
+    
+      
+        Γ
+        
+          (
+          
+            
+              
+                3
+                4
+              
+            
+          
+          )
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  π
+                  2
+                
+              
+            
+            )
+          
+          
+            
+              
+                1
+                4
+              
+            
+          
+        
+        
+          
+            AGM
+            ⁡
+            
+              (
+              
+                
+                  
+                    2
+                  
+                
+                ,
+                1
+              
+              )
+            
+          
+          
+            
+              
+                1
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle \Gamma \left({\tfrac {3}{4}}\right)=\left({\tfrac {\pi }{2}}\right)^{\tfrac {1}{4}}{\operatorname {AGM} \left({\sqrt {2}},1\right)}^{\tfrac {1}{2}}}
+  
+Other rational relations include
+
+  
+    
+      
+        
+          
+            
+              Γ
+              
+                (
+                
+                  
+                    
+                      1
+                      5
+                    
+                  
+                
+                )
+              
+              Γ
+              
+                (
+                
+                  
+                    
+                      4
+                      15
+                    
+                  
+                
+                )
+              
+            
+            
+              Γ
+              
+                (
+                
+                  
+                    
+                      1
+                      3
+                    
+                  
+                
+                )
+              
+              Γ
+              
+                (
+                
+                  
+                    
+                      2
+                      15
+                    
+                  
+                
+                )
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  2
+                
+              
+              
+              
+                
+                  3
+                  
+                    20
+                  
+                
+              
+            
+            
+              
+                
+                  5
+                  
+                    6
+                  
+                
+              
+              
+              
+                
+                  
+                    5
+                    −
+                    
+                      
+                        7
+                        
+                          5
+                        
+                      
+                    
+                    +
+                    
+                      
+                        6
+                        −
+                        
+                          
+                            6
+                            
+                              5
+                            
+                          
+                        
+                      
+                    
+                  
+                  
+                    4
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\Gamma \left({\tfrac {1}{5}}\right)\Gamma \left({\tfrac {4}{15}}\right)}{\Gamma \left({\tfrac {1}{3}}\right)\Gamma \left({\tfrac {2}{15}}\right)}}={\frac {{\sqrt {2}}\,{\sqrt[{20}]{3}}}{{\sqrt[{6}]{5}}\,{\sqrt[{4}]{5-{\frac {7}{\sqrt {5}}}+{\sqrt {6-{\frac {6}{\sqrt {5}}}}}}}}}}
+  
+  
+    
+      
+        
+          
+            
+              Γ
+              
+                (
+                
+                  
+                    
+                      1
+                      20
+                    
+                  
+                
+                )
+              
+              Γ
+              
+                (
+                
+                  
+                    
+                      9
+                      20
+                    
+                  
+                
+                )
+              
+            
+            
+              Γ
+              
+                (
+                
+                  
+                    
+                      3
+                      20
+                    
+                  
+                
+                )
+              
+              Γ
+              
+                (
+                
+                  
+                    
+                      7
+                      20
+                    
+                  
+                
+                )
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  5
+                  
+                    4
+                  
+                
+              
+              
+                (
+                
+                  1
+                  +
+                  
+                    
+                      5
+                    
+                  
+                
+                )
+              
+            
+            2
+          
+        
+      
+    
+    {\displaystyle {\frac {\Gamma \left({\tfrac {1}{20}}\right)\Gamma \left({\tfrac {9}{20}}\right)}{\Gamma \left({\tfrac {3}{20}}\right)\Gamma \left({\tfrac {7}{20}}\right)}}={\frac {{\sqrt[{4}]{5}}\left(1+{\sqrt {5}}\right)}{2}}}
+  
+  
+    
+      
+        
+          
+            
+              Γ
+              
+                
+                  (
+                  
+                    
+                      1
+                      5
+                    
+                  
+                  )
+                
+                
+                  2
+                
+              
+            
+            
+              Γ
+              
+                (
+                
+                  
+                    1
+                    10
+                  
+                
+                )
+              
+              Γ
+              
+                (
+                
+                  
+                    3
+                    10
+                  
+                
+                )
+              
+            
+          
+        
+        =
+        
+          
+            
+              1
+              +
+              
+                
+                  5
+                
+              
+            
+            
+              
+                2
+                
+                  
+                    
+                      7
+                      10
+                    
+                  
+                
+              
+              
+                
+                  5
+                  
+                    4
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\Gamma \left({\frac {1}{5}}\right)^{2}}{\Gamma \left({\frac {1}{10}}\right)\Gamma \left({\frac {3}{10}}\right)}}={\frac {\sqrt {1+{\sqrt {5}}}}{2^{\tfrac {7}{10}}{\sqrt[{4}]{5}}}}}
+  and many more relations for Γ(n/d) where the denominator d divides 24 or 60.Gamma quotients with algebraic values must be "poised" in the sense that the sum of arguments is the same (modulo 1) for the denominator and the numerator.
+A more sophisticated example:
+
+  
+    
+      
+        
+          
+            
+              Γ
+              
+                (
+                
+                  
+                    11
+                    42
+                  
+                
+                )
+              
+              Γ
+              
+                (
+                
+                  
+                    2
+                    7
+                  
+                
+                )
+              
+            
+            
+              Γ
+              
+                (
+                
+                  
+                    1
+                    21
+                  
+                
+                )
+              
+              Γ
+              
+                (
+                
+                  
+                    1
+                    2
+                  
+                
+                )
+              
+            
+          
+        
+        =
+        
+          
+            
+              8
+              sin
+              ⁡
+              
+                (
+                
+                  
+                    π
+                    7
+                  
+                
+                )
+              
+              
+                
+                  sin
+                  ⁡
+                  
+                    (
+                    
+                      
+                        π
+                        21
+                      
+                    
+                    )
+                  
+                  sin
+                  ⁡
+                  
+                    (
+                    
+                      
+                        
+                          4
+                          π
+                        
+                        21
+                      
+                    
+                    )
+                  
+                  sin
+                  ⁡
+                  
+                    (
+                    
+                      
+                        
+                          5
+                          π
+                        
+                        21
+                      
+                    
+                    )
+                  
+                
+              
+            
+            
+              
+                2
+                
+                  
+                    1
+                    42
+                  
+                
+              
+              
+                3
+                
+                  
+                    9
+                    28
+                  
+                
+              
+              
+                7
+                
+                  
+                    1
+                    3
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\Gamma \left({\frac {11}{42}}\right)\Gamma \left({\frac {2}{7}}\right)}{\Gamma \left({\frac {1}{21}}\right)\Gamma \left({\frac {1}{2}}\right)}}={\frac {8\sin \left({\frac {\pi }{7}}\right){\sqrt {\sin \left({\frac {\pi }{21}}\right)\sin \left({\frac {4\pi }{21}}\right)\sin \left({\frac {5\pi }{21}}\right)}}}{2^{\frac {1}{42}}3^{\frac {9}{28}}7^{\frac {1}{3}}}}}
+
+Imaginary and complex arguments
+The gamma function at the imaginary unit i = √−1 gives OEIS: A212877, OEIS: A212878:
+
+  
+    
+      
+        Γ
+        (
+        i
+        )
+        =
+        (
+        −
+        1
+        +
+        i
+        )
+        !
+        ≈
+        −
+        0.1549
+        −
+        0.4980
+        i
+        .
+      
+    
+    {\displaystyle \Gamma (i)=(-1+i)!\approx -0.1549-0.4980i.}
+  It may also be given in terms of the Barnes G-function:
+
+  
+    
+      
+        Γ
+        (
+        i
+        )
+        =
+        
+          
+            
+              G
+              (
+              1
+              +
+              i
+              )
+            
+            
+              G
+              (
+              i
+              )
+            
+          
+        
+        =
+        
+          e
+          
+            −
+            log
+            ⁡
+            G
+            (
+            i
+            )
+            +
+            log
+            ⁡
+            G
+            (
+            1
+            +
+            i
+            )
+          
+        
+        .
+      
+    
+    {\displaystyle \Gamma (i)={\frac {G(1+i)}{G(i)}}=e^{-\log G(i)+\log G(1+i)}.}
+  Curiously enough, 
+  
+    
+      
+        Γ
+        (
+        i
+        )
+      
+    
+    {\displaystyle \Gamma (i)}
+   appears in the below integral evaluation:
+
+  
+    
+      
+        
+          ∫
+          
+            0
+          
+          
+            π
+            
+              /
+            
+            2
+          
+        
+        {
+        cot
+        ⁡
+        (
+        x
+        )
+        }
+        
+        d
+        x
+        =
+        1
+        −
+        
+          
+            π
+            2
+          
+        
+        +
+        
+          
+            i
+            2
+          
+        
+        log
+        ⁡
+        
+          (
+          
+            
+              π
+              
+                sinh
+                ⁡
+                (
+                π
+                )
+                Γ
+                (
+                i
+                
+                  )
+                  
+                    2
+                  
+                
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle \int _{0}^{\pi /2}\{\cot(x)\}\,dx=1-{\frac {\pi }{2}}+{\frac {i}{2}}\log \left({\frac {\pi }{\sinh(\pi )\Gamma (i)^{2}}}\right).}
+  Here 
+  
+    
+      
+        {
+        ⋅
+        }
+      
+    
+    {\displaystyle \{\cdot \}}
+   denotes the fractional part.
+Because of the Euler Reflection Formula, and the fact that 
+  
+    
+      
+        Γ
+        (
+        
+          
+            
+              z
+              ¯
+            
+          
+        
+        )
+        =
+        
+          
+            
+              Γ
+              ¯
+            
+          
+        
+        (
+        z
+        )
+      
+    
+    {\displaystyle \Gamma ({\bar {z}})={\bar {\Gamma }}(z)}
+  , we have an expression for the modulus squared of the gamma function evaluated on the imaginary axis:
+
+  
+    
+      
+        
+          
+            |
+            
+              Γ
+              (
+              i
+              κ
+              )
+            
+            |
+          
+          
+            2
+          
+        
+        =
+        
+          
+            π
+            
+              κ
+              sinh
+              ⁡
+              (
+              π
+              κ
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \left|\Gamma (i\kappa )\right|^{2}={\frac {\pi }{\kappa \sinh(\pi \kappa )}}}
+  The above integral therefore relates to the phase of 
+  
+    
+      
+        Γ
+        (
+        i
+        )
+      
+    
+    {\displaystyle \Gamma (i)}
+  .
+The gamma function with other complex arguments returns
+
+  
+    
+      
+        Γ
+        (
+        1
+        +
+        i
+        )
+        =
+        i
+        Γ
+        (
+        i
+        )
+        ≈
+        0.498
+        −
+        0.155
+        i
+      
+    
+    {\displaystyle \Gamma (1+i)=i\Gamma (i)\approx 0.498-0.155i}
+  
+
+  
+    
+      
+        Γ
+        (
+        1
+        −
+        i
+        )
+        =
+        −
+        i
+        Γ
+        (
+        −
+        i
+        )
+        ≈
+        0.498
+        +
+        0.155
+        i
+      
+    
+    {\displaystyle \Gamma (1-i)=-i\Gamma (-i)\approx 0.498+0.155i}
+  
+
+  
+    
+      
+        Γ
+        (
+        
+          
+            
+              1
+              2
+            
+          
+        
+        +
+        
+          
+            
+              1
+              2
+            
+          
+        
+        i
+        )
+        ≈
+        0.818
+        
+        163
+        
+        9995
+        −
+        0.763
+        
+        313
+        
+        8287
+        
+        i
+      
+    
+    {\displaystyle \Gamma ({\tfrac {1}{2}}+{\tfrac {1}{2}}i)\approx 0.818\,163\,9995-0.763\,313\,8287\,i}
+  
+
+  
+    
+      
+        Γ
+        (
+        
+          
+            
+              1
+              2
+            
+          
+        
+        −
+        
+          
+            
+              1
+              2
+            
+          
+        
+        i
+        )
+        ≈
+        0.818
+        
+        163
+        
+        9995
+        +
+        0.763
+        
+        313
+        
+        8287
+        
+        i
+      
+    
+    {\displaystyle \Gamma ({\tfrac {1}{2}}-{\tfrac {1}{2}}i)\approx 0.818\,163\,9995+0.763\,313\,8287\,i}
+  
+
+  
+    
+      
+        Γ
+        (
+        5
+        +
+        3
+        i
+        )
+        ≈
+        0.016
+        
+        041
+        
+        8827
+        −
+        9.433
+        
+        293
+        
+        2898
+        
+        i
+      
+    
+    {\displaystyle \Gamma (5+3i)\approx 0.016\,041\,8827-9.433\,293\,2898\,i}
+  
+
+  
+    
+      
+        Γ
+        (
+        5
+        −
+        3
+        i
+        )
+        ≈
+        0.016
+        
+        041
+        
+        8827
+        +
+        9.433
+        
+        293
+        
+        2898
+        
+        i
+        .
+      
+    
+    {\displaystyle \Gamma (5-3i)\approx 0.016\,041\,8827+9.433\,293\,2898\,i.}
+
+Other constants
+The gamma function has a local minimum on the positive real axis
+
+  
+    
+      
+        
+          x
+          
+            min
+          
+        
+        =
+        1.461
+        
+        632
+        
+        144
+        
+        968
+        
+        362
+        
+        341
+        
+        262
+        …
+        
+      
+    
+    {\displaystyle x_{\min }=1.461\,632\,144\,968\,362\,341\,262\ldots \,}
+   OEIS: A030169with the value
+
+  
+    
+      
+        Γ
+        
+          (
+          
+            x
+            
+              min
+            
+          
+          )
+        
+        =
+        0.885
+        
+        603
+        
+        194
+        
+        410
+        
+        888
+        …
+        
+      
+    
+    {\displaystyle \Gamma \left(x_{\min }\right)=0.885\,603\,194\,410\,888\ldots \,}
+   OEIS: A030171.Integrating the reciprocal gamma function along the positive real axis also gives the Fransén–Robinson constant.
+On the negative real axis, the first local maxima and minima (zeros of the digamma function) are:
+
+See also
+Chowla–Selberg formula
+
+References
+
+Gramain, F. (1981). "Sur le théorème de Fukagawa-Gel'fond". Invent. Math. 63 (3): 495–506. Bibcode:1981InMat..63..495G. doi:10.1007/BF01389066. S2CID 123079859.
+Borwein, J. M.; Zucker, I. J. (1992). "Fast Evaluation of the Gamma Function for Small Rational Fractions Using Complete Elliptic Integrals of the First Kind". IMA Journal of Numerical Analysis. 12 (4): 519–526. doi:10.1093/imanum/12.4.519. MR 1186733.
+X. Gourdon & P. Sebah. Introduction to the Gamma Function
+S. Finch. Euler Gamma Function Constants
+Weisstein, Eric W. "Gamma Function". MathWorld.
+Vidunas, Raimundas (2005). "Expressions for values of the gamma function". Kyushu Journal of Mathematics. 59 (2): 267–283. arXiv:math.CA/0403510. doi:10.2206/kyushujm.59.267. S2CID 119623635.
+Vidunas, Raimundas (2005). "Expressions for values of the gamma function". Kyushu J. Math. 59 (2): 267–283. arXiv:math/0403510. doi:10.2206/kyushujm.59.267. MR 2188592. S2CID 119623635.
+Adamchik, V. S. (2005). "Multiple Gamma Function and Its Application to Computation of Series" (PDF). The Ramanujan Journal. 9 (3): 271–288. arXiv:math/0308074. doi:10.1007/s11139-005-1868-3. MR 2173489. S2CID 15670340.
+Duke, W.; Imamoglu, Ö. (2006). "Special values of multiple gamma functions" (PDF). Journal de Théorie des Nombres de Bordeaux. 18 (1): 113–123. doi:10.5802/jtnb.536. MR 2245878.

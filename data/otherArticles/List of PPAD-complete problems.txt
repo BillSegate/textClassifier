@@ -1,0 +1,30 @@
+This is a list of PPAD-complete problems.
+
+Fixed-point theorems
+Sperner's lemma
+Brouwer fixed-point theorem
+Kakutani fixed-point theorem
+
+Game theory
+Nash equilibrium
+Core of Balanced Games
+
+Equilibria in game theory and economics
+Fisher market equilibria
+Arrow-Debreu equilibria
+Approximate Competitive Equilibrium from Equal Incomes
+Finding clearing payments in financial networks
+
+Graph theory
+Fractional stable paths problems
+Fractional hypergraph matching (see also the NP-complete Hypergraph matching)
+Fractional strong kernel
+
+Miscellaneous
+Scarf's lemma
+Fractional bounded budget connection games
+
+References
+Papadimitriou, Christos (1994). "On the Complexity of the Parity Argument and Other Inefficient Proofs of Existence". Journal of Computer and System Sciences. 48 (3): 498–532. doi:10.1016/S0022-0000(05)80063-7. Paper available online at Papadimitriou's Homepage.
+C. Daskalakis, P. W. Goldberg and C.H. Papadimitriou (2009). "The Complexity of Computing a Nash Equilibrium". SIAM Journal on Computing. 39 (3): 195–259. CiteSeerX 10.1.1.68.6111. doi:10.1137/070699652.
+Xi Chen and Xiaotie Deng (2006). "Settling the complexity of two-player Nash equilibrium". In Proc. 47th FOCS. pp. 261–272.

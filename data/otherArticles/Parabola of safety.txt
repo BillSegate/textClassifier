@@ -1,0 +1,160 @@
+In classical mechanics and ballistics, the parabola of safety or safety parabola is the envelope of the parabolic trajectories of projectiles shot from a certain point with a given speed at different angles to horizon in a fixed vertical plane. The fact that this envelope is a parabola had been first established by Evangelista Torricelli and was later reproven by Johann Bernoulli using the infinitesimal calculus methods of Leibniz. 
+The paraboloid of revolution obtained by rotating the safety parabola around the vertical axis is the boundary of the safety zone, consisting of all points that cannot be hit by a projectile shot from the given point with the given speed.
+
+Equations
+In 2D and shooting on a horizontal plane, parabola of safety can be represented by the equation
+
+  
+    
+      
+        y
+        =
+        
+          
+            
+              u
+              
+                2
+              
+            
+            
+              2
+              g
+            
+          
+        
+        −
+        
+          
+            
+              g
+              
+                x
+                
+                  2
+                
+              
+            
+            
+              2
+              
+                u
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle y={\frac {u^{2}}{2g}}-{\frac {gx^{2}}{2u^{2}}}}
+  
+where 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+   is the initial speed of projectile and 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   is the gravitational field.
+
+Properties
+Focus of the parabola is the shooting position.
+Maximum height (
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+  ) can be calculated by absolute value of 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   in standard form of parabola. It is given as 
+  
+    
+      
+        H
+        =
+        
+          |
+        
+        c
+        
+          |
+        
+        =
+        
+          
+            
+              u
+              
+                2
+              
+            
+            
+              2
+              g
+            
+          
+        
+      
+    
+    {\displaystyle H=|c|={\frac {u^{2}}{2g}}}
+  
+Range (
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  ) of the projectile can be calculated by the value of latus rectum of the parabola given shooting to the same level. It is given as 
+  
+    
+      
+        R
+        =
+        
+          |
+        
+        4
+        c
+        
+          |
+        
+        =
+        
+          
+            
+              u
+              
+                2
+              
+            
+            g
+          
+        
+      
+    
+    {\displaystyle R=|4c|={\frac {u^{2}}{g}}}
+
+References
+Philip Robinson, On the Geometrical Approach to Projectile Motion, The Mathematical Gazette, Vol. 82, No. 493, 1998, pp. 118–122

@@ -1,0 +1,158 @@
+This is a list of graphical methods with a mathematical basis.
+Included are diagram techniques, chart techniques, plot techniques, and other forms of visualization.
+There is also a list of computer graphics and descriptive geometry topics.
+
+Simple displays
+Area chart
+Box plot
+Dispersion fan diagram
+Graph of a function
+Logarithmic graph paper
+Heatmap
+Bar chart
+Histogram
+Line chart
+Pie chart
+Plotting
+Scatterplot
+Sparkline
+Stemplot
+Radar chart
+
+Set theory
+Venn diagram
+Karnaugh diagram
+
+Descriptive geometry
+Isometric projection
+Orthographic projection
+Perspective (graphical)
+
+Engineering drawing
+Technical drawing
+Graphical projection
+Mohr's circle
+Pantograph
+Circuit diagram
+Smith chart
+Sankey diagram
+
+Systems analysis
+Binary decision diagram
+Control-flow graph
+Functional flow block diagram
+Information flow diagram
+IDEF
+N2 chart
+Sankey diagram
+State diagram
+System context diagram
+Data-flow diagram
+
+Cartography
+Map projection
+Orthographic projection (cartography)
+Robinson projection
+Stereographic projection
+Dymaxion map
+Topographic map
+Craig retroazimuthal projection
+Hammer retroazimuthal projection
+
+Biological sciences
+Cladogram
+Punnett square
+Systems Biology Graphical Notation
+
+Physical sciences
+Free body diagram
+Greninger chart
+Phase diagram
+Wavenumber-frequency diagram
+Bode plot
+Nyquist plot
+Dalitz plot
+Feynman diagram
+Carnot Plot
+
+Business methods
+Flowchart
+Workflow
+Gantt chart
+Growth-share matrix (often called BCG chart)
+Work breakdown structure
+Control chart
+Ishikawa diagram
+Pareto chart (often used to prioritise outputs of an Ishikawa diagram)
+
+Conceptual analysis
+Mind mapping
+Concept mapping
+Conceptual graph
+Entity-relationship diagram
+Tag cloud, also known as word cloud
+
+Statistics
+Autocorrelation plot
+Bar chart
+Biplot
+Box plot
+Bullet graph
+Chernoff faces
+Control chart
+Fan chart
+Forest plot
+Funnel plot
+Galbraith plot
+Histogram
+Mosaic plot
+Multidimensional scaling
+np-chart
+p-chart
+Pie chart
+Probability plot
+Normal probability plot
+Poincaré plot
+Probability plot correlation coefficient plot
+Q–Q plot
+Rankit
+Run chart
+Seasonal subseries plot
+Scatter plot
+Skewplot
+Ternary plot
+Recurrence plot
+Waterfall chart
+Violin plot
+
+Machine Learning
+Hinton Diagram
+
+Other
+Ulam spiral
+Nomogram
+Fitness landscape
+Weather map
+Predominance diagram
+One-line diagram
+Autostereogram
+Edgeworth box
+Lineweaver-Burk diagram
+Eadie-Hofstee diagram
+Population pyramid
+Parametric plot
+Causality loop diagram
+Ramachandran plot
+V model
+Sentence diagram
+Tree structure
+Treemapping
+Airfield traffic pattern diagram
+
+See also
+List of information graphics software
+Data and information visualization
+
+External links
+A periodic table of visualization methods.
+Speaking of Graphics.

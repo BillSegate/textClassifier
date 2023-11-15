@@ -1,0 +1,1154 @@
+Abstract index notation (also referred to as slot-naming index notation) is a mathematical notation for tensors and spinors that uses indices to indicate their types, rather than their components in a particular basis. The indices are mere placeholders, not related to any basis and, in particular, are non-numerical. Thus it should not be confused with the Ricci calculus. The notation was introduced by Roger Penrose as a way to use the formal aspects of the Einstein summation convention to compensate for the difficulty in describing contractions and covariant differentiation in modern abstract tensor notation, while preserving the explicit covariance of the expressions involved.Let 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   be a vector space, and 
+  
+    
+      
+        
+          V
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle V^{*}}
+   its dual space.  Consider, for example, an order-2 covariant tensor 
+  
+    
+      
+        h
+        ∈
+        
+          V
+          
+            ∗
+          
+        
+        ⊗
+        
+          V
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle h\in V^{*}\otimes V^{*}}
+  .  Then 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+   can be identified with a bilinear form on 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  .  In other words, it is a function of two arguments in 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   which can be represented as a pair of slots:
+
+  
+    
+      
+        h
+        =
+        h
+        (
+        −
+        ,
+        −
+        )
+        .
+      
+    
+    {\displaystyle h=h(-,-).}
+  Abstract index notation is merely a labelling of the slots with Latin letters, which have no significance apart from their designation as labels of the slots (i.e., they are non-numerical):
+
+  
+    
+      
+        h
+        =
+        
+          h
+          
+            a
+            b
+          
+        
+        .
+      
+    
+    {\displaystyle h=h_{ab}.}
+  A tensor contraction (or trace) between two tensors is represented by the repetition of an index label, where one label is contravariant (an upper index corresponding to the factor 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  ) and one label is covariant (a lower index corresponding to the factor 
+  
+    
+      
+        
+          V
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle V^{*}}
+  ).  Thus, for instance,
+
+  
+    
+      
+        
+          t
+          
+            a
+            b
+          
+        
+        
+          
+
+          
+          
+            b
+          
+        
+      
+    
+    {\displaystyle t_{ab}{}^{b}}
+  is the trace of a tensor 
+  
+    
+      
+        t
+        =
+        
+          t
+          
+            a
+            b
+          
+        
+        
+          
+
+          
+          
+            c
+          
+        
+      
+    
+    {\displaystyle t=t_{ab}{}^{c}}
+   over its last two slots.  This manner of representing tensor contractions by repeated indices is formally similar to the Einstein summation convention.  However, as the indices are non-numerical, it does not imply summation: rather it corresponds to the abstract basis-independent trace operation (or natural pairing) between tensor factors of type 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   and those of type 
+  
+    
+      
+        
+          V
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle V^{*}}
+  .
+
+Abstract indices and tensor spaces
+A general homogeneous tensor is an element of a tensor product of copies of 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   and 
+  
+    
+      
+        
+          V
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle V^{*}}
+  , such as
+
+  
+    
+      
+        V
+        ⊗
+        
+          V
+          
+            ∗
+          
+        
+        ⊗
+        
+          V
+          
+            ∗
+          
+        
+        ⊗
+        V
+        ⊗
+        
+          V
+          
+            ∗
+          
+        
+        .
+      
+    
+    {\displaystyle V\otimes V^{*}\otimes V^{*}\otimes V\otimes V^{*}.}
+  Label each factor in this tensor product with a Latin letter in a raised position for each contravariant 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   factor, and in a lowered position for each covariant 
+  
+    
+      
+        
+          V
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle V^{*}}
+   position.  In this way, write the product as
+
+  
+    
+      
+        
+          V
+          
+            a
+          
+        
+        
+          V
+          
+            b
+          
+        
+        
+          V
+          
+            c
+          
+        
+        
+          V
+          
+            d
+          
+        
+        
+          V
+          
+            e
+          
+        
+      
+    
+    {\displaystyle V^{a}V_{b}V_{c}V^{d}V_{e}}
+  or, simply
+
+  
+    
+      
+        
+          V
+          
+            a
+          
+        
+        
+          
+
+          
+          
+            b
+            c
+          
+        
+        
+          
+
+          
+          
+            d
+          
+        
+        
+          
+
+          
+          
+            e
+          
+        
+        .
+      
+    
+    {\displaystyle V^{a}{}_{bc}{}^{d}{}_{e}.}
+  The last two expressions denote the same object as the first.  Tensors of this type are denoted using similar notation, for example:
+
+  
+    
+      
+        
+          h
+          
+            a
+          
+        
+        
+          
+
+          
+          
+            b
+            c
+          
+        
+        
+          
+
+          
+          
+            d
+          
+        
+        
+          
+
+          
+          
+            e
+          
+        
+        ∈
+        
+          V
+          
+            a
+          
+        
+        
+          
+
+          
+          
+            b
+            c
+          
+        
+        
+          
+
+          
+          
+            d
+          
+        
+        
+          
+
+          
+          
+            e
+          
+        
+        =
+        V
+        ⊗
+        
+          V
+          
+            ∗
+          
+        
+        ⊗
+        
+          V
+          
+            ∗
+          
+        
+        ⊗
+        V
+        ⊗
+        
+          V
+          
+            ∗
+          
+        
+        .
+      
+    
+    {\displaystyle h^{a}{}_{bc}{}^{d}{}_{e}\in V^{a}{}_{bc}{}^{d}{}_{e}=V\otimes V^{*}\otimes V^{*}\otimes V\otimes V^{*}.}
+
+Contraction
+In general, whenever one contravariant and one covariant factor occur in a tensor product of spaces, there is an associated contraction (or trace) map.  For instance,
+
+  
+    
+      
+        
+          
+            T
+            r
+          
+          
+            12
+          
+        
+        :
+        V
+        ⊗
+        
+          V
+          
+            ∗
+          
+        
+        ⊗
+        
+          V
+          
+            ∗
+          
+        
+        ⊗
+        V
+        ⊗
+        
+          V
+          
+            ∗
+          
+        
+        →
+        
+          V
+          
+            ∗
+          
+        
+        ⊗
+        V
+        ⊗
+        
+          V
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle \mathrm {Tr} _{12}:V\otimes V^{*}\otimes V^{*}\otimes V\otimes V^{*}\to V^{*}\otimes V\otimes V^{*}}
+  is the trace on the first two spaces of the tensor product.is the trace on the first and last space.
+These trace operations are signified on tensors by the repetition of an index.  Thus the first trace map is given by
+
+  
+    
+      
+        
+          
+            T
+            r
+          
+          
+            12
+          
+        
+        :
+        h
+        
+          
+
+          
+          
+            a
+          
+        
+        
+          
+
+          
+          
+            b
+          
+        
+        
+          
+
+          
+          
+            c
+          
+        
+        
+          
+
+          
+          
+            d
+          
+        
+        
+          
+
+          
+          
+            e
+          
+        
+        ↦
+        h
+        
+          
+
+          
+          
+            a
+          
+        
+        
+          
+
+          
+          
+            a
+          
+        
+        
+          
+
+          
+          
+            c
+          
+        
+        
+          
+
+          
+          
+            d
+          
+        
+        
+          
+
+          
+          
+            e
+          
+        
+      
+    
+    {\displaystyle \mathrm {Tr} _{12}:h{}^{a}{}_{b}{}_{c}{}^{d}{}_{e}\mapsto h{}^{a}{}_{a}{}_{c}{}^{d}{}_{e}}
+  and the second by
+
+  
+    
+      
+        
+          
+            T
+            r
+          
+          
+            15
+          
+        
+        :
+        h
+        
+          
+
+          
+          
+            a
+          
+        
+        
+          
+
+          
+          
+            b
+          
+        
+        
+          
+
+          
+          
+            c
+          
+        
+        
+          
+
+          
+          
+            d
+          
+        
+        
+          
+
+          
+          
+            e
+          
+        
+        ↦
+        h
+        
+          
+
+          
+          
+            a
+          
+        
+        
+          
+
+          
+          
+            b
+          
+        
+        
+          
+
+          
+          
+            c
+          
+        
+        
+          
+
+          
+          
+            d
+          
+        
+        
+          
+
+          
+          
+            a
+          
+        
+        .
+      
+    
+    {\displaystyle \mathrm {Tr} _{15}:h{}^{a}{}_{b}{}_{c}{}^{d}{}_{e}\mapsto h{}^{a}{}_{b}{}_{c}{}^{d}{}_{a}.}
+
+Braiding
+To any tensor product on a single vector space, there are associated braiding maps.  For example, the braiding map
+
+  
+    
+      
+        
+          τ
+          
+            (
+            12
+            )
+          
+        
+        :
+        V
+        ⊗
+        V
+        →
+        V
+        ⊗
+        V
+      
+    
+    {\displaystyle \tau _{(12)}:V\otimes V\rightarrow V\otimes V}
+  interchanges the two tensor factors (so that its action on simple tensors is given by 
+  
+    
+      
+        
+          τ
+          
+            (
+            12
+            )
+          
+        
+        (
+        v
+        ⊗
+        w
+        )
+        =
+        w
+        ⊗
+        v
+      
+    
+    {\displaystyle \tau _{(12)}(v\otimes w)=w\otimes v}
+  ).  In general, the braiding maps are in one-to-one correspondence with elements of the symmetric group, acting by permuting the tensor factors.  Here, we use 
+  
+    
+      
+        
+          τ
+          
+            σ
+          
+        
+      
+    
+    {\displaystyle \tau _{\sigma }}
+   to denote the braiding map associated to the permutation 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+   (represented as a product of disjoint cyclic permutations).
+Braiding maps are important in differential geometry, for instance, in order to express the Bianchi identity.  Here let 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   denote the Riemann tensor, regarded as a tensor in 
+  
+    
+      
+        
+          V
+          
+            ∗
+          
+        
+        ⊗
+        
+          V
+          
+            ∗
+          
+        
+        ⊗
+        
+          V
+          
+            ∗
+          
+        
+        ⊗
+        V
+      
+    
+    {\displaystyle V^{*}\otimes V^{*}\otimes V^{*}\otimes V}
+  .  The first Bianchi identity then asserts that
+
+  
+    
+      
+        R
+        +
+        
+          τ
+          
+            (
+            123
+            )
+          
+        
+        R
+        +
+        
+          τ
+          
+            (
+            132
+            )
+          
+        
+        R
+        =
+        0.
+      
+    
+    {\displaystyle R+\tau _{(123)}R+\tau _{(132)}R=0.}
+  Abstract index notation handles braiding as follows.  On a particular tensor product, an ordering of the abstract indices is fixed (usually this is a lexicographic ordering).  The braid is then represented in notation by permuting the labels of the indices.  Thus, for instance, with the Riemann tensor
+
+  
+    
+      
+        R
+        =
+        
+          R
+          
+            a
+            b
+            c
+          
+        
+        
+          
+
+          
+          
+            d
+          
+        
+        ∈
+        
+          V
+          
+            a
+            b
+            c
+          
+        
+        
+          
+
+          
+          
+            d
+          
+        
+        =
+        
+          V
+          
+            ∗
+          
+        
+        ⊗
+        
+          V
+          
+            ∗
+          
+        
+        ⊗
+        
+          V
+          
+            ∗
+          
+        
+        ⊗
+        V
+        ,
+      
+    
+    {\displaystyle R=R_{abc}{}^{d}\in V_{abc}{}^{d}=V^{*}\otimes V^{*}\otimes V^{*}\otimes V,}
+  the Bianchi identity becomes
+
+  
+    
+      
+        
+          R
+          
+            a
+            b
+            c
+          
+        
+        
+          
+
+          
+          
+            d
+          
+        
+        +
+        
+          R
+          
+            c
+            a
+            b
+          
+        
+        
+          
+
+          
+          
+            d
+          
+        
+        +
+        
+          R
+          
+            b
+            c
+            a
+          
+        
+        
+          
+
+          
+          
+            d
+          
+        
+        =
+        0.
+      
+    
+    {\displaystyle R_{abc}{}^{d}+R_{cab}{}^{d}+R_{bca}{}^{d}=0.}
+
+Antisymmetrization and symmetrization
+A general tensor may be antisymmetrized or symmetrized, and there is according notation.
+We demonstrate the notation by example. Let's antisymmetrize the type-(0,3) tensor 
+  
+    
+      
+        
+          ω
+          
+            a
+            b
+            c
+          
+        
+      
+    
+    {\displaystyle \omega _{abc}}
+  , where 
+  
+    
+      
+        
+          
+            S
+          
+          
+            3
+          
+        
+      
+    
+    {\displaystyle \mathrm {S} _{3}}
+   is the symmetric group on three elements.
+
+  
+    
+      
+        
+          ω
+          
+            [
+            a
+            b
+            c
+            ]
+          
+        
+        :=
+        
+          
+            1
+            
+              3
+              !
+            
+          
+        
+        
+          ∑
+          
+            σ
+            ∈
+            
+              
+                S
+              
+              
+                3
+              
+            
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            
+              sgn
+            
+            (
+            σ
+            )
+          
+        
+        
+          ω
+          
+            σ
+            (
+            a
+            )
+            σ
+            (
+            b
+            )
+            σ
+            (
+            c
+            )
+          
+        
+      
+    
+    {\displaystyle \omega _{[abc]}:={\frac {1}{3!}}\sum _{\sigma \in \mathrm {S} _{3}}(-1)^{{\text{sgn}}(\sigma )}\omega _{\sigma (a)\sigma (b)\sigma (c)}}
+  Similarly, we may symmetrize:
+
+  
+    
+      
+        
+          ω
+          
+            (
+            a
+            b
+            c
+            )
+          
+        
+        :=
+        
+          
+            1
+            
+              3
+              !
+            
+          
+        
+        
+          ∑
+          
+            σ
+            ∈
+            
+              
+                S
+              
+              
+                3
+              
+            
+          
+        
+        
+          ω
+          
+            σ
+            (
+            a
+            )
+            σ
+            (
+            b
+            )
+            σ
+            (
+            c
+            )
+          
+        
+      
+    
+    {\displaystyle \omega _{(abc)}:={\frac {1}{3!}}\sum _{\sigma \in \mathrm {S} _{3}}\omega _{\sigma (a)\sigma (b)\sigma (c)}}
+
+See also
+Penrose graphical notation
+Einstein notation
+Index notation
+Tensor
+Antisymmetric tensor
+Raising and lowering indices
+Covariance and contravariance of vectors
+
+
+== References ==

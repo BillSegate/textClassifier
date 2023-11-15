@@ -1,0 +1,29 @@
+Moderne Algebra is a two-volume German textbook on graduate abstract algebra by Bartel Leendert van der Waerden (1930, 1931), originally based on lectures given by Emil Artin in 1926 and by Emmy Noether (1929) from 1924 to 1928. The English translation of 1949–1950 had the title Modern algebra, though a later, extensively revised edition in 1970 had the title Algebra.
+The book was one of the first textbooks to use an abstract axiomatic approach to groups, rings, and fields, and was by far the most successful, becoming the standard reference for graduate algebra for several decades. It "had a tremendous impact, and is widely considered to be the major text on algebra in the twentieth century."In 1975 van der Waerden described the sources he drew upon to write the book.In 1997 Saunders Mac Lane recollected the book's influence:
+Upon its publication it was soon clear that this was the way that algebra should be presented.
+Its simple but austere style set the pattern for mathematical texts in other subjects, from Banach algebras to topological group theory.
+[Van der Waerden's] two volumes on modern algebra ... dramatically changed the way algebra is now taught by providing a decisive example of a clear and perspicacious presentation. It is, in my view, the most influential text of algebra of the twentieth century.
+
+Publication history
+Moderne Algebra has a rather confusing publication history, because it went through many different editions, several of which were extensively rewritten with chapters and major topics added, deleted, or rearranged. In addition the new editions of first and second volumes were issued almost independently and at different times, and the numbering of the English editions does not correspond to the numbering of the German editions. In 1955 the title was changed from "Moderne Algebra" to "Algebra" following a suggestion of Brandt, with the result that the two volumes of the third German edition do not even have the same title.
+For volume 1, the first German edition was published in 1930, the second in 1937 (with the axiom of choice removed), the third in 1951 (with the axiom of choice reinstated, and with more on valuations). The fourth edition appeared in 1955 (with the title changed to Algebra), the fifth in 1960, the sixth in 1964, the seventh in 1966, the eighth in 1971, the ninth in 1993. For volume 2, the first edition was published in 1931, the second in 1940, the third in 1955 (with the title changed to Algebra), the fourth in 1959 (extensively rewritten, with elimination theory replaced by algebraic functions of 1 variable), the fifth in 1967, and the sixth in 1993. The German editions were all published by Springer.
+The first English edition was published in 1949–1950 and was a translation of the second German edition. There was a second edition in 1953, and a third edition under the new title Algebra in 1970 translated from the 7th German edition of volume 1 and the 5th German edition of volume 2. The three English editions were originally published by Ungar, though the 3rd English edition was later reprinted by Springer.
+
+van der Waerden, Bartel Leendert (1930). Moderne Algebra. Teil I. Die Grundlehren der mathematischen Wissenschaften (in German). Vol. 33. Berlin, New York: Springer-Verlag. ISBN 978-3-540-56799-8. MR 0009016.
+van der Waerden, Bartel Leendert (1931). Moderne Algebra. Teil II. Die Grundlehren der mathematischen Wissenschaften (in German). Vol. 34. Springer-Verlag. ISBN 978-3-540-56801-8. MR 0002841.
+van der Waerden, Bartel Leendert (1949). Modern Algebra. Vol I. Translated by Blum, Fred. New York, N. Y.: Frederick Ungar Publishing Co. MR 0029363.
+van der Waerden, Bartel Leendert (1950). Modern Algebra. Vol II. Translated by Blum, Fred. New York, N. Y.: Frederick Ungar Publishing Co.
+van der Waerden, Bartel Leendert (1970). Algebra. Vol 1. Translated by Blum, Fred; Schulenberger, John R. New York, N. Y.: Frederick Ungar Publishing Co. ISBN 978-0-387-40624-4. MR 0263582. Reprinted by Springer.
+van der Waerden, Bartel Leendert (1970). Algebra. Vol. 2. Translated by Schulenberger, John R. (3rd ed.). New York, N. Y.: Frederick Ungar Publishing Co. ISBN 9780387406251. MR 0263583. Reprinted by Springer.There were also Russian editions published in 1976 and 1979, and Japanese editions published in 1959 and 1967–1971.
+
+References
+
+Hahn, H.; Taussky, Olga (1932), "Literaturberichte: Moderne Algebra", Monatshefte für Mathematik und Physik, 39 (1): A11–A12, doi:10.1007/BF01699101, ISSN 0026-9255, S2CID 197662655
+Hofreiter (1936), "Literaturberichte: Moderne Algebra", Monatshefte für Mathematik und Physik, 45 (1): A25–A26, doi:10.1007/BF01708057, ISSN 0026-9255, S2CID 124462638
+Hofreiter (1941), "Literaturberichte: Moderne Algebra", Monatshefte für Mathematik und Physik, 49 (1): A21, doi:10.1007/BF01707351, ISSN 0026-9255
+Ore, Oystein (1931), "Recent Publications: Reviews: Moderne Algebra", The American Mathematical Monthly, 38 (4): 226, doi:10.2307/2301771, ISSN 0002-9890, JSTOR 2301771
+Ore, Oystein (1932), "Book Review: Moderne Algebra", Bulletin of the American Mathematical Society, 38 (5): 327–329, doi:10.1090/S0002-9904-1932-05385-X, ISSN 0002-9904
+Ore, Oystein (1938), "Book Review: Moderne Algebra", Bulletin of the American Mathematical Society, 44 (5): 320–321, doi:10.1090/S0002-9904-1938-06737-7, ISSN 0002-9904
+Noether, Emmy (1929), "Hyperkomplexe Größen und Darstellungstheorie", Mathematische Zeitschrift, 30: 641–692, doi:10.1007/BF01187794, ISSN 0025-5874, S2CID 120464373
+Schlote, K.-H. (2005), "Chapter 70 B. L. van der Waerden, Moderne Algebra", in Grattan-Guinness, Ivor (ed.), Landmark writings in western mathematics 1640--1940, Elsevier B. V., Amsterdam, pp. 901–916, ISBN 978-0-444-50871-3, MR 2169816
+Taussky, Olga (1933), "Literaturberichte: Moderne Algebra", Monatshefte für Mathematik und Physik, 40 (1): A3–A4, doi:10.1007/BF01708891, ISSN 0026-9255, S2CID 124038027

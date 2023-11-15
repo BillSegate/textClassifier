@@ -1,0 +1,11 @@
+In mathematics, restricted root systems, sometimes called relative root systems, are the root systems associated with a symmetric space. The associated finite reflection group is called the restricted Weyl group. The restricted root system of a symmetric space and its dual can be identified. For symmetric spaces of noncompact type arising as homogeneous spaces of a semisimple Lie group, the restricted root system and its Weyl group are related to the Iwasawa decomposition of the Lie group.
+
+See also
+Satake diagram
+
+References
+Bump, Daniel (2004), Lie groups, Graduate Texts in Mathematics, vol. 225, Springer, ISBN 0387211543
+Helgason, Sigurdur (1978), Differential geometry, Lie groups, and symmetric spaces, Academic Press, ISBN 0821828487
+Onishchik, A. L.; Vinberg, E. B. (1994), Lie Groups and Lie Algebras III: Structure of Lie Groups and Lie Algebras, Encyclopaedia of Mathematical Sciences, vol. 41, Springer, ISBN 9783540546832
+Wolf, Joseph A. (2010), Spaces of constant curvature, AMS Chelsea Publishing (6th ed.), American Mathematical Society, ISBN 0821852825
+Wolf, Joseph A. (1972), "Fine structure of Hermitian symmetric spaces", in Boothby, William; Weiss, Guido (eds.), Symmetric spaces (Short Courses, Washington University), Pure and Applied Mathematics, vol. 8, Dekker, pp. 271–357, ISBN 978-0-608-30568-4

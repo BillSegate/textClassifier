@@ -1,0 +1,111 @@
+List of works by Nicolas Minorsky.
+
+Books
+Minorsky, N. (1947). Introduction to non-linear mechanics: Topological methods, analytical methods, non-linear resonance, relaxation oscillations. J.W. Edwards. ASIN B0007DXRVY.
+Minorsky, Nicolai (1955). Influence d'Henri Poincaré sur l'évolution moderne de la théorie des oscillations non linéaires [Influence of Henri Poincaré on the modern development of the theory of nonlinear oscillations]. Le livre du centenaire de la naissance de Henri Poincaré, 1854-1954 (in French). Paris, Gauthier-Villars. pp. 120–126. OCLC 10571426.
+Minorsky, N. (1958). Dynamics and Nonlinear Mechanics: The Theory of Oscillations. Surveys in Applied Mathematics. Wiley. pp. 110–206. ASIN B0006AVKQW.
+Minorsky, N. (1962). G. Szego; et al. (eds.). On some aspects of non-linear oscillations. Studies in Mathematical Analysis and Related Topics. Stanford Univ Pr (April 1962). ISBN 978-0804701402.
+Minorsky, N. (1967). Théorie des Oscillations [Theory of Oscillations]. Memorial des Sciences Mathematiques, Fascicule CLXIII (in French). ASIN B000LQD7KI.
+Minorsky, Nicolai; Hetnarski, Richard B.; Mróz, Zenon (1967). Drgania nieliniowe [Nonlinear oscillations] (in Polish). Warszawa : Państwowe Wydawnictwo Naukowe. OCLC 749191659.
+
+Papers
+Minorsky, N. (May 1922). "Directional stability of automatically steered bodies". Journal of the American Society of Naval Engineers. 34 (2): 280–309. doi:10.1111/j.1559-3584.1922.tb04958.x.
+Minorsky, N. (February 1927). "Phenomenon of direct-current self excitation in vacuum tubes circuits and in applications". J. Franklin Inst. 203 (2): 181–209. doi:10.1016/S0016-0032(27)92437-5.
+Minorsky, N. (April 1928). "La rotation de l'arc électrique dans champ magnétique radial" [The rotation of an arc in a radial magnetic field]. J. Phys. Radium (in French). 9 (4): 127–136. doi:10.1051/jphysrad:0192800904012700.
+Minorsky, N. (1928). "Mesure de la vitesse d'un aéronef par rapport au sol en l'absence supposée de tout repère extérieur" [Measuring the speed of an aircraft relative to the ground in the absence of any assumed approximate]. L'Aéronautique (in French). 113.
+Minorsky, N. (May 1930). "Automatic steering test". Journal of the American Society for Naval Engineers. 42 (2): 285–310. doi:10.1111/j.1559-3584.1930.tb05036.x.
+Minorsky, N. (June 1930). "Electronic conduction and ionization in crossed electric and magnetic fields". Journal of the Franklin Institute. 209 (6): 757–775. doi:10.1016/S0016-0032(30)91472-X. ISSN 0016-0032.
+Minorsky, N. (August 1934). "Ship stabilization by activated tank: An experimental investigation". The Engineer. 158: 154.
+Minorsky, N. (27 January 1936). "Une méthode d'intégration de quelques équations différentielles par un procédé électrique" [A method of integration of the differential equations by some electrical method]. C. R. Acad. Sci. (in French). 202: 293–295. Retrieved 8 July 2014.
+Minorsky, N. (30 May 1936). "Application des circuits électroniques à l'intégration graphique de quelques équations différentielles" [Application of the electronic circuits to the graphic integration of some differential equations]. Rev Gén Elec. (in French). 34.
+Minorsky, N. (March 1937). "The principles and practice of automatic control". The Engineer. 9.
+Minorsky, N. (September 1941). "Note on the angular motion of ships". Journal of Applied Mechanics. 45.
+Minorsky, N. (November 1941). "Control Problems". Journal of the Franklin Institute. 232 (5): 451–487. doi:10.1016/S0016-0032(41)90069-8.
+Minorsky, N. (December 1941). "Control Problems (cont.)". Journal of the Franklin Institute. 232 (6): 519–551. doi:10.1016/S0016-0032(41)90178-3.
+Minorsky, N. (June 1942). "Self-excited in dynamical systems possessing retarded actions". J. Appl. Mech. 9.
+Minorsky, N. (15 October 1944). "On mechanical self-excited oscillations". Proceedings of the National Academy of Sciences of the United States of America. 30 (10): 308–314. Bibcode:1944PNAS...30..308M. doi:10.1073/pnas.30.10.308. PMC 1078718. PMID 16578134.
+Minorsky, N. (1 November 1945). "On non-linear phenomenon of self-rolling". Proceedings of the National Academy of Sciences of the United States of America. 31 (11): 346–349. Bibcode:1945PNAS...31..346M. doi:10.1073/pnas.31.11.346. PMC 1078842. PMID 16578177.
+Minorsky, N. (July 1945). "On parametric excitation". J. Franklin Inst. 240 (1): 25–46. doi:10.1016/0016-0032(45)90217-1.
+Minorsky, N. (February 1947). "A dynamical analogue". J. Franklin Inst. 243 (2): 131–149. doi:10.1016/0016-0032(74)90312-3.
+Minorsky, N. (October 1947). "Experiments with activated tanks". Trans. ASME. 69: 735.
+Minorsky, N. (April 1948). "Self-excited mechanical oscillations". Journal of Applied Physics. 19 (4): 332–338. Bibcode:1948JAP....19..332M. doi:10.1063/1.1715068. ISSN 0021-8979.
+Minorsky, N. (April 1948). "Sur une classe d'oscillations auto-entretenues" [On a class of self-sustained oscillations]. C. R. Acad. Sci. Mécanique (in French). 226.
+Minorsky, N. (January 1949). "Sur l'oscillateur de van der Pol" [On the van der Pol oscillator]. C. R. Acad. Sci. Physique mathématique (in French). 228.
+Minorsky, N. (September 1949). "Energy fluctuations in a van der Pol oscillator". J. Franklin Inst. 248 (3): 205–223. doi:10.1016/0016-0032(49)90210-0.
+Minorsky, N. (December 1950). "Meccanica non-lineare" [Non-Linear Mechanics]. Bollettino dell'Unione Matematica Italiana. 3 (in Italian). 5: 313–330. Retrieved 9 July 2014.
+Minorsky, N. (18 December 1950). "Sur l'excitation paramétrique" [On the parametric excitation]. C. R. Acad. Sci. Mécanique (in French). 231: 1417–1419. Retrieved 9 July 2014.
+Minorsky, N. (January 1951). "Parametric excitation". J. Appl. Phys. 22 (1): 49–54. Bibcode:1951JAP....22...49M. doi:10.1063/1.1699819.
+Minorsky, N. (1951). "Sur une équation différentielle de la physique" [On a differential equation of the physical]. C. R. Acad. Sci. Mécanique (in French). 232.
+Minorsky, N. (1 October 1951). "Sur le pendule entretenu par un courant alternatif" [On the clock maintained by an alternating current]. C. R. Acad. Sci. Mécanique (in French). 233: 728, 729. Retrieved 10 July 2014.
+Minorsky, N. (March 1951). "Modern nonlinear trends in engineering". Applied Mechanics Reviews. 4. ISSN 0003-6900.
+Minorsky, N. (June 1951). "Sur l'oscillateur non linéaire de Mathieu" [The Mathieu nonlinear oscillator]. C. R. Acad. Sci. (in French). 232.
+Minorsky, N. (January 1952). "Sur l'interaction des oscillations non linéaires" [On the interaction of nonlinear oscillations]. C. R. Acad. Sci. (in French). 234.
+Minorsky, N. (March 1952). "Sur les systèmes à l'action retardée le pendule entretenu par un courant alternatif" [Systems to share the delayed clock maintained by an alternating current]. C. R. Acad. Sci. Mécanique (in French). 234.
+Minorsky, N. (July 1952). "Stationary solutions of certain nonlinear differential equations". J. Franklin Inst. 254 (1): 21–42. doi:10.1016/0016-0032(52)90003-3.
+Minorsky, N. (September 1952). "Sur des systèmes oscillatoires contenant des paramètres à inertie" [On oscillatory systems containing inertia parameters]. C. R. Acad. Sci. (in French). 235.
+Minorsky, N. (August 1953). "On interaction of non-linear oscillations". J. Franklin Inst. 256 (2): 147–165. doi:10.1016/0016-0032(53)90941-7.
+Minorsky, N. (1953). "Sur l'extinction asynchrone". C. R. Acad. Sci. 237.
+Minorsky, N. (December 1953). "Sur quelques applications des équations differentielles aux différences" [On some applications of differential equations to differences]. Rendiconti del Seminario Matematico e Fisico di Milano (in French). 23 (1): 36–47. doi:10.1007/BF02922522. S2CID 124405883.
+Minorsky, N. (1953). "Sur les systèmes non linéaires à deux degrés de liberté". Rend. Semin. Mal. Torino. 13.
+Minorsky, N. (1953). "Sur l'interaction des oscillation non linéaires". Rendiconti del Seminario Matematico e Fisico di Milano. 25 (1): 145–163. doi:10.1007/BF02923816. S2CID 121303719.
+Minorsky, N. (1954). "La méthode stroboscopique et ses applications". Bull. Soc. Math. Fr. 13.
+Minorsky, N. (1954). "Sur les systèmes non linéaires à deux degrés de liberté". C. R. Acad. Sci. 238.
+Minorsky, N. (1955). "On synchronous actions". J. Franklin Inst. 259 (3): 209–219. doi:10.1016/0016-0032(55)90825-5.
+Minorsky, N. (1955). "Sur la méthode stroboscopique et ses applications". Proc. 8th Int. Congr. Theorel. Appl. Mech.
+Minorsky, N. (1955). "Sur la résonance non linéaires". C. R. Acad. Sci. 240.
+Minorsky, N. (1955). "Sur l'espace paramétrique de l'équation de M. Liénard". C. R. Acad. Sci. Mécanique. 240.
+Minorsky, N. (1957). "Structure topolgique de l'équation de M. Liénard". J. Phys. Phys. Appl. 18 (s12): 121–130. doi:10.1051/jphysap:019570018012012100.
+Minorsky, N. (1958). "Equations différentielles - Sur l'excitation paramétrique". C. R. Acad. Sci. 247.
+Minorsky, N. (1958). "Sur la synchronisation". C. R. Acad. Sci. Mécanique. 247.
+Minorsky, N. (1959). "Sur les phénomènes paramétriques". Atti. Accad. Sci. Ist. Bologna, Cl. Sci. Fis. 247.
+Minorsky, N. (1959). "Sur les phénomènes paramétriques". Rend. Semin. Mat. Fis. Milano. 11. 6.
+Minorsky, N. (1959). "Sur l'action asynchrone". C. R. Acad. Sci. Mécanique. 248.
+Minorsky, N. (1960). "Sur l'interaction des oscillations non linéaires". C. R. Acad. Sci. Mécanique. 250.
+Minorsky, N. (1960). "Méthode stroboscopique et ses applications". Cah. Phys. 119.
+Minorsky, N. (1960). "Theoretical aspects of nonlinear oscillations". Circuit Theory, IRE Transactions on. 7 (4): 368–381. doi:10.1109/TCT.1960.1086717.
+Minorsky, N. (1961). "Sur quelques aspects des oscillation non linéaires". C. R. Acad. Sci. 253.
+Minorsky, N. (1962). "Sur les oscillation quasi discontinues". C. R. Acad. Sci. 255.
+Minorsky, N. (1962). "Sur la résonance non linéaires". C. R. Acad. Sci. 254.
+Minorsky, N. (1962). "Sur la résonance non linéaires". C. R. Acad. Sci. 254.
+Minorsky, N. (1963). "Sur la méthode stroboscopique". C. R. Acad. Sci. 256.
+Minorsky, N. (1963). "Existence et stabilité de certaines solutions périodiques multiformes d'une équation de Duffing". C. R. Acad. Sci. 256.
+Minorsky, N. (1964). "Sur la synchronisation". C. R. Acad. Sci. 259.
+Minorsky, N. (1965). "Sur les oscillations quasi discontinues". C. R. Acad. Sci. 261.
+Minorsky, N. (1965). "Sur les phénomènes paramétriques". C. R. Acad. Sci. 261.
+Minorsky, N. (1965). "Sur ll'interaction des oscillations non linéaires". C. R. Acad. Sci. 261.
+Minorsky, N. (1965). "Sur les oscillations quasi discontinues". C. R. Acad. Sci. Mécanique. 261.
+Minorsky, N. (1966). "Sur la méthode stroboscopique". C. R. Acad. Sci. 263.
+Minorsky, N. (1967). "Comments "On asynchronous quenching"". IEEE Transactions on Automatic Control. 12 (2): 225–227. doi:10.1109/TAC.1967.1098559.
+Minorsky, N. (1968). "Sur les équations différentielles aux différences". C. R. Acad. Sci. 266.
+
+Conferences
+Minorsky, N. (1948). Self-excited oscillations in systems possessing retarded actions. 7th Int. Congr. Appl. Math, London, England.
+Minorsky, N. (1951). Sur le phénomène Béthenod. Actes Colloq. Int. Vibrations linéaires, Porqurolles, France.
+Minorsky, N. (1952). Non-linear control systems. Conf. Automat. Contr., London:Butterworth.
+Minorsky, N. (1952). Sur la méthode stroboscopique. Mem. lett. Accad. Sci. Ist., Bologna.
+Minorsky, N. (1952). Sur quelques oscillatoires contenant les paramètres à inertie. Ann. Fac. Sci. Univ. d'Aix, Marseilles, France.
+Minorsky, N. (1957). Nouvelles méthodes de la théorie des oscillations. Conf. Semin. Mat. Univ. Bari.
+Minorsky, N. (1961). On synchronization. Int. Union Theor. Appl. Mech. Symp. Nonlinear Vibrations, Kiev, U.S.S.R.
+Minorsky, N. (1963). On synchronization. Tr. Mizh. Symp. po Nelin. Kolebelina, vol. 1, Kiev, U.S.S.R.
+Minorsky, N. (1964). Les vibrations forcées dans les systèmes non linéaires. Coll. Int. Centre Nat. Rech. Sci., no. 148, Marseilles, France.
+Minorsky, N. (1965). Sur les systèmes non autonomes. Colloques Inl. Centre Nat. Rech. Sci., vol 148.
+
+Patents
+US patent 1306552, N. Minorsky, "Gyrometer", published 1919-06-10,  assigned to The Sperry Gyroscope company 
+US patent 1372184, N. Minorsky, "Angular-velocity-indicating apparatus", published 1921-03-22,  assigned to N. Minorsky 
+US patent 1436280, N. Minorsky, "Automatic steering device", published 1922-11-21,  assigned to N. Minorsky 
+US patent 1633822, N. Minorsky, "System of motor control", published 1927-06-28,  assigned to The General Electric Company 
+US patent 1703280, N. Minorsky, "Directional stabilizer", published 1929-02-26,  assigned to N. Minorsky 
+US patent 1703317, N. Minorsky, "Automatic steering device", published 1929-02-26,  assigned to N. Minorsky 
+US patent 1840911, N. Minorsky, "Induction compass", published 1932-01-12,  assigned to N. Minorsky 
+US patent 1853069, N. Minorsky, "Stabilizing apparatus", published 1932-04-12,  assigned to N. Minorsky 
+US patent RE19038, N. Minorsky, "Induction compass", published 1934-01-02,  assigned to Bendix Aviation Corporation 
+US patent 1950946, N. Minorsky, "Navigational instrument", published 1934-03-13,  assigned to Pioneer Instr. Co. Inc. 
+US patent 2017072, N. Minorsky, "Stabilizing apparatus", published 1935-10-15,  assigned to N. Minorsky 
+US patent 2202162, N. Minorsky, "Antirolling stabilization of ships", published 1940-05-28,  assigned to N. Minorsky 
+US patent 2071759, N. Minorsky, "Electron discharge tube system", published 1937-02-23,  assigned to RCA Corp. 
+US patent 2449563, N. Minorsky, "Balancing machine", published 1948-09-21,  assigned to Gyro Balance Corp. 
+A US patent 2590029 A, N. Minorsky, "Torque amplifying system", published 1952-03-18,  assigned to Lear Inc. 
+
+
+== References ==

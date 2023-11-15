@@ -1,0 +1,84 @@
+In geometry, a uniform polyhedron is a polyhedron which has regular polygons as faces and is vertex-transitive (transitive on its vertices, isogonal, i.e. there is an isometry mapping any vertex onto any other). It follows that all vertices are congruent, and the polyhedron has a high degree of reflectional and rotational symmetry.
+Uniform polyhedra can be divided between convex forms with convex regular polygon faces and star forms. Star forms have either regular star polygon faces or vertex figures or both.
+This list includes these:
+
+all 75 nonprismatic uniform polyhedra;
+a few representatives of the infinite sets of prisms and antiprisms;
+one degenerate polyhedron, Skilling's figure with overlapping edges.It was proven in Sopov (1970) that there are only 75 uniform polyhedra other than the infinite families of prisms and antiprisms.  John Skilling discovered an overlooked degenerate example, by relaxing the condition that only two faces may meet at an edge. This is a degenerate uniform polyhedron rather than a uniform polyhedron, because some pairs of edges coincide.
+Not included are:
+
+The uniform polyhedron compounds.
+40 potential uniform polyhedra with degenerate vertex figures which have overlapping edges (not counted by Coxeter);
+The uniform tilings (infinite polyhedra)
+11 Euclidean convex uniform tilings;
+28 Euclidean nonconvex or apeirogonal uniform tilings;
+Infinite number of uniform tilings in hyperbolic plane.
+Any polygons or 4-polytopes
+
+Indexing
+Four numbering schemes for the uniform polyhedra are in common use, distinguished by letters:
+
+[C] Coxeter et al., 1954, showed the convex forms as figures 15 through 32; three prismatic forms, figures 33–35; and the nonconvex forms, figures 36–92.
+[W] Wenninger, 1974, has 119 figures: 1–5 for the Platonic solids, 6–18 for the Archimedean solids, 19–66 for stellated forms including the 4 regular nonconvex polyhedra, and ended with 67–119 for the nonconvex uniform polyhedra.
+[K] Kaleido, 1993: The 80 figures were grouped by symmetry: 1–5 as representatives of the infinite families of prismatic forms with dihedral symmetry, 6–9 with tetrahedral symmetry, 10–26 with octahedral symmetry, 27–80 with icosahedral symmetry.
+[U] Mathematica, 1993, follows the Kaleido series with the 5 prismatic forms moved to last, so that the nonprismatic forms become 1–75.
+
+Names of polyhedra by number of sides
+There are generic geometric names for the most common polyhedra. The 5 Platonic solids are called a tetrahedron, hexahedron, octahedron, dodecahedron and icosahedron with 4, 6, 8, 12, and 20 sides respectively. The regular hexahedron is a cube.
+
+Table of polyhedra
+The convex forms are listed in order of degree of vertex configurations from 3 faces/vertex and up, and in increasing sides per face. This ordering allows topological similarities to be shown.
+There are infinitely many prisms and antiprisms, one for each regular polygon; the ones up to the 12-gonal cases are listed.
+
+Convex uniform polyhedra
+Uniform star polyhedra
+The forms containing only convex faces are listed first, followed by the forms with star faces. Again infinitely many prisms and antiprisms exist; they are listed here up to the 8-sided ones.
+The uniform polyhedra | 5/2 3 3, | 5/2 3/2 3/2, | 5/3 5/2 3, | 3/2 5/3 3 5/2, and | (3/2) 5/3 (3) 5/2 have some faces occurring as coplanar pairs. (Coxeter et al. 1954, pp. 423, 425, 426; Skilling 1975, p. 123)
+
+Special case
+The great disnub dirhombidodecahedron has 240 of its 360 edges coinciding in space in 120 pairs. Because of this edge-degeneracy, it is not always considered to be a uniform polyhedron.
+
+Column key
+Uniform indexing: U01–U80 (Tetrahedron first, Prisms at 76+)
+Kaleido software indexing: K01–K80 (Kn = Un–5 for n = 6 to 80) (prisms 1–5, Tetrahedron etc. 6+)
+Magnus Wenninger Polyhedron Models: W001-W119
+1–18: 5 convex regular and 13 convex semiregular
+20–22, 41: 4 non-convex regular
+19–66: Special 48 stellations/compounds (Nonregulars not given on this list)
+67–109: 43 non-convex non-snub uniform
+110–119: 10 non-convex snub uniform
+Chi: the Euler characteristic, χ.  Uniform tilings on the plane correspond to a torus topology, with Euler characteristic of zero.
+Density: the Density (polytope) represents the number of windings of a polyhedron around its center. This is left blank for non-orientable polyhedra and hemipolyhedra (polyhedra with faces passing through their centers), for which the density is not well-defined.
+Note on Vertex figure images:
+The white polygon lines represent the "vertex figure" polygon. The colored faces are included on the vertex figure images help see their relations. Some of the intersecting faces are drawn visually incorrectly because they are not properly intersected visually to show which portions are in front.
+
+See also
+List of uniform polyhedra by vertex figure
+List of uniform polyhedra by Wythoff symbol
+List of uniform polyhedra by Schwarz triangle
+
+References
+Coxeter, Harold Scott MacDonald; Longuet-Higgins, M. S.; Miller, J. C. P. (1954). "Uniform polyhedra". Philosophical Transactions of the Royal Society of London. Series A. Mathematical and Physical Sciences. The Royal Society. 246 (916): 401–450. Bibcode:1954RSPTA.246..401C. doi:10.1098/rsta.1954.0003. ISSN 0080-4614. JSTOR 91532. MR 0062446. S2CID 202575183.
+Skilling, J. (1975). "The complete set of uniform polyhedra". Philosophical Transactions of the Royal Society of London. Series A. Mathematical and Physical Sciences. 278 (1278): 111–135. Bibcode:1975RSPTA.278..111S. doi:10.1098/rsta.1975.0022. ISSN 0080-4614. JSTOR 74475. MR 0365333. S2CID 122634260.
+Sopov, S. P. (1970). "A proof of the completeness on the list of elementary homogeneous polyhedra". Ukrainskiui Geometricheskiui Sbornik (8): 139–156. MR 0326550.
+Wenninger, Magnus (1974). Polyhedron Models. Cambridge University Press. ISBN 0-521-09859-9.
+Wenninger, Magnus (1983). Dual Models. Cambridge University Press. ISBN 0-521-54325-8.
+
+External links
+Stella: Polyhedron Navigator – Software able to generate and print nets for all uniform polyhedra.  Used to create most images on this page.
+Paper models
+Uniform indexing: U1-U80, (Tetrahedron first)
+Uniform Polyhedra (80), Paul Bourke
+Weisstein, Eric W. "Uniform Polyhedron". MathWorld.
+http://www.mathconsult.ch/showroom/unipoly
+All uniform polyhedra by rotation group
+https://web.archive.org/web/20171110075259/http://gratrix.net/polyhedra/uniform/summary/
+http://www.it-c.dk/edu/documentation/mathworks/math/math/u/u034.htm
+http://www.buddenbooks.com/jb/uniform/
+Kaleido Indexing: K1-K80 (Pentagonal prism first)
+https://www.math.technion.ac.il/~rl/kaleido
+https://web.archive.org/web/20110927223146/http://www.math.technion.ac.il/~rl/docs/uniform.pdf Uniform Solution for Uniform Polyhedra
+http://bulatov.org/polyhedra/uniform
+http://www.orchidpalms.com/polyhedra/uniform/uniform.html
+Also
+http://www.polyedergarten.de/polyhedrix/e_klintro.htm

@@ -1,0 +1,193 @@
+This is a list of dynamical system and differential equation topics, by Wikipedia page. See also list of partial differential equation topics, list of equations.
+
+Dynamical systems, in general
+Deterministic system (mathematics)
+Linear system
+Partial differential equation
+Dynamical systems and chaos theory
+Chaos theory
+Chaos argument
+Butterfly effect
+0-1 test for chaos
+Bifurcation diagram
+Feigenbaum constant
+Sharkovskii's theorem
+Attractor
+Strange nonchaotic attractor
+Stability theory
+Mechanical equilibrium
+Astable
+Monostable
+Bistability
+Metastability
+Feedback
+Negative feedback
+Positive feedback
+Homeostasis
+Damping ratio
+Dissipative system
+Spontaneous symmetry breaking
+Turbulence
+Perturbation theory
+Control theory
+Non-linear control
+Adaptive control
+Hierarchical control
+Intelligent control
+Optimal control
+Dynamic programming
+Robust control
+Stochastic control
+System dynamics, system analysis
+Takens' theorem
+Exponential dichotomy
+Liénard's theorem
+Krylov–Bogolyubov theorem
+Krylov-Bogoliubov averaging method
+
+Abstract dynamical systems
+Measure-preserving dynamical system
+Ergodic theory
+Mixing (mathematics)
+Almost periodic function
+Symbolic dynamics
+Time scale calculus
+Arithmetic dynamics
+Sequential dynamical system
+Graph dynamical system
+Topological dynamical system
+
+Dynamical systems, examples
+List of chaotic maps
+Logistic map
+Lorenz attractor
+Lorenz-96
+Iterated function system
+Tetration
+Ackermann function
+Horseshoe map
+Hénon map
+Arnold's cat map
+Population dynamics
+
+Complex dynamics
+Fatou set
+Julia set
+Mandelbrot set
+
+Difference equations
+Recurrence relation
+Matrix difference equation
+Rational difference equation
+
+Ordinary differential equations: general
+Examples of differential equations
+Autonomous system (mathematics)
+Picard–Lindelöf theorem
+Peano existence theorem
+Carathéodory existence theorem
+Numerical ordinary differential equations
+Bendixson–Dulac theorem
+Gradient conjecture
+Recurrence plot
+Limit cycle
+Initial value problem
+Clairaut's equation
+Singular solution
+Poincaré–Bendixson theorem
+Riccati equations
+Functional differential equation
+
+Linear differential equations
+Exponential growth
+Malthusian catastrophe
+Exponential response formula
+Simple harmonic motion
+Phasor (physics)
+RLC circuit
+Resonance
+Impedance
+Reactance
+Musical tuning
+Orbital resonance
+Tidal resonance
+Oscillator
+Harmonic oscillator
+Electronic oscillator
+Floquet theory
+Fundamental frequency
+Oscillation (Vibration)
+Fundamental matrix (linear differential equation)
+Laplace transform applied to differential equations
+Sturm–Liouville theory
+Wronskian
+Loewy decomposition
+
+Mechanics
+Pendulum
+Inverted pendulum
+Double pendulum
+Foucault pendulum
+Spherical pendulum
+Kinematics
+Equation of motion
+Dynamics (mechanics)
+Classical mechanics
+Isolated physical system
+Lagrangian mechanics
+Hamiltonian mechanics
+Routhian mechanics
+Hamilton-Jacobi theory
+Appell's equation of motion
+Udwadia–Kalaba equation
+Celestial mechanics
+Orbit
+Lagrange point
+Kolmogorov-Arnold-Moser theorem
+N-body problem, many-body problem
+Ballistics
+
+Functions defined via an ODE
+Airy function
+Bessel function
+Legendre polynomials
+Hypergeometric function
+
+Rotating systems
+Angular velocity
+Angular momentum
+Angular acceleration
+Angular displacement
+Rotational invariance
+Rotational inertia
+Torque
+Rotational energy
+Centripetal force
+Centrifugal force
+Centrifugal governor
+Coriolis force
+Axis of rotation
+Flywheel
+Flywheel energy storage
+Momentum wheel
+Spinning top
+Gyroscope
+Gyrocompass
+Precession
+Nutation
+
+Swarms
+Particle swarm optimization
+Self-propelled particles
+Swarm intelligence
+
+Stochastic dynamic equations
+Random walk
+Autoregressive process
+Unit root
+Moving average process
+Autoregressive–moving-average model
+Autoregressive integrated moving average
+Vector autoregressive model
+Stochastic differential equation
+Stochastic partial differential equation

@@ -1,0 +1,24 @@
+In geometry, a polygon is traditionally a plane figure that is bounded by a finite chain of straight line segments closing in a loop to form a closed chain. These segments are called its edges or sides, and the points where two of the edges meet are the polygon's vertices (singular: vertex) or corners.
+The word polygon comes from Late Latin polygōnum (a noun), from Greek πολύγωνον (polygōnon/polugōnon), noun use of neuter of πολύγωνος (polygōnos/polugōnos, the masculine adjective), meaning "many-angled". Individual polygons are named (and sometimes classified) according to the number of sides, combining a Greek-derived numerical prefix with the suffix -gon, e.g. pentagon, dodecagon. The triangle, quadrilateral and nonagon are exceptions, although the regular forms trigon, tetragon, and enneagon are sometimes encountered as well.
+
+Greek numbers
+Polygons are primarily named by prefixes from Ancient Greek numbers.
+
+Systematic polygon names
+To construct the name of a polygon with more than 20 and fewer than 100 edges, combine the prefixes as follows. The "kai" connector is not included by some authors.
+
+Extending the system up to 999 is expressed with these prefixes; the names over 99 no longer correspond to how they are actually expressed in Greek.
+
+List of n-gons by Greek numerical prefixes
+See also
+Platonic solid
+Dice
+List of polygons, polyhedra and polytopes
+Circle
+Ellipses
+Shapes
+
+References
+
+NAMING POLYGONS
+Benjamin Franklin Finkel, A Mathematical Solution Book Containing Systematic Solutions to Many of the Most Difficult Problems, 1888

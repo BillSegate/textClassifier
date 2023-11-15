@@ -1,0 +1,3589 @@
+In statistical mechanics, Maxwell–Boltzmann statistics describes the distribution of classical material particles over various energy states in thermal equilibrium. It is applicable when the temperature is high enough or the particle density is low enough to render quantum effects negligible.
+The expected number of particles with energy 
+  
+    
+      
+        
+          ε
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{i}}
+   for Maxwell–Boltzmann statistics is
+
+  
+    
+      
+        ⟨
+        
+          N
+          
+            i
+          
+        
+        ⟩
+        =
+        
+          
+            
+              g
+              
+                i
+              
+            
+            
+              e
+              
+                (
+                
+                  ε
+                  
+                    i
+                  
+                
+                −
+                μ
+                )
+                
+                  /
+                
+                k
+                T
+              
+            
+          
+        
+        =
+        
+          
+            N
+            Z
+          
+        
+        
+        
+          g
+          
+            i
+          
+        
+        
+          e
+          
+            −
+            
+              ε
+              
+                i
+              
+            
+            
+              /
+            
+            k
+            T
+          
+        
+        ,
+      
+    
+    {\displaystyle \langle N_{i}\rangle ={\frac {g_{i}}{e^{(\varepsilon _{i}-\mu )/kT}}}={\frac {N}{Z}}\,g_{i}e^{-\varepsilon _{i}/kT},}
+  where:
+
+  
+    
+      
+        
+          ε
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{i}}
+   is the energy of the i-th energy level,
+
+  
+    
+      
+        ⟨
+        
+          N
+          
+            i
+          
+        
+        ⟩
+      
+    
+    {\displaystyle \langle N_{i}\rangle }
+   is the average number of particles in the set of states with energy 
+  
+    
+      
+        
+          ε
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{i}}
+  ,
+
+  
+    
+      
+        
+          g
+          
+            i
+          
+        
+      
+    
+    {\displaystyle g_{i}}
+   is the degeneracy of energy level i, that is, the number of states with energy 
+  
+    
+      
+        
+          ε
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{i}}
+   which may nevertheless be distinguished from each other by some other means,
+μ is the chemical potential,
+k is the Boltzmann constant,
+T is absolute temperature,
+N is the total number of particles: 
+Z is the partition function: 
+e is Euler's numberEquivalently, the number of particles is sometimes expressed as
+
+  
+    
+      
+        ⟨
+        
+          N
+          
+            i
+          
+        
+        ⟩
+        =
+        
+          
+            1
+            
+              e
+              
+                (
+                
+                  ε
+                  
+                    i
+                  
+                
+                −
+                μ
+                )
+                
+                  /
+                
+                k
+                T
+              
+            
+          
+        
+        =
+        
+          
+            N
+            Z
+          
+        
+        
+        
+          e
+          
+            −
+            
+              ε
+              
+                i
+              
+            
+            
+              /
+            
+            k
+            T
+          
+        
+        ,
+      
+    
+    {\displaystyle \langle N_{i}\rangle ={\frac {1}{e^{(\varepsilon _{i}-\mu )/kT}}}={\frac {N}{Z}}\,e^{-\varepsilon _{i}/kT},}
+  where the index i now specifies a particular state rather than the set of all states with energy 
+  
+    
+      
+        
+          ε
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{i}}
+  , and 
+  
+    
+      
+        Z
+        =
+        
+          ∑
+          
+            i
+          
+        
+        
+          e
+          
+            −
+            
+              ε
+              
+                i
+              
+            
+            
+              /
+            
+            k
+            T
+          
+        
+      
+    
+    {\textstyle Z=\sum _{i}e^{-\varepsilon _{i}/kT}}
+  .
+
+History
+Maxwell–Boltzmann statistics grew out of the Maxwell–Boltzmann distribution, most likely as a distillation of the underlying technique. The distribution was first derived by Maxwell in 1860 on heuristic grounds. Boltzmann later, in the 1870s, carried out significant investigations into the physical origins of this distribution. The distribution can be derived on the ground that it maximizes the entropy of the system.
+
+Applicability
+Maxwell–Boltzmann statistics is used to derive the Maxwell–Boltzmann distribution of an ideal gas. However, it can also be used to extend that distribution to particles with a different energy–momentum relation, such as relativistic particles (resulting in Maxwell–Jüttner distribution), and to other than three-dimensional spaces.
+Maxwell–Boltzmann statistics is often described as the statistics of "distinguishable" classical particles. In other words, the configuration of particle A in state 1 and particle B in state 2 is different from the case in which particle B is in state 1 and particle A is in state 2. This assumption leads to the proper (Boltzmann) statistics of particles in the energy states, but yields non-physical results for the entropy, as embodied in the Gibbs paradox.
+At the same time, there are no real particles that have the characteristics required by Maxwell–Boltzmann statistics. Indeed, the Gibbs paradox is resolved if we treat all particles of a certain type (e.g., electrons, protons, etc.) as principally indistinguishable. Once this assumption is made, the particle statistics change. The change in entropy in the entropy of mixing example may be viewed as an example of a non-extensive entropy resulting from the distinguishability of the two types of particles being mixed.
+Quantum particles are either bosons (following instead Bose–Einstein statistics) or fermions (subject to the Pauli exclusion principle, following instead Fermi–Dirac statistics). Both of these quantum statistics approach the Maxwell–Boltzmann statistics in the limit of high temperature and low particle density.
+
+Derivations
+Maxwell–Boltzmann statistics can be derived in various statistical mechanical thermodynamic ensembles:
+The grand canonical ensemble, exactly.
+The canonical ensemble, exactly.
+The microcanonical ensemble, but only in the thermodynamic limit.In each case it is necessary to assume that the particles are non-interacting, and that multiple particles can occupy the same state and do so independently.
+
+Derivation from microcanonical ensemble
+Suppose we have a container with a huge number of very small particles all with identical physical characteristics (such as mass, charge, etc.). Let's refer to this as the system. Assume that though the particles have identical properties, they are distinguishable. For example, we might identify each particle by continually observing their trajectories, or by placing a marking on each one, e.g., drawing a different number on each one as is done with lottery balls.
+The particles are moving inside that container in all directions with great speed. Because the particles are speeding around, they possess some energy. The Maxwell–Boltzmann distribution is a mathematical function that describes about how many particles in the container have a certain energy. More precisely, the Maxwell–Boltzmann distribution gives the non-normalized probability (this means that the probabilities do not add up to 1) that the state corresponding to a particular energy is occupied.
+In general, there may be many particles with the same amount of energy 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+  . Let the number of particles with the same energy 
+  
+    
+      
+        
+          ε
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{1}}
+   be 
+  
+    
+      
+        
+          N
+          
+            1
+          
+        
+      
+    
+    {\displaystyle N_{1}}
+  , the number of particles possessing another energy 
+  
+    
+      
+        
+          ε
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{2}}
+   be 
+  
+    
+      
+        
+          N
+          
+            2
+          
+        
+      
+    
+    {\displaystyle N_{2}}
+  , and so forth for all the possible energies 
+  
+    
+      
+        {
+        
+          ε
+          
+            i
+          
+        
+        ∣
+        i
+        =
+        1
+        ,
+        2
+        ,
+        3
+        ,
+        …
+        }
+        .
+      
+    
+    {\displaystyle \{\varepsilon _{i}\mid i=1,2,3,\ldots \}.}
+   To describe this situation, we say that 
+  
+    
+      
+        
+          N
+          
+            i
+          
+        
+      
+    
+    {\displaystyle N_{i}}
+   is the occupation number of the energy level 
+  
+    
+      
+        i
+        .
+      
+    
+    {\displaystyle i.}
+   If we know all the occupation numbers 
+  
+    
+      
+        {
+        
+          N
+          
+            i
+          
+        
+        ∣
+        i
+        =
+        1
+        ,
+        2
+        ,
+        3
+        ,
+        …
+        }
+        ,
+      
+    
+    {\displaystyle \{N_{i}\mid i=1,2,3,\ldots \},}
+   then we know the total energy of the system. However, because we can distinguish between which particles are occupying each energy level, the set of occupation numbers 
+  
+    
+      
+        {
+        
+          N
+          
+            i
+          
+        
+        ∣
+        i
+        =
+        1
+        ,
+        2
+        ,
+        3
+        ,
+        …
+        }
+      
+    
+    {\displaystyle \{N_{i}\mid i=1,2,3,\ldots \}}
+   does not completely describe the state of the system. To completely describe the state of the system, or the microstate, we must specify exactly which particles are in each energy level. Thus when we count the number of possible states of the system, we must count each and every microstate, and not just the possible sets of occupation numbers.
+To begin with, assume that there is only one state at each energy level 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   (there is no degeneracy). What follows next is a bit of combinatorial thinking which has little to do in accurately describing the reservoir of particles. For instance, let's say there is a total of 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   boxes labelled 
+  
+    
+      
+        a
+        ,
+        b
+        ,
+        …
+        ,
+        k
+      
+    
+    {\displaystyle a,b,\ldots ,k}
+  . With the concept of combination, we could calculate how many ways there are to arrange 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   into the set of boxes, where the order of balls within each box isn’t tracked. First, we select 
+  
+    
+      
+        
+          N
+          
+            a
+          
+        
+      
+    
+    {\displaystyle N_{a}}
+   balls from a total of 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   balls to place into box 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  , and continue to select for each box from the remaining balls, ensuring that every ball is placed in one of the boxes. The total number of ways that the balls can be arranged is
+
+  
+    
+      
+        
+          
+            
+              
+                W
+              
+              
+                
+                =
+                
+                  
+                    
+                      N
+                      !
+                    
+                    
+                      
+                        N
+                        
+                          a
+                        
+                      
+                      !
+                      
+                        
+                          (
+                          N
+                          −
+                          
+                            N
+                            
+                              a
+                            
+                          
+                          )
+                          !
+                        
+                      
+                    
+                  
+                
+                ×
+                
+                  
+                    
+                      (
+                      N
+                      −
+                      
+                        N
+                        
+                          a
+                        
+                      
+                      )
+                      !
+                    
+                    
+                      
+                        N
+                        
+                          b
+                        
+                      
+                      !
+                      
+                        
+                          (
+                          N
+                          −
+                          
+                            N
+                            
+                              a
+                            
+                          
+                          −
+                          
+                            N
+                            
+                              b
+                            
+                          
+                          )
+                          !
+                        
+                      
+                    
+                  
+                
+                ×
+                
+                  
+                    
+                      (
+                      N
+                      −
+                      
+                        N
+                        
+                          a
+                        
+                      
+                      −
+                      
+                        N
+                        
+                          b
+                        
+                      
+                      )
+                      !
+                    
+                    
+                      
+                        N
+                        
+                          c
+                        
+                      
+                      !
+                      
+                        
+                          (
+                          N
+                          −
+                          
+                            N
+                            
+                              a
+                            
+                          
+                          −
+                          
+                            N
+                            
+                              b
+                            
+                          
+                          −
+                          
+                            N
+                            
+                              c
+                            
+                          
+                          )
+                          !
+                        
+                      
+                    
+                  
+                
+                ×
+                ⋯
+                ×
+                
+                  
+                    
+                      (
+                      N
+                      −
+                      ⋯
+                      −
+                      
+                        N
+                        
+                          ℓ
+                        
+                      
+                      )
+                      !
+                    
+                    
+                      
+                        N
+                        
+                          k
+                        
+                      
+                      !
+                      (
+                      N
+                      −
+                      ⋯
+                      −
+                      
+                        N
+                        
+                          ℓ
+                        
+                      
+                      −
+                      
+                        N
+                        
+                          k
+                        
+                      
+                      )
+                      !
+                    
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    
+                      N
+                      !
+                    
+                    
+                      
+                        N
+                        
+                          a
+                        
+                      
+                      !
+                      
+                        N
+                        
+                          b
+                        
+                      
+                      !
+                      
+                        N
+                        
+                          c
+                        
+                      
+                      !
+                      ⋯
+                      
+                        N
+                        
+                          k
+                        
+                      
+                      !
+                      (
+                      N
+                      −
+                      
+                        N
+                        
+                          a
+                        
+                      
+                      −
+                      ⋯
+                      −
+                      
+                        N
+                        
+                          ℓ
+                        
+                      
+                      −
+                      
+                        N
+                        
+                          k
+                        
+                      
+                      )
+                      !
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}W&={\frac {N!}{N_{a}!{\cancel {(N-N_{a})!}}}}\times {\frac {\cancel {(N-N_{a})!}}{N_{b}!{\cancel {(N-N_{a}-N_{b})!}}}}\times {\frac {\cancel {(N-N_{a}-N_{b})!}}{N_{c}!{\cancel {(N-N_{a}-N_{b}-N_{c})!}}}}\times \cdots \times {\frac {\cancel {(N-\cdots -N_{\ell })!}}{N_{k}!(N-\cdots -N_{\ell }-N_{k})!}}\\[8pt]&={\frac {N!}{N_{a}!N_{b}!N_{c}!\cdots N_{k}!(N-N_{a}-\cdots -N_{\ell }-N_{k})!}}\end{aligned}}}
+  As every ball has been placed into a box, 
+  
+    
+      
+        (
+        N
+        −
+        
+          N
+          
+            a
+          
+        
+        −
+        
+          N
+          
+            b
+          
+        
+        −
+        ⋯
+        −
+        
+          N
+          
+            k
+          
+        
+        )
+        !
+        =
+        0
+        !
+        =
+        1
+      
+    
+    {\displaystyle (N-N_{a}-N_{b}-\cdots -N_{k})!=0!=1}
+  , and we simplify the expression as
+
+  
+    
+      
+        W
+        =
+        N
+        !
+        
+          ∏
+          
+            ℓ
+            =
+            a
+            ,
+            b
+            ,
+            …
+          
+          
+            k
+          
+        
+        
+          
+            1
+            
+              
+                N
+                
+                  ℓ
+                
+              
+              !
+            
+          
+        
+      
+    
+    {\displaystyle W=N!\prod _{\ell =a,b,\ldots }^{k}{\frac {1}{N_{\ell }!}}}
+  This is just the multinomial coefficient, the number of ways of arranging N items into k boxes, the l-th box holding Nl items, ignoring the permutation of items in each box.
+Now, consider the case where there is more than one way to put 
+  
+    
+      
+        
+          N
+          
+            i
+          
+        
+      
+    
+    {\displaystyle N_{i}}
+   particles in the box 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   (i.e. taking the degeneracy problem into consideration). If the 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  -th box has a "degeneracy" of 
+  
+    
+      
+        
+          g
+          
+            i
+          
+        
+      
+    
+    {\displaystyle g_{i}}
+  , that is, it has 
+  
+    
+      
+        
+          g
+          
+            i
+          
+        
+      
+    
+    {\displaystyle g_{i}}
+   "sub-boxes" (
+  
+    
+      
+        
+          g
+          
+            i
+          
+        
+      
+    
+    {\displaystyle g_{i}}
+   boxes with the same energy 
+  
+    
+      
+        
+          ε
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{i}}
+  . These states/boxes with the same energy are called degenerate states.), such that any way of filling the 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  -th box where the number in the sub-boxes is changed is a distinct way of filling the box, then the number of ways of filling the i-th box must be increased by the number of ways of distributing the 
+  
+    
+      
+        
+          N
+          
+            i
+          
+        
+      
+    
+    {\displaystyle N_{i}}
+   objects in the 
+  
+    
+      
+        
+          g
+          
+            i
+          
+        
+      
+    
+    {\displaystyle g_{i}}
+   "sub-boxes". The number of ways of placing 
+  
+    
+      
+        
+          N
+          
+            i
+          
+        
+      
+    
+    {\displaystyle N_{i}}
+   distinguishable objects in 
+  
+    
+      
+        
+          g
+          
+            i
+          
+        
+      
+    
+    {\displaystyle g_{i}}
+   "sub-boxes" is 
+  
+    
+      
+        
+          g
+          
+            i
+          
+          
+            
+              N
+              
+                i
+              
+            
+          
+        
+      
+    
+    {\displaystyle g_{i}^{N_{i}}}
+   (the first object can go into any of the 
+  
+    
+      
+        
+          g
+          
+            i
+          
+        
+      
+    
+    {\displaystyle g_{i}}
+   boxes, the second object can also go into any of the 
+  
+    
+      
+        
+          g
+          
+            i
+          
+        
+      
+    
+    {\displaystyle g_{i}}
+   boxes, and so on). Thus the number of ways 
+  
+    
+      
+        W
+      
+    
+    {\displaystyle W}
+   that a total of 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   particles can be classified into energy levels according to their energies, while each level 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   having 
+  
+    
+      
+        
+          g
+          
+            i
+          
+        
+      
+    
+    {\displaystyle g_{i}}
+   distinct states such that the i-th level accommodates 
+  
+    
+      
+        
+          N
+          
+            i
+          
+        
+      
+    
+    {\displaystyle N_{i}}
+   particles is:
+
+  
+    
+      
+        W
+        =
+        N
+        !
+        
+          ∏
+          
+            i
+          
+        
+        
+          
+            
+              g
+              
+                i
+              
+              
+                
+                  N
+                  
+                    i
+                  
+                
+              
+            
+            
+              
+                N
+                
+                  i
+                
+              
+              !
+            
+          
+        
+      
+    
+    {\displaystyle W=N!\prod _{i}{\frac {g_{i}^{N_{i}}}{N_{i}!}}}
+  This is the form for W first derived by Boltzmann. Boltzmann's fundamental equation 
+  
+    
+      
+        S
+        =
+        k
+        
+        ln
+        ⁡
+        W
+      
+    
+    {\displaystyle S=k\,\ln W}
+   relates the thermodynamic entropy S to the number of microstates W, where k is the Boltzmann constant. It was pointed out by Gibbs however, that the above expression for W does not yield an extensive entropy, and is therefore faulty. This problem is known as the Gibbs paradox. The problem is that the particles considered by the above equation are not indistinguishable. In other words, for two particles (A and B) in two energy sublevels the population represented by [A,B] is considered distinct from the population [B,A] while for indistinguishable particles, they are not. If we carry out the argument for indistinguishable particles, we are led to the Bose–Einstein expression for W:
+
+  
+    
+      
+        W
+        =
+        
+          ∏
+          
+            i
+          
+        
+        
+          
+            
+              (
+              
+                N
+                
+                  i
+                
+              
+              +
+              
+                g
+                
+                  i
+                
+              
+              −
+              1
+              )
+              !
+            
+            
+              
+                N
+                
+                  i
+                
+              
+              !
+              (
+              
+                g
+                
+                  i
+                
+              
+              −
+              1
+              )
+              !
+            
+          
+        
+      
+    
+    {\displaystyle W=\prod _{i}{\frac {(N_{i}+g_{i}-1)!}{N_{i}!(g_{i}-1)!}}}
+  The Maxwell–Boltzmann distribution follows from this Bose–Einstein distribution for temperatures well above absolute zero, implying that 
+  
+    
+      
+        
+          g
+          
+            i
+          
+        
+        ≫
+        1
+      
+    
+    {\displaystyle g_{i}\gg 1}
+  . The Maxwell–Boltzmann distribution also requires low density, implying that 
+  
+    
+      
+        
+          g
+          
+            i
+          
+        
+        ≫
+        
+          N
+          
+            i
+          
+        
+      
+    
+    {\displaystyle g_{i}\gg N_{i}}
+  . Under these conditions, we may use Stirling's approximation for the factorial:
+
+  
+    
+      
+        N
+        !
+        ≈
+        
+          N
+          
+            N
+          
+        
+        
+          e
+          
+            −
+            N
+          
+        
+        ,
+      
+    
+    {\displaystyle N!\approx N^{N}e^{-N},}
+  to write:
+
+  
+    
+      
+        W
+        ≈
+        
+          ∏
+          
+            i
+          
+        
+        
+          
+            
+              (
+              
+                N
+                
+                  i
+                
+              
+              +
+              
+                g
+                
+                  i
+                
+              
+              
+                )
+                
+                  
+                    N
+                    
+                      i
+                    
+                  
+                  +
+                  
+                    g
+                    
+                      i
+                    
+                  
+                
+              
+            
+            
+              
+                N
+                
+                  i
+                
+                
+                  
+                    N
+                    
+                      i
+                    
+                  
+                
+              
+              
+                g
+                
+                  i
+                
+                
+                  
+                    g
+                    
+                      i
+                    
+                  
+                
+              
+            
+          
+        
+        ≈
+        
+          ∏
+          
+            i
+          
+        
+        
+          
+            
+              
+                g
+                
+                  i
+                
+                
+                  
+                    N
+                    
+                      i
+                    
+                  
+                
+              
+              (
+              1
+              +
+              
+                N
+                
+                  i
+                
+              
+              
+                /
+              
+              
+                g
+                
+                  i
+                
+              
+              
+                )
+                
+                  
+                    g
+                    
+                      i
+                    
+                  
+                
+              
+            
+            
+              N
+              
+                i
+              
+              
+                
+                  N
+                  
+                    i
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle W\approx \prod _{i}{\frac {(N_{i}+g_{i})^{N_{i}+g_{i}}}{N_{i}^{N_{i}}g_{i}^{g_{i}}}}\approx \prod _{i}{\frac {g_{i}^{N_{i}}(1+N_{i}/g_{i})^{g_{i}}}{N_{i}^{N_{i}}}}}
+  Using the fact that 
+  
+    
+      
+        (
+        1
+        +
+        
+          N
+          
+            i
+          
+        
+        
+          /
+        
+        
+          g
+          
+            i
+          
+        
+        
+          )
+          
+            
+              g
+              
+                i
+              
+            
+          
+        
+        ≈
+        
+          e
+          
+            
+              N
+              
+                i
+              
+            
+          
+        
+      
+    
+    {\displaystyle (1+N_{i}/g_{i})^{g_{i}}\approx e^{N_{i}}}
+   for 
+  
+    
+      
+        
+          g
+          
+            i
+          
+        
+        ≫
+        
+          N
+          
+            i
+          
+        
+      
+    
+    {\displaystyle g_{i}\gg N_{i}}
+   we can again use Stirling's approximation to write:
+
+  
+    
+      
+        W
+        ≈
+        
+          ∏
+          
+            i
+          
+        
+        
+          
+            
+              g
+              
+                i
+              
+              
+                
+                  N
+                  
+                    i
+                  
+                
+              
+            
+            
+              
+                N
+                
+                  i
+                
+              
+              !
+            
+          
+        
+      
+    
+    {\displaystyle W\approx \prod _{i}{\frac {g_{i}^{N_{i}}}{N_{i}!}}}
+  This is essentially a division by N! of Boltzmann's original expression for W, and this correction is referred to as correct Boltzmann counting.
+We wish to find the 
+  
+    
+      
+        
+          N
+          
+            i
+          
+        
+      
+    
+    {\displaystyle N_{i}}
+   for which the function 
+  
+    
+      
+        W
+      
+    
+    {\displaystyle W}
+   is maximized, while considering the constraint that there is a fixed number of particles 
+  
+    
+      
+        
+          (
+          
+            N
+            =
+            ∑
+            
+              N
+              
+                i
+              
+            
+          
+          )
+        
+      
+    
+    {\textstyle \left(N=\sum N_{i}\right)}
+   and a fixed energy 
+  
+    
+      
+        
+          (
+          
+            E
+            =
+            ∑
+            
+              N
+              
+                i
+              
+            
+            
+              ε
+              
+                i
+              
+            
+          
+          )
+        
+      
+    
+    {\textstyle \left(E=\sum N_{i}\varepsilon _{i}\right)}
+   in the container. The maxima of 
+  
+    
+      
+        W
+      
+    
+    {\displaystyle W}
+   and 
+  
+    
+      
+        ln
+        ⁡
+        (
+        W
+        )
+      
+    
+    {\displaystyle \ln(W)}
+   are achieved by the same values of 
+  
+    
+      
+        
+          N
+          
+            i
+          
+        
+      
+    
+    {\displaystyle N_{i}}
+   and, since it is easier to accomplish mathematically, we will maximize the latter function instead. We constrain our solution using Lagrange multipliers forming the function:
+
+  
+    
+      
+        f
+        (
+        
+          N
+          
+            1
+          
+        
+        ,
+        
+          N
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          N
+          
+            n
+          
+        
+        )
+        =
+        
+          ln
+          ⁡
+          (
+          W
+          )
+          +
+          α
+          (
+          N
+          −
+          ∑
+          
+            N
+            
+              i
+            
+          
+          )
+          +
+          β
+          (
+          E
+          −
+          ∑
+          
+            N
+            
+              i
+            
+          
+          
+            ε
+            
+              i
+            
+          
+          )
+        
+      
+    
+    {\displaystyle f(N_{1},N_{2},\ldots ,N_{n})=\textstyle \ln(W)+\alpha (N-\sum N_{i})+\beta (E-\sum N_{i}\varepsilon _{i})}
+  
+
+  
+    
+      
+        ln
+        ⁡
+        W
+        =
+        ln
+        ⁡
+        
+          [
+          
+            
+              ∏
+              
+                i
+                =
+                1
+              
+              
+                n
+              
+            
+            
+              
+                
+                  g
+                  
+                    i
+                  
+                  
+                    
+                      N
+                      
+                        i
+                      
+                    
+                  
+                
+                
+                  
+                    N
+                    
+                      i
+                    
+                  
+                  !
+                
+              
+            
+          
+          ]
+        
+        ≈
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          (
+          
+            
+              N
+              
+                i
+              
+            
+            ln
+            ⁡
+            
+              g
+              
+                i
+              
+            
+            −
+            
+              N
+              
+                i
+              
+            
+            ln
+            ⁡
+            
+              N
+              
+                i
+              
+            
+            +
+            
+              N
+              
+                i
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \ln W=\ln \left[\prod _{i=1}^{n}{\frac {g_{i}^{N_{i}}}{N_{i}!}}\right]\approx \sum _{i=1}^{n}\left(N_{i}\ln g_{i}-N_{i}\ln N_{i}+N_{i}\right)}
+  Finally
+
+  
+    
+      
+        f
+        (
+        
+          N
+          
+            1
+          
+        
+        ,
+        
+          N
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          N
+          
+            n
+          
+        
+        )
+        =
+        α
+        N
+        +
+        β
+        E
+        +
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          (
+          
+            
+              N
+              
+                i
+              
+            
+            ln
+            ⁡
+            
+              g
+              
+                i
+              
+            
+            −
+            
+              N
+              
+                i
+              
+            
+            ln
+            ⁡
+            
+              N
+              
+                i
+              
+            
+            +
+            
+              N
+              
+                i
+              
+            
+            −
+            (
+            α
+            +
+            β
+            
+              ε
+              
+                i
+              
+            
+            )
+            
+              N
+              
+                i
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle f(N_{1},N_{2},\ldots ,N_{n})=\alpha N+\beta E+\sum _{i=1}^{n}\left(N_{i}\ln g_{i}-N_{i}\ln N_{i}+N_{i}-(\alpha +\beta \varepsilon _{i})N_{i}\right)}
+  In order to maximize the expression above we apply Fermat's theorem (stationary points), according to which local extrema, if exist, must be at critical points (partial derivatives vanish):
+
+  
+    
+      
+        
+          
+            
+              ∂
+              f
+            
+            
+              ∂
+              
+                N
+                
+                  i
+                
+              
+            
+          
+        
+        =
+        ln
+        ⁡
+        
+          g
+          
+            i
+          
+        
+        −
+        ln
+        ⁡
+        
+          N
+          
+            i
+          
+        
+        −
+        (
+        α
+        +
+        β
+        
+          ε
+          
+            i
+          
+        
+        )
+        =
+        0
+      
+    
+    {\displaystyle {\frac {\partial f}{\partial N_{i}}}=\ln g_{i}-\ln N_{i}-(\alpha +\beta \varepsilon _{i})=0}
+  By solving the equations above (
+  
+    
+      
+        i
+        =
+        1
+        …
+        n
+      
+    
+    {\displaystyle i=1\ldots n}
+  ) we arrive to an expression for 
+  
+    
+      
+        
+          N
+          
+            i
+          
+        
+      
+    
+    {\displaystyle N_{i}}
+  :
+
+  
+    
+      
+        
+          N
+          
+            i
+          
+        
+        =
+        
+          
+            
+              g
+              
+                i
+              
+            
+            
+              e
+              
+                α
+                +
+                β
+                
+                  ε
+                  
+                    i
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle N_{i}={\frac {g_{i}}{e^{\alpha +\beta \varepsilon _{i}}}}}
+  Substituting this expression for 
+  
+    
+      
+        
+          N
+          
+            i
+          
+        
+      
+    
+    {\displaystyle N_{i}}
+   into the equation for 
+  
+    
+      
+        ln
+        ⁡
+        W
+      
+    
+    {\displaystyle \ln W}
+   and assuming that 
+  
+    
+      
+        N
+        ≫
+        1
+      
+    
+    {\displaystyle N\gg 1}
+   yields:
+
+  
+    
+      
+        ln
+        ⁡
+        W
+        =
+        (
+        α
+        +
+        1
+        )
+        N
+        +
+        β
+        E
+        
+      
+    
+    {\displaystyle \ln W=(\alpha +1)N+\beta E\,}
+  or, rearranging:
+
+  
+    
+      
+        E
+        =
+        
+          
+            
+              ln
+              ⁡
+              W
+            
+            β
+          
+        
+        −
+        
+          
+            N
+            β
+          
+        
+        −
+        
+          
+            
+              α
+              N
+            
+            β
+          
+        
+      
+    
+    {\displaystyle E={\frac {\ln W}{\beta }}-{\frac {N}{\beta }}-{\frac {\alpha N}{\beta }}}
+  Boltzmann realized that this is just an expression of the Euler-integrated fundamental equation of thermodynamics. Identifying E as the internal energy, the Euler-integrated fundamental equation states that :
+
+  
+    
+      
+        E
+        =
+        T
+        S
+        −
+        P
+        V
+        +
+        μ
+        N
+      
+    
+    {\displaystyle E=TS-PV+\mu N}
+  where T is the temperature, P is pressure, V is volume, and μ is the chemical potential. Boltzmann's famous equation 
+  
+    
+      
+        S
+        =
+        k
+        ln
+        ⁡
+        W
+      
+    
+    {\displaystyle S=k\ln W}
+   is the realization that the entropy is proportional to 
+  
+    
+      
+        ln
+        ⁡
+        W
+      
+    
+    {\displaystyle \ln W}
+   with the constant of proportionality being the Boltzmann constant. Using the ideal gas equation of state (PV = NkT), It follows immediately that 
+  
+    
+      
+        β
+        =
+        1
+        
+          /
+        
+        k
+        T
+      
+    
+    {\displaystyle \beta =1/kT}
+   and 
+  
+    
+      
+        α
+        =
+        −
+        μ
+        
+          /
+        
+        k
+        T
+      
+    
+    {\displaystyle \alpha =-\mu /kT}
+   so that the populations may now be written:
+
+  
+    
+      
+        
+          N
+          
+            i
+          
+        
+        =
+        
+          
+            
+              g
+              
+                i
+              
+            
+            
+              e
+              
+                (
+                
+                  ε
+                  
+                    i
+                  
+                
+                −
+                μ
+                )
+                
+                  /
+                
+                (
+                k
+                T
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle N_{i}={\frac {g_{i}}{e^{(\varepsilon _{i}-\mu )/(kT)}}}}
+  Note that the above formula is sometimes written:
+
+  
+    
+      
+        
+          N
+          
+            i
+          
+        
+        =
+        
+          
+            
+              g
+              
+                i
+              
+            
+            
+              
+                e
+                
+                  
+                    ε
+                    
+                      i
+                    
+                  
+                  
+                    /
+                  
+                  k
+                  T
+                
+              
+              
+                /
+              
+              z
+            
+          
+        
+      
+    
+    {\displaystyle N_{i}={\frac {g_{i}}{e^{\varepsilon _{i}/kT}/z}}}
+  where 
+  
+    
+      
+        z
+        =
+        exp
+        ⁡
+        (
+        μ
+        
+          /
+        
+        k
+        T
+        )
+      
+    
+    {\displaystyle z=\exp(\mu /kT)}
+   is the absolute activity.
+Alternatively, we may use the fact that
+
+  
+    
+      
+        
+          ∑
+          
+            i
+          
+        
+        
+          N
+          
+            i
+          
+        
+        =
+        N
+      
+    
+    {\displaystyle \sum _{i}N_{i}=N}
+  to obtain the population numbers as
+
+  
+    
+      
+        
+          N
+          
+            i
+          
+        
+        =
+        N
+        
+          
+            
+              
+                g
+                
+                  i
+                
+              
+              
+                e
+                
+                  −
+                  
+                    ε
+                    
+                      i
+                    
+                  
+                  
+                    /
+                  
+                  k
+                  T
+                
+              
+            
+            Z
+          
+        
+      
+    
+    {\displaystyle N_{i}=N{\frac {g_{i}e^{-\varepsilon _{i}/kT}}{Z}}}
+  where Z is the partition function defined by:
+
+  
+    
+      
+        Z
+        =
+        
+          ∑
+          
+            i
+          
+        
+        
+          g
+          
+            i
+          
+        
+        
+          e
+          
+            −
+            
+              ε
+              
+                i
+              
+            
+            
+              /
+            
+            k
+            T
+          
+        
+      
+    
+    {\displaystyle Z=\sum _{i}g_{i}e^{-\varepsilon _{i}/kT}}
+  In an approximation where εi is considered to be a continuous variable, the Thomas–Fermi approximation yields a continuous degeneracy g proportional to 
+  
+    
+      
+        
+          
+            ε
+          
+        
+      
+    
+    {\displaystyle {\sqrt {\varepsilon }}}
+   so that:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  ε
+                
+              
+              
+              
+                e
+                
+                  −
+                  ε
+                  
+                    /
+                  
+                  k
+                  T
+                
+              
+            
+            
+              
+                ∫
+                
+                  0
+                
+                
+                  ∞
+                
+              
+              
+                
+                  ε
+                
+              
+              
+              
+                e
+                
+                  −
+                  ε
+                  
+                    /
+                  
+                  k
+                  T
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  ε
+                
+              
+              
+              
+                e
+                
+                  −
+                  ε
+                  
+                    /
+                  
+                  k
+                  T
+                
+              
+            
+            
+              
+                
+                  
+                    π
+                  
+                  2
+                
+              
+              (
+              k
+              T
+              
+                )
+                
+                  3
+                  
+                    /
+                  
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              2
+              
+                
+                  ε
+                
+              
+              
+              
+                e
+                
+                  −
+                  ε
+                  
+                    /
+                  
+                  k
+                  T
+                
+              
+            
+            
+              π
+              (
+              k
+              T
+              
+                )
+                
+                  3
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {{\sqrt {\varepsilon }}\,e^{-\varepsilon /kT}}{\int _{0}^{\infty }{\sqrt {\varepsilon }}\,e^{-\varepsilon /kT}}}={\frac {{\sqrt {\varepsilon }}\,e^{-\varepsilon /kT}}{{\frac {\sqrt {\pi }}{2}}(kT)^{3/2}}}={\frac {2{\sqrt {\varepsilon }}\,e^{-\varepsilon /kT}}{\sqrt {\pi (kT)^{3}}}}}
+  which is just the Maxwell–Boltzmann distribution for the energy.
+
+Derivation from canonical ensemble
+In the above discussion, the Boltzmann distribution function was obtained via directly analysing the multiplicities of a system. Alternatively, one can make use of the canonical ensemble. In a canonical ensemble, a system is in thermal contact with a reservoir.  While energy is free to flow between the system and the reservoir, the reservoir is thought to have infinitely large heat capacity as to maintain constant temperature, T, for the combined system.
+In the present context, our system is assumed to have the energy levels 
+  
+    
+      
+        
+          ε
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{i}}
+   with degeneracies 
+  
+    
+      
+        
+          g
+          
+            i
+          
+        
+      
+    
+    {\displaystyle g_{i}}
+  . As before, we would like to calculate the probability that our system has energy 
+  
+    
+      
+        
+          ε
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{i}}
+  .
+If our system is in state 
+  
+    
+      
+        
+        
+          s
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \;s_{1}}
+  , then there would be a corresponding number of microstates available to the reservoir. Call this number 
+  
+    
+      
+        
+        
+          Ω
+          
+            R
+          
+        
+        (
+        
+          s
+          
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle \;\Omega _{R}(s_{1})}
+  . By assumption, the combined system (of the system we are interested in and the reservoir) is isolated, so all microstates are equally probable. Therefore, for instance, if 
+  
+    
+      
+        
+        
+          Ω
+          
+            R
+          
+        
+        (
+        
+          s
+          
+            1
+          
+        
+        )
+        =
+        2
+        
+        
+          Ω
+          
+            R
+          
+        
+        (
+        
+          s
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle \;\Omega _{R}(s_{1})=2\;\Omega _{R}(s_{2})}
+  , we can conclude that our system is twice as likely to be in state 
+  
+    
+      
+        
+        
+          s
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \;s_{1}}
+   than 
+  
+    
+      
+        
+        
+          s
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \;s_{2}}
+  . In general, if 
+  
+    
+      
+        
+        P
+        (
+        
+          s
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle \;P(s_{i})}
+   is the probability that our system is in state 
+  
+    
+      
+        
+        
+          s
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \;s_{i}}
+  ,
+
+  
+    
+      
+        
+          
+            
+              P
+              (
+              
+                s
+                
+                  1
+                
+              
+              )
+            
+            
+              P
+              (
+              
+                s
+                
+                  2
+                
+              
+              )
+            
+          
+        
+        =
+        
+          
+            
+              
+                Ω
+                
+                  R
+                
+              
+              (
+              
+                s
+                
+                  1
+                
+              
+              )
+            
+            
+              
+                Ω
+                
+                  R
+                
+              
+              (
+              
+                s
+                
+                  2
+                
+              
+              )
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {P(s_{1})}{P(s_{2})}}={\frac {\Omega _{R}(s_{1})}{\Omega _{R}(s_{2})}}.}
+  Since the entropy of the reservoir 
+  
+    
+      
+        
+        
+          S
+          
+            R
+          
+        
+        =
+        k
+        ln
+        ⁡
+        
+          Ω
+          
+            R
+          
+        
+      
+    
+    {\displaystyle \;S_{R}=k\ln \Omega _{R}}
+  , the above becomes
+
+  
+    
+      
+        
+          
+            
+              P
+              (
+              
+                s
+                
+                  1
+                
+              
+              )
+            
+            
+              P
+              (
+              
+                s
+                
+                  2
+                
+              
+              )
+            
+          
+        
+        =
+        
+          
+            
+              e
+              
+                
+                  S
+                  
+                    R
+                  
+                
+                (
+                
+                  s
+                  
+                    1
+                  
+                
+                )
+                
+                  /
+                
+                k
+              
+            
+            
+              e
+              
+                
+                  S
+                  
+                    R
+                  
+                
+                (
+                
+                  s
+                  
+                    2
+                  
+                
+                )
+                
+                  /
+                
+                k
+              
+            
+          
+        
+        =
+        
+          e
+          
+            (
+            
+              S
+              
+                R
+              
+            
+            (
+            
+              s
+              
+                1
+              
+            
+            )
+            −
+            
+              S
+              
+                R
+              
+            
+            (
+            
+              s
+              
+                2
+              
+            
+            )
+            )
+            
+              /
+            
+            k
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {P(s_{1})}{P(s_{2})}}={\frac {e^{S_{R}(s_{1})/k}}{e^{S_{R}(s_{2})/k}}}=e^{(S_{R}(s_{1})-S_{R}(s_{2}))/k}.}
+  Next we recall the thermodynamic identity (from the first law of thermodynamics):
+
+  
+    
+      
+        d
+        
+          S
+          
+            R
+          
+        
+        =
+        
+          
+            1
+            T
+          
+        
+        (
+        d
+        
+          U
+          
+            R
+          
+        
+        +
+        P
+        
+        d
+        
+          V
+          
+            R
+          
+        
+        −
+        μ
+        
+        d
+        
+          N
+          
+            R
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle dS_{R}={\frac {1}{T}}(dU_{R}+P\,dV_{R}-\mu \,dN_{R}).}
+  In a canonical ensemble, there is no exchange of particles, so the 
+  
+    
+      
+        d
+        
+          N
+          
+            R
+          
+        
+      
+    
+    {\displaystyle dN_{R}}
+   term is zero. Similarly, 
+  
+    
+      
+        d
+        
+          V
+          
+            R
+          
+        
+        =
+        0.
+      
+    
+    {\displaystyle dV_{R}=0.}
+    This gives
+
+  
+    
+      
+        
+          S
+          
+            R
+          
+        
+        (
+        
+          s
+          
+            1
+          
+        
+        )
+        −
+        
+          S
+          
+            R
+          
+        
+        (
+        
+          s
+          
+            2
+          
+        
+        )
+        =
+        
+          
+            1
+            T
+          
+        
+        (
+        
+          U
+          
+            R
+          
+        
+        (
+        
+          s
+          
+            1
+          
+        
+        )
+        −
+        
+          U
+          
+            R
+          
+        
+        (
+        
+          s
+          
+            2
+          
+        
+        )
+        )
+        =
+        −
+        
+          
+            1
+            T
+          
+        
+        (
+        E
+        (
+        
+          s
+          
+            1
+          
+        
+        )
+        −
+        E
+        (
+        
+          s
+          
+            2
+          
+        
+        )
+        )
+        ,
+      
+    
+    {\displaystyle S_{R}(s_{1})-S_{R}(s_{2})={\frac {1}{T}}(U_{R}(s_{1})-U_{R}(s_{2}))=-{\frac {1}{T}}(E(s_{1})-E(s_{2})),}
+  where 
+  
+    
+      
+        
+          U
+          
+            R
+          
+        
+        (
+        
+          s
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle U_{R}(s_{i})}
+   and 
+  
+    
+      
+        E
+        (
+        
+          s
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle E(s_{i})}
+   denote the energies of the reservoir and the system at 
+  
+    
+      
+        
+          s
+          
+            i
+          
+        
+      
+    
+    {\displaystyle s_{i}}
+  , respectively. For the second equality we have used the conservation of energy. Substituting into the first equation relating 
+  
+    
+      
+        P
+        (
+        
+          s
+          
+            1
+          
+        
+        )
+        ,
+        
+        P
+        (
+        
+          s
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle P(s_{1}),\;P(s_{2})}
+  :
+
+  
+    
+      
+        
+          
+            
+              P
+              (
+              
+                s
+                
+                  1
+                
+              
+              )
+            
+            
+              P
+              (
+              
+                s
+                
+                  2
+                
+              
+              )
+            
+          
+        
+        =
+        
+          
+            
+              e
+              
+                −
+                E
+                (
+                
+                  s
+                  
+                    1
+                  
+                
+                )
+                
+                  /
+                
+                k
+                T
+              
+            
+            
+              e
+              
+                −
+                E
+                (
+                
+                  s
+                  
+                    2
+                  
+                
+                )
+                
+                  /
+                
+                k
+                T
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\frac {P(s_{1})}{P(s_{2})}}={\frac {e^{-E(s_{1})/kT}}{e^{-E(s_{2})/kT}}},}
+  which implies, for any state s of the system
+
+  
+    
+      
+        P
+        (
+        s
+        )
+        =
+        
+          
+            1
+            Z
+          
+        
+        
+          e
+          
+            −
+            E
+            (
+            s
+            )
+            
+              /
+            
+            k
+            T
+          
+        
+        ,
+      
+    
+    {\displaystyle P(s)={\frac {1}{Z}}e^{-E(s)/kT},}
+  where Z is an appropriately chosen "constant" to make total probability 1. (Z is constant provided that the temperature T is invariant.)
+
+  
+    
+      
+        Z
+        =
+        
+          ∑
+          
+            s
+          
+        
+        
+          e
+          
+            −
+            E
+            (
+            s
+            )
+            
+              /
+            
+            k
+            T
+          
+        
+        ,
+      
+    
+    {\displaystyle Z=\sum _{s}e^{-E(s)/kT},}
+  where the index s runs through all microstates of the system. Z is sometimes called the Boltzmann sum over states (or "Zustandssumme" in the original German). If we index the summation via the energy eigenvalues instead of all possible states, degeneracy must be taken into account. The probability of our system having energy 
+  
+    
+      
+        
+          ε
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{i}}
+   is simply the sum of the probabilities of all corresponding microstates:
+
+  
+    
+      
+        P
+        (
+        
+          ε
+          
+            i
+          
+        
+        )
+        =
+        
+          
+            1
+            Z
+          
+        
+        
+          g
+          
+            i
+          
+        
+        
+          e
+          
+            −
+            
+              ε
+              
+                i
+              
+            
+            
+              /
+            
+            k
+            T
+          
+        
+      
+    
+    {\displaystyle P(\varepsilon _{i})={\frac {1}{Z}}g_{i}e^{-\varepsilon _{i}/kT}}
+  where, with obvious modification,
+
+  
+    
+      
+        Z
+        =
+        
+          ∑
+          
+            j
+          
+        
+        
+          g
+          
+            j
+          
+        
+        
+          e
+          
+            −
+            
+              ε
+              
+                j
+              
+            
+            
+              /
+            
+            k
+            T
+          
+        
+        ,
+      
+    
+    {\displaystyle Z=\sum _{j}g_{j}e^{-\varepsilon _{j}/kT},}
+  this is the same result as before.
+Comments on this derivation:
+
+Notice that in this formulation, the initial assumption "... suppose the system has total N particles..." is dispensed with. Indeed, the number of particles possessed by the system plays no role in arriving at the distribution. Rather, how many particles would occupy states with energy 
+  
+    
+      
+        
+          ε
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{i}}
+   follows as an easy consequence.
+What has been presented above is essentially a derivation of the canonical partition function. As one can see by comparing the definitions, the Boltzmann sum over states is equal to the canonical partition function.
+Exactly the same approach can be used to derive Fermi–Dirac and Bose–Einstein statistics. However, there one would replace the canonical ensemble with the grand canonical ensemble, since there is exchange of particles between the system and the reservoir. Also, the system one considers in those cases is a single particle state, not a particle. (In the above discussion, we could have assumed our system to be a single atom.)
+
+See also
+Bose–Einstein statistics
+Fermi–Dirac statistics
+Boltzmann factor
+
+Notes
+References
+Bibliography
+Carter, Ashley H., "Classical and Statistical Thermodynamics", Prentice–Hall, Inc., 2001, New Jersey.
+Raj Pathria, "Statistical Mechanics", Butterworth–Heinemann, 1996.

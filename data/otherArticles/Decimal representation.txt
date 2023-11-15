@@ -1,0 +1,1077 @@
+A decimal representation of a non-negative real number r is its expression as a sequence of symbols consisting of decimal digits traditionally written with a single separator: 
+
+Here . is the decimal separator, k is a nonnegative integer, and 
+  
+    
+      
+        
+          b
+          
+            0
+          
+        
+        ,
+        …
+        ,
+        
+          b
+          
+            k
+          
+        
+        ,
+        
+          a
+          
+            1
+          
+        
+        ,
+        
+          a
+          
+            2
+          
+        
+        ,
+        …
+      
+    
+    {\displaystyle b_{0},\ldots ,b_{k},a_{1},a_{2},\ldots }
+   are digits, which are symbols representing integers in the range 0, ..., 9.
+Commonly, 
+  
+    
+      
+        
+          b
+          
+            k
+          
+        
+        ≠
+        0
+      
+    
+    {\displaystyle b_{k}\neq 0}
+   if 
+  
+    
+      
+        k
+        ≥
+        1.
+      
+    
+    {\displaystyle k\geq 1.}
+   The sequence of the 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+      
+    
+    {\displaystyle a_{i}}
+  —the digits after the dot—is generally infinite. If it is finite, the lacking digits are assumed to be 0. If all 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+      
+    
+    {\displaystyle a_{i}}
+   are 0, the separator is also omitted, resulting in a finite sequence of digits, which represents a natural number. 
+The decimal representation represents the infinite sum:
+
+Every nonnegative real number has at least one such representation; it has two such representations (with 
+  
+    
+      
+        
+          b
+          
+            k
+          
+        
+        ≠
+        0
+      
+    
+    {\displaystyle b_{k}\neq 0}
+   if 
+  
+    
+      
+        k
+        >
+        0
+      
+    
+    {\displaystyle k>0}
+  ) if and only if one has a trailing infinite sequence of 0, and the other has a trailing infinite sequence of 9. For having a one-to-one correspondence between nonnegative real numbers and decimal representations, decimal representations with a trailing infinite sequence of 9 are sometimes excluded.
+
+Integer and fractional parts
+The natural number 
+  
+    
+      
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            k
+          
+        
+        
+          b
+          
+            i
+          
+        
+        
+          10
+          
+            i
+          
+        
+      
+    
+    {\textstyle \sum _{i=0}^{k}b_{i}10^{i}}
+  , is called the integer part of r, and is denoted by a0 in the remainder of this article. The sequence of the 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+      
+    
+    {\displaystyle a_{i}}
+   represents the number 
+
+which belongs to the interval 
+  
+    
+      
+        [
+        0
+        ,
+        1
+        )
+        ,
+      
+    
+    {\displaystyle [0,1),}
+   and is called the fractional part of r (except when all 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+      
+    
+    {\displaystyle a_{i}}
+   are 9).
+
+Finite decimal approximations
+Any real number can be approximated to any desired degree of accuracy by rational numbers with finite decimal representations.
+Assume 
+  
+    
+      
+        x
+        ≥
+        0
+      
+    
+    {\displaystyle x\geq 0}
+  . Then for every integer 
+  
+    
+      
+        n
+        ≥
+        1
+      
+    
+    {\displaystyle n\geq 1}
+   there is a finite decimal 
+  
+    
+      
+        
+          r
+          
+            n
+          
+        
+        =
+        
+          a
+          
+            0
+          
+        
+        .
+        
+          a
+          
+            1
+          
+        
+        
+          a
+          
+            2
+          
+        
+        ⋯
+        
+          a
+          
+            n
+          
+        
+      
+    
+    {\displaystyle r_{n}=a_{0}.a_{1}a_{2}\cdots a_{n}}
+   such that:
+
+Proof:
+Let 
+  
+    
+      
+        
+          r
+          
+            n
+          
+        
+        =
+        
+          
+            
+              p
+              
+                10
+                
+                  n
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle r_{n}=\textstyle {\frac {p}{10^{n}}}}
+  , where 
+  
+    
+      
+        p
+        =
+        ⌊
+        
+          10
+          
+            n
+          
+        
+        x
+        ⌋
+      
+    
+    {\displaystyle p=\lfloor 10^{n}x\rfloor }
+  .
+Then 
+  
+    
+      
+        p
+        ≤
+        
+          10
+          
+            n
+          
+        
+        x
+        <
+        p
+        +
+        1
+      
+    
+    {\displaystyle p\leq 10^{n}x<p+1}
+  , and the result follows from dividing all sides by 
+  
+    
+      
+        
+          10
+          
+            n
+          
+        
+      
+    
+    {\displaystyle 10^{n}}
+  .
+(The fact that 
+  
+    
+      
+        
+          r
+          
+            n
+          
+        
+      
+    
+    {\displaystyle r_{n}}
+   has a finite decimal representation is easily established.)
+
+Non-uniqueness of decimal representation and notational conventions
+Some real numbers 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   have two infinite decimal representations. For example, the number 1 may be equally represented by 1.000... as by 0.999... (where the infinite sequences of trailing 0's or 9's, respectively, are represented by "..."). Conventionally, the decimal representation without trailing 9's is preferred.  Moreover, in the standard decimal representation of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , an infinite sequence of trailing 0's appearing after the decimal point is omitted, along with the decimal point itself if 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is an integer.
+Certain procedures for constructing the decimal expansion of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   will avoid the problem of trailing 9's.  For instance, the following algorithmic procedure will give the standard decimal representation:  Given 
+  
+    
+      
+        x
+        ≥
+        0
+      
+    
+    {\displaystyle x\geq 0}
+  , we first define 
+  
+    
+      
+        
+          a
+          
+            0
+          
+        
+      
+    
+    {\displaystyle a_{0}}
+   (the integer part of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  ) to be the largest integer such that 
+  
+    
+      
+        
+          a
+          
+            0
+          
+        
+        ≤
+        x
+      
+    
+    {\displaystyle a_{0}\leq x}
+   (i.e., 
+  
+    
+      
+        
+          a
+          
+            0
+          
+        
+        =
+        ⌊
+        x
+        ⌋
+      
+    
+    {\displaystyle a_{0}=\lfloor x\rfloor }
+  ).  If 
+  
+    
+      
+        x
+        =
+        
+          a
+          
+            0
+          
+        
+      
+    
+    {\displaystyle x=a_{0}}
+   the procedure terminates.  Otherwise, for 
+  
+    
+      
+        (
+        
+          a
+          
+            i
+          
+        
+        
+          )
+          
+            i
+            =
+            0
+          
+          
+            k
+            −
+            1
+          
+        
+      
+    
+    {\textstyle (a_{i})_{i=0}^{k-1}}
+   already found, we define 
+  
+    
+      
+        
+          a
+          
+            k
+          
+        
+      
+    
+    {\displaystyle a_{k}}
+   inductively to be the largest integer such that:
+
+The procedure terminates whenever 
+  
+    
+      
+        
+          a
+          
+            k
+          
+        
+      
+    
+    {\displaystyle a_{k}}
+   is found such that equality holds in (*); otherwise, it continues indefinitely to give an infinite sequence of decimal digits.  It can be shown that 
+  
+    
+      
+        x
+        =
+        
+          sup
+          
+            k
+          
+        
+        
+          {
+          
+            
+              ∑
+              
+                i
+                =
+                0
+              
+              
+                k
+              
+            
+            
+              
+                
+                  a
+                  
+                    i
+                  
+                
+                
+                  10
+                  
+                    i
+                  
+                
+              
+            
+          
+          }
+        
+      
+    
+    {\textstyle x=\sup _{k}\left\{\sum _{i=0}^{k}{\frac {a_{i}}{10^{i}}}\right\}}
+   (conventionally written as 
+  
+    
+      
+        x
+        =
+        
+          a
+          
+            0
+          
+        
+        .
+        
+          a
+          
+            1
+          
+        
+        
+          a
+          
+            2
+          
+        
+        
+          a
+          
+            3
+          
+        
+        ⋯
+      
+    
+    {\displaystyle x=a_{0}.a_{1}a_{2}a_{3}\cdots }
+  ), where 
+  
+    
+      
+        
+          a
+          
+            1
+          
+        
+        ,
+        
+          a
+          
+            2
+          
+        
+        ,
+        
+          a
+          
+            3
+          
+        
+        …
+        ∈
+        {
+        0
+        ,
+        1
+        ,
+        2
+        ,
+        …
+        ,
+        9
+        }
+        ,
+      
+    
+    {\displaystyle a_{1},a_{2},a_{3}\ldots \in \{0,1,2,\ldots ,9\},}
+   and the nonnegative integer 
+  
+    
+      
+        
+          a
+          
+            0
+          
+        
+      
+    
+    {\displaystyle a_{0}}
+   is represented in decimal notation. This construction is extended to 
+  
+    
+      
+        x
+        <
+        0
+      
+    
+    {\displaystyle x<0}
+   by applying the above procedure to 
+  
+    
+      
+        −
+        x
+        >
+        0
+      
+    
+    {\displaystyle -x>0}
+   and denoting the resultant decimal expansion by 
+  
+    
+      
+        −
+        
+          a
+          
+            0
+          
+        
+        .
+        
+          a
+          
+            1
+          
+        
+        
+          a
+          
+            2
+          
+        
+        
+          a
+          
+            3
+          
+        
+        ⋯
+      
+    
+    {\displaystyle -a_{0}.a_{1}a_{2}a_{3}\cdots }
+  .
+
+Types
+Finite
+The decimal expansion of non-negative real number x will end in zeros (or in nines) if, and only if, x is a rational number whose denominator is of the form 2n5m, where m and n are non-negative integers.
+Proof:
+If the decimal expansion of x will end in zeros, or 
+  
+    
+      
+        x
+        =
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            n
+          
+        
+        
+          
+            
+              a
+              
+                i
+              
+            
+            
+              10
+              
+                i
+              
+            
+          
+        
+        =
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            n
+          
+        
+        
+          10
+          
+            n
+            −
+            i
+          
+        
+        
+          a
+          
+            i
+          
+        
+        
+          /
+        
+        
+          10
+          
+            n
+          
+        
+      
+    
+    {\textstyle x=\sum _{i=0}^{n}{\frac {a_{i}}{10^{i}}}=\sum _{i=0}^{n}10^{n-i}a_{i}/10^{n}}
+  
+for some n, then the denominator of x is of the form 10n = 2n5n.
+Conversely, if the denominator of x is of the form 2n5m,
+
+  
+    
+      
+        x
+        =
+        
+          
+            p
+            
+              
+                2
+                
+                  n
+                
+              
+              
+                5
+                
+                  m
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                2
+                
+                  m
+                
+              
+              
+                5
+                
+                  n
+                
+              
+              p
+            
+            
+              
+                2
+                
+                  n
+                  +
+                  m
+                
+              
+              
+                5
+                
+                  n
+                  +
+                  m
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                2
+                
+                  m
+                
+              
+              
+                5
+                
+                  n
+                
+              
+              p
+            
+            
+              10
+              
+                n
+                +
+                m
+              
+            
+          
+        
+      
+    
+    {\displaystyle x={\frac {p}{2^{n}5^{m}}}={\frac {2^{m}5^{n}p}{2^{n+m}5^{n+m}}}={\frac {2^{m}5^{n}p}{10^{n+m}}}}
+  
+for some p.
+While x is of the form 
+  
+    
+      
+        
+          
+            
+              p
+              
+                10
+                
+                  k
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle {\frac {p}{10^{k}}}}
+  ,
+
+  
+    
+      
+        p
+        =
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            n
+          
+        
+        
+          10
+          
+            i
+          
+        
+        
+          a
+          
+            i
+          
+        
+      
+    
+    {\displaystyle p=\sum _{i=0}^{n}10^{i}a_{i}}
+   for some n.
+By 
+  
+    
+      
+        x
+        =
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            n
+          
+        
+        
+          10
+          
+            n
+            −
+            i
+          
+        
+        
+          a
+          
+            i
+          
+        
+        
+          /
+        
+        
+          10
+          
+            n
+          
+        
+        =
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            n
+          
+        
+        
+          
+            
+              a
+              
+                i
+              
+            
+            
+              10
+              
+                i
+              
+            
+          
+        
+      
+    
+    {\displaystyle x=\sum _{i=0}^{n}10^{n-i}a_{i}/10^{n}=\sum _{i=0}^{n}{\frac {a_{i}}{10^{i}}}}
+  , x will end in zeros.
+
+Infinite
+Repeating decimal representations
+Some real numbers have decimal expansions that eventually get into loops, endlessly repeating a sequence of one or more digits:
+
+1/3 = 0.33333...
+1/7 = 0.142857142857...
+1318/185 = 7.1243243243...Every time this happens the number is still a rational number (i.e. can alternatively be represented as a ratio of an integer and a positive integer).
+Also the converse is true:  The decimal expansion of a rational number is either finite, or endlessly repeating.
+
+Conversion to fraction
+Every decimal representation of a rational number can be converted to a fraction by converting it into a sum of the integer, non-repeating, and repeating parts and then converting that sum to a single fraction with a common denominator.
+For example to convert 
+  
+    
+      
+        ±
+        8.123
+        
+          
+            4567
+            ¯
+          
+        
+      
+    
+    {\textstyle \pm 8.123{\overline {4567}}}
+   to a fraction one notes the lemma:
+
+Thus one converts as follows:
+
+If there are no repeating digits one assumes that there is a forever repeating 0, e.g. 
+  
+    
+      
+        1.9
+        =
+        1.9
+        
+          
+            0
+            ¯
+          
+        
+      
+    
+    {\displaystyle 1.9=1.9{\overline {0}}}
+  , although since that makes the repeating term zero the sum simplifies to two terms and a simpler conversion.
+For example:
+
+See also
+Decimal
+Series (mathematics)
+IEEE 754
+Simon Stevin
+
+References
+Further reading
+Apostol, Tom (1974). Mathematical analysis (Second ed.). Addison-Wesley.
+Savard, John J. G. (2018) [2006]. "Decimal Representations". quadibloc. Archived from the original on 2018-07-16. Retrieved 2018-07-16.

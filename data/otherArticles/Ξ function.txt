@@ -1,0 +1,4 @@
+In mathematics, the Ξ function (named for the Greek letter Ξ or Xi) may refer to:
+
+Riemann Xi function, a variant of the Riemann zeta function with a simpler functional equation
+Harish-Chandra's Ξ function, a special spherical function on a semisimple Lie group

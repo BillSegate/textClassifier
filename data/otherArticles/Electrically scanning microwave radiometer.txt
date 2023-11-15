@@ -1,0 +1,6 @@
+The electrically scanning microwave radiometer (ESMR) was an instrument carried by the Nimbus 5 and Nimbus 6 satellites, precursor to the scanning multichannel microwave radiometer (SMMR) and special sensor microwave/imager (SSM/I) instruments.
+The ESMR instrument only senses horizontally polarized radiation at a frequency of 19 GHz, and can be used to calculate sea ice concentration. However, results are difficult to intercompare to SMMR / SSMI. The ESMR scanned along the satellite track, leading to a wide range of incident angles; SMMR scanned with a constant angle of 50 degrees, allowing both horizontally and vertically polarised data to be received; SMMR also had 5 instead of one channels, leading to improved sea ice retrievals.
+
+References
+External links
+"Nimbus-5 ESMR Daily Polar Gridded Brightness Temperatures". National Snow and Ice Data Center. May 2008.

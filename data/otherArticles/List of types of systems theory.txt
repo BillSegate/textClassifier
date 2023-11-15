@@ -1,0 +1,85 @@
+This list of types of systems theory gives an overview of different types of systems theory, which are mentioned in scientific book titles or articles. The following more than 40 types of systems theory are all explicitly named systems theory and represent a unique conceptual framework in a specific field of science.
+Systems theory has been formalized since the 1950s, and a long set of specialized systems theories and cybernetics exist. In the beginnings, general systems theory was developed by Ludwig von Bertalanffy to overcome the over-specialisation of the modern times and as a worldview using holism. The systems theories nowadays are closer to the traditional specialisation than to holism, by interdependencies and mutual division by mutually-different specialists.
+
+A
+Abstract systems theory (also see: formal system)
+Action Theory
+Adaptive systems theory (also see: complex adaptive system)Applied general systems theory (also see: general systems theory)Applied multidimensional systems theoryArchaeological systems theory (also see: Systems theory in archaeology)Systems theory in anthropology
+Associated systems theory
+
+B
+Behavioral systems theory
+Biochemical systems theoryBiomatrix systems theory
+Body system
+
+C
+Complex adaptive systems theory (also see: complex adaptive system)Complex systems theory (also see: complex systems)
+Computer-aided systems theory
+Conceptual systems theory (also see: conceptual system)Control systems theory (also see: control system)
+Critical systems theory (also see: critical systems thinking, and critical theory)
+Cultural Agency Theory
+
+D
+Developmental systems theoryDistributed parameter systems theoryDynamical systems theory
+
+E
+Ecological systems theory (also see: ecosystem, ecosystem ecology)
+Economic systems theory (also see: economic system)Electric energy systems theory
+
+F
+Family systems theory (also see: systemic therapy)
+Fuzzy systems theory (also see: fuzzy logic)
+
+G
+General systems theory
+
+H
+Human systems theory (see: human systems)
+
+I
+Infinite dimensional systems theory
+
+L
+Large scale systems theoryLiberating systems theoryLinear systems theory (also see: linear system)Living systems theoryLTI system theory
+
+M
+Macrosystems theoryMathematical systems theory
+Medical ethics systems theoryModeling systems theoryModern control systems theory
+Modern systems theoryMultidimensional systems theory
+
+N
+Nonlinear stochastic systems theory (also see: stochastic modeling). General system approach
+
+O
+Operating systems theory (also see: operating system)Open systems theory (also see: open system)
+
+P
+Pattern language was first conceived by Christoper Alexander and has many similarities with systems thinking. It too is a way of describing how things work holistically. Originally applied to architecture, it has been extended into other fields.
+Physical systems theory (also see: physical system)
+Pulley system
+
+R
+Retrieval system theory
+
+S
+Social systems theory (also see: social system)
+Sociotechnical systems theory
+Social rule system theory
+
+T
+Transit systems theory
+
+W
+World-systems theory
+
+See also
+References
+External links
+NKS and a typology of systems theory distinctions, Jason Cawley, at Forum Wolframscience.com, August 2003.Cawley states, that the student E. Dent studied forms of systems theory and came up with a set of concepts that he thought marked off systems theory approaches from earlier science. Dent identified eight concepts:
+holism rather than analysis or reductionism,
+relationships rather than entities,
+interaction with environment as opposed to closed or isolated systems,
+indeterminism as opposed to predictability,
+circular causal loops rather than linear causality,
+self-organization, observation as part of or directly related to systems, and
+reflexivity or interaction between a system and what is known about it.Holistic Symmetry in Modern Science, webtext by Gary Witherspoon, 3 April 2007.Witherspoon states, that "the rise of abstract art and the development of various systems theories have an important parallel. Abstract art goes beyond the recognition of entity or image and focuses attention on interaction and interrelatedness, striving to uncover and reveal holistic essences. Systems theories have tried to get us beyond linear cause and effect notions and tried to get us to think of phenomena in terms of interaction and interrelationship. It is interesting and significant that abstract art and quantum theory arose at about the same time.  Both of these developments preceded the application of various forms of systems theory to the social and biological sciences. Scientific insight and conceptualization have paralleled artistic imagination and aesthetic formulation."The relevance of "Western" studies of cyberspace, paper by David Hakken, State University of New York Institute of technology, 2002.Hakken speaks about various additive forms of systems theory in Western anthropology in the 1980s and 1990s: "dual", "tri", "quadra", etc. (e.g., "race and class" or "gender, race, and class" or "sexual orientation, gender, race, and class").Behaviorism: Origins of the Concept paper by Erkki Berndtson, University of Helsinki Finland:As forms of systems theory, Berndtson mentions: general systems theory, cybernetics, systems analysis and functionalism."Basic Papers on Cybernetics and Systems Science", Francis Heylighten, Principia Cybernetica Net, 1992.

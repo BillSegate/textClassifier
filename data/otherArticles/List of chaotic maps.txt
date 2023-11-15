@@ -1,0 +1,22 @@
+In mathematics, a chaotic map is a map (namely, an evolution function) that exhibits some sort of chaotic behavior.  Maps may be parameterized by a discrete-time or a continuous-time parameter. Discrete maps usually take the form of iterated functions.  Chaotic maps often occur in the study of dynamical systems.
+Chaotic maps often generate fractals. Although a fractal may be constructed by an iterative procedure, some fractals are studied in and of themselves, as sets rather than in terms of the map that generates them.  This is often because there are several different iterative procedures to generate the same fractal.
+
+List of chaotic maps
+List of fractals
+
+Cantor set
+de Rham curve
+Gravity set, or Mitchell-Green gravity set
+Julia set - derived from complex quadratic map
+Koch snowflake - special case of de Rham curve
+Lyapunov fractal
+Mandelbrot set  - derived from complex quadratic map
+Menger sponge
+Newton fractal
+Nova fractal - derived from Newton fractal
+Quaternionic fractal  - three dimensional complex quadratic map
+Sierpinski carpet
+Sierpinski triangle
+
+
+== References ==

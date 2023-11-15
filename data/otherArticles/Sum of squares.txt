@@ -1,0 +1,59 @@
+In mathematics, statistics and elsewhere, sums of squares occur in a number of contexts:
+
+Statistics
+For partitioning of variance, see Partition of sums of squares
+For the "sum of squared deviations", see Least squares
+For the "sum of squared differences", see Mean squared error
+For the "sum of squared error", see Residual sum of squares
+For the "sum of squares due to lack of fit", see Lack-of-fit sum of squares
+For sums of squares relating to model predictions, see Explained sum of squares
+For sums of squares relating to observations, see Total sum of squares
+For sums of squared deviations, see Squared deviations from the mean
+For modelling involving sums of squares, see Analysis of variance
+For modelling involving the multivariate generalisation of sums of squares, see Multivariate analysis of variance
+
+Number theory
+For the sum of squares of consecutive integers, see Square pyramidal number
+For representing an integer as a sum of squares of 4 integers, see Lagrange's four-square theorem
+Legendre's three-square theorem states which numbers can be expressed as the sum of three squares
+Jacobi's four-square theorem gives the number of ways that a number can be represented as the sum of four squares.
+For the number of representations of a positive integer as a sum of squares of k integers, see Sum of squares function.
+Fermat's theorem on sums of two squares says which primes are sums of two squares.
+The sum of two squares theorem generalizes Fermat's theorem to specify which composite numbers are the sums of two squares.
+Pythagorean triples are sets of three integers such that the sum of the squares of the first two equals the square of the third.
+A Pythagorean prime is a prime that is the sum of two squares; Fermat's theorem on sums of two squares states which primes are Pythagorean primes.
+Pythagorean triangles with integer altitude from the hypotenuse have the sum of squares of inverses of the integer legs equal to the square of the inverse of the integer altitude from the hypotenuse.
+Pythagorean quadruples are sets of four integers such that the sum of the squares of the first three equals the square of the fourth.
+The Basel problem, solved by Euler in terms of 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+  , asked for an exact expression for the sum of the squares of the reciprocals of all positive integers.
+Rational trigonometry's triple-quad rule and triple-spread rule contain sums of squares, similar to Heron's formula.
+Squaring the square is a combinatorial problem of dividing a two-dimensional square with integer side length into smaller such squares.
+
+Algebra and algebraic geometry
+For representing a polynomial as the sum of squares of polynomials, see Polynomial SOS.
+For computational optimization, see Sum-of-squares optimization.
+For representing a multivariate polynomial that takes only non-negative values over the reals as a sum of squares of rational functions, see Hilbert's seventeenth problem.
+The Brahmagupta–Fibonacci identity says the set of all sums of two squares is closed under multiplication.
+The sum of squared dimensions of a finite group's pairwise nonequivalent complex representations is equal to cardinality of that group.
+
+Euclidean geometry and other inner-product spaces
+The Pythagorean theorem says that the square on the hypotenuse of a right triangle is equal in area to the sum of the squares on the legs. The sum of squares is not factorable.
+The Squared Euclidean distance (SED) is defined as the sum of squares of the differences between coordinates.
+Heron's formula for the area of a triangle can be re-written as using the sums of squares of a triangle's sides (and the sums of the squares of squares)
+The British flag theorem for rectangles equates two sums of two squares
+The parallelogram law equates the sum of the squares of the four sides to the sum of the squares of the diagonals
+Descartes' theorem for four kissing circles involves sums of squares
+The sum of the squares of the edges of a rectangular cuboid equals the square of any space diagonal
+
+See also
+Sums of powers
+Sum of reciprocals
+Quadratic form  (statistics)
+Reduced chi-squared statistic

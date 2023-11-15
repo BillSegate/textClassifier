@@ -1,0 +1,10 @@
+Mathematical methods relating to successive approximation include the following:
+
+Babylonian method, for finding square roots of numbers
+Fixed-point iteration
+Means of finding zeros of functions:
+Halley's method
+Newton's method
+Differential-equation matters:
+Picard–Lindelöf theorem, on existence of solutions of differential equations
+Runge–Kutta methods, for numerical solution of differential equations

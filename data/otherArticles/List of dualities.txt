@@ -1,0 +1,98 @@
+–
+
+Mathematics
+In mathematics, a duality, generally speaking, translates concepts, theorems or mathematical structures into other concepts, theorems or structures, in a one-to-one fashion, often (but not always) by means of an involution operation: if the dual of A is B, then the dual of B is A.
+
+Alexander duality
+Alvis–Curtis duality
+Artin–Verdier duality
+Beta-dual space
+Coherent duality
+De Groot dual
+Dual abelian variety
+Dual basis in a field extension
+Dual bundle
+Dual curve
+Dual (category theory)
+Dual graph
+Dual group
+Dual object
+Dual pair
+Dual polygon
+Dual polyhedron
+Dual problem
+Dual representation
+Dual q-Hahn polynomials
+Dual q-Krawtchouk polynomials
+Dual space
+Dual topology
+Dual wavelet
+Duality (optimization)
+Duality (order theory)
+Duality of stereotype spaces
+Duality (projective geometry)
+Duality theory for distributive lattices
+Dualizing complex
+Dualizing sheaf
+Eckmann–Hilton duality
+Esakia duality
+Fenchel's duality theorem
+Hodge dual
+Jónsson–Tarski duality
+Lagrange duality
+Langlands dual
+Lefschetz duality
+Local Tate duality
+Opposite category
+Poincaré duality
+Twisted Poincaré duality
+Poitou–Tate duality
+Pontryagin duality
+S-duality (homotopy theory)
+Schur–Weyl duality
+Series-parallel duality
+Serre duality
+Spanier–Whitehead duality
+Stone's duality
+Tannaka–Krein duality
+Verdier duality
+Grothendieck local duality
+
+Philosophy and religion
+Dualism (philosophy of mind)
+Epistemological dualism
+Dualistic cosmology
+Soul dualism
+Yin and yang
+
+Engineering
+Duality (electrical circuits)
+Duality (mechanical engineering)
+Observability/Controllability in control theory
+
+Physics
+Complementarity (physics)
+Dual resonance model
+Duality (electricity and magnetism)
+Englert–Greenberger duality relation
+Holographic duality
+Kramers–Wannier duality
+Mirror symmetry
+3D mirror symmetry
+Montonen–Olive duality
+Mysterious duality (M-theory)
+Seiberg duality
+String duality
+S-duality
+T-duality
+U-duality
+Wave–particle duality
+
+Economics and finance
+Convex duality
+
+See also
+Mechanical–electrical analogies
+
+
+== References ==

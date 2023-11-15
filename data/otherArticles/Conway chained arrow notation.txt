@@ -1,0 +1,3103 @@
+Conway chained arrow notation, created by mathematician John Horton Conway, is a means of expressing certain extremely large numbers. It is simply a finite sequence of positive integers separated by rightward arrows, e.g. 
+  
+    
+      
+        2
+        →
+        3
+        →
+        4
+        →
+        5
+        →
+        6
+      
+    
+    {\displaystyle 2\to 3\to 4\to 5\to 6}
+  .
+As with most combinatorial notations, the definition is recursive. In this case the notation eventually resolves to being the leftmost number raised to some (usually enormous) integer power.
+
+Definition and overview
+A "Conway chain" is defined as follows:
+
+Any positive integer is a chain of length 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+  .
+A chain of length n, followed by a right-arrow → and a positive integer, together form a chain of length 
+  
+    
+      
+        n
+        +
+        1
+      
+    
+    {\displaystyle n+1}
+  .Any chain represents an integer, according to the six rules below. Two chains are said to be equivalent if they represent the same integer.
+Let 
+  
+    
+      
+        a
+        ,
+        b
+      
+    
+    {\displaystyle a,b}
+   denote positive integers and let 
+  
+    
+      
+        #
+      
+    
+    {\displaystyle \#}
+   denote the unchanged remainder of the chain. Then:
+
+An empty chain (or a chain of length 0) is equal to 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+  
+The chain 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   represents the number 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  .
+The chain 
+  
+    
+      
+        a
+        →
+        b
+      
+    
+    {\displaystyle a\rightarrow b}
+   represents the number 
+  
+    
+      
+        
+          a
+          
+            b
+          
+        
+      
+    
+    {\displaystyle a^{b}}
+  .
+The chain 
+  
+    
+      
+        a
+        →
+        b
+        →
+        c
+      
+    
+    {\displaystyle a\rightarrow b\rightarrow c}
+   represents the number 
+  
+    
+      
+        a
+        
+          ↑
+          
+            c
+          
+        
+        b
+      
+    
+    {\displaystyle a\uparrow ^{c}b}
+   (see Knuth's up-arrow notation)
+The chain 
+  
+    
+      
+        #
+        →
+        1
+      
+    
+    {\displaystyle \#\rightarrow 1}
+   represents the same number as the chain 
+  
+    
+      
+        #
+      
+    
+    {\displaystyle \#}
+  
+Else, the chain 
+  
+    
+      
+        #
+        →
+        (
+        a
+        +
+        1
+        )
+        →
+        (
+        b
+        +
+        1
+        )
+      
+    
+    {\displaystyle \#\rightarrow (a+1)\rightarrow (b+1)}
+   represents the same number as the chain 
+  
+    
+      
+        #
+        →
+        (
+        #
+        →
+        a
+        →
+        (
+        b
+        +
+        1
+        )
+        )
+        →
+        b
+      
+    
+    {\displaystyle \#\rightarrow (\#\rightarrow a\rightarrow (b+1))\rightarrow b}
+  .
+
+Properties
+A chain evaluates to a perfect power of its first number
+Therefore, 
+  
+    
+      
+        1
+        →
+        Y
+      
+    
+    {\displaystyle 1\to Y}
+   is equal to 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+  
+
+  
+    
+      
+        X
+        →
+        1
+        →
+        Y
+      
+    
+    {\displaystyle X\to 1\to Y}
+    is equivalent to 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  
+
+  
+    
+      
+        2
+        →
+        2
+        →
+        Y
+      
+    
+    {\displaystyle 2\to 2\to Y}
+    is equal to 
+  
+    
+      
+        4
+      
+    
+    {\displaystyle 4}
+  
+
+  
+    
+      
+        X
+        →
+        2
+        →
+        2
+      
+    
+    {\displaystyle X\to 2\to 2}
+    is equivalent to 
+  
+    
+      
+        X
+        →
+        (
+        X
+        )
+      
+    
+    {\displaystyle X\to (X)}
+   (not to be confused with 
+  
+    
+      
+        X
+        →
+        X
+      
+    
+    {\displaystyle X\to X}
+  )
+
+Interpretation
+One must be careful to treat an arrow chain as a whole. Arrow chains do not describe the iterated application of a binary operator. Whereas chains of other infixed symbols (e.g. 3 + 4 + 5 + 6 + 7) can often be considered in fragments (e.g. (3 + 4) + 5 + (6 + 7)) without a change of meaning (see associativity), or at least can be evaluated step by step in a prescribed order, e.g. 34567 from right to left, that is not so with Conway's arrow chains.
+For example:
+
+  
+    
+      
+        2
+        →
+        3
+        →
+        2
+        =
+        2
+        ↑↑
+        3
+        =
+        
+          2
+          
+            
+              2
+              
+                2
+              
+            
+          
+        
+        =
+        16
+      
+    
+    {\displaystyle 2\rightarrow 3\rightarrow 2=2\uparrow \uparrow 3=2^{2^{2}}=16}
+  
+
+  
+    
+      
+        2
+        →
+        
+          (
+          
+            3
+            →
+            2
+          
+          )
+        
+        =
+        
+          2
+          
+            (
+            
+              3
+              
+                2
+              
+            
+            )
+          
+        
+        =
+        
+          2
+          
+            
+              3
+              
+                2
+              
+            
+          
+        
+        =
+        512
+      
+    
+    {\displaystyle 2\rightarrow \left(3\rightarrow 2\right)=2^{(3^{2})}=2^{3^{2}}=512}
+  
+
+  
+    
+      
+        
+          (
+          
+            2
+            →
+            3
+          
+          )
+        
+        →
+        2
+        =
+        
+          
+            (
+            
+              2
+              
+                3
+              
+            
+            )
+          
+          
+            2
+          
+        
+        =
+        64
+      
+    
+    {\displaystyle \left(2\rightarrow 3\right)\rightarrow 2=\left(2^{3}\right)^{2}=64}
+  The sixth definition rule is the core: A chain of 4 or more elements ending with 2 or higher becomes a chain of the same length with a (usually vastly) increased penultimate element. But its ultimate element is decremented, eventually permitting the fifth rule to shorten the chain. After, to paraphrase Knuth, "much detail", the chain is reduced to three elements and the fourth rule terminates the recursion.
+
+Examples
+Examples get quite complicated quickly. Here are some small examples:
+
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+
+  
+    
+      
+        =
+        n
+      
+    
+    {\displaystyle =n}
+   (By rule 2)
+  
+    
+      
+        p
+        →
+        q
+      
+    
+    {\displaystyle p\to q}
+  
+
+  
+    
+      
+        =
+        
+          p
+          
+            q
+          
+        
+      
+    
+    {\displaystyle =p^{q}}
+   (By rule 3)
+Thus, 
+  
+    
+      
+        3
+        →
+        4
+        =
+        
+          3
+          
+            4
+          
+        
+        =
+        81
+      
+    
+    {\displaystyle 3\to 4=3^{4}=81}
+  
+  
+    
+      
+        4
+        →
+        3
+        →
+        2
+      
+    
+    {\displaystyle 4\to 3\to 2}
+  
+
+  
+    
+      
+        =
+        4
+        ↑↑
+        3
+      
+    
+    {\displaystyle =4\uparrow \uparrow 3}
+   (By rule 4)
+
+  
+    
+      
+        =
+        4
+        ↑
+        (
+        4
+        ↑
+        4
+        )
+      
+    
+    {\displaystyle =4\uparrow (4\uparrow 4)}
+  
+
+  
+    
+      
+        =
+        4
+        ↑
+        256
+      
+    
+    {\displaystyle =4\uparrow 256}
+  
+
+  
+    
+      
+        =
+        
+          4
+          
+            256
+          
+        
+      
+    
+    {\displaystyle =4^{256}}
+  
+
+  
+    
+      
+        =
+        13
+        ,
+        407
+        ,
+        807
+        ,
+        929
+        ,
+        942
+        ,
+        597
+        ,
+        099
+        ,
+        574
+        ,
+        024
+        ,
+        998
+        ,
+        205
+        ,
+        846
+        ,
+        127
+        ,
+        479
+        ,
+        365
+        ,
+        820
+        ,
+        592
+        ,
+        393
+        ,
+        377
+        ,
+        723
+        ,
+        561
+        ,
+        443
+        ,
+        721
+        ,
+        764
+        ,
+        030
+        ,
+        073
+        ,
+      
+    
+    {\displaystyle =13,407,807,929,942,597,099,574,024,998,205,846,127,479,365,820,592,393,377,723,561,443,721,764,030,073,}
+   
+  
+    
+      
+        546
+        ,
+        976
+        ,
+        801
+        ,
+        874
+        ,
+        298
+        ,
+        166
+        ,
+        903
+        ,
+        427
+        ,
+        690
+        ,
+        031
+        ,
+        858
+        ,
+        186
+        ,
+        486
+        ,
+        050
+        ,
+        853
+        ,
+        753
+        ,
+        882
+        ,
+        811
+        ,
+        946
+        ,
+        569
+        ,
+        946
+        ,
+        433
+        ,
+        649
+        ,
+        006
+        ,
+        084
+        ,
+        096
+      
+    
+    {\displaystyle 546,976,801,874,298,166,903,427,690,031,858,186,486,050,853,753,882,811,946,569,946,433,649,006,084,096}
+  
+
+  
+    
+      
+        ≈
+        1.34
+        ∗
+        
+          10
+          
+            154
+          
+        
+      
+    
+    {\displaystyle \approx 1.34*10^{154}}
+  
+  
+    
+      
+        2
+        →
+        2
+        →
+        a
+      
+    
+    {\displaystyle 2\to 2\to a}
+  
+
+  
+    
+      
+        =
+        2
+        [
+        
+          ↑
+          
+            a
+          
+        
+        ]
+        2
+      
+    
+    {\displaystyle =2[\uparrow ^{a}]2}
+   (By rule 4)
+
+  
+    
+      
+        =
+        4
+      
+    
+    {\displaystyle =4}
+   (see Knuth's up arrow notation)
+  
+    
+      
+        2
+        →
+        4
+        →
+        3
+      
+    
+    {\displaystyle 2\to 4\to 3}
+  
+
+  
+    
+      
+        =
+        2
+        ↑↑↑
+        4
+      
+    
+    {\displaystyle =2\uparrow \uparrow \uparrow 4}
+   (By rule 4)
+
+  
+    
+      
+        =
+        2
+        ↑↑
+        (
+        2
+        ↑↑
+        (
+        2
+        ↑↑
+        2
+        )
+        )
+      
+    
+    {\displaystyle =2\uparrow \uparrow (2\uparrow \uparrow (2\uparrow \uparrow 2))}
+  
+
+  
+    
+      
+        =
+        2
+        ↑↑
+        (
+        2
+        ↑↑
+        4
+        )
+      
+    
+    {\displaystyle =2\uparrow \uparrow (2\uparrow \uparrow 4)}
+  
+
+  
+    
+      
+        =
+        2
+        ↑↑
+        (
+        2
+        ↑
+        (
+        2
+        ↑
+        (
+        2
+        ↑
+        2
+        )
+        )
+        )
+      
+    
+    {\displaystyle =2\uparrow \uparrow (2\uparrow (2\uparrow (2\uparrow 2)))}
+  
+
+  
+    
+      
+        =
+        2
+        ↑↑
+        (
+        2
+        ↑
+        (
+        2
+        ↑
+        4
+        )
+        )
+      
+    
+    {\displaystyle =2\uparrow \uparrow (2\uparrow (2\uparrow 4))}
+  
+
+  
+    
+      
+        =
+        2
+        ↑↑
+        (
+        2
+        ↑
+        16
+        )
+      
+    
+    {\displaystyle =2\uparrow \uparrow (2\uparrow 16)}
+  
+
+  
+    
+      
+        =
+        2
+        ↑↑
+        (
+        65536
+        )
+      
+    
+    {\displaystyle =2\uparrow \uparrow (65536)}
+  
+
+  
+    
+      
+        =
+        
+          
+            
+            
+              65536
+            
+          
+          2
+        
+      
+    
+    {\displaystyle ={^{65536}2}}
+   (see tetration)
+  
+    
+      
+        2
+        →
+        3
+        →
+        2
+        →
+        2
+      
+    
+    {\displaystyle 2\to 3\to 2\to 2}
+  
+
+  
+    
+      
+        =
+        2
+        →
+        3
+        →
+        (
+        2
+        →
+        3
+        )
+        →
+        1
+      
+    
+    {\displaystyle =2\to 3\to (2\to 3)\to 1}
+    (By rule 6)
+
+  
+    
+      
+        =
+        2
+        →
+        3
+        →
+        8
+        →
+        1
+      
+    
+    {\displaystyle =2\to 3\to 8\to 1}
+    (By rule 3)
+
+  
+    
+      
+        =
+        2
+        →
+        3
+        →
+        8
+      
+    
+    {\displaystyle =2\to 3\to 8}
+   (By rule 5)
+
+  
+    
+      
+        =
+        2
+        →
+        (
+        2
+        →
+        2
+        →
+        8
+        )
+        →
+        7
+      
+    
+    {\displaystyle =2\to (2\to 2\to 8)\to 7}
+   (By rule 6)
+
+  
+    
+      
+        =
+        2
+        →
+        4
+        →
+        7
+      
+    
+    {\displaystyle =2\to 4\to 7}
+   (By rule 6)
+
+  
+    
+      
+        =
+        2
+        ↑↑↑↑↑↑↑
+        4
+      
+    
+    {\displaystyle =2\uparrow \uparrow \uparrow \uparrow \uparrow \uparrow \uparrow 4}
+   (By rule 4)= much larger than previous number
+  
+    
+      
+        3
+        →
+        2
+        →
+        2
+        →
+        2
+      
+    
+    {\displaystyle 3\to 2\to 2\to 2}
+  
+
+  
+    
+      
+        =
+        3
+        →
+        2
+        →
+        (
+        3
+        →
+        2
+        )
+        →
+        1
+      
+    
+    {\displaystyle =3\to 2\to (3\to 2)\to 1}
+   (By rule 6)
+
+  
+    
+      
+        =
+        3
+        →
+        2
+        →
+        9
+        →
+        1
+      
+    
+    {\displaystyle =3\to 2\to 9\to 1}
+   (By rule 3)
+
+  
+    
+      
+        =
+        3
+        →
+        2
+        →
+        9
+      
+    
+    {\displaystyle =3\to 2\to 9}
+   (By rule 5)
+
+  
+    
+      
+        =
+        3
+        →
+        3
+        →
+        8
+      
+    
+    {\displaystyle =3\to 3\to 8}
+   (By rule 6)
+
+  
+    
+      
+        =
+        3
+        ↑↑↑↑↑↑↑↑
+        3
+      
+    
+    {\displaystyle =3\uparrow \uparrow \uparrow \uparrow \uparrow \uparrow \uparrow \uparrow 3}
+   (By rule 4)
+= much, much larger than previous number
+
+Systematic examples
+The simplest cases with four terms (containing no integers less than 2) are:
+
+  
+    
+      
+        a
+        →
+        b
+        →
+        2
+        →
+        2
+      
+    
+    {\displaystyle a\to b\to 2\to 2}
+  
+  
+    
+      
+        =
+        a
+        →
+        b
+        →
+        2
+        →
+        (
+        1
+        +
+        1
+        )
+      
+    
+    {\displaystyle =a\to b\to 2\to (1+1)}
+  
+  
+    
+      
+        =
+        a
+        →
+        b
+        →
+        (
+        a
+        →
+        b
+        )
+        →
+        1
+      
+    
+    {\displaystyle =a\to b\to (a\to b)\to 1}
+  
+  
+    
+      
+        =
+        a
+        →
+        b
+        →
+        
+          a
+          
+            b
+          
+        
+      
+    
+    {\displaystyle =a\to b\to a^{b}}
+  
+  
+    
+      
+        =
+        a
+        [
+        
+          a
+          
+            b
+          
+        
+        +
+        2
+        ]
+        b
+      
+    
+    {\displaystyle =a[a^{b}+2]b}
+  (equivalent to the last-mentioned property)
+  
+    
+      
+        a
+        →
+        b
+        →
+        3
+        →
+        2
+      
+    
+    {\displaystyle a\to b\to 3\to 2}
+  
+  
+    
+      
+        =
+        a
+        →
+        b
+        →
+        3
+        →
+        (
+        1
+        +
+        1
+        )
+      
+    
+    {\displaystyle =a\to b\to 3\to (1+1)}
+  
+  
+    
+      
+        =
+        a
+        →
+        b
+        →
+        (
+        a
+        →
+        b
+        →
+        (
+        a
+        →
+        b
+        )
+        →
+        1
+        )
+        →
+        1
+      
+    
+    {\displaystyle =a\to b\to (a\to b\to (a\to b)\to 1)\to 1}
+  
+  
+    
+      
+        =
+        a
+        →
+        b
+        →
+        (
+        a
+        →
+        b
+        →
+        
+          a
+          
+            b
+          
+        
+        )
+      
+    
+    {\displaystyle =a\to b\to (a\to b\to a^{b})}
+  
+  
+    
+      
+        =
+        a
+        [
+        a
+        →
+        b
+        →
+        2
+        →
+        2
+        +
+        2
+        ]
+        b
+      
+    
+    {\displaystyle =a[a\to b\to 2\to 2+2]b}
+  
+
+  
+    
+      
+        a
+        →
+        b
+        →
+        4
+        →
+        2
+      
+    
+    {\displaystyle a\to b\to 4\to 2}
+  
+  
+    
+      
+        =
+        a
+        →
+        b
+        →
+        (
+        a
+        →
+        b
+        →
+        (
+        a
+        →
+        b
+        →
+        
+          a
+          
+            b
+          
+        
+        )
+        )
+      
+    
+    {\displaystyle =a\to b\to (a\to b\to (a\to b\to a^{b}))}
+  
+  
+    
+      
+        =
+        a
+        [
+        a
+        →
+        b
+        →
+        3
+        →
+        2
+        +
+        2
+        ]
+        b
+      
+    
+    {\displaystyle =a[a\to b\to 3\to 2+2]b}
+  We can see a pattern here. If, for any chain 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  , we let 
+  
+    
+      
+        f
+        (
+        p
+        )
+        =
+        X
+        →
+        p
+      
+    
+    {\displaystyle f(p)=X\to p}
+   then 
+  
+    
+      
+        X
+        →
+        p
+        →
+        2
+        =
+        
+          f
+          
+            p
+          
+        
+        (
+        1
+        )
+      
+    
+    {\displaystyle X\to p\to 2=f^{p}(1)}
+   (see functional powers).
+Applying this with 
+  
+    
+      
+        X
+        =
+        a
+        →
+        b
+      
+    
+    {\displaystyle X=a\to b}
+  , then 
+  
+    
+      
+        f
+        (
+        p
+        )
+        =
+        a
+        [
+        p
+        +
+        2
+        ]
+        b
+      
+    
+    {\displaystyle f(p)=a[p+2]b}
+   and 
+  
+    
+      
+        a
+        →
+        b
+        →
+        p
+        →
+        2
+        =
+        a
+        [
+        a
+        →
+        b
+        →
+        (
+        p
+        −
+        1
+        )
+        →
+        2
+        +
+        2
+        ]
+        b
+        =
+        
+          f
+          
+            p
+          
+        
+        (
+        1
+        )
+      
+    
+    {\displaystyle a\to b\to p\to 2=a[a\to b\to (p-1)\to 2+2]b=f^{p}(1)}
+  
+Thus, for example, 
+  
+    
+      
+        10
+        →
+        6
+        →
+        3
+        →
+        2
+        =
+        10
+        [
+        10
+        [
+        1000002
+        ]
+        6
+        +
+        2
+        ]
+        6
+      
+    
+    {\displaystyle 10\to 6\to 3\to 2=10[10[1000002]6+2]6}
+  .
+Moving on:
+
+  
+    
+      
+        a
+        →
+        b
+        →
+        2
+        →
+        3
+      
+    
+    {\displaystyle a\to b\to 2\to 3}
+  
+  
+    
+      
+        =
+        a
+        →
+        b
+        →
+        2
+        →
+        (
+        2
+        +
+        1
+        )
+      
+    
+    {\displaystyle =a\to b\to 2\to (2+1)}
+  
+  
+    
+      
+        =
+        a
+        →
+        b
+        →
+        (
+        a
+        →
+        b
+        )
+        →
+        2
+      
+    
+    {\displaystyle =a\to b\to (a\to b)\to 2}
+  
+  
+    
+      
+        =
+        a
+        →
+        b
+        →
+        
+          a
+          
+            b
+          
+        
+        →
+        2
+      
+    
+    {\displaystyle =a\to b\to a^{b}\to 2}
+  
+  
+    
+      
+        =
+        
+          f
+          
+            
+              a
+              
+                b
+              
+            
+          
+        
+        (
+        1
+        )
+      
+    
+    {\displaystyle =f^{a^{b}}(1)}
+  Again we can generalize. When we write 
+  
+    
+      
+        
+          g
+          
+            q
+          
+        
+        (
+        p
+        )
+        =
+        X
+        →
+        p
+        →
+        q
+      
+    
+    {\displaystyle g_{q}(p)=X\to p\to q}
+   we have 
+  
+    
+      
+        X
+        →
+        p
+        →
+        q
+        +
+        1
+        =
+        
+          g
+          
+            q
+          
+          
+            p
+          
+        
+        (
+        1
+        )
+      
+    
+    {\displaystyle X\to p\to q+1=g_{q}^{p}(1)}
+  , that is, 
+  
+    
+      
+        
+          g
+          
+            q
+            +
+            1
+          
+        
+        (
+        p
+        )
+        =
+        
+          g
+          
+            q
+          
+          
+            p
+          
+        
+        (
+        1
+        )
+      
+    
+    {\displaystyle g_{q+1}(p)=g_{q}^{p}(1)}
+  . In the case above, 
+  
+    
+      
+        
+          g
+          
+            2
+          
+        
+        (
+        p
+        )
+        =
+        a
+        →
+        b
+        →
+        p
+        →
+        2
+        =
+        
+          f
+          
+            p
+          
+        
+        (
+        1
+        )
+      
+    
+    {\displaystyle g_{2}(p)=a\to b\to p\to 2=f^{p}(1)}
+   and 
+  
+    
+      
+        
+          g
+          
+            3
+          
+        
+        (
+        p
+        )
+        =
+        
+          g
+          
+            2
+          
+          
+            p
+          
+        
+        (
+        1
+        )
+      
+    
+    {\displaystyle g_{3}(p)=g_{2}^{p}(1)}
+  , so 
+  
+    
+      
+        a
+        →
+        b
+        →
+        2
+        →
+        3
+        =
+        
+          g
+          
+            3
+          
+        
+        (
+        2
+        )
+        =
+        
+          g
+          
+            2
+          
+          
+            2
+          
+        
+        (
+        1
+        )
+        =
+        
+          g
+          
+            2
+          
+        
+        (
+        
+          g
+          
+            2
+          
+        
+        (
+        1
+        )
+        )
+        =
+        
+          f
+          
+            f
+            (
+            1
+            )
+          
+        
+        (
+        1
+        )
+        =
+        
+          f
+          
+            
+              a
+              
+                b
+              
+            
+          
+        
+        (
+        1
+        )
+      
+    
+    {\displaystyle a\to b\to 2\to 3=g_{3}(2)=g_{2}^{2}(1)=g_{2}(g_{2}(1))=f^{f(1)}(1)=f^{a^{b}}(1)}
+
+Ackermann function
+The Ackermann function may be expressed using Conway chained arrow notation:
+
+  
+    
+      
+        A
+        (
+        m
+        ,
+        n
+        )
+        =
+        (
+        2
+        →
+        (
+        n
+        +
+        3
+        )
+        →
+        (
+        m
+        −
+        2
+        )
+        )
+        −
+        3
+      
+    
+    {\displaystyle A(m,n)=(2\to (n+3)\to (m-2))-3}
+   for 
+  
+    
+      
+        m
+        ≥
+        3
+      
+    
+    {\displaystyle m\geq 3}
+   (Since 
+  
+    
+      
+        A
+        (
+        m
+        ,
+        n
+        )
+        =
+        2
+        [
+        m
+        ]
+        (
+        n
+        +
+        3
+        )
+        −
+        3
+      
+    
+    {\displaystyle A(m,n)=2[m](n+3)-3}
+   in hyperoperation)hence
+
+  
+    
+      
+        2
+        →
+        n
+        →
+        m
+        =
+        A
+        (
+        m
+        +
+        2
+        ,
+        n
+        −
+        3
+        )
+        +
+        3
+      
+    
+    {\displaystyle 2\to n\to m=A(m+2,n-3)+3}
+   for 
+  
+    
+      
+        n
+        >
+        2
+      
+    
+    {\displaystyle n>2}
+  
+(
+  
+    
+      
+        n
+        =
+        1
+      
+    
+    {\displaystyle n=1}
+   and 
+  
+    
+      
+        n
+        =
+        2
+      
+    
+    {\displaystyle n=2}
+   would correspond with 
+  
+    
+      
+        A
+        (
+        m
+        ,
+        −
+        2
+        )
+        =
+        −
+        1
+      
+    
+    {\displaystyle A(m,-2)=-1}
+   and 
+  
+    
+      
+        A
+        (
+        m
+        ,
+        −
+        1
+        )
+        =
+        1
+      
+    
+    {\displaystyle A(m,-1)=1}
+  , which could logically be added).
+
+Graham's number
+Graham's number 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   itself cannot be expressed concisely in Conway chained arrow notation, but it is bounded by the following:
+
+  
+    
+      
+        3
+        →
+        3
+        →
+        64
+        →
+        2
+        <
+        G
+        <
+        3
+        →
+        3
+        →
+        65
+        →
+        2
+      
+    
+    {\displaystyle 3\rightarrow 3\rightarrow 64\rightarrow 2<G<3\rightarrow 3\rightarrow 65\rightarrow 2}
+  
+Proof: We first define the intermediate function 
+  
+    
+      
+        f
+        (
+        n
+        )
+        =
+        3
+        →
+        3
+        →
+        n
+        =
+        
+          
+            
+              
+                3
+                
+                  
+                    
+                      ↑↑
+                      ⋯
+                      ↑
+                    
+                    ⏟
+                  
+                
+                3
+              
+            
+            
+              
+                
+                  n arrows
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle f(n)=3\rightarrow 3\rightarrow n={\begin{matrix}3\underbrace {\uparrow \uparrow \cdots \uparrow } 3\\{\text{n arrows}}\end{matrix}}}
+  , which can be used to define Graham's number as 
+  
+    
+      
+        G
+        =
+        
+          f
+          
+            64
+          
+        
+        (
+        4
+        )
+      
+    
+    {\displaystyle G=f^{64}(4)}
+  . (The superscript 64 denotes a functional power.)
+By applying rule 2 and rule 4 backwards, we simplify:
+
+  
+    
+      
+        
+          f
+          
+            64
+          
+        
+        (
+        1
+        )
+      
+    
+    {\displaystyle f^{64}(1)}
+  
+
+  
+    
+      
+        =
+        3
+        →
+        3
+        →
+        (
+        3
+        →
+        3
+        →
+        (
+        ⋯
+        (
+        3
+        →
+        3
+        →
+        (
+        3
+        →
+        3
+        →
+        1
+        )
+        )
+        ⋯
+        )
+        )
+      
+    
+    {\displaystyle =3\rightarrow 3\rightarrow (3\rightarrow 3\rightarrow (\cdots (3\rightarrow 3\rightarrow (3\rightarrow 3\rightarrow 1))\cdots ))}
+   (with 64 
+  
+    
+      
+        3
+        →
+        3
+      
+    
+    {\displaystyle 3\rightarrow 3}
+  's)
+
+  
+    
+      
+        =
+        3
+        →
+        3
+        →
+        (
+        3
+        →
+        3
+        →
+        (
+        ⋯
+        (
+        3
+        →
+        3
+        →
+        (
+        3
+        →
+        3
+        )
+        →
+        1
+        )
+        ⋯
+        )
+        →
+        1
+        )
+        →
+        1
+      
+    
+    {\displaystyle =3\rightarrow 3\rightarrow (3\rightarrow 3\rightarrow (\cdots (3\rightarrow 3\rightarrow (3\rightarrow 3)\rightarrow 1)\cdots )\rightarrow 1)\rightarrow 1}
+  
+
+  
+    
+      
+        =
+        3
+        →
+        3
+        →
+        64
+        →
+        2
+        ;
+      
+    
+    {\displaystyle =3\rightarrow 3\rightarrow 64\rightarrow 2;}
+  
+
+  
+    
+      
+        
+          f
+          
+            64
+          
+        
+        (
+        4
+        )
+        =
+        G
+        ;
+      
+    
+    {\displaystyle f^{64}(4)=G;}
+  
+
+  
+    
+      
+        =
+        3
+        →
+        3
+        →
+        (
+        3
+        →
+        3
+        →
+        (
+        ⋯
+        (
+        3
+        →
+        3
+        →
+        (
+        3
+        →
+        3
+        →
+        4
+        )
+        )
+        ⋯
+        )
+        )
+      
+    
+    {\displaystyle =3\rightarrow 3\rightarrow (3\rightarrow 3\rightarrow (\cdots (3\rightarrow 3\rightarrow (3\rightarrow 3\rightarrow 4))\cdots ))}
+   (with 64 
+  
+    
+      
+        3
+        →
+        3
+      
+    
+    {\displaystyle 3\rightarrow 3}
+  's)
+
+  
+    
+      
+        
+          f
+          
+            64
+          
+        
+        (
+        27
+        )
+      
+    
+    {\displaystyle f^{64}(27)}
+  
+
+  
+    
+      
+        =
+        3
+        →
+        3
+        →
+        (
+        3
+        →
+        3
+        →
+        (
+        ⋯
+        (
+        3
+        →
+        3
+        →
+        (
+        3
+        →
+        3
+        →
+        27
+        )
+        )
+        ⋯
+        )
+        )
+      
+    
+    {\displaystyle =3\rightarrow 3\rightarrow (3\rightarrow 3\rightarrow (\cdots (3\rightarrow 3\rightarrow (3\rightarrow 3\rightarrow 27))\cdots ))}
+   (with 64 
+  
+    
+      
+        3
+        →
+        3
+      
+    
+    {\displaystyle 3\rightarrow 3}
+  's)
+
+  
+    
+      
+        =
+        3
+        →
+        3
+        →
+        (
+        3
+        →
+        3
+        →
+        (
+        ⋯
+        (
+        3
+        →
+        3
+        →
+        (
+        3
+        →
+        3
+        →
+        (
+        3
+        →
+        3
+        )
+        )
+        )
+        ⋯
+        )
+        )
+      
+    
+    {\displaystyle =3\rightarrow 3\rightarrow (3\rightarrow 3\rightarrow (\cdots (3\rightarrow 3\rightarrow (3\rightarrow 3\rightarrow (3\rightarrow 3)))\cdots ))}
+   (with 65 
+  
+    
+      
+        3
+        →
+        3
+      
+    
+    {\displaystyle 3\rightarrow 3}
+  's)
+
+  
+    
+      
+        =
+        3
+        →
+        3
+        →
+        65
+        →
+        2
+      
+    
+    {\displaystyle =3\rightarrow 3\rightarrow 65\rightarrow 2}
+   (computing as above).
+
+  
+    
+      
+        =
+        
+          f
+          
+            65
+          
+        
+        (
+        1
+        )
+      
+    
+    {\displaystyle =f^{65}(1)}
+  
+Since f is strictly increasing,
+
+  
+    
+      
+        
+          f
+          
+            64
+          
+        
+        (
+        1
+        )
+        <
+        
+          f
+          
+            64
+          
+        
+        (
+        4
+        )
+        <
+        
+          f
+          
+            64
+          
+        
+        (
+        27
+        )
+      
+    
+    {\displaystyle f^{64}(1)<f^{64}(4)<f^{64}(27)}
+  which is the given inequality.
+With chained arrows, it is very easy to specify a number much greater than 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  , for example, 
+  
+    
+      
+        3
+        →
+        3
+        →
+        3
+        →
+        3
+      
+    
+    {\displaystyle 3\rightarrow 3\rightarrow 3\rightarrow 3}
+  .
+
+  
+    
+      
+        3
+        →
+        3
+        →
+        3
+        →
+        3
+      
+    
+    {\displaystyle 3\rightarrow 3\rightarrow 3\rightarrow 3}
+  
+
+  
+    
+      
+        =
+        3
+        →
+        3
+        →
+        (
+        3
+        →
+        3
+        →
+        27
+        →
+        2
+        )
+        →
+        2
+        
+      
+    
+    {\displaystyle =3\rightarrow 3\rightarrow (3\rightarrow 3\rightarrow 27\rightarrow 2)\rightarrow 2\,}
+  
+
+  
+    
+      
+        =
+        
+          f
+          
+            3
+            →
+            3
+            →
+            27
+            →
+            2
+          
+        
+        (
+        1
+        )
+      
+    
+    {\displaystyle =f^{3\rightarrow 3\rightarrow 27\rightarrow 2}(1)}
+  
+
+  
+    
+      
+        =
+        
+          f
+          
+            
+              f
+              
+                27
+              
+            
+            (
+            1
+            )
+          
+        
+        (
+        1
+        )
+      
+    
+    {\displaystyle =f^{f^{27}(1)}(1)}
+  
+which is much greater than Graham's number, because the number 
+  
+    
+      
+        3
+        →
+        3
+        →
+        27
+        →
+        2
+      
+    
+    {\displaystyle 3\rightarrow 3\rightarrow 27\rightarrow 2}
+   
+  
+    
+      
+        =
+        
+          f
+          
+            27
+          
+        
+        (
+        1
+        )
+      
+    
+    {\displaystyle =f^{27}(1)}
+   is much greater than 
+  
+    
+      
+        65
+      
+    
+    {\displaystyle 65}
+  .
+
+CG function
+Conway and Guy created a simple, single-argument function that diagonalizes over the entire notation, defined as:
+
+  
+    
+      
+        c
+        g
+        (
+        n
+        )
+        =
+        
+          
+            
+              
+                n
+                →
+                n
+                →
+                n
+                →
+                ⋯
+                →
+                n
+                →
+                n
+                →
+                n
+              
+              ⏟
+            
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle cg(n)=\underbrace {n\rightarrow n\rightarrow n\rightarrow \dots \rightarrow n\rightarrow n\rightarrow n} _{n}}
+  
+meaning the sequence is:
+
+  
+    
+      
+        c
+        g
+        (
+        1
+        )
+        =
+        1
+      
+    
+    {\displaystyle cg(1)=1}
+  
+
+  
+    
+      
+        c
+        g
+        (
+        2
+        )
+        =
+        2
+        →
+        2
+        =
+        
+          2
+          
+            2
+          
+        
+        =
+        4
+      
+    
+    {\displaystyle cg(2)=2\to 2=2^{2}=4}
+  
+
+  
+    
+      
+        c
+        g
+        (
+        3
+        )
+        =
+        3
+        →
+        3
+        →
+        3
+        =
+        3
+        ↑↑↑
+        3
+      
+    
+    {\displaystyle cg(3)=3\to 3\to 3=3\uparrow \uparrow \uparrow 3}
+  
+
+  
+    
+      
+        c
+        g
+        (
+        4
+        )
+        =
+        4
+        →
+        4
+        →
+        4
+        →
+        4
+      
+    
+    {\displaystyle cg(4)=4\to 4\to 4\to 4}
+  
+
+  
+    
+      
+        c
+        g
+        (
+        5
+        )
+        =
+        5
+        →
+        5
+        →
+        5
+        →
+        5
+        →
+        5
+      
+    
+    {\displaystyle cg(5)=5\to 5\to 5\to 5\to 5}
+  
+...
+This function, as one might expect, grows extraordinarily fast.
+
+Extension by Peter Hurford
+Peter Hurford, a web developer and statistician, has defined an extension to this notation:
+
+  
+    
+      
+        a
+        
+          →
+          
+            b
+          
+        
+        c
+        =
+        
+          
+            
+              
+                a
+                
+                  →
+                  
+                    b
+                    −
+                    1
+                  
+                
+                a
+                
+                  →
+                  
+                    b
+                    −
+                    1
+                  
+                
+                a
+                
+                  →
+                  
+                    b
+                    −
+                    1
+                  
+                
+                ⋯
+                
+                  →
+                  
+                    b
+                    −
+                    1
+                  
+                
+                a
+                
+                  →
+                  
+                    b
+                    −
+                    1
+                  
+                
+                a
+                
+                  →
+                  
+                    b
+                    −
+                    1
+                  
+                
+                a
+              
+              ⏟
+            
+          
+          
+            c
+            
+               arrows
+            
+          
+        
+      
+    
+    {\displaystyle a\rightarrow _{b}c=\underbrace {a\rightarrow _{b-1}a\rightarrow _{b-1}a\rightarrow _{b-1}\dots \rightarrow _{b-1}a\rightarrow _{b-1}a\rightarrow _{b-1}a} _{c{\text{ arrows}}}}
+  
+
+  
+    
+      
+        a
+        
+          →
+          
+            1
+          
+        
+        b
+        =
+        a
+        →
+        b
+      
+    
+    {\displaystyle a\rightarrow _{1}b=a\rightarrow b}
+  
+All normal rules are unchanged otherwise.
+
+  
+    
+      
+        a
+        
+          →
+          
+            2
+          
+        
+        (
+        a
+        −
+        1
+        )
+      
+    
+    {\displaystyle a\rightarrow _{2}(a-1)}
+   is already equal to the aforementioned 
+  
+    
+      
+        c
+        g
+        (
+        a
+        )
+      
+    
+    {\displaystyle cg(a)}
+  , and the function 
+  
+    
+      
+        f
+        (
+        n
+        )
+        =
+        n
+        
+          →
+          
+            n
+          
+        
+        n
+      
+    
+    {\displaystyle f(n)=n\rightarrow _{n}n}
+   is much faster growing than Conway and Guy's 
+  
+    
+      
+        c
+        g
+        (
+        n
+        )
+      
+    
+    {\displaystyle cg(n)}
+  .
+Note that expressions like 
+  
+    
+      
+        a
+        
+          →
+          
+            b
+          
+        
+        c
+        
+          →
+          
+            d
+          
+        
+        e
+      
+    
+    {\displaystyle a\rightarrow _{b}c\rightarrow _{d}e}
+   are illegal if 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   and 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+   are different numbers; one chain must only have one type of right-arrow.
+However, if we modify this slightly such that:
+
+  
+    
+      
+        a
+        
+          →
+          
+            b
+          
+        
+        c
+        
+          →
+          
+            d
+          
+        
+        e
+        =
+        a
+        
+          →
+          
+            b
+          
+        
+        
+          
+            
+              
+                c
+                
+                  →
+                  
+                    d
+                    −
+                    1
+                  
+                
+                c
+                
+                  →
+                  
+                    d
+                    −
+                    1
+                  
+                
+                c
+                
+                  →
+                  
+                    d
+                    −
+                    1
+                  
+                
+                ⋯
+                
+                  →
+                  
+                    d
+                    −
+                    1
+                  
+                
+                c
+                
+                  →
+                  
+                    d
+                    −
+                    1
+                  
+                
+                c
+                
+                  →
+                  
+                    d
+                    −
+                    1
+                  
+                
+                c
+              
+              ⏟
+            
+          
+          
+            e
+            
+               arrows
+            
+          
+        
+      
+    
+    {\displaystyle a\rightarrow _{b}c\rightarrow _{d}e=a\rightarrow _{b}\underbrace {c\rightarrow _{d-1}c\rightarrow _{d-1}c\rightarrow _{d-1}\dots \rightarrow _{d-1}c\rightarrow _{d-1}c\rightarrow _{d-1}c} _{e{\text{ arrows}}}}
+  
+then not only does 
+  
+    
+      
+        a
+        
+          →
+          
+            b
+          
+        
+        c
+        
+          →
+          
+            d
+          
+        
+        e
+      
+    
+    {\displaystyle a\rightarrow _{b}c\rightarrow _{d}e}
+   become legal, but the notation as a whole becomes much stronger.
+
+See also
+Steinhaus–Moser notation
+Systematically creating ever faster increasing sequences
+
+References
+External links
+Factoids > big numbers
+Robert Munafo's Large Numbers
+The Book of Numbers by J. H. Conway and R. K. Guy

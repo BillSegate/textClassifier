@@ -1,0 +1,56 @@
+In mathematics, an absorbing set for a random dynamical system is a subset of the phase space. A dynamical system is a system in which a function describes the time dependence of a point in a geometrical space.
+The absorbing set eventually contains the image of any bounded set under the cocycle ("flow") of the random dynamical system. As with many concepts related to random dynamical systems, it is defined in the pullback sense.
+
+Definition
+Consider a random dynamical system φ on a complete separable metric space (X, d), where the noise is chosen from a probability space (Ω, Σ, P) with base flow θ : R × Ω → Ω. A random compact set K : Ω → 2X is said to be absorbing if, for all d-bounded deterministic sets B ⊆ X, there exists a (finite) random time τB : Ω → 0, +∞) such that
+
+  
+    
+      
+        t
+        ≥
+        
+          τ
+          
+            B
+          
+        
+        (
+        ω
+        )
+        
+        ⟹
+        
+        φ
+        (
+        t
+        ,
+        
+          θ
+          
+            −
+            t
+          
+        
+        ω
+        )
+        B
+        ⊆
+        K
+        (
+        ω
+        )
+        .
+      
+    
+    {\displaystyle t\geq \tau _{B}(\omega )\implies \varphi (t,\theta _{-t}\omega )B\subseteq K(\omega ).}
+  This is a definition in the pullback sense, as indicated by the use of the negative time shift θ−t.
+
+See also
+Glossary of areas of mathematics
+Lists of mathematics topics
+Mathematics Subject Classification
+Outline of mathematics
+
+References
+Robinson, James C.; Tearne, Oliver M. (2005). "Boundaries of attractors of omega limit sets". Stoch. Dyn. 5 (1): 97–109. doi:10.1142/S0219493705001304. ISSN 0219-4937. MR 2118757. (See footnote (e) on p. 104)

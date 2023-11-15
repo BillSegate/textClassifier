@@ -1,0 +1,114 @@
+The language of mathematics or mathematical language is an extension of the natural language (for example English) that is used in mathematics and in science for expressing results (scientific laws, theorems, proofs, logical deductions, etc) with concision, precision and unambiguity.
+
+Features
+The main features of the mathematical language are the following.
+
+Use of common words with a derived meaning, generally more specific and more precise. For example, "or" means "one, the other or both", while, in common language, "both" is sometimes included and sometimes not. Also, a "line" is straight and has zero width.
+Use of common words with a meaning that is completely different from their common meaning. For example, a mathematical ring is not related to any other meaning of "ring". Real numbers and imaginary numbers are two sorts of numbers, none being more real or more imaginary than the others.
+Use of neologisms. For example polynomial, homomorphism.
+Use of symbols as words or phrases. For example, 
+  
+    
+      
+        A
+        =
+        B
+      
+    
+    {\displaystyle A=B}
+   and 
+  
+    
+      
+        ∀
+        x
+      
+    
+    {\displaystyle \forall x}
+   are respectively read as "
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   equals 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  " and "for all 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  ".
+Use of formulas as part of sentences. For example: "
+  
+    
+      
+        E
+        =
+        m
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E=mc^{2}}
+   represents quantitatively the mass–energy equivalence." A formula that is not included in a sentence is generally meaningless, since the meaning of the symbols may depend on the context: in " 
+  
+    
+      
+        E
+        =
+        m
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E=mc^{2}}
+   ", this is the context that specifies that E is the energy of a physical body, m is its mass, and c is the speed of light.
+Use of mathematical jargon that consists of phrases that are used for informal explanations or shorthands. For example, "killing" is often used in place of "replacing with zero", and this led to the use of assassinator and annihilator as technical words.
+
+Understanding mathematical text
+The consequence of these features is that a mathematical text is generally not understandable without some prerequisite knowledge. For example the sentence "a free module is a module that has a basis" is perfectly correct, although it appears only as a grammatically correct nonsense, when one does not know the definitions of basis, module, and free module.
+H. B. Williams, an electrophysiologist, wrote in 1927:
+
+Now mathematics is both a body of truth and a special language, a language more carefully defined and more highly abstracted than our ordinary medium of thought and expression. Also it differs from ordinary languages in this important particular: it is subject to rules of manipulation. Once a statement is cast into mathematical form it may be manipulated in accordance with these rules and every configuration of the symbols will represent facts in harmony with and dependent on those contained in the original statement. Now this comes very close to what we conceive the action of the brain structures to be in performing intellectual acts with the symbols of ordinary language. In a sense, therefore, the mathematician has been able to perfect a device through which a part of the labor of logical thought is carried on outside the central nervous system with only that supervision which is requisite to manipulate the symbols in accordance with the rules.: 291
+
+See also
+Formulario mathematico
+Formal language
+History of mathematical notation
+Mathematical notation
+List of mathematical jargon
+
+References
+Further reading
+Linguistic point of view
+Keith Devlin (2000) The Language of Mathematics: Making the Invisible Visible, Holt Publishing.
+Kay O'Halloran (2004) Mathematical Discourse: Language, Symbolism and Visual Images, Continuum.
+R. L. E. Schwarzenberger (2000), "The Language of Geometry", in A Mathematical Spectrum Miscellany, Applied Probability Trust.
+
+In education
+F. Bruun, J. M. Diaz, & V. J. Dykes (2015) The Language of Mathematics. Teaching Children Mathematics, 21(9), 530–536.
+J. O. Bullock (1994) Literacy in the Language of Mathematics. The American Mathematical Monthly, 101(8), 735–743.
+L. Buschman (1995) Communicating in the Language of Mathematics. Teaching Children Mathematics, 1(6), 324–329.
+B. R. Jones, P. F. Hopper, D. P. Franz, L. Knott, & T. A. Evitts (2008) Mathematics: A Second Language. The Mathematics Teacher, 102(4), 307–312. JSTOR.
+C. Morgan (1996) “The Language of Mathematics”: Towards a Critical Analysis of Mathematics Texts. For the Learning of Mathematics, 16(3), 2–10.
+J. K. Moulton (1946) The Language of Mathematics. The Mathematics Teacher, 39(3), 131–133.

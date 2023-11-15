@@ -1,0 +1,273 @@
+The Copeland–Erdős constant is the concatenation of "0." with the base 10 representations of the prime numbers in order. Its value, using the modern definition of prime, is approximately
+
+0.235711131719232931374143… (sequence A033308 in the OEIS).The constant is irrational; this can be proven with Dirichlet's theorem on arithmetic progressions or Bertrand's postulate (Hardy and Wright, p. 113) or Ramare's theorem that every even integer is a sum of at most six primes. It also follows directly from its normality (see below).
+By a similar argument, any constant created by concatenating "0."  with all primes in an arithmetic progression dn + a, where a is coprime to d and to 10, will be irrational; for example, primes of the form 4n + 1 or 8n + 1.  By Dirichlet's theorem, the arithmetic progression dn · 10m + a contains primes for all m, and those primes are also in cd + a, so the concatenated primes contain arbitrarily long sequences of the digit zero.
+In base 10, the constant is a normal number, a fact proven by Arthur Herbert Copeland and Paul Erdős in 1946 (hence the name of the constant).The constant is given by
+
+  
+    
+      
+        
+          
+            ∑
+            
+              n
+              =
+              1
+            
+            
+              ∞
+            
+          
+          
+            p
+            
+              n
+            
+          
+          
+            10
+            
+              −
+              
+                (
+                
+                  n
+                  +
+                  
+                    ∑
+                    
+                      k
+                      =
+                      1
+                    
+                    
+                      n
+                    
+                  
+                  ⌊
+                  
+                    log
+                    
+                      10
+                    
+                  
+                  ⁡
+                  
+                    
+                      p
+                      
+                        k
+                      
+                    
+                  
+                  ⌋
+                
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle \displaystyle \sum _{n=1}^{\infty }p_{n}10^{-\left(n+\sum _{k=1}^{n}\lfloor \log _{10}{p_{k}}\rfloor \right)}}
+  where pn is the nth prime number.
+Its continued fraction is [0; 4, 4, 8, 16, 18, 5, 1, …] (OEIS: A030168).
+
+Related constants
+Copeland and Erdős's proof that their constant is normal relies only on the fact that 
+  
+    
+      
+        
+          p
+          
+            n
+          
+        
+      
+    
+    {\displaystyle p_{n}}
+   is strictly increasing and 
+  
+    
+      
+        
+          p
+          
+            n
+          
+        
+        =
+        
+          n
+          
+            1
+            +
+            o
+            (
+            1
+            )
+          
+        
+      
+    
+    {\displaystyle p_{n}=n^{1+o(1)}}
+  , where 
+  
+    
+      
+        
+          p
+          
+            n
+          
+        
+      
+    
+    {\displaystyle p_{n}}
+   is the nth prime number. More generally, if 
+  
+    
+      
+        
+          s
+          
+            n
+          
+        
+      
+    
+    {\displaystyle s_{n}}
+   is any strictly increasing sequence of natural numbers such that 
+  
+    
+      
+        
+          s
+          
+            n
+          
+        
+        =
+        
+          n
+          
+            1
+            +
+            o
+            (
+            1
+            )
+          
+        
+      
+    
+    {\displaystyle s_{n}=n^{1+o(1)}}
+   and 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   is any natural number greater than or equal to 2, then the constant obtained by concatenating "0." with the base-
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   representations of the 
+  
+    
+      
+        
+          s
+          
+            n
+          
+        
+      
+    
+    {\displaystyle s_{n}}
+  's is normal in base 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  . For example, the sequence 
+  
+    
+      
+        ⌊
+        n
+        (
+        log
+        ⁡
+        n
+        
+          )
+          
+            2
+          
+        
+        ⌋
+      
+    
+    {\displaystyle \lfloor n(\log n)^{2}\rfloor }
+   satisfies these conditions, so the constant 0.003712192634435363748597110122136… is normal in base 10, and 0.003101525354661104…7 is normal in base 7.
+In any given base b the number
+
+  
+    
+      
+        
+          
+            ∑
+            
+              n
+              =
+              1
+            
+            
+              ∞
+            
+          
+          
+            b
+            
+              −
+              
+                p
+                
+                  n
+                
+              
+            
+          
+          ,
+          
+        
+      
+    
+    {\displaystyle \displaystyle \sum _{n=1}^{\infty }b^{-p_{n}},\,}
+  which can be written in base b as 0.0110101000101000101…b
+where the nth digit is 1 if and only if n is prime, is irrational.
+
+See also
+Smarandache–Wellin numbers: the truncated value of this constant multiplied by the appropriate power of 10.
+Champernowne constant: concatenating all natural numbers, not just primes.
+
+References
+Sources
+Copeland, A. H.; Erdős, P. (1946), "Note on Normal Numbers", Bulletin of the American Mathematical Society, 52 (10): 857–860, doi:10.1090/S0002-9904-1946-08657-7.
+Hardy, G. H.; Wright, E. M. (1979) [1938], An Introduction to the Theory of Numbers (5th ed.), Oxford University Press, ISBN 0-19-853171-0.
+
+External links
+Weisstein, Eric W. "Copeland-Erdos Constant". MathWorld.

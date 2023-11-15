@@ -1,0 +1,4 @@
+In mathematical set theory, the Mostowski model is a model of set theory with atoms where the full axiom of choice fails, but every set can be linearly ordered. It was introduced by Mostowski (1939). The Mostowski model can be constructed as the permutation model corresponding to the group of all automorphisms of the ordered set of rational numbers and the ideal of finite subsets of the rational numbers.
+
+References
+Mostowski, Andrzej (1939), "Über die Unabhängigkeit des Wohlordnungssatzes vom Ordnungsprinzip", Fundamenta Mathematicae, 32 (1): 201–252

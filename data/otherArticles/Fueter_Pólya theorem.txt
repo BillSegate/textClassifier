@@ -1,0 +1,550 @@
+The Fueter–Pólya theorem, first proved by Rudolf Fueter and George Pólya, states that the only quadratic polynomial pairing functions are the Cantor polynomials.
+
+Introduction
+In 1873, Georg Cantor showed that the so-called Cantor polynomial
+
+  
+    
+      
+        P
+        (
+        x
+        ,
+        y
+        )
+        :=
+        
+          
+            1
+            2
+          
+        
+        (
+        (
+        x
+        +
+        y
+        
+          )
+          
+            2
+          
+        
+        +
+        3
+        x
+        +
+        y
+        )
+        =
+        
+          
+            
+              
+                x
+                
+                  2
+                
+              
+              +
+              2
+              x
+              y
+              +
+              3
+              x
+              +
+              
+                y
+                
+                  2
+                
+              
+              +
+              y
+            
+            2
+          
+        
+        =
+        x
+        +
+        
+          
+            
+              (
+              x
+              +
+              y
+              )
+              (
+              x
+              +
+              y
+              +
+              1
+              )
+            
+            2
+          
+        
+        =
+        
+          
+            
+              (
+            
+            
+              x
+              1
+            
+            
+              )
+            
+          
+        
+        +
+        
+          
+            
+              (
+            
+            
+              
+                x
+                +
+                y
+                +
+                1
+              
+              2
+            
+            
+              )
+            
+          
+        
+      
+    
+    {\displaystyle P(x,y):={\frac {1}{2}}((x+y)^{2}+3x+y)={\frac {x^{2}+2xy+3x+y^{2}+y}{2}}=x+{\frac {(x+y)(x+y+1)}{2}}={\binom {x}{1}}+{\binom {x+y+1}{2}}}
+  is a bijective mapping from 
+  
+    
+      
+        
+          
+            N
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \mathbb {N} ^{2}}
+   to 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+  .
+The polynomial given by swapping the variables is also a pairing function.
+Fueter was investigating whether there are other quadratic polynomials with this property, and concluded that this is not the case assuming 
+  
+    
+      
+        P
+        (
+        0
+        ,
+        0
+        )
+        =
+        0
+      
+    
+    {\displaystyle P(0,0)=0}
+  . He then wrote to Pólya, who showed the theorem does not require this condition.
+
+Statement
+If 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   is a real quadratic polynomial in two variables whose restriction to 
+  
+    
+      
+        
+          
+            N
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \mathbb {N} ^{2}}
+   is a bijection from 
+  
+    
+      
+        
+          
+            N
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \mathbb {N} ^{2}}
+   to 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+   then it is
+
+  
+    
+      
+        P
+        (
+        x
+        ,
+        y
+        )
+        :=
+        
+          
+            1
+            2
+          
+        
+        (
+        (
+        x
+        +
+        y
+        
+          )
+          
+            2
+          
+        
+        +
+        3
+        x
+        +
+        y
+        )
+      
+    
+    {\displaystyle P(x,y):={\frac {1}{2}}((x+y)^{2}+3x+y)}
+  or
+
+  
+    
+      
+        P
+        (
+        x
+        ,
+        y
+        )
+        :=
+        
+          
+            1
+            2
+          
+        
+        (
+        (
+        y
+        +
+        x
+        
+          )
+          
+            2
+          
+        
+        +
+        3
+        y
+        +
+        x
+        )
+        .
+      
+    
+    {\displaystyle P(x,y):={\frac {1}{2}}((y+x)^{2}+3y+x).}
+
+Proof
+The original proof is surprisingly difficult, using the Lindemann–Weierstrass theorem to prove the transcendence of
+
+  
+    
+      
+        
+          e
+          
+            a
+          
+        
+      
+    
+    {\displaystyle e^{a}}
+   for a nonzero algebraic number 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  .
+In 2002, M. A. Vsemirnov published an elementary proof of this result.
+
+Fueter–Pólya conjecture
+The theorem states that the Cantor polynomial is the only quadratic pairing polynomial of 
+  
+    
+      
+        
+          
+            N
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \mathbb {N} ^{2}}
+   and 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+  . The conjecture is that these are the only such pairing polynomials. In a 2018 preprint, Pieter Adriaans has put forward a proof that purports to confirm the conjecture.
+
+Higher dimensions
+A generalization of the Cantor polynomial in higher dimensions is as follows:
+
+  
+    
+      
+        
+          P
+          
+            n
+          
+        
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        )
+        =
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          
+            
+              (
+            
+            
+              
+                k
+                −
+                1
+                +
+                
+                  ∑
+                  
+                    j
+                    =
+                    1
+                  
+                  
+                    k
+                  
+                
+                
+                  x
+                  
+                    j
+                  
+                
+              
+              k
+            
+            
+              )
+            
+          
+        
+        =
+        
+          x
+          
+            1
+          
+        
+        +
+        
+          
+            
+              (
+            
+            
+              
+                
+                  x
+                  
+                    1
+                  
+                
+                +
+                
+                  x
+                  
+                    2
+                  
+                
+                +
+                1
+              
+              2
+            
+            
+              )
+            
+          
+        
+        +
+        ⋯
+        +
+        
+          
+            
+              (
+            
+            
+              
+                
+                  x
+                  
+                    1
+                  
+                
+                +
+                ⋯
+                +
+                
+                  x
+                  
+                    n
+                  
+                
+                +
+                n
+                −
+                1
+              
+              n
+            
+            
+              )
+            
+          
+        
+      
+    
+    {\displaystyle P_{n}(x_{1},\ldots ,x_{n})=\sum _{k=1}^{n}{\binom {k-1+\sum _{j=1}^{k}x_{j}}{k}}=x_{1}+{\binom {x_{1}+x_{2}+1}{2}}+\cdots +{\binom {x_{1}+\cdots +x_{n}+n-1}{n}}}
+  The sum of these binomial coefficients yields a polynomial of degree 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   in 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   variables. This is just one of at least 
+  
+    
+      
+        (
+        n
+        −
+        1
+        )
+        !
+      
+    
+    {\displaystyle (n-1)!}
+   inequivalent packing polynomials for 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   dimensions.
+
+
+== References ==

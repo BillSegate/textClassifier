@@ -1,0 +1,315 @@
+In vector calculus, a vector potential is a vector field whose curl is a given vector field. This is analogous to a scalar potential, which is a scalar field whose gradient is a given vector field.
+Formally, given a vector field v, a vector potential is a 
+  
+    
+      
+        
+          C
+          
+            2
+          
+        
+      
+    
+    {\displaystyle C^{2}}
+   vector field A such that
+
+Consequence
+If a vector field v admits a vector potential A, then from the equality 
+
+(divergence of the curl is zero) one obtains
+
+which implies that v must be a solenoidal vector field.
+
+Theorem
+Let 
+
+be a solenoidal vector field which is twice continuously differentiable. Assume that v(x) decreases at least as fast as 
+  
+    
+      
+        1
+        
+          /
+        
+        ‖
+        
+          x
+        
+        ‖
+      
+    
+    {\displaystyle 1/\|\mathbf {x} \|}
+   for 
+  
+    
+      
+        ‖
+        
+          x
+        
+        ‖
+        →
+        ∞
+      
+    
+    {\displaystyle \|\mathbf {x} \|\to \infty }
+  .
+Define
+
+Then, A is a vector potential for v, that is,　
+Here, 
+  
+    
+      
+        
+          ∇
+          
+            y
+          
+        
+        ×
+      
+    
+    {\displaystyle \nabla _{y}\times }
+   is curl for variable y.
+Substituting curl[v] for the current density j of the retarded potential, you will get this formula. In other words, v corresponds to the H-field.
+You can restrict the integral domain to any single-connected region Ω. That is, A' below is also a vector potential of v;
+
+A generalization of this theorem is the Helmholtz decomposition which states that any vector field can be decomposed as a sum of a solenoidal vector field and an irrotational vector field.
+By analogy with Biot-Savart's law, the following 
+  
+    
+      
+        
+          
+            A
+            ″
+          
+        
+        (
+        
+          
+            x
+          
+        
+        )
+      
+    
+    {\displaystyle {\boldsymbol {A''}}({\textbf {x}})}
+   is also qualify as a vector potential for v.
+
+  
+    
+      
+        
+          
+            A
+            ″
+          
+        
+        (
+        
+          
+            x
+          
+        
+        )
+        =
+        
+          ∫
+          
+            Ω
+          
+        
+        
+          
+            
+              
+                v
+              
+              (
+              
+                y
+              
+              )
+              ×
+              (
+              
+                x
+              
+              −
+              
+                y
+              
+              )
+            
+            
+              4
+              π
+              
+                |
+              
+              
+                x
+              
+              −
+              
+                y
+              
+              
+                
+                  |
+                
+                
+                  3
+                
+              
+            
+          
+        
+        
+          d
+          
+            3
+          
+        
+        
+          y
+        
+      
+    
+    {\displaystyle {\boldsymbol {A''}}({\textbf {x}})=\int _{\Omega }{\frac {{\boldsymbol {v}}({\boldsymbol {y}})\times ({\boldsymbol {x}}-{\boldsymbol {y}})}{4\pi |{\boldsymbol {x}}-{\boldsymbol {y}}|^{3}}}d^{3}{\boldsymbol {y}}}
+  Substitute j (current density) for v and H (H-field)for A, we will find the  Biot-Savart law.
+Let 
+  
+    
+      
+        
+          
+            p
+          
+        
+        ∈
+        
+          R
+        
+      
+    
+    {\displaystyle {\textbf {p}}\in \mathbb {R} }
+   and let the Ω be a star domain centered on the p then,
+translating Poincaré's lemma for differential forms into vector fields world, the following 
+  
+    
+      
+        
+          
+            A
+            ‴
+          
+        
+        (
+        
+          x
+        
+        )
+      
+    
+    {\displaystyle {\boldsymbol {A'''}}({\boldsymbol {x}})}
+   is also a vector potential for the 
+  
+    
+      
+        
+          v
+        
+      
+    
+    {\displaystyle {\boldsymbol {v}}}
+  
+
+  
+    
+      
+        
+          
+            A
+            ‴
+          
+        
+        (
+        
+          x
+        
+        )
+        =
+        
+          ∫
+          
+            0
+          
+          
+            1
+          
+        
+        s
+        (
+        (
+        
+          x
+        
+        −
+        
+          p
+        
+        )
+        ×
+        (
+        
+          v
+        
+        (
+        s
+        
+          x
+        
+        +
+        (
+        1
+        −
+        s
+        )
+        
+          p
+        
+        )
+        )
+         
+        d
+        s
+      
+    
+    {\displaystyle {\boldsymbol {A'''}}({\boldsymbol {x}})=\int _{0}^{1}s(({\boldsymbol {x}}-{\boldsymbol {p}})\times ({\boldsymbol {v}}(s{\boldsymbol {x}}+(1-s){\boldsymbol {p}}))\ ds}
+
+Nonuniqueness
+The vector potential admitted by a solenoidal field is not unique.  If A is a vector potential for v, then so is
+
+where 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   is any continuously differentiable scalar function. This follows from the fact that the curl of the gradient is zero.
+This nonuniqueness leads to a degree of freedom in the formulation of electrodynamics, or gauge freedom, and requires choosing a gauge.
+
+See also
+Fundamental theorem of vector calculus
+Magnetic vector potential
+Solenoid
+Closed and Exact Differential Forms
+
+References
+Fundamentals of Engineering Electromagnetics by David K. Cheng, Addison-Wesley, 1993.

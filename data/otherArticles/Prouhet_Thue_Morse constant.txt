@@ -1,0 +1,324 @@
+In mathematics, the Prouhet–Thue–Morse constant, named for Eugène Prouhet, Axel Thue, and Marston Morse, is the number—denoted by τ—whose binary expansion 0.01101001100101101001011001101001... is given by the Prouhet–Thue–Morse sequence.  That is,
+
+  
+    
+      
+        τ
+        =
+        
+          ∑
+          
+            n
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              t
+              
+                n
+              
+            
+            
+              2
+              
+                n
+                +
+                1
+              
+            
+          
+        
+        =
+        0.412454033640
+        …
+      
+    
+    {\displaystyle \tau =\sum _{n=0}^{\infty }{\frac {t_{n}}{2^{n+1}}}=0.412454033640\ldots }
+  where tn is the nth element of the Prouhet–Thue–Morse sequence.
+
+Other representations
+The Prouhet–Thue–Morse constant can also be expressed, without using tn , as an infinite product,
+
+  
+    
+      
+        τ
+        =
+        
+          
+            1
+            4
+          
+        
+        
+          [
+          
+            2
+            −
+            
+              ∏
+              
+                n
+                =
+                0
+              
+              
+                ∞
+              
+            
+            
+              (
+              
+                1
+                −
+                
+                  
+                    1
+                    
+                      2
+                      
+                        
+                          2
+                          
+                            n
+                          
+                        
+                      
+                    
+                  
+                
+              
+              )
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle \tau ={\frac {1}{4}}\left[2-\prod _{n=0}^{\infty }\left(1-{\frac {1}{2^{2^{n}}}}\right)\right]}
+  This formula is obtained by substituting x = 1/2 into generating series for tn
+
+  
+    
+      
+        F
+        (
+        x
+        )
+        =
+        
+          ∑
+          
+            n
+            =
+            0
+          
+          
+            ∞
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            
+              t
+              
+                n
+              
+            
+          
+        
+        
+          x
+          
+            n
+          
+        
+        =
+        
+          ∏
+          
+            n
+            =
+            0
+          
+          
+            ∞
+          
+        
+        (
+        1
+        −
+        
+          x
+          
+            
+              2
+              
+                n
+              
+            
+          
+        
+        )
+      
+    
+    {\displaystyle F(x)=\sum _{n=0}^{\infty }(-1)^{t_{n}}x^{n}=\prod _{n=0}^{\infty }(1-x^{2^{n}})}
+  The continued fraction expansion of the constant is [0; 2, 2, 2, 1, 4, 3, 5, 2, 1, 4, 2, 1, 5, 44, 1, 4, 1, 2, 4, 1, …] (sequence A014572 in the OEIS)
+Yann Bugeaud and Martine Queffélec showed that infinitely many partial quotients of this continued fraction are 4 or 5, and infinitely many partial quotients are greater than or equal to 50.
+
+Transcendence
+The Prouhet–Thue–Morse constant was shown to be transcendental by Kurt Mahler in 1929.He also showed that the number
+
+  
+    
+      
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          t
+          
+            n
+          
+        
+        
+        
+          α
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \sum _{i=0}^{\infty }t_{n}\,\alpha ^{n}}
+  is also transcendental for any algebraic number α, where 0 < |α| < 1.
+Yann Bugaeud proved that the Prouhet–Thue–Morse constant has an irrationality measure of 2.
+
+Appearances
+The Prouhet–Thue–Morse constant appears in probability. If a language L over {0, 1} is chosen at random, by flipping a fair coin to decide whether each word w is in L, the probability that it contains at least one word for each possible length is 
+
+  
+    
+      
+        p
+        =
+        
+          ∏
+          
+            n
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          (
+          
+            1
+            −
+            
+              
+                1
+                
+                  2
+                  
+                    
+                      2
+                      
+                        n
+                      
+                    
+                  
+                
+              
+            
+          
+          )
+        
+        =
+        
+          ∑
+          
+            n
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              (
+              −
+              1
+              
+                )
+                
+                  
+                    t
+                    
+                      n
+                    
+                  
+                
+              
+            
+            
+              2
+              
+                n
+                +
+                1
+              
+            
+          
+        
+        =
+        2
+        −
+        4
+        τ
+        =
+        0.35018386544
+        …
+      
+    
+    {\displaystyle p=\prod _{n=0}^{\infty }\left(1-{\frac {1}{2^{2^{n}}}}\right)=\sum _{n=0}^{\infty }{\frac {(-1)^{t_{n}}}{2^{n+1}}}=2-4\tau =0.35018386544\ldots }
+
+See also
+Euler-Mascheroni constant
+Fibonacci word
+Golay–Rudin–Shapiro sequence
+Komornik–Loreti constant
+
+Notes
+References
+Allouche, Jean-Paul; Shallit, Jeffrey (2003). Automatic Sequences: Theory, Applications, Generalizations. Cambridge University Press. ISBN 978-0-521-82332-6. Zbl 1086.11015..
+Pytheas Fogg, N. (2002). Berthé, Valérie; Ferenczi, Sébastien; Mauduit, Christian; Siegel, Anne (eds.). Substitutions in dynamics, arithmetics and combinatorics. Lecture Notes in Mathematics. Vol. 1794. Berlin: Springer-Verlag. ISBN 3-540-44141-7. Zbl 1014.11015.
+
+External links
+OEIS sequence A010060 (Thue-Morse sequence)
+The ubiquitous Prouhet-Thue-Morse sequence, John-Paull Allouche and Jeffrey Shallit, (undated, 2004 or earlier) provides many applications and some history
+PlanetMath entry

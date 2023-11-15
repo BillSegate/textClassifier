@@ -1,0 +1,105 @@
+Proofs That Really Count: the Art of Combinatorial Proof is an undergraduate-level mathematics book on combinatorial proofs of mathematical identies. That is, it concerns equations between two integer-valued formulas, shown to be equal either by showing that both sides of the equation count the same type of mathematical objects, or by finding a one-to-one correspondence between the different types of object that they count. It was written by Arthur T. Benjamin and Jennifer Quinn, and published in 2003 by the Mathematical Association of America as volume 27 of their Dolciani Mathematical Expositions series. It won the Beckenbach Book Prize of the Mathematical Association of America.
+
+Topics
+The book provides combinatorial proofs of thirteen theorems in combinatorics and 246 numbered identities (collated in an appendix). Several additional "uncounted identities" are also included. Many proofs are based on a visual-reasoning method that the authors call "tiling", and in a foreword, the authors describe their work as providing a follow-up for counting problems of the Proof Without Words books by Roger B. Nelson.The first three chapters of the book start with integer sequences defined by linear recurrence relations, the prototypical example of which is the sequence of Fibonacci numbers. These numbers can be given a combinatorial interpretation as the number of ways of tiling a 
+  
+    
+      
+        1
+        ×
+        n
+      
+    
+    {\displaystyle 1\times n}
+   strip of squares with tiles of two types, single squares and dominos; this interpretation can be used to prove many of the fundamental identities involving the Fibonacci numbers, and generalized to  similar relations about other sequences defined similarly, such as the Lucas numbers, using "circular tilings and colored tilings". For instance, for the Fibonacci numbers, considering whether a tiling does or does not connect positions 
+  
+    
+      
+        a
+        −
+        1
+      
+    
+    {\displaystyle a-1}
+   and 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   of a strip of length 
+  
+    
+      
+        a
+        +
+        b
+        −
+        1
+      
+    
+    {\displaystyle a+b-1}
+   immediately leads to the identity
+
+  
+    
+      
+        
+          F
+          
+            a
+            +
+            b
+          
+        
+        =
+        
+          F
+          
+            a
+            −
+            1
+          
+        
+        
+          F
+          
+            b
+          
+        
+        +
+        
+          F
+          
+            a
+          
+        
+        
+          F
+          
+            b
+            +
+            1
+          
+        
+        .
+      
+    
+    {\displaystyle F_{a+b}=F_{a-1}F_{b}+F_{a}F_{b+1}.}
+  Chapters four through seven of the book concern identities involving continued fractions, binomial coefficients, harmonic numbers, Stirling numbers, and factorials. The eighth chapter branches out from combinatorics to number theory and abstract algebra, and the final chapter returns to the Fibonacci numbers with more advanced material on their identities.
+
+Audience and reception
+The book is aimed at undergraduate mathematics students, but the material is largely self-contained, and could also be read by advanced high school students. Additionally, many of the book's chapters are themselves self-contained, allowing for arbitrary reading orders or for excerpts of this material to be used in classes. Although it is structured as a textbook with exercises in each chapter, reviewer Robert Beezer writes that it is "not meant as a textbook", but rather intended as a "resource" for teachers and researchers. Echoing this, reviewer Joe Roberts writes that despite its elementary nature, this book should be "valuable as a reference ... for anyone working with such identities".In an initial review, Darren Glass complained that many of the results are presented as dry formulas, without any context or explanation for why they should be interesting or useful, and that 
+this lack of context would be an obstacle for using it as the main text for a class. Nevertheless, in a second review after a year of owning the book, he wrote that he was "lending it out to person after person".
+Reviewer Peter G. Anderson praises the book's "beautiful ways of seeing old, familiar mathematics and some new mathematics too", calling it "a treasure". Reviewer Gerald L. Alexanderson describes the book's proofs as "ingenious, concrete and memorable". The award citation for the book's 2006 Beckenbach Book Prize states that it "illustrates in a magical way the pervasiveness and power of counting techniques throughout mathematics. It is one of those rare books that will appeal to the mathematical professional and seduce the neophyte."One of the open problems from the book, seeking a bijective proof of an identity combining binomial coefficients with Fibonacci numbers, was subsequently answered positively by Doron Zeilberger. In the web site where he links a preprint of his paper, Zeilberger writes,
+
+"When I was young and handsome, I couldn't see an identity without trying to prove it bijectively. Somehow, I weaned myself of this addiction. But the urge got rekindled, when I read Arthur Benjamin and Jennifer Quinn's masterpiece Proofs that Really Count."
+
+Recognition
+Proofs That Really Count won the 2006 Beckenbach Book Prize of the Mathematical Association of America, and the 2010 CHOICE Award for Outstanding Academic Title of the American Library Association. It has been listed by the Basic Library List Committee of the Mathematical Association of America as essential for inclusion in any undergraduate mathematics library.
+
+References
+External links
+Proofs That Really Count on the Internet Archive

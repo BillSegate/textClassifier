@@ -1,0 +1,17 @@
+A list of wavelet related transforms:
+
+Continuous wavelet transform (CWT)
+Discrete wavelet transform (DWT)
+Multiresolution analysis (MRA)
+Lifting scheme
+Binomial QMF (BQMF)
+Fast wavelet transform (FWT)
+Complex wavelet transform
+Non or undecimated wavelet transform, the downsampling is omitted
+Newland transform, an orthonormal basis of wavelets is formed from appropriately constructed top-hat filters in frequency space
+Wavelet packet decomposition (WPD), detail coefficients are decomposed and a variable tree can be formed
+Stationary wavelet transform (SWT), no downsampling and the filters at each level are different
+e-decimated discrete wavelet transform, depends on if the even or odd coefficients are selected in the downsampling
+Second generation wavelet transform (SGWT), filters and wavelets are not created in the frequency domain
+Dual-tree complex wavelet transform (DTCWT), two trees are used for decomposion to produce the real and complex coefficients
+WITS: Where Is The Starlet, a collection of a hundredth of wavelet names in -let and associated multiscale, directional, geometric, representations, from activelets to x-lets through bandelets, chirplets, contourlets, curvelets, noiselets, wedgelets ...

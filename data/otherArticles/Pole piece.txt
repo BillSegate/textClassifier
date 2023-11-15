@@ -1,0 +1,13 @@
+A pole piece is a structure composed of material of high magnetic permeability that serves to direct the magnetic field produced by a magnet. A pole piece attaches to and in a sense extends a pole of the magnet, hence the name.
+Pole pieces are used with both permanent magnets and electromagnets. In the case of an electromagnet, the pole piece or pieces simply extend the magnetic core and can even be regarded as part of it, particularly if they are made of the same material. In the case of a permanent magnet, the distinction between the magnet itself and the pole piece or pieces is more clear cut.
+
+Materials
+The traditional material for pole pieces was soft iron. While still often used with permanent magnets, soft iron suffers from eddy currents which make it less suitable for use with electromagnets, and particularly inefficient when the magnet is excited by alternating current.
+
+Shapes and forms
+Pole pieces take many shapes and forms depending on the application.
+A traditional dynamic loudspeaker has a distinctive annular magnet and pole piece structure which serves to concentrate the magnetic flux on the voice coil. The central, cylindrical pole piece surrounded by the voice coil is normally referred to as the pole piece. A second pole piece in turn surrounds the voice coil.
+A moving coil meter has a different and equally distinctive structure.
+
+A magnet keeper is a specialised pole piece used to temporarily connect the poles of a permanent magnet, to help to preserve the magnetism, and for safety in the case of large and powerful magnets.
+Another specialised pole piece is the armature of an electromechanical solenoid, which produces work by being attracted by an electromagnet when the magnet is actuated.

@@ -1,0 +1,37 @@
+This is a list of functional analysis topics.
+See also: Glossary of functional analysis.
+
+Hilbert space
+Functional analysis, classic results
+Operator theory
+Banach space examples
+Lp space
+Hardy space
+Sobolev space
+Tsirelson space
+ba space
+
+Real and complex algebras
+Topological vector spaces
+Amenability
+Amenable group
+Von Neumann conjecture
+
+Wavelets
+Quantum theory
+See also list of mathematical topics in quantum theory
+
+Probability
+Free probability
+Bernstein's theorem
+
+Non-linear
+Fixed-point theorems in infinite-dimensional spaces
+
+History
+Stefan Banach (1892–1945)
+Hugo Steinhaus (1887–1972)
+John von Neumann (1903-1957)
+Alain Connes (born 1947)
+Earliest Known Uses of Some of the Words of Mathematics: Calculus & Analysis
+Earliest Known Uses of Some of the Words of Mathematics: Matrices and Linear Algebra

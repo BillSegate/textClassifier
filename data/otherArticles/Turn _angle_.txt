@@ -1,0 +1,84 @@
+One turn (symbol tr or pla) is a unit of plane angle measurement equal to 2π radians, 360 degrees or 400 gradians.
+Thus it is the angular measure subtended by a complete circle at its center.
+Subdivisions of a turn include half-turns and quarter-turns, spanning a semicircle and a right angle, respectively; metric prefixes can also be used as in, e.g., centiturns (ctr), milliturns (mtr), etc.
+As an angular unit, one turn also corresponds to one cycle (symbol cyc or c) or to one revolution (symbol rev or r).In the ISQ, an arbitrary "number of turns" (also known as "number of revolutions" or "number of cycles") is formalized as a dimensionless quantity called rotation, defined as the ratio of a given angle and the full turn. (See below for the formula.)
+Common related units of frequency are cycles per second (cps) and revolutions per minute (rpm).
+
+History
+The word turn originates via Latin and French from the Greek word τόρνος (tórnos – a lathe).
+In 1697, David Gregory used π/ρ (pi over rho) to denote the perimeter of a circle (i.e., the circumference) divided by its radius. However, earlier in 1647, William Oughtred had used δ/π (delta over pi) for the ratio of the diameter to perimeter. The first use of the symbol π on its own with its present meaning (of perimeter divided by diameter) was in 1706 by the Welsh mathematician William Jones. Euler adopted the symbol with that meaning in 1737, leading to its widespread use.
+Percentage protractors have existed since 1922, but the terms centiturns, milliturns and microturns were introduced much later by the British astronomer Fred Hoyle in 1962. Some measurement devices for artillery and satellite watching carry milliturn scales.
+
+Unit symbols
+The German standard DIN 1315 (March 1974) proposed the unit symbol "pla" (from Latin: plenus angulus 'full angle') for turns. Covered in DIN 1301-1 (October 2010), the so-called Vollwinkel ('full angle') is not an SI unit. However, it is a legal unit of measurement in the EU and Switzerland.The scientific calculators HP 39gII and HP Prime support the unit symbol "tr" for turns since 2011 and 2013, respectively. Support for "tr" was also added to newRPL for the HP 50g in 2016, and for the hp 39g+, HP 49g+, HP 39gs, and HP 40gs in 2017. An angular mode TURN was suggested for the WP 43S as well, but the calculator instead implements "MULπ" (multiples of π) as mode and unit since 2019.
+
+Subdivisions
+A turn can be divided in 100 centiturns or 1000 milliturns, with each milliturn corresponding to an angle of 0.36°, which can also be written as 21′ 36″. A protractor divided in centiturns is normally called a "percentage protractor".
+Binary fractions of a turn are also used. Sailors have traditionally divided a turn into 32 compass points, which implicitly have an angular separation of 1/32 turn. The binary degree, also known as the binary radian (or brad), is 1/256 turn. The binary degree is used in computing so that an angle can be represented to the maximum possible precision in a single byte. Other measures of angle used in computing may be based on dividing one whole turn into 2n equal parts for other values of n.The notion of turn is commonly used for planar rotations.
+
+Unit conversion
+One turn is equal to 2π (≈ 6.283185307179586) radians, 360 degrees, or 400 gradians.
+
+Proposals for a single letter to represent 2π
+In 1746, Leonhard Euler first used the Greek letter pi to represent the circumference divided by the radius of a circle (i.e., π = 6.28...).In 2001, Robert Palais proposed using the number of radians in a turn as the fundamental circle constant instead of π, which amounts to the number of radians in half a turn, in order to make mathematics simpler and more intuitive. His proposal used a "π with three legs" symbol to denote the constant (
+  
+    
+      
+        π
+        
+        
+        
+        
+        
+        π
+        =
+        2
+        π
+      
+    
+    {\displaystyle \pi \!\;\!\!\!\pi =2\pi }
+  ).In 2008, Thomas Colignatus proposed the uppercase Greek letter theta, Θ, to represent 2π.
+The Greek letter theta derives from the Phoenician and Hebrew letter teth, 𐤈 or ט, and it has been observed that the older version of the symbol, which means wheel, resembles a wheel with four spokes. It has also been proposed to use the wheel symbol, teth, to represent the value 2π, and more recently a connection has been made among other ancient cultures on the existence of a wheel, sun, circle, or disk symbol—i.e. other variations of teth—as representation for 2π.In 2010, Michael Hartl proposed to use the Greek letter tau to represent the circle constant: τ = 2π. He offered two reasons. First, τ is the number of radians in one turn, which allows fractions of a turn to be expressed more directly: for instance, a 3/4 turn would be represented as 3τ/4 rad instead of 3π/2 rad. Second, τ visually resembles π, whose association with the circle constant is unavoidable. Hartl's Tau Manifesto gives many examples of formulas that are asserted to be clearer where τ is used instead of π, such as a tighter association with the geometry of Euler's identity using eiτ = 1 instead of eiπ = −1.
+Initially, neither of these proposals received widespread acceptance by the mathematical and scientific communities. However, the use of τ has become more widespread, for example:
+
+In 2012, the educational website Khan Academy began accepting answers expressed in terms of τ.
+The constant τ is made available in the Google calculator, Desmos graphing calculator and in several programming languages such as Python, Raku, Processing, Nim, Rust, GDScript, UE Blueprints, Java, and .NET.
+It has also been used in at least one mathematical research article, authored by the τ-promoter Peter Harremoës.The following table shows how various identities appear if τ = 2π was used instead of π. For a more complete list, see List of formulae involving π.
+
+Examples of use
+As an angular unit, the turn is particularly useful in many applications, such as in connection with electromagnetic coils (e.g., transformers) and rotating objects. See also Winding number.
+Pie charts illustrate proportions of a whole as fractions of a turn. Each one percent is shown as an angle of one centiturn.
+
+In the ISQ/SI
+A concept related to the angular unit "turn" is the physical quantity rotation (symbol N) defined as number of revolutions:
+N is the number (not necessarily an integer) of revolutions, for example, of a rotating body about a given axis. Its value is given by:
+N=φ/2π rad
+where φ denotes the measure of rotational displacement.
+The above definition is part of the International System of Quantities (ISQ), formalized in the international standard ISO 80000-3 (Space and time), and adopted in the International System of Units (SI).Rotation count or number of revolutions is a quantity of dimension one, resulting from a ratio of angles.
+It can be negative and also greater than 1 in modulus.
+The relationship between quantity rotation, N, and unit turns, tr, can be expressed as:
+
+N=φ/tr={φ}trwhere {φ}tr is the numerical value of the angle φ in units of turns (see Physical quantity#Components).
+In the ISQ/SI, rotation is used to derive rotational frequency, n=dN/dt, with SI base unit of reciprocal seconds (s-1); common related units of frequency are hertz (Hz), cycles per second (cps), and revolutions per minute (rpm).
+
+The superseded version ISO 80000-3:2006 defined "revolution" as a special name for the dimensionless unit "one",
+which also received other special names, such as the radian.
+Despite their dimensional homogeneity, these two specially named dimensionless units are applicable for non-comparable kinds of quantity: rotation and angle, respectively.
+"Cycle" is also mentioned in ISO 80000-3, in the definition of period.
+
+See also
+Ampere-turn
+Hertz (modern) or Cycle per second (older)
+Angle of rotation
+Revolutions per minute
+Repeating circle
+Spat (angular unit) – the solid angle counterpart of the turn, equivalent to 4π steradians.
+Unit interval
+Divine Proportions: Rational Trigonometry to Universal Geometry
+Modulo operation
+Twist (mathematics)
+
+Notes
+References
+External links
+Tau manifesto

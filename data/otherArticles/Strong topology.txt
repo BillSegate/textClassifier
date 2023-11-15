@@ -1,0 +1,10 @@
+In mathematics, a strong topology is a topology which is stronger than some other "default" topology. This term is used to describe different topologies depending on context, and it may refer to:
+
+the final topology on the disjoint union
+the topology arising from a norm
+the strong operator topology
+the strong topology (polar topology), which subsumes all topologies above.A topology τ is stronger than a topology σ (is a finer topology) if τ contains all the open sets of σ.
+In algebraic geometry, it usually means the topology of an algebraic variety as complex manifold or subspace of complex projective space, as opposed to the Zariski topology (which is rarely even a Hausdorff space).
+
+See also
+Weak topology

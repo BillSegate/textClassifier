@@ -1,0 +1,1468 @@
+This is a list of rules of inference, logical laws that relate to mathematical formulae.
+
+Introduction
+Rules of inference are syntactical transform rules which one can use to infer a conclusion from a premise to create an argument.  A set of rules can be used to infer any valid conclusion if it is complete, while never inferring an invalid conclusion, if it is sound. A sound and complete set of rules need not include every rule in the following list, as many of the rules are redundant, and can be proven with the other rules.
+Discharge rules permit inference from a subderivation based on a temporary assumption.  Below, the notation
+
+  
+    
+      
+        φ
+        ⊢
+        ψ
+      
+    
+    {\displaystyle \varphi \vdash \psi }
+  indicates such a subderivation from the temporary assumption 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   to 
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+  .
+
+Rules for propositional calculus
+Rules for negations
+Reductio ad absurdum (or Negation Introduction)
+
+  
+    
+      
+        φ
+        ⊢
+        ψ
+      
+    
+    {\displaystyle \varphi \vdash \psi }
+  
+
+  
+    
+      
+        
+          
+            
+              φ
+              ⊢
+              ¬
+              ψ
+            
+            _
+          
+        
+      
+    
+    {\displaystyle {\underline {\varphi \vdash \lnot \psi }}}
+  
+
+  
+    
+      
+        ¬
+        φ
+      
+    
+    {\displaystyle \lnot \varphi }
+  Reductio ad absurdum (related to the law of excluded middle)
+
+  
+    
+      
+        ¬
+        φ
+        ⊢
+        ψ
+      
+    
+    {\displaystyle \lnot \varphi \vdash \psi }
+  
+
+  
+    
+      
+        
+          
+            
+              ¬
+              φ
+              ⊢
+              ¬
+              ψ
+            
+            _
+          
+        
+      
+    
+    {\displaystyle {\underline {\lnot \varphi \vdash \lnot \psi }}}
+  
+
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  Ex contradictione quodlibet
+
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+
+  
+    
+      
+        
+          
+            
+              ¬
+              φ
+            
+            _
+          
+        
+      
+    
+    {\displaystyle {\underline {\lnot \varphi }}}
+  
+
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+
+Rules for conditionals
+Deduction theorem (or Conditional Introduction)
+
+  
+    
+      
+        
+          
+            
+              φ
+              ⊢
+              ψ
+            
+            _
+          
+        
+      
+    
+    {\displaystyle {\underline {\varphi \vdash \psi }}}
+  
+
+  
+    
+      
+        φ
+        →
+        ψ
+      
+    
+    {\displaystyle \varphi \rightarrow \psi }
+  Modus ponens (or Conditional Elimination)
+
+  
+    
+      
+        φ
+        →
+        ψ
+      
+    
+    {\displaystyle \varphi \rightarrow \psi }
+  
+
+  
+    
+      
+        
+          
+            
+              φ
+              
+              
+              
+            
+            _
+          
+        
+      
+    
+    {\displaystyle {\underline {\varphi \quad \quad \quad }}}
+  
+
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+  Modus tollens
+
+  
+    
+      
+        φ
+        →
+        ψ
+      
+    
+    {\displaystyle \varphi \rightarrow \psi }
+  
+
+  
+    
+      
+        
+          
+            
+              ¬
+              ψ
+              
+              
+              
+            
+            _
+          
+        
+      
+    
+    {\displaystyle {\underline {\lnot \psi \quad \quad \quad }}}
+  
+
+  
+    
+      
+        ¬
+        φ
+      
+    
+    {\displaystyle \lnot \varphi }
+
+Rules for conjunctions
+Adjunction (or Conjunction Introduction)
+
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+
+  
+    
+      
+        
+          
+            
+              ψ
+              
+              
+               
+               
+            
+            _
+          
+        
+      
+    
+    {\displaystyle {\underline {\psi \quad \quad \ \ }}}
+  
+
+  
+    
+      
+        φ
+        ∧
+        ψ
+      
+    
+    {\displaystyle \varphi \land \psi }
+  Simplification (or Conjunction Elimination)
+
+  
+    
+      
+        
+          
+            
+              φ
+              ∧
+              ψ
+            
+            _
+          
+        
+      
+    
+    {\displaystyle {\underline {\varphi \land \psi }}}
+  
+
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+  
+    
+      
+        
+          
+            
+              φ
+              ∧
+              ψ
+            
+            _
+          
+        
+      
+    
+    {\displaystyle {\underline {\varphi \land \psi }}}
+  
+
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+
+Rules for disjunctions
+Addition (or Disjunction Introduction)
+
+  
+    
+      
+        
+          
+            
+              φ
+              
+              
+               
+               
+            
+            _
+          
+        
+      
+    
+    {\displaystyle {\underline {\varphi \quad \quad \ \ }}}
+  
+
+  
+    
+      
+        φ
+        ∨
+        ψ
+      
+    
+    {\displaystyle \varphi \lor \psi }
+  
+  
+    
+      
+        
+          
+            
+              ψ
+              
+              
+               
+               
+            
+            _
+          
+        
+      
+    
+    {\displaystyle {\underline {\psi \quad \quad \ \ }}}
+  
+
+  
+    
+      
+        φ
+        ∨
+        ψ
+      
+    
+    {\displaystyle \varphi \lor \psi }
+  Case analysis (or Proof by Cases or Argument by Cases or Disjunction elimination)
+
+  
+    
+      
+        φ
+        →
+        χ
+      
+    
+    {\displaystyle \varphi \rightarrow \chi }
+  
+
+  
+    
+      
+        ψ
+        →
+        χ
+      
+    
+    {\displaystyle \psi \rightarrow \chi }
+  
+
+  
+    
+      
+        
+          
+            
+              φ
+              ∨
+              ψ
+            
+            _
+          
+        
+      
+    
+    {\displaystyle {\underline {\varphi \lor \psi }}}
+  
+
+  
+    
+      
+        χ
+      
+    
+    {\displaystyle \chi }
+  Disjunctive syllogism
+
+  
+    
+      
+        φ
+        ∨
+        ψ
+      
+    
+    {\displaystyle \varphi \lor \psi }
+  
+
+  
+    
+      
+        
+          
+            
+              ¬
+              φ
+              
+              
+            
+            _
+          
+        
+      
+    
+    {\displaystyle {\underline {\lnot \varphi \quad \quad }}}
+  
+
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+  
+  
+    
+      
+        φ
+        ∨
+        ψ
+      
+    
+    {\displaystyle \varphi \lor \psi }
+  
+
+  
+    
+      
+        
+          
+            
+              ¬
+              ψ
+              
+              
+            
+            _
+          
+        
+      
+    
+    {\displaystyle {\underline {\lnot \psi \quad \quad }}}
+  
+
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  Constructive dilemma
+
+  
+    
+      
+        φ
+        →
+        χ
+      
+    
+    {\displaystyle \varphi \rightarrow \chi }
+  
+
+  
+    
+      
+        ψ
+        →
+        ξ
+      
+    
+    {\displaystyle \psi \rightarrow \xi }
+  
+
+  
+    
+      
+        
+          
+            
+              φ
+              ∨
+              ψ
+            
+            _
+          
+        
+      
+    
+    {\displaystyle {\underline {\varphi \lor \psi }}}
+  
+
+  
+    
+      
+        χ
+        ∨
+        ξ
+      
+    
+    {\displaystyle \chi \lor \xi }
+
+Rules for biconditionals
+Biconditional introduction
+
+  
+    
+      
+        φ
+        →
+        ψ
+      
+    
+    {\displaystyle \varphi \rightarrow \psi }
+  
+
+  
+    
+      
+        
+          
+            
+              ψ
+              →
+              φ
+            
+            _
+          
+        
+      
+    
+    {\displaystyle {\underline {\psi \rightarrow \varphi }}}
+  
+
+  
+    
+      
+        φ
+        ↔
+        ψ
+      
+    
+    {\displaystyle \varphi \leftrightarrow \psi }
+  Biconditional elimination
+
+  
+    
+      
+        φ
+        ↔
+        ψ
+      
+    
+    {\displaystyle \varphi \leftrightarrow \psi }
+  
+
+  
+    
+      
+        
+          
+            
+              φ
+              
+              
+            
+            _
+          
+        
+      
+    
+    {\displaystyle {\underline {\varphi \quad \quad }}}
+  
+
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+  
+  
+    
+      
+        φ
+        ↔
+        ψ
+      
+    
+    {\displaystyle \varphi \leftrightarrow \psi }
+  
+
+  
+    
+      
+        
+          
+            
+              ψ
+              
+              
+            
+            _
+          
+        
+      
+    
+    {\displaystyle {\underline {\psi \quad \quad }}}
+  
+
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+  
+    
+      
+        φ
+        ↔
+        ψ
+      
+    
+    {\displaystyle \varphi \leftrightarrow \psi }
+  
+
+  
+    
+      
+        
+          
+            
+              ¬
+              φ
+              
+              
+            
+            _
+          
+        
+      
+    
+    {\displaystyle {\underline {\lnot \varphi \quad \quad }}}
+  
+
+  
+    
+      
+        ¬
+        ψ
+      
+    
+    {\displaystyle \lnot \psi }
+  
+  
+    
+      
+        φ
+        ↔
+        ψ
+      
+    
+    {\displaystyle \varphi \leftrightarrow \psi }
+  
+
+  
+    
+      
+        
+          
+            
+              ¬
+              ψ
+              
+              
+            
+            _
+          
+        
+      
+    
+    {\displaystyle {\underline {\lnot \psi \quad \quad }}}
+  
+
+  
+    
+      
+        ¬
+        φ
+      
+    
+    {\displaystyle \lnot \varphi }
+  
+  
+    
+      
+        φ
+        ↔
+        ψ
+      
+    
+    {\displaystyle \varphi \leftrightarrow \psi }
+  
+
+  
+    
+      
+        
+          
+            
+              ψ
+              ∨
+              φ
+            
+            _
+          
+        
+      
+    
+    {\displaystyle {\underline {\psi \lor \varphi }}}
+  
+
+  
+    
+      
+        ψ
+        ∧
+        φ
+      
+    
+    {\displaystyle \psi \land \varphi }
+  
+  
+    
+      
+        φ
+        ↔
+        ψ
+      
+    
+    {\displaystyle \varphi \leftrightarrow \psi }
+  
+
+  
+    
+      
+        
+          
+            
+              ¬
+              ψ
+              ∨
+              ¬
+              φ
+            
+            _
+          
+        
+      
+    
+    {\displaystyle {\underline {\lnot \psi \lor \lnot \varphi }}}
+  
+
+  
+    
+      
+        ¬
+        ψ
+        ∧
+        ¬
+        φ
+      
+    
+    {\displaystyle \lnot \psi \land \lnot \varphi }
+
+Rules of classical predicate calculus
+In the following rules, 
+  
+    
+      
+        φ
+        (
+        β
+        
+          /
+        
+        α
+        )
+      
+    
+    {\displaystyle \varphi (\beta /\alpha )}
+   is exactly like 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   except for having the term 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+   wherever 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   has the free variable 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  .
+
+Universal Generalization (or Universal Introduction)
+
+  
+    
+      
+        
+          
+            
+              φ
+              
+                (
+                β
+                
+                  /
+                
+                α
+                )
+              
+            
+            _
+          
+        
+      
+    
+    {\displaystyle {\underline {\varphi {(\beta /\alpha )}}}}
+  
+
+  
+    
+      
+        ∀
+        α
+        
+        φ
+      
+    
+    {\displaystyle \forall \alpha \,\varphi }
+  Restriction 1:  
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+   is a variable which does not occur in 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  .
+
+Restriction 2:  
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+   is not mentioned in any hypothesis or undischarged assumptions.
+
+Universal Instantiation (or Universal Elimination)
+
+  
+    
+      
+        ∀
+        α
+        
+        φ
+      
+    
+    {\displaystyle \forall \alpha \,\varphi }
+  
+
+  
+    
+      
+        
+          
+            
+              φ
+              
+                (
+                β
+                
+                  /
+                
+                α
+                )
+              
+            
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {\varphi {(\beta /\alpha )}}}}
+  Restriction:  No free occurrence of 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   in 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   falls within the scope of a quantifier quantifying a variable occurring in 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+  .
+
+Existential Generalization (or Existential Introduction)
+
+  
+    
+      
+        
+          
+            
+              φ
+              (
+              β
+              
+                /
+              
+              α
+              )
+            
+            _
+          
+        
+      
+    
+    {\displaystyle {\underline {\varphi (\beta /\alpha )}}}
+  
+
+  
+    
+      
+        ∃
+        α
+        
+        φ
+      
+    
+    {\displaystyle \exists \alpha \,\varphi }
+  Restriction:  No free occurrence of 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   in 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   falls within the scope of a quantifier quantifying a variable occurring in 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+  .
+
+Existential Instantiation (or Existential Elimination)
+
+  
+    
+      
+        ∃
+        α
+        
+        φ
+      
+    
+    {\displaystyle \exists \alpha \,\varphi }
+  
+
+  
+    
+      
+        
+          
+            
+              φ
+              (
+              β
+              
+                /
+              
+              α
+              )
+              ⊢
+              ψ
+            
+            _
+          
+        
+      
+    
+    {\displaystyle {\underline {\varphi (\beta /\alpha )\vdash \psi }}}
+  
+
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+  Restriction 1:  
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+   is a variable which does not occur in 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  .
+
+Restriction 2:  There is no occurrence, free or bound, of 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+   in 
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+  .
+
+Restriction 3:  
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+   is not mentioned in any hypothesis or undischarged assumptions.
+
+Rules of substructural logic
+The following are special cases of universal generalization and existential elimination; these occur in substructural logics, such as linear logic.
+
+Rule of weakening (or monotonicity of entailment) (aka no-cloning theorem)
+  
+    
+      
+        α
+        ⊢
+        β
+      
+    
+    {\displaystyle \alpha \vdash \beta }
+  
+
+  
+    
+      
+        
+          
+            
+              α
+              ,
+              α
+              ⊢
+              β
+            
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {\alpha ,\alpha \vdash \beta }}}
+  Rule of contraction (or idempotency of entailment) (aka no-deleting theorem)
+  
+    
+      
+        
+          
+            
+              α
+              ,
+              α
+              ,
+              γ
+              ⊢
+              β
+            
+            _
+          
+        
+      
+    
+    {\displaystyle {\underline {\alpha ,\alpha ,\gamma \vdash \beta }}}
+  
+
+  
+    
+      
+        α
+        ,
+        γ
+        ⊢
+        β
+      
+    
+    {\displaystyle \alpha ,\gamma \vdash \beta }
+
+Table: Rules of Inference
+The rules above can be summed up in the following table. The "Tautology" column shows how to interpret the notation of a given rule.
+
+All rules use the basic logic operators. A complete table of "logic operators" is shown by a truth table, giving definitions of all the possible (16) truth functions of 2 boolean variables (p, q):
+
+where T = true and F = false, and, the columns are the logical operators: 
+
+0, false, Contradiction;
+1, NOR, Logical NOR (Peirce's arrow);
+2, Converse nonimplication;
+3, ¬p, Negation;
+4, Material nonimplication;
+5, ¬q, Negation;
+6, XOR, Exclusive disjunction;
+7, NAND, Logical NAND (Sheffer stroke);
+8, AND, Logical conjunction;
+9, XNOR, If and only if, Logical biconditional;
+10, q, Projection function;
+11, if/then, Material conditional;
+12, p, Projection function;
+13, then/if, Converse implication;
+14, OR, Logical disjunction;
+15, true, Tautology.Each logic operator can be used in an assertion about variables and operations, showing a basic rule of inference. Examples:
+
+The column-14 operator (OR), shows Addition rule: when p=T (the hypothesis selects the first two lines of the table), we see (at column-14) that p∨q=T.
+We can see also that, with the same premise, another conclusions are valid: columns 12, 14 and 15 are T.
+The column-8 operator (AND), shows Simplification rule: when p∧q=T (first line of the table), we see that p=T.
+With this premise, we also conclude that q=T, p∨q=T, etc. as shown by columns 9–15.
+The column-11 operator (IF/THEN), shows Modus ponens rule: when p→q=T and p=T only one line of the truth table (the first) satisfies these two conditions. On this line, q is also true. Therefore, whenever p → q is true and p is true, q must also be true.Machines and well-trained people use this look at table approach to do basic inferences, and to check if other inferences (for the same premises) can be obtained.
+
+Example 1
+Consider the following assumptions: "If it rains today, then we will not go on a canoe today. If we do not go on a canoe trip today, then we will go on a canoe trip tomorrow. Therefore (Mathematical symbol for "therefore" is 
+  
+    
+      
+        ∴
+      
+    
+    {\displaystyle \therefore }
+  ), if it rains today, we will go on a canoe trip tomorrow".
+To make use of the rules of inference in the above table we let 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   be the proposition "If it rains today", 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+   be "We will not go on a canoe today" and let 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   be "We will go on a canoe trip tomorrow". Then this argument is of the form:
+
+  
+    
+      
+        
+          
+            
+              
+                p
+                →
+                q
+              
+            
+            
+              
+                q
+                →
+                r
+              
+            
+            
+              
+                ∴
+                
+                  
+                    
+                      p
+                      →
+                      r
+                    
+                    ¯
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}p\rightarrow q\\q\rightarrow r\\\therefore {\overline {p\rightarrow r}}\\\end{aligned}}}
+
+Example 2
+Consider a more complex set of assumptions: "It is not sunny today and it is colder than yesterday". "We will go swimming only if it is sunny", "If we do not go swimming, then we will have a barbecue", and "If we will have a barbecue, then we will be home by sunset" lead to the conclusion "We will be home by sunset."
+Proof by rules of inference: Let 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   be the proposition "It is sunny today", 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+   the proposition "It is colder than yesterday", 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   the proposition "We will go swimming", 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   the proposition "We will have a barbecue", and 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   the proposition "We will be home by sunset". Then the hypotheses become 
+  
+    
+      
+        ¬
+        p
+        ∧
+        q
+        ,
+        r
+        →
+        p
+        ,
+        ¬
+        r
+        →
+        s
+      
+    
+    {\displaystyle \neg p\wedge q,r\rightarrow p,\neg r\rightarrow s}
+   and 
+  
+    
+      
+        s
+        →
+        t
+      
+    
+    {\displaystyle s\rightarrow t}
+  . Using our intuition we conjecture that the conclusion might be 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  . Using the Rules of Inference table we can prove the conjecture easily:
+
+See also
+List of logic systems
+Modus ponendo tollens
+
+
+== References ==

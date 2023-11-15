@@ -1,0 +1,9 @@
+The Kleemenko cycle or one-flow cascade cycle is a single-stream mixed-refrigerant technique used to cool or liquefy gases. The term "Kleemenko cycle" is used in refrigeration if multi-component refrigerants (MCR) are used in a cycle.The Russian scientist Aleksandr Petrovich Klimenko (Александр Петрович Клименко) described the one-flow cascade cycle in the Proceedings of XIII International Conference of Refrigeration in Copenhagen, Denmark, in 1959. It was published in "Progress in Refrigeration Science and Technology", Volume, I Pergamon Press, 1960, pp. 34–39.
+
+See also
+Hampson–Linde cycle
+Timeline of low-temperature technology
+
+References
+External links
+Kleemenko cycle coolers: Low cost refrigeration at cryogenic temperatures

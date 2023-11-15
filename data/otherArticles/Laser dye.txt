@@ -1,0 +1,17 @@
+A Laser dye is a dye used as laser medium in a dye laser.Laser dyes include the coumarins and the rhodamines.  Coumarin dyes emit in the green region of the spectrum, whereas rhodamine dyes are used for emission in the yellow-red.  The color emitted by the laser dyes depend upon the surrounding medium i.e.the medium in which they are dissolved. However, there are dozens of laser dyes that can be used to span continuously the emission spectrum from the near ultraviolet to the near infrared.Laser dyes are also used to dope solid-state matrices, such as poly(methyl methacrylate) (PMMA), and ORMOSILs, to provide gain media for solid state dye lasers.
+
+Examples
+Coumarins (in various nomenclatures such as Coumarin 480, 490, 504, 521, 504T, 521T)
+Fluorescein
+Polyphenyl ("polyphenyl 1")
+Rhodamine 6G
+Rhodamine B
+Rhodamine 123
+Umbelliferone (also known as 7-hydroxycoumarin)
+
+See also
+Organic laser
+Solid state dye laser
+
+
+== References ==

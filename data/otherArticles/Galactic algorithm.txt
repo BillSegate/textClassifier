@@ -1,0 +1,408 @@
+A galactic algorithm is one that outperforms other algorithms for problems that are sufficiently large, but where "sufficiently large" is so big that the algorithm is never used in practice.  Galactic algorithms were so named by Richard Lipton and Ken Regan, because they will never be used on any data sets on Earth.
+
+Possible use cases
+Even if they are never used in practice, galactic algorithms may still contribute to computer science:
+
+An algorithm, even if impractical, may show new techniques that may eventually be used to create practical algorithms.
+Available computational power may catch up to the crossover point, so that a previously impractical algorithm becomes practical.
+An impractical algorithm can still demonstrate that conjectured bounds can be achieved, or that proposed bounds are wrong, and hence advance the theory of algorithms. As Lipton states:This alone could be important and often is a great reason for finding such algorithms. For example, if tomorrow there were a discovery that showed there is a factoring algorithm with a huge but provably polynomial time bound, that would change our beliefs about factoring. The algorithm might never be used, but would certainly shape the future research into factoring.  Similarly, a hypothetical large but polynomial 
+  
+    
+      
+        O
+        
+          
+            (
+          
+        
+        
+          n
+          
+            
+              2
+              
+                100
+              
+            
+          
+        
+        
+          
+            )
+          
+        
+      
+    
+    {\displaystyle O{\bigl (}n^{2^{100}}{\bigr )}}
+   algorithm for the Boolean satisfiability problem, although unusable in practice, would settle the P versus NP problem, considered the most important open problem in computer science and one of the Millennium Prize Problems.
+
+Examples
+Integer multiplication
+An example of a galactic algorithm is the fastest known way to multiply two numbers, which is based on a 1729-dimensional Fourier transform. It needs 
+  
+    
+      
+        O
+        (
+        n
+        log
+        ⁡
+        n
+        )
+      
+    
+    {\displaystyle O(n\log n)}
+   bit operations, but as the constants hidden by the big O notation are large, it is never used in practice. However, it also shows why galactic algorithms may still be useful. The authors state: "we are hopeful that with further refinements, the algorithm might become practical for numbers with merely billions or trillions of digits."
+
+Matrix multiplication
+The first improvement over brute-force matrix multiplication (which needs 
+  
+    
+      
+        O
+        (
+        
+          n
+          
+            3
+          
+        
+        )
+      
+    
+    {\displaystyle O(n^{3})}
+   multiplications) was the Strassen algorithm: a recursive algorithm that needs 
+  
+    
+      
+        O
+        (
+        
+          n
+          
+            2.807
+          
+        
+        )
+      
+    
+    {\displaystyle O(n^{2.807})}
+  multiplications. This algorithm is not galactic and is used in practice. Further extensions of this, using sophisticated group theory, are the Coppersmith–Winograd algorithm and its slightly better successors, needing 
+  
+    
+      
+        O
+        (
+        
+          n
+          
+            2.373
+          
+        
+        )
+      
+    
+    {\displaystyle O(n^{2.373})}
+   multiplications. These are galactic – "We nevertheless stress that such improvements are only of theoretical interest, since the huge constants involved in the complexity of fast matrix multiplication usually make these algorithms impractical."
+
+Communication channel capacity
+Claude Shannon showed a simple but impractical code that could reach the capacity of a communication channel.  It requires assigning a random code word to every possible 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -bit message, then decoding by finding the closest code word.  If 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   is chosen large enough, this beats any existing code and can get arbitrarily close to the capacity of the channel.  Unfortunately, any 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   big enough to beat existing codes is also completely impractical. These codes, though never used, inspired decades of research into more practical algorithms that today can achieve rates arbitrarily close to channel capacity.
+
+Sub-graphs
+The problem of deciding whether a graph 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   contains 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+   as a minor is NP-complete in general, but where 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+   is fixed, it can be solved in polynomial time.  The running time for testing whether 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+   is a minor of 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   in this case is 
+  
+    
+      
+        O
+        (
+        
+          n
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle O(n^{2})}
+  , where 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   is the number of vertices in 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   and the big O notation hides a constant that depends superexponentially on 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+  .  The constant is greater than 
+  
+    
+      
+        2
+        ↑↑
+        (
+        2
+        ↑↑
+        (
+        2
+        ↑↑
+        (
+        h
+        
+          /
+        
+        2
+        )
+        )
+        )
+      
+    
+    {\displaystyle 2\uparrow \uparrow (2\uparrow \uparrow (2\uparrow \uparrow (h/2)))}
+   in Knuth's up-arrow notation, where 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+   is the number of vertices in 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+  . Even the case of 
+  
+    
+      
+        h
+        =
+        4
+      
+    
+    {\displaystyle h=4}
+   cannot be reasonably computed as the constant is greater than 
+  
+    
+      
+        
+          
+             
+            
+               
+            
+          
+        
+        
+          
+            
+              
+                
+                  
+                    2
+                    
+                      
+                        2
+                        
+                          
+                            ⋅
+                            
+                              
+                                ⋅
+                                
+                                  2
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                  ⏟
+                
+              
+            
+            n
+          
+        
+      
+    
+    {\displaystyle {\  \atop {\ }}{{\underbrace {2^{2^{\cdot ^{\cdot ^{2}}}}} } \atop n}}
+   with n = 65536.
+
+Cryptographic breaks
+For cryptographers, a cryptographic "break" is anything faster than a brute-force attack – i.e., performing one trial decryption for each possible key. In many cases, even though they are the best known methods,  they are still infeasible with current technology. One example is the best attack known against 128-bit AES, which takes only 
+  
+    
+      
+        
+          2
+          
+            126
+          
+        
+      
+    
+    {\displaystyle 2^{126}}
+   operations.  Despite being impractical, theoretical breaks can sometimes provide insight into vulnerability patterns.
+
+Traveling salesman problem
+For several decades, the best known approximation to the traveling salesman problem in a metric space was the very simple Christofides algorithm which produced a path at most 50% longer than the optimum. (Many other algorithms could usually do much better, but could not provably do so.)  In 2020, a newer and much more complex algorithm was discovered that can beat this by 
+  
+    
+      
+        
+          10
+          
+            −
+            34
+          
+        
+      
+    
+    {\displaystyle 10^{-34}}
+   percent. Although no one will ever switch to this algorithm for its very slight worst-case improvement, it is still considered important because "this minuscule improvement breaks through both a theoretical logjam and a psychological one".
+
+Hutter search
+A single algorithm, "Hutter search", can solve any well-defined problem in an asymptotically optimal time, barring some caveats. It works by searching through all possible algorithms (by runtime), while simultaneously searching through all possible proofs (by length of proof), looking for a proof of correctness for each algorithm.  Since the proof of correctness is of finite size, it "only" adds a constant and does not affect the asymptotic runtime. However, this constant is so big that the algorithm is entirely impractical.  For example, if the shortest proof of correctness of a given algorithm is 1000 bits long, the search will examine at least 2999 other potential proofs first.
+Hutter search is related Solomonoff induction, which is a formalization of Bayesian inference.  All computable theories (as implemented by programs) which perfectly describe previous observations are used to calculate the probability of the next observation, with more weight put on the shorter computable theories.  Again, the search over all possible explanations makes this procedure Galactic.
+
+Optimization
+Simulated annealing, when used with a logarithmic cooling schedule, has been proven to find the global optimum of any optimization problem.  However, such a cooling schedule results in entirely impractical runtimes, and is never used.  However, knowing this ideal algorithm exists has led to practical variants that are able to find very good (though not provably optimal) solutions to complex optimization problems.
+
+Minimum Spanning Trees
+The expected linear time MST algorithm is able to discover the minimum spanning tree of a graph in 
+  
+    
+      
+        O
+        (
+        m
+        +
+        n
+        )
+      
+    
+    {\displaystyle O(m+n)}
+  , where 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   is the number of edges and 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   is the number of nodes of the graph. However, the constant factor that is hidden by the Big O notation is huge enough to make the algorithm impractical. An implementation is publicly available and given the experimentally estimated implementation constants, it would only be faster than Borůvka's algorithm for graphs in which 
+  
+    
+      
+        m
+        +
+        n
+        >
+        9
+        ⋅
+        
+          10
+          
+            151
+          
+        
+      
+    
+    {\displaystyle m+n>9\cdot 10^{151}}
+  .
+
+
+== References ==

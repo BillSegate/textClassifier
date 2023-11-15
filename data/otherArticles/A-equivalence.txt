@@ -1,0 +1,686 @@
+In mathematics, 
+  
+    
+      
+        
+          
+            A
+          
+        
+      
+    
+    {\displaystyle {\mathcal {A}}}
+  -equivalence, sometimes called right-left equivalence, is an equivalence relation between map germs.
+Let 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+    and 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   be two manifolds, and let 
+  
+    
+      
+        f
+        ,
+        g
+        :
+        (
+        M
+        ,
+        x
+        )
+        →
+        (
+        N
+        ,
+        y
+        )
+      
+    
+    {\displaystyle f,g:(M,x)\to (N,y)}
+   be two smooth map germs. We say that 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   and 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   are 
+  
+    
+      
+        
+          
+            A
+          
+        
+      
+    
+    {\displaystyle {\mathcal {A}}}
+  -equivalent if there exist diffeomorphism germs 
+  
+    
+      
+        ϕ
+        :
+        (
+        M
+        ,
+        x
+        )
+        →
+        (
+        M
+        ,
+        x
+        )
+      
+    
+    {\displaystyle \phi :(M,x)\to (M,x)}
+   and 
+  
+    
+      
+        ψ
+        :
+        (
+        N
+        ,
+        y
+        )
+        →
+        (
+        N
+        ,
+        y
+        )
+      
+    
+    {\displaystyle \psi :(N,y)\to (N,y)}
+   such that 
+  
+    
+      
+        ψ
+        ∘
+        f
+        =
+        g
+        ∘
+        ϕ
+        .
+      
+    
+    {\displaystyle \psi \circ f=g\circ \phi .}
+  
+In other words, two map germs are 
+  
+    
+      
+        
+          
+            A
+          
+        
+      
+    
+    {\displaystyle {\mathcal {A}}}
+  -equivalent if one can be taken onto the other by a diffeomorphic change of co-ordinates in the source (i.e. 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  ) and the target (i.e. 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  ).
+Let 
+  
+    
+      
+        Ω
+        (
+        
+          M
+          
+            x
+          
+        
+        ,
+        
+          N
+          
+            y
+          
+        
+        )
+      
+    
+    {\displaystyle \Omega (M_{x},N_{y})}
+   denote the space of smooth map germs 
+  
+    
+      
+        (
+        M
+        ,
+        x
+        )
+        →
+        (
+        N
+        ,
+        y
+        )
+        .
+      
+    
+    {\displaystyle (M,x)\to (N,y).}
+   Let 
+  
+    
+      
+        
+          
+            diff
+          
+        
+        (
+        
+          M
+          
+            x
+          
+        
+        )
+      
+    
+    {\displaystyle {\mbox{diff}}(M_{x})}
+   be the group of diffeomorphism germs 
+  
+    
+      
+        (
+        M
+        ,
+        x
+        )
+        →
+        (
+        M
+        ,
+        x
+        )
+      
+    
+    {\displaystyle (M,x)\to (M,x)}
+   and 
+
+  
+    
+      
+        
+          
+            diff
+          
+        
+        (
+        
+          N
+          
+            y
+          
+        
+        )
+      
+    
+    {\displaystyle {\mbox{diff}}(N_{y})}
+   be the group of diffeomorphism germs 
+  
+    
+      
+        (
+        N
+        ,
+        y
+        )
+        →
+        (
+        N
+        ,
+        y
+        )
+        .
+      
+    
+    {\displaystyle (N,y)\to (N,y).}
+   The group 
+  
+    
+      
+        G
+        :=
+        
+          
+            diff
+          
+        
+        (
+        
+          M
+          
+            x
+          
+        
+        )
+        ×
+        
+          
+            diff
+          
+        
+        (
+        
+          N
+          
+            y
+          
+        
+        )
+      
+    
+    {\displaystyle G:={\mbox{diff}}(M_{x})\times {\mbox{diff}}(N_{y})}
+   acts on 
+  
+    
+      
+        Ω
+        (
+        
+          M
+          
+            x
+          
+        
+        ,
+        
+          N
+          
+            y
+          
+        
+        )
+      
+    
+    {\displaystyle \Omega (M_{x},N_{y})}
+   in the natural way: 
+  
+    
+      
+        (
+        ϕ
+        ,
+        ψ
+        )
+        ⋅
+        f
+        =
+        
+          ψ
+          
+            −
+            1
+          
+        
+        ∘
+        f
+        ∘
+        ϕ
+        .
+      
+    
+    {\displaystyle (\phi ,\psi )\cdot f=\psi ^{-1}\circ f\circ \phi .}
+   Under this action we see that the map germs 
+  
+    
+      
+        f
+        ,
+        g
+        :
+        (
+        M
+        ,
+        x
+        )
+        →
+        (
+        N
+        ,
+        y
+        )
+      
+    
+    {\displaystyle f,g:(M,x)\to (N,y)}
+   are 
+  
+    
+      
+        
+          
+            A
+          
+        
+      
+    
+    {\displaystyle {\mathcal {A}}}
+  -equivalent if, and only if, 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   lies in the orbit of 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  , i.e. 
+  
+    
+      
+        g
+        ∈
+        
+          
+            
+              orb
+            
+          
+          
+            G
+          
+        
+        (
+        f
+        )
+      
+    
+    {\displaystyle g\in {\mbox{orb}}_{G}(f)}
+   (or vice versa).
+A map germ is called stable if its orbit under the action of 
+  
+    
+      
+        G
+        :=
+        
+          
+            diff
+          
+        
+        (
+        
+          M
+          
+            x
+          
+        
+        )
+        ×
+        
+          
+            diff
+          
+        
+        (
+        
+          N
+          
+            y
+          
+        
+        )
+      
+    
+    {\displaystyle G:={\mbox{diff}}(M_{x})\times {\mbox{diff}}(N_{y})}
+   is open relative to the Whitney topology. Since 
+  
+    
+      
+        Ω
+        (
+        
+          M
+          
+            x
+          
+        
+        ,
+        
+          N
+          
+            y
+          
+        
+        )
+      
+    
+    {\displaystyle \Omega (M_{x},N_{y})}
+   is an infinite dimensional space metric topology is no longer trivial. Whitney topology compares the differences in successive derivatives and gives a notion of proximity within the infinite dimensional space. A base for the open sets of the topology in question is given by taking 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -jets for every 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   and taking open neighbourhoods in the ordinary Euclidean sense. Open sets in the topology are then unions of
+these base sets.
+Consider the orbit of some map germ 
+  
+    
+      
+        o
+        r
+        
+          b
+          
+            G
+          
+        
+        (
+        f
+        )
+        .
+      
+    
+    {\displaystyle orb_{G}(f).}
+   The map germ 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   is called simple if there are only finitely many other orbits in a neighbourhood of each of its points. Vladimir Arnold has shown that the only simple singular map germs 
+  
+    
+      
+        (
+        
+          
+            R
+          
+          
+            n
+          
+        
+        ,
+        0
+        )
+        →
+        (
+        
+          R
+        
+        ,
+        0
+        )
+      
+    
+    {\displaystyle (\mathbb {R} ^{n},0)\to (\mathbb {R} ,0)}
+   for 
+  
+    
+      
+        1
+        ≤
+        n
+        ≤
+        3
+      
+    
+    {\displaystyle 1\leq n\leq 3}
+   are the infinite sequence 
+  
+    
+      
+        
+          A
+          
+            k
+          
+        
+      
+    
+    {\displaystyle A_{k}}
+   (
+  
+    
+      
+        k
+        ∈
+        
+          N
+        
+      
+    
+    {\displaystyle k\in \mathbb {N} }
+  ), the infinite sequence 
+  
+    
+      
+        
+          D
+          
+            4
+            +
+            k
+          
+        
+      
+    
+    {\displaystyle D_{4+k}}
+   (
+  
+    
+      
+        k
+        ∈
+        
+          N
+        
+      
+    
+    {\displaystyle k\in \mathbb {N} }
+  ), 
+  
+    
+      
+        
+          E
+          
+            6
+          
+        
+        ,
+      
+    
+    {\displaystyle E_{6},}
+   
+  
+    
+      
+        
+          E
+          
+            7
+          
+        
+        ,
+      
+    
+    {\displaystyle E_{7},}
+   and 
+  
+    
+      
+        
+          E
+          
+            8
+          
+        
+        .
+      
+    
+    {\displaystyle E_{8}.}
+
+See also
+K-equivalence (contact equivalence)
+
+References
+M. Golubitsky and V. Guillemin, Stable Mappings and Their Singularities. Graduate Texts in Mathematics, Springer.

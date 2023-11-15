@@ -1,0 +1,129 @@
+In mathematics, the Brown measure of an operator in a finite factor is a probability measure on the complex plane which may be viewed as an analog of the spectral counting measure (based on algebraic multiplicity) of matrices.
+It is named after Lawrence G. Brown.
+
+Definition
+Let 
+  
+    
+      
+        
+          
+            M
+          
+        
+      
+    
+    {\displaystyle {\mathcal {M}}}
+   be a finite factor with the canonical normalized trace 
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+   and let 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   be the identity operator. For every operator 
+  
+    
+      
+        A
+        ∈
+        
+          
+            M
+          
+        
+        ,
+      
+    
+    {\displaystyle A\in {\mathcal {M}},}
+   the function
+
+is a subharmonic function and its Laplacian in the distributional sense is a probability measure on 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+  
+
+which is called the Brown measure of 
+  
+    
+      
+        A
+        .
+      
+    
+    {\displaystyle A.}
+   Here the Laplace operator 
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \nabla ^{2}}
+   is complex. 
+The subharmonic function can also be written in terms of the Fuglede−Kadison determinant 
+  
+    
+      
+        
+          Δ
+          
+            F
+            K
+          
+        
+      
+    
+    {\displaystyle \Delta _{FK}}
+   as follows
+
+See also
+Direct integral – generalization of the concept of direct sumPages displaying wikidata descriptions as a fallback
+
+References
+
+Brown, Lawrence (1986), "Lidskii's theorem in the type 
+  
+    
+      
+        I
+        I
+      
+    
+    {\displaystyle II}
+   case", Pitman Res. Notes Math. Ser., Longman Sci. Tech., Harlow, 123: 1–35. Geometric methods in operator algebras (Kyoto, 1983).Haagerup, Uffe; Schultz, Hanne (2009), "Brown measures of unbounded operators in a general 
+  
+    
+      
+        I
+        
+          I
+          
+            1
+          
+        
+      
+    
+    {\displaystyle II_{1}}
+   factor", Publ. Math. Inst. Hautes Études Sci., 109: 19–111, arXiv:math/0611256, doi:10.1007/s10240-009-0018-7, S2CID 11359935.

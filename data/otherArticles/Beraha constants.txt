@@ -1,0 +1,134 @@
+The Beraha constants are a series of mathematical constants by which the  
+  
+    
+      
+        n
+        
+          th
+        
+      
+    
+    {\displaystyle n{\text{th}}}
+   Beraha constant is given by
+
+  
+    
+      
+        B
+        (
+        n
+        )
+        =
+        2
+        +
+        2
+        cos
+        ⁡
+        
+          (
+          
+            
+              
+                2
+                π
+              
+              n
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle B(n)=2+2\cos \left({\frac {2\pi }{n}}\right).}
+  Notable examples of Beraha constants include 
+  
+    
+      
+        B
+        (
+        5
+        )
+      
+    
+    {\displaystyle B(5)}
+  is 
+  
+    
+      
+        φ
+        +
+        1
+      
+    
+    {\displaystyle \varphi +1}
+  , where 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   is the golden ratio, 
+  
+    
+      
+        B
+        (
+        7
+        )
+      
+    
+    {\displaystyle B(7)}
+  is the silver constant (also known as the silver root), and 
+  
+    
+      
+        B
+        (
+        10
+        )
+        =
+        φ
+        +
+        2
+      
+    
+    {\displaystyle B(10)=\varphi +2}
+  .
+The following table summarizes the first ten Beraha constants.
+
+See also
+Chromatic polynomial
+
+Notes
+References
+Weisstein, Eric W. "Beraha Constants". Wolfram MathWorld. Retrieved November 3, 2018.
+Beraha, S. Ph.D. thesis. Baltimore, MD: Johns Hopkins University, 1974.
+Le Lionnais, F. Les nombres remarquables. Paris: Hermann, p. 143, 1983.
+Saaty, T. L. and Kainen, P. C. The Four-Color Problem: Assaults and Conquest. New York: Dover, pp. 160–163, 1986.
+Tutte, W. T. "Chromials." University of Waterloo, 1971.
+Tutte, W. T. "More about Chromatic Polynomials and the Golden Ratio." In Combinatorial Structures and their Applications: Proc. Calgary Internat. Conf., Calgary, Alberta, 1969. New York: Gordon and Breach, p. 439, 1969.
+Tutte, W. T. "Chromatic Sums for Planar Triangulations I: The Case 
+  
+    
+      
+        λ
+        =
+        1
+      
+    
+    {\displaystyle \lambda =1}
+  ," Research Report COPR 72–7, University of Waterloo, 1972a.
+Tutte, W. T. "Chromatic Sums for Planar Triangulations IV: The Case 
+  
+    
+      
+        λ
+        =
+        ∞
+      
+    
+    {\displaystyle \lambda =\infty }
+  ." Research Report COPR 72–4, University of Waterloo, 1972b.

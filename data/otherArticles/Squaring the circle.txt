@@ -1,0 +1,402 @@
+Squaring the circle is a problem in geometry first proposed in Greek mathematics. It is the challenge of constructing a square with the area of a given circle by using only a finite number of steps with a compass and straightedge. The difficulty of the problem raised the question of whether specified axioms of Euclidean geometry concerning the existence of lines and circles implied the existence of such a square.
+In 1882, the task was proven to be impossible, as a consequence of the Lindemann–Weierstrass theorem, which proves that pi (
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+  ) is a transcendental number.
+That is, 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   is not the root of any polynomial with rational coefficients. It had been known for decades that the construction would be impossible if 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   were transcendental, but that fact was not proven until 1882. Approximate constructions with any given non-perfect accuracy exist, and many such constructions have been found.
+Despite the proof that it is impossible, attempts to square the circle have been common in pseudomathematics (i.e. the work of mathematical cranks). The expression "squaring the circle" is sometimes used as a metaphor for trying to do the impossible.The term quadrature of the circle is sometimes used as a synonym for squaring the circle. It may also refer to approximate or numerical methods for finding the area of a circle. In general, quadrature or squaring may also be applied to other plane figures.
+
+History
+Methods to calculate the approximate area of a given circle, which can be thought of as a precursor problem to squaring the circle, were known already in many ancient cultures. These methods can be summarized by stating the approximation to π that they produce. In around 2000 BCE, the Babylonian mathematicians used the approximation 
+  
+    
+      
+        π
+        ≈
+        
+          
+            
+              25
+              8
+            
+          
+        
+        =
+        3.125
+      
+    
+    {\displaystyle \pi \approx {\tfrac {25}{8}}=3.125}
+  , and at approximately the same time the ancient Egyptian mathematicians used 
+  
+    
+      
+        π
+        ≈
+        
+          
+            
+              256
+              81
+            
+          
+        
+        ≈
+        3.16
+      
+    
+    {\displaystyle \pi \approx {\tfrac {256}{81}}\approx 3.16}
+  . Over 1000 years later, the Old Testament Books of Kings used the simpler approximation 
+  
+    
+      
+        π
+        ≈
+        3
+      
+    
+    {\displaystyle \pi \approx 3}
+  . Ancient Indian mathematics, as recorded in the Shatapatha Brahmana and Shulba Sutras, used several different approximations to 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+  . Archimedes proved a formula for the area of a circle, according to which 
+  
+    
+      
+        3
+        
+        
+          
+            
+              10
+              71
+            
+          
+        
+        ≈
+        3.141
+        <
+        π
+        <
+        3
+        
+        
+          
+            
+              1
+              7
+            
+          
+        
+        ≈
+        3.143
+      
+    
+    {\displaystyle 3\,{\tfrac {10}{71}}\approx 3.141<\pi <3\,{\tfrac {1}{7}}\approx 3.143}
+  . In Chinese mathematics, in the third century CE, Liu Hui found even more accurate approximations using a method similar to that of Archimedes, and in the fifth century Zu Chongzhi found 
+  
+    
+      
+        π
+        ≈
+        355
+        
+          /
+        
+        113
+        ≈
+        3.141593
+      
+    
+    {\displaystyle \pi \approx 355/113\approx 3.141593}
+  , an approximation known as Milü.The problem of constructing a square whose area is exactly that of a circle, rather than an approximation to it, comes from Greek mathematics. Greek mathematicians found compass and straightedge constructions to convert any polygon into a square of equivalent area. They used this construction to compare areas of polygons geometrically, rather than by the numerical computation of area that would be more typical in modern mathematics. As Proclus wrote many centuries later, this motivated the search for methods that would allow comparisons with non-polygonal shapes:
+
+The first known Greek to study the problem was Anaxagoras, who worked on it while in prison. Hippocrates of Chios attacked the problem by finding a shape bounded by circular arcs, the lune of Hippocrates, that could be squared. Antiphon the Sophist believed that inscribing regular polygons within a circle and doubling the number of sides would eventually fill up the area of the circle (this is the method of exhaustion). Since any polygon can be squared, he argued, the circle can be squared. In contrast, Eudemus argued that magnitudes cannot be divided up without limit, so the area of the circle would never be used up. Contemporaneously with Antiphon, Bryson of Heraclea argued that, since larger and smaller circles both exist, there must be a circle of equal area; this principle can be seen as a form of the modern intermediate value theorem. The more general goal of carrying out all geometric constructions using only a compass and straightedge has often been attributed to Oenopides, but the evidence for this is circumstantial.The problem of finding the area under an arbitrary curve, now known as integration in calculus, or quadrature in numerical analysis, was known as squaring before the invention of calculus.  Since the techniques of calculus were unknown, it was generally presumed that a squaring should be done via geometric constructions, that is, by compass and straightedge.  For example, Newton wrote to Oldenburg in 1676 "I believe M. Leibnitz will not dislike the theorem towards the beginning of my letter pag. 4 for squaring curve lines geometrically". In modern mathematics the terms have diverged in meaning, with quadrature generally used when methods from calculus are allowed, while squaring the curve retains the idea of using only restricted geometric methods.
+James Gregory attempted a proof of the impossibility of squaring the circle in Vera Circuli et Hyperbolae Quadratura (The True Squaring of the Circle and of the Hyperbola) in 1667. Although his proof was faulty, it was the first paper to attempt to solve the problem using algebraic properties of 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+  . Johann Heinrich Lambert proved in 1761 that 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   is an irrational number. It was not until 1882 that Ferdinand von Lindemann succeeded in proving more strongly that π is a transcendental number, and by doing so also proved the impossibility of squaring the circle with compass and straightedge.
+After Lindemann's impossibility proof, the problem was considered to be settled by professional mathematicians, and its subsequent mathematical history is dominated by pseudomathematical attempts at circle-squaring constructions, largely by amateurs, and by the debunking of these efforts. As well, several later mathematicians including Srinivasa Ramanujan developed compass and straightedge constructions that approximate the problem accurately in few steps.Two other classical problems of antiquity, famed for their impossibility, were doubling the cube and trisecting the angle. Like squaring the circle, these cannot be solved by compass and straightedge. However, they have a different character than squaring the circle, in that their solution involves the root of a cubic equation, rather than being transcendental. Therefore, more powerful methods than compass and straightedge constructions, such as neusis construction or mathematical paper folding, can be used to construct solutions to these problems.
+
+Impossibility
+The solution of the problem of squaring the circle by compass and straightedge requires the construction of the number 
+  
+    
+      
+        
+          
+            π
+          
+        
+      
+    
+    {\displaystyle {\sqrt {\pi }}}
+  , the length of the side of a square whose area equals that of a unit circle. If 
+  
+    
+      
+        
+          
+            π
+          
+        
+      
+    
+    {\displaystyle {\sqrt {\pi }}}
+   were a constructible number, it would follow from standard compass and straightedge constructions that 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   would also be constructible. In 1837, Pierre Wantzel showed that lengths that could be constructed with compass and straightedge had to be solutions of certain polynomial equations with rational coefficients. Thus, constructible lengths must be algebraic numbers. If the circle could be squared using only compass and straightedge, then 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   would have to be an algebraic number. It was not until 1882 that Ferdinand von Lindemann proved the transcendence of 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   and so showed the impossibility of this construction. Lindemann's idea was to combine the proof of transcendence of Euler's number 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+  , shown by Charles Hermite in 1873, with Euler's identity
+
+This identity immediately shows that 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   is an irrational number, because a rational power of a transcendental number remains transcendental. Lindemann was able to extend this argument, through the Lindemann–Weierstrass theorem on linear independence of algebraic powers of 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+  , to show that 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   is transcendental and therefore that squaring the circle is impossible.Bending the rules by introducing a supplemental tool, allowing an infinite number of compass-and-straightedge operations or by performing the operations in certain non-Euclidean geometries makes squaring the circle possible in some sense. For example, Dinostratus' theorem uses the quadratrix of Hippias to square the circle, meaning that if this curve is somehow already given, then a square and circle of equal areas can be constructed from it. The Archimedean spiral can be used for another similar construction. Although the circle cannot be squared in Euclidean space, it sometimes can be in hyperbolic geometry under suitable interpretations of the terms. The hyperbolic plane does not contain squares (quadrilaterals with four right angles and four equal sides), but instead it contains regular quadrilaterals, shapes with four equal sides and four equal angles sharper than right angles. There exist in the hyperbolic plane (countably) infinitely many pairs of constructible circles and constructible regular quadrilaterals of equal area, which, however, are constructed simultaneously. There is no method for starting with an arbitrary regular quadrilateral and constructing the circle of equal area. Symmetrically, there is no method for starting with an arbitrary circle and constructing a regular quadrilateral of equal area, and for sufficiently large circles no such quadrilateral exists.
+
+Approximate constructions
+Although squaring the circle exactly with compass and straightedge is impossible, approximations to squaring the circle can be given by constructing lengths close to 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+  .
+It takes only elementary geometry to convert any given rational approximation of 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   into a corresponding compass and straightedge construction, but such constructions tend to be very long-winded in comparison to the accuracy they achieve. After the exact problem was proven unsolvable, some mathematicians applied their ingenuity to finding approximations to squaring the circle that are particularly simple among other imaginable constructions that give similar precision.
+
+Construction by Kochański
+One of many early historical approximate compass-and-straightedge constructions is from a 1685 paper by Polish Jesuit Adam Adamandy Kochański, producing an approximation diverging from 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   in the 5th decimal place. Although much more precise numerical approximations to 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   were already known, Kochański's construction has the advantage of being quite simple. In the left diagram
+ 
+In the same work, Kochański also derived a sequence of increasingly accurate rational approximations for 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+  .
+
+Constructions using 355/113
+Jacob de Gelder published in 1849 a construction based on the approximation
+
+This value is accurate to six decimal places and has been known in China since the 5th century as Milü, and in Europe since the 17th century.Gelder did not construct the side of the square; it was enough for him to find the value 
+
+The illustration shows de Gelder's construction.
+In 1914, Indian mathematician Srinivasa Ramanujan gave another geometric construction for the same approximation.
+
+Constructions using the golden ratio
+An approximate construction by E. W. Hobson in 1913 is accurate to three decimal places. Hobson's construction corresponds to an approximate value of
+ where 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   is the golden ratio, 
+  
+    
+      
+        φ
+        =
+        (
+        1
+        +
+        
+          
+            5
+          
+        
+        )
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle \varphi =(1+{\sqrt {5}})/2}
+  .
+The same approximate value appears in a 1991 construction by Robert Dixon. In 2022 Frédéric Beatrix presented a geometrographic construction in 13 steps.
+
+Second construction by Ramanujan
+In 1914, Ramanujan gave a construction which was equivalent to taking the approximate value for 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   to be
+
+giving eight decimal places of 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+  . 
+He describes the construction of line segment OS as follows.
+
+Incorrect constructions
+In his old age, the English philosopher Thomas Hobbes convinced himself that he had succeeded in squaring the circle, a claim refuted by John Wallis as part of the Hobbes–Wallis controversy.  During the 18th and 19th century, the false notions that the problem of squaring the circle was somehow related to the longitude problem, and that a large reward would be given for a solution, became prevalent among would-be circle squarers. In 1851, John Parker published a book Quadrature of the Circle in which he claimed to have squared the circle. His method actually produced an approximation of 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   accurate to six digits.The Victorian-age mathematician, logician, and writer Charles Lutwidge Dodgson, better known by his pseudonym Lewis Carroll, also expressed interest in debunking illogical circle-squaring theories. In one of his diary entries for 1855, Dodgson listed books he hoped to write, including one called "Plain Facts for Circle-Squarers". In the introduction to "A New Theory of Parallels", Dodgson recounted an attempt to demonstrate logical errors to a couple of circle-squarers, stating:
+
+A ridiculing of circle squaring appears in Augustus De Morgan's book A Budget of Paradoxes, published posthumously by his widow in 1872. Having originally published the work as a series of articles in The Athenæum, he was revising it for publication at the time of his death. Circle squaring declined in popularity after the nineteenth century, and it is believed that De Morgan's work helped bring this about.
+Even after it had been proved impossible, in 1894, amateur mathematician Edwin J. Goodwin claimed that he had developed a method to square the circle. The technique he developed did not accurately square the circle, and provided an incorrect area of the circle which essentially redefined 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   as equal to 3.2. Goodwin then proposed the Indiana Pi Bill in the Indiana state legislature allowing the state to use his method in education without paying royalties to him. The bill passed with no objections in the state house, but the bill was tabled and never voted on in the Senate, amid increasing ridicule from the press.The mathematical crank Carl Theodore Heisel also claimed to have squared the circle in his 1934 book, "Behold! : the grand problem no longer unsolved: the circle squared beyond refutation." Paul Halmos referred to the book as a "classic crank book."
+
+In literature
+The problem of squaring the circle has been mentioned over a wide range of literary eras, with a variety of metaphorical meanings. Its literary use dates back at least to 414 BC, when the play The Birds by Aristophanes was first performed. In it, the character Meton of Athens mentions squaring the circle, possibly to indicate the paradoxical nature of his utopian city.
+Dante's Paradise, canto XXXIII, lines 133–135, contain the verse:
+
+For Dante, squaring the circle represents a task beyond human comprehension, which he compares to his own inability to comprehend Paradise. Dante's image also calls to mind a passage from Vitruvius, famously illustrated later in Leonardo da Vinci's Vitruvian Man, of a man simultaneously inscribed in a circle and a square. Dante uses the circle as a symbol for God, and may have mentioned this combination of shapes in reference to the simultaneous divine and human nature of Jesus. Earlier, in canto XIII, Dante calls out Greek circle-squarer Bryson as having sought knowledge instead of wisdom.Several works of 17th-century poet Margaret Cavendish elaborate on the circle-squaring problem and its metaphorical meanings, including a contrast between unity of truth and factionalism, and the impossibility of rationalizing "fancy and female nature". By 1742, when Alexander Pope published the fourth book of his Dunciad, attempts at circle-squaring had come to be seen as "wild and fruitless":
+
+Similarly, the Gilbert and Sullivan comic opera Princess Ida features a song which satirically lists the impossible goals of the women's university run by the title character, such as finding perpetual motion.  One of these goals is "And the circle – they will square it/Some fine day."The sestina, a poetic form first used in the 12th century by Arnaut Daniel, has been said to metaphorically square the circle in its use of a square number of lines (six stanzas of six lines each) with a circular scheme of six repeated words. Spanos (1978) writes that this form invokes a symbolic meaning in which the circle stands for heaven and the square stands for the earth. A similar metaphor was used in "Squaring the Circle", a 1908 short story by O. Henry, about a long-running family feud. In the title of this story, the circle represents the natural world, while the square represents the city, the world of man.In later works, circle-squarers such as Leopold Bloom in James Joyce's novel Ulysses and Lawyer Paravant in Thomas Mann's The Magic Mountain are seen as sadly deluded or as unworldly dreamers, unaware of its mathematical impossibility and making grandiose plans for a result they will never attain.
+
+See also
+Mrs. Miniver's problem – Problem on areas of intersecting circles
+Round square copula – Philosophical treatment of oxymoronsPages displaying short descriptions of redirect targets
+Squircle – Shape between a square and a circle
+Tarski's circle-squaring problem – Problem of cutting and reassembling a disk into a square
+
+References
+Further reading and external links
+
+Bogomolny, Alexander. "Squaring the Circle". cut-the-knot.
+Grime, James. "Squaring the Circle". Numberphile. Brady Haran – via YouTube.
+Harper, Suzanne; Driskell, Shannon (August 2010). "An Investigation of Historical Geometric Constructions". Convergence. Mathematical Association of America.
+O'Connor, J J; Robertson, E F (April 1999). "Squaring the circle". MacTutor History of Mathematics archive.
+Otero, Daniel E. (July 2010). "The Quadrature of the Circle and Hippocrates' Lunes". Convergence. Mathematical Association of America.
+Polster, Burkard. "2000 years unsolved: Why is doubling cubes and squaring circles impossible?". Mathologer – via YouTube.

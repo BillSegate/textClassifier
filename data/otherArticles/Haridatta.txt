@@ -1,0 +1,22 @@
+Haridatta (c. 683 CE) was an astronomer-mathematician of Kerala, India, who is believed to be the promulgator of the Parahita system of astronomical computations. This system of computations is widely popular in Kerala and Tamil Nadu. According to legends, Haridatta promulgated the Parahita system on the occasion of the Mamankam held in the year 683 CE. Mamankam was a 12-yearly festival held in Thirunnavaya on the banks of the Bharathapuzha river.
+The distinctive contribution of Haridatta, apart from his resolving the Aryabhatiya calculations and using the Katapayadi system of numerals is the corrections he introduced to the values of the mean and true positions, the velocity, etc., of the moon and other planets as obtained from Aryabhata's constants. This correction is called the Sakabda-samskara since it applied from the date of Aryabhata in the Saka era 444, at which date his constants gave accurate results.
+
+Parahita system
+The Parahita system of computations introduced by Haridatta was a simplification of the system propounded in Aryabhatiya by Aryabhata. Haridatta introduced the following simplifications.
+The system was called Parahita meaning suitable for the common man because it simplified astronomical computations and made it accessible for practice even for ordinary persons.
+
+Haridatta dispensed with the numerical symbolism used by Aryabhata  and replaced it with the more flexible Katapayadi system. In this system, letters are used to represent digits and these letters are then  used to invent meaningful words and sentences to denote specific numbers. These words and sentences could be remembered with much less effort.
+Computations in Indian astronomy involved long numbers representing various parameters   associated with the several celestial objects which are applicable for a Mahayuga, a period of 4,320,000 years. To avoid computations with these large numbers, Haridatta introduced a smaller Yuga, called a Dhijagannupura-yuga, of 576 years or 210,389 days (which 1/7500 th part of a Mahyuga) and accurately determined the zero corrections for this sub-Yuga for the mean motion of the several planets. These corrections were then used to compute the mean planets for any given date.
+
+Works of Haridatta
+Scholars have been able to identify only two works as authored by Haridatta. One of them, titled Grahacaranibandhana, is the basic manual of computations of the Parahita system of astronomy. This was unearthed by K.V. Sarma and was published in 1954. The other work titled Mahamarganibandhana is no longer extant.
+
+See also
+Indian astronomy
+Indian mathematics
+Indian mathematicians
+History of mathematics
+List of astronomers and mathematicians of the Kerala school
+
+
+== References ==

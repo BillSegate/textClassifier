@@ -1,0 +1,60 @@
+In science and engineering, the parts-per notation is a set of pseudo-units to describe small values of miscellaneous dimensionless quantities, e.g. mole fraction or mass fraction. Since these fractions are quantity-per-quantity measures, they are pure numbers with no associated units of measurement. Commonly used are parts-per-million (ppm, 10−6), parts-per-billion (ppb, 10−9), parts-per-trillion (ppt, 10−12) and parts-per-quadrillion (ppq, 10−15). This notation is not part of the International System of Units (SI) system and its meaning is ambiguous.
+
+Applications
+Parts-per notation is often used describing dilute solutions in chemistry, for instance, the relative abundance of dissolved minerals or pollutants in water. The quantity "1 ppm" can be used for a mass fraction if a water-borne pollutant is present at one-millionth of a gram per gram of sample solution. When working with aqueous solutions, it is common to assume that the density of water is 1.00 g/mL. Therefore, it is common to equate 1 kilogram of water with 1 L of water. Consequently, 1 ppm corresponds to 1 mg/L and 1 ppb corresponds to 1 μg/L.
+Similarly, parts-per notation is used also in physics and engineering to express the value of various proportional phenomena. For instance, a special metal alloy might expand 1.2 micrometers per meter of length for every degree Celsius and this would be expressed as "α = 1.2 ppm/°C". Parts-per notation is also employed to denote the change, stability, or uncertainty in measurements. For instance, the accuracy of land-survey distance measurements when using a laser rangefinder might be 1 millimeter per kilometer of distance; this could be expressed as "Accuracy = 1 ppm."Parts-per notations are all dimensionless quantities: in mathematical expressions, the units of measurement always cancel. In fractions like "2 nanometers per meter" (2 n m / m = 2 nano = 2×10−9 = 2 ppb = 2 × 0.000000001), so the quotients are pure-number coefficients with positive values less than or equal to 1. When parts-per notations, including the percent symbol (%), are used in regular prose (as opposed to mathematical expressions), they are still pure-number dimensionless quantities. However, they generally take the literal "parts per" meaning of a comparative ratio (e.g. "2 ppb" would generally be interpreted as "two parts in a billion parts").Parts-per notations may be expressed in terms of any unit of the same measure. For instance, the expansion coefficient of some brass alloy, α = 18.7 ppm/°C, may be expressed as 18.7 (μm/m)/°C, or as 18.7 (μ in/in)/°C; the numeric value representing a relative proportion does not change with the adoption of a different unit of length.
+Similarly, a metering pump that injects a trace chemical into the main process line at the proportional flow rate Qp = 12 ppm, is doing so at a rate that may be expressed in a variety of volumetric units, including 125 μL/L, 125 μ gal / gal, 125 cm3/m3, etc.
+In nuclear magnetic resonance spectroscopy (NMR), chemical shift is usually expressed in ppm. It represents the difference of a measured frequency in parts per million from the reference frequency. The reference frequency depends on the instrument's magnetic field and the element being measured. It is usually expressed in MHz. Typical chemical shifts are rarely more than a few hundred Hz from the reference frequency, so chemical shifts are conveniently expressed in ppm (Hz/MHz). Parts-per notation gives a dimensionless quantity that does not depend on the instrument's field strength.
+
+Parts-per expressions
+One part per hundred is generally represented by the percent sign (%) and denotes one part per 100 (102) parts, and a value of 10−2. This is equivalent to about fourteen minutes out of one day.
+
+One part per thousand should generally be spelled out in full and not as "ppt" (which is usually understood to represent "parts per trillion"). It may also be denoted by the permille sign (‰). Note however, that specific disciplines such as oceanography, as well as educational exercises, do use the "ppt" abbreviation. "One part per thousand" denotes one part per 1,000 (103) parts, and a value of 10−3. This is equivalent to about ninety seconds out of one day.
+One part per ten thousand is denoted by the permyriad sign (‱). Although rarely used in science (ppm is typically used instead), one permyriad has an unambiguous value of one part per 10,000 (104) parts, and a value of 10−4. This is equivalent to about nine seconds out of one day. In contrast, in finance, the basis point is typically used to denote changes in or differences between percentage interest rates (although it can also be used in other cases where it is desirable to express quantities in hundredths of a percent). For instance, a change in an interest rate from 5.15% per annum to 5.35% per annum could be denoted as a change of 20 basis points (per annum). As with interest rates, the words "per annum" (or "per year") are often omitted. In that case, the basis point is a quantity with a dimension of (time−1).
+One part per hundred thousand, per cent mille (pcm) or milli-percent denotes one part per 100,000 (105) parts, and a value of 10−5. It is commonly used in epidemiology for mortality, crime and disease prevalence rates, and nuclear reactor engineering as a unit of reactivity. In time measurement it is equivalent to about 5 minutes out of a year; in distance measurement, it is equivalent to 1 cm of error per km of distance traversed.
+
+One part per million (ppm) denotes one part per 1,000,000 (106) parts, and a value of 10−6. It is equivalent to about 32 seconds out of a year or 1 mm of error per km of distance traversed. In mining, it is also equivalent to one gram per metric ton, expressed as g/t.
+
+One part per billion (ppb) denotes one part per 1,000,000,000 (109) parts, and a value of 10−9. This is equivalent to about three seconds out of a century.
+
+One part per trillion (ppt) denotes one part per 1,000,000,000,000 (1012) parts, and a value of 10−12. This is equivalent to about thirty seconds out of every million years.
+
+One part per quadrillion (ppq) denotes one part per 1,000,000,000,000,000 (1015) parts, and a value of 10−15. This is equivalent to about two and a half minutes out of the age of the Earth (4.5 billion years). Although relatively uncommon in analytical chemistry, measurements at the ppq level are sometimes performed.
+
+Criticism
+Although the International Bureau of Weights and Measures (an international standards organization known also by its French-language initials BIPM) recognizes the use of parts-per notation, it is not formally part of the International System of Units (SI). Note that although "percent" (%) is not formally part of the SI, both the BIPM and the International Organization for Standardization (ISO) take the position that "in mathematical expressions, the internationally recognized symbol % (percent) may be used with the SI to represent the number 0.01" for dimensionless quantities. According to IUPAP, "a continued source of annoyance to unit purists has been the continued use of percent, ppm, ppb, and ppt". Although SI-compliant expressions should be used as an alternative, the parts-per notation remains nevertheless widely used in technical disciplines. The main problems with the parts-per notation are set out below.
+
+Long and short scales
+Because the named numbers starting with a "billion" have different values in different countries, the BIPM suggests avoiding the use of "ppb" and "ppt" to prevent misunderstanding. The U.S. National Institute of Standards and Technology (NIST) takes the stringent position, stating that "the language-dependent terms [...] are not acceptable for use with the SI to express the values of quantities".
+
+Thousand vs. trillion
+Although "ppt" usually means "parts per trillion", it occasionally means "parts per thousand". Unless the meaning of "ppt" is defined explicitly, it has to be determined from the context.
+
+Mass fraction vs. mole fraction vs. volume fraction
+Another problem of the parts-per notation is that it may refer to mass fraction, mole fraction or volume fraction. Since it is usually not stated which quantity is used, it is better to write the units out, such as kg/kg, mol/mol or m3/m3, even though they are all dimensionless. The difference is quite significant when dealing with gases, and it is very important to specify which quantity is being used. For example, the conversion factor between a mass fraction of 1 ppb and a mole fraction of 1 ppb is about 4.7 for the greenhouse gas CFC-11 in air. For volume fraction, the suffix "V" or "v" is sometimes appended to the parts-per notation (e.g. ppmV, ppbv, pptv). However, ppbv and pptv are also often used for mole fractions (which is identical to volume fraction only for ideal gases).
+To distinguish the mass fraction from volume fraction or mole fraction, the letter "w" (standing for "weight") is sometimes added to the abbreviation (e.g. ppmw, ppbw).The usage of the parts-per notation is generally quite fixed within each specific branch of science, but often in a way that is inconsistent with its usage in other branches, leading some researchers to assume that their own usage (mass/mass, mol/mol, volume/volume, mass/volume, or others) is correct and that other usages are incorrect. This assumption sometimes leads them to not specify the details of their own usage in their publications, and others may therefore misinterpret their results. For example, electrochemists often use volume/volume, while chemical engineers may use mass/mass as well as volume/volume, while chemists, the field of occupational safety and the field of permissible exposure limit (e.g. permitted gas exposure limit in air) may use mass/volume. Unfortunatelly, many academic publications of otherwise excellent level fail to specify their use of the parts-per notation, which irritates some readers, especially those who are not experts in the particular fields in those publications, because parts-per-notation, without specifying what it stands for, can mean anything.
+
+SI-compliant expressions
+SI-compliant units that can be used as alternatives are shown in the chart below. Expressions that the BIPM explicitly does not recognize as being suitable for denoting dimensionless quantities with the SI are marked with !.
+
+Note that the notations in the "SI units" column above are for the most part dimensionless quantities; that is, the units of measurement factor out in expressions like "1 nm/m" (1 nm/m =1 × 10−9) so the ratios are pure-number coefficients with values less than 1.
+
+Uno (proposed dimensionless unit)
+Because of the cumbersome nature of expressing certain dimensionless quantities per SI guidelines, the International Union of Pure and Applied Physics (IUPAP) in 1999 proposed the adoption of the special name "uno" (symbol: U) to represent the number 1 in dimensionless quantities. In 2004, a report to the International Committee for Weights and Measures (CIPM) stated that the response to the proposal of the uno "had been almost entirely negative", and the principal proponent "recommended dropping the idea". To date, the uno has not been adopted by any standards organization.
+
+Footnotes
+See also
+International Electrotechnical Commission (IEC)
+Milligram per cent
+Percentage (%) 1 part in 100
+Per mille (‰) 1 part in 1,000
+Permyriad (‱) 1 part in 10,000
+Per cent mille (pcm) 1 part in 100,000
+Per-unit system
+
+References
+External links
+
+ Media related to Parts-per notation at Wikimedia Commons
+National Institute of Standards and Technology (NIST)
+International Bureau of Weights and Measures (BIPM)

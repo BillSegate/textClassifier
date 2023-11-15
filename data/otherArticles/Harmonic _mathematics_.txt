@@ -1,0 +1,15 @@
+In mathematics, a number of concepts employ the word harmonic. The similarity of this terminology to that of music is not accidental: the equations of motion of vibrating strings, drums and columns of air are given by formulas involving Laplacians; the solutions to which are given by eigenvalues corresponding to their modes of vibration. Thus, the term "harmonic" is applied when one is considering functions with sinusoidal variations, or solutions of Laplace's equation and related concepts.Mathematical terms whose names include "harmonic" include:
+
+Projective harmonic conjugate
+Cross-ratio
+Harmonic analysis
+Harmonic conjugate
+Harmonic form
+Harmonic function
+Harmonic mean
+Harmonic mode
+Harmonic number
+Harmonic series
+Alternating harmonic series
+Harmonic tremor
+Spherical harmonics

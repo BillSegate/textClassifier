@@ -1,0 +1,75 @@
+Generally, a partition is a division of a whole into non-overlapping parts.  Among the kinds of partitions considered in mathematics are
+
+partition of a set or an ordered partition of a set,
+partition of a graph,
+partition of an integer,
+partition of an interval,
+partition of unity,
+partition of a matrix; see block matrix, and
+partition of the sum of squares in statistics problems, especially in the analysis of variance,
+quotition and partition, two ways of viewing the operation of division of integers.
+
+Integer partitions
+Composition (number theory)  
+Ewens's sampling formula  
+Ferrers graph  
+Glaisher's theorem  
+Landau's function  
+Partition function (number theory)  
+Pentagonal number theorem  
+Plane partition  
+Quotition and partition  
+Rank of a partition  
+Crank of a partition  
+Solid partition  
+Young tableau  
+Young's lattice
+
+Set partitions
+Bell number  
+Bell polynomials  
+Dobinski's formula  
+Cumulant  
+Data clustering
+Equivalence relation  
+Exact cover  
+Knuth's Algorithm X  
+Dancing Links  
+Exponential formula  
+Faà di Bruno's formula  
+Feshbach–Fano partitioning
+Foliation  
+Frequency partition  
+Graph partition  
+Kernel of a function  
+Lamination (topology)  
+Matroid partitioning  
+Multipartition  
+Multiplicative partition  
+Noncrossing partition  
+Ordered partition of a set  
+Partition calculus  
+Partition function (quantum field theory)  
+Partition function (statistical mechanics)  
+Derivation of the partition function  
+Partition of an interval  
+Partition of a set  
+Ordered partition  
+Partition refinement
+Disjoint-set data structure
+Partition problem  
+3-partition problem  
+Partition topology  
+Quotition and partition  
+Recursive partitioning  
+Stirling number  
+Stirling transform  
+Stratification (mathematics)  
+Tverberg partition  
+Twelvefold way
+
+In probability and stochastic processes
+Chinese restaurant process  
+Dobinski's formula  
+Ewens's sampling formula  
+Law of total cumulance

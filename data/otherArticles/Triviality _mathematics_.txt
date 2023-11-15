@@ -1,0 +1,259 @@
+In mathematics, the adjective trivial is often used to refer to a claim or a case which can be readily obtained from context, or an object which possesses a simple structure (e.g., groups, topological spaces). The noun triviality usually refers to a simple technical aspect of some proof or definition. The origin of the term in mathematical language comes from the medieval trivium curriculum, which distinguishes from the more difficult quadrivium curriculum. The opposite of trivial is nontrivial, which is commonly used to indicate that an example or a solution is not simple, or that a statement or a theorem is not easy to prove.The judgement of whether a situation under consideration is trivial or not depends on who considers it since the situation is obviously true for someone who has sufficient knowledge or experience of it while to someone who has never seen this, it may be even hard to be understood so not trivial at all. And there can be an argument about how quickly and easily a problem should be recognized for the problem to be treated as trivial. So, triviality is not a universally agreed property in mathematics and logic.
+
+Trivial and nontrivial solutions
+In mathematics, the term "trivial" is often used to refer to objects (e.g., groups, topological spaces) with a very simple structure. These include, among others:
+
+Empty set: the set containing no or null members
+Trivial group: the mathematical group containing only the identity element
+Trivial ring: a ring defined on a singleton set"Trivial" can also be used to describe solutions to an equation that have a very simple structure, but for the sake of completeness cannot be omitted. These solutions are called the trivial solutions. For example, consider the differential equation
+
+where 
+  
+    
+      
+        y
+        =
+        y
+        (
+        x
+        )
+      
+    
+    {\displaystyle y=y(x)}
+   is a function whose derivative is 
+  
+    
+      
+        
+          y
+          ′
+        
+      
+    
+    {\displaystyle y'}
+  . The trivial solution is the zero function
+
+while a nontrivial solution is the exponential function
+
+The differential equation 
+  
+    
+      
+        
+          f
+          ″
+        
+        (
+        x
+        )
+        =
+        −
+        λ
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f''(x)=-\lambda f(x)}
+   with boundary conditions 
+  
+    
+      
+        f
+        (
+        0
+        )
+        =
+        f
+        (
+        L
+        )
+        =
+        0
+      
+    
+    {\displaystyle f(0)=f(L)=0}
+   is important in mathematics and physics, as it could be used to describe a particle in a box in quantum mechanics, or a standing wave on a string. It always includes the solution 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        0
+      
+    
+    {\displaystyle f(x)=0}
+  , which is considered obvious and hence is called the "trivial" solution. In some cases, there may be other solutions (sinusoids), which are called "nontrivial" solutions.Similarly, mathematicians often describe Fermat's last theorem as asserting that there are no nontrivial integer solutions to the equation 
+  
+    
+      
+        
+          a
+          
+            n
+          
+        
+        +
+        
+          b
+          
+            n
+          
+        
+        =
+        
+          c
+          
+            n
+          
+        
+      
+    
+    {\displaystyle a^{n}+b^{n}=c^{n}}
+  , where n is greater than 2. Clearly, there are some solutions to the equation. For example, 
+  
+    
+      
+        a
+        =
+        b
+        =
+        c
+        =
+        0
+      
+    
+    {\displaystyle a=b=c=0}
+   is a solution for any n, but such solutions are obvious and obtainable with little effort, and hence "trivial".
+
+In mathematical reasoning
+Trivial may also refer to any easy case of a proof, which for the sake of completeness cannot be ignored. For instance, proofs by mathematical induction have two parts: the "base case" which shows that the theorem is true for a particular initial value (such as n = 0 or n = 1), and the inductive step which shows that if the theorem is true for a certain value of n, then it is also true for the value n + 1. The base case is often trivial and is identified as such, although there are situations where the base case is difficult but the inductive step is trivial. Similarly, one might want to prove that some property is possessed by all the members of a certain set. The main part of the proof will consider the case of a nonempty set, and examine the members in detail; in the case where the set is empty, the property is trivially possessed by all the members of the empty set, since there are none (see vacuous truth for more).
+The judgement of whether a situation under consideration is trivial or not depends on who considers it since the situation is obviously true for someone who has sufficient knowledge or experience of it while to someone who has never seen this, it may be even hard to be understood so not trivial at all. And there can be an argument about how quickly and easily a problem should be recognized for the problem to be treated as trivial. The following examples show the subjectivity and ambiguity of the triviality judgement.
+Triviality also depends on context. A proof in functional analysis would probably, given a number, trivially assume the existence of a larger number. However, when proving basic results about the natural numbers in elementary number theory, the proof may very well hinge on the remark that any natural number has a successor – a statement which should itself be proved or be taken as an axiom so is not trivial (for more, see Peano's axioms).
+
+Trivial proofs
+In some texts, a trivial proof refers to a statement involving a material implication P→Q, where the consequent Q, is always true. Here, the proof follows immediately by virtue of the definition of material implication in which as the implication is true regardless of the truth value of the antecedent P if the consequent is fixed as true.A related concept is a vacuous truth, where the antecedent P in a material implication P→Q is false. In this case, the implication is always true regardless of the truth value of the consequent Q – again by virtue of the definition of material implication.
+
+Criticism
+A common joke in the mathematical community is to say that "trivial" is synonymous with "proved"—that is, any theorem can be considered "trivial" once it is known to be proved as true.
+Two mathematicians who are discussing a theorem: the first mathematician says that the theorem is "trivial". In response to the other's request for an explanation, he then proceeds with twenty minutes of exposition. At the end of the explanation, the second mathematician agrees that the theorem is trivial. But can we say that this theorem is trivial even if it takes a lot of time and effort to prove it?
+When a mathematician says that a theorem is trivial, but he is unable to prove it by himself at the moment that he says it as trivial. Then is the theorem trivial?
+Often, as a joke, a problem is referred to as "intuitively obvious". For example, someone experienced in calculus would consider the following statement trivial:However, to someone with no knowledge of integral calculus, this is not obvious at all so is not trivial.
+
+Examples
+In number theory, it is often important to find factors of an integer number N. Any number N has four obvious factors: ±1 and ±N. These are called "trivial factors". Any other factor, if it exists, would be called "nontrivial".
+The homogeneous matrix equation 
+  
+    
+      
+        A
+        
+          x
+        
+        =
+        
+          0
+        
+      
+    
+    {\displaystyle A\mathbf {x} =\mathbf {0} }
+  , where 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   is a fixed matrix, 
+  
+    
+      
+        
+          x
+        
+      
+    
+    {\displaystyle \mathbf {x} }
+   is an unknown vector, and 
+  
+    
+      
+        
+          0
+        
+      
+    
+    {\displaystyle \mathbf {0} }
+   is the zero vector, has an obvious solution 
+  
+    
+      
+        
+          x
+        
+        =
+        
+          0
+        
+      
+    
+    {\displaystyle \mathbf {x} =\mathbf {0} }
+  . This is called the "trivial solution". Any other solutions, with 
+  
+    
+      
+        
+          x
+        
+        ≠
+        
+          0
+        
+      
+    
+    {\displaystyle \mathbf {x} \neq \mathbf {0} }
+  , are called "nontrivial".
+In group theory, there is a very simple group with just one element in it; this is often called the "trivial group". All other groups, which are more complicated, are called "nontrivial".
+In graph theory, the trivial graph is a graph which has only 1 vertex and no edge.
+Database theory has a concept called functional dependency, written 
+  
+    
+      
+        X
+        →
+        Y
+      
+    
+    {\displaystyle X\to Y}
+  . The dependence 
+  
+    
+      
+        X
+        →
+        Y
+      
+    
+    {\displaystyle X\to Y}
+   is true if Y is a subset of X, so this type of dependence is called "trivial". All other dependences, which are less obvious, are called "nontrivial".
+It can be shown that Riemann's zeta function has zeros at the negative even numbers −2, −4, … Though the proof is comparatively easy, this result would still not normally be called trivial; however, it is in this case, for its other zeros are generally unknown and have important applications and involve open questions (such as the Riemann hypothesis). Accordingly, the negative even numbers are called the trivial zeros of the function, while any other zeros are considered to be non-trivial.
+
+See also
+Degeneracy
+Initial and terminal objects
+List of mathematical jargon
+Pathological
+Trivialism
+Trivial measure
+Trivial representation
+Trivial topology
+
+References
+External links
+
+Trivial entry at MathWorld

@@ -1,0 +1,325 @@
+Carreau fluid in physics is a type of generalized Newtonian fluid where viscosity, 
+  
+    
+      
+        
+          μ
+          
+            eff
+          
+        
+      
+    
+    {\displaystyle \mu _{\operatorname {eff} }}
+  , depends upon the shear rate, 
+  
+    
+      
+        
+          
+            
+              γ
+              ˙
+            
+          
+        
+      
+    
+    {\displaystyle {\dot {\gamma }}}
+  , by the following equation:
+
+  
+    
+      
+        
+          μ
+          
+            eff
+          
+        
+        (
+        
+          
+            
+              γ
+              ˙
+            
+          
+        
+        )
+        =
+        
+          μ
+          
+            
+              inf
+            
+          
+        
+        +
+        (
+        
+          μ
+          
+            0
+          
+        
+        −
+        
+          μ
+          
+            
+              inf
+            
+          
+        
+        )
+        
+          
+            (
+            
+              1
+              +
+              
+                
+                  (
+                  
+                    λ
+                    
+                      
+                        
+                          γ
+                          ˙
+                        
+                      
+                    
+                  
+                  )
+                
+                
+                  2
+                
+              
+            
+            )
+          
+          
+            
+              
+                n
+                −
+                1
+              
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mu _{\operatorname {eff} }({\dot {\gamma }})=\mu _{\operatorname {\inf } }+(\mu _{0}-\mu _{\operatorname {\inf } })\left(1+\left(\lambda {\dot {\gamma }}\right)^{2}\right)^{\frac {n-1}{2}}}
+  Where: 
+  
+    
+      
+        
+          μ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \mu _{0}}
+  , 
+  
+    
+      
+        
+          μ
+          
+            
+              inf
+            
+          
+        
+      
+    
+    {\displaystyle \mu _{\operatorname {\inf } }}
+  , 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+   and 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   are material coefficients.
+
+  
+    
+      
+        
+          μ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \mu _{0}}
+   = viscosity at zero shear rate (Pa.s)
+
+  
+    
+      
+        
+          μ
+          
+            
+              inf
+            
+          
+        
+      
+    
+    {\displaystyle \mu _{\operatorname {\inf } }}
+   = viscosity at infinite shear rate (Pa.s)
+
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+   = characteristic time (s)
+
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   = power index
+The dynamics of fluid motions is an important area of physics, with many important and commercially significant applications.
+Computers are often used to calculate the motions of fluids, especially when the applications are of a safety critical nature.
+
+Carreau Fluid Shear Rates
+At low shear rate (
+  
+    
+      
+        
+          
+            
+              γ
+              ˙
+            
+          
+        
+        ≪
+        1
+        
+          /
+        
+        λ
+      
+    
+    {\displaystyle {\dot {\gamma }}\ll 1/\lambda }
+  ) a Carreau fluid behaves as a Newtonian fluid with viscosity 
+  
+    
+      
+        
+          μ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \mu _{0}}
+  .
+At intermediate shear rates (
+  
+    
+      
+        
+          
+            
+              γ
+              ˙
+            
+          
+        
+        ≳
+        1
+        
+          /
+        
+        λ
+      
+    
+    {\displaystyle {\dot {\gamma }}\gtrsim 1/\lambda }
+  ), a Carreau fluid behaves as a Power-law fluid.
+At high shear rate, which depends on the power index 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   and the infinite shear-rate viscosity 
+  
+    
+      
+        
+          μ
+          
+            
+              inf
+            
+          
+        
+      
+    
+    {\displaystyle \mu _{\operatorname {\inf } }}
+  , a Carreau fluid behaves as a Newtonian fluid again with viscosity 
+  
+    
+      
+        
+          μ
+          
+            
+              inf
+            
+          
+        
+      
+    
+    {\displaystyle \mu _{\operatorname {\inf } }}
+  .
+
+Origin of Carreau Fluid Model
+The model was first proposed by Pierre Carreau.
+
+See also
+Navier-Stokes equations
+Fluid
+Cross fluid
+Power-law fluid
+Generalized Newtonian fluid
+
+References
+Kennedy, P. K., Flow Analysis of Injection Molds. New York. Hanser. ISBN 1-56990-181-3

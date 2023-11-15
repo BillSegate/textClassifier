@@ -1,0 +1,7 @@
+Superferromagnetism is the magnetism of an ensemble of magnetically interacting super-moment-bearing material particles that would be superparamagnetic if they were not interacting.  Nanoparticles of iron oxides, such as ferrihydrite (nominally FeOOH), often cluster and interact magnetically.  These interactions change the magnetic behaviours of the nanoparticles (both above and below their blocking temperatures) and lead to an ordered low-temperature phase with non-randomly oriented particle super-moments.
+
+Discovery
+The phenomenon appears to have been first described and the term "superferromagnatism" introduced by Bostanjoglo and Röhkel, for a metallic film system. A decade later, the same phenomenon was rediscovered and described to occur in small-particle systems. The discovery is attributed as such in the scientific literature.
+
+
+== References ==

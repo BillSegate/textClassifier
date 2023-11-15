@@ -1,0 +1,158 @@
+This table shows the 11 convex uniform tilings (regular and semiregular) of the Euclidean plane, and their dual tilings.
+There are three regular and eight semiregular tilings in the plane. The semiregular tilings form new tilings from their duals, each made from one type of irregular face.
+John Conway called these uniform duals Catalan tilings, in parallel to the Catalan solid polyhedra.
+Uniform tilings are listed by their vertex configuration, the sequence of faces that exist on each vertex. For example 4.8.8 means one square and two octagons on a vertex.
+These 11 uniform tilings have 32 different uniform colorings. A uniform coloring allows identical sided polygons at a vertex to be colored differently, while still maintaining vertex-uniformity and transformational congruence between vertices. (Note: Some of the tiling images shown below are not color-uniform)
+In addition to the 11 convex uniform tilings, there are also 14 known nonconvex tilings, using star polygons, and reverse orientation vertex configurations. A further 28 uniform tilings are known using apeirogons. If zigzags are also allowed, there are 23 more known uniform tilings and 10 more known families depending on a parameter: in 8 cases the parameter is continuous, and in the other 2 it is discrete. The set is not known to be complete.
+
+Laves tilings
+In the 1987 book, Tilings and Patterns, Branko Grünbaum calls the vertex-uniform tilings Archimedean, in parallel to the Archimedean solids. Their dual tilings are called Laves tilings in honor of crystallographer Fritz Laves. They're also called Shubnikov–Laves tilings after Aleksei Shubnikov. John Conway called the uniform duals Catalan tilings, in parallel to the Catalan solid polyhedra.
+The Laves tilings have vertices at the centers of the regular polygons, and edges connecting centers of regular polygons that share an edge. The tiles of the Laves tilings are called planigons. This includes the 3 regular tiles (triangle, square and hexagon) and 8 irregular ones. Each vertex has edges evenly spaced around it. Three dimensional analogues of the planigons are called stereohedrons.
+These dual tilings are listed by their face configuration, the number of faces at each vertex of a face. For example V4.8.8 means isosceles triangle tiles with one corner with four triangles, and two corners containing eight triangles. The orientations of the vertex planigons (up to D12) are consistent with the vertex diagrams in the below sections.
+
+Convex uniform tilings of the Euclidean plane
+All reflectional forms can be made by Wythoff constructions, represented by Wythoff symbols, or Coxeter-Dynkin diagrams, each operating upon one of three Schwarz triangle (4,4,2), (6,3,2), or (3,3,3), with symmetry represented by Coxeter groups: [4,4], [6,3], or [3[3]]. Alternated forms such as the snub can also be represented by special markups within each system. Only one uniform tiling can't be constructed by a Wythoff process, but can be made by an elongation of the triangular tiling. An orthogonal mirror construction [∞,2,∞] also exists, seen as two sets of parallel mirrors making a rectangular fundamental domain. If the domain is square, this symmetry can be doubled by a diagonal mirror into the [4,4] family.
+Families:
+
+(4,4,2), 
+  
+    
+      
+        
+          
+            
+              
+                
+                  B
+                  C
+                
+                ~
+              
+            
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\tilde {BC}}_{2}}
+  , [4,4] – Symmetry of the regular square tiling
+
+  
+    
+      
+        
+          
+            
+              
+                I
+                ~
+              
+            
+          
+          
+            1
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\tilde {I}}_{1}^{2}}
+  , [∞,2,∞]
+(6,3,2), 
+  
+    
+      
+        
+          
+            
+              
+                G
+                ~
+              
+            
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\tilde {G}}_{2}}
+  , [6,3] – Symmetry of the regular hexagonal tiling and triangular tiling.
+(3,3,3), 
+  
+    
+      
+        
+          
+            
+              
+                A
+                ~
+              
+            
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\tilde {A}}_{2}}
+  , [3[3]]
+
+The [4,4] group family
+The [6,3] group family
+Non-Wythoffian uniform tiling
+Uniform colorings
+There are a total of 32 uniform colorings of the 11 uniform tilings:
+
+Triangular tiling – 9 uniform colorings, 4 wythoffian, 5 nonwythoffian
+         
+Square tiling – 9 colorings: 7 wythoffian, 2 nonwythoffian
+         
+Hexagonal tiling – 3 colorings, all wythoffian
+   
+Trihexagonal tiling – 2 colorings, both wythoffian
+  
+Snub square tiling – 2 colorings, both alternated wythoffian
+  
+Truncated square tiling – 2 colorings, both wythoffian
+  
+Truncated hexagonal tiling – 1 coloring, wythoffian
+ 
+Rhombitrihexagonal tiling – 1 coloring, wythoffian
+ 
+Truncated trihexagonal tiling – 1 coloring, wythoffian
+ 
+Snub hexagonal tiling – 1 coloring, alternated wythoffian
+ 
+Elongated triangular tiling – 1 coloring, nonwythoffian
+
+See also
+List of tessellations
+Euclidean tilings by convex regular polygons
+Uniform tilings in hyperbolic plane
+Convex uniform honeycomb – The 28 uniform 3-dimensional tessellations, a parallel construction to the convex uniform Euclidean plane tilings.
+Percolation threshold
+
+References
+Further reading
+Conway, John H.; Burgiel, Heidi; Goodman-Strauss, Chaim (April 18, 2008). "Chapter 19, Archimedean tilings, table 19.1". The Symmetries of Things. A K Peters / CRC Press. ISBN 978-1-56881-220-5. Archived from the original on September 19, 2010.
+Coxeter, H.S.M.; Longuet-Higgins, M.S.; Miller, J.C.P. (1954). "Uniform polyhedra". Phil. Trans. 246 A: 401–450.
+Williams, Robert (1979). The Geometrical Foundation of Natural Structure: A Source Book of Design. Dover Publications, Inc. ISBN 0-486-23729-X. (Section 2–3 Circle packings, plane tessellations, and networks, pp. 34–40).
+Asaro, Laura; Hyde, John; Jensen, Melanie; Mann, Casey; Schroeder, Tyler. "Uniform edge-c-colorings of the Archimedean Tilings" (PDF). University of Washington. (Casey Mann at the University of Washington)
+Grünbaum, Branko; Shepard, Geoffrey (November 1977). "Tilings by Regular polygons" (PDF).
+Seymour, Dale; Britton, Jill (1989). Introduction to Tessellations. Dale Seymour Publications. pp. 50–57, 71-74. ISBN 978-0866514613.
+
+External links
+Weisstein, Eric W. "Uniform tessellation". MathWorld.
+Uniform Tessellations on the Euclid plane
+Tessellations of the Plane
+David Bailey's World of Tessellations
+k-uniform tilings
+n-uniform tilings

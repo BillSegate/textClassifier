@@ -1,0 +1,16 @@
+Marquois scales (also known as Marquois parallel scales or Marquois scale and triangle or military scales) are a mathematical instrument that found widespread use in Britain, particularly in military surveying, from the late 18th century to World War II.
+
+Description
+Invented around 1778 by Thomas Marquois, the Marquois scales consist of a right-angle triangle (with sides at a 3:1 ratio) and two rulers (each with multiple scales). The system could be used to aid precision when marking distances off scales, and to rapidly draw parallel lines a precise distance apart. Quick construction of precise parallel lines was useful in cartography and engineering (especially before the availability of graph paper) and Marquois scales were convenient in some challenging environments where larger equipment like a drawing board and T-square was impractical, such as field survey work and classrooms. Marquois scales fell out of favour among draftsmen in the early 20th century, although familiarity with their use was an entry requirement for the Royal Military Academy at Woolwich around the same time.
+
+Material
+Marquois scales were normally made of boxwood, though sets were sometimes made in ivory or metal.
+
+Use
+The triangle would be used for many regular set square operations, the rulers likewise would function as rulers, but the unique function was the 3:1 reduction ratio between measured distance and drawn line.: 210–214 A line is drawn along the beveled edge (the side of middle-length) of the triangle. By placing a ruler against the hypotenuse of the triangle and sliding the triangle along the ruler for 3 units of the ruler's scale, drawing another line along the beveled edge results in a parallel line with a distance of only 1 unit from the original line. Using larger distances on a ruler to draw lines smaller distances apart means that margin of error reading off the scale is reduced. Additionally, the end-state is the instruments already in place to slide the triangle again to quickly draw additional lines as desired.: 210–214 Regular set square triangles differ (from a Marquois scales triangle) by being made and used according to the angles of their triangle (eg 45-45-90 or 30-60-90 degrees) rather than according to the ratio between the lengths of their sides. Likewise the scales on other rulers are usually intended to be used directly and the selection differs accordingly.: 182, 210–214
+
+See also
+Technical drawing tools
+
+
+== References ==

@@ -1,0 +1,4 @@
+The packing constant of a geometric body is the largest average density achieved by packing arrangements of congruent copies of the body. For most bodies the value of the packing constant is unknown. The following is a list of bodies in Euclidean spaces whose packing constant is known. Fejes Tóth proved that in the plane, a point symmetric body has a packing constant that is equal to its translative packing constant and its lattice packing constant. Therefore, any such body for which the lattice packing constant was previously known, such as any ellipse, consequently has a known packing constant. In addition to these bodies, the packing constants of hyperspheres in 8 and 24 dimensions are almost exactly known.
+
+
+== References ==

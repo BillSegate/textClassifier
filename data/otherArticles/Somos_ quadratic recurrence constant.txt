@@ -1,0 +1,379 @@
+In mathematics, Somos' quadratic recurrence constant, named after Michael Somos, is the number
+
+  
+    
+      
+        σ
+        =
+        
+          
+            1
+            
+              
+                2
+                
+                  
+                    3
+                    ⋯
+                  
+                
+              
+            
+          
+        
+        =
+        
+          1
+          
+            1
+            
+              /
+            
+            2
+          
+        
+        
+        
+          2
+          
+            1
+            
+              /
+            
+            4
+          
+        
+        
+        
+          3
+          
+            1
+            
+              /
+            
+            8
+          
+        
+        ⋯
+        .
+        
+      
+    
+    {\displaystyle \sigma ={\sqrt {1{\sqrt {2{\sqrt {3\cdots }}}}}}=1^{1/2}\;2^{1/4}\;3^{1/8}\cdots .\,}
+  This can be easily re-written into the far more quickly converging product representation 
+
+  
+    
+      
+        σ
+        =
+        
+          σ
+          
+            2
+          
+        
+        
+          /
+        
+        σ
+        =
+        
+          
+            (
+            
+              
+                2
+                1
+              
+            
+            )
+          
+          
+            1
+            
+              /
+            
+            2
+          
+        
+        
+          
+            (
+            
+              
+                3
+                2
+              
+            
+            )
+          
+          
+            1
+            
+              /
+            
+            4
+          
+        
+        
+          
+            (
+            
+              
+                4
+                3
+              
+            
+            )
+          
+          
+            1
+            
+              /
+            
+            8
+          
+        
+        
+          
+            (
+            
+              
+                5
+                4
+              
+            
+            )
+          
+          
+            1
+            
+              /
+            
+            16
+          
+        
+        ⋯
+        ,
+      
+    
+    {\displaystyle \sigma =\sigma ^{2}/\sigma =\left({\frac {2}{1}}\right)^{1/2}\left({\frac {3}{2}}\right)^{1/4}\left({\frac {4}{3}}\right)^{1/8}\left({\frac {5}{4}}\right)^{1/16}\cdots ,}
+  which can then be compactly represented in infinite product form by:
+
+  
+    
+      
+        σ
+        =
+        
+          ∏
+          
+            k
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            (
+            
+              1
+              +
+              
+                
+                  1
+                  k
+                
+              
+            
+            )
+          
+          
+            
+              1
+              
+                2
+                
+                  k
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \sigma =\prod _{k=1}^{\infty }\left(1+{\frac {1}{k}}\right)^{\frac {1}{2^{k}}}.}
+  The constant σ arises when studying the asymptotic behaviour of the sequence
+
+  
+    
+      
+        
+          g
+          
+            0
+          
+        
+        =
+        1
+        
+        ;
+        
+        
+          g
+          
+            n
+          
+        
+        =
+        n
+        
+          g
+          
+            n
+            −
+            1
+          
+          
+            2
+          
+        
+        ,
+        
+        n
+        >
+        1
+        ,
+        
+      
+    
+    {\displaystyle g_{0}=1\,;\,g_{n}=ng_{n-1}^{2},\qquad n>1,\,}
+  with first few terms 1, 1, 2, 12, 576, 1658880, ... (sequence A052129 in the OEIS). This sequence can be shown to have asymptotic behaviour as follows:
+
+  
+    
+      
+        
+          g
+          
+            n
+          
+        
+        ∼
+        
+          
+            
+              σ
+              
+                
+                  2
+                  
+                    n
+                  
+                
+              
+            
+            
+              n
+              +
+              2
+              +
+              O
+              (
+              
+                
+                  1
+                  n
+                
+              
+              )
+            
+          
+        
+        .
+      
+    
+    {\displaystyle g_{n}\sim {\frac {\sigma ^{2^{n}}}{n+2+O({\frac {1}{n}})}}.}
+  Guillera and Sondow give a representation in terms of the derivative of the Lerch transcendent: 
+
+  
+    
+      
+        ln
+        ⁡
+        σ
+        =
+        
+          
+            
+              −
+              1
+            
+            2
+          
+        
+        
+          
+            
+              ∂
+              Φ
+            
+            
+              ∂
+              s
+            
+          
+        
+        
+        
+          (
+          
+            
+              
+                1
+                2
+              
+            
+            ,
+            0
+            ,
+            1
+          
+          )
+        
+      
+    
+    {\displaystyle \ln \sigma ={\frac {-1}{2}}{\frac {\partial \Phi }{\partial s}}\!\left({\frac {1}{2}},0,1\right)}
+  where ln is the natural logarithm and 
+  
+    
+      
+        Φ
+      
+    
+    {\displaystyle \Phi }
+  (z, s, q) is the Lerch transcendent.
+Finally,
+
+  
+    
+      
+        σ
+        =
+        1.661687949633594121296
+        …
+        
+      
+    
+    {\displaystyle \sigma =1.661687949633594121296\dots \;}
+   (sequence A112302 in the OEIS).
+
+Notes
+
+
+== References ==

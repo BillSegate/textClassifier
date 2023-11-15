@@ -1,0 +1,201 @@
+In quantum field theory, a contact term is a radiatively induced point-like interaction.  
+These typically occur when the vertex for the emission of a massless particle such as a photon, a graviton, or a gluon,  is proportional to 
+  
+    
+      
+        
+          q
+          
+            2
+          
+        
+      
+    
+    {\displaystyle q^{2}}
+   (the invariant momentum of the radiated particle).
+This factor cancels the 
+  
+    
+      
+        1
+        
+          /
+        
+        
+          q
+          
+            2
+          
+        
+      
+    
+    {\displaystyle 1/q^{2}}
+   of the Feynman propagator, and causes the exchange of the massless particle to produce a point-like 
+
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+  -function effective interaction, rather than the usual
+
+  
+    
+      
+        ∼
+        1
+        
+          /
+        
+        r
+      
+    
+    {\displaystyle \sim 1/r}
+   long-range potential.  A notable example occurs in the weak interactions where a W-boson radiative correction to a gluon vertex produces a 
+  
+    
+      
+        
+          q
+          
+            2
+          
+        
+      
+    
+    {\displaystyle q^{2}}
+   term, leading to
+what is known as a "penguin" interaction. The contact term then generates a correction to the full action of the theory.
+Contact terms occur in gravity when there are non-minimal interactions,
+
+  
+    
+      
+        (
+        
+          M
+          
+            P
+            l
+            a
+            n
+            c
+            k
+          
+          
+            2
+          
+        
+        +
+        α
+        
+          ϕ
+          
+            2
+          
+        
+        )
+        R
+      
+    
+    {\displaystyle (M_{Planck}^{2}+\alpha \phi ^{2})R}
+  , or in Brans-Dicke Theory,
+
+  
+    
+      
+        (
+        
+          M
+          
+            P
+            l
+            a
+            n
+            c
+            k
+          
+          
+            2
+          
+        
+        +
+        κ
+        
+          M
+          
+            P
+            l
+            a
+            n
+            c
+            k
+          
+        
+        Φ
+        )
+        R
+      
+    
+    {\displaystyle (M_{Planck}^{2}+\kappa M_{Planck}\Phi )R}
+  .
+The  non-minimal couplings are quantum equivalent to an "Einstein frame," with a pure Einstein-Hilbert action, 
+
+  
+    
+      
+        
+          M
+          
+            P
+            l
+            a
+            n
+            c
+            k
+          
+          
+            2
+          
+        
+        R
+      
+    
+    {\displaystyle M_{Planck}^{2}R}
+  ,
+owing to gravitational contact terms. These arise classically from graviton exchange interactions.  
+The contact terms are an essential, yet hidden, part of the action and, if they are ignored, the Feynman diagram loops in different frames yield different results. At the leading order in 
+  
+    
+      
+        
+          1
+        
+        
+          /
+        
+        
+          
+            M
+            
+              P
+              l
+              a
+              n
+              c
+              k
+            
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {1}/{M_{Planck}^{2}}}
+   including the contact terms is equivalent to performing a Weyl Transformation to remove the non-minimal couplings and taking the theory to the Einstein-Hilbert form.  In this sense, the Einstein-Hilbert form  of the action is unique and "frame ambiguities" in loop calculations do not exist.  
+
+
+== References ==

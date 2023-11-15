@@ -1,0 +1,61 @@
+This is a list of partial differential equation topics.
+
+General topics
+Partial differential equation
+Nonlinear partial differential equation
+list of nonlinear partial differential equations
+Boundary condition
+Boundary value problem
+Dirichlet problem, Dirichlet boundary condition
+Neumann boundary condition
+Stefan problem
+Wiener–Hopf problem
+Separation of variables
+Green's function
+Elliptic partial differential equation
+Singular perturbation
+Cauchy–Kovalevskaya theorem
+H-principle
+Atiyah–Singer index theorem
+Bäcklund transform
+Viscosity solution
+Weak solution
+Loewy decomposition of linear differential equations
+
+Specific partial differential equations
+Broer–Kaup equations
+Burgers' equation
+Euler equations
+Fokker–Planck equation
+Hamilton–Jacobi equation, Hamilton–Jacobi–Bellman equation
+Heat equation
+Laplace's equation
+Laplace operator
+Harmonic function
+Spherical harmonic
+Poisson integral formula
+Klein–Gordon equation
+Korteweg–de Vries equation
+Modified KdV–Burgers equation
+Maxwell's equations
+Navier–Stokes equations
+Poisson's equation
+Primitive equations (hydrodynamics)
+Schrödinger equation
+Wave equation
+
+Numerical methods for PDEs
+Finite difference
+Finite element method
+Finite volume method
+Boundary element method
+Multigrid
+Spectral method
+Computational fluid dynamics
+Alternating direction implicit
+
+Related areas of mathematics
+Calculus of variations
+Harmonic analysis
+Ordinary differential equation
+Sobolev space

@@ -1,0 +1,23 @@
+Tally marks, also called hash marks, are a form of numeral used for counting. They can be thought of as a unary numeral system. 
+They are most useful in counting or tallying ongoing results, such as the score in a game or sport, as no intermediate results need to be erased or discarded. However, because of the length of large numbers, tallies are not commonly used for static text. Notched sticks, known as tally sticks, were also historically used for this purpose.
+
+Early history
+Counting aids other than body parts appear in the Upper Paleolithic. The oldest tally sticks date to between 35,000 and 25,000 years ago, in the form of notched bones found in the context of the European Aurignacian to Gravettian and in Africa's Late Stone Age.
+The so-called Wolf bone is a prehistoric artifact discovered in 1937 in Czechoslovakia during excavations at Dolní Věstonice, Moravia, led by Karl Absolon. Dated to the Aurignacian, approximately 30,000 years ago, the bone is marked with 55 marks which may be tally marks. The head of an ivory Venus figurine was excavated close to the bone.The Ishango bone, found in the Ishango region of the present-day Democratic Republic of Congo, is dated to over 20,000 years old. Upon discovery, it was thought to portray a series of prime numbers. In the book How Mathematics Happened: The First 50,000 Years, Peter Rudman argues that the development of the concept of prime numbers could only have come about after the concept of division, which he dates to after 10,000 BC, with prime numbers probably not being understood until about 500 BC. He also writes that "no attempt has been made to explain why a tally of something should exhibit multiples of two, prime numbers between 10 and 20, and some numbers that are almost multiples of 10." Alexander Marshack examined the Ishango bone microscopically, and concluded that it may represent a six-month lunar calendar.
+
+Clustering
+Tally marks are typically clustered in groups of five for legibility. The cluster size 5 has the advantages of (a) easy conversion into decimal for higher arithmetic operations and (b) avoiding error, as humans can far more easily correctly identify a cluster of 5 than one of 10.
+
+Writing systems
+Roman numerals, the Brahmi and Chinese numerals for one through three (一 二 三), and rod numerals were derived from tally marks, as possibly was the ogham script.Base 1 arithmetic notation system is a unary positional system similar to tally marks. It is rarely used as a practical base for counting due to its difficult readability.
+The numbers 1, 2, 3, 4, 5, 6 ... would be represented in this system as
+0, 00, 000, 0000, 00000, 000000 ...Base 1 notation is widely used in type numbers of flour; the higher number represents a higher grind.
+
+Unicode
+In 2015, Ken Lunde and Daisuke Miura submitted a proposal to encode various systems of tally marks in the Unicode Standard. However, the box tally and dot-and-dash tally characters were not accepted for encoding, and only the five ideographic tally marks (正 scheme) and two Western tally digits were added to the Unicode Standard in the Counting Rod Numerals block in Unicode version 11.0 (June 2018). Only the tally marks for the numbers 1 and 5 are encoded, and tally marks for the numbers 2, 3 and 4 are intended to be composed from sequences of tally mark 1 at the font level.
+
+See also
+Notes
+
+
+== References ==

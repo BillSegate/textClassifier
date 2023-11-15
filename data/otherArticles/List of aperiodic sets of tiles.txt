@@ -1,0 +1,10 @@
+In geometry, a tiling is a partition of the plane (or any other geometric setting) into closed sets (called tiles), without gaps or overlaps (other than the boundaries of the tiles). A tiling is considered periodic if there exist translations in two independent directions which map the tiling onto itself. Such a tiling is composed of a single fundamental unit or primitive cell which repeats endlessly and regularly in two independent directions. An example of such a tiling is shown in the adjacent diagram (see the image description for more information). A tiling that cannot be constructed from a single primitive cell is called nonperiodic. If a given set of tiles allows only nonperiodic tilings, then this set of tiles is called aperiodic. The tilings obtained from an aperiodic set of tiles are often called aperiodic tilings, though strictly speaking it is the tiles themselves that are aperiodic. (The tiling itself is said to be "nonperiodic".)
+The first table explains the abbreviations used in the second table. The second table contains all known aperiodic sets of tiles and gives some additional basic information about each set. This list of tiles is still incomplete.
+
+Explanations
+List
+References
+External links
+Stephens P. W., Goldman A. I. The Structure of Quasicrystals
+Levine D., Steinhardt P. J. Quasicrystals I Definition and structure
+Tilings Encyclopedia

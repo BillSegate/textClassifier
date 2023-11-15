@@ -1,0 +1,183 @@
+The domain-to-range ratio (DRR) is a ratio which describes how the number of outputs corresponds to the number of inputs of a given logical function or software component. The domain-to-range ratio is a mathematical ratio of cardinality between the set of the function's possible inputs (the domain) and the set of possible outputs (the range). For a function defined on a domain, 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+  , and a range, 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  , the domain-to-range ratio is given as:It can be used to measure the risk of missing potential errors when testing the range of outputs alone.
+
+Example
+Consider the function isEven() below, which checks the parity of an unsigned short number 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , any value between 
+  
+    
+      
+        0
+      
+    
+    {\displaystyle 0}
+   and 
+  
+    
+      
+        65
+        ,
+        536
+      
+    
+    {\displaystyle 65,536}
+  , and yields a boolean value which corresponds to whether 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is even or odd. This solution takes advantage of the fact that integer division in programming typically rounds towards zero. 
+
+Because 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   can be any value from 
+  
+    
+      
+        0
+      
+    
+    {\displaystyle 0}
+   to 
+  
+    
+      
+        65
+        ,
+        535
+      
+    
+    {\displaystyle 65,535}
+  , the function's domain has a cardinality of 
+  
+    
+      
+        65
+        ,
+        536
+      
+    
+    {\displaystyle 65,536}
+  . The function yields 
+  
+    
+      
+        0
+      
+    
+    {\displaystyle 0}
+  , if 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is even, or 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+  , if 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is odd. This is expressed as the range 
+  
+    
+      
+        {
+        0
+        ;
+        1
+        }
+      
+    
+    {\displaystyle \{0;1\}}
+  , which has a cardinality of 
+  
+    
+      
+        2
+      
+    
+    {\displaystyle 2}
+  . Therefore, the domain-to-range ratio of isEven() is given by:Here, the domain-to-range ratio indicates that this function would require a comparatively large number of tests to find errors. If a test program attempts every possible value of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   in order from 
+  
+    
+      
+        0
+      
+    
+    {\displaystyle 0}
+   to 
+  
+    
+      
+        65
+        ,
+        535
+      
+    
+    {\displaystyle 65,535}
+  , the program would have to perform 
+  
+    
+      
+        32
+        ,
+        768
+      
+    
+    {\displaystyle 32,768}
+   tests for each of the two possible outputs in order to find errors or edge cases. Because errors in functions with a high domain-to-range ratio are difficult to identify via manual testing or methods which reduce the number of tested inputs, such as orthogonal array testing or all-pairs testing, more computationally complex techniques may be used, such as fuzzing or static program analysis, to find errors.
+
+
+== References ==

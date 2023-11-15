@@ -1,0 +1,81 @@
+The Hafner–Sarnak–McCurley constant is a mathematical constant representing the probability that the determinants of two randomly chosen square integer matrices will be relatively prime.  The probability depends on the matrix size, n, in accordance with the formula 
+
+  
+    
+      
+        D
+        (
+        n
+        )
+        =
+        
+          ∏
+          
+            k
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          {
+          
+            1
+            −
+            
+              
+                [
+                
+                  1
+                  −
+                  
+                    ∏
+                    
+                      j
+                      =
+                      1
+                    
+                    
+                      n
+                    
+                  
+                  (
+                  1
+                  −
+                  
+                    p
+                    
+                      k
+                    
+                    
+                      −
+                      j
+                    
+                  
+                  )
+                
+                ]
+              
+              
+                2
+              
+            
+          
+          }
+        
+        ,
+      
+    
+    {\displaystyle D(n)=\prod _{k=1}^{\infty }\left\{1-\left[1-\prod _{j=1}^{n}(1-p_{k}^{-j})\right]^{2}\right\},}
+  where pk is the kth prime number. The constant is the limit of this expression as n approaches infinity. Its value is roughly 0.3532363719... (sequence A085849 in the OEIS).
+
+References
+Finch, S. R. (2003), "§2.5 Hafner–Sarnak–McCurley Constant", Mathematical Constants, Cambridge, England: Cambridge University Press, pp. 110–112, ISBN 0-521-81805-2.
+Flajolet, P. & Vardi, I. (1996), "Zeta Function Expansions of Classical Constants", Unpublished manuscript.
+Hafner, J. L.; Sarnak, P. & McCurley, K. (1993), "Relatively Prime Values of Polynomials", in Knopp, M. & Seingorn, M. (eds.), A Tribute to Emil Grosswald: Number Theory and Related Analysis, Providence, RI: Amer. Math. Soc., ISBN 0-8218-5155-1.
+Vardi, I. (1991), Computational Recreations in Mathematica, Redwood City, CA: Addison–Wesley, ISBN 0-201-52989-0.
+
+External links
+Weisstein, Eric W., "Hafner-Sarnak-McCurley Constant", MathWorld

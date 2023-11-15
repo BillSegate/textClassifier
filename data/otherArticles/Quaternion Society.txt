@@ -1,0 +1,58 @@
+The Quaternion Society was a scientific society, self-described as an "International Association for Promoting the Study of Quaternions and Allied Systems of Mathematics". At its peak it consisted of about 60 mathematicians spread throughout the academic world that were experimenting with quaternions and other hypercomplex number systems. The group's guiding light was Alexander Macfarlane who served as its secretary initially, and became president in 1909. The association published a Bibliography in 1904 and a Bulletin (annual report) from 1900 to 1913.
+The Bulletin became a review journal for topics in vector analysis and abstract algebra such as the theory of equipollence. The mathematical work reviewed pertained largely to matrices and linear algebra as the methods were in rapid development at the time.
+
+Genesis
+In 1895, Professor P. Molenbroek of The Hague, Holland, and Shinkichi Kimura studying at Yale put out a call for scholars to form the society in widely circulated journals: Nature, Science, and the Bulletin of the American Mathematical Society. Giuseppe Peano also announced the society formation in his Rivista di Matematica.
+The call to form an Association was encouraged by Macfarlane in 1896:
+
+The logical harmony and unification of the whole of mathematical analysis ought to be kept in view. The algebra of space ought to include the algebra of the plane as a special case, just as the algebra of the plane includes the algebra of the line…When vector analysis is developed and presented...we may expect to see many zealous cultivators, many fruitful applications, and, finally, universal diffusion ... May the movement initiated by Messrs. Molenbroek and Kimura hasten the realization of this happy result.In 1897 the British Association met in Toronto where vector products were discussed:
+
+Professor Henrici proposed a new notation to denote the different products of vectors, which consists in using square brackets for vector products and round brackets for scalar products. He likewise advocated adoption of Heaviside’s term "ort" for vector, the tensor of which is the number 1. Prof. A. Macfarlane read a communication on the solution of the cubic equation in which he explained how the two binomials in Cardano’s formula may be treated as complex quantities, either circular or hyperbolic, all the roots of the cubic can then be deduced by a general method.A system of national secretaries was announced in the AMS Bulletin in 1899: Alexander McAulay for Australasia, Victor Schlegel for Germany, Joly for Great Britain and Ireland, Giuseppe Peano for Italy, Kimura for Japan, Aleksandr Kotelnikov for Russia, F. Kraft for Switzerland, and Arthur Stafford Hathaway for the USA. For France the national secretary was Paul Genty, an engineer with the division of Ponts et Chaussees, and a quaternion collaborator with Charles-Ange Laisant, author of Methode des Quaterniones (1881).
+Victor Schlegel reported on the new institution in the Monatshefte für Mathematik.
+
+Officers
+When the society was organized in 1899, Peter Guthrie Tait was chosen as president, but he declined for reasons of poor health.
+The first president was Robert Stawell Ball, and Alexander Macfarlane served as secretary and treasurer. In 1905 Charles Jasper Joly took over as president and L. van Elfrinkhof as treasurer, while Macfarlane continued as secretary. In 1909 Macfarlane became president, James Byrnie Shaw became secretary, and van Elfrinkhof continued as treasurer. The next year Macfarlane and Shaw continued in their posts, while Macfarlane also absorbed the office of treasurer. When Macfarlane died in 1913 after nearly completing the issue of the Bulletin, Shaw completed it and wound up the association.
+The rules state that the president had the power of veto.
+
+Bulletin
+The Bulletin of the Association Promoting the Study of Quaternions and Allied Systems of Mathematics was issued nine times under the editorship of Alexander Macfarlane. Every issue listed the officers of the Association, governing council, rules, members, and a financial statement from the treasurer. Today HathiTrust provides access to these publications that are mainly of historical interest:
+
+March 1900 Published in Toronto by Roswell-Hutchinson Press.
+March 1901 Published in Dublin at the University Press. President Charles J. Joly address.
+March 1903, Dublin. Macfarlane announces Bibliography.
+April 1905, Dublin. President C.J. Joly address.
+March 1908 Published in Lancaster, Pennsylvania, by New Era Printing. J.B. Shaw reports on bibliographic supplement.
+June 1909, Lancaster. President Macfarlane address on notation.
+October 1910, Lancaster. J.B. Shaw challenged by "inclusion or exclusion of certain papers which are only remotely connected with the theory of operations in the abstract."
+June 1912, Lancaster. Obituary: Ferdinand Ferber. "Comparative Notation for Vector Expressions" by J.B. Shaw. President Macfarlane address citing Duncan Sommerville's comments.
+June 1913, Lancaster. Secretary Shaw reports the death of A. Macfarlane and G. Combebiac.
+
+Bibliography
+Published in 1904 at Dublin, cradle of quaternions, the 86 page Bibliography of Quaternions and Allied Systems of Mathematics cited some one thousand references. The publication set a professional standard; for instance the Manual of Quaternions (1905) of Joly has no bibliography beyond citation of Macfarlane.
+Furthermore, in 1967 when Michael J. Crowe published A History of Vector Analysis, he wrote in the preface (page ix) :
+
+Concerning bibliography. No formal bibliographical section has been included with this book. ... the need for a bibliography is greatly diminished by the existence of a book that lists nearly all relevant primary documents published to about 1912, this is Alexander Macfarlane’s Bibliography ...Every year more papers and books appeared that were of interest to Association members so it was necessary to update the Bibliography with supplements in the Bulletin. The categories used to group the items in the supplements give a sense of the changing focus of the Association:
+
+1905 Supplement
+1908 Supplement: Matrices, Linear substitutions, Quadratic forms, Bilinear forms, Complex numbers, Equipollences, Vector analysis, Commutative algebras, Quaternions, Biquaternions, Linear associative algebras, General algebra and operations, Additional.
+1909 Supplement
+1910 Supplement: Matrices, Linear groups, Complex numbers & equipollences, Vector analysis, Ausdehnungslehre, Quaternions, Linear associative algebras.
+1912 Supplement: Equipollences, Commutative systems, Space-analysis, Dyadic systems, Vector analysis, Quaternions.
+1913 Supplement: Commutative systems, Space analysis, Dyadic systems, Vector analysis, Other, Quaternions, Hypercomplex numbers, General algebra.
+
+Aftermath
+In 1913 Macfarlane died, and as related by Dirk Struik, the Society "became a victim of the first World War".James Byrnie Shaw, the surviving officer, wrote 50 book notices for American mathematical publications.
+The final article review in the Bulletin was The Wilson and Lewis Algebra of Four-Dimensional Space written by J. B. Shaw. He summarizes,
+
+This algebra is applied to the representation of the Minkowski time-space world.  It enables all analytical work to be with reals, although the geometry becomes non-Euclidean.The article reviewed was "The space-time manifold of relativity, the non-Euclidean geometry of mechanics, and electromagnetics".
+However, when the textbook The Theory of Relativity by Ludwik Silberstein in 1914 was made available as an English understanding of Minkowski space, the algebra of biquaternions was applied, but without references to the British background or Macfarlane or other quaternionists of the Society. The language of quaternions had become international, providing content to set theory and expanded mathematical notation, and expressing mathematical physics.
+
+See also
+Formulario mathematico
+Hypercomplex number
+Hyperbolic quaternion
+Non-Euclidean geometry
+
+Notes and references
+The Quaternion Association at MacTutor History of Mathematics archive

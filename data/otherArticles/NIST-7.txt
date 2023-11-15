@@ -1,0 +1,5 @@
+NIST-7 was the atomic clock used by the United States from 1993 to 1999. It was one of a series of Atomic Clocks  at the National Institute of Standards and Technology. Eventually, it achieved an uncertainty of 5 × 10−15. The caesium beam clock served as the nation's primary time and frequency standard during that time period, but it has since been replaced with the more accurate NIST-F1, a caesium fountain atomic clock that neither gains nor loses one second in 100 million years.
+
+References
+External links
+National Institute of Standards and Technology

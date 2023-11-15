@@ -1,0 +1,287 @@
+The cut locus is a mathematical structure defined for a closed set 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   in a space 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   as the closure of the set of all points 
+  
+    
+      
+        p
+        ∈
+        X
+      
+    
+    {\displaystyle p\in X}
+   that have two or more distinct shortest paths or geodesics in 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   from 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   to 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  .
+For example, the cut locus of every point on the regular 2-sphere consists of exactly one point, namely the antipodal point.
+
+Definition in a special case
+Let 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   be a metric space, equipped with the metric 
+  
+    
+      
+        
+          
+            d
+          
+          
+            X
+          
+        
+      
+    
+    {\displaystyle \mathrm {d} _{X}}
+  , and let 
+  
+    
+      
+        x
+        ∈
+        X
+      
+    
+    {\displaystyle x\in X}
+   be a point. The cut locus of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   in 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   (
+  
+    
+      
+        
+          CL
+          
+            X
+          
+        
+        ⁡
+        (
+        x
+        )
+      
+    
+    {\displaystyle \operatorname {CL} _{X}(x)}
+  ), is the locus of all the points in 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   for which there exists at least two distinct shortest paths to 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   in 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  . More formally, 
+  
+    
+      
+        y
+        ∈
+        
+          CL
+          
+            X
+          
+        
+        ⁡
+        (
+        x
+        )
+      
+    
+    {\displaystyle y\in \operatorname {CL} _{X}(x)}
+   for a point 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   in 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   if and only if there exists two paths 
+  
+    
+      
+        γ
+        ,
+        
+          γ
+          ′
+        
+        :
+        I
+        →
+        X
+      
+    
+    {\displaystyle \gamma ,\gamma ':I\to X}
+   such that 
+  
+    
+      
+        γ
+        (
+        0
+        )
+        =
+        
+          γ
+          ′
+        
+        (
+        0
+        )
+        =
+        x
+      
+    
+    {\displaystyle \gamma (0)=\gamma '(0)=x}
+  , 
+  
+    
+      
+        γ
+        (
+        1
+        )
+        =
+        
+          γ
+          ′
+        
+        (
+        1
+        )
+        =
+        y
+      
+    
+    {\displaystyle \gamma (1)=\gamma '(1)=y}
+  , 
+  
+    
+      
+        
+          |
+        
+        γ
+        
+          |
+        
+        =
+        
+          |
+        
+        
+          γ
+          ′
+        
+        
+          |
+        
+        =
+        
+          
+            d
+          
+          
+            X
+          
+        
+        (
+        x
+        ,
+        y
+        )
+      
+    
+    {\displaystyle |\gamma |=|\gamma '|=\mathrm {d} _{X}(x,y)}
+  , and the trajectories of the two paths are distinct.
+
+Examples
+For example, let S be the boundary of a simple polygon, and X the interior of the polygon.
+Then the cut locus is the medial axis of the polygon.  The points on the medial axis are centers of maximal disks that touch the polygon boundary at two or more points, corresponding to two or more
+shortest paths to the disk center.
+As a second example, let S be a point x on the surface of a convex polyhedron P, and X the surface itself.  Then the cut locus of x is what is known as the ridge tree of P with respect to x.  This ridge tree has the property that cutting the surface along its edges unfolds P to a simple planar polygon.  This polygon can be viewed as a net for the polyhedron.
+
+
+== References ==

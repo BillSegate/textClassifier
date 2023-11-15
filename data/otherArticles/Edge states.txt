@@ -1,0 +1,7 @@
+In physics, Edge states are the topologically protected electronic states that exist at the boundary of the material and cannot be removed without breaking the system's symmetry.
+
+Background
+In solid-state physics, quantum mechanics, materials science, physical chemistry and other several disciplines we study the electronic band structure of materials primarily based on the extent of the band gap, the gap between highest occupied valance bands and lowest unoccupied conduction bands. We can represent the possible energy level of the material that provides the discrete energy values of all possible states in the energy profile diagram by solving the Hamiltonian of the system. This solution provides the corresponding energy eigenvalues and eigenvectors. Based on the energy eigenvalues, conduction band are the high energy states (E>0) while valance bands are the low energy states (E<0). In some materials, for example, in graphene and zigzag graphene quantum dot, there exists the energy states having energy eigenvalues exactly equal to zero (E=0) besides the conduction and valance bands. These states are called edge states which modifies the electronic and optical properties of the materials significantly.
+
+
+== References ==

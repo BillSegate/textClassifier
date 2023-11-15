@@ -1,0 +1,5 @@
+Society for the Promotion of LCA Development (SPOLD) was the association of multiple companies that wanted to create a file format that would help mold Life-cycle assessment (LCA) software into a better management tool. The  SPOLD format, which was created for this task, was meant to be implemented in LCA software so that it could exchange more reliable data in inventories.
+The original SPOLD format was created in 1997, but was later replaced in 1999 with a newer version. The SPOLD format was then replaced by the ecoSPOLD, which was later integrated with LCA software, replacing the original SPOLD format. SPOLD was discontinued in 2001.
+
+
+== References ==

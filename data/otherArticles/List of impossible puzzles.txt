@@ -1,0 +1,16 @@
+This is a list of puzzles that cannot be solved. An impossible puzzle is a puzzle that cannot be resolved, either due to lack of sufficient information, or any number of logical impossibilities.
+
+15 puzzle – Slide fifteen numbered tiles into numerical order. Impossible for half of the starting positions.
+Five room puzzle – Cross each wall of a diagram exactly once with a continuous line.
+MU puzzle – Transform the string MI to MU according to a set of rules.
+Mutilated chessboard problem – Place 31 dominoes of size 2×1 on a chessboard with two opposite corners removed.
+Coloring the edges of the Petersen graph with three colors.
+Seven Bridges of Königsberg – Walk through a city while crossing each of seven bridges exactly once.
+Three cups problem – Turn three cups right-side up after starting with one wrong and turning two at a time.
+Three utilities problem – Connect three cottages to gas, water, and electricity without crossing lines.
+Thirty-six officers problem – Arrange six regiments consisting of six officers each of different ranks in a 6 × 6 square so that no rank or regiment is repeated in any row or column.
+
+See also
+Impossible Puzzle, or "Sum and Product Puzzle", which is not impossible
+-gry, a word puzzle
+List of undecidable problems, no algorithm can exist to answer a yes–no question about the input

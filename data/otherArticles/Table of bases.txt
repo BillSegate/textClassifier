@@ -1,0 +1,11 @@
+This table of bases gives the values of 0 to 256 in bases 2 to 36, using A−Z for 10−35.
+"Base" (or "radix") is a term used in discussions of numeral systems which use place-value notation for representing numbers.
+Base 10 is in bold.
+All 10s are in italic.
+
+See also
+Numeral system
+List of numeral systems
+
+
+== References ==

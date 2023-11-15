@@ -1,0 +1,15 @@
+Mathematical knowledge management (MKM) is the study of how society can effectively make use of the vast and growing literature on mathematics. It studies approaches such as databases of mathematical knowledge, automated processing of formulae and the use of semantic information, and artificial intelligence. Mathematics is particularly suited to a systematic study of automated knowledge processing due to the high degree of interconnectedness between different areas of mathematics.
+
+See also
+OMDoc
+QED manifesto
+Areas of mathematics
+MathML
+
+External links
+Hazewinkel, Michiel (November 2003). "Mathematical knowledge management is needed". arXiv:cs/0410055. We don't even know how much we know that we don't know we know
+www.nist.gov/mathematical-knowledge-management, NIST's MKM page
+The MKM Interest Group (archived)
+9th International Conference on MKM, Paris, France, 2010
+Big Proof Conference , a programme at the Isaac Newton Institute directed at the challenges of bringing proof technology into mainstream mathematical practice.
+Big Proof Two

@@ -1,0 +1,28 @@
+The history of arithmetic includes the period from the emergence of counting before the formal definition of numbers and arithmetic operations over them by means of a system of axioms. Arithmetic — the science of numbers, their properties and their relations — is one of the main mathematical sciences. It is closely connected with algebra and the theory of numbers.
+The practical need for counting, elementary measurements and calculations became the reason for the emergence of arithmetic. The first authentic data on arithmetic knowledge are found in the historical monuments of Babylon and Ancient Egypt in the third and second millennia BC. The big contribution to the development of arithmetic was made by the ancient Greek mathematicians, in particular Pythagoreans, who tried to define all regularities of the world in terms of numbers. In the Middle Ages trade and approximate calculations were the main scope of arithmetic. Arithmetic developed first of all in India and the countries of Islam and only then came to Western Europe. In the seventeenth century the needs of astronomy, mechanics, and more difficult commercial calculations put before arithmetic new challenges regarding methods of calculation and gave an impetus to further development.
+Theoretical justifications of the idea of number are connected first of all with the definition of "natural number" and Peano's axioms formulated in 1889. They were followed by strict definitions of rational, real, negative and complex numbers. Further expansion of the concept of number is possible only if one of the arithmetic laws is rejected.
+
+The  appearance of arithmetic
+If in two sets of subjects each element of one set has only one corresponding element in the other set, these sets are one-to-one. Such actual comparison when subjects were displayed in two ranks, was used by primitive tribes in trade. This approach gives the opportunity to establish quantitative ratios between groups of objects and doesn't demand the concept of number.
+Further there were natural standards for counting, for example, fingers of hands, and then sets of standards, such as hands. The advent of the standards symbolizing concrete numbers also is connected to the emergence of the concept of number. Thus the number of things to be counted was compared to the Moon in the sky, the number of eyes, and the number of fingers on a hand. Later numerous standards were replaced with one of the most convenient, usually fingers of hands and/or feet.
+
+See also
+Abacus – Calculating tool
+Alphabetic numeral system – Type of numeral system
+Counting rods – East Asian numeral systemPages displaying wikidata descriptions as a fallback
+History of ancient numeral systems – Symbols representing numbers
+History of floating-point arithmetic – Computer approximation for real numbersPages displaying short descriptions of redirect targets
+History of the Hindu–Arabic numeral system
+History of mathematics
+History of numbers – Used to count, measure, and labelPages displaying short descriptions of redirect targets
+Jeton – Coin-like counting token
+List of numeral system topics
+List of numeral systems
+Prehistoric counting – Numbering before written text
+Relationship between mathematics and physics – Study of how mathematics and physics relate to each other
+Number theory – Mathematics of integer properties
+Timeline of numerals and arithmetic – Timeline of arithmetic
+Timeline of mathematics
+
+
+== References ==

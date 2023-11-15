@@ -1,0 +1,144 @@
+This is a list of known and hypothesized particles.
+
+Standard Model elementary particles
+Elementary particles are particles with no measurable internal structure; that is, it is unknown whether they are composed of other particles. They are the fundamental objects of quantum field theory. Many families and sub-families of elementary particles exist. Elementary particles are classified according to their spin. Fermions have half-integer spin while bosons have integer spin. All the particles of the Standard Model have been experimentally observed, including the Higgs boson in 2012. Many other hypothetical elementary particles, such as the graviton, have been proposed, but not observed experimentally.
+
+Fermions
+Fermions are one of the two fundamental classes of particles, the other being bosons. Fermion particles are described by Fermi–Dirac statistics and have quantum numbers described by the Pauli exclusion principle. They include the quarks and leptons, as well as any composite particles consisting of an odd number of these, such as all baryons and many atoms and nuclei.
+Fermions have half-integer spin; for all known elementary fermions this is 1⁄2. All known fermions except neutrinos, are also Dirac fermions; that is, each known fermion has its own distinct antiparticle. It is not known whether the neutrino is a Dirac fermion or a Majorana fermion. Fermions are the basic building blocks of all matter. They are classified according to whether they interact via the strong interaction or not. In the Standard Model, there are 12 types of elementary fermions: six quarks and six leptons.
+
+Quarks
+Quarks are the fundamental constituents of hadrons and interact via the strong force. Quarks are the only known carriers of fractional charge, but because they combine in groups of three quarks (baryons) or in pairs of one quark and one antiquark (mesons), only integer charge is observed in nature. Their respective antiparticles are the antiquarks, which are identical except that they carry the opposite electric charge (for example the up quark carries charge +2⁄3, while the up antiquark carries charge −2⁄3), color charge, and baryon number. There are six flavors of quarks; the three positively charged quarks are called "up-type quarks" while the three negatively charged quarks are called "down-type quarks".
+
+Leptons
+Leptons do not interact via the strong interaction. Their respective antiparticles are the antileptons, which are identical, except that they carry the opposite electric charge and lepton number. The antiparticle of an electron is an antielectron, which is almost always called a "positron" for historical reasons. There are six leptons in total; the three charged leptons are called "electron-like leptons", while the neutral leptons are called "neutrinos". Neutrinos are known to oscillate, so that neutrinos of definite flavor do not have definite mass, rather they exist in a superposition of mass eigenstates. The hypothetical heavy right-handed neutrino, called a "sterile neutrino", has been omitted.
+
+Bosons
+Bosons are one of the two fundamental particles having integral spinclasses of particles, the other being fermions. Bosons are characterized by Bose–Einstein statistics and all have integer spins. Bosons may be either elementary, like photons and gluons, or composite, like mesons.
+According to the Standard Model, the elementary bosons are:
+
+The Higgs boson is postulated by the electroweak theory primarily to explain the origin of particle masses. In a process known as the "Higgs mechanism", the Higgs boson and the other gauge bosons in the Standard Model acquire mass via spontaneous symmetry breaking of the SU(2) gauge symmetry. The Minimal Supersymmetric Standard Model (MSSM) predicts several Higgs bosons. On 4 July 2012, the discovery of a new particle with a mass between 125 and 127 GeV/c2 was announced; physicists suspected that it was the Higgs boson. Since then, the particle has been shown to behave, interact, and decay in many of the ways predicted for Higgs particles by the Standard Model, as well as having even parity and zero spin, two fundamental attributes of a Higgs boson. This also means it is the first elementary scalar particle discovered in nature.
+Elementary bosons responsible for the four fundamental forces of nature are called force particles (gauge bosons). Strong interaction is mediated by the gluon, weak interaction is mediated by the W and Z bosons.
+
+Hypothetical particles
+Graviton
+The graviton is a hypothetical particle that has been included in some extensions to the standard model to mediate the gravitational force. It is in a peculiar category between known and hypothetical particles: As an unobserved particle that is not predicted by, nor required for the Standard Model, it belongs in the table of hypothetical particles, below. But gravitational force itself is a certainty, and expressing that known force in the framework of a quantum field theory requires a boson to mediate it.
+If it exists, the graviton is expected to be massless because the gravitational force has a very long range, and appears to propagate at the speed of light. The graviton must be a spin-2 boson because the source of gravitation is the stress–energy tensor, a second-order tensor (compared with electromagnetism's spin-1 photon, the source of which is the four-current, a first-order tensor). Additionally, it can be shown that any massless spin-2 field would give rise to a force indistinguishable from gravitation, because a massless spin-2 field would couple to the stress–energy tensor in the same way that gravitational interactions do. This result suggests that, if a massless spin-2 particle is discovered, it must be the graviton.
+
+Particles predicted by supersymmetric theories
+Supersymmetric theories predict the existence of more particles, none of which have been confirmed experimentally.
+
+Just as the photon, Z boson and W± bosons are superpositions of the B0, W0, W1, and W2 fields, the photino, zino, and wino± are superpositions of the bino0, wino0, wino1, and wino2. No matter if one uses the original gauginos or this superpositions as a basis, the only predicted physical particles are neutralinos and charginos as a superposition of them together with the Higgsinos.
+
+Other hypothetical bosons and fermions
+Other theories predict the existence of additional elementary bosons and fermions, with some theories also postulating additional superpartners for these particles:
+
+Other hypothetical elementary particles
+Higgs doublets are hypothesized by some theories of physics beyond the standard model.
+Kaluza–Klein towers of particles are predicted by some models of extra dimensions. The extra-dimensional momentum is manifested as extra mass in four-dimensional spacetime.
+Leptoquarks are bosons carrying both baryon and lepton numbers predicted by various extensions of the Standard Model such as technicolor theories.
+Mirror particles are predicted by theories that restore parity symmetry.
+"Magnetic monopole" is a generic name for particles with non-zero magnetic charge. They are predicted by some GUTs.
+Preons were suggested as subparticles of quarks and leptons, but modern collider experiments have all but ruled out their existence.
+
+Composite particles
+Composite particles are bound states of elementary particles.
+
+Hadrons
+Hadrons are defined as strongly interacting composite particles. Hadrons are either:
+
+Composite fermions (especially 3 quarks), in which case they are called baryons.
+Composite bosons (especially 2 quarks), in which case they are called mesons.Quark models, first proposed in 1964 independently by Murray Gell-Mann and George Zweig (who called quarks "aces"), describe the known hadrons as composed of valence quarks and/or antiquarks, tightly bound by the color force, which is mediated by gluons. (The interaction between quarks and gluons is described by the theory of quantum chromodynamics.) A "sea" of virtual quark-antiquark pairs is also present in each hadron.
+
+Baryons
+Ordinary baryons (composite fermions) contain three valence quarks or three valence antiquarks each.
+
+Nucleons are the fermionic constituents of normal atomic nuclei:
+Protons, composed of two up and one down quark (uud)
+Neutrons, composed of two down and one up quark (ddu)
+Hyperons, such as the Λ, Σ, Ξ, and Ω particles, which contain one or more strange quarks, are short-lived and heavier than nucleons. Although not normally present in atomic nuclei, they can appear in short-lived hypernuclei.
+A number of charmed and bottom baryons have also been observed.
+Pentaquarks consist of four valence quarks and one valence antiquark.
+Other exotic baryons may also exist.
+
+Mesons
+Ordinary mesons are made up of a valence quark and a valence antiquark. Because mesons have integer spin (0 or 1) and are not themselves elementary particles, they are classified as “composite“ bosons, although being made of elementary fermions. Examples of mesons include the pion, kaon, and the J/ψ. In quantum hadrodynamics, mesons mediate the residual strong force between nucleons.
+At one time or another, positive signatures have been reported for all of the following exotic mesons  but their existences have yet to be confirmed.
+
+A tetraquark consists of two valence quarks and two valence antiquarks;
+A glueball is a bound state of gluons with no valence quarks;
+Hybrid mesons consist of one or more valence quark–antiquark pairs and one or more real gluons.
+
+Atomic nuclei
+Atomic nuclei typically consist of protons and neutrons, although exotic nuclei may consist of other baryons, such as hypertriton which contains a hyperon. These baryons (protons, neutrons, hyperons, etc.) which comprise the nucleus are called nucleons. Each type of nucleus is called a "nuclide", and each nuclide is defined by the specific number of each type of nucleon.
+
+"Isotopes" are nuclides which have the same number of protons but differing numbers of neutrons.
+Conversely, "isotones" are nuclides which have the same number of neutrons but differing numbers of protons.
+"Isobars" are nuclides which have the same total number of nucleons but which differ in the number of each type of nucleon. Nuclear reactions can change one nuclide into another.
+
+Atoms
+Atoms are the smallest neutral particles into which matter can be divided by chemical reactions. An atom consists of a small, heavy nucleus surrounded by a relatively large, light cloud of electrons. An atomic nucleus typically consists of 1 or more protons and 0 or more neutrons. Protons and neutrons are, in turn, made of quarks. Each type of atom corresponds to a specific chemical element. To date, 118 elements have been discovered or created.
+Exotic atoms may be composed of particles in addition to or in place of protons, neutrons, and electrons, such as hyperons or muons. Examples include pionium (π− π+) and quarkonium atoms.
+
+Leptonic atoms
+Leptonic atoms, named using -onium, are exotic atoms constituted by the bound state of a lepton and an antilepton. Examples of such atoms include positronium (e− e+), muonium (e− μ+), and "true muonium" (μ− μ+). Of these positronium and muonium have been experimentally observed, while "true muonium" remains only theoretical.
+
+Molecules
+Molecules are the smallest particles into which a substance can be divided while maintaining the chemical properties of the substance. Each type of molecule corresponds to a specific chemical substance. A molecule is a composite of two or more atoms. Atoms are combined in a fixed proportion to form a molecule. Molecule is one of the most basic units of matter.
+
+Ions
+Ions are charged atoms (monatomic ions) or molecules (polyatomic ions). They include cations which have a net positive charge, and anions which have a net negative charge.
+
+Quasiparticles
+Quasiparticles are effective particles that exist in many particle systems. The field equations of condensed matter physics are remarkably similar to those of high energy particle physics. As a result, much of the theory of particle physics applies to condensed matter physics as well; in particular, there are a selection of field excitations, called quasi-particles, that can be created and explored. These include:
+
+Anyons are a generalization of fermions and bosons in two-dimensional systems like sheets of graphene that obeys braid statistics.
+Dislons are localized collective excitations of a crystal dislocation around the static displacement.
+Excitons are bound states of an electron and a hole.
+Hopfions are topological solitons which are the 3D counterpart of the skyrmion.
+Magnons are coherent excitations of electron spins in a material.
+Phonons are vibrational modes in a crystal lattice.
+Plasmons are coherent excitations of a plasma.
+Plektons are theoretical kind of particle discussed as a generalization of the braid statistics of the anyon to more than two dimensions.
+Polaritons are mixtures of photons with other quasi-particles.
+Polarons are moving, charged (quasi-) particles that are surrounded by ions in a material.
+Skyrmions are a topological solution of the pion field, used to model the low-energy properties of the nucleon, such as the axial vector current coupling and the mass.
+
+Dark matter candidates
+The following categories are not unique or distinct: For example, either a WIMP or a WISP is also a FIP.
+
+A WIMP (weakly interacting massive particle) is any one of a number of particles that might explain dark matter (such as the neutralino or the sterile neutrino)
+A WISP (weakly interacting slender particle) is any one of a number of low mass particles that might explain dark matter (such as the axion)
+A GIMP (gravitationally interacting massive particle) is a particle which provides an alternative explanation of dark matter, instead of the aforementioned WIMP
+A SIMP (strongly interacting massive particle) is a particle that interact strongly between themselves and weakly with ordinary matter and could form dark matter
+A SMP (stable massive particle) is a particle that is long-lived and has appreciable mass that could be dark matter
+A FIP (feebly interacting particle) is a particle that interacts very weakly with conventional matter and could account for dark matter
+A LSP (lightest supersymmetric particle) is a particle found in supersymmetric models as a contender of WIMPs
+
+Dark energy candidates
+Chameleon particle a possible candidate for dark energy
+Acceleron particle another candidate for dark energy
+
+Classification by speed
+A bradyon (or tardyon) travels slower than the speed of light in vacuum and has a non-zero, real rest mass.
+A luxon travels as fast as light in vacuum and has no rest mass.
+A tachyon is a hypothetical particle that travels faster than the speed of light so they would paradoxically experience time in reverse (due to inversion of the theory of relativity) and would violate the known laws of causality. A tachyon has an imaginary rest mass.
+
+Other
+Calorons, finite temperature generalization of instantons.
+Dyons are hypothetical particles with both electric and magnetic charges.
+Geons are electromagnetic or gravitational waves which are held together in a confined region by the gravitational attraction of their own field of energy.
+Goldstone bosons are a massless excitation of a field that has been spontaneously broken. The pions are quasi-goldstone bosons (quasi- because they are not exactly massless) of the broken chiral isospin symmetry of quantum chromodynamics.
+Goldstinos are fermions produced by the spontaneous breaking of supersymmetry; they are the supersymmetric counterpart of Goldstone bosons.
+Sphalerons are a field configuration which is a saddle point of the Yang–Mills field equations. Sphalerons are used in nonperturbative calculations of non-tunneling rates.
+Instantons, a field configuration which is a local minimum of the Yang–Mills field equation. Instantons are used in nonperturbative calculations of tunneling rates.
+Meron, a field configuration which is a non-self-dual solution of the Yang–Mills field equation. The instanton is believed to be composed of two merons.
+Pomerons, used to explain the elastic scattering of hadrons and the location of Regge poles in Regge theory. A counterpart to odderons.
+Odderon, a particle composed of a odd number of gluons, detected in 2021. A counterpart to pomerons.
+Minicharged particle are hypothetical subatomic particles charged with a tiny fraction of the electron charge.
+Continuous spin particle are hypothetical massless particles related to the classification of the representations of the Poincaré group
+
+See also
+
+
+== References ==

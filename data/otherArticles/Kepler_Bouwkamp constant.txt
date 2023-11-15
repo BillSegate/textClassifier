@@ -1,0 +1,199 @@
+In plane geometry, the Kepler–Bouwkamp constant (or polygon inscribing constant) is obtained as a limit of the following sequence. Take a circle of radius 1. Inscribe a regular triangle in this circle. Inscribe a circle in this triangle. Inscribe a square in it. Inscribe a circle, regular pentagon, circle, regular hexagon and so forth. 
+The radius of the limiting circle is called the Kepler–Bouwkamp constant. It is named after Johannes Kepler and Christoffel Bouwkamp, and is the inverse of the polygon circumscribing constant.
+
+Numerical value
+The decimal expansion of the Kepler–Bouwkamp constant is (sequence A085365 in the OEIS)
+
+  
+    
+      
+        
+          ∏
+          
+            k
+            =
+            3
+          
+          
+            ∞
+          
+        
+        cos
+        ⁡
+        
+          (
+          
+            
+              π
+              k
+            
+          
+          )
+        
+        =
+        0.1149420448
+        …
+        .
+      
+    
+    {\displaystyle \prod _{k=3}^{\infty }\cos \left({\frac {\pi }{k}}\right)=0.1149420448\dots .}
+  
+The natural logarithm of the Kepler-Bouwkamp constant is given by
+
+  
+    
+      
+        −
+        2
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              
+                2
+                
+                  2
+                  k
+                
+              
+              −
+              1
+            
+            
+              2
+              k
+            
+          
+        
+        ζ
+        (
+        2
+        k
+        )
+        
+          (
+          
+            ζ
+            (
+            2
+            k
+            )
+            −
+            1
+            −
+            
+              
+                1
+                
+                  2
+                  
+                    2
+                    k
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle -2\sum _{k=1}^{\infty }{\frac {2^{2k}-1}{2k}}\zeta (2k)\left(\zeta (2k)-1-{\frac {1}{2^{2k}}}\right)}
+  where 
+  
+    
+      
+        ζ
+        (
+        s
+        )
+        =
+        
+          ∑
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            1
+            
+              n
+              
+                s
+              
+            
+          
+        
+      
+    
+    {\displaystyle \zeta (s)=\sum _{n=1}^{\infty }{\frac {1}{n^{s}}}}
+   is the Riemann zeta function.
+If the product is taken over the odd primes, the constant
+
+  
+    
+      
+        
+          ∏
+          
+            k
+            =
+            3
+            ,
+            5
+            ,
+            7
+            ,
+            11
+            ,
+            13
+            ,
+            17
+            ,
+            …
+          
+        
+        cos
+        ⁡
+        
+          (
+          
+            
+              π
+              k
+            
+          
+          )
+        
+        =
+        0.312832
+        …
+      
+    
+    {\displaystyle \prod _{k=3,5,7,11,13,17,\ldots }\cos \left({\frac {\pi }{k}}\right)=0.312832\ldots }
+  is obtained (sequence A131671 in the OEIS).
+
+References
+Further reading
+Kitson, Adrian R. (2006). "The prime analog of the Kepler–Bouwkamp constant". arXiv:math/0608186.
+Kitson, Adrian R. (2008). "The prime analogue of the Kepler-Bouwkamp constant". The Mathematical Gazette. 92: 293. doi:10.1017/S0025557200183214. S2CID 117950145.
+Doslic, Tomislav (2014). "Kepler-Bouwkamp radius of combinatorial sequences". Journal of Integer Sequence. 17: 14.11.3.
+
+External links
+Weisstein, Eric W. "Polygon Inscribing". MathWorld.

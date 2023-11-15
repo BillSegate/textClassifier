@@ -1,0 +1,4 @@
+In mathematics, the Kantor double is a Jordan superalgebra structure on the sum of two copies of a Poisson algebra. It is named after Isaiah Kantor, who introduced it in Kantor (1990).
+
+References
+Kantor, I. L. (1990), "Connection between Poisson brackets and Jordan and Lie superalgebras", in Hussin, Véronique (ed.), Lie theory, differential equations and representation theory (Montreal, PQ, 1989), Proceedings of the Annual Seminar of the Canadian Mathematical Society held at the Université de Montréal, Montreal, QC: Centre De Recherches Mathematiques, Univ. Montréal, pp. 213–225, ISBN 978-2-921120-03-6, MR 1121965

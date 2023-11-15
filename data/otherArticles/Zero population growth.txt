@@ -1,0 +1,55 @@
+Zero population growth, sometimes abbreviated ZPG, is a condition of demographic balance where the number of people in a specified population neither grows nor declines; that is, the number of births plus in-migrants equals the number of deaths plus out-migrants. ZPG has been a prominent political movement since the 1960s.
+As part of the concept of optimum population, the movement considers zero population growth to be an objective towards which countries and the whole world should strive in the interests of accomplishing long-term optimal standards and conditions of living.
+
+Definition
+The growth rate of a population in a given year equals the number of births minus the number of deaths plus immigration minus emigration expressed as a percentage of the population at the beginning of the given year.For example, suppose a country begins a year with one million people and during the year experiences one hundred thousand births, eighty thousand deaths, one thousand immigrants and two hundred emigrants.  
+          Change in population = 100,000 – 80,000 +1,000 – 200 = 20,800 
+          Population growth rate = (20,800 ÷ 1,000,000) x 100% = 2.1%
+Zero population growth for a country occurs when the sum of these four numbers – births minus deaths plus immigration minus emigration - is zero.
+To illustrate, suppose a country begins the year with one million people and during the year experiences 85,000 births, 86,000 deaths, 1,500 immigrants and 500 emigrants.           
+          Change in population = 85,000 – 86,000 + 1,500 – 500 = 0
+          Population growth rate = (0 ÷ 1,000,000) x 100% = 0%
+For the planet Earth as a whole, zero population growth occurs when the number of births equals the number of deaths.
+
+History
+The American sociologist and demographer Kingsley Davis is credited with coining the term. However, it was used earlier by George J. Stolnitz, who stated that the concept of a stationary population dated back to 1693.  A mathematical description was given by James Mirrlees.In the late 1960s, ZPG became a prominent political movement in the U.S. and parts of Europe, with strong links to environmentalism and feminism. Yale University was a stronghold of the ZPG activists who believed "that a constantly increasing population is responsible for many of our problems: pollution, violence, loss of values and of individual privacy." Prominent advocates of the movement were Paul Ehrlich, author of The Population Bomb, Richard Bowers, a Connecticut lawyer, and Professor Charles Lee Remington.
+
+Effects
+In the long term, zero population growth can be achieved when the birth rate of a population equals the death rate. That is, the total fertility rate is at replacement level and birth and death rates are stable, a condition also called demographic equilibrium. Unstable rates can lead to drastic changes in population levels. This analysis is valid for the planet as a whole (assuming that interplanetary travel remains at zero or negligible levels), but not necessarily for a region or country as it ignores migration. 
+Even though the total fertility rate of a population reaches replacement level, that population will continue to change because of population momentum. A population that has been growing in the past will have a higher proportion of young people.  As it is younger people who have children, there is large time lag between the point at which the fertility rate (mean total number of children each woman has during her childbearing years) falls to the replacement level (the fertility rate which would result in equal birth and death rates for a population at equilibrium) and the point at which the population stops rising. The reason for this is that even though the fertility rate has dropped to replacement level, people already continue to live for some time within a population. Therefore, equilibrium, with a static population, will not be reached until the first "replacement level" birth cohorts reach old age and die. The related calculations are complex because the population's overall death rate can vary over time, and mortality also varies with age (being highest among the old).
+Conversely, with fertility below replacement, a large elderly generation eventually results (as in an aging "baby boom"); but since that generation failed to replace itself during its fertile years, a subsequent "population bust", or decrease in population, will occur when the older generation dies off. This effect has been termed birth dearth. In addition, if a country's fertility is at replacement level, and has been that way for at least several decades (to stabilize its age distribution), then that country's population could still experience coincident growth due to continuously increasing life expectancy, even though the population growth is likely to be smaller than it would be from natural population increase.
+Zero population growth is often a goal of demographic planners and environmentalists who believe that reducing population growth is essential for the health of the ecosystem. Preserving cultural traditions and ethnic diversity is a factor for not allowing human populations levels or rates to fall too low. Achieving ZPG is difficult because a country's population growth is often determined by economic factors, incidence of poverty, natural disasters, disease, etc.
+However, even if there is zero population growth, there may be changes in demographics of great importance to economic factors, such as changes in age distribution.
+
+Reaching zero population growth
+Albert Bartlett, who was a professor of physics at the University of Colorado at Boulder, suggested that a population has the following choices to achieve ZPG:
+Voluntarily limit births and immigration to achieve zero population growth;
+Continue on the present path until the population is so large that draconian measures become necessary to stop the growth of population;
+Do nothing and let nature stop the growth through disease, starvation, war, and pestilence. If humans do not solve the problem, nature will.Similarly, Jason Brent argues that there are three ways to achieve zero population growth. His argument is as follows:
+By war, with or without weapons of mass destruction, starvation, disease, rape, murder, ethnic cleansing, concentration camps, and other horrors beyond the imagination, when humanity has exceeded the carrying capacity of the Earth.
+By the voluntary action of all of humanity prior to the human population exceeding the carrying capacity of the Earth. If any group or even if a single-family failed to control its population the entire program would fail.
+By coercive population control prior to the human population exceeding the carrying capacity of the Earth.A loosely defined goal of ZPG is to match the replacement fertility rate, which is the average number of children per woman which would hold the population constant. This replacement fertility will depend on mortality rates and the sex ratio at birth, and varies from around 2.1 in developed countries to over 3.0 in some developing countries.
+
+In China
+China is the largest country by population in the world, having some 1.4 billion people (as of 2021). China is expected to have a zero population growth rate by 2031.China's population growth has slowed since the beginning of this century. This has been mostly the result of China's economic growth and increasing living standards. However, many demographers also credit China's family planning policy, formulated in the early 1970s, that encouraged late marriages, late childbearing, and the use of contraceptives, and after 1980 limited most urban couples to one child and most rural couples to two children. 
+According to government projections, the long-term effect of these policies will be a reduction of the working-age population to 700 million by 2050 vs 925 million in 2011, a decline of 24%.  In November 2013, a relaxation of the one-child policy was announced amid unpopularity and the forecast of a reduced labor pool and support for an aging population.
+
+In Europe
+In Japan
+See also
+Demographic transition
+List of population concern organizations
+Overpopulation
+Human population planning
+Population Matters
+Steady-state economy
+World Scientists' Warning to Humanity
+Z.P.G.—A science-fiction movie concerning the topic of zero population growth.
+
+References
+Further reading
+"Human population numbers as a function of food supply" (PDF). Russel Hopfenburg, David Pimentel, Duke University, Durham, NC, USA;2Cornell University, Ithaca, NY, USA.
+
+External links
+Population Connection
+Enviro, Population Movements Merge Goals for Healthier Planet

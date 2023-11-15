@@ -1,0 +1,885 @@
+In mathematical physics, two-dimensional Yang–Mills theory is the special case of Yang–Mills theory in which the dimension of spacetime is taken to be two. This special case allows for a rigorously defined Yang–Mills measure, meaning that the (Euclidean) path integral can be interpreted as a measure on the set of connections modulo gauge transformations. This situation contrasts with the four-dimensional case, where a rigorous construction of the theory as a measure is currently unknown. 
+An aspect of the subject of particular interest is the large-N limit, in which the structure group is taken to be the unitary group 
+  
+    
+      
+        U
+        (
+        N
+        )
+      
+    
+    {\displaystyle U(N)}
+   and then the 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   tends to infinity limit is taken. The large-N limit of two-dimensional Yang–Mills theory has connections to string theory.
+
+Background
+Interest in the Yang–Mills measure comes from a statistical mechanical or constructive quantum field theoretic approach to formulating a quantum theory for the Yang–Mills field. A gauge field is described mathematically by a 1-form 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   on a principal 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  -bundle over a manifold 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   taking values in the Lie algebra 
+  
+    
+      
+        L
+        (
+        G
+        )
+      
+    
+    {\displaystyle L(G)}
+   of the Lie group 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  . We assume that the structure group 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  , which describes the physical symmetries of the gauge field, is a compact Lie group with a bi-invariant metric on the Lie algebra 
+  
+    
+      
+        L
+        (
+        G
+        )
+      
+    
+    {\displaystyle L(G)}
+  , and we also assume given a Riemannian metric on the manifold 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  . The Yang–Mills action functional is given by
+
+where 
+  
+    
+      
+        
+          F
+          
+            A
+          
+        
+      
+    
+    {\displaystyle F^{A}}
+   is the curvature of the connection form 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  , the norm-squared in the integrand comes from the metric on the Lie algebra and the one on the base manifold, and 
+  
+    
+      
+        
+          σ
+          
+            M
+          
+        
+      
+    
+    {\displaystyle \sigma _{M}}
+   is the Riemannian volume measure on 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  .
+The measure 
+  
+    
+      
+        
+          μ
+          
+            T
+          
+        
+      
+    
+    {\displaystyle \mu _{T}}
+    is given formally by
+
+as a normalized probability measure on the space of all connections on the bundle, with 
+  
+    
+      
+        T
+        >
+        0
+      
+    
+    {\displaystyle T>0}
+   a parameter, and 
+  
+    
+      
+        
+          Z
+          
+            T
+          
+        
+      
+    
+    {\displaystyle Z_{T}}
+   is a formal normalizing constant. More precisely, the probability measure is more likely to be meaningful on the space of orbits of connections under gauge transformations.
+
+The Yang–Mills measure for two-dimensional manifolds
+Study of Yang–Mills theory in two dimensions dates back at least to work of A. A. Migdal in 1975. Some formulas appearing in Migdal's work can, in retrospect, be seen to be connected to the heat kernel on the structure group of the theory. The role of the heat kernel was made more explicit in various works in the late 1970s, culminating in the introduction of the heat kernel action in work of Menotti and Onofri in 1981.In the continuum theory, the Yang–Mills measure 
+  
+    
+      
+        
+          μ
+          
+            T
+          
+        
+      
+    
+    {\displaystyle \mu _{T}}
+   was rigorously defined for the case where 
+  
+    
+      
+        M
+        =
+        
+          
+            
+              R
+            
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle M={\mathbb {R} }^{2}}
+   by  Bruce Driver and by Leonard Gross, Christopher King, and Ambar Sengupta. For compact manifolds, both oriented and non-oriented, with or without boundary, with specified bundle topology, the Yang–Mills measure was constructed by Sengupta In this approach the 2-dimensional Yang–Mills measure is constructed by using a Gaussian measure on an infinite-dimensional space conditioned to satisfy relations implied by the topologies of the surface and of the bundle. Wilson loop variables (certain important variables on the space) were defined using stochastic differential equations and their expected values computed explicitly and found to agree with the results of the heat kernel action. 
+Dana S. Fine used the formal Yang–Mills  functional integral to compute loop expectation values. Other approaches include that of Klimek and Kondracki and Ashtekar et al. Thierry Lévy constructed the 2-dimensional Yang–Mills measure in a very general framework, starting with the loop-expectation value formulas and constructing the measure, somewhat analogously to Brownian motion measure being constructed from transition probabilities. Unlike other works that also aimed to construct the measure from loop expectation values, Lévy's construction makes it possible to consider a very wide family of loop observables.
+The  discrete Yang–Mills measure is a term that has been used for the lattice gauge theory version of the Yang–Mills measure, especially for compact surfaces. The lattice in this case is a triangulation of the surface. Notable facts are: (i) the discrete Yang–Mills measure can encode the topology of the bundle over the continuum surface even if only the triangulation is used to define the measure; (ii) when two surfaces are sewn along a common boundary loop, the corresponding discrete Yang–Mills measures convolve to yield the measure for the combined surface.
+
+Wilson loop expectation values in 2 dimensions
+For a piecewise smooth loop 
+  
+    
+      
+        γ
+      
+    
+    {\displaystyle \gamma }
+   on the base manifold 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   and a point 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+   on the fiber in the principal 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  -bundle 
+  
+    
+      
+        P
+        →
+        M
+      
+    
+    {\displaystyle P\to M}
+   over the base point 
+  
+    
+      
+        o
+        ∈
+        M
+      
+    
+    {\displaystyle o\in M}
+   of the loop, there is the holonomy 
+  
+    
+      
+        
+          h
+          
+            γ
+          
+        
+        (
+        A
+        )
+      
+    
+    {\displaystyle h_{\gamma }(A)}
+   of any connection 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   on the bundle. For regular loops 
+  
+    
+      
+        
+          γ
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          γ
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \gamma _{1},\ldots ,\gamma _{n}}
+  , all based at 
+  
+    
+      
+        o
+      
+    
+    {\displaystyle o}
+   and any function 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   on 
+  
+    
+      
+        
+          G
+          
+            n
+          
+        
+      
+    
+    {\displaystyle G^{n}}
+   the function 
+  
+    
+      
+        A
+        ↦
+        φ
+        
+          
+            (
+          
+        
+        
+          h
+          
+            
+              γ
+              
+                1
+              
+            
+          
+        
+        (
+        A
+        )
+        ,
+        …
+        ,
+        
+          h
+          
+            
+              γ
+              
+                n
+              
+            
+          
+        
+        (
+        A
+        )
+        
+          
+            )
+          
+        
+      
+    
+    {\displaystyle A\mapsto \varphi {\bigl (}h_{\gamma _{1}}(A),\ldots ,h_{\gamma _{n}}(A){\bigr )}}
+   is called a Wilson loop variable, of interest mostly when 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   is a product of traces of the holonomies in representations of the group 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  . With 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   being a two-dimensional Riemannian manifold the loop expectation values
+
+were  computed in the above-mentioned works.
+If 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   is the plane then
+
+where 
+  
+    
+      
+        
+          Q
+          
+            t
+          
+        
+        (
+        y
+        )
+      
+    
+    {\displaystyle Q_{t}(y)}
+   is the heat kernel on the group 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  , 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   is the area enclosed by the loop 
+  
+    
+      
+        γ
+      
+    
+    {\displaystyle \gamma }
+  , and the integration is with respect to unit-mass Haar measure. This formula was proved by Driver and by Gross et al. using the Gaussian measure construction of the Yang–Mills measure on the plane and by defining parallel transport by interpreting the equation of parallel transport as a  Stratonovich stochastic differential equation.
+If 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   is the 2-sphere then
+
+where now 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   is the area of the region "outside" the loop 
+  
+    
+      
+        γ
+      
+    
+    {\displaystyle \gamma }
+  , and 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   is the total area of the sphere. This formula was proved by Sengupta using the conditioned Gaussian measure construction of the Yang–Mills measure and the result agrees with what one gets by using the heat kernel action of Menotti and Onofri.As an example for higher genus surfaces, if 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   is a torus, then
+
+with 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   being the total area of the torus, and 
+  
+    
+      
+        γ
+      
+    
+    {\displaystyle \gamma }
+   a contractible loop on the torus enclosing an area 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  . This, and counterparts in higher genus as well as for surfaces with boundary and for bundles with nontrivial topology, were proved by Sengupta.There is an extensive physics literature on loop expectation values in two-dimensional Yang–Mills theory. Many of the above formulas were known in the physics literature from the 1970s, with the results initially expressed in terms of a sum over the characters of the gauge group rather than the heat kernel and with the function 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   being the trace in some representation of the group. Expressions involving the heat kernel then appeared explicitly in the form of the "heat kernel action" in work of Menotti and Onofri. The role of the convolution  property of the heat kernel was used in works of Sergio Albeverio et al. in constructing stochastic cosurface processes inspired by Yang–Mills theory and, indirectly, by Makeenko and Migdal in the physics literature.
+
+The low-T limit
+The  Yang–Mills partition function is, formally,
+
+  
+    
+      
+        ∫
+        
+          e
+          
+            −
+            
+              
+                1
+                T
+              
+            
+            
+              S
+              
+                Y
+                M
+              
+            
+            (
+            A
+            )
+          
+        
+        
+        D
+        A
+      
+    
+    {\displaystyle \int e^{-{\frac {1}{T}}S_{YM}(A)}\,DA}
+  In the two-dimensional case we can view this as being (proportional to) the denominator that appears in the loop expectation values. Thus, for example, the partition function for the torus would be
+
+where 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   is the area of the torus. In two of the most impactful works in the field, Edward Witten showed that as 
+  
+    
+      
+        T
+        ↓
+        0
+      
+    
+    {\displaystyle T\downarrow 0}
+   the partition function yields the volume of the moduli space of flat connections with respect to a natural volume measure on the moduli space. This volume measure is associated to a natural symplectic structure on the moduli space when the surface is orientable, and is the torsion of a certain complex in the case where the surface is not orientable. Witten's discovery has been studied in different ways by several researchers. Let 
+  
+    
+      
+        
+          
+            
+              M
+            
+          
+          
+            g
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle {\mathcal {M}}_{g}^{0}}
+   denote the moduli space of flat connections   on a trivial bundle, with structure group being a compact connected semi-simple Lie group 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   whose Lie algebra is equipped with an Ad-invariant metric, over a compact two-dimensional orientable manifold of genus 
+  
+    
+      
+        g
+        ≥
+        2
+      
+    
+    {\displaystyle g\geq 2}
+  . Witten showed that the symplectic volume of this moduli space is given by 
+
+where the sum is over all irreducible representations of 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  . This was proved rigorous by Sengupta (see also the works by Lisa Jeffrey and by Kefeng Liu). There is a large literature on the  symplectic structure on the moduli space of flat connections, and more generally on the moduli space itself, the major early work being that of Michael Atiyah and Raoul Bott.Returning to the Yang–Mills measure, Sengupta proved that the measure itself converges in a weak sense to a suitably scaled multiple of the symplectic volume measure for orientable surfaces of genus 
+  
+    
+      
+        ≥
+        2
+      
+    
+    {\displaystyle \geq 2}
+  . Thierry Lévy and James R. Norris  established a large deviations principle for this convergence, showing that the Yang–Mills measure encodes the Yang–Mills action  functional even though this functional does not explicitly appear in the rigorous formulation of the measure.
+
+The large-N limit
+The large-N limit of gauge theories refers to the behavior of the theory for gauge groups of the form 
+  
+    
+      
+        U
+        (
+        N
+        )
+      
+    
+    {\displaystyle U(N)}
+  , 
+  
+    
+      
+        S
+        U
+        (
+        N
+        )
+      
+    
+    {\displaystyle SU(N)}
+  , 
+  
+    
+      
+        O
+        (
+        N
+        )
+      
+    
+    {\displaystyle O(N)}
+  , 
+  
+    
+      
+        S
+        O
+        (
+        N
+        )
+      
+    
+    {\displaystyle SO(N)}
+  , and other such families, as 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   goes to 
+  
+    
+      
+        ↑
+        ∞
+      
+    
+    {\displaystyle \uparrow \infty }
+  . There is a large physics literature on this subject, including major early works by  Gerardus 't Hooft. A key tool in this analysis is the Makeenko–Migdal equation. 
+In two dimensions, the Makeenko–Migdal equation takes a special form developed by Kazakov and Kostov. In the large-N limit, the 2-D form of the Makeenko–Migdal equation relates the Wilson loop functional for a complicated curve with multiple crossings to the product of Wilson loop functionals for a pair of simpler curves with at least one less crossing. In the case of the sphere or the plane, it was the proposed that the Makeenko–Migdal equation could (in principle) reduce the computation of Wilson loop functionals for arbitrary curves to the Wilson loop functional for a simple closed curve. 
+In dimension 2, some of the major ideas were proposed by I. M. Singer, who named this limit the master field (a general notion in some areas of physics). Xu studied the large-
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   limit of 2-dimensional Yang–Mills loop expectation values using ideas from random matrix theory. Sengupta computed the large-N limit of loop expectation values in the plane and commented on the connection with free probability. Confirming one proposal of  Singer, Michael Anshelevich and Sengupta showed that the large-N limit of the Yang–Mills measure over the plane for the groups 
+  
+    
+      
+        U
+        (
+        N
+        )
+      
+    
+    {\displaystyle U(N)}
+   is given by a free probability theoretic counterpart of the Yang–Mills measure. An extensive study of the master field in the plane was made by Thierry Lévy. Several major contributions have been made by Bruce K. Driver, Brian C. Hall, and Todd Kemp,  Franck Gabriel, and Antoine Dahlqvist.  Dahlqvist and Norris have constructed the master field on the two-dimensional sphere.
+In spacetime dimension larger than 2, there is very little in terms of rigorous mathematical results. Sourav Chatterjee has proved several results in large-N gauge theory theory for dimension larger than 2. Chatterjee established an explicit formula for the leading term of the free energy of three-dimensional 
+  
+    
+      
+        U
+        (
+        N
+        )
+      
+    
+    {\displaystyle U(N)}
+   lattice gauge theory for any N, as the lattice spacing tends to zero. Let 
+  
+    
+      
+        Z
+        (
+        n
+        ,
+        ε
+        ,
+        g
+        )
+      
+    
+    {\displaystyle Z(n,\varepsilon ,g)}
+   be the partition function of 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+  -dimensional  
+  
+    
+      
+        U
+        (
+        N
+        )
+      
+    
+    {\displaystyle U(N)}
+   lattice gauge theory with coupling strength 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   in the box with lattice spacing 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+   and size being n spacings in each direction. Chatterjee showed that in dimensions d=2 and 3, 
+  
+    
+      
+        log
+        ⁡
+        Z
+        (
+        n
+        ,
+        ε
+        ,
+        g
+        )
+      
+    
+    {\displaystyle \log Z(n,\varepsilon ,g)}
+   is
+
+up to leading order in 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  , where 
+  
+    
+      
+        
+          K
+          
+            d
+          
+        
+      
+    
+    {\displaystyle K_{d}}
+   is a limiting free-energy term. A similar result was also obtained for in dimension 4, for 
+  
+    
+      
+        n
+        →
+        ∞
+      
+    
+    {\displaystyle n\to \infty }
+  , 
+  
+    
+      
+        ε
+        →
+        0
+      
+    
+    {\displaystyle \varepsilon \to 0}
+  , and 
+  
+    
+      
+        g
+        →
+        0
+      
+    
+    {\displaystyle g\to 0}
+   independently.
+
+
+== References ==

@@ -1,0 +1,14 @@
+Foundations of Algebraic Geometry is a book by André Weil (1946, 1962) that develops algebraic geometry over fields of any characteristic. In particular it gives a careful treatment of intersection theory by defining the local intersection multiplicity of two subvarieties.
+Weil was motivated by the need for a rigorous theory of correspondences on algebraic curves in positive characteristic, which he used in his proof of the Riemann hypothesis for curves over a finite field.
+Weil introduced abstract rather than projective varieties partly so that he could construct the Jacobian of a curve. (It was not known at the time that Jacobians are always projective varieties.) It was some time before anyone found any examples of complete abstract varieties that are not projective.  
+In the 1950s Weil's work was one of several competing attempts to provide satisfactory foundations for algebraic geometry, all of which were superseded by Grothendieck's development of schemes.
+
+References
+Raynaud, Michel (1999), "André Weil and the foundations of algebraic geometry" (PDF), Notices of the American Mathematical Society, 46 (8): 864–867, MR 1704257
+van der Waerden, Bartel Leendert (1971), "The foundation of algebraic geometry from Severi to André Weil", Archive for History of Exact Sciences, 7 (3): 171–180, doi:10.1007/BF00357215, MR 1554142, S2CID 189787203
+Weil, André (1946), Foundations of Algebraic Geometry, American Mathematical Society Colloquium Publications, vol. 29, Providence, R.I.: American Mathematical Society, ISBN 9780821874622, MR 0023093
+Weil, André (1962), Foundations of Algebraic Geometry, American Mathematical Society Colloquium Publications, vol. 29 (2 ed.), Providence, R.I.: American Mathematical Society, ISBN 978-0-8218-1029-3, MR 0144898
+Zariski, Oscar (1948), "Book Review: Foundations of algebraic geometry", Bulletin of the American Mathematical Society, 54 (7): 671–675, Bibcode:1948Sci...107...75W, doi:10.1090/S0002-9904-1948-09040-1, MR 1565074
+
+External links
+Extracts from the preface of Foundations of Algebraic Geometry

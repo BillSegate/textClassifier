@@ -1,0 +1,31 @@
+== Mathematical growth ==
+Any process of non-random change that can be measured could be called mathematical growth (or decay).  The change can be directly related to chronology (see Time series), or to any other input that can be arranged numerically. (As x "grows", what does y do?) There are many forms of this type of growth, including: linear, polynomial, and exponential, described by y = bx , y = axk , and  y = adx , respectively, where x is the independent input variable, y the dependent output, and a, b, d and k are constants for each particular relationship. Of course, these mathematical models are idealized versions of the number patterns we see in the real world.
+
+Table of sample values, x = 0 to x = 15, b/d/k = 2
+
+Linear growth
+Linear growth occurs whenever the change in the dependent variable y is directly proportional to the change in the independent variable x. (For example, when x is doubled, then y is doubled.) Because it is based on the addition of the same amount each time, linear growth is generally slow and steady.
+Mathematically, linear growth is described by y = bx + c, where b is the amount added every time x increases by 1, and c is the value of y when x is 0. On a graph, b is the slope of the line, and c is the y-axis intercept. b is a rate, with units of y divided by the units of x.
+A bank account with regular, uniform deposits and no interest exhibits linear growth. The diameter of a tree might display linear growth, year by year. Any process that can be modeled by the change in area of a parallelogram with one fixed side, or the change in volume of a cylinder or prism with a fixed base, is an example of linear growth. Linear growth can also be called additive or arithmetic growth.
+
+Polynomial growth
+Polynomial growth occurs when a parameter of the dependent variable changes linearly. This happens when the mathematical relationship involves a fixed exponent, often 2 (quadratic growth) or 3 (cubic growth). Although polynomial growth is based on multiplication, it is much slower than exponential growth, because of the fixed exponent on the slowly-changing base value.
+Mathematically, equations for polynomial growth contain y = axk, where a is a compound rate (such as 32 ft/sec/sec) and k is a fixed exponent (greater than 1), both determined by the particular situation. Polynomial equations (also called power functions) may contain bx and/or c, whose characteristics are the same as in linear equations. (Technically, linear equations are a form of polynomial equation, with k = 1.)
+Examples include the change in area of a triangle with a change in height, or the change in height of a falling object over time. The volume a triangular prism being filled in a direction parallel to the base, with respect to the height of the fill, is also an example of polynomial growth. (The rate of the filling itself is probably linear.)
+
+Exponential growth
+Exponential growth occurs when a parameter of the dependent variable changes geometrically (by multiplication). The mathematical relationship has the independent variable as the exponent on a rate of change. Because it is the exponent that varies, exponential growth is the fastest of all. Exponential growth is also called geometric growth.Examples include a bank balance for an account with compounded interest and the number of ideally proliferating bacteria, not to mention the volume inside the horn of a brass musical instrument or Victrola, with respect to its height. Because few things in the real world grow exponentially forever, statisticians and others have defined the logistic growth curve, where the dependent variable grows exponentially at first, but then "inverts", or begins to level off in symmetrical fashion.
+Interestingly, the well-known Fibonacci sequence is an example of exponential growth. Although the next value of the sequence can be found by adding the previous two, starting with 0 and 1 or 1 and 1, the general formula is exponential (see Binet's formula). The values in this particular sequence are found in many forms in nature, including the number of rabbits that spring from an original pair, the sizes of the chambers of a Nautilus shell, and the pattern of seeds of a sunflower.
+
+Determining type of growth
+One can determine which type of growth a given set of data has by using regression modeling, which can be done with graphing calculators or computer software. Regression modeling uses statistical methods to find a "line of best fit" for the data. One generally has to try various possible models, such as power regression, exponential regression, etc., and choose the one with the highest correlation coefficient r.If one knows the equation, or function, that describes some observed growth, one can use Big O analysis to characterize the type of growth. If the dependent variable is the number of elementary computer operations, the type of growth shown as the input amount changes can be found by analyzing the time complexity of the algorithm being used.
+
+See also
+References
+Sources
+Foster, Alan G. et al, "Merrill - Algebra 2 with Trigonometry", Glencoe/McGraw-Hill, New York, 1995.
+Gilchrist, Warren, "Statistical Modelling", John Wiley & Sons, Chichester, UK, 1984.
+Yates, Daniel S., et al, "The Practice of Statistics, Third Edition", W.H. Freeman & Co., New York, 2008; Ch. 4: Relationships Between Two Variables.
+
+External links
+https://www.nytimes.com/2019/03/04/opinion/exponential-language-math.html?searchResultPosition=9

@@ -1,0 +1,460 @@
+In mathematics and logic, the term "uniqueness" refers to the property of being the one and only object satisfying a certain condition. This sort of quantification is known as uniqueness quantification or unique existential quantification, and is often denoted with the symbols "∃!" or "∃=1". For example, the formal statement
+
+  
+    
+      
+        ∃
+        !
+        n
+        ∈
+        
+          N
+        
+        
+        (
+        n
+        −
+        2
+        =
+        4
+        )
+      
+    
+    {\displaystyle \exists !n\in \mathbb {N} \,(n-2=4)}
+  may be read as "there is exactly one natural number 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   such that 
+  
+    
+      
+        n
+        −
+        2
+        =
+        4
+      
+    
+    {\displaystyle n-2=4}
+  ".
+
+Proving uniqueness
+The most common technique to prove the unique existence of a certain object is to first prove the existence of the entity with the desired condition, and then to prove that any two such entities (say, 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   and 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  ) must be equal to each other (i.e. 
+  
+    
+      
+        a
+        =
+        b
+      
+    
+    {\displaystyle a=b}
+  ).
+For example, to show that the equation 
+  
+    
+      
+        x
+        +
+        2
+        =
+        5
+      
+    
+    {\displaystyle x+2=5}
+   has exactly one solution, one would first start by establishing that at least one solution exists, namely 3; the proof of this part is simply the verification that the equation below holds:
+
+  
+    
+      
+        3
+        +
+        2
+        =
+        5.
+      
+    
+    {\displaystyle 3+2=5.}
+  To establish the uniqueness of the solution, one would then proceed by assuming that there are two solutions, namely 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   and 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  , satisfying 
+  
+    
+      
+        x
+        +
+        2
+        =
+        5
+      
+    
+    {\displaystyle x+2=5}
+  . That is,
+
+  
+    
+      
+        a
+        +
+        2
+        =
+        5
+        
+           and 
+        
+        b
+        +
+        2
+        =
+        5.
+      
+    
+    {\displaystyle a+2=5{\text{ and }}b+2=5.}
+  Then since equality is a transitive relation, 
+
+  
+    
+      
+        a
+        +
+        2
+        =
+        b
+        +
+        2.
+      
+    
+    {\displaystyle a+2=b+2.}
+  Subtracting 2 from both sides then yields
+
+  
+    
+      
+        a
+        =
+        b
+        .
+      
+    
+    {\displaystyle a=b.}
+  which completes the proof that 3 is the unique solution of 
+  
+    
+      
+        x
+        +
+        2
+        =
+        5
+      
+    
+    {\displaystyle x+2=5}
+  .
+In general, both existence (there exists at least one object) and uniqueness (there exists at most one object) must be proven, in order to conclude that there exists exactly one object satisfying a said condition.
+An alternative way to prove uniqueness is to prove that there exists an object 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   satisfying the condition, and then to prove that every object satisfying the condition must be equal to 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  .
+
+Reduction to ordinary existential and universal quantification
+Uniqueness quantification can be expressed in terms of the existential and universal quantifiers of predicate logic, by defining the formula 
+  
+    
+      
+        ∃
+        !
+        x
+        P
+        (
+        x
+        )
+      
+    
+    {\displaystyle \exists !xP(x)}
+   to mean
+
+  
+    
+      
+        ∃
+        x
+        
+        (
+        P
+        (
+        x
+        )
+        
+        ∧
+        ¬
+        ∃
+        y
+        
+        (
+        P
+        (
+        y
+        )
+        ∧
+        y
+        ≠
+        x
+        )
+        )
+        ,
+      
+    
+    {\displaystyle \exists x\,(P(x)\,\wedge \neg \exists y\,(P(y)\wedge y\neq x)),}
+  which is logically equivalent to
+
+  
+    
+      
+        ∃
+        x
+        
+        (
+        P
+        (
+        x
+        )
+        ∧
+        ∀
+        y
+        
+        (
+        P
+        (
+        y
+        )
+        →
+        y
+        =
+        x
+        )
+        )
+        .
+      
+    
+    {\displaystyle \exists x\,(P(x)\wedge \forall y\,(P(y)\to y=x)).}
+  An equivalent definition that separates the notions of existence and uniqueness into two clauses, at the expense of brevity, is
+
+  
+    
+      
+        ∃
+        x
+        
+        P
+        (
+        x
+        )
+        ∧
+        ∀
+        y
+        
+        ∀
+        z
+        
+        [
+        (
+        P
+        (
+        y
+        )
+        ∧
+        P
+        (
+        z
+        )
+        )
+        →
+        y
+        =
+        z
+        ]
+        .
+      
+    
+    {\displaystyle \exists x\,P(x)\wedge \forall y\,\forall z\,[(P(y)\wedge P(z))\to y=z].}
+  Another equivalent definition, which has the advantage of brevity, is
+
+  
+    
+      
+        ∃
+        x
+        
+        ∀
+        y
+        
+        (
+        P
+        (
+        y
+        )
+        ↔
+        y
+        =
+        x
+        )
+        .
+      
+    
+    {\displaystyle \exists x\,\forall y\,(P(y)\leftrightarrow y=x).}
+
+Generalizations
+The uniqueness quantification can be generalized into counting quantification (or numerical quantification). This includes both quantification of the form "exactly k objects exist such that …" as well as "infinitely many objects exist such that …" and "only finitely many objects exist such that…". The first of these forms is expressible using ordinary quantifiers, but the latter two cannot be expressed in ordinary first-order logic.Uniqueness depends on a notion of equality. Loosening this to some coarser equivalence relation yields quantification of uniqueness up to that equivalence (under this framework, regular uniqueness is "uniqueness up to equality"). For example, many concepts in category theory are defined to be unique up to isomorphism.
+The exclamation mark 
+  
+    
+      
+        !
+      
+    
+    {\displaystyle !}
+   can be also used as a separate quantification symbol, so 
+  
+    
+      
+        (
+        ∃
+        !
+        x
+        .
+        P
+        (
+        x
+        )
+        )
+        ↔
+        (
+        (
+        ∃
+        x
+        .
+        P
+        (
+        x
+        )
+        )
+        ∧
+        (
+        !
+        x
+        .
+        P
+        (
+        x
+        )
+        )
+        )
+      
+    
+    {\displaystyle (\exists !x.P(x))\leftrightarrow ((\exists x.P(x))\land (!x.P(x)))}
+  , where 
+  
+    
+      
+        (
+        !
+        x
+        .
+        P
+        (
+        x
+        )
+        )
+        :=
+        (
+        ∀
+        a
+        ∀
+        b
+        .
+        P
+        (
+        a
+        )
+        ∧
+        P
+        (
+        b
+        )
+        →
+        a
+        =
+        b
+        )
+      
+    
+    {\displaystyle (!x.P(x)):=(\forall a\forall b.P(a)\land P(b)\rightarrow a=b)}
+  . E.g. it can be safely used in the replacement axiom, instead of 
+  
+    
+      
+        ∃
+        !
+      
+    
+    {\displaystyle \exists !}
+  .
+
+See also
+Essentially unique
+One-hot
+Singleton (mathematics)
+Uniqueness theorem
+
+References
+Bibliography
+Kleene, Stephen (1952). Introduction to Metamathematics. Ishi Press International. p. 199.
+Andrews, Peter B. (2002). An introduction to mathematical logic and type theory to truth through proof (2. ed.). Dordrecht: Kluwer Acad. Publ. p. 233. ISBN 1-4020-0763-9.

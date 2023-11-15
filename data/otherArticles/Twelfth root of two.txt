@@ -1,0 +1,109 @@
+The twelfth root of two or 
+  
+    
+      
+        2
+        
+          12
+        
+      
+    
+    {\sqrt[{12}]{2}}
+   (or equivalently 
+  
+    
+      
+        
+          2
+          
+            1
+            
+              /
+            
+            12
+          
+        
+      
+    
+    {\displaystyle 2^{1/12}}
+  ) is an algebraic irrational number, approximately equal to 1.0594631. It is most important in Western music theory, where it represents the frequency ratio (musical interval) of a semitone () in twelve-tone equal temperament. This number was proposed for the first time in relationship to musical tuning in the sixteenth and seventeenth centuries. It allows measurement and comparison of different intervals (frequency ratios) as consisting of different numbers of a single interval, the equal tempered semitone (for example, a minor third is 3 semitones, a major third is 4 semitones, and perfect fifth is 7 semitones). A semitone itself is divided into 100 cents (1 cent = 
+  
+    
+      
+        
+          
+            2
+            
+              1200
+            
+          
+        
+        =
+        
+          2
+          
+            1
+            
+              /
+            
+            1200
+          
+        
+      
+    
+    {\displaystyle {\sqrt[{1200}]{2}}=2^{1/1200}}
+  ).
+
+Numerical value
+The twelfth root of two to 20 significant figures is 1.0594630943592952646. Fraction approximations in increasing order of accuracy include 18/17, 89/84, 196/185, 1657/1564, and 18904/17843.
+As of December 2013, its numerical value has been computed to at least twenty billion decimal digits.
+
+The equal-tempered chromatic scale
+A musical interval is a ratio of frequencies and the equal-tempered chromatic scale divides the octave (which has a ratio of 2:1) into twelve equal parts. Each note has a frequency that is 21⁄12 times that of the one below it.Applying this value successively to the tones of a chromatic scale, starting from A above middle C (known as A4) with a frequency of 440 Hz, produces the following sequence of pitches:
+
+The final A (A5: 880 Hz) is exactly twice the frequency of the lower A (A4: 440 Hz), that is, one octave higher.
+
+Other tuning scales
+Other tuning scales use slightly different interval ratios:
+
+The just or Pythagorean perfect fifth is 3/2, and the difference between the equal tempered perfect fifth and the just is a grad, the twelfth root of the Pythagorean comma (12√531441/524288).
+The equal tempered Bohlen–Pierce scale uses the interval of the thirteenth root of three (13√3).
+Stockhausen's Studie II (1954) makes use of the twenty-fifth root of five (25√5), a compound major third divided into 5×5 parts.
+The delta scale is based on ≈50√3/2.
+The gamma scale is based on ≈20√3/2.
+The beta scale is based on ≈11√3/2.
+The alpha scale is based on ≈9√3/2.
+
+Pitch adjustment
+Since the frequency ratio of a semitone is close to 106% (
+  
+    
+      
+        1.05946
+        ×
+        100
+        =
+        105.946
+      
+    
+    {\displaystyle 1.05946\times 100=105.946}
+  ), increasing or decreasing the playback speed of a recording by 6% will shift the pitch up or down by about one semitone, or "half-step". Upscale reel-to-reel magnetic tape recorders typically have pitch adjustments of up to ±6%, generally used to match the playback or recording pitch to other music sources having slightly different tunings (or possibly recorded on equipment that was not running at quite the right speed). Modern recording studios utilize digital pitch shifting to achieve similar results, ranging from cents up to several half-steps (note that reel-to-reel adjustments also affect the tempo of the recorded sound, while digital shifting does not).
+
+History
+Historically this number was proposed for the first time in relationship to musical tuning in 1580 (drafted, rewritten 1610) by Simon Stevin. In 1581 Italian musician Vincenzo Galilei may be the first European to suggest twelve-tone equal temperament. The twelfth root of two was first calculated in 1584 by the Chinese mathematician and musician Zhu Zaiyu using an abacus to reach twenty four decimal places accurately, calculated circa 1605 by Flemish mathematician Simon Stevin, in 1636 by the French mathematician Marin Mersenne and in 1691 by German musician Andreas Werckmeister.
+
+See also
+Fret
+Just intonation § Practical difficulties
+Music and mathematics
+Piano key frequencies
+Scientific pitch notation
+Twelve-tone technique
+The Well-Tempered Clavier
+
+Notes
+References
+Further reading
+Barbour, J. M. (1933). "A Sixteenth Century Chinese Approximation for π". American Mathematical Monthly. 40 (2): 69–73. doi:10.2307/2300937. JSTOR 2300937.
+Ellis, Alexander; Helmholtz, Hermann (1954). On the Sensations of Tone. Dover Publications. ISBN 0-486-60753-4.
+Partch, Harry (1974). Genesis of a Music. Da Capo Press. ISBN 0-306-80106-X.

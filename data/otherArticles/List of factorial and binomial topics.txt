@@ -1,0 +1,83 @@
+This is a list of factorial and binomial topics in mathematics.  See also binomial (disambiguation).
+
+Abel's binomial theorem
+Alternating factorial
+Antichain
+Beta function
+Bhargava factorial
+Binomial coefficient
+Pascal's triangle
+Binomial distribution
+Binomial proportion confidence interval
+Binomial-QMF (Daubechies wavelet filters)
+Binomial series
+Binomial theorem
+Binomial transform
+Binomial type
+Carlson's theorem
+Catalan number
+Fuss–Catalan number
+Central binomial coefficient
+Combination
+Combinatorial number system
+De Polignac's formula
+Difference operator
+Difference polynomials
+Digamma function
+Egorychev method
+Erdős–Ko–Rado theorem
+Euler–Mascheroni constant
+Faà di Bruno's formula
+Factorial
+Factorial moment
+Factorial number system
+Factorial prime
+Gamma distribution
+Gamma function
+Gaussian binomial coefficient
+Gould's sequence
+Hyperfactorial
+Hypergeometric distribution
+Hypergeometric function identities
+Hypergeometric series
+Incomplete beta function
+Incomplete gamma function
+Jordan–Pólya number
+Kempner function
+Lah number
+Lanczos approximation
+Lozanić's triangle
+Macaulay representation of an integer
+Mahler's theorem
+Multinomial distribution
+Multinomial coefficient, Multinomial formula, Multinomial theorem
+Multiplicities of entries in Pascal's triangle
+Multiset
+Multivariate gamma function
+Narayana numbers
+Negative binomial distribution
+Nörlund–Rice integral
+Pascal matrix
+Pascal's pyramid
+Pascal's simplex
+Pascal's triangle
+Permutation
+List of permutation topics
+Pochhammer symbol (also falling, lower, rising, upper factorials)
+Poisson distribution
+Polygamma function
+Primorial
+Proof of Bertrand's postulate
+Sierpinski triangle
+Star of David theorem
+Stirling number
+Stirling transform
+Stirling's approximation
+Subfactorial
+Table of Newtonian series
+Taylor series
+Trinomial expansion
+Vandermonde's identity
+Wilson prime
+Wilson's theorem
+Wolstenholme prime

@@ -1,0 +1,6 @@
+WIRIS is a company, legally registered as Maths for More, providing a set of proprietary HTML-based JavaScript tools which can author and edit mathematical formulas, execute mathematical problems and show mathematical graphics on the Cartesian coordinate system. 
+WIRIS equation editor is a native browser application, with a light server-side, that supports both MathML and LaTeX. Since 2017, after buying Design Science, a US-based a developer of MathType desktop software, WIRIS rebranded their web equation editor as MathType by WIRIS.WIRIS is based in Barcelona, Spain and was founded by teachers and former students from the Technical University of Catalonia (Barcelona Tech) coordinated by Professor Sebastià Xambó.
+
+References
+External links
+Official website

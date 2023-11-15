@@ -1,0 +1,5 @@
+Single Particle Extinction and Scattering (SPES) is a technique in physics that is used to characterise micro and nanoparticles suspended in a fluid through two independent parameters, the diameter and the effective refractive index.A laser generates a gaussian beam which focuses inside a flow cell. A particle that passes through the focal region generates an interference in the beam, which is collected with a sensor. Through this signal it is possible to derive the real part and the imaginary part of the forward scattering field from each particle.
+The technique was developed to measure aerosols in air and particles in liquid.
+
+
+== References ==

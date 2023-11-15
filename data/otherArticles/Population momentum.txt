@@ -1,0 +1,98 @@
+Population momentum is a consequence of the demographic transition. Population momentum explains why a population will continue to grow even if the fertility rate declines. Population momentum occurs because it is not only the number of children per woman that determine population growth, but also the number of women in reproductive age. Eventually, when the fertility rate reaches the replacement rate and the population size of women in the reproductive age bracket stabilizes, the population achieves equilibrium and population momentum comes to an end. Population momentum is defined as the ratio of the size of the population at that new equilibrium level to the size of the initial population. Population momentum usually occurs in populations that are growing.
+
+Example
+Assume that a population has three generations: First (oldest), Second (child bearing), and Third (children).  Further assume that this population has a fertility rate equal to four (4).  That is, each generation is twice the size of the previous.  If the population of the first generation is arbitrarily set at 100, the second is then 200, and the third is 400.  The spreadsheet below shows the initial population in the first row.
+
+First note that the second and third generation of the initial population are each twice the size of the previous.  The total of the initial population is 700 = 100 + 200 + 400.
+Then assume that at the end of the third generation, fertility falls to replacement (for simplicity assume that to be two). Now take the population forward in time to the next generation, line two of the spreadsheet. The first generation dies, and the new generation, the fourth, is equal to the third (because now fertility is replacement).  Repeat the process again to reach the fifth generation (line 3 in the spreadsheet). The fifth generation is again equal to the fourth and now the population’s three generations are equal, and the population has reached equilibrium.
+The initial population has grown from 700 to 1,200 even though fertility dropped from four to replacement (two) at the end of the third generation.  Population momentum carried the population to higher levels over the next two generations.
+
+Further steps to zero population growth
+Population momentum impacts the immediate birth and death rates in the population that determine the natural rate of growth. However, for a population to have an absolute zero amount of natural growth, three things must occur.
+1. Fertility rates must level off to the replacement rate (the net reproduction rate should be 1). If the fertility rate remains higher than the replacement rate, the population would continue to grow.
+2. Mortality rate must stop declining, that is, it must remain constant.
+3. Lastly, the age structure must adjust to the new rates of fertility and mortality. This last step takes the longest to complete.
+
+Implications
+Population momentum has implications for population policy for a number of reasons.
+1. With respect to high-fertility countries (for example in the developing world), a positive population momentum, meaning that the population is increasing, states that these countries will continue to grow despite large and rapid declines in fertility.
+2. With respect to lowest-low fertility countries (for example in Europe), a negative population momentum implies that these countries may experience population decline even if they try to increase their rate of fertility to the replacement rate of 2.1. For example, some Eastern European countries show a population shrinkage even if their birth rates recovered to replacement level. Population momentum can become negative if the fertility rate is under replacement level for a long period of time.
+3. Population momentum shows that replacement level fertility is a long-term concept rather than an indication of current population growth rates. Depending on the extant age structure, a fertility rate of two children per woman may correspond to short-term growth or decline.
+
+Calculation
+To calculate population momentum for population A, a theoretical population is constructed in which the birth rate for population A immediately becomes replacement level. Under such conditions, the population will eventually stabilize into a stationary population, with no year-to-year changes in age-specific rates or in total population. The population momentum is calculated by dividing this final total population number by the starting population. Momentum, Ω, can be expressed as:
+
+  
+    
+      
+        Ω
+        =
+        (
+        b
+        
+          e
+          
+            o
+          
+        
+        )
+        Q
+      
+    
+    {\displaystyle \Omega =(be_{o})Q}
+  
+In this equation, b is the crude birth rate while eo is the life expectancy at birth. Q is the total number of births per initial birth.
+
+  
+    
+      
+        Q
+        =
+        
+          
+            1
+            
+              r
+              μ
+            
+          
+        
+        
+          
+            
+              
+                R
+                
+                  o
+                
+              
+              −
+              1
+            
+            
+              R
+              
+                o
+              
+            
+          
+        
+      
+    
+    {\displaystyle Q={1 \over r\mu }{R_{o}-1 \over R_{o}}}
+  
+This equation is used to derive Q (total births per initial birth), r is the growth rate and µ is the unchanging population mean age at childbearing. Ro is the Net Reproduction Rate of the non-changing population.
+
+Causes
+Population momentum is typically caused by a shift in the country's demographic transition. When mortality rates drop, the young survive childhood and the aging population live longer. Fertility rates remain high, causing the overall population size to grow. According to population momentum, even if high fertility rates were immediately replaced with replacement level fertility rates, the population would continue to grow due to the pre-childbearing population entering childbearing years.
+
+See also
+Human overpopulation
+Demography
+List of population concern organizations
+Population stabilization
+
+References
+External links
+Mason, A., Lee, S. and Russo, G. (2000). Population Momentum and Population Aging in Asia and Near-East Countries. [ebook] Strategic and Economic Analysis Office. Available at: [1] [Accessed 28 Mar. 2018].
+PAPP103 - S08: Population dynamics and momentum, United Nations Population Fund - UNFPA, [2]

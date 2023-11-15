@@ -1,0 +1,15 @@
+A power quantity is a power or a quantity directly proportional to power, e.g., energy density, acoustic intensity, and luminous intensity.  Energy quantities may also be labelled as power quantities in this context.A root-power quantity is a quantity such as voltage, current, sound pressure, electric field strength, speed, or charge density, the square of which, in linear systems, is proportional to power.  The term root-power quantity refers to the square root that relates these quantities to power. The term was introduced in ISO 80000-1 § Annex C; it replaces and deprecates the term field quantity.
+
+Implications
+It is essential to know which category a measurement belongs to when using decibels (dB) for comparing the levels of such quantities.  A change of one bel in the level corresponds to a 10× change in power, so when comparing power quantities x and y, the difference is defined to be 10×log10(y/x) decibel.  With root-power quantities, however the difference is defined as 20×log10(y/x) dB.In the analysis of signals and systems using sinusoids, field quantities and root-power quantities may be complex-valued, as in the propagation constant.
+
+"Root-power quantity" vs. "field quantity"
+In justifying the deprecation of the term "field quantity" and instead using "root-power quantity" in the context of levels, ISO 80000 draws attention to the conflicting use of the former term to mean a quantity that depends on the position, which in physics is called a field.  Such a field is often called a field quantity in the literature, but is called a field here for clarity.  Several types of field (such as the electromagnetic field) meet the definition of a root-power quantity, whereas others (such as the Poynting vector and temperature) do not.  Conversely, not every root-power quantity is a field (such as the voltage on a loudspeaker).
+
+See also
+Level (logarithmic quantity)
+Fresnel reflection field and power equations
+Sound level, defined for each of several quantities associated with sound
+
+
+== References ==

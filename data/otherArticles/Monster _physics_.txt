@@ -1,0 +1,5 @@
+A monster, in quantum physics, is an arrangement of matter that has maximum disorder. The high-entropy state of monsters has been theorized as being responsible for the high entropy of black holes; while the likelihood of any given star entering a "monster" state while collapsing is small, quantum mechanics takes into account all possible outcomes so the monster's entropy has to be taken into account when calculating black hole entropy.
+
+References
+
+Stephen D.H. Hsu; David Reeb (10 Jan 2008). "Black hole entropy, curved space and monsters". Phys. Lett. B. 658 (5): 244–248. arXiv:0706.3239. Bibcode:2008PhLB..658..244H. doi:10.1016/j.physletb.2007.09.021. S2CID 119312856. Our results suggest that the area entropy of black holes is the logarithm of the number of distinct ways in which one can form the black hole from ordinary matter and smaller black holes, but only after the exclusion of monster states.

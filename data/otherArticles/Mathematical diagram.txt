@@ -1,0 +1,97 @@
+Mathematical diagrams, such as charts and graphs, are mainly designed to convey mathematical relationships—for example, comparisons over time.
+
+Specific types of mathematical diagrams
+Argand diagram
+A complex number can be visually represented as a pair of numbers forming a vector on a diagram called an Argand diagram
+The complex plane is sometimes called the Argand plane because it is used in Argand diagrams. These are named after Jean-Robert Argand (1768–1822), although they were first described by Norwegian-Danish land surveyor and mathematician Caspar Wessel (1745–1818). Argand diagrams are frequently used to plot the positions of the poles and zeroes of a function in the complex plane.
+The concept of the complex plane allows a geometric interpretation of complex numbers. Under addition, they add like vectors. The multiplication of two complex numbers can be expressed most easily in polar coordinates — the magnitude or modulus of the product is the product of the two absolute values, or moduli, and the angle or argument of the product is the sum of the two angles, or arguments. In particular, multiplication by a complex number of modulus 1 acts as a rotation.
+
+Butterfly diagram
+In the context of fast Fourier transform algorithms, a butterfly is a portion of the computation that combines the results of smaller discrete Fourier transforms (DFTs) into a larger DFT, or vice versa (breaking a larger DFT up into subtransforms). The name "butterfly" comes from the shape of the data-flow diagram in the radix-2 case, as described below. The same structure can also be found in the Viterbi algorithm, used for finding the most likely sequence of hidden states.
+The butterfly diagram show a data-flow diagram connecting the inputs x (left) to the outputs y that depend on them (right) for a "butterfly" step of a radix-2 Cooley–Tukey FFT algorithm. This diagram resembles a butterfly as in the Morpho butterfly shown for comparison, hence the name.
+
+Commutative diagram
+In mathematics, and especially in category theory, a commutative diagram is a diagram of objects, also known as vertices, and morphisms, also known as arrows or edges, such that when selecting two objects any directed path through the diagram leads to the same result by composition.
+Commutative diagrams play the role in category theory that equations play in algebra.
+
+Hasse diagrams
+A Hasse diagram is a simple picture of a finite partially ordered set, forming a drawing of the partial order's transitive reduction. Concretely, one represents each element of the set as a vertex on the page and draws a line segment or curve that goes upward from x to y precisely when x < y and there is no z such that x < z < y. In this case, we say y covers x, or y is an immediate successor of x. In a Hasse diagram, it is required that the curves be drawn so that each meets exactly two vertices: its two endpoints. Any such diagram (given that the vertices are labeled) uniquely determines a partial order, and any partial order has a unique transitive reduction, but there are many possible placements of elements in the plane, resulting in different Hasse diagrams for a given order that may have widely varying appearances.
+
+Knot diagrams
+In Knot theory a useful way to visualise and manipulate knots is to project the knot onto a plane—;think of the knot casting a shadow on the wall. A small perturbation in the choice of projection will ensure that it is one-to-one except at the double points, called crossings, where the "shadow" of the knot crosses itself once transverselyAt each crossing we must indicate which section is "over" and which is "under", so as to be able to recreate the original knot. This is often done by creating a break in the strand going underneath. If by following the diagram the knot alternately crosses itself "over" and "under", then the diagram represents a particularly well-studied class of knot, alternating knots.
+
+Venn diagram
+A Venn diagram is a representation of mathematical sets: a mathematical diagram representing sets as circles, with their relationships to each other expressed through their overlapping positions, so that all possible relationships between the sets are shown.The Venn diagram is constructed with a collection of simple closed curves drawn in the plane. The principle of these diagrams is that classes be represented by regions in such relation to one another that all the possible logical relations of these classes can be indicated in the same diagram. That is, the diagram initially leaves room for any possible relation of the classes, and the actual or given relation, can then be specified by indicating that some particular region is null or is not null.
+
+Voronoi diagram
+A Voronoi diagram is a special kind of decomposition of a metric space determined by distances to a specified discrete set of objects in the space, e.g., by a discrete set of points. This diagram is named after Georgy Voronoi, also called a Voronoi tessellation, a Voronoi decomposition, or a Dirichlet tessellation after Peter Gustav Lejeune Dirichlet.
+In the simplest case, we are given a set of points S in the plane, which are the Voronoi sites. Each site s has a Voronoi cell V(s) consisting of all points closer to s than to any other site. The segments of the Voronoi diagram are all the points in the plane that are equidistant to two sites. The Voronoi nodes are the points equidistant to three (or more) sites
+
+Wallpaper group diagrams
+A wallpaper group or plane symmetry group or plane crystallographic group is a mathematical classification of a two-dimensional repetitive pattern, based on the symmetries in the pattern. Such patterns occur frequently in architecture and decorative art. There are 17 possible distinct groups.
+Wallpaper groups are two-dimensional symmetry groups, intermediate in complexity between the simpler frieze groups and the three-dimensional crystallographic groups, also called space groups. Wallpaper groups categorize patterns by their symmetries. Subtle differences may place similar patterns in different groups, while patterns which are very different in style, color, scale or orientation may belong to the same group.
+
+Young diagram
+A Young diagram or Young tableau, also called Ferrers diagram, is a finite collection of boxes, or cells, arranged in left-justified rows, with the row sizes weakly decreasing (each row has the same or shorter length than its predecessor). 
+
+Listing the number of boxes in each row gives a partition 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+   of a positive integer n, the total number of boxes of the diagram. The Young diagram is said to be of shape 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  , and it carries the same information as that partition. Listing the number of boxes in each column gives another partition, the conjugate or transpose partition of 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  ; one obtains a Young diagram of that shape by reflecting the original diagram along its main diagonal.
+Young tableaux were introduced by Alfred Young, a mathematician at Cambridge University, in 1900. They were then applied to the study of symmetric group by Georg Frobenius in 1903. Their theory was further developed by many mathematicians.
+
+Other mathematical diagrams
+Cremona diagram
+De Finetti diagram
+Dynkin diagram
+Elementary diagram
+Euler diagram
+Stellation diagram
+Ulam spiral
+Van Kampen diagram
+Taylor diagram
+
+See also
+Category theory
+Logic diagram
+Mathematical jargon
+Mathematical model
+Mathematics as a language
+Mathematical visualization
+Statistical model
+
+References
+Further reading
+Barker-Plummer, Dave; Bailin, Sidney C. (1997). "The Role of Diagrams in Mathematical Proofs". Machine Graphics and Vision. 6 (1): 25–56. CiteSeerX 10.1.1.49.4712. (Special Issue on Diagrammatic Representation and Reasoning).
+Barker-Plummer, Dave; Bailin, Sidney C. (2001). "On the practical semantics of mathematical diagrams". In Anderson, M. (ed.). Reasoning with Diagrammatic Representations. Springer Verlag. CiteSeerX 10.1.1.30.9246. ISBN 978-1-85233-242-6.
+Kidman, G. (2002). "The Accuracy of mathematical diagrams in curriculum materials". In Cockburn, A.; Nardi, E. (eds.). Proceedings of the PME 26. Vol. 3. University of East Anglia. pp. 201–8.
+Kulpa, Zenon (2004). "On Diagrammatic Representation of Mathematical Knowledge". In Andréa Asperti; Bancerek, Grzegorz; Trybulec, Andrzej (eds.). Mathematical knowledge management: third international conference, MKM 2004, Białowieża, Poland, September 19–21, 2004 : Proceedings. Springer. pp. 191–204. ISBN 978-3-540-23029-8.
+Puphaiboon, K.; Woodcock, A.; Scrivener, S. (25 March 2005). "Design method for developing mathematical diagrams". In Bust, Philip D.; McCabe, P.T. (eds.). Contemporary ergonomics 2005 Proceedings of the International Conference on Contemporary Ergonomics (CE2005). Taylor & Francis. ISBN 978-0-415-37448-4.
+
+External links
+
+"Diagrams". The Stanford Encyclopedia of Philosophy. Fall 2008.
+Kulpa, Zenon. "Diagrammatics: The art of thinking with diagrams". Archived from the original on April 25, 2013.
+One of the oldest extant diagrams from Euclid by Otto Neugebauer
+Lomas, Dennis (1998). "Diagrams in Mathematical Education: A Philosophical Appraisal". Philosophy of Education Society. Archived from the original on 2011-07-21.

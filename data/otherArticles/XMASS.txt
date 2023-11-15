@@ -1,0 +1,14 @@
+XMASS is a multipurpose physics experiment in Japan that monitors a large tank of xenon for flashes of light that might be caused by hypothetical dark matter particles. In addition to searching for dark matter, XMASS is also studying neutrinoless double beta decay and solar neutrinos.
+Its results have not confirmed the annual variation seen in some earlier experiments.
+
+History
+Construction started in April 2007. The detector was completed in September 2010. Commissioning run was conducted between October 2010 and June 2012. Scientific data taking begun in November 2013. The detector is sometimes called XMASS-I, as it is planned to be superseded by an upgrade called XMASS-1.5 (a 5 ton detector) and eventually XMASS-II (24 ton detector).
+The XMASS-I experiment shut down and ceased data taking 20 February 2019.
+Results were published in 2021.
+
+Detector
+The detector is located 1000m underground in the Kamioka Observatory in Japan. It contains about 800 kg of liquid xenon.
+
+References
+External links
+Direct Dark Matter Search by Annual Modulation [Results from XMASS] Sept 2015

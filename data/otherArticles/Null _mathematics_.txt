@@ -1,0 +1,10 @@
+In mathematics, the word null (from German: null meaning "zero", which is from Latin: nullus meaning "none") is often associated with the concept of zero or the concept of nothing. It is used in varying context from "having zero members in a set" (e.g., null set) to "having a value of zero" (e.g., null vector).In a vector space, the null vector is the neutral element of vector addition; depending on the context, a null vector may also be a vector mapped to some null by a function under consideration (such as a quadratic form coming with the vector space, see null vector, a linear mapping given as matrix product or dot product, a seminorm in a Minkowski space, etc.). In set theory, the empty set, that is, the set with zero elements, denoted "{}" or "∅", may also be called null set. In measure theory, a null set is a (possibly nonempty) set with zero measure.
+A null space of a mapping is the part of the domain that is mapped into the null element of the image (the inverse image of the null element). For example, in linear algebra, the null space of a linear mapping, also known as kernel, is the set of vectors which map to the null vector under that mapping.
+In statistics, a null hypothesis is a proposition that no effect or relationship exists between populations and phenomena. It is the hypothesis which is presumed true—unless statistical evidence indicates otherwise.
+
+See also
+0
+Null sign
+
+
+== References ==

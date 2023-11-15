@@ -1,0 +1,7 @@
+Electron quadruplets are a possible phenomenon in an exotic state of matter in which Cooper pairs do not exhibit long-range order, but electron quadruplets do. This "quartic metal" phase is related to but distinct from those superconductors explained by the standard BCS theory; rather than expelling magnetic field lines as in the Meissner effect, it generates them, a spontaneous Nernst effect that indicates the breaking of time-reversal symmetry. After the theoretical possibility was raised, observations consistent with electron quadrupling were published using hole-doped Ba1-xKxFe2As2 in 2021.
+
+See also
+List of states of matter
+
+
+== References ==

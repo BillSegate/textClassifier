@@ -1,0 +1,118 @@
+The history of group theory, a mathematical domain studying groups in their various forms, has evolved in various parallel threads. There are three historical roots of group theory: the theory of algebraic equations, number theory and geometry. Joseph Louis Lagrange, Niels Henrik Abel and Évariste Galois were early researchers in the field of group theory.
+
+Early 19th century
+The earliest study of groups as such probably goes back to the work of Lagrange in the late 18th century.  However, this work was somewhat isolated, and 1846 publications of Augustin Louis Cauchy and Galois are more commonly referred to as the beginning of group theory.  The theory did not develop in a vacuum, and so three important threads in its pre-history are developed here.
+
+Development of permutation groups
+One foundational root of group theory was the quest of solutions of polynomial equations of degree higher than 4.
+An early source occurs in the problem of forming an equation of degree m having as its roots m of the roots of a given equation of degree 
+  
+    
+      
+        n
+        >
+        m
+      
+    
+    {\displaystyle n>m}
+  . For simple cases, the problem goes back to Johann van Waveren Hudde (1659). Nicholas Saunderson (1740) noted that the determination of the quadratic factors of a biquadratic expression necessarily leads to a sextic equation, and Thomas Le Seur (1703–1770) (1748) and Edward Waring (1762 to 1782) still further elaborated the idea. Waring proved the fundamental theorem of symmetric polynomials, and specially considered the relation between the roots of a quartic equation and its resolvent cubic.Lagrange's goal (1770, 1771) was to understand why equations of third and fourth degree admit formulas for solutions, and a key object was the group of permutations of the roots. On this was built the theory of substitutions. He discovered that the roots of all Lagrange resolvents (résolvantes, réduites) which he examined are rational functions of the roots of the respective equations. To study the properties of these functions, he invented a Calcul des Combinaisons. The contemporary work of Alexandre-Théophile Vandermonde (1770) developed the theory of symmetric functions and solution of cyclotomic polynomials. Leopold Kronecker has been quoted as saying that a new boom in algebra began with Vandermonde's first paper. Similarly Cauchy gave credit to both Lagrange and Vandermonde for studying symmetric functions and permutations of variables.Paolo Ruffini (1799) attempted a proof of the impossibility of solving the quintic and higher equations. Ruffini was the first person to explore ideas in the theory of permutation groups such as the order of an element of a group, conjugacy, and the cycle decomposition of elements of permutation groups. Ruffini distinguished what are now called intransitive and transitive, and imprimitive and primitive groups, and (1801) uses the group of an equation under the name l'assieme delle permutazioni. He also published a letter from Pietro Abbati to himself, in which the group idea is prominent. However, he never formalized the concept of a group, or even of a permutation group.
+
+Évariste Galois is honored as the first mathematician linking group theory and field theory, with the theory that is now called Galois theory. Galois also contributed to the theory of modular equations and to that of elliptic functions. His first publication on group theory was made at the age of eighteen (1829), but his contributions attracted little attention until the posthumous publication of his collected papers in 1846 (Liouville, Vol. XI). He considered for the first time what is now called the closure property of a group of permutations, which he expressed as
+
+if in such a group one has the substitutions S and T then one has the substitution ST.
+Galois found that if 
+  
+    
+      
+        
+          r
+          
+            1
+          
+        
+        ,
+        
+          r
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          r
+          
+            n
+          
+        
+      
+    
+    {\displaystyle r_{1},r_{2},\ldots ,r_{n}}
+   are the n roots of an equation, there is always a group of permutations of the r's such that 
+
+every function of the roots invariable by the substitutions of the group is rationally known, and
+conversely, every rationally determinable function of the roots is invariant under the substitutions of the group.In modern terms, the solvability of the Galois group attached to the equation determines the solvability of the equation with radicals.
+Galois was the first to use the words group (groupe in French) and primitive in their modern meanings. He did not use primitive group but called equation primitive an equation whose Galois group is primitive. He discovered the notion of normal subgroups and found that a solvable primitive group may be identified to a subgroup of the affine group of an affine space over a finite field of prime order.Groups similar to Galois groups are (today) called permutation groups. The theory of permutation groups received further far-reaching development in the hands of Augustin Cauchy and Camille Jordan, both through introduction of new concepts and, primarily, a great wealth of results about special classes of permutation groups and even some general theorems. Among other things, Jordan defined a notion of isomorphism, although limited to the context of permutation groups. It was also Jordan who put the term group in wide use.
+An abstract notion of a (finite) group appeared for the first time in Arthur Cayley's 1854 paper On the theory of groups, as depending on the symbolic equation 
+  
+    
+      
+        
+          θ
+          
+            n
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle \theta ^{n}=1}
+  . Cayley proposed that any finite group is isomorphic to a subgroup of a permutation group, a result known today as Cayley's theorem. In succeeding years, Cayley systematically investigated infinite groups and the algebraic properties of matrices, such as the associativity of multiplication, existence of inverses, and characteristic polynomials.
+
+Groups related to geometry
+Secondly, the systematic use of groups in geometry, mainly in the guise of symmetry groups, was initiated by Felix Klein's 1872 Erlangen program. The study of what are now called Lie groups started systematically in 1884 with Sophus Lie, followed by work of Wilhelm Killing, Eduard Study, Issai Schur, Ludwig Maurer, and Élie Cartan. The discontinuous (discrete group) theory was built up by Klein, Lie, Henri Poincaré, and Charles Émile Picard, in connection in particular with modular forms and monodromy.
+
+Appearance of groups in number theory
+The third root of group theory was number theory. Leonhard Euler considered algebraic operations on numbers modulo an integer—modular arithmetic—in his generalization of Fermat's little theorem. These investigations were taken much further by Carl Friedrich Gauss, who considered the structure of multiplicative groups of residues mod n and established many properties of cyclic and more general abelian groups that arise in this way. In his investigations of composition of binary quadratic forms, Gauss explicitly stated the associative law for the composition of forms. In 1870, Leopold Kronecker gave a definition of an abelian group in the context of ideal class groups of a number field, generalizing Gauss's work. Ernst Kummer's attempts to prove Fermat's Last Theorem resulted in work introducing groups describing factorization into prime numbers. In 1882, Heinrich M. Weber realized the connection between permutation groups and abelian groups and gave a definition that included a two-sided cancellation property but omitted the existence of the inverse element, which was sufficient in his context (finite groups).
+
+Convergence
+Group theory as an increasingly independent subject was popularized by Serret, who devoted section IV of his algebra to the theory; by Camille Jordan, whose Traité des substitutions et des équations algébriques (1870) is a classic; and to Eugen Netto (1882), whose Theory of Substitutions and its Applications to Algebra was translated into English by Cole (1892). Other group theorists of the 19th century were Joseph Louis François Bertrand, Charles Hermite, Ferdinand Georg Frobenius, Leopold Kronecker, and Émile Mathieu; as well as William Burnside, Leonard Eugene Dickson, Otto Hölder, E. H. Moore, Ludwig Sylow, and Heinrich Martin Weber.
+The convergence of the above three sources into a uniform theory started with Jordan's Traité and Walther von Dyck (1882) who first defined a group in the full modern sense.  The textbooks of Weber and Burnside helped establish group theory as a discipline.  The abstract group formulation did not apply to a large portion of 19th century group theory, and an alternative formalism was given in terms of Lie algebras.
+
+Late 19th century
+Groups in the 1870-1900 period were described as the continuous groups of Lie, the discontinuous groups, finite groups of substitutions of roots (gradually being called permutations), and finite groups of linear substitutions (usually of finite fields).  During the 1880-1920 period, groups described by presentations came into a life of their own through the work of Cayley, Walther von Dyck, Max Dehn, Jakob Nielsen, Otto Schreier, and continued in the 1920-1940 period with the work of H. S. M. Coxeter, Wilhelm Magnus, and others to form the field of combinatorial group theory.
+Finite groups in the 1870-1900 period saw such highlights as the Sylow theorems, Hölder's classification of groups of square-free order, and the early beginnings of the character theory of Frobenius. Already by 1860, the groups of automorphisms of the finite projective planes had been studied (by Mathieu), and in the 1870s Klein's group-theoretic vision of geometry was being realized in his Erlangen program.  The automorphism groups of higher dimensional projective spaces were studied by Jordan in his Traité and included composition series for most of the so-called classical groups, though he avoided non-prime fields and omitted the unitary groups. The study was continued by Moore and Burnside, and brought into comprehensive textbook form by Leonard Dickson in 1901. The role of simple groups was emphasized by Jordan, and criteria for non-simplicity were developed by Hölder until he was able to classify the simple groups of order less than 200.  The study was continued by Frank Nelson Cole (up to 660) and Burnside (up to 1092), and finally in an early "millennium project", up to 2001 by Miller and Ling in 1900.
+Continuous groups in the 1870-1900 period developed rapidly. Killing and Lie's foundational papers were published, Hilbert's theorem in invariant theory 1882, etc.
+
+Early 20th century
+In the period 1900–1940, infinite "discontinuous" (now called discrete groups) groups gained life of their own. Burnside's famous problem ushered in the study of arbitrary subgroups of finite-dimensional linear groups over arbitrary fields, and indeed arbitrary groups. Fundamental groups and reflection groups encouraged the developments of J. A. Todd and Coxeter, such as the Todd–Coxeter algorithm in combinatorial group theory. Algebraic groups, defined as solutions of polynomial equations (rather than acting on them, as in the earlier century), benefited heavily from the continuous theory of Lie. Bernard Neumann and Hanna Neumann produced their study of varieties of groups, groups defined by group theoretic equations rather than polynomial ones. 
+Continuous groups also had explosive growth in the 1900-1940 period.  Topological groups began to be studied as such.  There were many great achievements in continuous groups: Cartan's classification of semisimple Lie algebras, Hermann Weyl's theory of representations of compact groups, Alfréd Haar's work in the locally compact case.
+Finite groups in the 1900-1940 grew immensely.  This period witnessed the birth of character theory by Frobenius, Burnside, and Schur which helped answer many of the 19th century questions in permutation groups, and opened the way to entirely new techniques in abstract finite groups. This period saw the work of Philip Hall: on a generalization of Sylow's theorem to arbitrary sets of primes which revolutionized the study of finite soluble groups, and on the power-commutator structure of p-groups, including the ideas of regular p-groups and isoclinism of groups, which revolutionized the study of p-groups and was the first major result in this area since Sylow. This period saw Hans Zassenhaus's famous Schur-Zassenhaus theorem on the existence of complements to Hall's generalization of Sylow subgroups, as well as his progress on Frobenius groups, and a near classification of Zassenhaus groups.
+
+Mid-20th century
+Both depth, breadth and also the impact of group theory subsequently grew. The domain started branching out into areas such as algebraic groups, group extensions, and representation theory. Starting in the 1950s, in a huge collaborative effort, group theorists succeeded to classify all finite simple groups in 1982. Completing and simplifying the proof of the classification are areas of active research.Anatoly Maltsev also made important contributions to group theory during this time; his early work was in logic in the 1930s, but in the 1940s he proved important embedding properties of semigroups into groups, studied the isomorphism problem of group rings, established the Malçev correspondence for polycyclic groups, and in the 1960s return to logic proving various theories within the study of groups to be undecidable.  Earlier, Alfred Tarski proved elementary group theory undecidable.The period of 1960-1980 was one of excitement in many areas of group theory.
+In finite groups, there were many independent milestones.  One had the discovery of 22 new sporadic groups, and the completion of the first generation of the classification of finite simple groups.  One had the influential idea of the Carter subgroup, and the subsequent creation of formation theory and the theory of classes of groups.  One had the remarkable extensions of Clifford theory by Green to the indecomposable modules of group algebras.  During this era, the field of computational group theory became a recognized field of study, due in part to its tremendous success during the first generation classification.
+In discrete groups, the geometric methods of Jacques Tits and the availability the surjectivity of Serge Lang's map allowed a revolution in algebraic groups.  The Burnside problem had tremendous progress, with better counterexamples constructed in the 1960s and early 1980s, but the finishing touches "for all but finitely many" were not completed until the 1990s.  The work on the Burnside problem increased interest in Lie algebras in exponent p, and the methods of Michel Lazard began to see a wider impact, especially in the study of p-groups.
+Continuous groups broadened considerably, with p-adic analytic questions becoming important.  Many conjectures were made during this time, including the coclass conjectures.
+
+Late 20th century
+The last twenty years of the 20th century enjoyed the successes of over one hundred years of study in group theory.
+In finite groups, post classification results included the O'Nan–Scott theorem, the Aschbacher classification, the classification of multiply transitive finite groups, the determination of the maximal subgroups of the simple groups and the corresponding classifications of primitive groups.  In finite geometry and combinatorics, many problems could now be settled.  The modular representation theory entered a new era as the techniques of the classification were axiomatized, including fusion systems, Luis Puig's theory of pairs and nilpotent blocks.  The theory of finite soluble groups was likewise transformed by the influential book of Klaus Doerk and Trevor Hawkes which brought the theory of projectors and injectors to a wider audience.
+In discrete groups, several areas of geometry came together to produce exciting new fields.  Work on knot theory, orbifolds, hyperbolic manifolds, and groups acting on trees (the Bass–Serre theory), much enlivened the study of hyperbolic groups, automatic groups.  Questions such as William Thurston's 1982 geometrization conjecture, inspired entirely new techniques in geometric group theory and low-dimensional topology, and was involved in the solution of one of the Millennium Prize Problems, the Poincaré conjecture.
+Continuous groups saw the solution of the problem of hearing the shape of a drum in 1992 using symmetry groups of the laplacian operator.  Continuous techniques were applied to many aspects of group theory using function spaces and quantum groups.  Many 18th and 19th century problems are now revisited in this more general setting, and many questions in the theory of the representations of groups have answers.
+
+Today
+Group theory continues to be an intensely studied matter. Its importance to contemporary mathematics as a whole may be seen from the 2008 Abel Prize, awarded to John Griggs Thompson and Jacques Tits for their contributions to group theory.
+
+Notes
+References
+Historically important publications in group theory.
+Curtis, Charles W. (2003), Pioneers of Representation Theory: Frobenius, Burnside, Schur, and Brauer, History of Mathematics, Providence, R.I.: American Mathematical Society, ISBN 978-0-8218-2677-5
+Galois, Évariste (1908), Tannery, Jules (ed.), Manuscrits de Évariste Galois, Paris: Gauthier-Villars
+Kleiner, Israel (1986), "The evolution of group theory: a brief survey", Mathematics Magazine, 59 (4): 195–215, doi:10.2307/2690312, ISSN 0025-570X, JSTOR 2690312, MR 0863090
+Kleiner, Israel (2007). Kleiner, Israel (ed.). A history of abstract algebra. Boston, Mass.: Birkhäuser. doi:10.1007/978-0-8176-4685-1. ISBN 978-0-8176-4685-1.
+Smith, David Eugene (1906), History of Modern Mathematics, Mathematical Monographs, No. 1
+Wussing, Hans (2007), The Genesis of the Abstract Group Concept: A Contribution to the History of the Origin of Abstract Group Theory, New York: Dover Publications, ISBN 978-0-486-45868-7
+du Sautoy, Marcus (2008), Finding Moonshine, London: Fourth Estate, ISBN 978-0-00-721461-7

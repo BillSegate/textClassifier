@@ -1,0 +1,62 @@
+Sets can be classified according to the properties they have.
+
+Relative to set theory
+Empty set
+Finite set, Infinite set
+Countable set, Uncountable set
+Power set
+
+Relative to a topology
+Closed set
+Open set
+Clopen set
+Fσ set
+Gδ set
+Compact set
+Relatively compact set
+Regular open set, regular closed set
+Connected set
+Perfect set
+Meagre set
+Nowhere dense set
+
+Relative to a metric
+Bounded set
+Totally bounded set
+
+Relative to measurability
+Borel set
+Baire set
+Measurable set, Non-measurable set
+Universally measurable set
+
+Relative to a measure
+Negligible set
+Null set
+Haar null set
+
+In a linear space
+Convex set
+Balanced set, Absolutely convex set
+
+Relative to the real/complex numbers
+Fractal set
+
+Ways of defining sets/Relation to descriptive set theory
+Recursive set
+Recursively enumerable set
+Arithmetical set
+Diophantine set
+Hyperarithmetical set
+Analytical set
+Analytic set, Coanalytic set
+Suslin set
+Projective set
+Inhabited set
+
+More general objects still called sets
+Multiset icarus set
+
+See also
+List of set identities and relations – Equalities for combinations of sets
+List of types of functions – List of functions in mathematics

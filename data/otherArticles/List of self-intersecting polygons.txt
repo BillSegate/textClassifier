@@ -1,0 +1,21 @@
+Self-intersecting polygons, crossed polygons, or self-crossing polygons are polygons some of whose edges cross each other. They contrast with simple polygons, whose edges never cross. 
+Some types of self-intersecting polygons are:
+
+the crossed quadrilateral, with four edges
+the antiparallelogram, a crossed quadrilateral with alternate edges of equal length
+the crossed rectangle, an antiparallelogram whose edges are two opposite sides and the two diagonals of a rectangle, hence having two edges parallel
+Star polygons
+pentagram, with five edges
+Hexagram, with six edges
+heptagram, with seven edges
+octagram, with eight edges
+enneagram or nonagram, with nine edges
+decagram, with ten edges
+hendecagram, with eleven edges
+dodecagram, with twelve edges
+icositetragram, with twenty four edges
+257-gram, with two hundred and fifty seven edges
+
+See also
+List of regular polytopes and compounds § Stars
+Complex polygon

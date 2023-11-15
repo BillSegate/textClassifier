@@ -1,0 +1,28 @@
+In mathematics and logic, a corollary ( KORR-ə-lerr-ee, UK:  korr-OL-ər-ee) is a theorem of less importance which can be readily deduced from a previous, more notable statement. A corollary could, for instance, be a proposition which is incidentally proved while proving another proposition; it might also be used more casually to refer to something which naturally or incidentally accompanies something else (e.g., violence as a corollary of revolutionary social changes).
+
+Overview
+In mathematics, a corollary is a theorem connected by a short proof to an existing theorem. The use of the term corollary, rather than proposition or theorem, is intrinsically subjective. More formally, proposition B is a corollary of proposition A, if B can be readily deduced from A or is self-evident from its proof. 
+In many cases, a corollary corresponds to a special case of a larger theorem, which makes the theorem easier to use and apply, even though its importance is generally considered to be secondary to that of the theorem. In particular, B is unlikely to be termed a corollary if its mathematical consequences are as significant as those of A. A corollary might have a proof that explains its derivation, even though such a derivation might be considered rather self-evident in some occasions (e.g., the Pythagorean theorem as a corollary of law of cosines).
+
+Peirce's theory of deductive reasoning
+Charles Sanders Peirce held that the most important division of kinds of deductive reasoning is that between corollarial and theorematic. He argued that while all deduction ultimately depends in one way or another on mental experimentation on schemata or diagrams, in corollarial deduction:
+"it is only necessary to imagine any case in which the premises are true in order to perceive immediately that the conclusion holds in that case"
+while in theorematic deduction:
+"It is necessary to experiment in the imagination upon the image of the premise in order from the result of such experiment to make corollarial deductions to the truth of the conclusion."Peirce also held that corollarial deduction matches Aristotle's conception of direct demonstration, which Aristotle regarded as the only thoroughly satisfactory demonstration, while theorematic deduction is:
+
+The kind more prized by mathematicians
+Peculiar to mathematics
+Involves in its course the introduction of a lemma or at least a definition uncontemplated in the thesis (the proposition that is to be proved), in remarkable cases that definition is of an abstraction that "ought to be supported by a proper postulate."
+
+See also
+Lemma (mathematics)
+Porism
+Proposition
+Lodge Corollary to the Monroe Doctrine
+Roosevelt Corollary to the Monroe Doctrine
+
+References
+Further reading
+Cut the knot: Sample corollaries of the Pythagorean theorem
+Geeks for geeks: Corollaries of binomial theorem
+Leo Tutorials: C language

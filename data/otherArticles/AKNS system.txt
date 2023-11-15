@@ -1,0 +1,91 @@
+In mathematics, the AKNS system is an integrable system of partial differential equations, introduced by and named after Mark J. Ablowitz, David J. Kaup, Alan C. Newell, and Harvey Segur from their publication in Studies in Applied Mathematics:  Ablowitz, Kaup, and Newell et al. (1974).
+
+Definition
+The AKNS system is a pair of two partial differential equations for two complex-valued functions p and q of 2 variables t and x:
+
+  
+    
+      
+        
+          p
+          
+            t
+          
+        
+        =
+        +
+        i
+        
+          p
+          
+            2
+          
+        
+        q
+        −
+        
+          
+            i
+            2
+          
+        
+        
+          p
+          
+            x
+            x
+          
+        
+      
+    
+    {\displaystyle p_{t}=+ip^{2}q-{\frac {i}{2}}p_{xx}}
+  
+
+  
+    
+      
+        
+          q
+          
+            t
+          
+        
+        =
+        −
+        i
+        
+          q
+          
+            2
+          
+        
+        p
+        +
+        
+          
+            i
+            2
+          
+        
+        
+          q
+          
+            x
+            x
+          
+        
+      
+    
+    {\displaystyle q_{t}=-iq^{2}p+{\frac {i}{2}}q_{xx}}
+  If p and q are complex conjugates this reduces to the nonlinear Schrödinger equation. 
+Huygens' principle applied to the Dirac operator gives rise to the AKNS hierarchy.
+
+Applications to General Relativity
+In 2021, the dynamics of three-dimensional (extremal) black holes on General Relativity with negative cosmological constant were showed equivalent to two independent copies of the AKNS system. This duality was addressed through the imposition of suitable boundary conditions to the Chern-Simons action. In this scheme, the involution of conserved charges of the AKNS system yields an infinite-dimensional commuting asymptotic symmetry algebra of gravitational charges.
+
+See also
+Huygens principle
+
+References
+
+Ablowitz, Mark J.; Kaup, David J.; Newell, Alan C.; Segur, Harvey (1974), "The inverse scattering transform-Fourier analysis for nonlinear problems", Studies in Appl. Math., 53 (4): 249–315, doi:10.1002/sapm1974534249, MR 0450815

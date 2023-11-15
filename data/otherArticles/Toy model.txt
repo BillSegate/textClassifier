@@ -1,0 +1,25 @@
+In the modeling of physics, a toy model is a deliberately simplistic model with many details removed so that it can be used to explain a mechanism concisely. It is also useful in a description of the fuller model.
+
+In "toy" mathematical models, this is usually done by reducing or extending the number of dimensions or reducing the number of fields/variables or restricting them to a particular symmetric form.
+In Macroeconomics modelling, are a class of models, some may be only loosely based on theory, others more explicitly so. But they have the same purpose. They allow for a quick first pass at some question, and present the essence of the answer from a more complicated model or from a class of models. For the researcher, they may come before writing a more elaborate model, or after, once the elaborate model has been worked out. Blanchard list of examples includes IS–LM model, the Mundell–Fleming model, the RBC model, and the New Keynesian model.
+In "toy" physical descriptions, an analogous example of an everyday mechanism is often used for illustration.The phrase "tinker-toy model" is also used, in reference to the popular Tinkertoys used for children's constructivist learning.
+
+Examples
+Examples of toy models in physics include:
+
+the Ising model as a toy model for ferromagnetism, or lattice models more generally. It is the simplest model that allows for Euclidean Quantum Field Theory in statistical physics
+orbital mechanics as described by assuming that Earth is attached to the Sun by an elastic band;
+Hawking radiation around a black hole described as conventional radiation from a fictitious membrane at radius r=2M (the black hole membrane paradigm);
+frame-dragging around a rotating star considered as the effect of space being a conventional viscous fluid.
+the concordance model of cosmology, in which general relativistic effects of structure formation are not taken into account.
+the Spekkens model, a hidden-variable theory.
+the primon gas, which illustrates some connections between number theory and physics.
+
+See also
+Physical model – Informative representation of an entityPages displaying short descriptions of redirect targets
+Spherical cow – Humorous concept in scientific models
+Toy problem – simplified example problem used for research or expositionPages displaying wikidata descriptions as a fallback
+Toy theorem – Simplified instance of a general theorem
+
+
+== References ==

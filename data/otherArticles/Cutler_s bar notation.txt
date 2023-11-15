@@ -1,0 +1,544 @@
+In mathematics, Cutler's bar notation is a notation system for large numbers, introduced by Mark Cutler in 2004.  The idea is based on iterated exponentiation in much the same way that exponentiation is iterated multiplication.
+
+Introduction
+A regular exponential can be expressed as such:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  a
+                  
+                    b
+                  
+                
+              
+              
+                =
+              
+              
+                
+                  
+                    
+                      
+                        a
+                        
+
+                        
+                      
+                      ×
+                      a
+                      ×
+                      ⋯
+                      ×
+                      a
+                    
+                    ⏟
+                  
+                
+              
+            
+            
+              
+              
+              
+                b
+                
+                  
+                     copies of 
+                  
+                
+                a
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{matrix}a^{b}&=&\underbrace {a_{}\times a\times \dots \times a} \\&&b{\mbox{ copies of }}a\end{matrix}}}
+  However, these expressions become arbitrarily large when dealing with systems such as Knuth's up-arrow notation.  Take the following:
+
+  
+    
+      
+        
+          
+            
+              
+              
+                
+                  
+                    
+                      a
+                      
+
+                      
+                      
+                        
+                          a
+                          
+                            
+                              
+
+                              
+                              
+                                .
+                                
+                                  
+                                  
+                                    .
+                                    
+                                      
+                                      
+                                        .
+                                        
+                                          
+                                          
+                                            a
+                                          
+                                        
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                    ⏟
+                  
+                
+              
+              
+            
+            
+              
+              
+                b
+                
+                  
+                     copies of 
+                  
+                
+                a
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{matrix}&\underbrace {a_{}^{a^{{}^{.\,^{.\,^{.\,^{a}}}}}}} &\\&b{\mbox{ copies of }}a\end{matrix}}}
+  Cutler's bar notation shifts these exponentials counterclockwise, forming 
+  
+    
+      
+        
+          
+            
+            
+              b
+            
+          
+        
+        
+          
+            
+              a
+              ¯
+            
+          
+        
+      
+    
+    {\displaystyle {^{b}}{\bar {a}}}
+  .  A bar is placed above the variable to denote this change.  As such:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                    
+                      b
+                    
+                  
+                
+                
+                  
+                    
+                      a
+                      ¯
+                    
+                  
+                
+                =
+              
+              
+                
+                  
+                    
+                      a
+                      
+
+                      
+                      
+                        
+                          a
+                          
+                            
+                              
+
+                              
+                              
+                                .
+                                
+                                  
+                                  
+                                    .
+                                    
+                                      
+                                      
+                                        .
+                                        
+                                          
+                                          
+                                            a
+                                          
+                                        
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                    ⏟
+                  
+                
+              
+              
+            
+            
+              
+              
+                b
+                
+                  
+                     copies of 
+                  
+                
+                a
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{matrix}{^{b}}{\bar {a}}=&\underbrace {a_{}^{a^{{}^{.\,^{.\,^{.\,^{a}}}}}}} &\\&b{\mbox{ copies of }}a\end{matrix}}}
+  This system becomes effective with multiple exponents, when regular denotation becomes too cumbersome.
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                  
+                    
+                      
+                      
+                        b
+                      
+                    
+                    
+                      b
+                    
+                  
+                
+                
+                  
+                    
+                      a
+                      ¯
+                    
+                  
+                
+                =
+              
+              
+                
+                  
+                    
+                      a
+                      
+
+                      
+                      
+                        
+                          a
+                          
+                            
+                              
+
+                              
+                              
+                                .
+                                
+                                  
+                                  
+                                    .
+                                    
+                                      
+                                      
+                                        .
+                                        
+                                          
+                                          
+                                            a
+                                          
+                                        
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                    ⏟
+                  
+                
+              
+              
+            
+            
+              
+              
+                
+                  
+                    
+                      
+                      
+                        b
+                      
+                    
+                  
+                  
+                    
+                      
+                        a
+                        ¯
+                      
+                    
+                  
+                
+                
+                  
+                     copies of 
+                  
+                
+                a
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{matrix}^{^{b}{b}}{\bar {a}}=&\underbrace {a_{}^{a^{{}^{.\,^{.\,^{.\,^{a}}}}}}} &\\&{{^{b}}{\bar {a}}}{\mbox{ copies of }}a\end{matrix}}}
+  At any time, this can be further shortened by rotating the exponential counterclockwise once more.
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      b
+                      
+
+                      
+                      
+                        
+                          b
+                          
+                            
+                              
+
+                              
+                              
+                                .
+                                
+                                  
+                                  
+                                    .
+                                    
+                                      
+                                      
+                                        .
+                                        
+                                          
+                                          
+                                            b
+                                          
+                                        
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                    ⏟
+                  
+                
+                
+                  
+                    
+                      a
+                      ¯
+                    
+                  
+                
+                =
+                
+                  
+                    
+                    
+                      c
+                    
+                  
+                
+                
+                  
+                    
+                      a
+                      ¯
+                    
+                  
+                
+              
+            
+            
+              
+                c
+                
+                  
+                     copies of 
+                  
+                
+                b
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{matrix}\underbrace {b_{}^{b^{{}^{.\,^{.\,^{.\,^{b}}}}}}} {\bar {a}}={_{c}}{\bar {a}}\\c{\mbox{ copies of }}b\end{matrix}}}
+  The same pattern could be iterated a fourth time, becoming 
+  
+    
+      
+        
+          
+            
+              
+                a
+                ¯
+              
+            
+          
+          
+            d
+          
+        
+      
+    
+    {\displaystyle {\bar {a}}_{d}}
+  .  For this reason, it is sometimes referred to as Cutler's circular notation.
+
+Advantages and drawbacks
+The Cutler bar notation can be used to easily express other notation systems in exponent form.  It also allows for a flexible summarization of multiple copies of the same exponents, where any number of stacked exponents can be shifted counterclockwise and shortened to a single variable.  The bar notation also allows for fairly rapid composure of very large numbers.  For instance, the number 
+  
+    
+      
+        
+          
+            
+              
+                10
+                ¯
+              
+            
+          
+          
+            10
+          
+        
+      
+    
+    {\displaystyle {\bar {10}}_{10}}
+   would contain more than a googolplex digits, while remaining fairly simple to write with and remember.
+However, the system reaches a problem when dealing with different exponents in a single expression.  For instance, the expression 
+  
+    
+      
+        
+          
+          
+            
+              a
+              
+                
+                  b
+                  
+                    
+                      b
+                      
+                        c
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle ^{a^{b^{b^{c}}}}}
+   could not be summarized in bar notation.  Additionally, the exponent can only be shifted thrice before it returns to its original position, making a five degree shift indistinguishable from a one degree shift.  Some have suggested using a double and triple bar in subsequent rotations, though this presents problems when dealing with ten- and twenty-degree shifts.
+Other equivalent notations for the same operations already exist without being limited to a fixed number of recursions, notably Knuth's up-arrow notation and hyperoperation notation.
+
+See also
+Mathematical notation
+
+References
+Mark Cutler, Physical Infinity, 2004
+Daniel Geisler, tetration.org
+R. Knobel. "Exponentials Reiterated." American Mathematical Monthly 88, (1981)

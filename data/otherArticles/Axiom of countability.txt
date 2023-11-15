@@ -1,0 +1,25 @@
+In mathematics, an axiom of countability is a property of certain mathematical objects that asserts the existence of a countable set with certain properties. Without such an axiom, such a set might not provably exist.
+
+Important examples
+Important countability axioms for topological spaces include:
+sequential space: a set is open if every sequence convergent to a point in the set is eventually in the set
+first-countable space: every point has a countable neighbourhood basis (local  base)
+second-countable space: the topology has a countable base
+separable space: there exists a countable dense subset
+Lindelöf space: every open cover has a countable subcover
+σ-compact space: there exists a countable cover by compact spaces
+
+Relationships with each other
+These axioms are related to each other in the following ways:
+
+Every first-countable space is sequential.
+Every second-countable space is first countable, separable, and Lindelöf.
+Every σ-compact space is Lindelöf.
+Every metric space is first countable.
+For metric spaces, second-countability, separability, and the Lindelöf property are all equivalent.
+
+Related concepts
+Other examples of mathematical objects obeying axioms of countability include sigma-finite measure spaces, and lattices of countable type.
+
+
+== References ==

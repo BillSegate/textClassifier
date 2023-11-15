@@ -1,0 +1,25 @@
+In knot theory, prime knots are those knots that are indecomposable under the operation of knot sum.  The prime knots with ten or fewer crossings are listed here for quick comparison of their properties and varied naming schemes.
+
+Table of prime knots
+Six or fewer crossings
+Seven crossings
+Eight crossings
+Nine crossings
+Ten crossings
+Higher
+Conway knot 11n34
+Kinoshita–Terasaka knot 11n42
+
+Table of prime links
+Seven or fewer crossings
+Higher
+See also
+List of knots
+List of mathematical knots and links
+Knot tabulation
+(−2,3,7) pretzel knot
+
+Notes
+External links
+"The Rolfsen Knot Table", The Knot Atlas.
+"KnotInfo", Indiana.edu.

@@ -1,0 +1,9 @@
+This article consists of tables outlining a number of physical quantities.
+The first table lists the fundamental quantities used in the International System of Units to define the physical dimension of physical quantities for dimensional analysis. The second table lists the derived physical quantities. Derived quantities can be expressed in terms of the base quantities.
+Note that neither the names nor the symbols used for the physical quantities are international standards. Some quantities are known as several different names such as the magnetic B-field which known as the magnetic flux density, the magnetic induction or simply as the magnetic field depending on the context. Similarly, surface tension can be denoted by either σ, γ or T. The table usually lists only one name and symbol that is most commonly used.
+The final column lists some special properties that some of the quantities have, such as their scaling behavior (i.e. whether the quantity is intensive or extensive), their transformation properties (i.e. whether the quantity is a scalar, vector, matrix or tensor), and whether the quantity is conserved.
+
+See also
+
+List of photometric quantities
+List of radiometric quantities

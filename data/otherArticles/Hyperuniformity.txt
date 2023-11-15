@@ -1,0 +1,143 @@
+Hyperuniform materials are characterized by an anomalous suppression of density fluctuations at large scales. More precisely, the vanishing of density fluctuations in the long-wave length limit (like for crystals) distinguishes hyperuniform systems from typical gases, liquids, or amorphous solids. Examples of hyperuniformity include all perfect crystals, perfect quasicrystals, and exotic amorphous states of matter.Quantitatively, a many-particle system is said to be hyperuniform if the variance of the number of points within a spherical observation window grows more slowly than the volume of the observation window. This definition is equivalent to a vanishing of the structure factor in the long-wavelength limit, and it has been extended to include heterogeneous materials as well as scalar, vector, and tensor fields. Disordered hyperuniform systems, were shown to be poised at an "inverted" critical point. They can be obtained via equilibrium or nonequilibrium routes, and are found in both classical physical and quantum-mechanical systems. Hence, the concept of hyperuniformity now connects a broad range of topics in physics, mathematics, biology, and materials science.The concept of hyperuniformity generalizes the traditional notion of long-range order and thus defines an exotic state of matter. A disordered hyperuniform many-particle system can be statistically isotropic like a liquid, with no Bragg peaks and no conventional type of long-range order. Nevertheless, at large scales, hyperuniform systems resemble crystals, in their suppression of large-scale density fluctuations. This unique combination is known to endow disordered hyperuniform materials with novel physical properties that are, e.g., both nearly optimal and direction independent (in contrast to those of crystals that are anisotropic).
+
+History
+The term hyperuniformity (also independently called super-homogeneity in the context of cosmology) was coined and studied by Salvatore Torquato and Frank Stillinger in a 2003 paper, in which they showed that, among other things, hyperuniformity provides a unified framework to classify and structurally characterize crystals, quasicrystals, and exotic disordered varieties. In that sense, hyperuniformity is a long-range property that can be viewed as generalizing the traditional notion of long-range order (e.g., translational / orientational order of crystals or orientational order of quasicrystals) to also encompass exotic disordered systems.Hyperuniformity was first introduced for point processes and later generalized to two-phase materials (or porous media) and random scalar or vectors fields. It has been observed in theoretical models, simulations, and experiments, see list of examples below.
+
+Definition
+A many-particle system in 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+  -dimensional Euclidean space 
+  
+    
+      
+        
+          R
+          
+            d
+          
+        
+      
+    
+    {\displaystyle R^{d}}
+   is said to be hyperuniform if the number of points in a spherical observation window with radius 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   has a variance 
+  
+    
+      
+        
+          σ
+          
+            N
+          
+          
+            2
+          
+        
+        (
+        R
+        )
+      
+    
+    {\displaystyle \sigma _{N}^{2}(R)}
+   that scales slower than the volume of the observation window:This definition is (essentially) equivalent to the vanishing of the structure factor at the origin:for wave vectors 
+  
+    
+      
+        
+          k
+        
+        ∈
+        
+          
+            R
+          
+          
+            d
+          
+        
+      
+    
+    {\displaystyle \mathbf {k} \in \mathbb {R} ^{d}}
+  .
+Similarly, a two-phase medium consisting of a solid and a void phase is said to be hyperuniform if the volume of the solid phase inside the spherical observation window has a variance that scales slower than the volume of the observation window. This definition is, in turn, equivalent to a vanishing of the spectral density at the origin.An essential feature of hyperuniform systems is their scaling of the number variance 
+  
+    
+      
+        
+          σ
+          
+            N
+          
+          
+            2
+          
+        
+        (
+        R
+        )
+      
+    
+    {\displaystyle \sigma _{N}^{2}(R)}
+   for large radii or, equivalently, of the structure factor 
+  
+    
+      
+        S
+        (
+        k
+        )
+      
+    
+    {\displaystyle S(k)}
+   for small wave numbers. If we consider hyperuniform systems that are characterized by a power-law behavior of the structure factor close to the origin:with a constant 
+  
+    
+      
+        0
+        <
+        α
+        <
+        ∞
+      
+    
+    {\displaystyle 0<\alpha <\infty }
+  , then there are three distinct scaling behaviors that define three classes of hyperuniformity:Examples are known for all three classes of hyperuniformity.
+
+Examples
+Examples of disordered hyperuniform systems in physics are disordered ground states, jammed disordered sphere packings, amorphous ices, amorphous speckle patterns, certain fermionic systems, random self-organization,  perturbed lattices, and avian photoreceptor cells.In mathematics, disordered hyperuniformity has been studied in the context of probability theory, geometry, and number theory, where the prime numbers have been found to be effectively limit periodic and hyperuniform in a certain scaling limit. Further examples include certain random walks and stable matchings of point processes.
+
+Ordered hyperuniformity
+Examples of ordered, hyperuniform systems include all crystals, all quasicrystals, and limit-periodic sets. While weakly correlated noise typically preserves hyperuniformity, correlated excitations at finite temperature tend to destroy hyperuniformity.Hyperuniformity was also reported for fermionic quantum matter in correlated electron systems as a result of cramming.
+
+Disordered hyperuniformity
+Torquato (2014) gives an illustrative example of the hidden order found in a "shaken box of marbles", which fall into an arrangement, called maximally random jammed packing. Such hidden order may eventually be used for self-organizing colloids or optics with the ability to transmit light with an efficiency like a crystal but with a highly flexible design.It has been found that disordered hyperuniform systems possess unique optical properties. For example, disordered hyperuniform photonic networks have been found to exhibit complete photonic band gaps that are comparable in size to those of photonic crystals but with the added advantage of isotropy, which enables free-form waveguides not possible with crystal structures. Moreover, in stealthy hyperuniform systems, light of any wavelength longer than a value specific to the material is able to propagate forward without loss (due to the correlated disorder) even for high particle density.By contrast, in conditions where light is propagated through an uncorrelated, disordered material of the same density, the material would appear opaque due to multiple scattering. “Stealthy” hyperuniform materials can be theoretically designed for light of any wavelength, and the applications of the concept cover a wide variety of fields of wave physics and materials engineering.Disordered hyperuniformity was found in the photoreceptor cell patterns in the eyes of chickens. This is thought to be the case because the light-sensitive cells in chicken or other bird eyes cannot easily attain an optimal crystalline arrangement but instead form a disordered configuration that is as uniform as possible. Indeed, it is the remarkable property of "mulithyperuniformity" of the avian cone patterns, that enables birds to achieve acute color sensing.Disordered hyperuniformity was recently discovered in amorphous 2‑D materials, which was shown to enhance electronic transport in the material. It may also emerge in the mysterious biological patterns known as fairy circles - circle and patterns of circles that emerge in arid places.
+
+Making disordered, but highly uniform, materials
+The challenge of creating disordered hyperuniform materials is partly attributed to the inevitable presence of imperfections, such as defects and thermal fluctuations. For example, the fluctuation-compressibility relation dictates that any compressible one-component fluid in thermal equilibrium cannot be strictly hyperuniform at finite temperature.Recently Chremos & Douglas (2018) proposed a design rule for the practical creation of hyperuniform materials at the molecular level. Specifically, effective hyperuniformity as measured by the hyperuniformity index is achieved by specific parts of the molecules (e.g., the core of the star polymers or the backbone chains in the case of bottlebrush polymers).The combination of these features leads to molecular packings that are highly uniform at both small and large length scales.
+
+Non-equilibrium hyperuniform fluids and length scales
+Disordered hyperuniformity implies a long-ranged direct correlation function (the Ornstein–Zernike equation). In an equilibrium many-particle system, this requires delicately designed effectively long-ranged interactions, which are not necessary for the dynamic self-assembly of non-equilibrium hyperuniform states. In 2019, Ni and co-workers theoretically predicted a non-equilibrium strongly hyperuniform fluid phase that exists in systems of circularly swimming active hard spheres, which was confirmed experimentally in 2022.This new hyperuniform fluid features a special length scale, i.e., the diameter of the circular trajectory of active particles, below which large density fluctuations are observed. Moreover, based on a generalized random organising model, Lei and Ni (2019) formulated a hydrodynamic theory for non-equilibrium hyperuniform fluids, and the length scale above which the system is hyperuniform is controlled by the inertia of the particles. The theory generalizes the mechanism of fluidic hyperuniformity as the damping of the stochastic harmonic oscillator, which indicates that the suppressed long-wavelength density fluctuation can exhibit as either acoustic (resonance) mode or diffusive (overdamped) mode.
+
+See also
+Crystal
+Quasicrystal
+Amorphous solid
+State of matter
+
+References
+External links
+Wolchover, Natalie. "A bird's-eye view of nature's hidden order". Quanta Magazine.
+Wolchover, Natalie. "A chemist shines light on a surprising prime number pattern". Quanta Magazine.

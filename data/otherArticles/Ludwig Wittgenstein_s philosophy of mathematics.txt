@@ -1,0 +1,22 @@
+Ludwig Wittgenstein considered his chief contribution to be in the philosophy of mathematics, a topic to which he devoted much of his work between 1929 and 1944. As with his philosophy of language, Wittgenstein's views on mathematics evolved from the period of the Tractatus Logico-Philosophicus: with him changing from logicism (which was endorsed by his mentor Bertrand Russell) towards a general anti-foundationalism and constructivism that was not readily accepted by the mathematical community. The success of Wittgenstein's general philosophy has tended to displace the real debates on more technical issues.His Remarks on the Foundations of Mathematics contains his compiled views, notably a controversial repudiation of Gödel's incompleteness theorems.
+
+Tractatus
+Wittgenstein's initial conception of mathematics was logicist and even formalist. The Tractatus  described the propositions of logic as a series of tautologies derived from syntactic manipulation, and without the pictorial force of elementary propositions depicting states of affairs obtaining in the world.
+Wittgenstein asserted that “[t]he logic of the world, which is shown in tautologies by the propositions of logic, is shown in equations by mathematics” (6.22) and further that “Mathematics is a method of logic” (6.234).
+
+Philosophy of mathematics, post-1929
+During the 1920s Wittgenstein turned away from philosophical matters but his interest in mathematics was rekindled when he attended in Vienna a lecture by the intuitionist L. E. J. Brouwer. After 1929, his primary mathematical preoccupation entailed resolving the account of logical necessity he had articulated in the Tractatus Logico-Philosophicus—an issue which had been fiercely pressed by Frank P. Ramsey. Wittgenstein's initial response, Some Remarks on Logical Form, was the only academic paper he published during his lifetime, and marked the beginnings of a departure from the ideal language philosophy and correspondence theory of truth of the Tractatus.
+
+The Lectures on the Foundations of mathematics
+During the two terms of 1938/9 Wittgenstein lectured without any notes before students for two hours twice a week. From four sets of notes made during the lectures a text has been created, presenting Wittgenstein's views at that time.
+
+The Remarks on the Foundations of mathematics (1937–44)
+An editorial team prepared the edition of Wittgenstein's Remarks on the Foundations of mathematics from the manuscript notes he made  during the years 1937–44. The material has been arranged in chronological order, allowing to observe some changes of emphasis or interest in Wittgenstein's views over the years.
+
+References
+Crispin Wright, 1980, Wittgenstein on the Foundations of Mathematics, Harvard University Press, ISBN 0674953851
+Pasquale Frascolla, 1994, Wittgenstein's Philosophy of Mathematics, Routledge
+
+External links
+Sorin Bangu, Ludwig Wittgenstein: Later Philosophy of Mathematics , IEP
+Victor Rodych, Wittgenstein's Philosophy of Mathematics, The Stanford Encyclopedia of Philosophy

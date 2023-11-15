@@ -1,0 +1,8 @@
+In logic, the scope of a quantifier or a quantification is the range in the formula where the quantifier "engages in". It is put right after the quantifier, often in parentheses. Some authors describe this as including the variable put right after the forall or exists symbol. In the formula ∀xP, for example, P (or xP) is the scope of the quantifier ∀x (or ∀).
+A variable in the formula is free, if and only if it does not occur in the scope of any quantifier for that variable. A term is free for a variable in the formula (i.e. free to substitute that variable that occurs free), if and only if that variable does not occur free in the scope of any quantifier for any variable in the term.
+
+See also
+Modal scope fallacy
+
+
+== Notes ==

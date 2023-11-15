@@ -1,0 +1,4611 @@
+In mathematics and computer science, the floor function is the function  that takes as input a real number x, and gives as output the greatest integer less than or equal to x, denoted ⌊x⌋ or floor(x).  Similarly, the ceiling function maps x to the least integer greater than or equal to x, denoted ⌈x⌉ or ceil(x).For example, for floor: ⌊2.4⌋ = 2, ⌊−2.4⌋ = −3, and for ceiling: ⌈2.4⌉ = 3, and ⌈−2.4⌉ = −2.  
+Historically, the floor of x has been–and still is–called the integral part or integer part of x, often denoted [x] (as well as a variety of other notations). However, the same term, integer part, is also used for truncation towards zero, which differs from the floor function for negative numbers.
+For n an integer, ⌊n⌋ = ⌈n⌉ = [n] = n.
+Although floor(x+1)  and ceil(x) produce graphs that appear exactly alike, they are not the same when the value of x is an exact integer. For example, when x=2.0001; ⌊2.0001+1⌋ = ⌈2.0001⌉ = 3. However, if x=2, then ⌊2+1⌋ = 3, while  ⌈2⌉ = 2.
+
+Notation
+The integral part or integer part of a number (partie entière in the original) was first defined in 1798 by Adrien-Marie Legendre in his proof of the Legendre's formula.
+Carl Friedrich Gauss introduced the square bracket notation [x] in his third proof of quadratic reciprocity (1808). This remained the standard in mathematics until Kenneth E. Iverson introduced, in his 1962 book A Programming Language, the names "floor" and "ceiling" and the corresponding notations ⌊x⌋ and ⌈x⌉. (Iverson used square brackets for a different purpose, the Iverson bracket notation.) Both notations are now used in mathematics, although Iverson's notation will be followed in this article.
+In some sources, boldface or double brackets ⟦x⟧ are used for floor, and reversed brackets ⟧x⟦ or ]x[ for ceiling.The fractional part is the sawtooth function, denoted by {x}  for real x and defined by the formula
+
+{x} = x − ⌊x⌋For all x,
+
+0 ≤ {x} < 1.These characters are provided in Unicode: 
+
+U+2308 ⌈ LEFT CEILING (&lceil;, &LeftCeiling;)
+U+2309 ⌉ RIGHT CEILING (&rceil;, &RightCeiling;)
+U+230A ⌊ LEFT FLOOR (&LeftFloor;, &lfloor;)
+U+230B ⌋ RIGHT FLOOR (&rfloor;, &RightFloor;)In the LaTeX typesetting system, these symbols can be specified with the \lceil, \rceil, \lfloor,  and \rfloor commands in math mode, and extended in size using \left\lceil, \right\rceil, \left\lfloor, and \right\rfloor as needed.
+Some authors define [x] as the round-toward-zero function, so [2.4] = 2 and [−2.4] = −2, and call it the "integer part".
+
+Definition and properties
+Given real numbers x and y, integers m and n and the set of integers 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  , floor and ceiling may be defined by the equations
+
+  
+    
+      
+        ⌊
+        x
+        ⌋
+        =
+        max
+        {
+        m
+        ∈
+        
+          Z
+        
+        ∣
+        m
+        ≤
+        x
+        }
+        ,
+      
+    
+    {\displaystyle \lfloor x\rfloor =\max\{m\in \mathbb {Z} \mid m\leq x\},}
+  
+  
+    
+      
+        ⌈
+        x
+        ⌉
+        =
+        min
+        {
+        n
+        ∈
+        
+          Z
+        
+        ∣
+        n
+        ≥
+        x
+        }
+        .
+      
+    
+    {\displaystyle \lceil x\rceil =\min\{n\in \mathbb {Z} \mid n\geq x\}.}
+  Since there is exactly one integer in a half-open interval of length one, for any real number x, there are unique integers m and n satisfying the equation
+
+  
+    
+      
+        x
+        −
+        1
+        <
+        m
+        ≤
+        x
+        ≤
+        n
+        <
+        x
+        +
+        1.
+      
+    
+    {\displaystyle x-1<m\leq x\leq n<x+1.}
+  where 
+  
+    
+      
+        ⌊
+        x
+        ⌋
+        =
+        m
+      
+    
+    {\displaystyle \lfloor x\rfloor =m}
+   and 
+  
+    
+      
+        ⌈
+        x
+        ⌉
+        =
+        n
+      
+    
+    {\displaystyle \lceil x\rceil =n}
+   may also be taken as the definition of floor and ceiling.
+
+Equivalences
+These formulas can be used to simplify expressions involving floors and ceilings.
+
+  
+    
+      
+        
+          
+            
+              
+                ⌊
+                x
+                ⌋
+                =
+                m
+              
+              
+                
+                
+                
+                  
+                     if and only if 
+                  
+                
+              
+              
+                m
+              
+              
+                
+                ≤
+                x
+                <
+                m
+                +
+                1
+                ,
+              
+            
+            
+              
+                ⌈
+                x
+                ⌉
+                =
+                n
+              
+              
+                
+                
+                
+                  
+                     if and only if 
+                  
+                
+              
+              
+                n
+                −
+                1
+              
+              
+                
+                <
+                x
+                ≤
+                n
+                ,
+              
+            
+            
+              
+                ⌊
+                x
+                ⌋
+                =
+                m
+              
+              
+                
+                
+                
+                  
+                     if and only if 
+                  
+                
+              
+              
+                x
+                −
+                1
+              
+              
+                
+                <
+                m
+                ≤
+                x
+                ,
+              
+            
+            
+              
+                ⌈
+                x
+                ⌉
+                =
+                n
+              
+              
+                
+                
+                
+                  
+                     if and only if 
+                  
+                
+              
+              
+                x
+              
+              
+                
+                ≤
+                n
+                <
+                x
+                +
+                1.
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\lfloor x\rfloor =m&\;\;{\mbox{ if and only if }}&m&\leq x<m+1,\\\lceil x\rceil =n&\;\;{\mbox{ if and only if }}&n-1&<x\leq n,\\\lfloor x\rfloor =m&\;\;{\mbox{ if and only if }}&x-1&<m\leq x,\\\lceil x\rceil =n&\;\;{\mbox{ if and only if }}&x&\leq n<x+1.\end{aligned}}}
+  In the language of order theory, the floor function is a residuated mapping, that is, part of a Galois connection: it is the upper adjoint of the function that embeds the integers into the reals.
+
+  
+    
+      
+        
+          
+            
+              
+                x
+                <
+                n
+              
+              
+                
+                
+                
+                  
+                     if and only if 
+                  
+                
+              
+              
+                ⌊
+                x
+                ⌋
+              
+              
+                
+                <
+                n
+                ,
+              
+            
+            
+              
+                n
+                <
+                x
+              
+              
+                
+                
+                
+                  
+                     if and only if 
+                  
+                
+              
+              
+                n
+              
+              
+                
+                <
+                ⌈
+                x
+                ⌉
+                ,
+              
+            
+            
+              
+                x
+                ≤
+                n
+              
+              
+                
+                
+                
+                  
+                     if and only if 
+                  
+                
+              
+              
+                ⌈
+                x
+                ⌉
+              
+              
+                
+                ≤
+                n
+                ,
+              
+            
+            
+              
+                n
+                ≤
+                x
+              
+              
+                
+                
+                
+                  
+                     if and only if 
+                  
+                
+              
+              
+                n
+              
+              
+                
+                ≤
+                ⌊
+                x
+                ⌋
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}x<n&\;\;{\mbox{ if and only if }}&\lfloor x\rfloor &<n,\\n<x&\;\;{\mbox{ if and only if }}&n&<\lceil x\rceil ,\\x\leq n&\;\;{\mbox{ if and only if }}&\lceil x\rceil &\leq n,\\n\leq x&\;\;{\mbox{ if and only if }}&n&\leq \lfloor x\rfloor .\end{aligned}}}
+  These formulas show how adding an integer n to the arguments affects the functions:
+
+  
+    
+      
+        
+          
+            
+              
+                ⌊
+                x
+                +
+                n
+                ⌋
+              
+              
+                
+                =
+                ⌊
+                x
+                ⌋
+                +
+                n
+                ,
+              
+            
+            
+              
+                ⌈
+                x
+                +
+                n
+                ⌉
+              
+              
+                
+                =
+                ⌈
+                x
+                ⌉
+                +
+                n
+                ,
+              
+            
+            
+              
+                {
+                x
+                +
+                n
+                }
+              
+              
+                
+                =
+                {
+                x
+                }
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\lfloor x+n\rfloor &=\lfloor x\rfloor +n,\\\lceil x+n\rceil &=\lceil x\rceil +n,\\\{x+n\}&=\{x\}.\end{aligned}}}
+  The above are never true if n is not an integer; however, for every x and y, the following inequalities hold:
+
+  
+    
+      
+        
+          
+            
+              
+                ⌊
+                x
+                ⌋
+                +
+                ⌊
+                y
+                ⌋
+              
+              
+                
+                ≤
+                ⌊
+                x
+                +
+                y
+                ⌋
+                ≤
+                ⌊
+                x
+                ⌋
+                +
+                ⌊
+                y
+                ⌋
+                +
+                1
+                ,
+              
+            
+            
+              
+                ⌈
+                x
+                ⌉
+                +
+                ⌈
+                y
+                ⌉
+                −
+                1
+              
+              
+                
+                ≤
+                ⌈
+                x
+                +
+                y
+                ⌉
+                ≤
+                ⌈
+                x
+                ⌉
+                +
+                ⌈
+                y
+                ⌉
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\lfloor x\rfloor +\lfloor y\rfloor &\leq \lfloor x+y\rfloor \leq \lfloor x\rfloor +\lfloor y\rfloor +1,\\\lceil x\rceil +\lceil y\rceil -1&\leq \lceil x+y\rceil \leq \lceil x\rceil +\lceil y\rceil .\end{aligned}}}
+
+Monotonicity
+Both floor and ceiling functions are the monotonically non-decreasing function:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  x
+                  
+                    1
+                  
+                
+                ≤
+                
+                  x
+                  
+                    2
+                  
+                
+              
+              
+                
+                ⇒
+                ⌊
+                
+                  x
+                  
+                    1
+                  
+                
+                ⌋
+                ≤
+                ⌊
+                
+                  x
+                  
+                    2
+                  
+                
+                ⌋
+                ,
+              
+            
+            
+              
+                
+                  x
+                  
+                    1
+                  
+                
+                ≤
+                
+                  x
+                  
+                    2
+                  
+                
+              
+              
+                
+                ⇒
+                ⌈
+                
+                  x
+                  
+                    1
+                  
+                
+                ⌉
+                ≤
+                ⌈
+                
+                  x
+                  
+                    2
+                  
+                
+                ⌉
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}x_{1}\leq x_{2}&\Rightarrow \lfloor x_{1}\rfloor \leq \lfloor x_{2}\rfloor ,\\x_{1}\leq x_{2}&\Rightarrow \lceil x_{1}\rceil \leq \lceil x_{2}\rceil .\end{aligned}}}
+
+Relations among the functions
+It is clear from the definitions that
+
+  
+    
+      
+        ⌊
+        x
+        ⌋
+        ≤
+        ⌈
+        x
+        ⌉
+        ,
+      
+    
+    {\displaystyle \lfloor x\rfloor \leq \lceil x\rceil ,}
+     with equality if and only if x is an integer, i.e.
+
+  
+    
+      
+        ⌈
+        x
+        ⌉
+        −
+        ⌊
+        x
+        ⌋
+        =
+        
+          
+            {
+            
+              
+                
+                  0
+                
+                
+                  
+                    
+                       if 
+                    
+                  
+                  x
+                  ∈
+                  
+                    Z
+                  
+                
+              
+              
+                
+                  1
+                
+                
+                  
+                    
+                       if 
+                    
+                  
+                  x
+                  ∉
+                  
+                    Z
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle \lceil x\rceil -\lfloor x\rfloor ={\begin{cases}0&{\mbox{ if }}x\in \mathbb {Z} \\1&{\mbox{ if }}x\not \in \mathbb {Z} \end{cases}}}
+  In fact, for integers n, both floor and ceiling functions are the identity:
+
+  
+    
+      
+        ⌊
+        n
+        ⌋
+        =
+        ⌈
+        n
+        ⌉
+        =
+        n
+        .
+      
+    
+    {\displaystyle \lfloor n\rfloor =\lceil n\rceil =n.}
+  Negating the argument switches floor and ceiling and changes the sign:
+
+  
+    
+      
+        
+          
+            
+              
+                ⌊
+                x
+                ⌋
+                +
+                ⌈
+                −
+                x
+                ⌉
+              
+              
+                
+                =
+                0
+              
+            
+            
+              
+                −
+                ⌊
+                x
+                ⌋
+              
+              
+                
+                =
+                ⌈
+                −
+                x
+                ⌉
+              
+            
+            
+              
+                −
+                ⌈
+                x
+                ⌉
+              
+              
+                
+                =
+                ⌊
+                −
+                x
+                ⌋
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\lfloor x\rfloor +\lceil -x\rceil &=0\\-\lfloor x\rfloor &=\lceil -x\rceil \\-\lceil x\rceil &=\lfloor -x\rfloor \end{aligned}}}
+  and:
+
+  
+    
+      
+        ⌊
+        x
+        ⌋
+        +
+        ⌊
+        −
+        x
+        ⌋
+        =
+        
+          
+            {
+            
+              
+                
+                  0
+                
+                
+                  
+                    if 
+                  
+                  x
+                  ∈
+                  
+                    Z
+                  
+                
+              
+              
+                
+                  −
+                  1
+                
+                
+                  
+                    if 
+                  
+                  x
+                  ∉
+                  
+                    Z
+                  
+                  ,
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle \lfloor x\rfloor +\lfloor -x\rfloor ={\begin{cases}0&{\text{if }}x\in \mathbb {Z} \\-1&{\text{if }}x\not \in \mathbb {Z} ,\end{cases}}}
+  
+  
+    
+      
+        ⌈
+        x
+        ⌉
+        +
+        ⌈
+        −
+        x
+        ⌉
+        =
+        
+          
+            {
+            
+              
+                
+                  0
+                
+                
+                  
+                    if 
+                  
+                  x
+                  ∈
+                  
+                    Z
+                  
+                
+              
+              
+                
+                  1
+                
+                
+                  
+                    if 
+                  
+                  x
+                  ∉
+                  
+                    Z
+                  
+                  .
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle \lceil x\rceil +\lceil -x\rceil ={\begin{cases}0&{\text{if }}x\in \mathbb {Z} \\1&{\text{if }}x\not \in \mathbb {Z} .\end{cases}}}
+  Negating the argument complements the fractional part:
+
+  
+    
+      
+        {
+        x
+        }
+        +
+        {
+        −
+        x
+        }
+        =
+        
+          
+            {
+            
+              
+                
+                  0
+                
+                
+                  
+                    if 
+                  
+                  x
+                  ∈
+                  
+                    Z
+                  
+                
+              
+              
+                
+                  1
+                
+                
+                  
+                    if 
+                  
+                  x
+                  ∉
+                  
+                    Z
+                  
+                  .
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle \{x\}+\{-x\}={\begin{cases}0&{\text{if }}x\in \mathbb {Z} \\1&{\text{if }}x\not \in \mathbb {Z} .\end{cases}}}
+  The floor, ceiling, and fractional part functions are idempotent:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    ⌊
+                  
+                
+                ⌊
+                x
+                ⌋
+                
+                  
+                    ⌋
+                  
+                
+              
+              
+                
+                =
+                ⌊
+                x
+                ⌋
+                ,
+              
+            
+            
+              
+                
+                  
+                    ⌈
+                  
+                
+                ⌈
+                x
+                ⌉
+                
+                  
+                    ⌉
+                  
+                
+              
+              
+                
+                =
+                ⌈
+                x
+                ⌉
+                ,
+              
+            
+            
+              
+                
+                  
+                    {
+                  
+                
+                {
+                x
+                }
+                
+                  
+                    }
+                  
+                
+              
+              
+                
+                =
+                {
+                x
+                }
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\Big \lfloor }\lfloor x\rfloor {\Big \rfloor }&=\lfloor x\rfloor ,\\{\Big \lceil }\lceil x\rceil {\Big \rceil }&=\lceil x\rceil ,\\{\Big \{}\{x\}{\Big \}}&=\{x\}.\end{aligned}}}
+  The result of nested floor or ceiling functions is the innermost function:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    ⌊
+                  
+                
+                ⌈
+                x
+                ⌉
+                
+                  
+                    ⌋
+                  
+                
+              
+              
+                
+                =
+                ⌈
+                x
+                ⌉
+                ,
+              
+            
+            
+              
+                
+                  
+                    ⌈
+                  
+                
+                ⌊
+                x
+                ⌋
+                
+                  
+                    ⌉
+                  
+                
+              
+              
+                
+                =
+                ⌊
+                x
+                ⌋
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\Big \lfloor }\lceil x\rceil {\Big \rfloor }&=\lceil x\rceil ,\\{\Big \lceil }\lfloor x\rfloor {\Big \rceil }&=\lfloor x\rfloor \end{aligned}}}
+  due to the identity property for integers.
+
+Quotients
+If m and n are integers and n ≠  0,
+
+  
+    
+      
+        0
+        ≤
+        
+          {
+          
+            
+              m
+              n
+            
+          
+          }
+        
+        ≤
+        1
+        −
+        
+          
+            1
+            
+              
+                |
+              
+              n
+              
+                |
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle 0\leq \left\{{\frac {m}{n}}\right\}\leq 1-{\frac {1}{|n|}}.}
+  If n is a positive integer
+
+  
+    
+      
+        
+          ⌊
+          
+            
+              
+                x
+                +
+                m
+              
+              n
+            
+          
+          ⌋
+        
+        =
+        
+          ⌊
+          
+            
+              
+                ⌊
+                x
+                ⌋
+                +
+                m
+              
+              n
+            
+          
+          ⌋
+        
+        ,
+      
+    
+    {\displaystyle \left\lfloor {\frac {x+m}{n}}\right\rfloor =\left\lfloor {\frac {\lfloor x\rfloor +m}{n}}\right\rfloor ,}
+  
+  
+    
+      
+        
+          ⌈
+          
+            
+              
+                x
+                +
+                m
+              
+              n
+            
+          
+          ⌉
+        
+        =
+        
+          ⌈
+          
+            
+              
+                ⌈
+                x
+                ⌉
+                +
+                m
+              
+              n
+            
+          
+          ⌉
+        
+        .
+      
+    
+    {\displaystyle \left\lceil {\frac {x+m}{n}}\right\rceil =\left\lceil {\frac {\lceil x\rceil +m}{n}}\right\rceil .}
+  If m is positive
+
+  
+    
+      
+        n
+        =
+        
+          ⌈
+          
+            
+              n
+              m
+            
+          
+          ⌉
+        
+        +
+        
+          ⌈
+          
+            
+              
+                n
+                −
+                1
+              
+              m
+            
+          
+          ⌉
+        
+        +
+        ⋯
+        +
+        
+          ⌈
+          
+            
+              
+                n
+                −
+                m
+                +
+                1
+              
+              m
+            
+          
+          ⌉
+        
+        ,
+      
+    
+    {\displaystyle n=\left\lceil {\frac {n}{m}}\right\rceil +\left\lceil {\frac {n-1}{m}}\right\rceil +\dots +\left\lceil {\frac {n-m+1}{m}}\right\rceil ,}
+  
+  
+    
+      
+        n
+        =
+        
+          ⌊
+          
+            
+              n
+              m
+            
+          
+          ⌋
+        
+        +
+        
+          ⌊
+          
+            
+              
+                n
+                +
+                1
+              
+              m
+            
+          
+          ⌋
+        
+        +
+        ⋯
+        +
+        
+          ⌊
+          
+            
+              
+                n
+                +
+                m
+                −
+                1
+              
+              m
+            
+          
+          ⌋
+        
+        .
+      
+    
+    {\displaystyle n=\left\lfloor {\frac {n}{m}}\right\rfloor +\left\lfloor {\frac {n+1}{m}}\right\rfloor +\dots +\left\lfloor {\frac {n+m-1}{m}}\right\rfloor .}
+  For m = 2 these imply
+
+  
+    
+      
+        n
+        =
+        
+          ⌊
+          
+            
+              n
+              2
+            
+          
+          ⌋
+        
+        +
+        
+          ⌈
+          
+            
+              n
+              2
+            
+          
+          ⌉
+        
+        .
+      
+    
+    {\displaystyle n=\left\lfloor {\frac {n}{2}}\right\rfloor +\left\lceil {\frac {n}{2}}\right\rceil .}
+  More generally, for positive m (See Hermite's identity)
+
+  
+    
+      
+        ⌈
+        m
+        x
+        ⌉
+        =
+        
+          ⌈
+          x
+          ⌉
+        
+        +
+        
+          ⌈
+          
+            x
+            −
+            
+              
+                1
+                m
+              
+            
+          
+          ⌉
+        
+        +
+        ⋯
+        +
+        
+          ⌈
+          
+            x
+            −
+            
+              
+                
+                  m
+                  −
+                  1
+                
+                m
+              
+            
+          
+          ⌉
+        
+        ,
+      
+    
+    {\displaystyle \lceil mx\rceil =\left\lceil x\right\rceil +\left\lceil x-{\frac {1}{m}}\right\rceil +\dots +\left\lceil x-{\frac {m-1}{m}}\right\rceil ,}
+  
+  
+    
+      
+        ⌊
+        m
+        x
+        ⌋
+        =
+        
+          ⌊
+          x
+          ⌋
+        
+        +
+        
+          ⌊
+          
+            x
+            +
+            
+              
+                1
+                m
+              
+            
+          
+          ⌋
+        
+        +
+        ⋯
+        +
+        
+          ⌊
+          
+            x
+            +
+            
+              
+                
+                  m
+                  −
+                  1
+                
+                m
+              
+            
+          
+          ⌋
+        
+        .
+      
+    
+    {\displaystyle \lfloor mx\rfloor =\left\lfloor x\right\rfloor +\left\lfloor x+{\frac {1}{m}}\right\rfloor +\dots +\left\lfloor x+{\frac {m-1}{m}}\right\rfloor .}
+  The following can be used to convert floors to ceilings and vice versa (m positive)
+
+  
+    
+      
+        
+          ⌈
+          
+            
+              n
+              m
+            
+          
+          ⌉
+        
+        =
+        
+          ⌊
+          
+            
+              
+                n
+                +
+                m
+                −
+                1
+              
+              m
+            
+          
+          ⌋
+        
+        =
+        
+          ⌊
+          
+            
+              
+                n
+                −
+                1
+              
+              m
+            
+          
+          ⌋
+        
+        +
+        1
+        ,
+      
+    
+    {\displaystyle \left\lceil {\frac {n}{m}}\right\rceil =\left\lfloor {\frac {n+m-1}{m}}\right\rfloor =\left\lfloor {\frac {n-1}{m}}\right\rfloor +1,}
+  
+  
+    
+      
+        
+          ⌊
+          
+            
+              n
+              m
+            
+          
+          ⌋
+        
+        =
+        
+          ⌈
+          
+            
+              
+                n
+                −
+                m
+                +
+                1
+              
+              m
+            
+          
+          ⌉
+        
+        =
+        
+          ⌈
+          
+            
+              
+                n
+                +
+                1
+              
+              m
+            
+          
+          ⌉
+        
+        −
+        1
+        ,
+      
+    
+    {\displaystyle \left\lfloor {\frac {n}{m}}\right\rfloor =\left\lceil {\frac {n-m+1}{m}}\right\rceil =\left\lceil {\frac {n+1}{m}}\right\rceil -1,}
+  For all m and n strictly positive integers:
+
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            n
+            −
+            1
+          
+        
+        
+          ⌊
+          
+            
+              
+                k
+                m
+              
+              n
+            
+          
+          ⌋
+        
+        =
+        
+          
+            
+              (
+              m
+              −
+              1
+              )
+              (
+              n
+              −
+              1
+              )
+              +
+              gcd
+              (
+              m
+              ,
+              n
+              )
+              −
+              1
+            
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle \sum _{k=1}^{n-1}\left\lfloor {\frac {km}{n}}\right\rfloor ={\frac {(m-1)(n-1)+\gcd(m,n)-1}{2}},}
+  which, for positive and coprime  m and n, reduces to
+
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            n
+            −
+            1
+          
+        
+        
+          ⌊
+          
+            
+              
+                k
+                m
+              
+              n
+            
+          
+          ⌋
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        (
+        m
+        −
+        1
+        )
+        (
+        n
+        −
+        1
+        )
+        ,
+      
+    
+    {\displaystyle \sum _{k=1}^{n-1}\left\lfloor {\frac {km}{n}}\right\rfloor ={\frac {1}{2}}(m-1)(n-1),}
+  and similarly for the ceiling and fractional part functions (still for positive and coprime  m and n),
+
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            n
+            −
+            1
+          
+        
+        
+          ⌈
+          
+            
+              
+                k
+                m
+              
+              n
+            
+          
+          ⌉
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        (
+        m
+        +
+        1
+        )
+        (
+        n
+        −
+        1
+        )
+        ,
+      
+    
+    {\displaystyle \sum _{k=1}^{n-1}\left\lceil {\frac {km}{n}}\right\rceil ={\frac {1}{2}}(m+1)(n-1),}
+  
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            n
+            −
+            1
+          
+        
+        
+          {
+          
+            
+              
+                k
+                m
+              
+              n
+            
+          
+          }
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        (
+        n
+        −
+        1
+        )
+        .
+      
+    
+    {\displaystyle \sum _{k=1}^{n-1}\left\{{\frac {km}{n}}\right\}={\frac {1}{2}}(n-1).}
+  
+Since the right-hand side of the general case is symmetrical in m and n, this implies that
+
+  
+    
+      
+        
+          ⌊
+          
+            
+              m
+              n
+            
+          
+          ⌋
+        
+        +
+        
+          ⌊
+          
+            
+              
+                2
+                m
+              
+              n
+            
+          
+          ⌋
+        
+        +
+        ⋯
+        +
+        
+          ⌊
+          
+            
+              
+                (
+                n
+                −
+                1
+                )
+                m
+              
+              n
+            
+          
+          ⌋
+        
+        =
+        
+          ⌊
+          
+            
+              n
+              m
+            
+          
+          ⌋
+        
+        +
+        
+          ⌊
+          
+            
+              
+                2
+                n
+              
+              m
+            
+          
+          ⌋
+        
+        +
+        ⋯
+        +
+        
+          ⌊
+          
+            
+              
+                (
+                m
+                −
+                1
+                )
+                n
+              
+              m
+            
+          
+          ⌋
+        
+        .
+      
+    
+    {\displaystyle \left\lfloor {\frac {m}{n}}\right\rfloor +\left\lfloor {\frac {2m}{n}}\right\rfloor +\dots +\left\lfloor {\frac {(n-1)m}{n}}\right\rfloor =\left\lfloor {\frac {n}{m}}\right\rfloor +\left\lfloor {\frac {2n}{m}}\right\rfloor +\dots +\left\lfloor {\frac {(m-1)n}{m}}\right\rfloor .}
+  More generally, if m and n are positive,
+
+  
+    
+      
+        
+          
+            
+              
+              
+                
+                  ⌊
+                  
+                    
+                      x
+                      n
+                    
+                  
+                  ⌋
+                
+                +
+                
+                  ⌊
+                  
+                    
+                      
+                        m
+                        +
+                        x
+                      
+                      n
+                    
+                  
+                  ⌋
+                
+                +
+                
+                  ⌊
+                  
+                    
+                      
+                        2
+                        m
+                        +
+                        x
+                      
+                      n
+                    
+                  
+                  ⌋
+                
+                +
+                ⋯
+                +
+                
+                  ⌊
+                  
+                    
+                      
+                        (
+                        n
+                        −
+                        1
+                        )
+                        m
+                        +
+                        x
+                      
+                      n
+                    
+                  
+                  ⌋
+                
+              
+            
+            
+              
+                =
+              
+              
+                
+                  ⌊
+                  
+                    
+                      x
+                      m
+                    
+                  
+                  ⌋
+                
+                +
+                
+                  ⌊
+                  
+                    
+                      
+                        n
+                        +
+                        x
+                      
+                      m
+                    
+                  
+                  ⌋
+                
+                +
+                
+                  ⌊
+                  
+                    
+                      
+                        2
+                        n
+                        +
+                        x
+                      
+                      m
+                    
+                  
+                  ⌋
+                
+                +
+                ⋯
+                +
+                
+                  ⌊
+                  
+                    
+                      
+                        (
+                        m
+                        −
+                        1
+                        )
+                        n
+                        +
+                        x
+                      
+                      m
+                    
+                  
+                  ⌋
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}&\left\lfloor {\frac {x}{n}}\right\rfloor +\left\lfloor {\frac {m+x}{n}}\right\rfloor +\left\lfloor {\frac {2m+x}{n}}\right\rfloor +\dots +\left\lfloor {\frac {(n-1)m+x}{n}}\right\rfloor \\=&\left\lfloor {\frac {x}{m}}\right\rfloor +\left\lfloor {\frac {n+x}{m}}\right\rfloor +\left\lfloor {\frac {2n+x}{m}}\right\rfloor +\cdots +\left\lfloor {\frac {(m-1)n+x}{m}}\right\rfloor .\end{aligned}}}
+  This is sometimes called a reciprocity law.
+
+Nested divisions
+For positive integer n, and arbitrary real numbers m,x:
+
+  
+    
+      
+        
+          ⌊
+          
+            
+              
+                ⌊
+                x
+                
+                  /
+                
+                m
+                ⌋
+              
+              n
+            
+          
+          ⌋
+        
+        =
+        
+          ⌊
+          
+            
+              x
+              
+                m
+                n
+              
+            
+          
+          ⌋
+        
+      
+    
+    {\displaystyle \left\lfloor {\frac {\lfloor x/m\rfloor }{n}}\right\rfloor =\left\lfloor {\frac {x}{mn}}\right\rfloor }
+  
+  
+    
+      
+        
+          ⌈
+          
+            
+              
+                ⌈
+                x
+                
+                  /
+                
+                m
+                ⌉
+              
+              n
+            
+          
+          ⌉
+        
+        =
+        
+          ⌈
+          
+            
+              x
+              
+                m
+                n
+              
+            
+          
+          ⌉
+        
+        .
+      
+    
+    {\displaystyle \left\lceil {\frac {\lceil x/m\rceil }{n}}\right\rceil =\left\lceil {\frac {x}{mn}}\right\rceil .}
+
+Continuity and series expansions
+None of the functions discussed in this article are continuous, but all are piecewise linear: the functions 
+  
+    
+      
+        ⌊
+        x
+        ⌋
+      
+    
+    {\displaystyle \lfloor x\rfloor }
+  , 
+  
+    
+      
+        ⌈
+        x
+        ⌉
+      
+    
+    {\displaystyle \lceil x\rceil }
+  , and 
+  
+    
+      
+        {
+        x
+        }
+      
+    
+    {\displaystyle \{x\}}
+   have discontinuities at the integers.
+
+  
+    
+      
+        ⌊
+        x
+        ⌋
+      
+    
+    {\displaystyle \lfloor x\rfloor }
+    is upper semi-continuous and  
+  
+    
+      
+        ⌈
+        x
+        ⌉
+      
+    
+    {\displaystyle \lceil x\rceil }
+    and 
+  
+    
+      
+        {
+        x
+        }
+      
+    
+    {\displaystyle \{x\}}
+    are lower semi-continuous.
+Since none of the functions discussed in this article are continuous, none of them have a power series expansion. Since floor and ceiling are not periodic, they do not have uniformly convergent Fourier series expansions.  The fractional part function has Fourier series expansion
+
+  
+    
+      
+        {
+        x
+        }
+        =
+        
+          
+            1
+            2
+          
+        
+        −
+        
+          
+            1
+            π
+          
+        
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              sin
+              ⁡
+              (
+              2
+              π
+              k
+              x
+              )
+            
+            k
+          
+        
+      
+    
+    {\displaystyle \{x\}={\frac {1}{2}}-{\frac {1}{\pi }}\sum _{k=1}^{\infty }{\frac {\sin(2\pi kx)}{k}}}
+  for x not an integer.
+At points of discontinuity, a Fourier series converges to a value that is the average of its limits on the left and the right, unlike the floor, ceiling and fractional part functions: for y fixed and x a multiple of y the Fourier series given converges to y/2, rather than to x mod y = 0. At points of continuity the series converges to the true value.
+Using the formula floor(x) = x − {x} gives
+
+  
+    
+      
+        ⌊
+        x
+        ⌋
+        =
+        x
+        −
+        
+          
+            1
+            2
+          
+        
+        +
+        
+          
+            1
+            π
+          
+        
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              sin
+              ⁡
+              (
+              2
+              π
+              k
+              x
+              )
+            
+            k
+          
+        
+      
+    
+    {\displaystyle \lfloor x\rfloor =x-{\frac {1}{2}}+{\frac {1}{\pi }}\sum _{k=1}^{\infty }{\frac {\sin(2\pi kx)}{k}}}
+  for x not an integer.
+
+Applications
+Mod operator
+For an integer x and a positive integer y, the modulo operation, denoted by x mod y, gives the value of the remainder when x is divided by y.  This definition can be extended to real x and y, y ≠  0, by the formula
+
+  
+    
+      
+        x
+        
+          mod
+          
+            y
+          
+        
+        =
+        x
+        −
+        y
+        
+          ⌊
+          
+            
+              x
+              y
+            
+          
+          ⌋
+        
+        .
+      
+    
+    {\displaystyle x{\bmod {y}}=x-y\left\lfloor {\frac {x}{y}}\right\rfloor .}
+  Then it follows from the definition of floor function that this extended operation satisfies many natural properties.  Notably, x mod y is always between 0 and y, i.e.,
+if y is positive,
+
+  
+    
+      
+        0
+        ≤
+        x
+        
+          mod
+          
+            y
+          
+        
+        <
+        y
+        ,
+      
+    
+    {\displaystyle 0\leq x{\bmod {y}}<y,}
+  and if y is negative,
+
+  
+    
+      
+        0
+        ≥
+        x
+        
+          mod
+          
+            y
+          
+        
+        >
+        y
+        .
+      
+    
+    {\displaystyle 0\geq x{\bmod {y}}>y.}
+
+Quadratic reciprocity
+Gauss's third proof of quadratic reciprocity, as modified by Eisenstein, has two basic steps.Let p and q be distinct positive odd prime numbers, and let
+
+  
+    
+      
+        m
+        =
+        
+          
+            
+              p
+              −
+              1
+            
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle m={\frac {p-1}{2}},}
+    
+  
+    
+      
+        n
+        =
+        
+          
+            
+              q
+              −
+              1
+            
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle n={\frac {q-1}{2}}.}
+  First, Gauss's lemma is used to show that the Legendre symbols are given by
+
+  
+    
+      
+        
+          (
+          
+            
+              q
+              p
+            
+          
+          )
+        
+        =
+        (
+        −
+        1
+        
+          )
+          
+            
+              ⌊
+              
+                
+                  q
+                  p
+                
+              
+              ⌋
+            
+            +
+            
+              ⌊
+              
+                
+                  
+                    2
+                    q
+                  
+                  p
+                
+              
+              ⌋
+            
+            +
+            ⋯
+            +
+            
+              ⌊
+              
+                
+                  
+                    m
+                    q
+                  
+                  p
+                
+              
+              ⌋
+            
+          
+        
+      
+    
+    {\displaystyle \left({\frac {q}{p}}\right)=(-1)^{\left\lfloor {\frac {q}{p}}\right\rfloor +\left\lfloor {\frac {2q}{p}}\right\rfloor +\dots +\left\lfloor {\frac {mq}{p}}\right\rfloor }}
+  and
+
+  
+    
+      
+        
+          (
+          
+            
+              p
+              q
+            
+          
+          )
+        
+        =
+        (
+        −
+        1
+        
+          )
+          
+            
+              ⌊
+              
+                
+                  p
+                  q
+                
+              
+              ⌋
+            
+            +
+            
+              ⌊
+              
+                
+                  
+                    2
+                    p
+                  
+                  q
+                
+              
+              ⌋
+            
+            +
+            ⋯
+            +
+            
+              ⌊
+              
+                
+                  
+                    n
+                    p
+                  
+                  q
+                
+              
+              ⌋
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \left({\frac {p}{q}}\right)=(-1)^{\left\lfloor {\frac {p}{q}}\right\rfloor +\left\lfloor {\frac {2p}{q}}\right\rfloor +\dots +\left\lfloor {\frac {np}{q}}\right\rfloor }.}
+  The second step is to use a geometric argument to show that
+
+  
+    
+      
+        
+          ⌊
+          
+            
+              q
+              p
+            
+          
+          ⌋
+        
+        +
+        
+          ⌊
+          
+            
+              
+                2
+                q
+              
+              p
+            
+          
+          ⌋
+        
+        +
+        ⋯
+        +
+        
+          ⌊
+          
+            
+              
+                m
+                q
+              
+              p
+            
+          
+          ⌋
+        
+        +
+        
+          ⌊
+          
+            
+              p
+              q
+            
+          
+          ⌋
+        
+        +
+        
+          ⌊
+          
+            
+              
+                2
+                p
+              
+              q
+            
+          
+          ⌋
+        
+        +
+        ⋯
+        +
+        
+          ⌊
+          
+            
+              
+                n
+                p
+              
+              q
+            
+          
+          ⌋
+        
+        =
+        m
+        n
+        .
+      
+    
+    {\displaystyle \left\lfloor {\frac {q}{p}}\right\rfloor +\left\lfloor {\frac {2q}{p}}\right\rfloor +\dots +\left\lfloor {\frac {mq}{p}}\right\rfloor +\left\lfloor {\frac {p}{q}}\right\rfloor +\left\lfloor {\frac {2p}{q}}\right\rfloor +\dots +\left\lfloor {\frac {np}{q}}\right\rfloor =mn.}
+  Combining these formulas gives quadratic reciprocity in the form
+
+  
+    
+      
+        
+          (
+          
+            
+              p
+              q
+            
+          
+          )
+        
+        
+          (
+          
+            
+              q
+              p
+            
+          
+          )
+        
+        =
+        (
+        −
+        1
+        
+          )
+          
+            m
+            n
+          
+        
+        =
+        (
+        −
+        1
+        
+          )
+          
+            
+              
+                
+                  p
+                  −
+                  1
+                
+                2
+              
+            
+            
+              
+                
+                  q
+                  −
+                  1
+                
+                2
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \left({\frac {p}{q}}\right)\left({\frac {q}{p}}\right)=(-1)^{mn}=(-1)^{{\frac {p-1}{2}}{\frac {q-1}{2}}}.}
+  There are formulas that use floor to express the quadratic character of small numbers mod odd primes p:
+
+  
+    
+      
+        
+          (
+          
+            
+              2
+              p
+            
+          
+          )
+        
+        =
+        (
+        −
+        1
+        
+          )
+          
+            
+              ⌊
+              
+                
+                  
+                    p
+                    +
+                    1
+                  
+                  4
+                
+              
+              ⌋
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \left({\frac {2}{p}}\right)=(-1)^{\left\lfloor {\frac {p+1}{4}}\right\rfloor },}
+  
+  
+    
+      
+        
+          (
+          
+            
+              3
+              p
+            
+          
+          )
+        
+        =
+        (
+        −
+        1
+        
+          )
+          
+            
+              ⌊
+              
+                
+                  
+                    p
+                    +
+                    1
+                  
+                  6
+                
+              
+              ⌋
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \left({\frac {3}{p}}\right)=(-1)^{\left\lfloor {\frac {p+1}{6}}\right\rfloor }.}
+
+Rounding
+For an arbitrary real number 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , rounding 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   to the nearest integer with tie breaking towards positive infinity is given by 
+  
+    
+      
+        
+          rpi
+        
+        (
+        x
+        )
+        =
+        
+          ⌊
+          
+            x
+            +
+            
+              
+                
+                  1
+                  2
+                
+              
+            
+          
+          ⌋
+        
+        =
+        
+          ⌈
+          
+            
+              
+                
+                  ⌊
+                  2
+                  x
+                  ⌋
+                
+                2
+              
+            
+          
+          ⌉
+        
+      
+    
+    {\displaystyle {\text{rpi}}(x)=\left\lfloor x+{\tfrac {1}{2}}\right\rfloor =\left\lceil {\tfrac {\lfloor 2x\rfloor }{2}}\right\rceil }
+  ; rounding towards negative infinity is given as 
+  
+    
+      
+        
+          rni
+        
+        (
+        x
+        )
+        =
+        
+          ⌈
+          
+            x
+            −
+            
+              
+                
+                  1
+                  2
+                
+              
+            
+          
+          ⌉
+        
+        =
+        
+          ⌊
+          
+            
+              
+                
+                  ⌈
+                  2
+                  x
+                  ⌉
+                
+                2
+              
+            
+          
+          ⌋
+        
+      
+    
+    {\displaystyle {\text{rni}}(x)=\left\lceil x-{\tfrac {1}{2}}\right\rceil =\left\lfloor {\tfrac {\lceil 2x\rceil }{2}}\right\rfloor }
+  .
+If tie-breaking is away from 0, then the rounding function is 
+  
+    
+      
+        
+          ri
+        
+        (
+        x
+        )
+        =
+        sgn
+        ⁡
+        (
+        x
+        )
+        
+          ⌊
+          
+            
+              |
+            
+            x
+            
+              |
+            
+            +
+            
+              
+                
+                  1
+                  2
+                
+              
+            
+          
+          ⌋
+        
+      
+    
+    {\displaystyle {\text{ri}}(x)=\operatorname {sgn}(x)\left\lfloor |x|+{\tfrac {1}{2}}\right\rfloor }
+   (see sign function), and rounding towards even can be expressed with the more cumbersome 
+  
+    
+      
+        ⌊
+        x
+        ⌉
+        =
+        
+          ⌊
+          
+            x
+            +
+            
+              
+                
+                  1
+                  2
+                
+              
+            
+          
+          ⌋
+        
+        +
+        
+          ⌈
+          
+            
+              
+                
+                  2
+                  x
+                  −
+                  1
+                
+                4
+              
+            
+          
+          ⌉
+        
+        −
+        
+          ⌊
+          
+            
+              
+                
+                  2
+                  x
+                  −
+                  1
+                
+                4
+              
+            
+          
+          ⌋
+        
+        −
+        1
+      
+    
+    {\displaystyle \lfloor x\rceil =\left\lfloor x+{\tfrac {1}{2}}\right\rfloor +\left\lceil {\tfrac {2x-1}{4}}\right\rceil -\left\lfloor {\tfrac {2x-1}{4}}\right\rfloor -1}
+  , which is the above expression for rounding towards positive infinity 
+  
+    
+      
+        
+          rpi
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle {\text{rpi}}(x)}
+   minus an integrality indicator for 
+  
+    
+      
+        
+          
+            
+              
+                2
+                x
+                −
+                1
+              
+              4
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {2x-1}{4}}}
+  .
+Rounding a real number 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   to the nearest integer value forms a very basic type of quantizer – a uniform one.  A typical (mid-tread) uniform quantizer with a quantization step size equal to some value 
+  
+    
+      
+        Δ
+      
+    
+    {\displaystyle \Delta }
+   can be expressed as
+
+  
+    
+      
+        Q
+        (
+        x
+        )
+        =
+        Δ
+        ⋅
+        
+          ⌊
+          
+            
+              
+                x
+                Δ
+              
+            
+            +
+            
+              
+                1
+                2
+              
+            
+          
+          ⌋
+        
+      
+    
+    {\displaystyle Q(x)=\Delta \cdot \left\lfloor {\frac {x}{\Delta }}+{\frac {1}{2}}\right\rfloor }
+  ,
+
+Number of digits
+The number of digits in base b of a positive integer k is
+
+  
+    
+      
+        ⌊
+        
+          log
+          
+            b
+          
+        
+        ⁡
+        
+          k
+        
+        ⌋
+        +
+        1
+        =
+        ⌈
+        
+          log
+          
+            b
+          
+        
+        ⁡
+        
+          (
+          k
+          +
+          1
+          )
+        
+        ⌉
+        .
+      
+    
+    {\displaystyle \lfloor \log _{b}{k}\rfloor +1=\lceil \log _{b}{(k+1)}\rceil .}
+
+Number of strings without repeated characters
+The number of possible strings of arbitrary length that doesn't use any character twice is given by
+
+  
+    
+      
+        (
+        n
+        
+          )
+          
+            0
+          
+        
+        +
+        ⋯
+        +
+        (
+        n
+        
+          )
+          
+            n
+          
+        
+        =
+        ⌊
+        e
+        n
+        !
+        ⌋
+      
+    
+    {\displaystyle (n)_{0}+\cdots +(n)_{n}=\lfloor en!\rfloor }
+  where:
+
+n > 0 is the number of letters in the alphabet (e.g., 26 in English)
+the falling factorial 
+  
+    
+      
+        (
+        n
+        
+          )
+          
+            k
+          
+        
+        =
+        n
+        (
+        n
+        −
+        1
+        )
+        ⋯
+        (
+        n
+        −
+        k
+        +
+        1
+        )
+      
+    
+    {\displaystyle (n)_{k}=n(n-1)\cdots (n-k+1)}
+   denotes the number of strings of length k that don't use any character twice.
+n! denotes the factorial of n
+e = 2.718… is Euler's numberFor n = 26, this comes out to 1096259850353149530222034277.
+
+Factors of factorials
+Let n be a positive integer and p a positive prime number. The exponent of the highest power of p that divides n! is given by a version of Legendre's formula
+
+  
+    
+      
+        
+          ⌊
+          
+            
+              n
+              p
+            
+          
+          ⌋
+        
+        +
+        
+          ⌊
+          
+            
+              n
+              
+                p
+                
+                  2
+                
+              
+            
+          
+          ⌋
+        
+        +
+        
+          ⌊
+          
+            
+              n
+              
+                p
+                
+                  3
+                
+              
+            
+          
+          ⌋
+        
+        +
+        ⋯
+        =
+        
+          
+            
+              n
+              −
+              
+                ∑
+                
+                  k
+                
+              
+              
+                a
+                
+                  k
+                
+              
+            
+            
+              p
+              −
+              1
+            
+          
+        
+      
+    
+    {\displaystyle \left\lfloor {\frac {n}{p}}\right\rfloor +\left\lfloor {\frac {n}{p^{2}}}\right\rfloor +\left\lfloor {\frac {n}{p^{3}}}\right\rfloor +\dots ={\frac {n-\sum _{k}a_{k}}{p-1}}}
+  where 
+  
+    
+      
+        n
+        =
+        
+          ∑
+          
+            k
+          
+        
+        
+          a
+          
+            k
+          
+        
+        
+          p
+          
+            k
+          
+        
+      
+    
+    {\textstyle n=\sum _{k}a_{k}p^{k}}
+   is the way of writing n in base p. This is a finite sum, since the floors are zero when pk > n.
+
+Beatty sequence
+The Beatty sequence shows how every positive irrational number gives rise to a partition of the natural numbers into two sequences via the floor function.
+
+Euler's constant (γ)
+There are formulas for Euler's constant γ = 0.57721 56649 ... that involve the floor and ceiling, e.g.
+
+  
+    
+      
+        γ
+        =
+        
+          ∫
+          
+            1
+          
+          
+            ∞
+          
+        
+        
+          (
+          
+            
+              
+                1
+                
+                  ⌊
+                  x
+                  ⌋
+                
+              
+            
+            −
+            
+              
+                1
+                x
+              
+            
+          
+          )
+        
+        
+        d
+        x
+        ,
+      
+    
+    {\displaystyle \gamma =\int _{1}^{\infty }\left({1 \over \lfloor x\rfloor }-{1 \over x}\right)\,dx,}
+  
+  
+    
+      
+        γ
+        =
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            1
+            n
+          
+        
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          (
+          
+            
+              ⌈
+              
+                
+                  n
+                  k
+                
+              
+              ⌉
+            
+            −
+            
+              
+                n
+                k
+              
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle \gamma =\lim _{n\to \infty }{\frac {1}{n}}\sum _{k=1}^{n}\left(\left\lceil {\frac {n}{k}}\right\rceil -{\frac {n}{k}}\right),}
+  and
+
+  
+    
+      
+        γ
+        =
+        
+          ∑
+          
+            k
+            =
+            2
+          
+          
+            ∞
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            k
+          
+        
+        
+          
+            
+              ⌊
+              
+                
+                  log
+                  
+                    2
+                  
+                
+                ⁡
+                k
+              
+              ⌋
+            
+            k
+          
+        
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        −
+        
+          
+            
+              1
+              3
+            
+          
+        
+        +
+        2
+        
+          (
+          
+            
+              
+                
+                  1
+                  4
+                
+              
+            
+            −
+            
+              
+                
+                  1
+                  5
+                
+              
+            
+            +
+            
+              
+                
+                  1
+                  6
+                
+              
+            
+            −
+            
+              
+                
+                  1
+                  7
+                
+              
+            
+          
+          )
+        
+        +
+        3
+        
+          (
+          
+            
+              
+                
+                  1
+                  8
+                
+              
+            
+            −
+            ⋯
+            −
+            
+              
+                
+                  1
+                  15
+                
+              
+            
+          
+          )
+        
+        +
+        ⋯
+      
+    
+    {\displaystyle \gamma =\sum _{k=2}^{\infty }(-1)^{k}{\frac {\left\lfloor \log _{2}k\right\rfloor }{k}}={\tfrac {1}{2}}-{\tfrac {1}{3}}+2\left({\tfrac {1}{4}}-{\tfrac {1}{5}}+{\tfrac {1}{6}}-{\tfrac {1}{7}}\right)+3\left({\tfrac {1}{8}}-\cdots -{\tfrac {1}{15}}\right)+\cdots }
+
+Riemann zeta function (ζ)
+The fractional part function also shows up in integral representations of the Riemann zeta function. It is straightforward to prove (using integration by parts) that if 
+  
+    
+      
+        φ
+        (
+        x
+        )
+      
+    
+    {\displaystyle \varphi (x)}
+   is any function with a continuous derivative in the closed interval [a, b],
+
+  
+    
+      
+        
+          ∑
+          
+            a
+            <
+            n
+            ≤
+            b
+          
+        
+        φ
+        (
+        n
+        )
+        =
+        
+          ∫
+          
+            a
+          
+          
+            b
+          
+        
+        φ
+        (
+        x
+        )
+        
+        d
+        x
+        +
+        
+          ∫
+          
+            a
+          
+          
+            b
+          
+        
+        
+          (
+          
+            {
+            x
+            }
+            −
+            
+              
+                
+                  1
+                  2
+                
+              
+            
+          
+          )
+        
+        
+          φ
+          ′
+        
+        (
+        x
+        )
+        
+        d
+        x
+        +
+        
+          (
+          
+            {
+            a
+            }
+            −
+            
+              
+                
+                  1
+                  2
+                
+              
+            
+          
+          )
+        
+        φ
+        (
+        a
+        )
+        −
+        
+          (
+          
+            {
+            b
+            }
+            −
+            
+              
+                
+                  1
+                  2
+                
+              
+            
+          
+          )
+        
+        φ
+        (
+        b
+        )
+        .
+      
+    
+    {\displaystyle \sum _{a<n\leq b}\varphi (n)=\int _{a}^{b}\varphi (x)\,dx+\int _{a}^{b}\left(\{x\}-{\tfrac {1}{2}}\right)\varphi '(x)\,dx+\left(\{a\}-{\tfrac {1}{2}}\right)\varphi (a)-\left(\{b\}-{\tfrac {1}{2}}\right)\varphi (b).}
+  Letting 
+  
+    
+      
+        φ
+        (
+        n
+        )
+        =
+        
+          n
+          
+            −
+            s
+          
+        
+      
+    
+    {\displaystyle \varphi (n)=n^{-s}}
+   for real part of s greater than 1 and letting a and b be integers, and letting b approach infinity gives
+
+  
+    
+      
+        ζ
+        (
+        s
+        )
+        =
+        s
+        
+          ∫
+          
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              
+                
+                  1
+                  2
+                
+              
+              −
+              {
+              x
+              }
+            
+            
+              x
+              
+                s
+                +
+                1
+              
+            
+          
+        
+        
+        d
+        x
+        +
+        
+          
+            1
+            
+              s
+              −
+              1
+            
+          
+        
+        +
+        
+          
+            1
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle \zeta (s)=s\int _{1}^{\infty }{\frac {{\frac {1}{2}}-\{x\}}{x^{s+1}}}\,dx+{\frac {1}{s-1}}+{\frac {1}{2}}.}
+  This formula is valid for all s with real part greater than −1, (except s = 1, where there is a pole) and combined with the Fourier expansion for {x} can be used to extend the zeta function to the entire complex plane and to prove its functional equation.For s = σ + it in the critical strip 0 < σ < 1,
+
+  
+    
+      
+        ζ
+        (
+        s
+        )
+        =
+        s
+        
+          ∫
+          
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+        
+          e
+          
+            −
+            σ
+            ω
+          
+        
+        (
+        ⌊
+        
+          e
+          
+            ω
+          
+        
+        ⌋
+        −
+        
+          e
+          
+            ω
+          
+        
+        )
+        
+          e
+          
+            −
+            i
+            t
+            ω
+          
+        
+        
+        d
+        ω
+        .
+      
+    
+    {\displaystyle \zeta (s)=s\int _{-\infty }^{\infty }e^{-\sigma \omega }(\lfloor e^{\omega }\rfloor -e^{\omega })e^{-it\omega }\,d\omega .}
+  In 1947 van der Pol used this representation to construct an analogue computer for finding roots of the zeta function.
+
+Formulas for prime numbers
+The floor function appears in several formulas characterizing prime numbers.  For example, since 
+  
+    
+      
+        
+          ⌊
+          
+            
+              n
+              m
+            
+          
+          ⌋
+        
+        −
+        
+          ⌊
+          
+            
+              
+                n
+                −
+                1
+              
+              m
+            
+          
+          ⌋
+        
+      
+    
+    {\displaystyle \left\lfloor {\frac {n}{m}}\right\rfloor -\left\lfloor {\frac {n-1}{m}}\right\rfloor }
+   is equal to 1 if m divides n, and to 0 otherwise, it follows that a positive integer n is a prime if and only if
+
+  
+    
+      
+        
+          ∑
+          
+            m
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          (
+          
+            
+              ⌊
+              
+                
+                  n
+                  m
+                
+              
+              ⌋
+            
+            −
+            
+              ⌊
+              
+                
+                  
+                    n
+                    −
+                    1
+                  
+                  m
+                
+              
+              ⌋
+            
+          
+          )
+        
+        =
+        2.
+      
+    
+    {\displaystyle \sum _{m=1}^{\infty }\left(\left\lfloor {\frac {n}{m}}\right\rfloor -\left\lfloor {\frac {n-1}{m}}\right\rfloor \right)=2.}
+  One may also give formulas for producing the prime numbers.  For example, let pn be the n-th prime, and for any integer r > 1, define the real number α by the sum
+
+  
+    
+      
+        α
+        =
+        
+          ∑
+          
+            m
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          p
+          
+            m
+          
+        
+        
+          r
+          
+            −
+            
+              m
+              
+                2
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \alpha =\sum _{m=1}^{\infty }p_{m}r^{-m^{2}}.}
+  Then
+
+  
+    
+      
+        
+          p
+          
+            n
+          
+        
+        =
+        
+          ⌊
+          
+            
+              r
+              
+                
+                  n
+                  
+                    2
+                  
+                
+              
+            
+            α
+          
+          ⌋
+        
+        −
+        
+          r
+          
+            2
+            n
+            −
+            1
+          
+        
+        
+          ⌊
+          
+            
+              r
+              
+                (
+                n
+                −
+                1
+                
+                  )
+                  
+                    2
+                  
+                
+              
+            
+            α
+          
+          ⌋
+        
+        .
+      
+    
+    {\displaystyle p_{n}=\left\lfloor r^{n^{2}}\alpha \right\rfloor -r^{2n-1}\left\lfloor r^{(n-1)^{2}}\alpha \right\rfloor .}
+  A similar result is that there is a number θ = 1.3064... (Mills' constant) with the property that
+
+  
+    
+      
+        
+          ⌊
+          
+            θ
+            
+              3
+            
+          
+          ⌋
+        
+        ,
+        
+          ⌊
+          
+            θ
+            
+              9
+            
+          
+          ⌋
+        
+        ,
+        
+          ⌊
+          
+            θ
+            
+              27
+            
+          
+          ⌋
+        
+        ,
+        …
+      
+    
+    {\displaystyle \left\lfloor \theta ^{3}\right\rfloor ,\left\lfloor \theta ^{9}\right\rfloor ,\left\lfloor \theta ^{27}\right\rfloor ,\dots }
+  are all prime.There is also a number ω = 1.9287800... with the property that
+
+  
+    
+      
+        
+          ⌊
+          
+            2
+            
+              ω
+            
+          
+          ⌋
+        
+        ,
+        
+          ⌊
+          
+            2
+            
+              
+                2
+                
+                  ω
+                
+              
+            
+          
+          ⌋
+        
+        ,
+        
+          ⌊
+          
+            2
+            
+              
+                2
+                
+                  
+                    2
+                    
+                      ω
+                    
+                  
+                
+              
+            
+          
+          ⌋
+        
+        ,
+        …
+      
+    
+    {\displaystyle \left\lfloor 2^{\omega }\right\rfloor ,\left\lfloor 2^{2^{\omega }}\right\rfloor ,\left\lfloor 2^{2^{2^{\omega }}}\right\rfloor ,\dots }
+  are all prime.Let π(x) be the number of primes less than or equal to x. It is a straightforward deduction from Wilson's theorem that
+
+  
+    
+      
+        π
+        (
+        n
+        )
+        =
+        
+          ∑
+          
+            j
+            =
+            2
+          
+          
+            n
+          
+        
+        
+          ⌊
+          
+            
+              
+                
+                  (
+                  j
+                  −
+                  1
+                  )
+                  !
+                  +
+                  1
+                
+                j
+              
+            
+            −
+            
+              ⌊
+              
+                
+                  
+                    (
+                    j
+                    −
+                    1
+                    )
+                    !
+                  
+                  j
+                
+              
+              ⌋
+            
+          
+          ⌋
+        
+        .
+      
+    
+    {\displaystyle \pi (n)=\sum _{j=2}^{n}\left\lfloor {\frac {(j-1)!+1}{j}}-\left\lfloor {\frac {(j-1)!}{j}}\right\rfloor \right\rfloor .}
+  Also, if n ≥ 2,
+
+  
+    
+      
+        π
+        (
+        n
+        )
+        =
+        
+          ∑
+          
+            j
+            =
+            2
+          
+          
+            n
+          
+        
+        
+          ⌊
+          
+            
+              1
+              
+                
+                  ∑
+                  
+                    k
+                    =
+                    2
+                  
+                  
+                    j
+                  
+                
+                
+                  ⌊
+                  
+                    
+                      ⌊
+                      
+                        
+                          j
+                          k
+                        
+                      
+                      ⌋
+                    
+                    
+                      
+                        k
+                        j
+                      
+                    
+                  
+                  ⌋
+                
+              
+            
+          
+          ⌋
+        
+        .
+      
+    
+    {\displaystyle \pi (n)=\sum _{j=2}^{n}\left\lfloor {\frac {1}{\sum _{k=2}^{j}\left\lfloor \left\lfloor {\frac {j}{k}}\right\rfloor {\frac {k}{j}}\right\rfloor }}\right\rfloor .}
+  None of the formulas in this section are of any practical use.
+
+Solved problems
+Ramanujan submitted these problems to the Journal of the Indian Mathematical Society.If n is a positive integer, prove that
+
+ 
+  
+    
+      
+        
+          ⌊
+          
+            
+              
+                n
+                3
+              
+            
+          
+          ⌋
+        
+        +
+        
+          ⌊
+          
+            
+              
+                
+                  n
+                  +
+                  2
+                
+                6
+              
+            
+          
+          ⌋
+        
+        +
+        
+          ⌊
+          
+            
+              
+                
+                  n
+                  +
+                  4
+                
+                6
+              
+            
+          
+          ⌋
+        
+        =
+        
+          ⌊
+          
+            
+              
+                n
+                2
+              
+            
+          
+          ⌋
+        
+        +
+        
+          ⌊
+          
+            
+              
+                
+                  n
+                  +
+                  3
+                
+                6
+              
+            
+          
+          ⌋
+        
+        ,
+      
+    
+    {\displaystyle \left\lfloor {\tfrac {n}{3}}\right\rfloor +\left\lfloor {\tfrac {n+2}{6}}\right\rfloor +\left\lfloor {\tfrac {n+4}{6}}\right\rfloor =\left\lfloor {\tfrac {n}{2}}\right\rfloor +\left\lfloor {\tfrac {n+3}{6}}\right\rfloor ,}
+  
+
+ 
+  
+    
+      
+        
+          ⌊
+          
+            
+              
+                
+                  1
+                  2
+                
+              
+            
+            +
+            
+              
+                n
+                +
+                
+                  
+                    
+                      1
+                      2
+                    
+                  
+                
+              
+            
+          
+          ⌋
+        
+        =
+        
+          ⌊
+          
+            
+              
+                
+                  1
+                  2
+                
+              
+            
+            +
+            
+              
+                n
+                +
+                
+                  
+                    
+                      1
+                      4
+                    
+                  
+                
+              
+            
+          
+          ⌋
+        
+        ,
+      
+    
+    {\displaystyle \left\lfloor {\tfrac {1}{2}}+{\sqrt {n+{\tfrac {1}{2}}}}\right\rfloor =\left\lfloor {\tfrac {1}{2}}+{\sqrt {n+{\tfrac {1}{4}}}}\right\rfloor ,}
+  
+
+ 
+  
+    
+      
+        
+          ⌊
+          
+            
+              
+                n
+              
+            
+            +
+            
+              
+                n
+                +
+                1
+              
+            
+          
+          ⌋
+        
+        =
+        
+          ⌊
+          
+            
+              4
+              n
+              +
+              2
+            
+          
+          ⌋
+        
+        .
+      
+    
+    {\displaystyle \left\lfloor {\sqrt {n}}+{\sqrt {n+1}}\right\rfloor =\left\lfloor {\sqrt {4n+2}}\right\rfloor .}
+  
+Some generalizations to the above floor function identities have been proven.
+
+Unsolved problem
+The study of Waring's problem has led to an unsolved problem:
+Are there any positive integers k ≥ 6 such that
+
+  
+    
+      
+        
+          3
+          
+            k
+          
+        
+        −
+        
+          2
+          
+            k
+          
+        
+        
+          ⌊
+          
+            
+              (
+              
+                
+                  
+                    3
+                    2
+                  
+                
+              
+              )
+            
+            
+              k
+            
+          
+          ⌋
+        
+        >
+        
+          2
+          
+            k
+          
+        
+        −
+        
+          ⌊
+          
+            
+              (
+              
+                
+                  
+                    3
+                    2
+                  
+                
+              
+              )
+            
+            
+              k
+            
+          
+          ⌋
+        
+        −
+        2
+      
+    
+    {\displaystyle 3^{k}-2^{k}\left\lfloor \left({\tfrac {3}{2}}\right)^{k}\right\rfloor >2^{k}-\left\lfloor \left({\tfrac {3}{2}}\right)^{k}\right\rfloor -2}
+   ?Mahler has proved there can only be a finite number of such k; none are known.
+
+Computer implementations
+In most programming languages, the simplest method to convert a floating point number to an integer does not do floor or ceiling, but truncation. The reason for this is historical, as the first machines used ones' complement and truncation was simpler to implement (floor is simpler in two's complement). FORTRAN was defined to require this behavior and thus almost all processors implement conversion this way. Some consider this to be an unfortunate historical design decision that has led to bugs handling negative offsets and graphics on the negative side of the origin.A bit-wise right-shift of a signed integer 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   by 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   is the same as 
+  
+    
+      
+        
+          ⌊
+          
+            
+              x
+              
+                2
+                
+                  n
+                
+              
+            
+          
+          ⌋
+        
+      
+    
+    {\displaystyle \left\lfloor {\frac {x}{2^{n}}}\right\rfloor }
+  . Division by a power of 2 is often written as a right-shift, not for optimization as might be assumed, but because the floor of negative results is required. Assuming such shifts are "premature optimization" and replacing them with division can break software.Many programming languages (including C, C++, C#,  Java, PHP, R, and Python) provide standard functions for floor and ceiling, usually called floor and ceil, or less commonly ceiling. The language APL uses ⌊x for floor.  The J Programming Language, a follow-on to APL that is designed to use standard keyboard symbols, uses <. for floor and >. for ceiling.ALGOL usesentier for floor.
+In Microsoft Excel the floor function is implemented as INT (which rounds down rather than toward zero). The command FLOOR in earlier versions would round toward zero, effectively the opposite of what "int" and "floor" do in other languages. Since 2010 FLOOR has been fixed to round down, with extra arguments that can reproduce previous behavior. The OpenDocument file format, as used by OpenOffice.org, Libreoffice and others, uses the same function names; INT does floor and FLOOR has a third argument that can make it round toward zero.
+
+See also
+Bracket (mathematics)
+Integer-valued function
+Step function
+Modulo operation
+
+Citations
+References
+J.W.S. Cassels (1957), An introduction to Diophantine approximation, Cambridge Tracts in Mathematics and Mathematical Physics, vol. 45, Cambridge University Press
+Crandall, Richard; Pomerance, Carl (2001), Prime Numbers: A Computational Perspective, New York: Springer, ISBN 0-387-94777-9
+Graham, Ronald L.; Knuth, Donald E.; Patashnik, Oren (1994), Concrete Mathematics, Reading Ma.: Addison-Wesley, ISBN 0-201-55802-5
+Hardy, G. H.; Wright, E. M. (1980), An Introduction to the Theory of Numbers (Fifth edition), Oxford: Oxford University Press, ISBN 978-0-19-853171-5
+Nicholas J. Higham, Handbook of writing for the mathematical sciences, SIAM. ISBN 0-89871-420-6, p. 25
+ISO/IEC. ISO/IEC 9899::1999(E): Programming languages — C (2nd ed), 1999; Section 6.3.1.4, p. 43.
+Iverson, Kenneth E. (1962), A Programming Language, Wiley
+Lemmermeyer, Franz (2000), Reciprocity Laws: from Euler to Eisenstein, Berlin: Springer, ISBN 3-540-66957-4
+Ramanujan, Srinivasa (2000), Collected Papers, Providence RI: AMS / Chelsea, ISBN 978-0-8218-2076-6
+Ribenboim, Paulo (1996), The New Book of Prime Number Records, New York: Springer, ISBN 0-387-94457-5
+Michael Sullivan. Precalculus, 8th edition, p. 86
+Titchmarsh, Edward Charles; Heath-Brown, David Rodney ("Roger") (1986), The Theory of the Riemann Zeta-function (2nd ed.), Oxford: Oxford U. P., ISBN 0-19-853369-1
+
+External links
+
+"Floor function", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+Štefan Porubský, "Integer rounding functions", Interactive Information Portal for Algorithmic Mathematics, Institute of Computer Science of the Czech Academy of Sciences, Prague, Czech Republic, retrieved 24 October 2008
+Weisstein, Eric W. "Floor Function". MathWorld.
+Weisstein, Eric W. "Ceiling Function". MathWorld.

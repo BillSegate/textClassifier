@@ -1,0 +1,12 @@
+This is a list of operator splitting topics.
+
+General
+Alternating direction implicit method — finite difference method for parabolic, hyperbolic, and elliptic partial differential equations
+GRADELA — simple gradient elasticity model
+Matrix splitting — general method of splitting a matrix operator into a sum or difference of matrices
+Paul Tseng — resolved question on convergence of matrix splitting algorithms
+PISO algorithm — pressure-velocity calculation for Navier-Stokes equations
+Projection method (fluid dynamics) — computational fluid dynamics method
+Reactive transport modeling in porous media — modeling of chemical reactions and fluid flow through the Earth's crust
+Richard S. Varga — developed matrix splitting
+Strang splitting — specific numerical method for solving differential equations using operator splitting

@@ -1,0 +1,4284 @@
+The finite promise games are a collection of mathematical games developed by American mathematician Harvey Friedman in 2009 which are used to develop a family of fast-growing functions 
+  
+    
+      
+        F
+        P
+        L
+        C
+        I
+        (
+        k
+        )
+      
+    
+    {\displaystyle FPLCI(k)}
+  , 
+  
+    
+      
+        F
+        P
+        C
+        I
+        (
+        k
+        )
+      
+    
+    {\displaystyle FPCI(k)}
+   and 
+  
+    
+      
+        F
+        L
+        C
+        I
+        (
+        k
+        )
+      
+    
+    {\displaystyle FLCI(k)}
+  . The greedy clique sequence is a graph theory concept, also developed by Friedman in 2010, which are used to develop fast-growing functions 
+  
+    
+      
+        U
+        S
+        G
+        C
+        S
+        (
+        k
+        )
+      
+    
+    {\displaystyle USGCS(k)}
+  , 
+  
+    
+      
+        U
+        S
+        G
+        D
+        C
+        S
+        (
+        k
+        )
+      
+    
+    {\displaystyle USGDCS(k)}
+   and 
+  
+    
+      
+        U
+        S
+        G
+        D
+        C
+        
+          S
+          
+            2
+          
+        
+        (
+        k
+        )
+      
+    
+    {\displaystyle USGDCS_{2}(k)}
+  .
+
+  
+    
+      
+        
+          
+            S
+            M
+            A
+            H
+          
+        
+      
+    
+    {\displaystyle {\mathsf {SMAH}}}
+   represents the theory of ZFC plus, for each 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  , "there is a strongly 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -Mahlo cardinal", and 
+  
+    
+      
+        
+          
+            S
+            M
+            A
+            
+              H
+              
+                +
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\mathsf {SMAH^{+}}}}
+   represents the theory of ZFC plus "for each 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  , there is a strongly 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -Mahlo cardinal". 
+  
+    
+      
+        
+          
+            S
+            R
+            P
+          
+        
+      
+    
+    {\displaystyle {\mathsf {SRP}}}
+   represents the theory of ZFC plus, for each 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  , "there is a 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -stationary Ramsey cardinal", and 
+  
+    
+      
+        
+          
+            S
+            R
+            
+              P
+              
+                +
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\mathsf {SRP^{+}}}}
+   represents the theory of ZFC plus "for each 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  , there is a strongly 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -stationary Ramsey cardinal". 
+  
+    
+      
+        
+          
+            H
+            U
+            G
+            E
+          
+        
+      
+    
+    {\displaystyle {\mathsf {HUGE}}}
+   represents the theory of ZFC plus, for each 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  , "there is a 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -huge cardinal", and 
+  
+    
+      
+        
+          
+            H
+            U
+            G
+            
+              E
+              
+                +
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\mathsf {HUGE^{+}}}}
+   represents the theory of ZFC plus "for each 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  , there is a strongly 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -huge cardinal".
+
+Finite promise games
+Each of the games is finite, predetermined in length, and has two players (Alice and Bob). At each turn, Alice chooses an integer or a number of integers (an offering) and the Bob has to make one of two kinds of promises restricting his future possible moves. In all games, Bob wins if and only if Bob has kept all of his promises.
+
+Finite piecewise linear copy/invert games
+Here, 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   is the set of integers, and 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+   is the set of non-negative integers. Here, all letters represent integers. We say that a map 
+  
+    
+      
+        T
+        :
+        
+          
+            N
+          
+          
+            k
+          
+        
+        →
+        
+          N
+        
+      
+    
+    {\displaystyle T:\mathbb {N} ^{k}\rightarrow \mathbb {N} }
+   is piecewise linear if 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   can be defined by various affine functions with integer coefficients on each of finitely many pieces, where each piece is defined by a finite set of linear inequalities with integer coefficients. For some piecewise linear map 
+  
+    
+      
+        T
+        :
+        
+          
+            N
+          
+          
+            k
+          
+        
+        →
+        
+          N
+        
+      
+    
+    {\displaystyle T:\mathbb {N} ^{k}\rightarrow \mathbb {N} }
+  , a 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  -inversion of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is some 
+  
+    
+      
+        
+          y
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          y
+          
+            k
+          
+        
+        <
+        x
+      
+    
+    {\displaystyle y_{1},\ldots ,y_{k}<x}
+   such that 
+  
+    
+      
+        T
+        (
+        
+          y
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          y
+          
+            k
+          
+        
+        )
+        =
+        x
+      
+    
+    {\displaystyle T(y_{1},\ldots ,y_{k})=x}
+  . We then define the game 
+  
+    
+      
+        G
+        (
+        T
+        ,
+        n
+        ,
+        s
+        )
+      
+    
+    {\displaystyle G(T,n,s)}
+   for nonzero 
+  
+    
+      
+        n
+        ,
+        s
+      
+    
+    {\displaystyle n,s}
+  .
+
+  
+    
+      
+        G
+        (
+        T
+        ,
+        n
+        ,
+        s
+        )
+      
+    
+    {\displaystyle G(T,n,s)}
+   has 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   rounds, and alternates between Alice and Bob. At every stage of the game, Alice is required to play 
+  
+    
+      
+        x
+        ∈
+        [
+        0
+        ,
+        s
+        ]
+      
+    
+    {\displaystyle x\in [0,s]}
+  , called her offering, which is either of the form 
+  
+    
+      
+        y
+        +
+        z
+      
+    
+    {\displaystyle y+z}
+   or 
+  
+    
+      
+        w
+        !
+      
+    
+    {\displaystyle w!}
+  , where 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   and 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+   are integers previously played by Bob. Bob is then required to either:
+
+Accept 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , thereby playing 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   and promising that there will be no 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  -inversion of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   among the integers ever played by Bob. This promise applies to all past, present and future plays in the game.
+Reject 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , thereby play a 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  -inversion of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   and promising that 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is never played by Bob.In RCA0, it can be proven that Bob always has a winning strategy for any given game. The game 
+  
+    
+      
+        
+          G
+          
+            m
+          
+        
+        (
+        T
+        ,
+        n
+        ,
+        s
+        )
+      
+    
+    {\displaystyle G_{m}(T,n,s)}
+   is a modified version where Bob is forced to accept all factorial offers by Alice 
+  
+    
+      
+        >
+        m
+      
+    
+    {\displaystyle >m}
+  . Bob always has a winning strategy for 
+  
+    
+      
+        
+          G
+          
+            m
+          
+        
+        (
+        T
+        ,
+        n
+        ,
+        s
+        )
+      
+    
+    {\displaystyle G_{m}(T,n,s)}
+   for sufficiently large 
+  
+    
+      
+        m
+        ,
+        s
+      
+    
+    {\displaystyle m,s}
+  , although this cannot be proven in any given consistent fragment of 
+  
+    
+      
+        
+          
+            S
+            M
+            A
+            H
+          
+        
+      
+    
+    {\displaystyle {\mathsf {SMAH}}}
+  , and only 
+  
+    
+      
+        
+          
+            S
+            M
+            A
+            
+              H
+              
+                +
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\mathsf {SMAH^{+}}}}
+  . The function 
+  
+    
+      
+        F
+        P
+        L
+        C
+        I
+        (
+        a
+        )
+      
+    
+    {\displaystyle FPLCI(a)}
+   is the smallest 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   such that Bob can win 
+  
+    
+      
+        
+          G
+          
+            m
+          
+        
+        (
+        T
+        ,
+        n
+        ,
+        s
+        )
+      
+    
+    {\displaystyle G_{m}(T,n,s)}
+   for any 
+  
+    
+      
+        (
+        m
+        ,
+        T
+        ,
+        n
+        ,
+        s
+        )
+      
+    
+    {\displaystyle (m,T,n,s)}
+   such that 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   and 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   are greater than or equal to 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   and all the following values are less than 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  :
+
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   (the domain of 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   is 
+  
+    
+      
+        
+          
+            N
+          
+          
+            k
+          
+        
+      
+    
+    {\displaystyle \mathbb {N} ^{k}}
+  )
+the number of pieces of 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  
+the absolute values of the coefficients of the inequalities in 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  
+the absolute values of the coefficients of the affine functions in 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+
+Finite polynomial copy/invert games
+Let 
+  
+    
+      
+        P
+        :
+        
+          
+            Z
+          
+          
+            k
+          
+        
+        →
+        Z
+      
+    
+    {\displaystyle P:\mathbb {Z} ^{k}\rightarrow Z}
+   be a polynomial with integer coefficients. A special 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  -inversion at 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   in 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   consists of 
+  
+    
+      
+        0
+        <
+        
+          y
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          y
+          
+            n
+          
+        
+        <
+        
+          
+            x
+            2
+          
+        
+      
+    
+    {\displaystyle 0<y_{1},\ldots ,y_{n}<{\frac {x}{2}}}
+   such that 
+  
+    
+      
+        P
+        (
+        
+          y
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          y
+          
+            n
+          
+        
+        )
+        =
+        x
+      
+    
+    {\displaystyle P(y_{1},\ldots ,y_{n})=x}
+  . We now define the game 
+  
+    
+      
+        G
+        (
+        P
+        ,
+        Q
+        ,
+        n
+        ,
+        s
+        )
+      
+    
+    {\displaystyle G(P,Q,n,s)}
+   for nonzero 
+  
+    
+      
+        n
+        ,
+        s
+      
+    
+    {\displaystyle n,s}
+  , where 
+  
+    
+      
+        P
+        ,
+        Q
+        :
+        
+          
+            Z
+          
+          
+            k
+          
+        
+        →
+        
+          Z
+        
+      
+    
+    {\displaystyle P,Q:\mathbb {Z} ^{k}\rightarrow \mathbb {Z} }
+   are polynomials with integer coefficients. 
+  
+    
+      
+        G
+        (
+        P
+        ,
+        Q
+        ,
+        n
+        ,
+        s
+        )
+      
+    
+    {\displaystyle G(P,Q,n,s)}
+   consists of 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   alternating plays by Alice and Bob. At every stage of the game, Alice is required to play 
+  
+    
+      
+        x
+        ∈
+        [
+        −
+        s
+        ,
+        s
+        ]
+      
+    
+    {\displaystyle x\in [-s,s]}
+   of the form 
+  
+    
+      
+        P
+        (
+        y
+        )
+      
+    
+    {\displaystyle P(y)}
+  , 
+  
+    
+      
+        Q
+        (
+        y
+        )
+      
+    
+    {\displaystyle Q(y)}
+   or 
+  
+    
+      
+        (
+        z
+        !
+        )
+        !
+      
+    
+    {\displaystyle (z!)!}
+  , where 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   is a 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -tuple of integers previously played by Bob. Bob is then required to either:
+
+Accept 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , thereby playing 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   and promising that there will be no special 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  - or 
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+  -inversion of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   among the integers ever played by Bob. This promise applies to all past, present and future plays in the game.
+Reject 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , thereby playing a special 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  - or 
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+  -inversion of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   and promising that 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is never played by Bob.Let 
+  
+    
+      
+        P
+        ,
+        Q
+        :
+        
+          
+            Z
+          
+          
+            k
+          
+        
+        →
+        
+          Z
+        
+      
+    
+    {\displaystyle P,Q:\mathbb {Z} ^{k}\rightarrow \mathbb {Z} }
+   be polynomials with integer coefficients. In RCA0, it can be proven that Bob always has a winning strategy for any given game. If 
+  
+    
+      
+        m
+        ,
+        s
+      
+    
+    {\displaystyle m,s}
+   are sufficiently large then Bob wins 
+  
+    
+      
+        
+          G
+          
+            m
+          
+        
+        (
+        P
+        ,
+        Q
+        ,
+        n
+        ,
+        s
+        )
+      
+    
+    {\displaystyle G_{m}(P,Q,n,s)}
+  , which is 
+  
+    
+      
+        G
+        (
+        P
+        ,
+        Q
+        ,
+        n
+        ,
+        s
+        )
+      
+    
+    {\displaystyle G(P,Q,n,s)}
+   where Bob is forced to accept all double factorials 
+  
+    
+      
+        >
+        m
+      
+    
+    {\displaystyle >m}
+   offered by Alice. However, once again, this cannot be proven in any given consistent fragment of 
+  
+    
+      
+        
+          
+            S
+            M
+            A
+            H
+          
+        
+      
+    
+    {\displaystyle {\mathsf {SMAH}}}
+  , and only 
+  
+    
+      
+        
+          
+            S
+            M
+            A
+            
+              H
+              
+                +
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\mathsf {SMAH^{+}}}}
+  . The function 
+  
+    
+      
+        F
+        P
+        C
+        I
+        (
+        a
+        )
+      
+    
+    {\displaystyle FPCI(a)}
+   is the smallest 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   such that Bob can win 
+  
+    
+      
+        
+          G
+          
+            m
+          
+        
+        (
+        P
+        ,
+        Q
+        ,
+        n
+        ,
+        s
+        )
+      
+    
+    {\displaystyle G_{m}(P,Q,n,s)}
+   for any 
+  
+    
+      
+        (
+        m
+        ,
+        P
+        ,
+        Q
+        ,
+        n
+        ,
+        s
+        )
+      
+    
+    {\displaystyle (m,P,Q,n,s)}
+   such that 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   and 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   are greater than or equal to 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   and all the following values are less than 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  :
+
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   (the domain of the polynomials is 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            k
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} ^{k}}
+  )
+the degrees of 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   and 
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+  
+the absolute values of the coefficients of 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   and 
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+
+Finite linear copy/invert games
+We say that 
+  
+    
+      
+        x
+        ,
+        y
+        ∈
+        
+          
+            N
+          
+          
+            k
+          
+        
+      
+    
+    {\displaystyle x,y\in \mathbb {N} ^{k}}
+   are additively equivalent if and only if 
+  
+    
+      
+        
+          ∑
+          
+            q
+            =
+            1
+          
+          
+            i
+          
+        
+        
+          x
+          
+            q
+          
+        
+        =
+        
+          ∑
+          
+            q
+            =
+            1
+          
+          
+            j
+          
+        
+        
+          x
+          
+            q
+          
+        
+        
+        ⟹
+        
+        
+          ∑
+          
+            q
+            =
+            1
+          
+          
+            i
+          
+        
+        
+          y
+          
+            q
+          
+        
+        =
+        
+          ∑
+          
+            q
+            =
+            1
+          
+          
+            j
+          
+        
+        
+          y
+          
+            q
+          
+        
+      
+    
+    {\displaystyle \sum _{q=1}^{i}x_{q}=\sum _{q=1}^{j}x_{q}\implies \sum _{q=1}^{i}y_{q}=\sum _{q=1}^{j}y_{q}}
+  . For nonzero integers 
+  
+    
+      
+        p
+        ,
+        n
+        ,
+        s
+      
+    
+    {\displaystyle p,n,s}
+   and 
+  
+    
+      
+        
+          v
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          v
+          
+            p
+          
+        
+        ∈
+        
+          
+            N
+          
+          
+            k
+          
+        
+      
+    
+    {\displaystyle v_{1},\ldots ,v_{p}\in \mathbb {N} ^{k}}
+  , we define the game 
+  
+    
+      
+        G
+        (
+        
+          v
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          v
+          
+            p
+          
+        
+        ;
+        n
+        ,
+        s
+        )
+      
+    
+    {\displaystyle G(v_{1},\ldots ,v_{p};n,s)}
+   which consists of 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   alternating rounds between Alice and Bob. At every stage of the game, Alice is required to play an integer 
+  
+    
+      
+        x
+        ∈
+        [
+        0
+        ,
+        s
+        ]
+      
+    
+    {\displaystyle x\in [0,s]}
+   of the form 
+  
+    
+      
+        y
+        +
+        z
+      
+    
+    {\displaystyle y+z}
+   or 
+  
+    
+      
+        w
+        !
+      
+    
+    {\displaystyle w!}
+  , where 
+  
+    
+      
+        y
+        ,
+        z
+      
+    
+    {\displaystyle y,z}
+   are integers previously played by Bob. Bob is then required to either:
+
+Accept 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , thereby playing 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   and promising that 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   cannot be written as 
+  
+    
+      
+        
+          ∑
+          
+            q
+            =
+            1
+          
+          
+            k
+          
+        
+        
+          y
+          
+            q
+          
+        
+      
+    
+    {\displaystyle \sum _{q=1}^{k}y_{q}}
+  , where 
+  
+    
+      
+        (
+        
+          y
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          y
+          
+            k
+          
+        
+        )
+      
+    
+    {\displaystyle (y_{1},\ldots ,y_{k})}
+   is additively equivalent to some 
+  
+    
+      
+        
+          v
+          
+            j
+          
+        
+      
+    
+    {\displaystyle v_{j}}
+  , and 
+  
+    
+      
+        
+          y
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          y
+          
+            k
+          
+        
+      
+    
+    {\displaystyle y_{1},\ldots ,y_{k}}
+   are integers played by Bob at various times.
+Reject 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , thereby playing 
+  
+    
+      
+        
+          y
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          y
+          
+            k
+          
+        
+      
+    
+    {\displaystyle y_{1},\ldots ,y_{k}}
+  , where 
+  
+    
+      
+        x
+        =
+        
+          ∑
+          
+            q
+            =
+            1
+          
+          
+            k
+          
+        
+        
+          y
+          
+            q
+          
+        
+      
+    
+    {\displaystyle x=\sum _{q=1}^{k}y_{q}}
+   and 
+  
+    
+      
+        (
+        
+          y
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          y
+          
+            k
+          
+        
+        )
+      
+    
+    {\displaystyle (y_{1},\ldots ,y_{k})}
+   is additively equivalent to some 
+  
+    
+      
+        
+          v
+          
+            j
+          
+        
+      
+    
+    {\displaystyle v_{j}}
+  , and promises that 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is never played by Bob.Let 
+  
+    
+      
+        
+          v
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          v
+          
+            p
+          
+        
+        ∈
+        
+          
+            N
+          
+          
+            k
+          
+        
+      
+    
+    {\displaystyle v_{1},\ldots ,v_{p}\in \mathbb {N} ^{k}}
+  . In RCA0, it can be proven that Bob always has a winning strategy for any given game. Let 
+  
+    
+      
+        
+          v
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          v
+          
+            p
+          
+        
+        ∈
+        
+          
+            N
+          
+          
+            k
+          
+        
+      
+    
+    {\displaystyle v_{1},\ldots ,v_{p}\in \mathbb {N} ^{k}}
+  . If 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   is sufficiently large, then Bob wins 
+  
+    
+      
+        
+          G
+          
+            m
+          
+        
+        (
+        
+          v
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          v
+          
+            p
+          
+        
+        ;
+        n
+        ,
+        s
+        )
+      
+    
+    {\displaystyle G_{m}(v_{1},\ldots ,v_{p};n,s)}
+  , where Bob accepts all factorials 
+  
+    
+      
+        >
+        m
+      
+    
+    {\displaystyle >m}
+   offered by Alice. However, once again, this cannot be proven in any given consistent fragment of 
+  
+    
+      
+        
+          
+            S
+            M
+            A
+            H
+          
+        
+      
+    
+    {\displaystyle {\mathsf {SMAH}}}
+  , and only 
+  
+    
+      
+        
+          
+            S
+            M
+            A
+            
+              H
+              
+                +
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\mathsf {SMAH^{+}}}}
+  . The function 
+  
+    
+      
+        F
+        L
+        C
+        I
+        (
+        a
+        )
+      
+    
+    {\displaystyle FLCI(a)}
+   is the smallest 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   such that Bob can win 
+  
+    
+      
+        
+          G
+          
+            m
+          
+        
+        (
+        
+          v
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          v
+          
+            p
+          
+        
+        ;
+        n
+        ,
+        s
+        )
+      
+    
+    {\displaystyle G_{m}(v_{1},\ldots ,v_{p};n,s)}
+   for any 
+  
+    
+      
+        (
+        m
+        ,
+        
+          v
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          v
+          
+            p
+          
+        
+        ;
+        n
+        ,
+        s
+        )
+      
+    
+    {\displaystyle (m,v_{1},\ldots ,v_{p};n,s)}
+   such that 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   is greater than or equal to 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  , 
+  
+    
+      
+        n
+        ,
+        s
+      
+    
+    {\displaystyle n,s}
+   are positive and all the following values are less than 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  :
+
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  
+
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  
+the number of components of each vector in 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+
+Functions
+As shown by Friedman, the three functions 
+  
+    
+      
+        F
+        P
+        L
+        C
+        I
+        (
+        a
+        )
+      
+    
+    {\displaystyle FPLCI(a)}
+  , 
+  
+    
+      
+        F
+        P
+        C
+        I
+        (
+        a
+        )
+      
+    
+    {\displaystyle FPCI(a)}
+   and 
+  
+    
+      
+        F
+        L
+        C
+        I
+        (
+        a
+        )
+      
+    
+    {\displaystyle FLCI(a)}
+   are extremely fast-growing, eventually dominating any functions provably recursive in any consistent fragment of 
+  
+    
+      
+        
+          
+            S
+            M
+            A
+            H
+          
+        
+      
+    
+    {\displaystyle {\mathsf {SMAH}}}
+   (one of these is ZFC), but they are computable and provably total in 
+  
+    
+      
+        
+          
+            S
+            M
+            A
+            
+              H
+              
+                +
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\mathsf {SMAH^{+}}}}
+  .
+
+Greedy clique sequences
+Q
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle \mathbb {Q} ^{*}}
+   denotes the set of all tuples of rational numbers. We use subscripts to denote indexes into tuples (starting at 1) and angle brackets to denote concatenation of tuples, e.g. 
+  
+    
+      
+        ⟨
+        (
+        0
+        ,
+        1
+        )
+        ,
+        (
+        2
+        ,
+        3
+        )
+        ⟩
+        =
+        (
+        0
+        ,
+        1
+        ,
+        2
+        ,
+        3
+        )
+      
+    
+    {\displaystyle \langle (0,1),(2,3)\rangle =(0,1,2,3)}
+  . Given 
+  
+    
+      
+        a
+        ∈
+        
+          
+            Q
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle a\in \mathbb {Q} ^{*}}
+  , we define the upper shift of 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  , denoted 
+  
+    
+      
+        
+          
+            us
+          
+        
+        (
+        a
+        )
+      
+    
+    {\displaystyle {\textrm {us}}(a)}
+   to be the result of adding 1 to all its nonnegative components. Given 
+  
+    
+      
+        a
+        ,
+        b
+        ∈
+        
+          
+            Q
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle a,b\in \mathbb {Q} ^{*}}
+  , we say that 
+  
+    
+      
+        a
+        ⪯
+        b
+        
+        ⟺
+        
+        
+          
+            max
+          
+        
+        (
+        a
+        )
+        ≤
+        
+          
+            max
+          
+        
+        (
+        b
+        )
+      
+    
+    {\displaystyle a\preceq b\iff {\textrm {max}}(a)\leq {\textrm {max}}(b)}
+   and 
+  
+    
+      
+        a
+        ≺
+        b
+        
+        ⟺
+        
+        
+          
+            max
+          
+        
+        (
+        a
+        )
+        <
+        
+          
+            max
+          
+        
+        (
+        b
+        )
+      
+    
+    {\displaystyle a\prec b\iff {\textrm {max}}(a)<{\textrm {max}}(b)}
+  . 
+  
+    
+      
+        a
+        ,
+        b
+        ∈
+        
+          
+            Q
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle a,b\in \mathbb {Q} ^{*}}
+   are called order equivalent if and only if they have the same length and for all 
+  
+    
+      
+        i
+        ,
+        j
+      
+    
+    {\displaystyle i,j}
+  , 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        <
+        
+          a
+          
+            j
+          
+        
+      
+    
+    {\displaystyle a_{i}<a_{j}}
+   iff 
+  
+    
+      
+        
+          b
+          
+            i
+          
+        
+        <
+        
+          b
+          
+            j
+          
+        
+      
+    
+    {\displaystyle b_{i}<b_{j}}
+  . A set 
+  
+    
+      
+        E
+        ⊆
+        
+          
+            Q
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle E\subseteq \mathbb {Q} ^{*}}
+   is order invariant iff for all order equivalent 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   and 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  , 
+  
+    
+      
+        x
+        ∈
+        E
+        
+        ⟺
+        
+        y
+        ∈
+        E
+      
+    
+    {\displaystyle x\in E\iff y\in E}
+  .
+Let 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+   be a graph with vertices in 
+  
+    
+      
+        
+          
+            Q
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle \mathbb {Q} ^{*}}
+  . Let 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   be the set defined as follows: for every edge 
+  
+    
+      
+        (
+        x
+        ,
+        y
+        )
+      
+    
+    {\displaystyle (x,y)}
+   in 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+  , their concatenation 
+  
+    
+      
+        ⟨
+        x
+        ,
+        y
+        ⟩
+      
+    
+    {\displaystyle \langle x,y\rangle }
+   is in 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+  . Then if 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   is order invariant, we say that 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+   is order invariant. When 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+   is order invariant, 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+   has infinite edges. We are given 
+  
+    
+      
+        k
+        ∈
+        
+          N
+        
+      
+    
+    {\displaystyle k\in \mathbb {N} }
+  , 
+  
+    
+      
+        S
+        ⊆
+        
+          
+            Q
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle S\subseteq \mathbb {Q} ^{*}}
+  , and a simple graph 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   (or a digraph in the case of upper shift greedy down clique sequences) with vertices in 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  . We define a sequence 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   as a nonempty tuple 
+  
+    
+      
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle (x_{1},\ldots ,x_{n})}
+   where 
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+        ∈
+        S
+      
+    
+    {\displaystyle x_{i}\in S}
+  . This is not a tuple but rather a tuple of tuples. When 
+  
+    
+      
+        S
+        =
+        
+          
+            Q
+          
+          
+            k
+          
+        
+      
+    
+    {\displaystyle S=\mathbb {Q} ^{k}}
+  , 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is said to be an upper shift greedy clique sequence in 
+  
+    
+      
+        
+          
+            Q
+          
+          
+            k
+          
+        
+      
+    
+    {\displaystyle \mathbb {Q} ^{k}}
+   if it satisfies the following:
+
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+      
+    
+    {\displaystyle x_{1}}
+   consists only of zeroes.
+Let 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   be an integer such that 
+  
+    
+      
+        2
+        ≤
+        2
+        m
+        ≤
+        k
+        −
+        1
+      
+    
+    {\displaystyle 2\leq 2m\leq k-1}
+  , or a positive integer if we allow infinite sequences. 
+  
+    
+      
+        Y
+        =
+        ⟨
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            2
+            m
+            −
+            1
+          
+        
+        ⟩
+      
+    
+    {\displaystyle Y=\langle x_{1},\ldots ,x_{2m-1}\rangle }
+   and let 
+  
+    
+      
+        y
+        =
+        (
+        
+          Y
+          
+            m
+          
+        
+        ,
+        …
+        ,
+        
+          Y
+          
+            m
+            +
+            k
+            −
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle y=(Y_{m},\ldots ,Y_{m+k-1})}
+  . Then, 
+  
+    
+      
+        
+          x
+          
+            2
+            m
+          
+        
+        ⪯
+        y
+      
+    
+    {\displaystyle x_{2m}\preceq y}
+  , 
+  
+    
+      
+        (
+        y
+        ,
+        
+          x
+          
+            2
+            m
+          
+        
+        )
+      
+    
+    {\displaystyle (y,x_{2m})}
+   is not an edge of 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  , and 
+  
+    
+      
+        
+          x
+          
+            2
+            m
+            +
+            1
+          
+        
+        =
+        
+          
+            us
+          
+        
+        (
+        
+          x
+          
+            2
+            m
+          
+        
+        )
+      
+    
+    {\displaystyle x_{2m+1}={\textrm {us}}(x_{2m})}
+  .
+
+  
+    
+      
+        {
+        
+          x
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{x_{2},\ldots ,x_{n}\}}
+   is a clique in 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  , i.e. 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   contains as an edge every pair of vertices in 
+  
+    
+      
+        {
+        
+          x
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{x_{2},\ldots ,x_{n}\}}
+  .When 
+  
+    
+      
+        S
+        =
+        
+          
+            Q
+          
+          
+            k
+          
+        
+      
+    
+    {\displaystyle S=\mathbb {Q} ^{k}}
+  , 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is said to be an upper shift down greedy clique sequence in 
+  
+    
+      
+        
+          
+            Q
+          
+          
+            k
+          
+        
+      
+    
+    {\displaystyle \mathbb {Q} ^{k}}
+   if it satisfies the following:
+
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+      
+    
+    {\displaystyle x_{1}}
+   consists only of zeroes.
+Let 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   be an integer such that 
+  
+    
+      
+        2
+        ≤
+        2
+        m
+        ≤
+        k
+        −
+        1
+      
+    
+    {\displaystyle 2\leq 2m\leq k-1}
+  , or a positive integer if we allow infinite sequences. 
+  
+    
+      
+        Y
+        =
+        ⟨
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            2
+            m
+            −
+            1
+          
+        
+        ⟩
+      
+    
+    {\displaystyle Y=\langle x_{1},\ldots ,x_{2m-1}\rangle }
+   and let 
+  
+    
+      
+        y
+        =
+        (
+        
+          Y
+          
+            m
+          
+        
+        ,
+        …
+        ,
+        
+          Y
+          
+            m
+            +
+            k
+            −
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle y=(Y_{m},\ldots ,Y_{m+k-1})}
+  . Then, 
+  
+    
+      
+        
+          x
+          
+            2
+            m
+          
+        
+        =
+        y
+      
+    
+    {\displaystyle x_{2m}=y}
+   or 
+  
+    
+      
+        
+          x
+          
+            2
+            m
+          
+        
+        ≺
+        y
+      
+    
+    {\displaystyle x_{2m}\prec y}
+   and 
+  
+    
+      
+        (
+        y
+        ,
+        
+          x
+          
+            2
+            m
+          
+        
+        )
+      
+    
+    {\displaystyle (y,x_{2m})}
+   is not an edge of 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  ; and 
+  
+    
+      
+        
+          x
+          
+            2
+            m
+            +
+            1
+          
+        
+        =
+        
+          
+            us
+          
+        
+        (
+        
+          x
+          
+            2
+            m
+          
+        
+        )
+      
+    
+    {\displaystyle x_{2m+1}={\textrm {us}}(x_{2m})}
+  .
+
+  
+    
+      
+        {
+        
+          x
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{x_{2},\ldots ,x_{n}\}}
+   is a down clique in 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  , i.e. for all 
+  
+    
+      
+        f
+        ,
+        g
+        ∈
+        {
+        
+          x
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle f,g\in \{x_{2},\ldots ,x_{n}\}}
+   and 
+  
+    
+      
+        g
+        ≺
+        f
+      
+    
+    {\displaystyle g\prec f}
+  , 
+  
+    
+      
+        (
+        f
+        ,
+        g
+        )
+      
+    
+    {\displaystyle (f,g)}
+   is an edge of 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  .When 
+  
+    
+      
+        S
+        =
+        
+          
+            Q
+          
+          
+            k
+          
+        
+        ∪
+        
+          
+            Q
+          
+          
+            k
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle S=\mathbb {Q} ^{k}\cup \mathbb {Q} ^{k+1}}
+  , 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is said to be an extreme upper shift down greedy clique sequence in 
+  
+    
+      
+        
+          
+            Q
+          
+          
+            k
+          
+        
+        ∪
+        
+          
+            Q
+          
+          
+            k
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle \mathbb {Q} ^{k}\cup \mathbb {Q} ^{k+1}}
+   if it satisfies the following:
+
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+      
+    
+    {\displaystyle x_{1}}
+   consists only of zeroes.
+Let 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   be an integer such that 
+  
+    
+      
+        2
+        ≤
+        2
+        m
+        ≤
+        k
+        −
+        1
+      
+    
+    {\displaystyle 2\leq 2m\leq k-1}
+  , or a positive integer if we allow infinite sequences. 
+  
+    
+      
+        Y
+        =
+        ⟨
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            2
+            m
+            −
+            1
+          
+        
+        ⟩
+      
+    
+    {\displaystyle Y=\langle x_{1},\ldots ,x_{2m-1}\rangle }
+   and let 
+  
+    
+      
+        y
+        =
+        (
+        
+          Y
+          
+            m
+          
+        
+        ,
+        …
+        ,
+        
+          Y
+          
+            m
+            +
+            k
+            −
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle y=(Y_{m},\ldots ,Y_{m+k-1})}
+  . Then, 
+  
+    
+      
+        
+          x
+          
+            2
+            m
+          
+        
+        =
+        y
+      
+    
+    {\displaystyle x_{2m}=y}
+   or 
+  
+    
+      
+        
+          x
+          
+            2
+            m
+          
+        
+        ≺
+        y
+      
+    
+    {\displaystyle x_{2m}\prec y}
+   and 
+  
+    
+      
+        (
+        y
+        ,
+        
+          x
+          
+            2
+            m
+          
+        
+        )
+      
+    
+    {\displaystyle (y,x_{2m})}
+   is not an edge of 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  ; and 
+  
+    
+      
+        
+          x
+          
+            2
+            m
+            +
+            1
+          
+        
+        =
+        
+          
+            us
+          
+        
+        (
+        
+          x
+          
+            2
+            m
+          
+        
+        )
+      
+    
+    {\displaystyle x_{2m+1}={\textrm {us}}(x_{2m})}
+  .
+If 
+  
+    
+      
+        
+          x
+          
+            2
+            m
+          
+        
+        ∈
+        [
+        0
+        ,
+        k
+        
+          ]
+          
+            k
+          
+        
+      
+    
+    {\displaystyle x_{2m}\in [0,k]^{k}}
+  , then 
+  
+    
+      
+        
+          x
+          
+            2
+            m
+            +
+            1
+          
+        
+        =
+        (
+        k
+        +
+        
+          
+            1
+            2
+          
+        
+        ,
+        
+          
+            us
+          
+        
+        (
+        
+          x
+          
+            2
+            m
+          
+        
+        )
+        )
+      
+    
+    {\displaystyle x_{2m+1}=(k+{\frac {1}{2}},{\textrm {us}}(x_{2m}))}
+  .
+If 
+  
+    
+      
+        
+          x
+          
+            2
+            m
+          
+        
+        ∈
+        
+          
+            Q
+          
+          
+            k
+          
+        
+        ∖
+        [
+        0
+        ,
+        k
+        
+          ]
+          
+            k
+          
+        
+      
+    
+    {\displaystyle x_{2m}\in \mathbb {Q} ^{k}\smallsetminus [0,k]^{k}}
+  , then 
+  
+    
+      
+        
+          x
+          
+            2
+            m
+            +
+            1
+          
+        
+        =
+        
+          
+            us
+          
+        
+        (
+        
+          x
+          
+            2
+            m
+          
+        
+        )
+      
+    
+    {\displaystyle x_{2m+1}={\textrm {us}}(x_{2m})}
+  .
+If 
+  
+    
+      
+        
+          x
+          
+            2
+            m
+          
+        
+        =
+        (
+        k
+        +
+        
+          
+            1
+            2
+          
+        
+        ,
+        z
+        )
+      
+    
+    {\displaystyle x_{2m}=(k+{\frac {1}{2}},z)}
+   and 
+  
+    
+      
+        
+          x
+          
+            2
+            m
+          
+        
+        ∈
+        
+          
+            Q
+          
+          
+            k
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle x_{2m}\in \mathbb {Q} ^{k+1}}
+  , then 
+  
+    
+      
+        
+          x
+          
+            2
+            m
+            +
+            1
+          
+        
+        =
+        
+          
+            
+              us
+            
+          
+          
+            −
+            1
+          
+        
+        (
+        z
+        )
+      
+    
+    {\displaystyle x_{2m+1}={\textrm {us}}^{-1}(z)}
+  
+
+  
+    
+      
+        {
+        
+          x
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{x_{2},\ldots ,x_{n}\}}
+   is a down clique in 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  The thread of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is a subsequence 
+  
+    
+      
+        (
+        
+          u
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          u
+          
+            r
+          
+        
+        )
+        ∈
+        [
+        1
+        ,
+        n
+        ]
+      
+    
+    {\displaystyle (u_{1},\ldots ,u_{r})\in [1,n]}
+   defined inductively like so:
+
+  
+    
+      
+        
+          u
+          
+            1
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle u_{1}=1}
+  
+
+  
+    
+      
+        
+          u
+          
+            i
+            +
+            1
+          
+        
+        =
+        
+          
+            max
+          
+        
+        (
+        j
+        ∈
+        [
+        
+          u
+          
+            i
+          
+        
+        ,
+        
+          2
+          
+            
+              u
+              
+                1
+              
+            
+          
+        
+        ]
+        :
+        
+          x
+          
+            j
+          
+        
+        ≺
+        
+          x
+          
+            
+              u
+              
+                i
+              
+            
+          
+        
+        )
+      
+    
+    {\displaystyle u_{i+1}={\textrm {max}}(j\in [u_{i},2^{u_{1}}]:x_{j}\prec x_{u_{i}})}
+  Given a thread 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  , we say that is open if 
+  
+    
+      
+        
+          2
+          
+            
+              u
+              
+                r
+              
+            
+          
+        
+        ≤
+        n
+      
+    
+    {\displaystyle 2^{u_{r}}\leq n}
+  . Using this Harvey Friedman defined three very powerful functions:
+
+  
+    
+      
+        U
+        S
+        G
+        C
+        S
+        (
+        k
+        )
+      
+    
+    {\displaystyle USGCS(k)}
+   is the smallest 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   such that every simple, order invariant graph 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   has an upper shift greedy clique sequence in 
+  
+    
+      
+        
+          
+            Q
+          
+          
+            k
+          
+        
+      
+    
+    {\displaystyle \mathbb {Q} ^{k}}
+   of length at most 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   with an open thread.
+
+  
+    
+      
+        U
+        S
+        G
+        D
+        C
+        S
+        (
+        k
+        )
+      
+    
+    {\displaystyle USGDCS(k)}
+   is the smallest 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   such that every order invariant digraph 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   has an upper shift greedy down clique sequence in 
+  
+    
+      
+        
+          
+            Q
+          
+          
+            k
+          
+        
+      
+    
+    {\displaystyle \mathbb {Q} ^{k}}
+   of length at most 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   with an open thread.
+
+  
+    
+      
+        U
+        S
+        G
+        D
+        C
+        
+          S
+          
+            2
+          
+        
+        (
+        k
+        )
+      
+    
+    {\displaystyle USGDCS_{2}(k)}
+   is the smallest 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   such that every order invariant digraph 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   has an extreme upper shift greedy down clique sequence in 
+  
+    
+      
+        
+          
+            Q
+          
+          
+            k
+          
+        
+        ∪
+        
+          
+            Q
+          
+          
+            k
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle \mathbb {Q} ^{k}\cup \mathbb {Q} ^{k+1}}
+   of length at most 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   with an open thread.
+  
+    
+      
+        U
+        S
+        G
+        C
+        S
+      
+    
+    {\displaystyle USGCS}
+   and 
+  
+    
+      
+        U
+        S
+        G
+        D
+        C
+        S
+      
+    
+    {\displaystyle USGDCS}
+   eventually dominate all functions provably recursive in 
+  
+    
+      
+        
+          
+            S
+            R
+            P
+          
+        
+      
+    
+    {\displaystyle {\mathsf {SRP}}}
+  , but are themselves provably recursive in 
+  
+    
+      
+        
+          
+            S
+            R
+            
+              P
+              
+                +
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\mathsf {SRP^{+}}}}
+  . 
+  
+    
+      
+        U
+        S
+        G
+        D
+        C
+        
+          S
+          
+            2
+          
+        
+      
+    
+    {\displaystyle USGDCS_{2}}
+   eventually dominates all functions provably recursive in 
+  
+    
+      
+        
+          
+            H
+            U
+            G
+            E
+          
+        
+      
+    
+    {\displaystyle {\mathsf {HUGE}}}
+  , but is itself provably total in 
+  
+    
+      
+        
+          
+            H
+            U
+            G
+            
+              E
+              
+                +
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\mathsf {HUGE^{+}}}}
+  .
+
+References
+Friedman, Harvey (2009-09-02). "Finite Promise Games". New York University. Retrieved 2021-10-02.
+Friedman, Harvey (2009-12-30). "Upper Shift Greedy Clique Sequences and Large Cardinals 1". New York University. Retrieved 2021-10-02.
+Friedman, Harvey (2010-01-01). "Terrifically and Extremely Long Finite Sequences". New York University. Retrieved 2021-10-02.

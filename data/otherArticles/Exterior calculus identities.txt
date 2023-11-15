@@ -1,0 +1,8061 @@
+This article summarizes several identities in exterior calculus.
+
+Notation
+The following summarizes short definitions and notations that are used in this article.
+
+Manifold
+M
+      
+    
+    {\displaystyle M}
+  , 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   are 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -dimensional smooth manifolds, where 
+  
+    
+      
+        n
+        ∈
+        
+          N
+        
+      
+    
+    {\displaystyle n\in \mathbb {N} }
+  . That is, differentiable manifolds that can be differentiated enough times for the purposes on this page.
+
+  
+    
+      
+        p
+        ∈
+        M
+      
+    
+    {\displaystyle p\in M}
+  , 
+  
+    
+      
+        q
+        ∈
+        N
+      
+    
+    {\displaystyle q\in N}
+   denote one point on each of the manifolds.
+The boundary of a manifold 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   is a manifold 
+  
+    
+      
+        ∂
+        M
+      
+    
+    {\displaystyle \partial M}
+  , which has dimension 
+  
+    
+      
+        n
+        −
+        1
+      
+    
+    {\displaystyle n-1}
+  .  An orientation on 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   induces an orientation on 
+  
+    
+      
+        ∂
+        M
+      
+    
+    {\displaystyle \partial M}
+  .
+We usually denote a submanifold by 
+  
+    
+      
+        Σ
+        ⊂
+        M
+      
+    
+    {\displaystyle \Sigma \subset M}
+  .
+
+Tangent and cotangent bundles
+T
+        M
+      
+    
+    {\displaystyle TM}
+  , 
+  
+    
+      
+        
+          T
+          
+            ∗
+          
+        
+        M
+      
+    
+    {\displaystyle T^{*}M}
+   denote the tangent bundle and cotangent bundle, respectively, of the smooth manifold 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  .
+
+  
+    
+      
+        
+          T
+          
+            p
+          
+        
+        M
+      
+    
+    {\displaystyle T_{p}M}
+  , 
+  
+    
+      
+        
+          T
+          
+            q
+          
+        
+        N
+      
+    
+    {\displaystyle T_{q}N}
+   denote the tangent spaces of 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  , 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   at the points 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  , 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+  , respectively.  
+  
+    
+      
+        
+          T
+          
+            p
+          
+          
+            ∗
+          
+        
+        M
+      
+    
+    {\displaystyle T_{p}^{*}M}
+   denotes the cotangent space of 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   at the point 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  .
+Sections of the tangent bundles, also known as vector fields, are typically denoted as 
+  
+    
+      
+        X
+        ,
+        Y
+        ,
+        Z
+        ∈
+        Γ
+        (
+        T
+        M
+        )
+      
+    
+    {\displaystyle X,Y,Z\in \Gamma (TM)}
+   such that at a point 
+  
+    
+      
+        p
+        ∈
+        M
+      
+    
+    {\displaystyle p\in M}
+   we have 
+  
+    
+      
+        X
+        
+          
+            |
+          
+          
+            p
+          
+        
+        ,
+        Y
+        
+          
+            |
+          
+          
+            p
+          
+        
+        ,
+        Z
+        
+          
+            |
+          
+          
+            p
+          
+        
+        ∈
+        
+          T
+          
+            p
+          
+        
+        M
+      
+    
+    {\displaystyle X|_{p},Y|_{p},Z|_{p}\in T_{p}M}
+  .  Sections of the cotangent bundle, also known as differential 1-forms (or covector fields), are typically denoted as 
+  
+    
+      
+        α
+        ,
+        β
+        ∈
+        Γ
+        (
+        
+          T
+          
+            ∗
+          
+        
+        M
+        )
+      
+    
+    {\displaystyle \alpha ,\beta \in \Gamma (T^{*}M)}
+   such that at a point 
+  
+    
+      
+        p
+        ∈
+        M
+      
+    
+    {\displaystyle p\in M}
+   we have 
+  
+    
+      
+        α
+        
+          
+            |
+          
+          
+            p
+          
+        
+        ,
+        β
+        
+          
+            |
+          
+          
+            p
+          
+        
+        ∈
+        
+          T
+          
+            p
+          
+          
+            ∗
+          
+        
+        M
+      
+    
+    {\displaystyle \alpha |_{p},\beta |_{p}\in T_{p}^{*}M}
+  .  An alternative notation for 
+  
+    
+      
+        Γ
+        (
+        
+          T
+          
+            ∗
+          
+        
+        M
+        )
+      
+    
+    {\displaystyle \Gamma (T^{*}M)}
+   is 
+  
+    
+      
+        
+          Ω
+          
+            1
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \Omega ^{1}(M)}
+  .
+
+Differential k-forms
+Differential 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -forms, which we refer to simply as 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -forms here, are differential forms defined on 
+  
+    
+      
+        T
+        M
+      
+    
+    {\displaystyle TM}
+  . We denote the set of all 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -forms as 
+  
+    
+      
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \Omega ^{k}(M)}
+  . For 
+  
+    
+      
+        0
+        ≤
+        k
+        ,
+         
+        l
+        ,
+         
+        m
+        ≤
+        n
+      
+    
+    {\displaystyle 0\leq k,\ l,\ m\leq n}
+   we usually write 
+  
+    
+      
+        α
+        ∈
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \alpha \in \Omega ^{k}(M)}
+  , 
+  
+    
+      
+        β
+        ∈
+        
+          Ω
+          
+            l
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \beta \in \Omega ^{l}(M)}
+  , 
+  
+    
+      
+        γ
+        ∈
+        
+          Ω
+          
+            m
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \gamma \in \Omega ^{m}(M)}
+  .
+
+  
+    
+      
+        0
+      
+    
+    {\displaystyle 0}
+  -forms 
+  
+    
+      
+        f
+        ∈
+        
+          Ω
+          
+            0
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle f\in \Omega ^{0}(M)}
+   are just scalar functions 
+  
+    
+      
+        
+          C
+          
+            ∞
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle C^{\infty }(M)}
+   on 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  . 
+  
+    
+      
+        
+          1
+        
+        ∈
+        
+          Ω
+          
+            0
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \mathbf {1} \in \Omega ^{0}(M)}
+   denotes the constant 
+  
+    
+      
+        0
+      
+    
+    {\displaystyle 0}
+  -form equal to 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+   everywhere.
+
+Omitted elements of a sequence
+When we are given 
+  
+    
+      
+        (
+        k
+        +
+        1
+        )
+      
+    
+    {\displaystyle (k+1)}
+   inputs 
+  
+    
+      
+        
+          X
+          
+            0
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            k
+          
+        
+      
+    
+    {\displaystyle X_{0},\ldots ,X_{k}}
+   and a 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -form 
+  
+    
+      
+        α
+        ∈
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \alpha \in \Omega ^{k}(M)}
+   we denote omission of the 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  th entry by writing
+
+  
+    
+      
+        α
+        (
+        
+          X
+          
+            0
+          
+        
+        ,
+        …
+        ,
+        
+          
+            
+              
+                X
+                ^
+              
+            
+          
+          
+            i
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            k
+          
+        
+        )
+        :=
+        α
+        (
+        
+          X
+          
+            0
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            i
+            −
+            1
+          
+        
+        ,
+        
+          X
+          
+            i
+            +
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            k
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle \alpha (X_{0},\ldots ,{\hat {X}}_{i},\ldots ,X_{k}):=\alpha (X_{0},\ldots ,X_{i-1},X_{i+1},\ldots ,X_{k}).}
+
+Exterior product
+The exterior product is also known as the wedge product. It is denoted by 
+  
+    
+      
+        ∧
+        :
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+        ×
+        
+          Ω
+          
+            l
+          
+        
+        (
+        M
+        )
+        →
+        
+          Ω
+          
+            k
+            +
+            l
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \wedge :\Omega ^{k}(M)\times \Omega ^{l}(M)\rightarrow \Omega ^{k+l}(M)}
+  . The exterior product of a 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -form 
+  
+    
+      
+        α
+        ∈
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \alpha \in \Omega ^{k}(M)}
+   and an 
+  
+    
+      
+        l
+      
+    
+    {\displaystyle l}
+  -form 
+  
+    
+      
+        β
+        ∈
+        
+          Ω
+          
+            l
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \beta \in \Omega ^{l}(M)}
+   produce a 
+  
+    
+      
+        (
+        k
+        +
+        l
+        )
+      
+    
+    {\displaystyle (k+l)}
+  -form 
+  
+    
+      
+        α
+        ∧
+        β
+        ∈
+        
+          Ω
+          
+            k
+            +
+            l
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \alpha \wedge \beta \in \Omega ^{k+l}(M)}
+  . It can be written using the set 
+  
+    
+      
+        S
+        (
+        k
+        ,
+        k
+        +
+        l
+        )
+      
+    
+    {\displaystyle S(k,k+l)}
+   of all permutations 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+   of 
+  
+    
+      
+        {
+        1
+        ,
+        …
+        ,
+        n
+        }
+      
+    
+    {\displaystyle \{1,\ldots ,n\}}
+   such that 
+  
+    
+      
+        σ
+        (
+        1
+        )
+        <
+        …
+        <
+        σ
+        (
+        k
+        )
+        ,
+         
+        σ
+        (
+        k
+        +
+        1
+        )
+        <
+        …
+        <
+        σ
+        (
+        k
+        +
+        l
+        )
+      
+    
+    {\displaystyle \sigma (1)<\ldots <\sigma (k),\ \sigma (k+1)<\ldots <\sigma (k+l)}
+   as
+
+  
+    
+      
+        (
+        α
+        ∧
+        β
+        )
+        (
+        
+          X
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            k
+            +
+            l
+          
+        
+        )
+        =
+        
+          ∑
+          
+            σ
+            ∈
+            S
+            (
+            k
+            ,
+            k
+            +
+            l
+            )
+          
+        
+        
+          sign
+        
+        (
+        σ
+        )
+        α
+        (
+        
+          X
+          
+            σ
+            (
+            1
+            )
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            σ
+            (
+            k
+            )
+          
+        
+        )
+        ⊗
+        β
+        (
+        
+          X
+          
+            σ
+            (
+            k
+            +
+            1
+            )
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            σ
+            (
+            k
+            +
+            l
+            )
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle (\alpha \wedge \beta )(X_{1},\ldots ,X_{k+l})=\sum _{\sigma \in S(k,k+l)}{\text{sign}}(\sigma )\alpha (X_{\sigma (1)},\ldots ,X_{\sigma (k)})\otimes \beta (X_{\sigma (k+1)},\ldots ,X_{\sigma (k+l)}).}
+
+Directional derivative
+The directional derivative of a 0-form 
+  
+    
+      
+        f
+        ∈
+        
+          Ω
+          
+            0
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle f\in \Omega ^{0}(M)}
+   along a section 
+  
+    
+      
+        X
+        ∈
+        Γ
+        (
+        T
+        M
+        )
+      
+    
+    {\displaystyle X\in \Gamma (TM)}
+   is a 0-form denoted 
+  
+    
+      
+        
+          ∂
+          
+            X
+          
+        
+        f
+        .
+      
+    
+    {\displaystyle \partial _{X}f.}
+
+Exterior derivative
+The exterior derivative 
+  
+    
+      
+        
+          d
+          
+            k
+          
+        
+        :
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+        →
+        
+          Ω
+          
+            k
+            +
+            1
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle d_{k}:\Omega ^{k}(M)\rightarrow \Omega ^{k+1}(M)}
+   is defined for all 
+  
+    
+      
+        0
+        ≤
+        k
+        ≤
+        n
+      
+    
+    {\displaystyle 0\leq k\leq n}
+  .  We generally omit the subscript when it is clear from the context.
+For a 
+  
+    
+      
+        0
+      
+    
+    {\displaystyle 0}
+  -form 
+  
+    
+      
+        f
+        ∈
+        
+          Ω
+          
+            0
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle f\in \Omega ^{0}(M)}
+   we have 
+  
+    
+      
+        
+          d
+          
+            0
+          
+        
+        f
+        ∈
+        
+          Ω
+          
+            1
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle d_{0}f\in \Omega ^{1}(M)}
+   as the 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+  -form that gives the directional derivative, i.e., for the section 
+  
+    
+      
+        X
+        ∈
+        Γ
+        (
+        T
+        M
+        )
+      
+    
+    {\displaystyle X\in \Gamma (TM)}
+   we have 
+  
+    
+      
+        (
+        
+          d
+          
+            0
+          
+        
+        f
+        )
+        (
+        X
+        )
+        =
+        
+          ∂
+          
+            X
+          
+        
+        f
+      
+    
+    {\displaystyle (d_{0}f)(X)=\partial _{X}f}
+  , the directional derivative of 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   along 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  .For 
+  
+    
+      
+        0
+        <
+        k
+        ≤
+        n
+      
+    
+    {\displaystyle 0<k\leq n}
+  ,
+
+  
+    
+      
+        (
+        
+          d
+          
+            k
+          
+        
+        ω
+        )
+        (
+        
+          X
+          
+            0
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            k
+          
+        
+        )
+        =
+        
+          ∑
+          
+            0
+            ≤
+            j
+            ≤
+            k
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            j
+          
+        
+        
+          d
+          
+            0
+          
+        
+        (
+        ω
+        (
+        
+          X
+          
+            0
+          
+        
+        ,
+        …
+        ,
+        
+          
+            
+              
+                X
+                ^
+              
+            
+          
+          
+            j
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            k
+          
+        
+        )
+        )
+        (
+        
+          X
+          
+            j
+          
+        
+        )
+        +
+        
+          ∑
+          
+            0
+            ≤
+            i
+            <
+            j
+            ≤
+            k
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            i
+            +
+            j
+          
+        
+        ω
+        (
+        [
+        
+          X
+          
+            i
+          
+        
+        ,
+        
+          X
+          
+            j
+          
+        
+        ]
+        ,
+        
+          X
+          
+            0
+          
+        
+        ,
+        …
+        ,
+        
+          
+            
+              
+                X
+                ^
+              
+            
+          
+          
+            i
+          
+        
+        ,
+        …
+        ,
+        
+          
+            
+              
+                X
+                ^
+              
+            
+          
+          
+            j
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            k
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle (d_{k}\omega )(X_{0},\ldots ,X_{k})=\sum _{0\leq j\leq k}(-1)^{j}d_{0}(\omega (X_{0},\ldots ,{\hat {X}}_{j},\ldots ,X_{k}))(X_{j})+\sum _{0\leq i<j\leq k}(-1)^{i+j}\omega ([X_{i},X_{j}],X_{0},\ldots ,{\hat {X}}_{i},\ldots ,{\hat {X}}_{j},\ldots ,X_{k}).}
+
+Lie bracket
+The Lie bracket of sections 
+  
+    
+      
+        X
+        ,
+        Y
+        ∈
+        Γ
+        (
+        T
+        M
+        )
+      
+    
+    {\displaystyle X,Y\in \Gamma (TM)}
+   is defined as the unique section 
+  
+    
+      
+        [
+        X
+        ,
+        Y
+        ]
+        ∈
+        Γ
+        (
+        T
+        M
+        )
+      
+    
+    {\displaystyle [X,Y]\in \Gamma (TM)}
+   that satisfies
+
+  
+    
+      
+        ∀
+        f
+        ∈
+        
+          Ω
+          
+            0
+          
+        
+        (
+        M
+        )
+        ⇒
+        
+          ∂
+          
+            [
+            X
+            ,
+            Y
+            ]
+          
+        
+        f
+        =
+        
+          ∂
+          
+            X
+          
+        
+        
+          ∂
+          
+            Y
+          
+        
+        f
+        −
+        
+          ∂
+          
+            Y
+          
+        
+        
+          ∂
+          
+            X
+          
+        
+        f
+        .
+      
+    
+    {\displaystyle \forall f\in \Omega ^{0}(M)\Rightarrow \partial _{[X,Y]}f=\partial _{X}\partial _{Y}f-\partial _{Y}\partial _{X}f.}
+
+Tangent maps
+If 
+  
+    
+      
+        ϕ
+        :
+        M
+        →
+        N
+      
+    
+    {\displaystyle \phi :M\rightarrow N}
+   is a smooth map, then 
+  
+    
+      
+        d
+        ϕ
+        
+          
+            |
+          
+          
+            p
+          
+        
+        :
+        
+          T
+          
+            p
+          
+        
+        M
+        →
+        
+          T
+          
+            ϕ
+            (
+            p
+            )
+          
+        
+        N
+      
+    
+    {\displaystyle d\phi |_{p}:T_{p}M\rightarrow T_{\phi (p)}N}
+   defines a tangent map from 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   to 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  . It is defined through curves 
+  
+    
+      
+        γ
+      
+    
+    {\displaystyle \gamma }
+   on 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   with derivative 
+  
+    
+      
+        
+          γ
+          ′
+        
+        (
+        0
+        )
+        =
+        X
+        ∈
+        
+          T
+          
+            p
+          
+        
+        M
+      
+    
+    {\displaystyle \gamma '(0)=X\in T_{p}M}
+   such that
+
+  
+    
+      
+        d
+        ϕ
+        (
+        X
+        )
+        :=
+        (
+        ϕ
+        ∘
+        γ
+        
+          )
+          ′
+        
+        .
+      
+    
+    {\displaystyle d\phi (X):=(\phi \circ \gamma )'.}
+  Note that 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+   is a 
+  
+    
+      
+        0
+      
+    
+    {\displaystyle 0}
+  -form with values in 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  .
+
+Pull-back
+If 
+  
+    
+      
+        ϕ
+        :
+        M
+        →
+        N
+      
+    
+    {\displaystyle \phi :M\rightarrow N}
+   is a smooth map, then the pull-back of a 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -form 
+  
+    
+      
+        α
+        ∈
+        
+          Ω
+          
+            k
+          
+        
+        (
+        N
+        )
+      
+    
+    {\displaystyle \alpha \in \Omega ^{k}(N)}
+   is defined such that for any 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -dimensional submanifold 
+  
+    
+      
+        Σ
+        ⊂
+        M
+      
+    
+    {\displaystyle \Sigma \subset M}
+  
+
+  
+    
+      
+        
+          ∫
+          
+            Σ
+          
+        
+        
+          ϕ
+          
+            ∗
+          
+        
+        α
+        =
+        
+          ∫
+          
+            ϕ
+            (
+            Σ
+            )
+          
+        
+        α
+        .
+      
+    
+    {\displaystyle \int _{\Sigma }\phi ^{*}\alpha =\int _{\phi (\Sigma )}\alpha .}
+  The pull-back can also be expressed as
+
+  
+    
+      
+        (
+        
+          ϕ
+          
+            ∗
+          
+        
+        α
+        )
+        (
+        
+          X
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            k
+          
+        
+        )
+        =
+        α
+        (
+        d
+        ϕ
+        (
+        
+          X
+          
+            1
+          
+        
+        )
+        ,
+        …
+        ,
+        d
+        ϕ
+        (
+        
+          X
+          
+            k
+          
+        
+        )
+        )
+        .
+      
+    
+    {\displaystyle (\phi ^{*}\alpha )(X_{1},\ldots ,X_{k})=\alpha (d\phi (X_{1}),\ldots ,d\phi (X_{k})).}
+
+Interior product
+Also known as the interior derivative, the interior product given a section 
+  
+    
+      
+        Y
+        ∈
+        Γ
+        (
+        T
+        M
+        )
+      
+    
+    {\displaystyle Y\in \Gamma (TM)}
+   is a map 
+  
+    
+      
+        
+          ι
+          
+            Y
+          
+        
+        :
+        
+          Ω
+          
+            k
+            +
+            1
+          
+        
+        (
+        M
+        )
+        →
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \iota _{Y}:\Omega ^{k+1}(M)\rightarrow \Omega ^{k}(M)}
+   that effectively substitutes the first input of a 
+  
+    
+      
+        (
+        k
+        +
+        1
+        )
+      
+    
+    {\displaystyle (k+1)}
+  -form with 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+  . If 
+  
+    
+      
+        α
+        ∈
+        
+          Ω
+          
+            k
+            +
+            1
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \alpha \in \Omega ^{k+1}(M)}
+   and 
+  
+    
+      
+        
+          X
+          
+            i
+          
+        
+        ∈
+        Γ
+        (
+        T
+        M
+        )
+      
+    
+    {\displaystyle X_{i}\in \Gamma (TM)}
+   then
+
+  
+    
+      
+        (
+        
+          ι
+          
+            Y
+          
+        
+        α
+        )
+        (
+        
+          X
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            k
+          
+        
+        )
+        =
+        α
+        (
+        Y
+        ,
+        
+          X
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            k
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle (\iota _{Y}\alpha )(X_{1},\ldots ,X_{k})=\alpha (Y,X_{1},\ldots ,X_{k}).}
+
+Metric tensor
+Given a nondegenerate bilinear form 
+  
+    
+      
+        
+          g
+          
+            p
+          
+        
+        (
+        ⋅
+        ,
+        ⋅
+        )
+      
+    
+    {\displaystyle g_{p}(\cdot ,\cdot )}
+   on each 
+  
+    
+      
+        
+          T
+          
+            p
+          
+        
+        M
+      
+    
+    {\displaystyle T_{p}M}
+   that is continuous on 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  , the manifold becomes a pseudo-Riemannian manifold. We denote the metric tensor 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  , defined pointwise by 
+  
+    
+      
+        g
+        (
+        X
+        ,
+        Y
+        )
+        
+          
+            |
+          
+          
+            p
+          
+        
+        =
+        
+          g
+          
+            p
+          
+        
+        (
+        X
+        
+          
+            |
+          
+          
+            p
+          
+        
+        ,
+        Y
+        
+          
+            |
+          
+          
+            p
+          
+        
+        )
+      
+    
+    {\displaystyle g(X,Y)|_{p}=g_{p}(X|_{p},Y|_{p})}
+  . We call 
+  
+    
+      
+        s
+        =
+        sign
+        ⁡
+        (
+        g
+        )
+      
+    
+    {\displaystyle s=\operatorname {sign} (g)}
+   the signature of the metric. A Riemannian manifold has 
+  
+    
+      
+        s
+        =
+        1
+      
+    
+    {\displaystyle s=1}
+  , whereas Minkowski space has 
+  
+    
+      
+        s
+        =
+        −
+        1
+      
+    
+    {\displaystyle s=-1}
+  .
+
+Musical isomorphisms
+The metric tensor 
+  
+    
+      
+        g
+        (
+        ⋅
+        ,
+        ⋅
+        )
+      
+    
+    {\displaystyle g(\cdot ,\cdot )}
+   induces duality mappings between vector fields and one-forms: these are the musical isomorphisms flat 
+  
+    
+      
+        ♭
+      
+    
+    {\displaystyle \flat }
+   and sharp 
+  
+    
+      
+        ♯
+      
+    
+    {\displaystyle \sharp }
+  . A section 
+  
+    
+      
+        A
+        ∈
+        Γ
+        (
+        T
+        M
+        )
+      
+    
+    {\displaystyle A\in \Gamma (TM)}
+   corresponds to the unique one-form 
+  
+    
+      
+        
+          A
+          
+            ♭
+          
+        
+        ∈
+        
+          Ω
+          
+            1
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle A^{\flat }\in \Omega ^{1}(M)}
+   such that for all sections 
+  
+    
+      
+        X
+        ∈
+        Γ
+        (
+        T
+        M
+        )
+      
+    
+    {\displaystyle X\in \Gamma (TM)}
+  , we have:
+
+  
+    
+      
+        
+          A
+          
+            ♭
+          
+        
+        (
+        X
+        )
+        =
+        g
+        (
+        A
+        ,
+        X
+        )
+        .
+      
+    
+    {\displaystyle A^{\flat }(X)=g(A,X).}
+  A one-form 
+  
+    
+      
+        α
+        ∈
+        
+          Ω
+          
+            1
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \alpha \in \Omega ^{1}(M)}
+   corresponds to the unique vector field 
+  
+    
+      
+        
+          α
+          
+            ♯
+          
+        
+        ∈
+        Γ
+        (
+        T
+        M
+        )
+      
+    
+    {\displaystyle \alpha ^{\sharp }\in \Gamma (TM)}
+   such that for all 
+  
+    
+      
+        X
+        ∈
+        Γ
+        (
+        T
+        M
+        )
+      
+    
+    {\displaystyle X\in \Gamma (TM)}
+  , we have:
+
+  
+    
+      
+        α
+        (
+        X
+        )
+        =
+        g
+        (
+        
+          α
+          
+            ♯
+          
+        
+        ,
+        X
+        )
+        .
+      
+    
+    {\displaystyle \alpha (X)=g(\alpha ^{\sharp },X).}
+  These mappings extend via multilinearity to mappings from 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -vector fields to 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -forms and 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -forms to 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -vector fields through
+
+  
+    
+      
+        (
+        
+          A
+          
+            1
+          
+        
+        ∧
+        
+          A
+          
+            2
+          
+        
+        ∧
+        ⋯
+        ∧
+        
+          A
+          
+            k
+          
+        
+        
+          )
+          
+            ♭
+          
+        
+        =
+        
+          A
+          
+            1
+          
+          
+            ♭
+          
+        
+        ∧
+        
+          A
+          
+            2
+          
+          
+            ♭
+          
+        
+        ∧
+        ⋯
+        ∧
+        
+          A
+          
+            k
+          
+          
+            ♭
+          
+        
+      
+    
+    {\displaystyle (A_{1}\wedge A_{2}\wedge \cdots \wedge A_{k})^{\flat }=A_{1}^{\flat }\wedge A_{2}^{\flat }\wedge \cdots \wedge A_{k}^{\flat }}
+  
+
+  
+    
+      
+        (
+        
+          α
+          
+            1
+          
+        
+        ∧
+        
+          α
+          
+            2
+          
+        
+        ∧
+        ⋯
+        ∧
+        
+          α
+          
+            k
+          
+        
+        
+          )
+          
+            ♯
+          
+        
+        =
+        
+          α
+          
+            1
+          
+          
+            ♯
+          
+        
+        ∧
+        
+          α
+          
+            2
+          
+          
+            ♯
+          
+        
+        ∧
+        ⋯
+        ∧
+        
+          α
+          
+            k
+          
+          
+            ♯
+          
+        
+        .
+      
+    
+    {\displaystyle (\alpha _{1}\wedge \alpha _{2}\wedge \cdots \wedge \alpha _{k})^{\sharp }=\alpha _{1}^{\sharp }\wedge \alpha _{2}^{\sharp }\wedge \cdots \wedge \alpha _{k}^{\sharp }.}
+
+Hodge star
+For an n-manifold M, the Hodge star operator 
+  
+    
+      
+        
+          ⋆
+        
+        :
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+        →
+        
+          Ω
+          
+            n
+            −
+            k
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle {\star }:\Omega ^{k}(M)\rightarrow \Omega ^{n-k}(M)}
+   is a duality mapping taking a 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -form 
+  
+    
+      
+        α
+        ∈
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \alpha \in \Omega ^{k}(M)}
+   to an 
+  
+    
+      
+        (
+        n
+        
+          −
+        
+        k
+        )
+      
+    
+    {\displaystyle (n{-}k)}
+  -form 
+  
+    
+      
+        (
+        
+          ⋆
+        
+        α
+        )
+        ∈
+        
+          Ω
+          
+            n
+            −
+            k
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle ({\star }\alpha )\in \Omega ^{n-k}(M)}
+  .
+It can be defined in terms of an oriented frame 
+  
+    
+      
+        (
+        
+          X
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle (X_{1},\ldots ,X_{n})}
+   for 
+  
+    
+      
+        T
+        M
+      
+    
+    {\displaystyle TM}
+  , orthonormal with respect to the given metric tensor 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  :
+
+  
+    
+      
+        (
+        
+          ⋆
+        
+        α
+        )
+        (
+        
+          X
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            n
+            −
+            k
+          
+        
+        )
+        =
+        α
+        (
+        
+          X
+          
+            n
+            −
+            k
+            +
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            n
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle ({\star }\alpha )(X_{1},\ldots ,X_{n-k})=\alpha (X_{n-k+1},\ldots ,X_{n}).}
+
+Co-differential operator
+The co-differential operator 
+  
+    
+      
+        δ
+        :
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+        →
+        
+          Ω
+          
+            k
+            −
+            1
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \delta :\Omega ^{k}(M)\rightarrow \Omega ^{k-1}(M)}
+   on an 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   dimensional manifold 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   is defined by
+
+  
+    
+      
+        δ
+        :=
+        (
+        −
+        1
+        
+          )
+          
+            k
+          
+        
+        
+          
+            ⋆
+          
+          
+            −
+            1
+          
+        
+        d
+        
+          ⋆
+        
+        =
+        (
+        −
+        1
+        
+          )
+          
+            n
+            k
+            +
+            n
+            +
+            1
+          
+        
+        
+          ⋆
+        
+        d
+        
+          ⋆
+        
+        .
+      
+    
+    {\displaystyle \delta :=(-1)^{k}{\star }^{-1}d{\star }=(-1)^{nk+n+1}{\star }d{\star }.}
+  The Hodge–Dirac operator, 
+  
+    
+      
+        d
+        +
+        δ
+      
+    
+    {\displaystyle d+\delta }
+  , is a Dirac operator studied in Clifford analysis.
+
+Oriented manifold
+An 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -dimensional orientable manifold M is a manifold that can be equipped with a choice of an n-form 
+  
+    
+      
+        μ
+        ∈
+        
+          Ω
+          
+            n
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \mu \in \Omega ^{n}(M)}
+   that is continuous and nonzero everywhere on M.
+
+Volume form
+On an orientable manifold 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   the canonical choice of a volume form given a metric tensor 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   and an orientation is 
+  
+    
+      
+        
+          d
+          e
+          t
+        
+        :=
+        
+          
+            
+              |
+            
+            det
+            g
+            
+              |
+            
+          
+        
+        
+        d
+        
+          X
+          
+            1
+          
+          
+            ♭
+          
+        
+        ∧
+        …
+        ∧
+        d
+        
+          X
+          
+            n
+          
+          
+            ♭
+          
+        
+      
+    
+    {\displaystyle \mathbf {det} :={\sqrt {|\det g|}}\;dX_{1}^{\flat }\wedge \ldots \wedge dX_{n}^{\flat }}
+   for any basis 
+  
+    
+      
+        d
+        
+          X
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        d
+        
+          X
+          
+            n
+          
+        
+      
+    
+    {\displaystyle dX_{1},\ldots ,dX_{n}}
+   ordered to match the orientation.
+
+Area form
+Given a volume form 
+  
+    
+      
+        
+          d
+          e
+          t
+        
+      
+    
+    {\displaystyle \mathbf {det} }
+   and a unit normal vector 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   we can also define an area form 
+  
+    
+      
+        σ
+        :=
+        
+          ι
+          
+            N
+          
+        
+        
+          
+            det
+          
+        
+      
+    
+    {\displaystyle \sigma :=\iota _{N}{\textbf {det}}}
+   on the boundary 
+  
+    
+      
+        ∂
+        M
+        .
+      
+    
+    {\displaystyle \partial M.}
+
+Bilinear form on k-forms
+A generalization of the metric tensor, the symmetric bilinear form between two 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -forms 
+  
+    
+      
+        α
+        ,
+        β
+        ∈
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \alpha ,\beta \in \Omega ^{k}(M)}
+  , is defined pointwise on 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   by
+
+  
+    
+      
+        ⟨
+        α
+        ,
+        β
+        ⟩
+        
+          
+            |
+          
+          
+            p
+          
+        
+        :=
+        
+          ⋆
+        
+        (
+        α
+        ∧
+        
+          ⋆
+        
+        β
+        )
+        
+          
+            |
+          
+          
+            p
+          
+        
+        .
+      
+    
+    {\displaystyle \langle \alpha ,\beta \rangle |_{p}:={\star }(\alpha \wedge {\star }\beta )|_{p}.}
+  The 
+  
+    
+      
+        
+          L
+          
+            2
+          
+        
+      
+    
+    {\displaystyle L^{2}}
+  -bilinear form for the space of 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -forms 
+  
+    
+      
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \Omega ^{k}(M)}
+   is defined by
+
+  
+    
+      
+        ⟨
+        
+        ⟨
+        α
+        ,
+        β
+        ⟩
+        
+        ⟩
+        :=
+        
+          ∫
+          
+            M
+          
+        
+        α
+        ∧
+        
+          ⋆
+        
+        β
+        .
+      
+    
+    {\displaystyle \langle \!\langle \alpha ,\beta \rangle \!\rangle :=\int _{M}\alpha \wedge {\star }\beta .}
+  In the case of a Riemannian manifold, each is an inner product (i.e. is positive-definite).
+
+Lie derivative
+We define the Lie derivative 
+  
+    
+      
+        
+          
+            L
+          
+        
+        :
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+        →
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle {\mathcal {L}}:\Omega ^{k}(M)\rightarrow \Omega ^{k}(M)}
+   through Cartan's magic formula for a given section 
+  
+    
+      
+        X
+        ∈
+        Γ
+        (
+        T
+        M
+        )
+      
+    
+    {\displaystyle X\in \Gamma (TM)}
+   as
+
+  
+    
+      
+        
+          
+            
+              L
+            
+          
+          
+            X
+          
+        
+        =
+        d
+        ∘
+        
+          ι
+          
+            X
+          
+        
+        +
+        
+          ι
+          
+            X
+          
+        
+        ∘
+        d
+        .
+      
+    
+    {\displaystyle {\mathcal {L}}_{X}=d\circ \iota _{X}+\iota _{X}\circ d.}
+  It describes the change of a 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -form along a flow 
+  
+    
+      
+        
+          ϕ
+          
+            t
+          
+        
+      
+    
+    {\displaystyle \phi _{t}}
+   associated to the section 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  .
+
+Laplace–Beltrami operator
+The Laplacian 
+  
+    
+      
+        Δ
+        :
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+        →
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \Delta :\Omega ^{k}(M)\rightarrow \Omega ^{k}(M)}
+   is defined as 
+  
+    
+      
+        Δ
+        =
+        −
+        (
+        d
+        δ
+        +
+        δ
+        d
+        )
+      
+    
+    {\displaystyle \Delta =-(d\delta +\delta d)}
+  .
+
+Important definitions
+Definitions on Ωk(M)
+α
+        ∈
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \alpha \in \Omega ^{k}(M)}
+   is called...
+
+closed if 
+  
+    
+      
+        d
+        α
+        =
+        0
+      
+    
+    {\displaystyle d\alpha =0}
+  
+exact if 
+  
+    
+      
+        α
+        =
+        d
+        β
+      
+    
+    {\displaystyle \alpha =d\beta }
+   for some 
+  
+    
+      
+        β
+        ∈
+        
+          Ω
+          
+            k
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle \beta \in \Omega ^{k-1}}
+  
+coclosed if 
+  
+    
+      
+        δ
+        α
+        =
+        0
+      
+    
+    {\displaystyle \delta \alpha =0}
+  
+coexact if 
+  
+    
+      
+        α
+        =
+        δ
+        β
+      
+    
+    {\displaystyle \alpha =\delta \beta }
+   for some 
+  
+    
+      
+        β
+        ∈
+        
+          Ω
+          
+            k
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle \beta \in \Omega ^{k+1}}
+  
+harmonic if closed and coclosed
+
+Cohomology
+The 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -th cohomology of a manifold 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   and its exterior derivative operators 
+  
+    
+      
+        
+          d
+          
+            0
+          
+        
+        ,
+        …
+        ,
+        
+          d
+          
+            n
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle d_{0},\ldots ,d_{n-1}}
+   is given by
+
+  
+    
+      
+        
+          H
+          
+            k
+          
+        
+        (
+        M
+        )
+        :=
+        
+          
+            
+              
+                ker
+              
+              (
+              
+                d
+                
+                  k
+                
+              
+              )
+            
+            
+              
+                im
+              
+              (
+              
+                d
+                
+                  k
+                  −
+                  1
+                
+              
+              )
+            
+          
+        
+      
+    
+    {\displaystyle H^{k}(M):={\frac {{\text{ker}}(d_{k})}{{\text{im}}(d_{k-1})}}}
+  Two closed 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -forms 
+  
+    
+      
+        α
+        ,
+        β
+        ∈
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \alpha ,\beta \in \Omega ^{k}(M)}
+   are in the same cohomology class if their difference is an exact form i.e.
+
+  
+    
+      
+        [
+        α
+        ]
+        =
+        [
+        β
+        ]
+         
+         
+        ⟺
+         
+         
+        α
+        
+          −
+        
+        β
+        =
+        d
+        η
+         
+        
+           for some 
+        
+        η
+        ∈
+        
+          Ω
+          
+            k
+            −
+            1
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle [\alpha ]=[\beta ]\ \ \Longleftrightarrow \ \ \alpha {-}\beta =d\eta \ {\text{ for some }}\eta \in \Omega ^{k-1}(M)}
+  A closed surface of genus 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   will have 
+  
+    
+      
+        2
+        g
+      
+    
+    {\displaystyle 2g}
+   generators which are harmonic.
+
+Dirichlet energy
+Given 
+  
+    
+      
+        α
+        ∈
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \alpha \in \Omega ^{k}(M)}
+  , its Dirichlet energy is
+
+  
+    
+      
+        
+          
+            
+              E
+            
+          
+          
+            D
+          
+        
+        (
+        α
+        )
+        :=
+        
+          
+            
+              1
+              2
+            
+          
+        
+        ⟨
+        
+        ⟨
+        d
+        α
+        ,
+        d
+        α
+        ⟩
+        
+        ⟩
+        +
+        
+          
+            
+              1
+              2
+            
+          
+        
+        ⟨
+        
+        ⟨
+        δ
+        α
+        ,
+        δ
+        α
+        ⟩
+        
+        ⟩
+      
+    
+    {\displaystyle {\mathcal {E}}_{\text{D}}(\alpha ):={\dfrac {1}{2}}\langle \!\langle d\alpha ,d\alpha \rangle \!\rangle +{\dfrac {1}{2}}\langle \!\langle \delta \alpha ,\delta \alpha \rangle \!\rangle }
+
+Properties
+Exterior derivative properties
+∫
+          
+            Σ
+          
+        
+        d
+        α
+        =
+        
+          ∫
+          
+            ∂
+            Σ
+          
+        
+        α
+      
+    
+    {\displaystyle \int _{\Sigma }d\alpha =\int _{\partial \Sigma }\alpha }
+   ( Stokes' theorem )
+  
+    
+      
+        d
+        ∘
+        d
+        =
+        0
+      
+    
+    {\displaystyle d\circ d=0}
+   ( cochain complex )
+  
+    
+      
+        d
+        (
+        α
+        ∧
+        β
+        )
+        =
+        d
+        α
+        ∧
+        β
+        +
+        (
+        −
+        1
+        
+          )
+          
+            k
+          
+        
+        α
+        ∧
+        d
+        β
+      
+    
+    {\displaystyle d(\alpha \wedge \beta )=d\alpha \wedge \beta +(-1)^{k}\alpha \wedge d\beta }
+    for  
+  
+    
+      
+        α
+        ∈
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+        ,
+         
+        β
+        ∈
+        
+          Ω
+          
+            l
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \alpha \in \Omega ^{k}(M),\ \beta \in \Omega ^{l}(M)}
+   ( Leibniz rule )
+  
+    
+      
+        d
+        f
+        (
+        X
+        )
+        =
+        
+          ∂
+          
+            X
+          
+        
+        f
+      
+    
+    {\displaystyle df(X)=\partial _{X}f}
+    for  
+  
+    
+      
+        f
+        ∈
+        
+          Ω
+          
+            0
+          
+        
+        (
+        M
+        )
+        ,
+         
+        X
+        ∈
+        Γ
+        (
+        T
+        M
+        )
+      
+    
+    {\displaystyle f\in \Omega ^{0}(M),\ X\in \Gamma (TM)}
+   ( directional derivative )
+  
+    
+      
+        d
+        α
+        =
+        0
+      
+    
+    {\displaystyle d\alpha =0}
+    for  
+  
+    
+      
+        α
+        ∈
+        
+          Ω
+          
+            n
+          
+        
+        (
+        M
+        )
+        ,
+         
+        
+          dim
+        
+        (
+        M
+        )
+        =
+        n
+      
+    
+    {\displaystyle \alpha \in \Omega ^{n}(M),\ {\text{dim}}(M)=n}
+
+Exterior product properties
+α
+        ∧
+        β
+        =
+        (
+        −
+        1
+        
+          )
+          
+            k
+            l
+          
+        
+        β
+        ∧
+        α
+      
+    
+    {\displaystyle \alpha \wedge \beta =(-1)^{kl}\beta \wedge \alpha }
+    for  
+  
+    
+      
+        α
+        ∈
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+        ,
+         
+        β
+        ∈
+        
+          Ω
+          
+            l
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \alpha \in \Omega ^{k}(M),\ \beta \in \Omega ^{l}(M)}
+   ( alternating )
+  
+    
+      
+        (
+        α
+        ∧
+        β
+        )
+        ∧
+        γ
+        =
+        α
+        ∧
+        (
+        β
+        ∧
+        γ
+        )
+      
+    
+    {\displaystyle (\alpha \wedge \beta )\wedge \gamma =\alpha \wedge (\beta \wedge \gamma )}
+   ( associativity )
+  
+    
+      
+        (
+        λ
+        α
+        )
+        ∧
+        β
+        =
+        λ
+        (
+        α
+        ∧
+        β
+        )
+      
+    
+    {\displaystyle (\lambda \alpha )\wedge \beta =\lambda (\alpha \wedge \beta )}
+   for  
+  
+    
+      
+        λ
+        ∈
+        
+          R
+        
+      
+    
+    {\displaystyle \lambda \in \mathbb {R} }
+   ( compatibility of scalar multiplication )
+  
+    
+      
+        α
+        ∧
+        (
+        
+          β
+          
+            1
+          
+        
+        +
+        
+          β
+          
+            2
+          
+        
+        )
+        =
+        α
+        ∧
+        
+          β
+          
+            1
+          
+        
+        +
+        α
+        ∧
+        
+          β
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \alpha \wedge (\beta _{1}+\beta _{2})=\alpha \wedge \beta _{1}+\alpha \wedge \beta _{2}}
+   ( distributivity over addition )
+  
+    
+      
+        α
+        ∧
+        α
+        =
+        0
+      
+    
+    {\displaystyle \alpha \wedge \alpha =0}
+   for 
+  
+    
+      
+        α
+        ∈
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \alpha \in \Omega ^{k}(M)}
+   when 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   is odd or 
+  
+    
+      
+        rank
+        ⁡
+        α
+        ≤
+        1
+      
+    
+    {\displaystyle \operatorname {rank} \alpha \leq 1}
+  .  The rank of a 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -form 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   means the minimum number of monomial terms (exterior products of one-forms) that must be summed to produce 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  .
+
+Pull-back properties
+d
+        (
+        
+          ϕ
+          
+            ∗
+          
+        
+        α
+        )
+        =
+        
+          ϕ
+          
+            ∗
+          
+        
+        (
+        d
+        α
+        )
+      
+    
+    {\displaystyle d(\phi ^{*}\alpha )=\phi ^{*}(d\alpha )}
+   ( commutative with 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+   )
+  
+    
+      
+        
+          ϕ
+          
+            ∗
+          
+        
+        (
+        α
+        ∧
+        β
+        )
+        =
+        (
+        
+          ϕ
+          
+            ∗
+          
+        
+        α
+        )
+        ∧
+        (
+        
+          ϕ
+          
+            ∗
+          
+        
+        β
+        )
+      
+    
+    {\displaystyle \phi ^{*}(\alpha \wedge \beta )=(\phi ^{*}\alpha )\wedge (\phi ^{*}\beta )}
+   ( distributes over 
+  
+    
+      
+        ∧
+      
+    
+    {\displaystyle \wedge }
+   )
+  
+    
+      
+        (
+        
+          ϕ
+          
+            1
+          
+        
+        ∘
+        
+          ϕ
+          
+            2
+          
+        
+        
+          )
+          
+            ∗
+          
+        
+        =
+        
+          ϕ
+          
+            2
+          
+          
+            ∗
+          
+        
+        
+          ϕ
+          
+            1
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle (\phi _{1}\circ \phi _{2})^{*}=\phi _{2}^{*}\phi _{1}^{*}}
+   ( contravariant )
+  
+    
+      
+        
+          ϕ
+          
+            ∗
+          
+        
+        f
+        =
+        f
+        ∘
+        ϕ
+      
+    
+    {\displaystyle \phi ^{*}f=f\circ \phi }
+   for 
+  
+    
+      
+        f
+        ∈
+        
+          Ω
+          
+            0
+          
+        
+        (
+        N
+        )
+      
+    
+    {\displaystyle f\in \Omega ^{0}(N)}
+   ( function composition )
+
+Musical isomorphism properties
+(
+        
+          X
+          
+            ♭
+          
+        
+        
+          )
+          
+            ♯
+          
+        
+        =
+        X
+      
+    
+    {\displaystyle (X^{\flat })^{\sharp }=X}
+  
+  
+    
+      
+        (
+        
+          α
+          
+            ♯
+          
+        
+        
+          )
+          
+            ♭
+          
+        
+        =
+        α
+      
+    
+    {\displaystyle (\alpha ^{\sharp })^{\flat }=\alpha }
+
+Interior product properties
+ι
+          
+            X
+          
+        
+        ∘
+        
+          ι
+          
+            X
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \iota _{X}\circ \iota _{X}=0}
+   ( nilpotent )
+  
+    
+      
+        
+          ι
+          
+            X
+          
+        
+        ∘
+        
+          ι
+          
+            Y
+          
+        
+        =
+        −
+        
+          ι
+          
+            Y
+          
+        
+        ∘
+        
+          ι
+          
+            X
+          
+        
+      
+    
+    {\displaystyle \iota _{X}\circ \iota _{Y}=-\iota _{Y}\circ \iota _{X}}
+  
+  
+    
+      
+        
+          ι
+          
+            X
+          
+        
+        (
+        α
+        ∧
+        β
+        )
+        =
+        (
+        
+          ι
+          
+            X
+          
+        
+        α
+        )
+        ∧
+        β
+        +
+        (
+        −
+        1
+        
+          )
+          
+            k
+          
+        
+        α
+        ∧
+        (
+        
+          ι
+          
+            X
+          
+        
+        β
+        )
+      
+    
+    {\displaystyle \iota _{X}(\alpha \wedge \beta )=(\iota _{X}\alpha )\wedge \beta +(-1)^{k}\alpha \wedge (\iota _{X}\beta )}
+   for 
+  
+    
+      
+        α
+        ∈
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+        ,
+         
+        β
+        ∈
+        
+          Ω
+          
+            l
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \alpha \in \Omega ^{k}(M),\ \beta \in \Omega ^{l}(M)}
+   ( Leibniz rule )
+  
+    
+      
+        
+          ι
+          
+            X
+          
+        
+        α
+        =
+        α
+        (
+        X
+        )
+      
+    
+    {\displaystyle \iota _{X}\alpha =\alpha (X)}
+   for 
+  
+    
+      
+        α
+        ∈
+        
+          Ω
+          
+            1
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \alpha \in \Omega ^{1}(M)}
+  
+  
+    
+      
+        
+          ι
+          
+            X
+          
+        
+        f
+        =
+        0
+      
+    
+    {\displaystyle \iota _{X}f=0}
+   for 
+  
+    
+      
+        f
+        ∈
+        
+          Ω
+          
+            0
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle f\in \Omega ^{0}(M)}
+  
+  
+    
+      
+        
+          ι
+          
+            X
+          
+        
+        (
+        f
+        α
+        )
+        =
+        f
+        
+          ι
+          
+            X
+          
+        
+        α
+      
+    
+    {\displaystyle \iota _{X}(f\alpha )=f\iota _{X}\alpha }
+   for 
+  
+    
+      
+        f
+        ∈
+        
+          Ω
+          
+            0
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle f\in \Omega ^{0}(M)}
+
+Hodge star properties
+⋆
+        
+        (
+        
+          λ
+          
+            1
+          
+        
+        α
+        +
+        
+          λ
+          
+            2
+          
+        
+        β
+        )
+        =
+        
+          λ
+          
+            1
+          
+        
+        (
+        
+          ⋆
+        
+        α
+        )
+        +
+        
+          λ
+          
+            2
+          
+        
+        (
+        
+          ⋆
+        
+        β
+        )
+      
+    
+    {\displaystyle {\star }(\lambda _{1}\alpha +\lambda _{2}\beta )=\lambda _{1}({\star }\alpha )+\lambda _{2}({\star }\beta )}
+   for  
+  
+    
+      
+        
+          λ
+          
+            1
+          
+        
+        ,
+        
+          λ
+          
+            2
+          
+        
+        ∈
+        
+          R
+        
+      
+    
+    {\displaystyle \lambda _{1},\lambda _{2}\in \mathbb {R} }
+   ( linearity )
+  
+    
+      
+        
+          ⋆
+        
+        
+          ⋆
+        
+        α
+        =
+        s
+        (
+        −
+        1
+        
+          )
+          
+            k
+            (
+            n
+            −
+            k
+            )
+          
+        
+        α
+      
+    
+    {\displaystyle {\star }{\star }\alpha =s(-1)^{k(n-k)}\alpha }
+   for  
+  
+    
+      
+        α
+        ∈
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \alpha \in \Omega ^{k}(M)}
+  , 
+  
+    
+      
+        n
+        =
+        dim
+        ⁡
+        (
+        M
+        )
+      
+    
+    {\displaystyle n=\dim(M)}
+  , and 
+  
+    
+      
+        s
+        =
+        sign
+        ⁡
+        (
+        g
+        )
+      
+    
+    {\displaystyle s=\operatorname {sign} (g)}
+   the sign of the metric
+  
+    
+      
+        
+          
+            ⋆
+          
+          
+            (
+            −
+            1
+            )
+          
+        
+        =
+        s
+        (
+        −
+        1
+        
+          )
+          
+            k
+            (
+            n
+            −
+            k
+            )
+          
+        
+        
+          ⋆
+        
+      
+    
+    {\displaystyle {\star }^{(-1)}=s(-1)^{k(n-k)}{\star }}
+   ( inversion )
+  
+    
+      
+        
+          ⋆
+        
+        (
+        f
+        α
+        )
+        =
+        f
+        (
+        
+          ⋆
+        
+        α
+        )
+      
+    
+    {\displaystyle {\star }(f\alpha )=f({\star }\alpha )}
+   for 
+  
+    
+      
+        f
+        ∈
+        
+          Ω
+          
+            0
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle f\in \Omega ^{0}(M)}
+   ( commutative with 
+  
+    
+      
+        0
+      
+    
+    {\displaystyle 0}
+  -forms )
+  
+    
+      
+        ⟨
+        
+        ⟨
+        α
+        ,
+        α
+        ⟩
+        
+        ⟩
+        =
+        ⟨
+        
+        ⟨
+        
+          ⋆
+        
+        α
+        ,
+        
+          ⋆
+        
+        α
+        ⟩
+        
+        ⟩
+      
+    
+    {\displaystyle \langle \!\langle \alpha ,\alpha \rangle \!\rangle =\langle \!\langle {\star }\alpha ,{\star }\alpha \rangle \!\rangle }
+   for 
+  
+    
+      
+        α
+        ∈
+        
+          Ω
+          
+            1
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \alpha \in \Omega ^{1}(M)}
+   ( Hodge star preserves 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+  -form norm )
+  
+    
+      
+        
+          ⋆
+        
+        
+          1
+        
+        =
+        
+          d
+          e
+          t
+        
+      
+    
+    {\displaystyle {\star }\mathbf {1} =\mathbf {det} }
+   ( Hodge dual of constant function 1 is the volume form )
+
+Co-differential operator properties
+δ
+        ∘
+        δ
+        =
+        0
+      
+    
+    {\displaystyle \delta \circ \delta =0}
+   ( nilpotent )
+  
+    
+      
+        
+          ⋆
+        
+        δ
+        =
+        (
+        −
+        1
+        
+          )
+          
+            k
+          
+        
+        d
+        
+          ⋆
+        
+      
+    
+    {\displaystyle {\star }\delta =(-1)^{k}d{\star }}
+    and  
+  
+    
+      
+        
+          ⋆
+        
+        d
+        =
+        (
+        −
+        1
+        
+          )
+          
+            k
+            +
+            1
+          
+        
+        δ
+        
+          ⋆
+        
+      
+    
+    {\displaystyle {\star }d=(-1)^{k+1}\delta {\star }}
+   ( Hodge adjoint to 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+   )
+  
+    
+      
+        ⟨
+        
+        ⟨
+        d
+        α
+        ,
+        β
+        ⟩
+        
+        ⟩
+        =
+        ⟨
+        
+        ⟨
+        α
+        ,
+        δ
+        β
+        ⟩
+        
+        ⟩
+      
+    
+    {\displaystyle \langle \!\langle d\alpha ,\beta \rangle \!\rangle =\langle \!\langle \alpha ,\delta \beta \rangle \!\rangle }
+   if 
+  
+    
+      
+        ∂
+        M
+        =
+        0
+      
+    
+    {\displaystyle \partial M=0}
+   ( 
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+   adjoint to 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+   )In general, 
+  
+    
+      
+        
+          ∫
+          
+            M
+          
+        
+        d
+        α
+        ∧
+        ⋆
+        β
+        =
+        
+          ∫
+          
+            ∂
+            M
+          
+        
+        α
+        ∧
+        ⋆
+        β
+        +
+        
+          ∫
+          
+            M
+          
+        
+        α
+        ∧
+        ⋆
+        δ
+        β
+      
+    
+    {\displaystyle \int _{M}d\alpha \wedge \star \beta =\int _{\partial M}\alpha \wedge \star \beta +\int _{M}\alpha \wedge \star \delta \beta }
+  
+  
+    
+      
+        δ
+        f
+        =
+        0
+      
+    
+    {\displaystyle \delta f=0}
+   for 
+  
+    
+      
+        f
+        ∈
+        
+          Ω
+          
+            0
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle f\in \Omega ^{0}(M)}
+
+Lie derivative properties
+d
+        ∘
+        
+          
+            
+              L
+            
+          
+          
+            X
+          
+        
+        =
+        
+          
+            
+              L
+            
+          
+          
+            X
+          
+        
+        ∘
+        d
+      
+    
+    {\displaystyle d\circ {\mathcal {L}}_{X}={\mathcal {L}}_{X}\circ d}
+   ( commutative with 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+   )
+  
+    
+      
+        
+          ι
+          
+            X
+          
+        
+        ∘
+        
+          
+            
+              L
+            
+          
+          
+            X
+          
+        
+        =
+        
+          
+            
+              L
+            
+          
+          
+            X
+          
+        
+        ∘
+        
+          ι
+          
+            X
+          
+        
+      
+    
+    {\displaystyle \iota _{X}\circ {\mathcal {L}}_{X}={\mathcal {L}}_{X}\circ \iota _{X}}
+   ( commutative with 
+  
+    
+      
+        
+          ι
+          
+            X
+          
+        
+      
+    
+    {\displaystyle \iota _{X}}
+   )
+  
+    
+      
+        
+          
+            
+              L
+            
+          
+          
+            X
+          
+        
+        (
+        
+          ι
+          
+            Y
+          
+        
+        α
+        )
+        =
+        
+          ι
+          
+            [
+            X
+            ,
+            Y
+            ]
+          
+        
+        α
+        +
+        
+          ι
+          
+            Y
+          
+        
+        
+          
+            
+              L
+            
+          
+          
+            X
+          
+        
+        α
+      
+    
+    {\displaystyle {\mathcal {L}}_{X}(\iota _{Y}\alpha )=\iota _{[X,Y]}\alpha +\iota _{Y}{\mathcal {L}}_{X}\alpha }
+  
+  
+    
+      
+        
+          
+            
+              L
+            
+          
+          
+            X
+          
+        
+        (
+        α
+        ∧
+        β
+        )
+        =
+        (
+        
+          
+            
+              L
+            
+          
+          
+            X
+          
+        
+        α
+        )
+        ∧
+        β
+        +
+        α
+        ∧
+        (
+        
+          
+            
+              L
+            
+          
+          
+            X
+          
+        
+        β
+        )
+      
+    
+    {\displaystyle {\mathcal {L}}_{X}(\alpha \wedge \beta )=({\mathcal {L}}_{X}\alpha )\wedge \beta +\alpha \wedge ({\mathcal {L}}_{X}\beta )}
+   ( Leibniz rule )
+
+Exterior calculus identities
+ι
+          
+            X
+          
+        
+        (
+        
+          ⋆
+        
+        
+          1
+        
+        )
+        =
+        
+          ⋆
+        
+        
+          X
+          
+            ♭
+          
+        
+      
+    
+    {\displaystyle \iota _{X}({\star }\mathbf {1} )={\star }X^{\flat }}
+  
+  
+    
+      
+        
+          ι
+          
+            X
+          
+        
+        (
+        
+          ⋆
+        
+        α
+        )
+        =
+        (
+        −
+        1
+        
+          )
+          
+            k
+          
+        
+        
+          ⋆
+        
+        (
+        
+          X
+          
+            ♭
+          
+        
+        ∧
+        α
+        )
+      
+    
+    {\displaystyle \iota _{X}({\star }\alpha )=(-1)^{k}{\star }(X^{\flat }\wedge \alpha )}
+   if 
+  
+    
+      
+        α
+        ∈
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \alpha \in \Omega ^{k}(M)}
+  
+  
+    
+      
+        
+          ι
+          
+            X
+          
+        
+        (
+        
+          ϕ
+          
+            ∗
+          
+        
+        α
+        )
+        =
+        
+          ϕ
+          
+            ∗
+          
+        
+        (
+        
+          ι
+          
+            d
+            ϕ
+            (
+            X
+            )
+          
+        
+        α
+        )
+      
+    
+    {\displaystyle \iota _{X}(\phi ^{*}\alpha )=\phi ^{*}(\iota _{d\phi (X)}\alpha )}
+  
+  
+    
+      
+        ν
+        ,
+        μ
+        ∈
+        
+          Ω
+          
+            n
+          
+        
+        (
+        M
+        )
+        ,
+        μ
+        
+           non-zero 
+        
+         
+        ⇒
+         
+        ∃
+         
+        f
+        ∈
+        
+          Ω
+          
+            0
+          
+        
+        (
+        M
+        )
+        :
+         
+        ν
+        =
+        f
+        μ
+      
+    
+    {\displaystyle \nu ,\mu \in \Omega ^{n}(M),\mu {\text{ non-zero }}\ \Rightarrow \ \exists \ f\in \Omega ^{0}(M):\ \nu =f\mu }
+  
+  
+    
+      
+        
+          X
+          
+            ♭
+          
+        
+        ∧
+        
+          ⋆
+        
+        
+          Y
+          
+            ♭
+          
+        
+        =
+        g
+        (
+        X
+        ,
+        Y
+        )
+        (
+        
+          ⋆
+        
+        
+          1
+        
+        )
+      
+    
+    {\displaystyle X^{\flat }\wedge {\star }Y^{\flat }=g(X,Y)({\star }\mathbf {1} )}
+   ( bilinear form )
+  
+    
+      
+        [
+        X
+        ,
+        [
+        Y
+        ,
+        Z
+        ]
+        ]
+        +
+        [
+        Y
+        ,
+        [
+        Z
+        ,
+        X
+        ]
+        ]
+        +
+        [
+        Z
+        ,
+        [
+        X
+        ,
+        Y
+        ]
+        ]
+        =
+        0
+      
+    
+    {\displaystyle [X,[Y,Z]]+[Y,[Z,X]]+[Z,[X,Y]]=0}
+   ( Jacobi identity )
+
+Dimensions
+If 
+  
+    
+      
+        n
+        =
+        dim
+        ⁡
+        M
+      
+    
+    {\displaystyle n=\dim M}
+  
+
+  
+    
+      
+        dim
+        ⁡
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+        =
+        
+          
+            
+              (
+            
+            
+              n
+              k
+            
+            
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \dim \Omega ^{k}(M)={\binom {n}{k}}}
+   for 
+  
+    
+      
+        0
+        ≤
+        k
+        ≤
+        n
+      
+    
+    {\displaystyle 0\leq k\leq n}
+  
+  
+    
+      
+        dim
+        ⁡
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+        =
+        0
+      
+    
+    {\displaystyle \dim \Omega ^{k}(M)=0}
+   for 
+  
+    
+      
+        k
+        <
+        0
+        ,
+         
+        k
+        >
+        n
+      
+    
+    {\displaystyle k<0,\ k>n}
+  If 
+  
+    
+      
+        
+          X
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            n
+          
+        
+        ∈
+        Γ
+        (
+        T
+        M
+        )
+      
+    
+    {\displaystyle X_{1},\ldots ,X_{n}\in \Gamma (TM)}
+   is a basis, then a basis of 
+  
+    
+      
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \Omega ^{k}(M)}
+   is
+
+  
+    
+      
+        {
+        
+          X
+          
+            σ
+            (
+            1
+            )
+          
+          
+            ♭
+          
+        
+        ∧
+        …
+        ∧
+        
+          X
+          
+            σ
+            (
+            k
+            )
+          
+          
+            ♭
+          
+        
+         
+        :
+         
+        σ
+        ∈
+        S
+        (
+        k
+        ,
+        n
+        )
+        }
+      
+    
+    {\displaystyle \{X_{\sigma (1)}^{\flat }\wedge \ldots \wedge X_{\sigma (k)}^{\flat }\ :\ \sigma \in S(k,n)\}}
+
+Exterior products
+Let 
+  
+    
+      
+        α
+        ,
+        β
+        ,
+        γ
+        ,
+        
+          α
+          
+            i
+          
+        
+        ∈
+        
+          Ω
+          
+            1
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \alpha ,\beta ,\gamma ,\alpha _{i}\in \Omega ^{1}(M)}
+   and  
+  
+    
+      
+        X
+        ,
+        Y
+        ,
+        Z
+        ,
+        
+          X
+          
+            i
+          
+        
+      
+    
+    {\displaystyle X,Y,Z,X_{i}}
+   be vector fields.
+
+  
+    
+      
+        α
+        (
+        X
+        )
+        =
+        det
+        
+          
+            [
+            
+              
+                
+                  α
+                  (
+                  X
+                  )
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle \alpha (X)=\det {\begin{bmatrix}\alpha (X)\\\end{bmatrix}}}
+  
+  
+    
+      
+        (
+        α
+        ∧
+        β
+        )
+        (
+        X
+        ,
+        Y
+        )
+        =
+        det
+        
+          
+            [
+            
+              
+                
+                  α
+                  (
+                  X
+                  )
+                
+                
+                  α
+                  (
+                  Y
+                  )
+                
+              
+              
+                
+                  β
+                  (
+                  X
+                  )
+                
+                
+                  β
+                  (
+                  Y
+                  )
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle (\alpha \wedge \beta )(X,Y)=\det {\begin{bmatrix}\alpha (X)&\alpha (Y)\\\beta (X)&\beta (Y)\\\end{bmatrix}}}
+  
+  
+    
+      
+        (
+        α
+        ∧
+        β
+        ∧
+        γ
+        )
+        (
+        X
+        ,
+        Y
+        ,
+        Z
+        )
+        =
+        det
+        
+          
+            [
+            
+              
+                
+                  α
+                  (
+                  X
+                  )
+                
+                
+                  α
+                  (
+                  Y
+                  )
+                
+                
+                  α
+                  (
+                  Z
+                  )
+                
+              
+              
+                
+                  β
+                  (
+                  X
+                  )
+                
+                
+                  β
+                  (
+                  Y
+                  )
+                
+                
+                  β
+                  (
+                  Z
+                  )
+                
+              
+              
+                
+                  γ
+                  (
+                  X
+                  )
+                
+                
+                  γ
+                  (
+                  Y
+                  )
+                
+                
+                  γ
+                  (
+                  Z
+                  )
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle (\alpha \wedge \beta \wedge \gamma )(X,Y,Z)=\det {\begin{bmatrix}\alpha (X)&\alpha (Y)&\alpha (Z)\\\beta (X)&\beta (Y)&\beta (Z)\\\gamma (X)&\gamma (Y)&\gamma (Z)\end{bmatrix}}}
+  
+  
+    
+      
+        (
+        
+          α
+          
+            1
+          
+        
+        ∧
+        …
+        ∧
+        
+          α
+          
+            l
+          
+        
+        )
+        (
+        
+          X
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            l
+          
+        
+        )
+        =
+        det
+        
+          
+            [
+            
+              
+                
+                  
+                    α
+                    
+                      1
+                    
+                  
+                  (
+                  
+                    X
+                    
+                      1
+                    
+                  
+                  )
+                
+                
+                  
+                    α
+                    
+                      1
+                    
+                  
+                  (
+                  
+                    X
+                    
+                      2
+                    
+                  
+                  )
+                
+                
+                  …
+                
+                
+                  
+                    α
+                    
+                      1
+                    
+                  
+                  (
+                  
+                    X
+                    
+                      l
+                    
+                  
+                  )
+                
+              
+              
+                
+                  
+                    α
+                    
+                      2
+                    
+                  
+                  (
+                  
+                    X
+                    
+                      1
+                    
+                  
+                  )
+                
+                
+                  
+                    α
+                    
+                      2
+                    
+                  
+                  (
+                  
+                    X
+                    
+                      2
+                    
+                  
+                  )
+                
+                
+                  …
+                
+                
+                  
+                    α
+                    
+                      2
+                    
+                  
+                  (
+                  
+                    X
+                    
+                      l
+                    
+                  
+                  )
+                
+              
+              
+                
+                  ⋮
+                
+                
+                  ⋮
+                
+                
+                  ⋱
+                
+                
+                  ⋮
+                
+              
+              
+                
+                  
+                    α
+                    
+                      l
+                    
+                  
+                  (
+                  
+                    X
+                    
+                      1
+                    
+                  
+                  )
+                
+                
+                  
+                    α
+                    
+                      l
+                    
+                  
+                  (
+                  
+                    X
+                    
+                      2
+                    
+                  
+                  )
+                
+                
+                  …
+                
+                
+                  
+                    α
+                    
+                      l
+                    
+                  
+                  (
+                  
+                    X
+                    
+                      l
+                    
+                  
+                  )
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle (\alpha _{1}\wedge \ldots \wedge \alpha _{l})(X_{1},\ldots ,X_{l})=\det {\begin{bmatrix}\alpha _{1}(X_{1})&\alpha _{1}(X_{2})&\dots &\alpha _{1}(X_{l})\\\alpha _{2}(X_{1})&\alpha _{2}(X_{2})&\dots &\alpha _{2}(X_{l})\\\vdots &\vdots &\ddots &\vdots \\\alpha _{l}(X_{1})&\alpha _{l}(X_{2})&\dots &\alpha _{l}(X_{l})\end{bmatrix}}}
+
+Projection and rejection
+(
+        −
+        1
+        
+          )
+          
+            k
+          
+        
+        
+          ι
+          
+            X
+          
+        
+        
+          ⋆
+        
+        α
+        =
+        
+          ⋆
+        
+        (
+        
+          X
+          
+            ♭
+          
+        
+        ∧
+        α
+        )
+      
+    
+    {\displaystyle (-1)^{k}\iota _{X}{\star }\alpha ={\star }(X^{\flat }\wedge \alpha )}
+   ( interior product 
+  
+    
+      
+        
+          ι
+          
+            X
+          
+        
+        
+          ⋆
+        
+      
+    
+    {\displaystyle \iota _{X}{\star }}
+   dual to wedge 
+  
+    
+      
+        
+          X
+          
+            ♭
+          
+        
+        ∧
+      
+    
+    {\displaystyle X^{\flat }\wedge }
+   )
+  
+    
+      
+        (
+        
+          ι
+          
+            X
+          
+        
+        α
+        )
+        ∧
+        
+          ⋆
+        
+        β
+        =
+        α
+        ∧
+        
+          ⋆
+        
+        (
+        
+          X
+          
+            ♭
+          
+        
+        ∧
+        β
+        )
+      
+    
+    {\displaystyle (\iota _{X}\alpha )\wedge {\star }\beta =\alpha \wedge {\star }(X^{\flat }\wedge \beta )}
+   for 
+  
+    
+      
+        α
+        ∈
+        
+          Ω
+          
+            k
+            +
+            1
+          
+        
+        (
+        M
+        )
+        ,
+        β
+        ∈
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \alpha \in \Omega ^{k+1}(M),\beta \in \Omega ^{k}(M)}
+  If 
+  
+    
+      
+        
+          |
+        
+        X
+        
+          |
+        
+        =
+        1
+        ,
+         
+        α
+        ∈
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle |X|=1,\ \alpha \in \Omega ^{k}(M)}
+  , then
+
+  
+    
+      
+        
+          ι
+          
+            X
+          
+        
+        ∘
+        (
+        
+          X
+          
+            ♭
+          
+        
+        ∧
+        )
+        :
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+        →
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \iota _{X}\circ (X^{\flat }\wedge ):\Omega ^{k}(M)\rightarrow \Omega ^{k}(M)}
+   is the projection of 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   onto the orthogonal complement of 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  .
+
+  
+    
+      
+        (
+        
+          X
+          
+            ♭
+          
+        
+        ∧
+        )
+        ∘
+        
+          ι
+          
+            X
+          
+        
+        :
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+        →
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle (X^{\flat }\wedge )\circ \iota _{X}:\Omega ^{k}(M)\rightarrow \Omega ^{k}(M)}
+   is the rejection of 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  , the remainder of the projection.
+thus 
+  
+    
+      
+        
+          ι
+          
+            X
+          
+        
+        ∘
+        (
+        
+          X
+          
+            ♭
+          
+        
+        ∧
+        )
+        +
+        (
+        
+          X
+          
+            ♭
+          
+        
+        ∧
+        )
+        ∘
+        
+          ι
+          
+            X
+          
+        
+        =
+        
+          id
+        
+      
+    
+    {\displaystyle \iota _{X}\circ (X^{\flat }\wedge )+(X^{\flat }\wedge )\circ \iota _{X}={\text{id}}}
+   ( projection–rejection decomposition )Given the boundary 
+  
+    
+      
+        ∂
+        M
+      
+    
+    {\displaystyle \partial M}
+   with unit normal vector 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  
+
+  
+    
+      
+        
+          t
+        
+        :=
+        
+          ι
+          
+            N
+          
+        
+        ∘
+        (
+        
+          N
+          
+            ♭
+          
+        
+        ∧
+        )
+      
+    
+    {\displaystyle \mathbf {t} :=\iota _{N}\circ (N^{\flat }\wedge )}
+   extracts the tangential component of the boundary.
+
+  
+    
+      
+        
+          n
+        
+        :=
+        (
+        
+          id
+        
+        −
+        
+          t
+        
+        )
+      
+    
+    {\displaystyle \mathbf {n} :=({\text{id}}-\mathbf {t} )}
+   extracts the normal component of the boundary.
+
+Sum expressions
+(
+        d
+        α
+        )
+        (
+        
+          X
+          
+            0
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            k
+          
+        
+        )
+        =
+        
+          ∑
+          
+            0
+            ≤
+            j
+            ≤
+            k
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            j
+          
+        
+        d
+        (
+        α
+        (
+        
+          X
+          
+            0
+          
+        
+        ,
+        …
+        ,
+        
+          
+            
+              
+                X
+                ^
+              
+            
+          
+          
+            j
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            k
+          
+        
+        )
+        )
+        (
+        
+          X
+          
+            j
+          
+        
+        )
+        +
+        
+          ∑
+          
+            0
+            ≤
+            i
+            <
+            j
+            ≤
+            k
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            i
+            +
+            j
+          
+        
+        α
+        (
+        [
+        
+          X
+          
+            i
+          
+        
+        ,
+        
+          X
+          
+            j
+          
+        
+        ]
+        ,
+        
+          X
+          
+            0
+          
+        
+        ,
+        …
+        ,
+        
+          
+            
+              
+                X
+                ^
+              
+            
+          
+          
+            i
+          
+        
+        ,
+        …
+        ,
+        
+          
+            
+              
+                X
+                ^
+              
+            
+          
+          
+            j
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            k
+          
+        
+        )
+      
+    
+    {\displaystyle (d\alpha )(X_{0},\ldots ,X_{k})=\sum _{0\leq j\leq k}(-1)^{j}d(\alpha (X_{0},\ldots ,{\hat {X}}_{j},\ldots ,X_{k}))(X_{j})+\sum _{0\leq i<j\leq k}(-1)^{i+j}\alpha ([X_{i},X_{j}],X_{0},\ldots ,{\hat {X}}_{i},\ldots ,{\hat {X}}_{j},\ldots ,X_{k})}
+  
+  
+    
+      
+        (
+        d
+        α
+        )
+        (
+        
+          X
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            k
+          
+        
+        )
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            k
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            i
+            +
+            1
+          
+        
+        (
+        
+          ∇
+          
+            
+              X
+              
+                i
+              
+            
+          
+        
+        α
+        )
+        (
+        
+          X
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          
+            
+              
+                X
+                ^
+              
+            
+          
+          
+            i
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            k
+          
+        
+        )
+      
+    
+    {\displaystyle (d\alpha )(X_{1},\ldots ,X_{k})=\sum _{i=1}^{k}(-1)^{i+1}(\nabla _{X_{i}}\alpha )(X_{1},\ldots ,{\hat {X}}_{i},\ldots ,X_{k})}
+  
+  
+    
+      
+        (
+        δ
+        α
+        )
+        (
+        
+          X
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            k
+            −
+            1
+          
+        
+        )
+        =
+        −
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        (
+        
+          ι
+          
+            
+              E
+              
+                i
+              
+            
+          
+        
+        (
+        
+          ∇
+          
+            
+              E
+              
+                i
+              
+            
+          
+        
+        α
+        )
+        )
+        (
+        
+          X
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          
+            
+              
+                X
+                ^
+              
+            
+          
+          
+            i
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            k
+          
+        
+        )
+      
+    
+    {\displaystyle (\delta \alpha )(X_{1},\ldots ,X_{k-1})=-\sum _{i=1}^{n}(\iota _{E_{i}}(\nabla _{E_{i}}\alpha ))(X_{1},\ldots ,{\hat {X}}_{i},\ldots ,X_{k})}
+   given a positively oriented orthonormal frame 
+  
+    
+      
+        
+          E
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          E
+          
+            n
+          
+        
+      
+    
+    {\displaystyle E_{1},\ldots ,E_{n}}
+  .
+  
+    
+      
+        (
+        
+          
+            
+              L
+            
+          
+          
+            Y
+          
+        
+        α
+        )
+        (
+        
+          X
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            k
+          
+        
+        )
+        =
+        (
+        
+          ∇
+          
+            Y
+          
+        
+        α
+        )
+        (
+        
+          X
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            k
+          
+        
+        )
+        −
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            k
+          
+        
+        α
+        (
+        
+          X
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          ∇
+          
+            
+              X
+              
+                i
+              
+            
+          
+        
+        Y
+        ,
+        …
+        ,
+        
+          X
+          
+            k
+          
+        
+        )
+      
+    
+    {\displaystyle ({\mathcal {L}}_{Y}\alpha )(X_{1},\ldots ,X_{k})=(\nabla _{Y}\alpha )(X_{1},\ldots ,X_{k})-\sum _{i=1}^{k}\alpha (X_{1},\ldots ,\nabla _{X_{i}}Y,\ldots ,X_{k})}
+
+Hodge decomposition
+If 
+  
+    
+      
+        ∂
+        M
+        =
+        ∅
+      
+    
+    {\displaystyle \partial M=\emptyset }
+  , 
+  
+    
+      
+        ω
+        ∈
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+        ⇒
+        ∃
+        α
+        ∈
+        
+          Ω
+          
+            k
+            −
+            1
+          
+        
+        ,
+         
+        β
+        ∈
+        
+          Ω
+          
+            k
+            +
+            1
+          
+        
+        ,
+         
+        γ
+        ∈
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+        ,
+         
+        d
+        γ
+        =
+        0
+        ,
+         
+        δ
+        γ
+        =
+        0
+      
+    
+    {\displaystyle \omega \in \Omega ^{k}(M)\Rightarrow \exists \alpha \in \Omega ^{k-1},\ \beta \in \Omega ^{k+1},\ \gamma \in \Omega ^{k}(M),\ d\gamma =0,\ \delta \gamma =0}
+   such that
+
+  
+    
+      
+        ω
+        =
+        d
+        α
+        +
+        δ
+        β
+        +
+        γ
+      
+    
+    {\displaystyle \omega =d\alpha +\delta \beta +\gamma }
+
+Poincaré lemma
+If a boundaryless manifold 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   has trivial cohomology 
+  
+    
+      
+        
+          H
+          
+            k
+          
+        
+        (
+        M
+        )
+        =
+        {
+        0
+        }
+      
+    
+    {\displaystyle H^{k}(M)=\{0\}}
+  , then any closed 
+  
+    
+      
+        ω
+        ∈
+        
+          Ω
+          
+            k
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \omega \in \Omega ^{k}(M)}
+   is exact. This is the case if M is contractible.
+
+Relations to vector calculus
+Identities in Euclidean 3-space
+Let Euclidean metric 
+  
+    
+      
+        g
+        (
+        X
+        ,
+        Y
+        )
+        :=
+        ⟨
+        X
+        ,
+        Y
+        ⟩
+        =
+        X
+        ⋅
+        Y
+      
+    
+    {\displaystyle g(X,Y):=\langle X,Y\rangle =X\cdot Y}
+  .
+We use 
+  
+    
+      
+        ∇
+        =
+        
+          (
+          
+            
+              
+                ∂
+                
+                  ∂
+                  x
+                
+              
+            
+            ,
+            
+              
+                ∂
+                
+                  ∂
+                  y
+                
+              
+            
+            ,
+            
+              
+                ∂
+                
+                  ∂
+                  z
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \nabla =\left({\partial  \over \partial x},{\partial  \over \partial y},{\partial  \over \partial z}\right)}
+   differential operator 
+  
+    
+      
+        
+          
+            R
+          
+          
+            3
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{3}}
+  
+
+  
+    
+      
+        
+          ι
+          
+            X
+          
+        
+        α
+        =
+        g
+        (
+        X
+        ,
+        
+          α
+          
+            ♯
+          
+        
+        )
+        =
+        X
+        ⋅
+        
+          α
+          
+            ♯
+          
+        
+      
+    
+    {\displaystyle \iota _{X}\alpha =g(X,\alpha ^{\sharp })=X\cdot \alpha ^{\sharp }}
+   for 
+  
+    
+      
+        α
+        ∈
+        
+          Ω
+          
+            1
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \alpha \in \Omega ^{1}(M)}
+  .
+  
+    
+      
+        
+          d
+          e
+          t
+        
+        (
+        X
+        ,
+        Y
+        ,
+        Z
+        )
+        =
+        ⟨
+        X
+        ,
+        Y
+        ×
+        Z
+        ⟩
+        =
+        ⟨
+        X
+        ×
+        Y
+        ,
+        Z
+        ⟩
+      
+    
+    {\displaystyle \mathbf {det} (X,Y,Z)=\langle X,Y\times Z\rangle =\langle X\times Y,Z\rangle }
+   ( scalar triple product )
+  
+    
+      
+        X
+        ×
+        Y
+        =
+        (
+        
+          ⋆
+        
+        (
+        
+          X
+          
+            ♭
+          
+        
+        ∧
+        
+          Y
+          
+            ♭
+          
+        
+        )
+        
+          )
+          
+            ♯
+          
+        
+      
+    
+    {\displaystyle X\times Y=({\star }(X^{\flat }\wedge Y^{\flat }))^{\sharp }}
+   ( cross product )
+  
+    
+      
+        
+          ι
+          
+            X
+          
+        
+        α
+        =
+        −
+        (
+        X
+        ×
+        A
+        
+          )
+          
+            ♭
+          
+        
+      
+    
+    {\displaystyle \iota _{X}\alpha =-(X\times A)^{\flat }}
+   if 
+  
+    
+      
+        α
+        ∈
+        
+          Ω
+          
+            2
+          
+        
+        (
+        M
+        )
+        ,
+         
+        A
+        =
+        (
+        
+          ⋆
+        
+        α
+        
+          )
+          
+            ♯
+          
+        
+      
+    
+    {\displaystyle \alpha \in \Omega ^{2}(M),\ A=({\star }\alpha )^{\sharp }}
+  
+
+  
+    
+      
+        X
+        ⋅
+        Y
+        =
+        
+          ⋆
+        
+        (
+        
+          X
+          
+            ♭
+          
+        
+        ∧
+        
+          ⋆
+        
+        
+          Y
+          
+            ♭
+          
+        
+        )
+      
+    
+    {\displaystyle X\cdot Y={\star }(X^{\flat }\wedge {\star }Y^{\flat })}
+   ( scalar product )
+  
+    
+      
+        ∇
+        f
+        =
+        (
+        d
+        f
+        
+          )
+          
+            ♯
+          
+        
+      
+    
+    {\displaystyle \nabla f=(df)^{\sharp }}
+   ( gradient )
+  
+    
+      
+        X
+        ⋅
+        ∇
+        f
+        =
+        d
+        f
+        (
+        X
+        )
+      
+    
+    {\displaystyle X\cdot \nabla f=df(X)}
+   ( directional derivative )
+  
+    
+      
+        ∇
+        ⋅
+        X
+        =
+        
+          ⋆
+        
+        d
+        
+          ⋆
+        
+        
+          X
+          
+            ♭
+          
+        
+        =
+        −
+        δ
+        
+          X
+          
+            ♭
+          
+        
+      
+    
+    {\displaystyle \nabla \cdot X={\star }d{\star }X^{\flat }=-\delta X^{\flat }}
+   ( divergence )
+  
+    
+      
+        ∇
+        ×
+        X
+        =
+        (
+        
+          ⋆
+        
+        d
+        
+          X
+          
+            ♭
+          
+        
+        
+          )
+          
+            ♯
+          
+        
+      
+    
+    {\displaystyle \nabla \times X=({\star }dX^{\flat })^{\sharp }}
+   ( curl )
+  
+    
+      
+        ⟨
+        X
+        ,
+        N
+        ⟩
+        σ
+        =
+        
+          ⋆
+        
+        
+          X
+          
+            ♭
+          
+        
+      
+    
+    {\displaystyle \langle X,N\rangle \sigma ={\star }X^{\flat }}
+   where 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   is the unit normal vector of 
+  
+    
+      
+        ∂
+        M
+      
+    
+    {\displaystyle \partial M}
+   and 
+  
+    
+      
+        σ
+        =
+        
+          ι
+          
+            N
+          
+        
+        
+          d
+          e
+          t
+        
+      
+    
+    {\displaystyle \sigma =\iota _{N}\mathbf {det} }
+   is the area form on 
+  
+    
+      
+        ∂
+        M
+      
+    
+    {\displaystyle \partial M}
+  .
+  
+    
+      
+        
+          ∫
+          
+            Σ
+          
+        
+        d
+        
+          ⋆
+        
+        
+          X
+          
+            ♭
+          
+        
+        =
+        
+          ∫
+          
+            ∂
+            Σ
+          
+        
+        
+          ⋆
+        
+        
+          X
+          
+            ♭
+          
+        
+        =
+        
+          ∫
+          
+            ∂
+            Σ
+          
+        
+        ⟨
+        X
+        ,
+        N
+        ⟩
+        σ
+      
+    
+    {\displaystyle \int _{\Sigma }d{\star }X^{\flat }=\int _{\partial \Sigma }{\star }X^{\flat }=\int _{\partial \Sigma }\langle X,N\rangle \sigma }
+   ( divergence theorem )
+
+Lie derivatives
+
+  
+    
+      
+        
+          
+            
+              L
+            
+          
+          
+            X
+          
+        
+        f
+        =
+        X
+        ⋅
+        ∇
+        f
+      
+    
+    {\displaystyle {\mathcal {L}}_{X}f=X\cdot \nabla f}
+   ( 
+  
+    
+      
+        0
+      
+    
+    {\displaystyle 0}
+  -forms )
+  
+    
+      
+        
+          
+            
+              L
+            
+          
+          
+            X
+          
+        
+        α
+        =
+        (
+        
+          ∇
+          
+            X
+          
+        
+        
+          α
+          
+            ♯
+          
+        
+        
+          )
+          
+            ♭
+          
+        
+        +
+        g
+        (
+        
+          α
+          
+            ♯
+          
+        
+        ,
+        ∇
+        X
+        )
+      
+    
+    {\displaystyle {\mathcal {L}}_{X}\alpha =(\nabla _{X}\alpha ^{\sharp })^{\flat }+g(\alpha ^{\sharp },\nabla X)}
+   ( 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+  -forms )
+  
+    
+      
+        
+          ⋆
+        
+        
+          
+            
+              L
+            
+          
+          
+            X
+          
+        
+        β
+        =
+        
+          
+            (
+            
+              
+                ∇
+                
+                  X
+                
+              
+              B
+              −
+              
+                ∇
+                
+                  B
+                
+              
+              X
+              +
+              (
+              
+                div
+              
+              X
+              )
+              B
+            
+            )
+          
+          
+            ♭
+          
+        
+      
+    
+    {\displaystyle {\star }{\mathcal {L}}_{X}\beta =\left(\nabla _{X}B-\nabla _{B}X+({\text{div}}X)B\right)^{\flat }}
+   if 
+  
+    
+      
+        B
+        =
+        (
+        
+          ⋆
+        
+        β
+        
+          )
+          
+            ♯
+          
+        
+      
+    
+    {\displaystyle B=({\star }\beta )^{\sharp }}
+   ( 
+  
+    
+      
+        2
+      
+    
+    {\displaystyle 2}
+  -forms on 
+  
+    
+      
+        3
+      
+    
+    {\displaystyle 3}
+  -manifolds )
+  
+    
+      
+        
+          ⋆
+        
+        
+          
+            
+              L
+            
+          
+          
+            X
+          
+        
+        ρ
+        =
+        d
+        q
+        (
+        X
+        )
+        +
+        (
+        
+          div
+        
+        X
+        )
+        q
+      
+    
+    {\displaystyle {\star }{\mathcal {L}}_{X}\rho =dq(X)+({\text{div}}X)q}
+   if 
+  
+    
+      
+        ρ
+        =
+        
+          ⋆
+        
+        q
+        ∈
+        
+          Ω
+          
+            0
+          
+        
+        (
+        M
+        )
+      
+    
+    {\displaystyle \rho ={\star }q\in \Omega ^{0}(M)}
+   ( 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -forms )
+  
+    
+      
+        
+          
+            
+              L
+            
+          
+          
+            X
+          
+        
+        (
+        
+          d
+          e
+          t
+        
+        )
+        =
+        (
+        
+          div
+        
+        (
+        X
+        )
+        )
+        
+          d
+          e
+          t
+        
+      
+    
+    {\displaystyle {\mathcal {L}}_{X}(\mathbf {det} )=({\text{div}}(X))\mathbf {det} }
+  
+
+
+== References ==

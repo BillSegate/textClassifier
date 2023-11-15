@@ -1,0 +1,431 @@
+In mathematics, the Iverson bracket, named after Kenneth E. Iverson, is a notation that generalises the Kronecker delta, which is the Iverson bracket of the statement x = y. It maps any statement to a function of the free variables in that statement. This function is defined to take the value 1 for the values of the variables for which the statement is true, and takes the value 0 otherwise. It is generally denoted by putting the statement inside square brackets:
+
+In other words, the Iverson bracket of a statement is the indicator function of the set of values for which the statement is true.
+The Iverson bracket allows using capital-sigma notation without restriction on the summation index. That is, for any property 
+  
+    
+      
+        P
+        (
+        k
+        )
+      
+    
+    {\displaystyle P(k)}
+   of the integer 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  , one can rewrite the restricted sum 
+  
+    
+      
+        
+          ∑
+          
+            k
+            :
+            P
+            (
+            k
+            )
+          
+        
+        f
+        (
+        k
+        )
+      
+    
+    {\displaystyle \sum _{k:P(k)}f(k)}
+   in the unrestricted form 
+  
+    
+      
+        
+          ∑
+          
+            k
+          
+        
+        f
+        (
+        k
+        )
+        ⋅
+        [
+        P
+        (
+        k
+        )
+        ]
+      
+    
+    {\displaystyle \sum _{k}f(k)\cdot [P(k)]}
+  .  With this convention, 
+  
+    
+      
+        f
+        (
+        k
+        )
+      
+    
+    {\displaystyle f(k)}
+   does not need to be defined for the values of k for which the Iverson bracket equals 0; that is, a summand 
+  
+    
+      
+        f
+        (
+        k
+        )
+        [
+        
+          
+            false
+          
+        
+        ]
+      
+    
+    {\displaystyle f(k)[{\textbf {false}}]}
+   must evaluate to 0 regardless of whether 
+  
+    
+      
+        f
+        (
+        k
+        )
+      
+    
+    {\displaystyle f(k)}
+   is defined.
+The notation was originally introduced by Kenneth E. Iverson in his programming language APL, though restricted to single relational operators enclosed in parentheses, while the generalisation to arbitrary statements,  notational restriction to square brackets, and applications to summation, was advocated by Donald Knuth to avoid ambiguity in parenthesized logical expressions.
+
+Properties
+There is a direct correspondence between arithmetic on Iverson brackets, logic, and set operations. For instance, let A and B be sets and 
+  
+    
+      
+        P
+        (
+        
+          k
+          
+            1
+          
+        
+        ,
+        …
+        )
+      
+    
+    {\displaystyle P(k_{1},\dots )}
+   any property of integers; then we have
+
+Examples
+The notation allows moving boundary conditions of summations (or integrals) as a separate factor into the summand, freeing up space around the summation operator, but more importantly allowing it to be manipulated algebraically.
+
+Double-counting rule
+We mechanically derive a well-known sum manipulation rule using Iverson brackets:
+
+Summation interchange
+The well-known rule 
+  
+    
+      
+        
+          ∑
+          
+            j
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            j
+          
+        
+        f
+        (
+        j
+        ,
+        k
+        )
+        =
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          ∑
+          
+            j
+            =
+            k
+          
+          
+            n
+          
+        
+        f
+        (
+        j
+        ,
+        k
+        )
+      
+    
+    {\textstyle \sum _{j=1}^{n}\sum _{k=1}^{j}f(j,k)=\sum _{k=1}^{n}\sum _{j=k}^{n}f(j,k)}
+   is likewise easily derived:
+
+Counting
+For instance, the Euler phi function that counts the number of positive integers up to n which are coprime to n can be expressed by
+
+Simplification of special cases
+Another use of the Iverson bracket is to simplify equations with special cases. For example, the formula
+
+is valid for n > 1 but is off by 1/2 for n = 1. To get an identity valid for all positive integers n (i.e., all values for which 
+  
+    
+      
+        ϕ
+        (
+        n
+        )
+      
+    
+    {\displaystyle \phi (n)}
+   is defined), a correction term involving the Iverson bracket may be added:
+
+Common functions
+Many common functions, especially those with a natural piecewise definition, may be expressed in terms of the Iverson bracket.  The Kronecker delta notation is a specific case of Iverson notation when the condition is equality. That is,
+
+The indicator function, often denoted 
+  
+    
+      
+        
+          
+            1
+          
+          
+            A
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle \mathbf {1} _{A}(x)}
+  , 
+  
+    
+      
+        
+          
+            I
+          
+          
+            A
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle \mathbf {I} _{A}(x)}
+   or 
+  
+    
+      
+        
+          χ
+          
+            A
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle \chi _{A}(x)}
+  , is an Iverson bracket with set membership as its condition:
+
+The Heaviside step function, sign function, and absolute value function are also easily expressed in this notation:
+
+and
+
+The comparison functions max and min (returning the larger or smaller of two arguments) may be written as
+ and
+
+The floor and ceiling functions can be expressed as
+
+and
+
+where the index 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   of summation is understood to range over all the integers.
+The ramp function can be expressed
+
+The trichotomy of the reals is equivalent to the following identity:
+
+The Möbius function has the property (and can be defined by recurrence as)
+
+Formulation in terms of usual functions
+In the 1830s, Guglielmo dalla Sommaja used the expression 
+  
+    
+      
+        
+          0
+          
+            
+              0
+              
+                x
+              
+            
+          
+        
+      
+    
+    {\displaystyle 0^{0^{x}}}
+   to represent what now would be written 
+  
+    
+      
+        [
+        x
+        >
+        0
+        ]
+      
+    
+    {\displaystyle [x>0]}
+  ; he also used variants, such as 
+  
+    
+      
+        
+          (
+          
+            1
+            −
+            
+              0
+              
+                
+                  0
+                  
+                    −
+                    x
+                  
+                
+              
+            
+          
+          )
+        
+        
+          (
+          
+            1
+            −
+            
+              0
+              
+                
+                  0
+                  
+                    x
+                    −
+                    a
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \left(1-0^{0^{-x}}\right)\left(1-0^{0^{x-a}}\right)}
+   for 
+  
+    
+      
+        [
+        0
+        ≤
+        x
+        ≤
+        a
+        ]
+      
+    
+    {\displaystyle [0\leq x\leq a]}
+  .
+Following one common convention, those quantities are equal where defined: 
+  
+    
+      
+        
+          0
+          
+            
+              0
+              
+                x
+              
+            
+          
+        
+      
+    
+    {\displaystyle 0^{0^{x}}}
+   is 1 if x > 0, is 0 if x = 0, and is undefined otherwise.
+
+Notational variations
+In addition to the now-standard square brackets  [ · ] , and the original parentheses  (  ·  ) , blackboard bold brackets have also been used, e.g.   ⟦ · ⟧  , as well as other unusual forms of bracketing marks available in the publisher's typeface, accompanied by a marginal note.
+
+See also
+Boolean function
+Type conversion in computer programming: many languages allow numeric or pointer quantities to be used as boolean quantities
+Indicator function
+
+
+== References ==

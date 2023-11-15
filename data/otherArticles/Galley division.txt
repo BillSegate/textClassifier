@@ -1,0 +1,39 @@
+In arithmetic, the galley method, also known as the batello or the scratch method, was the most widely used method of division in use prior to 1600.  The names galea and batello refer to a boat which the outline of the work was thought to resemble.
+An earlier version of this method was used as early as 825 by Al-Khwarizmi.  The galley method is thought to be of Arab origin and is most effective when used on a sand abacus. However, Lam Lay Yong's research pointed out that the galley method of division originated in the 1st century AD in ancient China.The galley method writes fewer figures than long division, and results in interesting shapes and pictures as it expands both above and below the initial lines.  It was the preferred method of division for seventeen centuries, far longer than long division's four centuries. Examples of the galley method appear in the 1702 British-American cyphering book written by Thomas Prust (or Priest).
+
+How it works
+Set up the problem by writing the dividend and then a bar. The quotient will be written after the bar. Steps:
+
+(a1) Write the divisor below the dividend. Align the divisor so that its leftmost digit is directly below the dividend's leftmost digit (if the divisor is 594, for instance, it would be written an additional space to the right, so that the "5" would appear below the "6", as shown in the illustration).
+(a2) Dividing 652 by 594 yields the quotient 1 which is written to the right of the bar.Now multiply each digit of the divisor by the new digit of the quotient and subtract the result from the left-hand segment of the dividend. Where the subtrahend and the dividend segment differ, cross out the dividend digit and write if necessary the difference (remainder) in the next vertical empty space. Cross out the divisor digit used.
+
+(b) Compute 6 − 5×1 = 1. Cross out the 6 of the dividend and above it write a 1. Cross out the 5 of the divisor. The resulting dividend is now read off as the topmost un-crossed digits: 15284.
+(c) Using the left-hand segment of the resulting dividend we get 15 − 9×1 = 6. Cross out the 1 and 5 and write 6 above. Cross out the 9. The resulting dividend is 6284.
+(d) Compute 62 − 4×1 = 58. Cross out the 6 and 2 and write 5 and 8 above. Cross out the 4. The resulting dividend is 5884.
+(e) Write the divisor one step to the right of where it was originally written using empty spaces below existing crossed out digits.
+(f1) Dividing 588 by 594 yields 0 which is written as the new digit of the quotient.
+(f2) As 0 times any digit of the divisor is 0, the dividend will remain unchanged. We therefore can cross out all the digits of the divisor.
+(f3) We write the divisor again one space to the right
+(omitted) Dividing 5884 by 594 yields 9 which is written as the new digit of the quotient. 58 − 5×9 = 13 so cross out the 5 and 8 and above them write 1 and 3. Cross out the 5 of the divisor. The resulting dividend is now 1384. 138 − 9×9 = 57. Cross out 1,3, and 8 of the dividend and write 5 and 7 above. Cross out the 9 of the divisor. The resulting dividend is 574. 574 − 4×9 = 538. Cross out the 7 and 4 of the dividend and write 3 and 8 above them. Cross out the 4 of the divisor. The resulting dividend is 538. The process is done, the quotient is 109 and the remainder is 538.
+
+Other versions
+The above is called the cross-out version and is the most common. An erasure version exists for situations where erasure is acceptable and there is not need to keep track of the intermediate steps. This is the method used with a sand abacus. Finally, there is a printers' method that uses neither erasure or crossouts. Only the top digit in each column of the dividend is active with a zero used to denote an entirely inactive column.
+
+Modern usage
+Galley division was the favorite method of division with arithmeticians through the 18th century and it is thought that it fell out of use due to the lack of cancelled types in printing. It is still taught in the Moorish schools of North Africa and other parts of the Middle East.
+
+Origin
+Lam Lay Yong, mathematics professor of National University of Singapore, traced the origin of the galley method to the Sunzi Suanjing written about 400AD. The division described by Al-Khwarizmi in 825 was identical to the Sunzi algorithm for
+division.
+
+See also
+Group
+Field (algebra)
+Division algebra
+Division ring
+Long division
+Vinculum
+
+References
+External links
+Galley or Scratch Method of Division at The Math Forum

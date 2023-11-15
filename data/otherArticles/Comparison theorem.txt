@@ -1,0 +1,34 @@
+In mathematics, comparison theorems are theorems whose statement involves comparisons between various mathematical objects of the same type, and often occur in fields such as calculus, differential equations and Riemannian geometry.
+
+Differential equations
+In the theory of differential equations, comparison theorems assert particular properties of solutions of a differential equation (or of a system thereof), provided that an auxiliary equation/inequality (or a system thereof) possesses a certain property.
+Chaplygin inequality
+Grönwall's inequality, and its various generalizations, provides a comparison principle for the solutions of first-order ordinary differential equations.
+Sturm comparison theorem
+Aronson and Weinberger used a comparison theorem to characterize solutions to Fisher's equation, a reaction--diffusion equation.
+Hille-Wintner comparison theorem
+
+Riemannian geometry
+In Riemannian geometry, it is a traditional name for a number of theorems that compare various metrics and provide various estimates in Riemannian geometry. 
+Rauch comparison theorem relates the sectional curvature of a Riemannian manifold to the rate at which its geodesics spread apart.
+Toponogov's theorem
+Myers's theorem
+Hessian comparison theorem
+Laplacian comparison theorem
+Morse–Schoenberg comparison theorem
+Berger comparison theorem, Rauch–Berger comparison theorem
+Berger–Kazdan comparison theorem
+Warner comparison theorem for lengths of N-Jacobi fields (N being a submanifold of a complete Riemannian manifold)
+Bishop–Gromov inequality, conditional on a lower bound for the Ricci curvatures
+Lichnerowicz comparison theorem
+Eigenvalue comparison theorem
+Cheng's eigenvalue comparison theorem
+See also: Comparison triangle
+
+Other
+Limit comparison theorem, about convergence of series
+Comparison theorem for integrals, about convergence of integrals
+Zeeman's comparison theorem, a technical tool from the theory of spectral sequences
+
+
+== References ==

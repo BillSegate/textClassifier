@@ -1,0 +1,193 @@
+In mathematics, Gelfond's constant, named after Aleksandr Gelfond, is eπ, that is, e raised to the power  π. Like both e and π, this constant is a transcendental number. This was first established by Gelfond and may now be considered as an application of the Gelfond–Schneider theorem, noting that
+
+where i is the imaginary unit. Since −i is algebraic but not rational, eπ is transcendental. The constant was mentioned in Hilbert's seventh problem. A related constant is 2√2, known as the Gelfond–Schneider constant. The related value π + eπ is also irrational.
+
+Numerical value
+The decimal expansion of Gelfond's constant begins
+
+  
+    
+      
+        
+          e
+          
+            π
+          
+        
+        =
+      
+    
+    {\displaystyle e^{\pi }=}
+   23.1406926327792690057290863679485473802661062426002119934450464095243423506904527835169719970675492196...   OEIS: A039661
+
+Construction
+If one defines k0 = 1/√2 and
+
+for n > 0, then the sequence
+converges rapidly to eπ.
+
+Continued fraction expansion
+This is based on the digits for the simple continued fraction:
+
+As given by the integer sequence A058287.
+
+Geometric property
+The volume of the n-dimensional ball (or n-ball), is given by
+
+where R is its radius, and Γ is the gamma function. Any even-dimensional ball has volume
+
+and, summing up all the unit-ball (R = 1) volumes of even-dimension gives
+
+Similar or related constants
+Ramanujan's constant
+This is known as Ramanujan's constant. It is an application of Heegner numbers, where 163 is the Heegner number in question.
+Similar to eπ - π, eπ√163 is very close to an integer:
+
+  
+    
+      
+        
+          e
+          
+            π
+            
+              
+                163
+              
+            
+          
+        
+        =
+      
+    
+    {\displaystyle e^{\pi {\sqrt {163}}}=}
+   262537412640768743.9999999999992500725971981856888793538563373369908627075374103782106479101186073129... 
+  
+    
+      
+        ≈
+        640
+        
+        
+          320
+          
+            3
+          
+        
+        +
+        744
+      
+    
+    {\displaystyle \approx 640\,320^{3}+744}
+  This number was discovered in 1859 by the mathematician Charles Hermite.
+In a 1975 April Fool article in Scientific American magazine, "Mathematical Games" columnist Martin Gardner made the hoax claim that the number was in fact an integer, and that the Indian mathematical genius Srinivasa Ramanujan had predicted it—hence its name.
+The coincidental closeness, to within 0.000 000 000 000 75 of the number 6403203 + 744 is explained by complex multiplication and the q-expansion of the j-invariant, specifically:
+
+and,
+
+where O(e-π√163) is the error term,
+
+which explains why eπ√163 is 0.000 000 000 000 75 below 6403203 + 744.
+(For more detail on this proof, consult the article on Heegner numbers.)
+
+The number eπ − π
+The decimal expansion of eπ − π is given by A018938:
+
+  
+    
+      
+        
+          e
+          
+            π
+          
+        
+        −
+        π
+        =
+      
+    
+    {\displaystyle e^{\pi }-\pi =}
+   19.9990999791894757672664429846690444960689368432251061724701018172165259444042437848889371717254321516...Despite this being nearly the integer 20, no explanation has been given for this fact and it is believed to be a mathematical coincidence.
+
+The number πe
+The decimal expansion of πe is given by A059850:
+
+  
+    
+      
+        
+          π
+          
+            e
+          
+        
+        =
+      
+    
+    {\displaystyle \pi ^{e}=}
+   22.4591577183610454734271522045437350275893151339966922492030025540669260403991179123185197527271430315...It is not known whether or not this number is transcendental. Note that, by Gelfond-Schneider theorem, we can only infer definitively that ab is transcendental if a is algebraic and b is not rational (a and b are both considered complex numbers, also a ≠ 0, a ≠ 1).
+In the case of eπ, we are only able to prove this number transcendental due to properties of complex exponential forms, where π is considered the modulus of the complex number eπ, and the above equivalency given to transform it into (-1)-i, allowing the application of Gelfond-Schneider theorem.
+πe has no such equivalence, and hence, as both π and e are transcendental, we can make no conclusion about the transcendence of πe.
+
+The number eπ − πe
+As with πe, it is not known whether eπ − πe is transcendental. Further, no proof exists to show whether or not it is irrational.
+The decimal expansion for eπ − πe is given by A063504:
+
+  
+    
+      
+        
+          e
+          
+            π
+          
+        
+        −
+        
+          π
+          
+            e
+          
+        
+        =
+      
+    
+    {\displaystyle e^{\pi }-\pi ^{e}=}
+   0.6815349144182235323019341634048123526767911086035197442420438554574163102913348711984522443404061881...
+
+The number ii
+Using the principal value of the complex logarithm,
+
+The decimal expansion of is given by A049006:
+
+  
+    
+      
+        
+          i
+          
+            i
+          
+        
+        =
+      
+    
+    {\displaystyle i^{i}=}
+   0.2078795763507619085469556198349787700338778416317696080751358830554198772854821397886002778654260353...Because of the equivalence, we can use the Gelfond-Schneider theorem to prove that the reciprocal square root of Gelfond's constant is also transcendental:
+i is both algebraic (a solution to the polynomial x2 + 1 = 0), and not rational, hence ii is transcendental.
+
+See also
+Transcendental number
+Transcendental number theory, the study of questions related to transcendental numbers
+Euler's identity
+Gelfond–Schneider constant
+
+References
+Further reading
+Alan Baker and Gisbert Wüstholz, Logarithmic Forms and Diophantine Geometry, New Mathematical Monographs 9, Cambridge University Press, 2007, ISBN 978-0-521-88268-2
+
+External links
+Gelfond's constant at MathWorld
+A new complex power tower identity for Gelfond's constant
+Almost Integer at MathWorld

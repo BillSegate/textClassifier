@@ -1,0 +1,7 @@
+Narrow bipolar pulses are high-energy, high-altitude, intra-cloud electrical discharges associated with thunderstorms.  NBP are similar to other forms of lightning events such as return strokes and dart leaders, but produce an optical emission of at least an order of magnitude smaller.  They typically occur in the 10–20 km altitude range and can emit a power on the order of a few hundred gigawatts.  They produce far-field asymmetric bipolar electric field change signatures (called narrow bipolar events).
+
+References
+M.A. Uman et al., The Electromagnetic Radiation from a Finite Antenna, AJP Vol. 43, 1975.
+A.V. Gurevich, K.P. Zybin, Runaway Breakdown and the Mysteries of Lightning, Physics Today 37-43, 2005.
+K. B. Eack, Electrical characteristics of narrow bipolar events, Geophysical Research Letters, Vol. 31, 2004.
+R. Thottappillil, Distribution of charge along the lightning channel: Relation to remote electric and magnetic fields and to return-stroke models, Journal of Geophysical Research, Vol. 102, 1997.

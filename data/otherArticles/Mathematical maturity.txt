@@ -1,0 +1,45 @@
+In mathematics, mathematical maturity is an informal term often used to refer to the quality of having a general understanding and mastery of the way mathematicians operate and communicate. It pertains to a mixture of mathematical experience and insight that cannot be directly taught. Instead, it comes from repeated exposure to mathematical concepts. It is a gauge of mathematics students' erudition in mathematical structures and methods, and can overlap with other related concepts such as mathematical intuition and mathematical competence. The topic is occasionally also addressed in literature in its own right.
+
+Definitions
+Mathematical maturity has been defined in several different ways by various authors, and is often tied to other related concepts such as comfort and competence with mathematics, mathematical intuition and mathematical beliefs.One definition has been given as follows:
+... fearlessness in the face of symbols: the ability to read and understand notation, to introduce clear and useful notation when appropriate (and not otherwise!), and a general facility of expression in the terse—but crisp and exact—language that mathematicians use to communicate ideas.
+A broader list of characteristics of mathematical maturity has been given as follows:
+
+The capacity to generalize from a specific example to a broad concept
+The capacity to handle increasingly abstract ideas
+The ability to communicate mathematically by learning standard notation and acceptable style
+A significant shift from learning by memorization to learning through understanding
+The capacity to separate the key ideas from the less significant
+The ability to link a geometrical representation with an analytic representation
+The ability to translate verbal problems into mathematical problems
+The ability to recognize a valid proof and detect 'sloppy' thinking
+The ability to recognize mathematical patterns
+The ability to move back and forth between  the geometrical (graph) and the analytical (equation)
+Improving mathematical intuition by abandoning  naive assumptions and developing a more critical attitude
+Finally, mathematical maturity has also been defined as an ability to do the following:
+
+Make and use connections with other problems and other disciplines
+Fill in missing details
+Spot, correct and learn from mistakes
+Winnow the chaff from the wheat, get to the crux, identify intent
+Recognize and appreciate elegance
+Think abstractly
+Read, write and critique formal proofs
+Draw a line between what you know and what you don’t know
+Recognize patterns, themes, currents and eddies
+Apply what you know in creative ways
+Approximate appropriately
+Teach yourself
+Generalize
+Remain focused
+Bring instinct and intuition to bear when neededIt is sometimes said that the development of mathematical maturity requires a deep reflection on the subject matter for a prolonged period of time, along with a guiding spirit which encourages exploration.
+
+Progression
+Mathematician Terence Tao has proposed a three-stage model of mathematics education that can be interpreted as a general framework of mathematical maturity progression. The stages are summarized in the following table:
+
+See also
+Logical intuition
+Four stages of competence
+
+
+== References ==

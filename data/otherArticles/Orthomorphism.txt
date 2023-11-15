@@ -1,0 +1,4 @@
+In abstract algebra, an orthomorphism is a certain kind of mapping from a group into itself.  Let G be a group, and let θ be a permutation of G.  Then θ is an orthomorphism of G if the mapping f defined by f(x) = x−1 θ(x) is also a permutation of G.  A permutation φ of G is a complete mapping if the mapping g defined by g(x) = xφ(x) is also a permutation of G. Orthomorphisms and complete mappings are closely related.
+
+
+== References ==

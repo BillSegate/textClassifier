@@ -1,0 +1,157 @@
+This article gives a sketch of a proof of Gödel's first incompleteness theorem. This theorem applies to any formal theory that satisfies certain technical hypotheses, which are discussed as needed during the sketch. We will assume for the remainder of the article that a fixed theory satisfying these hypotheses has been selected.
+Throughout this article the word "number" refers to a natural number (including 0).  The key property these numbers possess is that any natural number can be obtained by starting with the number 0 and adding 1 a finite number of times.
+
+Hypotheses of the theory
+Gödel's theorem applies to any formal theory that satisfies certain properties. Each formal theory has a signature that specifies the nonlogical symbols in the language of the theory.  For simplicity, we will assume that the language of the theory is composed from the following collection of 15 (and only 15) symbols:
+
+A constant symbol 0 for zero.
+A unary function symbol S for the successor operation and two binary function symbols + and × for addition and multiplication.
+Three symbols for logical conjunction, ∧, disjunction, ∨, and negation, ¬.
+Two symbols for universal, ∀, and existential, ∃, quantifiers.
+Two symbols for binary relations, = and <, for equality and order (less than).
+Two symbols for left, ( and right, ) parentheses for establishing precedence of quantifiers.
+A single variable symbol, x and a distinguishing symbol * that can be used to construct additional variables of the form x*, x**, x***, ...This is the language of Peano arithmetic.  A well-formed formula is a sequence of these symbols that is formed so as to have a well-defined reading as a mathematical formula. Thus x = SS0  is well formed while x = ∀+ is not well formed. A theory is a set of well-formed formulas with no free variables.
+A theory is consistent if there is no formula F such that both F and its negation are provable.  ω-consistency is a stronger property than consistency.  Suppose that F(x) is a formula with one free variable x.  In order to be ω-consistent,  the theory cannot prove both ∃m F(m) while also proving ¬F(n) for each natural number n.
+The theory is assumed to be effective, which means that the set of axioms must be recursively enumerable.  This means that it is theoretically possible to write a finite-length computer program that, if allowed to run forever, would output the axioms of the theory (necessarily including every well-formed instance of the axiom schema of induction) one at a time and not output anything else. This requirement is necessary; there are theories that are complete, consistent, and include elementary arithmetic, but no such theory can be effective.
+
+Outline of the proof
+For a simplified outline of the proof, see Gödel's incompleteness theoremsThe sketch here is broken into three parts.  In the first part, each formula of the theory is assigned a number, known as a Gödel number, in a manner that allows the formula to be effectively recovered from the number. This numbering is extended to cover finite sequences of formulas. In the second part, a specific formula PF(x, y) is constructed such that for any two numbers n and m, PF(n,m) holds if and only if n represents a sequence of formulas that constitutes a proof of the formula that m represents.  In the third part of the proof, we construct a self-referential formula that, informally, says "I am not provable", and prove that this sentence is neither provable nor disprovable within the theory.
+Importantly, all the formulas in the proof can be defined by primitive recursive functions, which themselves can be defined in first-order Peano arithmetic.
+
+Gödel numbering
+The first step of the proof is to represent (well-formed) formulas of the theory, and finite lists of these formulas, as natural numbers. These numbers are called the Gödel numbers of the formulas.
+Begin by assigning a natural number to each symbol of the language of arithmetic, similar to the manner in which the ASCII code assigns a unique binary number to each letter and certain other characters. This article will employ the following assignment, very similar to the one Douglas Hofstadter used in his Gödel, Escher, Bach:
+The Gödel number of a formula is obtained by concatenating the Gödel numbers of each symbol making up the formula. The Gödel numbers for each symbol are separated by a zero because by design, no Gödel number of a symbol includes a 0. Hence any formula may be correctly recovered from its Gödel number. Let G(F) denote the Gödel number of the formula F.
+Given the above Gödel numbering, the sentence asserting that addition commutes, ∀x ∀x* (x + x* = x* + x) translates as the number:
+
+626 0 262 0 626 0 262 0 163 0 362 0 262 0 112 0 262 0 163 0 111 0 262 0 163 0 112 0 262 0 323(Spaces have been inserted on each side of every 0 only for readability; Gödel numbers are strict concatenations of decimal digits.)  Not all natural numbers represent a sentence. For example, the number
+
+111 0 626 0 112 0 262translates to "= ∀ + x", which is not well-formed.
+Because each natural number can be obtained by applying the successor operation S to 0 a finite number of times, every natural number has its own Gödel number. For example, the Gödel number corresponding to 4, SSSS0, is:
+
+123 0 123 0 123 0 123 0 666.The assignment of Gödel numbers can be extended to finite lists of formulas. To obtain the Gödel number of a list of formulas, write the Gödel numbers of the formulas in order, separating them by two consecutive zeros. Since the Gödel number of a formula never contains two consecutive zeros, each formula in a list of formulas can be effectively recovered from the Gödel number for the list.
+It is crucial that the formal arithmetic be capable of proving a minimum set of facts. In particular, it must be able to prove that every number m has a Gödel number G(m). A second fact that the theory must prove is that given any Gödel number G(F(x)) of a formula F(x) with one free variable x and any number m, there is a Gödel number of the formula F(m) obtained by replacing all occurrences of G(x) in G(F(x)) with G(m), and that this second Gödel number can be effectively obtained from the Gödel number G(F(x)) of F(x) as a function of G(x). To see that this is in fact possible, note that given the Gödel number of F(x), one can recreate the original formula F(x), make the substitution of x with m, and then find the Gödel number G(F(m)) of the resulting formula F(m). This is a uniform procedure.
+
+The provability relation
+Deduction rules can then be represented by binary relations on Gödel numbers of lists of formulas.  In other words, suppose that there is a deduction rule D1, by which one can move from the formulas S1,S2 to a new formula S.  Then the relation R1 corresponding to this deduction rule says that n is related to m (in other words, n R1m holds) if n is the Gödel number of the list of formulas containing S1 and S2 and m is the Gödel number of the list of formulas containing S1, S2 and S.  Because each deduction rule is concrete, it is possible to effectively determine for any natural numbers n and m whether they are related by the relation.
+The second stage in the proof is to use the Gödel numbering, described above, to show that the notion of provability can be expressed within the formal language of the theory. Suppose the theory has deduction rules: D1, D2, D3, ... . Let R1, R2, R3, ... be their corresponding relations, as described above.
+Every provable statement is either an axiom itself, or it can be deduced from the axioms by a finite number of applications of the deduction rules. 
+A proof of a formula S is itself a string of mathematical statements related by  particular relations (each is either an axiom or related to former statements by deduction rules), where the last statement is S. Thus one can define the Gödel number of a proof. Moreover, one may define a statement form Proof(x,y), which for every two numbers x and y is provable if and only if x is the Gödel number of a proof of the statement S and y = G(S).
+Proof(x,y) is in fact an arithmetical relation, just as "x + y = 6" is, though a (much) more complicated one. Given such a relation R(x,y), for any two specific numbers n and m, either the formula R(m,n), or its negation ¬R(m,n), but not both, is provable. This is because the relation between these two numbers can be simply "checked". Formally this can be proven by induction, where all these possible relations (whose number is infinite) are constructed one by one.
+The detailed construction of the formula Proof makes essential use of the assumption that the theory is effective; it would not be possible to construct this formula without such an assumption.
+
+Self-referential formula
+For every number n and every formula F(y), where y is a free variable,  we define q(n, G(F)), a relation between two numbers n and G(F), such  that it corresponds to the statement "n is not the Gödel number of a proof of F(G(F))". Here, F(G(F)) can be understood as F with its own Gödel number as its argument.
+Note that q takes as an argument G(F), the Gödel number of F. In order to prove either q(n, G(F)), or ¬q(n, G(F)), it is necessary to perform number-theoretic operations on G(F) that mirror the following steps: decode the number G(F) into the formula F, replace all occurrences of y in F with the number G(F), and then compute the Gödel number of the resulting formula F(G(F)).
+Note that for every specific number n and formula F(y), q(n, G(F)) is a straightforward (though complicated) arithmetical relation between two numbers n and G(F), building on the relation PF defined earlier. Further, q(n, G(F))  is provable if the finite list of formulas encoded by n is not a proof of F(G(F)), and ¬q(n, G(F)) is provable if the finite list of formulas encoded by n is a proof of F(G(F)). Given any numbers n and G(F), either q(n, G(F)) or ¬q(n,G(F)) (but not both) is provable.
+Any proof of F(G(F)) can be encoded by a Gödel number n, such that q(n, G(F)) does not hold. If q(n, G(F)) holds for all natural numbers n, then there is no proof of F(G(F)). In other words,  ∀y q(y, G(F)), a formula about natural numbers, corresponds to "there is no proof of F(G(F))".
+We now define the formula P(x) = ∀y q(y, x), where x is a free variable. The formula P itself has a Gödel number G(P) as does every formula.
+This formula has a free variable x. Suppose we replace it with G(F),
+the Gödel number of a formula F(z), where z is a free variable. Then, P(G(F)) = ∀y q(y, G(F)) corresponds to "there is no proof of F(G(F))", as we have seen.
+Consider the formula P(G(P)) = ∀y q(y, G(P)). This formula concerning the number G(P) corresponds to "there is no proof of P(G(P))". We have here the self-referential feature that is crucial to the proof: A formula of the formal theory that somehow relates to its own provability within that formal theory. Very informally, P(G(P)) says: "I am not provable".
+We will now show that neither the formula P(G(P)), nor its negation ¬P(G(P)),  is provable.
+Suppose P(G(P)) = ∀y q(y, G(P)) is provable. Let n be the Gödel number of a proof of P(G(P)). Then, as seen earlier, the formula ¬q(n, G(P))  is provable. Proving both ¬q(n, G(P)) and ∀y q(y, G(P)) violates the consistency of the formal theory. We therefore conclude that P(G(P)) is not provable.
+Consider any number n. Suppose ¬q(n, G(P)) is provable.
+Then, n must be the Gödel number of a proof of P(G(P)). But we have just proved that P(G(P)) is not provable. Since either q(n, G(P)) or ¬q(n, G(P)) must be provable, we conclude that, for all natural numbers n, q(n, G(P)) is provable.
+Suppose the negation of P(G(P)), ¬P(G(P)) = ∃x ¬ q(x, G(P)), is provable. Proving both ∃x ¬q(x, G(P)), and q(n, G(P)), for all natural numbers n, violates  ω-consistency of the formal theory. Thus if the theory is ω-consistent, ¬P(G(P)) is not provable.
+We have sketched a proof showing that:
+For any formal, recursively enumerable (i.e. effectively generated) theory of Peano Arithmetic,
+
+if it is consistent, then there exists an unprovable formula (in the language of that theory).if it is ω-consistent, then there exists a formula such that both it and its negation are unprovable.
+
+The truth of the Gödel sentence
+The proof of Gödel's incompleteness theorem just sketched is proof-theoretic (also called syntactic) in that it shows that if certain proofs exist (a proof of P(G(P)) or its negation) then they can be manipulated to produce a proof of a contradiction.  This makes no appeal to whether P(G(P)) is "true", only to whether it is provable. Truth is a model-theoretic, or semantic, concept, and is not equivalent to provability except in special cases.
+By analyzing the situation of the above proof in more detail, it is possible to obtain a conclusion about the truth of P(G(P)) in the standard model 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+   of natural numbers. As just seen, q(n, G(P)) is provable for each natural number n, and is thus true in the model 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+  . Therefore, within this model,
+
+  
+    
+      
+        P
+        (
+        G
+        (
+        P
+        )
+        )
+        =
+        ∀
+        y
+        
+        q
+        (
+        y
+        ,
+        G
+        (
+        P
+        )
+        )
+      
+    
+    {\displaystyle P(G(P))=\forall y\,q(y,G(P))}
+  holds. This is what the statement "P(G(P)) is true" usually refers to—the sentence is true in the intended model.  It is not true in every model, however: If it were, then by Gödel's completeness theorem it would be provable, which we have just seen is not the case.
+
+Boolos's short proof
+George Boolos (1989) vastly simplified the proof of the First Theorem, if one agrees that the theorem is equivalent to:
+
+"There is no algorithm M whose output contains all true sentences of arithmetic and no false ones."
+
+"Arithmetic" refers to Peano or Robinson arithmetic, but the proof invokes no specifics of either, tacitly assuming that these systems allow '<' and '×' to have their usual meanings. Boolos proves the theorem in about two pages. His proof employs the language of first-order logic, but invokes no facts about the connectives or quantifiers. The domain of discourse is the natural numbers. The Gödel sentence builds on Berry's paradox.
+Let [n] abbreviate n successive applications of the successor function, starting from 0. Boolos then asserts (the details are only sketched) that there exists a defined predicate Cxz that comes out true iff an arithmetic formula containing z symbols names the number x. This proof sketch contains the only mention of Gödel numbering; Boolos merely assumes that every formula can be so numbered. Here, a formula F names the number n iff the following is provable:
+
+  
+    
+      
+        ∀
+        x
+        (
+        F
+        (
+        x
+        )
+        ↔
+        x
+        =
+        n
+        )
+      
+    
+    {\displaystyle \forall x(F(x)\leftrightarrow x=n)}
+  Boolos then defines the related predicates:
+
+Bxy ↔ ∃z(z < y ∧ Cxz). (English: Bxy comes out true if x can be defined in fewer than y symbols):
+Axy ↔ ¬Bxy ∧ ∀a(a < x→Bay). (English: Axy comes out true if x is the smallest number not definable in fewer than y symbols. More awkwardly, Axy holds if x cannot be defined in fewer than y symbols, and all numbers less than x can be defined using fewer than y symbols);
+Fx ↔ ∃y((y = [10] × [k]) ∧ Axy). k = the number of symbols appearing in Axy.Fx formalizes Berry's paradox. The balance of the proof, requiring but 12 lines of text, shows that the sentence ∀x(Fx↔(x = [n])) is true for some number n, but no algorithm M will identify it as true. Hence in arithmetic, truth outruns proof. QED.
+The above predicates contain the only existential quantifiers appearing in the entire proof. The '<' and '×' appearing in these predicates are the only defined arithmetical notions the proof requires. The proof nowhere mentions recursive functions or any facts from number theory, and Boolos claims that his proof dispenses with diagonalization. For more on this proof, see Berry's paradox.
+
+References
+1931, "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme, I." Monatshefte für Mathematik und Physik 38: 173–98.
+English translations of the preceding:
+Jean van Heijenoort, 1967. From Frege to Gödel: A Source Book on Mathematical Logic. Harvard University Press: 596–616.
+Hirzel, Martin (trans.), 2000, "On formally undecidable propositions of Principia Mathematica and related systems I.".
+1951, "Some basic theorems on the foundations of mathematics and their implications" in Solomon Feferman, ed., 1995. Collected works / Kurt Gödel, Vol. III.  Oxford University Press: 304–23.
+George Boolos, 1998, "A New Proof of the Gödel Incompleteness Theorem" in Boolos, G., Logic, Logic, and Logic. Harvard Univ. Press.
+
+Citations
+External links
+A concise proof of Gödel's Incompleteness Theorem.

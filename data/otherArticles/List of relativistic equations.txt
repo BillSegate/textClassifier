@@ -1,0 +1,1144 @@
+Following is a list of the frequently occurring equations in the theory of special relativity.
+
+Postulates of Special Relativity
+To derive the equations of special relativity, one must start with two other 
+
+The laws of physics are invariant under transformations between inertial frames.  In other words, the laws of physics will be the same whether you are testing them in a frame 'at rest', or a frame moving with a constant velocity relative to the 'rest' frame.
+The speed of light in a perfect classical vacuum (
+  
+    
+      
+        
+          c
+          
+            0
+          
+        
+      
+    
+    {\displaystyle c_{0}}
+  ) is measured to be the same by all observers in inertial frames and is, moreover, finite but nonzero. This speed acts as a supremum for the speed of local transmission of information in the universe.In this context, "speed of light" really refers to the speed supremum of information transmission or of the movement of ordinary (nonnegative mass) matter, locally, as in a classical vacuum. Thus, a more accurate description would refer to 
+  
+    
+      
+        
+          c
+          
+            0
+          
+        
+      
+    
+    {\displaystyle c_{0}}
+   rather than the speed of light per se. However, light and other massless particles do theoretically travel at 
+  
+    
+      
+        
+          c
+          
+            0
+          
+        
+      
+    
+    {\displaystyle c_{0}}
+   under vacuum conditions and experiment has nonfalsified this notion with fairly high precision. Regardless of whether light itself does travel at 
+  
+    
+      
+        
+          c
+          
+            0
+          
+        
+      
+    
+    {\displaystyle c_{0}}
+  , though 
+  
+    
+      
+        
+          c
+          
+            0
+          
+        
+      
+    
+    {\displaystyle c_{0}}
+   does act as such a supremum, and that is the assumption which matters for Relativity.
+From these two postulates, all of special relativity follows.
+In the following, the relative velocity v between two inertial frames is restricted fully to the x-direction, of a Cartesian coordinate system.
+
+Kinematics
+Lorentz transformation
+The following notations are used very often in special relativity:
+
+Lorentz factor
+  
+    
+      
+        γ
+        =
+        
+          
+            1
+            
+              1
+              −
+              
+                β
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \gamma ={\frac {1}{\sqrt {1-\beta ^{2}}}}}
+  where 
+  
+    
+      
+        β
+        =
+        
+          
+            v
+            c
+          
+        
+      
+    
+    {\displaystyle \beta ={\frac {v}{c}}}
+   and v is the relative velocity between two inertial frames.
+For two frames at rest, γ = 1, and increases with relative velocity between the two inertial frames. As the relative velocity approaches the speed of light, γ → ∞.
+
+Time dilation (different times t and t' at the same position x in same inertial frame)
+  
+    
+      
+        
+          t
+          ′
+        
+        =
+        γ
+        t
+      
+    
+    {\displaystyle t'=\gamma t}
+  In this example the time measured in the frame on the vehicle, t, is known as the proper time.  The proper time between two events - such as the event of light being emitted on the vehicle and the event of light being received on the vehicle - is the time between the two events in a frame where the events occur at the same location.  So, above, the emission and reception of the light both took place in the vehicle's frame, making the time that an observer in the vehicle's frame would measure the proper time.
+
+Length contraction (different positions x and x' at the same instant t in the same inertial frame)
+  
+    
+      
+        
+          ℓ
+          ′
+        
+        =
+        
+          
+            ℓ
+            γ
+          
+        
+      
+    
+    {\displaystyle \ell '={\frac {\ell }{\gamma }}}
+  This is the formula for length contraction.  As there existed a proper time for time dilation, there exists a proper length for length contraction, which in this case is ℓ.  The proper length of an object is the length of the object in the frame in which the object is at rest.  Also, this contraction only affects the dimensions of the object which are parallel to the relative velocity between the object and observer.  Thus, lengths perpendicular to the direction of motion are unaffected by length contraction.
+
+Lorentz transformation
+  
+    
+      
+        
+          x
+          ′
+        
+        =
+        γ
+        
+          (
+          
+            x
+            −
+            v
+            t
+          
+          )
+        
+      
+    
+    {\displaystyle x'=\gamma \left(x-vt\right)}
+  
+
+  
+    
+      
+        
+          y
+          ′
+        
+        =
+        y
+        
+      
+    
+    {\displaystyle y'=y\,}
+  
+
+  
+    
+      
+        
+          z
+          ′
+        
+        =
+        z
+        
+      
+    
+    {\displaystyle z'=z\,}
+  
+
+  
+    
+      
+        
+          t
+          ′
+        
+        =
+        γ
+        
+          (
+          
+            t
+            −
+            
+              
+                
+                  v
+                  x
+                
+                
+                  c
+                  
+                    2
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle t'=\gamma \left(t-{\frac {vx}{c^{2}}}\right)}
+  Velocity addition
+  
+    
+      
+        
+          V
+          
+            x
+          
+          ′
+        
+        =
+        
+          
+            
+              
+                V
+                
+                  x
+                
+              
+              −
+              v
+            
+            
+              1
+              −
+              
+                
+                  
+                    
+                      V
+                      
+                        x
+                      
+                    
+                    v
+                  
+                  
+                    c
+                    
+                      2
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle V'_{x}={\frac {V_{x}-v}{1-{\frac {V_{x}v}{c^{2}}}}}}
+  
+  
+    
+      
+        
+          V
+          
+            y
+          
+          ′
+        
+        =
+        
+          
+            
+              V
+              
+                y
+              
+            
+            
+              γ
+              
+                (
+                
+                  1
+                  −
+                  
+                    
+                      
+                        
+                          V
+                          
+                            x
+                          
+                        
+                        v
+                      
+                      
+                        c
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle V'_{y}={\frac {V_{y}}{\gamma \left(1-{\frac {V_{x}v}{c^{2}}}\right)}}}
+  
+  
+    
+      
+        
+          V
+          
+            z
+          
+          ′
+        
+        =
+        
+          
+            
+              V
+              
+                z
+              
+            
+            
+              γ
+              
+                (
+                
+                  1
+                  −
+                  
+                    
+                      
+                        
+                          V
+                          
+                            x
+                          
+                        
+                        v
+                      
+                      
+                        c
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle V'_{z}={\frac {V_{z}}{\gamma \left(1-{\frac {V_{x}v}{c^{2}}}\right)}}}
+
+The metric and four-vectors
+In what follows, bold sans serif is used for 4-vectors while normal bold roman is used for ordinary 3-vectors.
+
+Inner product (i.e. notion of length)
+
+  
+    
+      
+        
+          
+            a
+          
+        
+        ⋅
+        
+          
+            b
+          
+        
+        =
+        η
+        (
+        
+          
+            a
+          
+        
+        ,
+        
+          
+            b
+          
+        
+        )
+      
+    
+    {\displaystyle {\boldsymbol {\mathsf {a}}}\cdot {\boldsymbol {\mathsf {b}}}=\eta ({\boldsymbol {\mathsf {a}}},{\boldsymbol {\mathsf {b}}})}
+  where 
+  
+    
+      
+        η
+      
+    
+    {\displaystyle \eta }
+   is known as the metric tensor.  In special relativity, the metric tensor is the Minkowski metric:
+
+  
+    
+      
+        η
+        =
+        
+          
+            (
+            
+              
+                
+                  −
+                  1
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  1
+                
+                
+                  0
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  0
+                
+                
+                  1
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  1
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle \eta ={\begin{pmatrix}-1&0&0&0\\0&1&0&0\\0&0&1&0\\0&0&0&1\end{pmatrix}}}
+  Space-time interval
+  
+    
+      
+        d
+        
+          s
+          
+            2
+          
+        
+        =
+        d
+        
+          x
+          
+            2
+          
+        
+        +
+        d
+        
+          y
+          
+            2
+          
+        
+        +
+        d
+        
+          z
+          
+            2
+          
+        
+        −
+        
+          c
+          
+            2
+          
+        
+        d
+        
+          t
+          
+            2
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  c
+                  d
+                  t
+                
+                
+                  d
+                  x
+                
+                
+                  d
+                  y
+                
+                
+                  d
+                  z
+                
+              
+            
+            )
+          
+        
+        
+          
+            (
+            
+              
+                
+                  −
+                  1
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  1
+                
+                
+                  0
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  0
+                
+                
+                  1
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  1
+                
+              
+            
+            )
+          
+        
+        
+          
+            (
+            
+              
+                
+                  c
+                  d
+                  t
+                
+              
+              
+                
+                  d
+                  x
+                
+              
+              
+                
+                  d
+                  y
+                
+              
+              
+                
+                  d
+                  z
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle ds^{2}=dx^{2}+dy^{2}+dz^{2}-c^{2}dt^{2}={\begin{pmatrix}cdt&dx&dy&dz\end{pmatrix}}{\begin{pmatrix}-1&0&0&0\\0&1&0&0\\0&0&1&0\\0&0&0&1\end{pmatrix}}{\begin{pmatrix}cdt\\dx\\dy\\dz\end{pmatrix}}}
+  In the above, ds2 is known as the spacetime interval.  This inner product is invariant under the Lorentz transformation, that is,
+
+  
+    
+      
+        η
+        (
+        
+          
+            
+              a
+            
+          
+          ′
+        
+        ,
+        
+          
+            
+              b
+            
+          
+          ′
+        
+        )
+        =
+        η
+        
+          (
+          
+            Λ
+            
+              
+                a
+              
+            
+            ,
+            Λ
+            
+              
+                b
+              
+            
+          
+          )
+        
+        =
+        η
+        (
+        
+          
+            a
+          
+        
+        ,
+        
+          
+            b
+          
+        
+        )
+      
+    
+    {\displaystyle \eta ({\boldsymbol {\mathsf {a}}}',{\boldsymbol {\mathsf {b}}}')=\eta \left(\Lambda {\boldsymbol {\mathsf {a}}},\Lambda {\boldsymbol {\mathsf {b}}}\right)=\eta ({\boldsymbol {\mathsf {a}}},{\boldsymbol {\mathsf {b}}})}
+  The sign of the metric and the placement of the ct, ct', cdt, and cdt′ time-based terms can vary depending on the author's choice.  For instance, many times the time-based terms are placed first in the four-vectors, with the spatial terms following.  Also, sometimes η is replaced with −η, making the spatial terms produce negative contributions to the dot product or spacetime interval, while the time term makes a positive contribution.  These differences can be used in any combination, so long as the choice of standards is followed completely throughout the computations performed.
+
+Lorentz transforms
+It is possible to express the above coordinate transformation via a matrix.  To simplify things, it can be best to replace t, t′, dt, and dt′ with ct, ct', cdt, and cdt′, which has the dimensions of distance.  So:
+
+  
+    
+      
+        
+          x
+          ′
+        
+        =
+        γ
+        x
+        −
+        γ
+        β
+        c
+        t
+        
+      
+    
+    {\displaystyle x'=\gamma x-\gamma \beta ct\,}
+  
+
+  
+    
+      
+        
+          y
+          ′
+        
+        =
+        y
+        
+      
+    
+    {\displaystyle y'=y\,}
+  
+
+  
+    
+      
+        
+          z
+          ′
+        
+        =
+        z
+        
+      
+    
+    {\displaystyle z'=z\,}
+  
+
+  
+    
+      
+        c
+        
+          t
+          ′
+        
+        =
+        γ
+        c
+        t
+        −
+        γ
+        β
+        x
+        
+      
+    
+    {\displaystyle ct'=\gamma ct-\gamma \beta x\,}
+  then in matrix form:
+
+  
+    
+      
+        
+          
+            (
+            
+              
+                
+                  c
+                  
+                    t
+                    ′
+                  
+                
+              
+              
+                
+                  
+                    x
+                    ′
+                  
+                
+              
+              
+                
+                  
+                    y
+                    ′
+                  
+                
+              
+              
+                
+                  
+                    z
+                    ′
+                  
+                
+              
+            
+            )
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  γ
+                
+                
+                  −
+                  γ
+                  β
+                
+                
+                  0
+                
+                
+                  0
+                
+              
+              
+                
+                  −
+                  γ
+                  β
+                
+                
+                  γ
+                
+                
+                  0
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  0
+                
+                
+                  1
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  1
+                
+              
+            
+            )
+          
+        
+        
+          
+            (
+            
+              
+                
+                  c
+                  t
+                
+              
+              
+                
+                  x
+                
+              
+              
+                
+                  y
+                
+              
+              
+                
+                  z
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle {\begin{pmatrix}ct'\\x'\\y'\\z'\end{pmatrix}}={\begin{pmatrix}\gamma &-\gamma \beta &0&0\\-\gamma \beta &\gamma &0&0\\0&0&1&0\\0&0&0&1\end{pmatrix}}{\begin{pmatrix}ct\\x\\y\\z\end{pmatrix}}}
+  The vectors in the above transformation equation are known as four-vectors, in this case they are specifically the position four-vectors.  In general, in special relativity, four-vectors can be transformed from one reference frame to another as follows:
+
+  
+    
+      
+        
+          
+            
+              a
+            
+          
+          ′
+        
+        =
+        Λ
+        
+          
+            a
+          
+        
+      
+    
+    {\displaystyle {\boldsymbol {\mathsf {a}}}'=\Lambda {\boldsymbol {\mathsf {a}}}}
+  In the above, 
+  
+    
+      
+        
+          
+            
+              a
+            
+          
+          ′
+        
+      
+    
+    {\displaystyle {\boldsymbol {\mathsf {a}}}'}
+   and 
+  
+    
+      
+        
+          
+            a
+          
+        
+      
+    
+    {\displaystyle {\boldsymbol {\mathsf {a}}}}
+   are the four-vector and the transformed four-vector, respectively, and Λ is the transformation matrix, which, for a given transformation is the same for all four-vectors one might want to transform.  So 
+  
+    
+      
+        
+          
+            
+              a
+            
+          
+          ′
+        
+      
+    
+    {\displaystyle {\boldsymbol {\mathsf {a}}}'}
+   can be a four-vector representing position, velocity, or momentum, and the same Λ can be used when transforming between the same two frames. The most general Lorentz transformation includes boosts and rotations; the components are complicated and the transformation requires spinors.
+
+4-vectors and frame-invariant results
+Invariance and unification of physical quantities both arise from four-vectors. The inner product of a 4-vector with itself is equal to a scalar (by definition of the inner product), and since the 4-vectors are physical quantities their magnitudes correspond to physical quantities also.
+
+Doppler shift
+General doppler shift:
+
+  
+    
+      
+        
+          ν
+          ′
+        
+        =
+        γ
+        ν
+        
+          (
+          
+            1
+            −
+            β
+            cos
+            ⁡
+            θ
+          
+          )
+        
+      
+    
+    {\displaystyle \nu '=\gamma \nu \left(1-\beta \cos \theta \right)}
+  Doppler shift for emitter and observer moving right towards each other (or directly away):
+
+  
+    
+      
+        
+          ν
+          ′
+        
+        =
+        ν
+        
+          
+            
+              1
+              −
+              β
+            
+            
+              1
+              +
+              β
+            
+          
+        
+      
+    
+    {\displaystyle \nu '=\nu {\frac {\sqrt {1-\beta }}{\sqrt {1+\beta }}}}
+  Doppler shift for emitter and observer moving in a direction perpendicular to the line connecting them:
+
+  
+    
+      
+        
+          ν
+          ′
+        
+        =
+        γ
+        ν
+      
+    
+    {\displaystyle \nu '=\gamma \nu }
+
+See also
+References
+Sources
+Encyclopaedia of Physics (2nd Edition), R.G. Lerner, G.L. Trigg, VHC publishers, 1991, (Verlagsgesellschaft) 3-527-26954-1, (VHC Inc.) 0-89573-752-3
+Dynamics and Relativity, J.R. Forshaw, A.G. Smith, Wiley, 2009, ISBN 978-0-470-01460-8
+Relativity DeMystified, D. McMahon, Mc Graw Hill (USA), 2006, ISBN 0-07-145545-0
+The Cambridge Handbook of Physics Formulas, G. Woan, Cambridge University Press, 2010, ISBN 978-0-521-57507-2.
+An Introduction to Mechanics, D. Kleppner, R.J. Kolenkow, Cambridge University Press, 2010, ISBN 978-0-521-19821-9

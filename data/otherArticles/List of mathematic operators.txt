@@ -1,0 +1,86 @@
+In mathematics, an operator or transform is a function from one space of functions to another. Operators occur commonly in engineering, physics and mathematics. Many are integral operators and differential operators.
+In the following L is an operator
+
+  
+    
+      
+        L
+        :
+        
+          
+            F
+          
+        
+        →
+        
+          
+            G
+          
+        
+      
+    
+    {\displaystyle L:{\mathcal {F}}\to {\mathcal {G}}}
+  which takes a function 
+  
+    
+      
+        y
+        ∈
+        
+          
+            F
+          
+        
+      
+    
+    {\displaystyle y\in {\mathcal {F}}}
+   to another function 
+  
+    
+      
+        L
+        [
+        y
+        ]
+        ∈
+        
+          
+            G
+          
+        
+      
+    
+    {\displaystyle L[y]\in {\mathcal {G}}}
+  . Here, 
+  
+    
+      
+        
+          
+            F
+          
+        
+      
+    
+    {\displaystyle {\mathcal {F}}}
+   and 
+  
+    
+      
+        
+          
+            G
+          
+        
+      
+    
+    {\displaystyle {\mathcal {G}}}
+   are some unspecified function spaces, such as Hardy space, Lp space, Sobolev space, or, more vaguely, the space of holomorphic functions.
+
+See also
+List of transforms
+List of Fourier-related transforms
+Transfer operator
+Fredholm operator
+Borel transform
+Glossary of mathematical symbols

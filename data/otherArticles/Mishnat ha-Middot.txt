@@ -1,0 +1,88 @@
+The Mishnat ha-Middot (Hebrew: מִשְׁנַת הַמִּדּוֹת, lit. 'Treatise of Measures') is the earliest known Hebrew treatise on geometry, composed of 49 mishnayot in six chapters. Scholars have dated the work to either the Mishnaic period or the early Islamic era.
+
+History
+Date of composition
+Moritz Steinschneider dated the Mishnat ha-Middot to between 800 and 1200 CE. Sarfatti and Langermann have advanced Steinschneider's claim of Arabic influence on the work's terminology, and date the text to the early ninth century.On the other hand, Hermann Schapira argued that the treatise dates from an earlier era, most likely the Mishnaic period, as its mathematical terminology differs from that of the Hebrew mathematicians of the Arab period. Solomon Gandz conjectured that the text was compiled no later than 150 CE (possibly by Rabbi Nehemiah) and intended to be a part of the Mishnah, but was excluded from its final canonical edition because the work was regarded as too secular.  The content resembles both the work of Hero of Alexandria (c. 100 CE) and that of al-Khwārizmī (c. 800 CE) and the proponents of the earlier dating therefore see the Mishnat ha-Middot linking Greek and Islamic mathematics.
+
+Modern history
+The Mishnat ha-Middot was discovered in MS 36 of the Munich Library by Moritz Steinschneider in 1862. The manuscript, copied in Constantinople in 1480, goes as far as the end of Chapter V. According to the colophon, the copyist believed the text to be complete. Steinschneider published the work in 1864, in honour of the seventieth birthday of Leopold Zunz. The text was edited and published again by mathematician Hermann Schapira in 1880.After the discovery by Otto Neugebauer of a genizah-fragment in the Bodleian Library containing Chapter VI, Solomon Gandz published a complete version of the Mishnat ha-Middot in 1932, accompanied by a thorough philological analysis. A third manuscript of the work was found among uncatalogued material in the Archives of the Jewish Museum of Prague in 1965.
+
+Contents
+Although primarily a practical work, the Mishnat ha-Middot attempts to define terms and explain both geometric application and theory. The book begins with a discussion that defines "aspects" for the different kinds of plane figures (quadrilateral, triangle, circle, and segment of a circle) in Chapter I (§1–5), and with the basic principles of measurement of areas (§6–9). In Chapter II, the work introduces concise rules for the measurement of plane figures (§1–4), as well as a few problems in the calculation of volume (§5–12). In Chapters III–V, the Mishnat ha-Middot explains again in detail the measurement of the four types of plane figures, with reference to numerical examples. The text concludes with a discussion of the proportions of the Tabernacle in Chapter VI.The treatise argues against the common belief that the Tanakh defines the geometric ratio π as being exactly equal to 3 and defines it as 31⁄7 instead. The book arrives at this approximation by calculating the area of a circle according to the formulae
+
+  
+    
+      
+        A
+        =
+        
+          d
+          
+            2
+          
+        
+        −
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              7
+            
+          
+        
+        −
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              14
+            
+          
+        
+      
+    
+    {\displaystyle A=d^{2}-{\tfrac {d^{2}}{7}}-{\tfrac {d^{2}}{14}}}
+   and 
+  
+    
+      
+        A
+        =
+        
+          
+            
+              c
+              2
+            
+          
+        
+        ⋅
+        
+          
+            
+              d
+              2
+            
+          
+        
+      
+    
+    {\displaystyle A={\tfrac {c}{2}}\cdot {\tfrac {d}{2}}}
+  .: II§3, V§3
+
+See also
+Baraita of the Forty-nine Rules
+
+References
+External links
+MS Heb. c. 18, Catalogue of the Genizah Fragments in the Bodleian Libraries.

@@ -1,0 +1,67 @@
+Physics is a scientific discipline that seeks to construct and experimentally test theories of the physical universe. These theories vary in their scope and can be organized into several distinct branches, which are outlined in this article.
+
+Classical mechanics
+Classical mechanics is a model of the physics of forces acting upon bodies; includes sub-fields to describe the behaviors of solids, gases, and fluids. It is often referred to as "Newtonian mechanics" after Isaac Newton and his laws of motion. It also includes the classical approach as given by Hamiltonian and Lagrange methods. It deals with the motion of particles and the general system of particles.
+There are many branches of classical mechanics, such as: statics, dynamics, kinematics, continuum mechanics (which includes fluid mechanics), statistical mechanics, etc.
+
+Mechanics: A branch of physics in which we study the object and properties of an object in form of a motion under the action of the force.
+
+Thermodynamics and statistical mechanics
+The first chapter of The Feynman Lectures on Physics is about the existence of atoms, which Feynman considered to be the most compact statement of physics, from which science could easily result even if all other knowledge was lost. By modeling matter as collections of hard spheres, it is possible to describe the kinetic theory of gases, upon which classical thermodynamics is based.
+Thermodynamics studies the effects of changes in temperature, pressure, and volume on physical systems on the macroscopic scale, and the transfer of energy as heat. Historically, thermodynamics developed out of the desire to increase the efficiency of early steam engines.The starting point for most thermodynamic considerations is the laws of thermodynamics, which postulate that energy can be exchanged between physical systems as heat or work. They also postulate the existence of a quantity named entropy, which can be defined for any system. In thermodynamics, interactions between large ensembles of objects are studied and categorized. Central to this are the concepts of system and surroundings. A system is composed of particles, whose average motions define its properties, which in turn are related to one another through equations of state. Properties can be combined to express internal energy and thermodynamic potentials, which are useful for determining conditions for equilibrium and spontaneous processes.
+
+Electromagnetism and photonics
+The study of the behaviors of electrons, electric media, magnets, magnetic fields, and general interactions of light.
+
+Relativistic mechanics
+The special theory of relativity enjoys a relationship with electromagnetism and mechanics; that is, the principle of relativity and the principle of stationary action in mechanics can be used to derive Maxwell's equations, and vice versa.
+The theory of special relativity was proposed in 1905 by Albert Einstein in his article "On the Electrodynamics of Moving Bodies". The title of the article refers to the fact that special relativity resolves an inconsistency between Maxwell's equations and classical mechanics. The theory is based on two postulates: (1) that the mathematical forms of the laws of physics are invariant in all inertial systems; and (2) that the speed of light in a vacuum is constant and independent of the source or observer. Reconciling the two postulates requires a unification of space and time into the frame-dependent concept of spacetime.
+General relativity is the geometrical theory of gravitation published by Albert Einstein in 1915/16. It unifies special relativity, Newton's law of universal gravitation, and the insight that gravitation can be described by the curvature of space and time. In general relativity, the curvature of spacetime is produced by the energy of matter and radiation.
+
+Quantum mechanics, atomic physics, and molecular physics
+Quantum mechanics is the branch of physics treating atomic and subatomic systems and their interaction based on the observation that all forms of energy are released in discrete units or bundles called "quanta". Remarkably, quantum theory typically permits only probable or statistical calculation of the observed features of subatomic particles, understood in terms of wave functions. The Schrödinger equation plays the role in quantum mechanics that Newton's laws and conservation of energy serve in classical mechanics—i.e., it predicts the future behavior of a dynamic system—and is a wave equation that is used to solve for wavefunctions.
+For example, the light, or electromagnetic radiation emitted or absorbed by an atom has only certain frequencies (or wavelengths), as can be seen from the line spectrum associated with the chemical element represented by that atom. The quantum theory shows that those frequencies correspond to definite energies of the light quanta, or photons, and result from the fact that the electrons of the atom can have only certain allowed energy values, or levels; when an electron changes from one allowed level to another, a quantum of energy is emitted or absorbed whose frequency is directly proportional to the energy difference between the two levels. The photoelectric effect further confirmed the quantization of light.
+In 1924, Louis de Broglie proposed that not only do light waves sometimes exhibit particle-like properties, but particles may also exhibit wave-like properties. Two different formulations of quantum mechanics were presented following de Broglie's suggestion. The wave mechanics of Erwin Schrödinger (1926) involves the use of a mathematical entity, the wave function, which is related to the probability of finding a particle at a given point in space. The matrix mechanics of Werner Heisenberg (1925) makes no mention of wave functions or similar concepts but was shown to be mathematically equivalent to Schrödinger's theory. A particularly important discovery of the quantum theory is the uncertainty principle, enunciated by Heisenberg in 1927, which places an absolute theoretical limit on the accuracy of certain measurements; as a result, the assumption by earlier scientists that the physical state of a system could be measured exactly and used to predict future states had to be abandoned. Quantum mechanics was combined with the theory of relativity in the formulation of Paul Dirac. Other developments include quantum statistics, quantum electrodynamics, concerned with interactions between charged particles and electromagnetic fields; and its generalization, quantum field theory.
+
+String Theory
+A possible candidate for the theory of everything, this theory combines the theory of general relativity and quantum mechanics to make a single theory. This theory can predict about properties of both small and big objects. This theory is currently under the developmental stage.
+
+Optics and acoustics
+Optics is the study of light motions including reflection, refraction, diffraction, and interference.
+Acoustics is the branch of physics involving the study of mechanical waves in different mediums.
+
+Condensed matter physics
+The study of the physical properties of matter in a condensed phase.
+
+High-energy particle physics and nuclear physics
+Particle physics studies the nature of particles, while nuclear physics studies the atomic nuclei.
+
+Cosmology
+Cosmology studies how the universe came to be, and its eventual fate. It is studied by physicists and astrophysicists.
+
+Interdisciplinary fields
+To the interdisciplinary fields, which define partially sciences of their own, belong e.g. the
+
+agrophysics is a branch of science bordering on agronomy and physics
+astrophysics, the physics in the universe, including the properties and interactions of celestial bodies in astronomy.
+space physics is the study of plasmas as they occur naturally in the Earth's upper atmosphere (aeronomy) and within the Solar System.
+biophysics, studying the physical interactions of biological processes.
+chemical physics, the science of physical relations in chemistry.
+computational physics, the application of computers and numerical methods to physical systems.
+econophysics, dealing with physical processes and their relations in the science of economy.
+environmental physics, the branch of physics concerned with the measurement and analysis of interactions between organisms and their environment.
+engineering physics, the combined discipline of physics and engineering.
+geophysics, the sciences of physical relations on our planet.
+mathematical physics, mathematics pertaining to physical problems.
+medical physics, the application of physics in medicine to prevention, diagnosis, and treatment.
+physical chemistry, dealing with physical processes and their relations in the science of physical chemistry.
+physical oceanography, is the study of physical conditions and physical processes within the ocean, especially the motions and physical properties of ocean waters
+psychophysics, the science of physical relations in psychology
+quantum computing, the study of quantum-mechanical computation systems.
+sociophysics or social physics, is a field of science which uses mathematical tools inspired by physics to understand the behavior of human crowds
+
+Summary
+The table below lists the core theories along with many of the concepts they employ.
+
+
+== References ==

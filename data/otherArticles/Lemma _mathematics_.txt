@@ -1,0 +1,17 @@
+In mathematics, informal logic and argument mapping, a lemma (pl.: lemmas or lemmata) is a generally minor, proven proposition which is used as a stepping stone to a larger result. For that reason, it is also known as a "helping theorem" or an "auxiliary theorem". In many cases, a lemma derives its importance from the theorem it aims to prove; however, a lemma can also turn out to be more important than originally thought.
+
+Etymology
+From the Ancient Greek λῆμμα, (perfect passive εἴλημμαι) something received or taken. Thus something taken for granted in an argument.
+
+Comparison with theorem
+There is no formal distinction between a lemma and a theorem, only one of intention (see Theorem terminology). However, a lemma can be considered a minor result whose sole purpose is to help prove a more substantial theorem – a step in the direction of proof.
+
+Well-known lemmas
+Some powerful results in mathematics are known as lemmas, first named for their originally minor purpose. These include, among others:
+
+While these results originally seemed too simple or too technical to warrant independent interest, they have eventually turned out to be central to the theories in which they occur.
+
+See also
+References
+External links
+Doron Zeilberger, Opinion 82: A Good Lemma is Worth a Thousand TheoremsThis article incorporates material from Lemma on PlanetMath, which is licensed under the Creative Commons Attribution/Share-Alike License.

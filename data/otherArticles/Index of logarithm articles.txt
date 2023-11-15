@@ -1,0 +1,83 @@
+This is a list of logarithm topics, by Wikipedia page. See also the list of exponential topics.
+
+Acoustic power
+Antilogarithm
+Apparent magnitude
+Baker's theorem
+Bel
+Benford's law
+Binary logarithm
+Bode plot
+Henry Briggs
+Bygrave slide rule
+Cologarithm
+Common logarithm
+Complex logarithm
+Discrete logarithm
+Discrete logarithm records
+e
+Representations of e
+El Gamal discrete log cryptosystem
+Harmonic series
+History of logarithms
+Hyperbolic sector
+Iterated logarithm
+Otis King
+Law of the iterated logarithm
+Linear form in logarithms
+Linearithmic
+List of integrals of logarithmic functions
+Logarithmic growth
+Logarithmic timeline
+Log-likelihood ratio
+Log-log graph
+Log-normal distribution
+Log-periodic antenna
+Log-Weibull distribution
+Logarithmic algorithm
+Logarithmic convolution
+Logarithmic decrement
+Logarithmic derivative
+Logarithmic differential
+Logarithmic differentiation
+Logarithmic distribution
+Logarithmic form
+Logarithmic graph paper
+Logarithmic growth
+Logarithmic identities
+Logarithmic number system
+Logarithmic scale
+Logarithmic spiral
+Logarithmic timeline
+Logit
+LogSumExp
+Mantissa is a disambiguation page; see common logarithm for the traditional concept of mantissa; see significand for the modern concept used in computing.
+Matrix logarithm
+Mel scale
+Mercator projection
+Mercator series
+Moment magnitude scale
+John Napier
+Napierian logarithm
+Natural logarithm
+Natural logarithm of 2
+Neper
+Offset logarithmic integral
+pH
+Pollard's kangaroo algorithm
+Pollard's rho algorithm for logarithms
+Polylogarithm
+Polylogarithmic function
+Prime number theorem
+Richter magnitude scale
+Grégoire de Saint-Vincent
+Alphonse Antonio de Sarasa
+Schnorr signature
+Semi-log graph
+Significand
+Slide rule
+Smearing retransformation
+Sound intensity level
+Super-logarithm
+Table of logarithms
+Weber-Fechner law

@@ -1,0 +1,4 @@
+For group decision-making, the hierarchical decision process (HDP) refines the classical analytic hierarchy process (AHP) a step further in eliciting and evaluating subjective judgements.  These improvements, proposed initially by Dr. Jang Ra (a student of Dr. Thomas L. Saaty who developed and refined AHP) include the constant-sum measurement scale (1–99 scale) for comparing two elements, the logarithmic least squares method (LLSM) for computing normalized values, the sum of inverse column sums (SICS) for measuring the degree of (in)consistency, and sensitivity analysis of pairwise comparisons matrices.  These subtle modifications address issues concerning normal AHP consistency and applicability in the process of constructing hierarchies: generating criteria, classifying/selecting criteria, and screening/selecting decision alternatives.
+
+
+== References ==

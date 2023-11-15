@@ -1,0 +1,517 @@
+In mathematics, given a partial order 
+  
+    
+      
+        ⪯
+      
+    
+    {\displaystyle \preceq }
+   and 
+  
+    
+      
+        ⊑
+      
+    
+    {\displaystyle \sqsubseteq }
+   on a set 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   and 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  , respectively, the product order (also called the coordinatewise order or componentwise order) is a partial ordering 
+  
+    
+      
+        ≤
+      
+    
+    {\displaystyle \leq }
+   on the Cartesian product 
+  
+    
+      
+        A
+        ×
+        B
+        .
+      
+    
+    {\displaystyle A\times B.}
+   Given two pairs 
+  
+    
+      
+        
+          (
+          
+            
+              a
+              
+                1
+              
+            
+            ,
+            
+              b
+              
+                1
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \left(a_{1},b_{1}\right)}
+   and 
+  
+    
+      
+        
+          (
+          
+            
+              a
+              
+                2
+              
+            
+            ,
+            
+              b
+              
+                2
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \left(a_{2},b_{2}\right)}
+   in 
+  
+    
+      
+        A
+        ×
+        B
+        ,
+      
+    
+    {\displaystyle A\times B,}
+   declare that 
+  
+    
+      
+        
+          (
+          
+            
+              a
+              
+                1
+              
+            
+            ,
+            
+              b
+              
+                1
+              
+            
+          
+          )
+        
+        ≤
+        
+          (
+          
+            
+              a
+              
+                2
+              
+            
+            ,
+            
+              b
+              
+                2
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \left(a_{1},b_{1}\right)\leq \left(a_{2},b_{2}\right)}
+   if 
+  
+    
+      
+        
+          a
+          
+            1
+          
+        
+        ⪯
+        
+          a
+          
+            2
+          
+        
+      
+    
+    {\displaystyle a_{1}\preceq a_{2}}
+   and 
+  
+    
+      
+        
+          b
+          
+            1
+          
+        
+        ⊑
+        
+          b
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle b_{1}\sqsubseteq b_{2}.}
+   
+Another possible ordering on 
+  
+    
+      
+        A
+        ×
+        B
+      
+    
+    {\displaystyle A\times B}
+   is the lexicographical order, which is a total ordering. However the product order of two total orders is not in general total; for example, the pairs 
+  
+    
+      
+        (
+        0
+        ,
+        1
+        )
+      
+    
+    {\displaystyle (0,1)}
+   and 
+  
+    
+      
+        (
+        1
+        ,
+        0
+        )
+      
+    
+    {\displaystyle (1,0)}
+   are incomparable in the product order of the ordering 
+  
+    
+      
+        0
+        <
+        1
+      
+    
+    {\displaystyle 0<1}
+   with itself. The lexicographic combination of two total orders is a linear extension of their product order, and thus the product order is a subrelation of the lexicographic order.The Cartesian product with the product order is the categorical product in the category of partially ordered sets with monotone functions.The product order generalizes to arbitrary (possibly infinitary) Cartesian products. 
+Suppose 
+  
+    
+      
+        A
+        ≠
+        ∅
+      
+    
+    {\displaystyle A\neq \varnothing }
+   is a set and for every 
+  
+    
+      
+        a
+        ∈
+        A
+        ,
+      
+    
+    {\displaystyle a\in A,}
+   
+  
+    
+      
+        
+          (
+          
+            
+              I
+              
+                a
+              
+            
+            ,
+            ≤
+          
+          )
+        
+      
+    
+    {\displaystyle \left(I_{a},\leq \right)}
+   is a preordered set. 
+Then the product preorder on 
+  
+    
+      
+        
+          ∏
+          
+            a
+            ∈
+            A
+          
+        
+        
+          I
+          
+            a
+          
+        
+      
+    
+    {\displaystyle \prod _{a\in A}I_{a}}
+   is defined by declaring for any 
+  
+    
+      
+        
+          i
+          
+            ∙
+          
+        
+        =
+        
+          
+            (
+            
+              i
+              
+                a
+              
+            
+            )
+          
+          
+            a
+            ∈
+            A
+          
+        
+      
+    
+    {\displaystyle i_{\bullet }=\left(i_{a}\right)_{a\in A}}
+   and 
+  
+    
+      
+        
+          j
+          
+            ∙
+          
+        
+        =
+        
+          
+            (
+            
+              j
+              
+                a
+              
+            
+            )
+          
+          
+            a
+            ∈
+            A
+          
+        
+      
+    
+    {\displaystyle j_{\bullet }=\left(j_{a}\right)_{a\in A}}
+   in 
+  
+    
+      
+        
+          ∏
+          
+            a
+            ∈
+            A
+          
+        
+        
+          I
+          
+            a
+          
+        
+        ,
+      
+    
+    {\displaystyle \prod _{a\in A}I_{a},}
+   that 
+
+  
+    
+      
+        
+          i
+          
+            ∙
+          
+        
+        ≤
+        
+          j
+          
+            ∙
+          
+        
+      
+    
+    {\displaystyle i_{\bullet }\leq j_{\bullet }}
+   if and only if 
+  
+    
+      
+        
+          i
+          
+            a
+          
+        
+        ≤
+        
+          j
+          
+            a
+          
+        
+      
+    
+    {\displaystyle i_{a}\leq j_{a}}
+   for every 
+  
+    
+      
+        a
+        ∈
+        A
+        .
+      
+    
+    {\displaystyle a\in A.}
+  If every 
+  
+    
+      
+        
+          (
+          
+            
+              I
+              
+                a
+              
+            
+            ,
+            ≤
+          
+          )
+        
+      
+    
+    {\displaystyle \left(I_{a},\leq \right)}
+   is a partial order then so is the product preorder. 
+Furthermore, given a set 
+  
+    
+      
+        A
+        ,
+      
+    
+    {\displaystyle A,}
+   the product order over the Cartesian product 
+  
+    
+      
+        
+          ∏
+          
+            a
+            ∈
+            A
+          
+        
+        {
+        0
+        ,
+        1
+        }
+      
+    
+    {\displaystyle \prod _{a\in A}\{0,1\}}
+   can be identified with the inclusion ordering of subsets of 
+  
+    
+      
+        A
+        .
+      
+    
+    {\displaystyle A.}
+  The notion applies equally well to preorders. The product order is also the categorical product in a number of richer categories, including lattices and Boolean algebras.
+
+References
+See also
+Direct product of binary relations
+Examples of partial orders
+Star product, a different way of combining partial orders
+Orders on the Cartesian product of totally ordered sets
+Ordinal sum of partial orders
+Ordered vector space – Vector space with a partial order

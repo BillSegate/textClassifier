@@ -1,0 +1,14 @@
+Radiophysics (also modern writing radio physics) is a branch of physics focused on the theoretical and experimental study of certain kinds of radiation, its emission, propagation and interaction with matter.
+The term is used in the following major meanings: 
+
+study of radio waves (the original area of research)
+study of radiation used in radiology
+study of other ranges of the spectrum of electromagnetic radiation in some specific applicationsAmong the main applications of radiophysics are radio communications, radiolocation, radio astronomy and radiology.
+
+Branches
+Classical radiophysics deals with radio wave communications and detection
+Quantum radiophysics (physics of lasers and masers; Nikolai Basov was the founder of quantum radiophysics in the Soviet Union)
+Statistical radiophysics
+
+
+== References ==

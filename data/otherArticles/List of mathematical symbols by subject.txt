@@ -1,0 +1,187 @@
+The following list of mathematical symbols by subject features a selection of the most common symbols used in modern mathematical notation within formulas, grouped by mathematical topic. As it is impossible to know if a complete list existing today of all symbols used in history is a representation of all ever used in history, as this would necessitate knowing if extant records are of all usages, only those symbols which occur often in mathematics or mathematics education are included. Many of the characters are standardized, for example in DIN 1302 General mathematical symbols or DIN EN ISO 80000-2 Quantities and units – Part 2: Mathematical signs for science and technology.
+The following list is largely limited to non-alphanumeric characters. It is divided by areas of mathematics and grouped within sub-regions. Some symbols have a different meaning depending on the context and appear accordingly several times in the list. Further information on the symbols and their meaning can also be found in the respective linked articles.
+
+Guide
+The following information is provided for each mathematical symbol:
+
+Symbol
+The symbol as it is represented by LaTeX. If there are several typographic variants, only one of the variants is shown.
+Usage
+An exemplary use of the symbol in a formula. Letters here stand as a placeholder for numbers, variables or complex expressions. Different possible applications are listed separately.
+Articles with usage
+Examples of Wikipedia articles in which the symbol is used.
+LaTeX
+The LaTeX command that creates the icon. Characters from the ASCII character set can be used directly, with a few exceptions (e.g., pound sign #, backslash \, braces {}, and percent sign %). High-and low-position is indicated via the ^ and _ characters, and is not explicitly specified.
+HTML
+The icon in HTML, if it is defined as a named mark. Non-named characters can be indicated in the form &#xnnnn by specifying the Unicode code point of the next column. High-and low-position can be indicated via <sup></sup> and <sub></sub>. The character × whose HTML code is times can be displayed by typing &times;.
+Unicode
+The code point of the corresponding Unicode character. Some characters are combining and require the entry of additional characters. For brackets, the code points of opening and closing forms are specified. The Unicode character ⨯ whose hexadecimal value is U+2A2F can be displayed by typing &#x2A2F; where #x indicates that the value in hexadecimal.
+
+Numbers
+Number sets
+Intervals
+Mathematical constants
+Complex numbers
+Remark: real and imaginary parts of a complex number are often also denoted by 
+  
+    
+      
+        Re
+      
+    
+    {\displaystyle \operatorname {Re} }
+   and 
+  
+    
+      
+        Im
+      
+    
+    {\displaystyle \operatorname {Im} }
+  .
+
+Elementary arithmetic operations
+Elementary functions
+Note: the power function is not represented by its own icon, but by the positioning of the exponent as a superscript.
+
+Trigonometric functions
+Arithmetic comparison
+See also: Order relations, Set relations
+
+Number theory
+Divisibility and modulo
+Combinatorics
+Stochastics
+Probability theory
+Remark: for operators there are several notational variants; instead of round brackets also square brackets are used
+
+Statistics
+Calculus
+Sequences and series
+Limits
+Differential calculus
+Integral calculus
+Vector calculus
+Asymptotic behaviour
+Linear algebra
+Vectors and matrices
+Vector operations
+Matrix operations
+Vector spaces
+Functional analysis
+Logic
+The current Wikipedia guidelines advise against unnecessary use of ∀, ∃, and ⇔ and instead recommend writing out "for all", "there exists", and "if and only if." The same is true of abbreviations such as "iff", "s.t.", and "WLOG".
+
+Equality signs
+Logical operators
+Quantifiers
+Deduction symbols
+End of proof symbols
+Formal language and strings
+Functions and category theory
+Functions
+Morphisms
+Constructions
+Set theory
+Definition symbols
+Set construction
+Separator symbols
+To scale a set's braces \{ \} to the size of the set's content, use \left\{  \right\}. 
+Wikipedia does not support \middle as that requires e-TeX, although \big|, \Big|, \bigg|, or \Bigg| can be used in place of \middle|. However, unlike with \mid, whitespace \; around the bar | must be inserted manually; for example: \;\big|\; or \mathrel{}\big|\mathrel{}.
+
+Set operations
+Set relations
+Note: The symbols 
+  
+    
+      
+        ⊂
+      
+    
+    {\displaystyle \subset }
+   and 
+  
+    
+      
+        ⊃
+      
+    
+    {\displaystyle \supset }
+   are used inconsistently and often do not exclude the equality of the two quantities.
+
+Cardinality
+Equivalence classes/relations
+Order theory
+Comparisons
+See also: Arithmetic comparison, Set relations
+
+Binary relations
+Algebra
+Group theory
+Field theory
+Ring theory
+Geometry
+Euclidean geometry
+Differential geometry
+Topology
+See also
+By type of symbol
+List of letters used in mathematics, science, and engineering
+Greek letters used in mathematics, science, and engineering
+Latin letters used in mathematics, science, and engineering
+Blackboard bold
+Diacritic
+
+By topic area
+Glossary of mathematical symbols
+List of logic symbols
+APL syntax and symbols
+List of common physics notations
+Notation in probability and statistics
+Physical constants
+
+General
+List of mathematical abbreviations
+Mathematical notation
+Language of mathematics
+
+Unicode
+Lists of Mathematical operators and symbols in Unicode
+Mathematical Operators and Supplemental Mathematical Operators
+List of mathematical symbols
+Miscellaneous Math Symbols: A, B, Technical
+Arrow (symbol) and Miscellaneous Symbols and Arrows and arrow symbols
+ISO 31-11 (Mathematical signs and symbols for use in physical sciences and technology)
+Number Forms
+Geometric Shapes
+Mathematical Alphanumeric Symbols, a Unicode block
+Mathematical constants and functions
+Table of mathematical symbols by introduction date
+List of Unicode characters
+Letterlike Symbols
+Unicode block
+
+Bibliography
+Tilo Arens; Frank Hettlich; Christian Karpfinger; Ulrich Kockelkorn; Klaus Lichtenegger; Hellmuth Stachel (2011), Mathematik (in German) (2. ed.), Spektrum Akademischer Verlag, pp. 1483ff, ISBN 978-3-827-42347-4
+Wolfgang Hackbusch (2010), Taschenbuch der Mathematik, Band 1 (in German) (3. ed.), Springer, pp. 1275ff, ISBN 978-3-835-10123-4
+Deutsches Institut für Normung: DIN 1302: Allgemeine mathematische Zeichen und Begriffe, Beuth-Verlag, 1999.
+Deutsches Institut für Normung: DIN 1303: Vektoren, Matrizen, Tensoren; Zeichen und Begriffe, Beuth-Verlag, 1987.
+International Standards Organisation: DIN EN ISO 80000-2: Größen und Einheiten – Teil 2: Mathematische Zeichen für Naturwissenschaft und Technik, 2013.
+
+External links
+LaTeX and Unicode
+
+Symbols defined by unicode-math - Lists LaTeX and corresponding Unicode symbols
+Unicode characters and corresponding LaTeX math mode commandLaTeX
+
+Scott Pakin (25 June 2020). "The Comprehensive LaTeX Symbol List" (PDF; 4,4 MB). The Comprehensive TeX Archive Network (CTAN). Retrieved 8 August 2020.
+Detexify − Online tool: Find LaTeX code for a symbol by drawing it.Unicode
+
+Symbols defined by unicode-math
+"Mathematical Operators – Unicode" (PDF). Retrieved 2013-07-20.
+Lists Unicode Block "Mathematical Operators"
+Lists Unicode Block "Supplemental Mathematical Operators"
+Lists Unicode Block "Miscellaneous Mathematical Symbols-A"
+Lists Unicode Block "Miscellaneous Mathematical Symbols-B"
+Lists Unicode Block "Mathematical Alphanumeric Symbols
+Shapecatcher − Online tool: Find Unicode and HTML codes for a symbol by drawing it.

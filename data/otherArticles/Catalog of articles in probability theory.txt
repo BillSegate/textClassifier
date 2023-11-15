@@ -1,0 +1,116 @@
+This page lists articles related to probability theory. In particular, it lists many articles corresponding to specific probability distributions. Such articles are marked here by a code of the form (X:Y), which refers to number of random variables involved and the type of the distribution. For example (2:DC) indicates a distribution with two random variables, discrete or continuous. Other codes are just abbreviations for topics. The list of codes can be found in the table of contents.
+
+Core probability: selected topics
+Probability theory
+
+Basic notions (bsc)
+Instructive examples (paradoxes) (iex)
+Moments (mnt)
+Inequalities (inq)
+Markov chains, processes, fields, networks (Mar)
+Gaussian random variables, vectors, functions (Gau)
+Conditioning (cnd)
+Specific distributions (spd)
+Empirical measure (emm)
+Limit theorems (lmt)
+Large deviations (lrd)
+Random graphs (rgr)
+Random matrices (rmt)
+Stochastic calculus (scl)
+Malliavin calculus (Mal)
+Random dynamical systems (rds)
+Random dynamical system / scl
+
+Absorbing set
+Base flow
+Pullback attractor
+
+Analytic aspects (including measure theoretic) (anl)
+Core probability: other articles, by number and type of random variables
+A single random variable (1:)
+Binary (1:B)
+Discrete (1:D)
+Continuous (1:C)
+Real-valued, arbitrary (1:R)
+Random point of a manifold (1:M)
+Bertrand's paradox / (1:M)
+
+General (random element of an abstract space) (1:G)
+Pitman–Yor process / (1:G)
+Random compact set / (1:G)
+Random element / (1:G)
+
+Two random variables (2:)
+Binary (2:B)
+Coupling / (2:BRG)
+Craps principle / (2:B)
+
+Discrete (2:D)
+Kullback–Leibler divergence / (2:DCR)
+Mutual information / (23F:DC)
+
+Continuous (2:C)
+Real-valued, arbitrary (2:R)
+General (random element of an abstract space) (2:G)
+Coupling / (2:BRG)
+Lévy–Prokhorov metric / (2:G)
+Wasserstein metric / (2:G)
+
+Three random variables (3:)
+Binary (3:B)
+Pairwise independence / (3:B) (F:R)
+
+Discrete (3:D)
+Mutual information / (23F:DC)
+
+Continuous (3:C)
+Mutual information / (23F:DC)
+
+Finitely many random variables (F:)
+Binary (F:B)
+Discrete (F:D)
+Continuous (F:C)
+Real-valued, arbitrary (F:R)
+General (random element of an abstract space) (F:G)
+Finite-dimensional distribution / (FU:G)
+Hitting time / (FU:G)
+Stopped process / (FU:DG)
+
+A large number of random variables (finite but tending to infinity) (L:)
+Binary (L:B)
+Random walk / (FLS:BD) (U:C)
+
+Discrete (L:D)
+Real-valued, arbitrary (L:R)
+An infinite sequence of random variables (S:)
+Binary (S:B)
+Discrete (S:D)
+Continuous (S:C)
+Real-valued, arbitrary (S:R)
+General (random element of an abstract space) (S:G)
+Uncountably many random variables (continuous-time processes etc) (U:)
+Discrete (U:D)
+Continuous (U:C)
+Real-valued, arbitrary (U:R)
+General (random element of an abstract space) (U:G)
+Around the core
+General aspects (grl)
+Foundations of probability theory (fnd)
+Gambling (gmb)
+Coincidence (cnc)
+Algorithmics (alg)
+Bayesian approach (Bay)
+Financial mathematics (fnc)
+Physics (phs)
+Genetics (gnt)
+Stochastic process (spr)
+Geometric probability (geo)
+Empirical findings (emp)
+Benford's law
+Pareto principle
+
+Historical (hst)
+Miscellany (msc)
+Counters of articles
+
+Here k(n) means: n links to k articles. (Some articles are linked more than once.)

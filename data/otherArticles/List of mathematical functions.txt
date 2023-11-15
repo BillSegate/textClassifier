@@ -1,0 +1,116 @@
+In mathematics, some functions or groups of functions are important enough to deserve their own names. This is a listing of articles which explain some of these functions in more detail. There is a large theory of special functions which developed out of statistics and mathematical physics. A modern, abstract point of view contrasts large function spaces, which are infinite-dimensional and within which most functions are 'anonymous', with special functions picked out by properties such as symmetry, or relationship to harmonic analysis and group representations.
+See also List of types of functions
+
+Elementary functions
+Elementary functions are functions built from basic operations (e.g. addition, exponentials, logarithms...)
+
+Algebraic functions
+Algebraic functions are functions that can be expressed as the solution of a polynomial equation with integer coefficients.
+
+Polynomials: Can be generated solely by addition, multiplication, and raising to the power of a positive integer.
+Constant function: polynomial of degree zero, graph is a horizontal straight line
+Linear function: First degree polynomial, graph is a straight line.
+Quadratic function: Second degree polynomial, graph is a parabola.
+Cubic function: Third degree polynomial.
+Quartic function: Fourth degree polynomial.
+Quintic function: Fifth degree polynomial.
+Sextic function: Sixth degree polynomial.
+Rational functions: A ratio of two polynomials.
+nth root
+Square root: Yields a number whose square is the given one.
+Cube root: Yields a number whose cube is the given one.
+
+Elementary transcendental functions
+Transcendental functions are functions that are not algebraic.
+
+Exponential function: raises a fixed number to a variable power.
+Hyperbolic functions: formally similar to the trigonometric functions.
+Logarithms: the inverses of exponential functions; useful to solve equations involving exponentials.
+Natural logarithm
+Common logarithm
+Binary logarithm
+Power functions: raise a variable number to a fixed power; also known as Allometric functions; note: if the power is a rational number it is not strictly a transcendental function.
+Periodic functions
+Trigonometric functions: sine, cosine, tangent, cotangent, secant, cosecant, exsecant, excosecant, versine, coversine, vercosine, covercosine, haversine, hacoversine, havercosine, hacovercosine, etc.; used in geometry and to describe periodic phenomena. See also Gudermannian function.
+
+Special functions
+Piecewise special functions
+Arithmetic functions
+Sigma function: Sums of powers of divisors of a given natural number.
+Euler's totient function: Number of numbers coprime to (and not bigger than) a given one.
+Prime-counting function:  Number of primes less than or equal to a given number.
+Partition function:  Order-independent count of ways to write a given positive integer as a sum of positive integers.
+Möbius μ function: Sum of the nth primitive roots of unity, it depends on the prime factorization of n.
+Prime omega functions
+Chebyshev functions
+Liouville function, λ(n) = (–1)Ω(n)
+Von Mangoldt function, Λ(n) = log p if n is a positive power of the prime p
+Carmichael function
+
+Antiderivatives of elementary functions
+Logarithmic integral function: Integral of the reciprocal of the logarithm, important in the prime number theorem.
+Exponential integral
+Trigonometric integral: Including Sine Integral and Cosine Integral
+Inverse tangent integral
+Error function: An integral important for normal random variables.
+Fresnel integral: related to the error function; used in optics.
+Dawson function: occurs in probability.
+Faddeeva function
+
+Gamma and related functions
+Gamma function: A generalization of the factorial function.
+Barnes G-function
+Beta function: Corresponding binomial coefficient analogue.
+Digamma function, Polygamma function
+Incomplete beta function
+Incomplete gamma function
+K-function
+Multivariate gamma function: A generalization of the Gamma function useful in multivariate statistics.
+Student's t-distribution
+Pi function Π(z)= zΓ(z)= (z)!
+
+Elliptic and related functions
+Bessel and related functions
+Riemann zeta and related functions
+Hypergeometric and related functions
+Hypergeometric functions: Versatile family of power series.
+Confluent hypergeometric function
+Associated Legendre functions
+Meijer G-function
+Fox H-function
+
+Iterated exponential and related functions
+Hyper operators
+Iterated logarithm
+Pentation
+Super-logarithms
+Super-roots
+Tetration
+
+Other standard special functions
+Lambert W function: Inverse of f(w) = w exp(w).
+Lamé function
+Mathieu function
+Mittag-Leffler function
+Painlevé transcendents
+Parabolic cylinder function
+Arithmetic–geometric mean
+
+Miscellaneous functions
+Ackermann function: in the theory of computation, a computable function that is not primitive recursive.
+Dirac delta function: everywhere zero except for x = 0; total integral is 1. Not a function but a distribution, but sometimes informally referred to as a function, particularly by physicists and engineers.
+Dirichlet function: is an indicator function that matches 1 to rational numbers and 0 to irrationals. It is nowhere continuous.
+Thomae's function: is a function that is continuous at all irrational numbers and discontinuous at all rational numbers. It is also a modification of Dirichlet function and sometimes called Riemann function.
+Kronecker delta function: is a function of two variables, usually integers, which is 1 if they are equal, and 0 otherwise.
+Minkowski's question mark function: Derivatives vanish on the rationals.
+Weierstrass function: is an example of continuous function that is nowhere differentiable
+
+See also
+List of types of functions
+Test functions for optimization
+List of mathematical abbreviations
+List of special functions and eponyms
+
+External links
+Special functions : A programmable special functions calculator.
+Special functions at EqWorld: The World of Mathematical Equations.

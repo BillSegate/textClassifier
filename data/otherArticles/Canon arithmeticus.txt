@@ -1,0 +1,12 @@
+The Canon arithmeticus is a set of mathematical tables of indices and powers with respect to primitive roots for prime powers less than 1000, originally published by Carl Gustav Jacob Jacobi (1839). The tables were at one time used for arithmetical calculations modulo prime powers, though like many mathematical tables they have now been replaced by digital computers. Jacobi also reproduced Burkhardt's table of the periods of decimal fractions of 1/p, and Ostrogradsky's tables of primitive roots of primes less than 200, and gave tables of indices of some odd numbers modulo powers of 2 with respect to the base 3 (Dickson 2005, p.185–186).
+Although the second edition of 1956 has Jacobi's name on the title, it has little in common with the first edition apart from the topic: the tables were completely recalculated, usually with a different choice of primitive root, by Wilhelm Patz. Jacobi's original tables use 10 or –10 or a number with a small power of this form as the primitive root whenever possible, while the second edition uses the smallest possible positive primitive root (Fletcher 1958).
+The term "canon arithmeticus" is occasionally used to mean any table of indices and powers of primitive roots.
+
+References
+Dickson, Leonard Eugene (2005) [1919], History of the theory of numbers. Vol. I: Divisibility and primality., New York: Dover Publications, ISBN 978-0-486-44232-7, MR 0245499
+Fletcher, A. (1958), "Canon Arithmeticus by C. G. J. Jacobi; H. Brandt", The Mathematical Gazette, Review, The Mathematical Association, 42 (339): 76–77, doi:10.2307/3608400, ISSN 0025-5572, JSTOR 3608400, S2CID 246262528
+Jacobi, Carl Gustav Jacob (1839), Canon arithmeticus, sive tabulae quibus exhibentur pro singulis numeris primis vel primorum potestatibus infra 1000 numeri ad datos indices et indices ad datos numeros pertinentes, Berlin: Typis Academicis, Berolini, MR 0081559
+Jacobi, Carl Gustav Jacob (1956) [1839], Brandt, Heinrich; Patz, Wilhelm (eds.), Canon arithmeticus, Mathematische Lehrbücher und Monographien: Mathematische Monographien, vol. 2, Berlin: Akademie-Verlag, MR 0081559
+
+See also
+A. W. Faber Model 366, a discrete slide rule incorporating similar concepts to the Canon arithmeticus

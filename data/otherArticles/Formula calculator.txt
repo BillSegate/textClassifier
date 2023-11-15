@@ -1,0 +1,59 @@
+A formula calculator is a software calculator that can perform a calculation in two steps:
+
+Enter the calculation by typing it in from the keyboard.
+Press a single button or key to see the final result.This is unlike button-operated calculators, such as the Windows calculator or the Mac OS X calculator, which require the user to perform one step for each operation, by pressing buttons to calculate all the intermediate values, before the final result is shown.
+In this context, a formula is also known as an expression, and so formula calculators may be called expression calculators. Also in this context, calculation is known as evaluation, and so they may be called formula evaluators, rather than calculators.
+
+How they work
+Formulas as they are commonly written use infix notation for binary operators, such as addition, multiplication, division and subtraction. This notation also uses:
+
+Parentheses to enclose parts of a formula that must be calculated first.
+In the absence of parentheses, operator precedence, so that higher precedence operators, such as multiplication, must be applied before lower precedence operators, such as addition. For example, in 2 + 3*4, the multiplication, 3*4, is done first.
+Among operators with the same precedence, associativity, so that the left-most operator must be applied first. For example, in 2 - 3 + 4, the subtraction, 2 - 3, is done first.Also, formulas may contain:
+
+Non-commutative operators that must be applied to numbers in the correct order, such as subtraction and division.
+The same symbol used for more than one purpose, such as - for negative numbers and subtraction.Once a formula is entered, a formula calculator follows the above rules to produce the final result by automatically:
+
+Analysing the formula and breaking it down into its constituent parts, such as operators, numbers and parentheses.
+Finding both operands of each binary operator.
+Working out the values of these operands.
+Applying the operator to these values, in the correct order so as to allow for non-commutative operators.
+Evaluating the parts of a formula in parentheses first.
+Taking operator precedence and associativity into account.
+Distinguishing between different uses of the same symbol.
+
+Types of calculator
+The formula calculator concept can be applied to all types of calculator, including arithmetic, scientific, statistics, financial and conversion calculators.
+The calculation can be typed or pasted into an edit box of:
+
+A software package that runs on a computer, for example as a dialog box.
+An on-line formula calculator hosted on a web site.It can also be entered on the command line of a programming language.
+
+Related software packages
+Although they are not calculators in themselves, because they have a much broader feature set, many software tools have a formula-calculation capability, in that a formula can be typed in and evaluated. These include:
+
+Spreadsheets, where a formula can be entered to calculate a cell’s content.
+Databases, where a formula can be used to define the value of a calculated field in a record.
+
+Declarative and imperative tools
+Button-operated calculators are imperative, because the user must provide details of how the calculation has to be performed.On the other hand, formula calculators are more declarative, because the entered formula specifies what to do, and the user does not have to provide any details of the step-by-step order in which the calculation has to be performed.
+Declarative solutions are easier to understand than imperative solutions, and so there has been a long-term trend from imperative to declarative methods. Formula calculators are part of this trend.
+Many software tools for the general user, such as spreadsheets, are declarative. Formula calculators are examples of such tools.
+
+Hybrid calculators
+There are hybrid calculators that combine typed-in formulae and button-operated calculation. For example:
+
+Calculations can be entered entirely from the keyboard, or operations can be applied to typed-in numbers or formulas using buttons, in the same calculator.
+Formulas can be constructed using buttons, rather than being entered from the keyboard.
+Formula copies of button-operated calculations can be created, saved and re-loaded for application to different numbers.
+
+See also
+Software calculator
+Comparison of software calculators
+Calculator
+Calculator input methods
+Programmable calculator
+Scientific calculator
+
+
+== References ==

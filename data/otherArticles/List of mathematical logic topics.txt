@@ -1,0 +1,422 @@
+This is a list of mathematical logic topics.
+For traditional syllogistic logic, see the list of topics in logic. See also the list of computability and complexity topics for more theory of algorithms.
+
+Working foundations
+Peano axioms
+Giuseppe Peano
+Mathematical induction
+Structural induction
+Recursive definition
+Naive set theory
+Element (mathematics)
+Ur-element
+Singleton (mathematics)
+Simple theorems in the algebra of sets
+Algebra of sets
+Power set
+Empty set
+Non-empty set
+Empty function
+Universe (mathematics)
+Axiomatization
+Axiomatic system
+Axiom schema
+Axiomatic method
+Formal system
+Mathematical proof
+Direct proof
+Reductio ad absurdum
+Proof by exhaustion
+Constructive proof
+Nonconstructive proof
+Tautology
+Consistency proof
+Arithmetization of analysis
+Foundations of mathematics
+Formal language
+Principia Mathematica
+Hilbert's program
+Impredicative
+Definable real number
+Algebraic logic
+Boolean algebra (logic)
+Dialectica space
+categorical logic
+
+Model theory
+Finite model theory
+Descriptive complexity theory
+Model checking
+Trakhtenbrot's theorem
+Computable model theory
+Tarski's exponential function problem
+Undecidable problem
+Institutional model theory
+Institution (computer science)
+Non-standard analysis
+Non-standard calculus
+Hyperinteger
+Hyperreal number
+Transfer principle
+Overspill
+Elementary Calculus: An Infinitesimal Approach
+Criticism of non-standard analysis
+Standard part function
+Set theory
+Forcing (mathematics)
+Boolean-valued model
+Kripke semantics
+General frame
+Predicate logic
+First-order logic
+Infinitary logic
+Many-sorted logic
+Higher-order logic
+Lindström quantifier
+Second-order logic
+Soundness theorem
+Gödel's completeness theorem
+Original proof of Gödel's completeness theorem
+Compactness theorem
+Löwenheim–Skolem theorem
+Skolem's paradox
+Gödel's incompleteness theorems
+Structure (mathematical logic)
+Interpretation (logic)
+Substructure (mathematics)
+Elementary substructure
+Skolem hull
+Non-standard model
+Atomic model (mathematical logic)
+Prime model
+Saturated model
+Existentially closed model
+Ultraproduct
+Age (model theory)
+Amalgamation property
+Hrushovski construction
+Potential isomorphism
+Theory (mathematical logic)
+Complete theory
+Vaught's test
+Morley's categoricity theorem
+Stability spectrum
+Morley rank
+Stable theory
+Forking extension
+Strongly minimal theory
+Stable group
+Tame group
+o-minimal theory
+Weakly o-minimal structure
+C-minimal theory
+Spectrum of a theory
+Vaught conjecture
+Model complete theory
+List of first-order theories
+Conservative extension
+Elementary class
+Pseudoelementary class
+Strength (mathematical logic)
+Differentially closed field
+Exponential field
+Ax–Grothendieck theorem
+Ax–Kochen theorem
+Peano axioms
+Non-standard model of arithmetic
+First-order arithmetic
+Second-order arithmetic
+Presburger arithmetic
+Wilkie's theorem
+Functional predicate
+T-schema
+Back-and-forth method
+Barwise compactness theorem
+Skolemization
+Lindenbaum–Tarski algebra
+Löb's theorem
+Arithmetical set
+Definable set
+Ehrenfeucht–Fraïssé game
+Herbrand interpretation / Herbrand structure
+Imaginary element
+Indiscernibles
+Interpretation (model theory) / Interpretable structure
+Pregeometry (model theory)
+Quantifier elimination
+Reduct
+Signature (logic)
+Skolem normal form
+Type (model theory)
+Zariski geometry
+
+Set theory
+Algebra of sets  
+Axiom of choice  
+Axiom of countable choice  
+Axiom of dependent choice  
+Zorn's lemma  
+Boolean algebra (structure)
+Boolean-valued model  
+Burali-Forti paradox  
+Cantor's back-and-forth method  
+Cantor's diagonal argument  
+Cantor's first uncountability proof  
+Cantor's theorem  
+Cantor–Bernstein–Schroeder theorem  
+Cardinality  
+Aleph number  
+Aleph-null  
+Aleph-one  
+Beth number  
+Cardinal number  
+Hartogs number  
+Cartesian product  
+Class (set theory)  
+Complement (set theory)  
+Complete Boolean algebra  
+Continuum (set theory)  
+Suslin's problem  
+Continuum hypothesis  
+Countable set  
+Descriptive set theory  
+Analytic set  
+Analytical hierarchy  
+Borel equivalence relation  
+Infinity-Borel set  
+Lightface analytic game  
+Perfect set property  
+Polish space  
+Prewellordering  
+Projective set  
+Property of Baire  
+Uniformization (set theory)  
+Universally measurable set  
+Determinacy  
+AD+  
+Axiom of determinacy  
+Axiom of projective determinacy  
+Axiom of real determinacy  
+Empty set  
+Forcing (mathematics)  
+Fuzzy set  
+Internal set theory  
+Intersection (set theory)  
+L  
+L(R)  
+Large cardinal property  
+Musical set theory  
+Ordinal number  
+Infinite descending chain  
+Limit ordinal  
+Successor ordinal  
+Transfinite induction  
+∈-induction  
+Well-founded set  
+Well-order  
+Power set  
+Russell's paradox  
+Set theory  
+Alternative set theory  
+Axiomatic set theory  
+Kripke–Platek set theory with urelements  
+Morse–Kelley set theory  
+Naive set theory  
+New Foundations  
+Positive set theory  
+Zermelo–Fraenkel set theory  
+Zermelo set theory  
+Set (mathematics)  
+Simple theorems in the algebra of sets  
+Subset  
+Θ (set theory)  
+Tree (descriptive set theory)  
+Tree (set theory)  
+Union (set theory)  
+Von Neumann universe  
+Zero sharp
+
+Descriptive set theory
+Analytical hierarchy
+
+Large cardinals
+Almost Ramsey cardinal
+Erdős cardinal
+Extendible cardinal
+Huge cardinal
+Hyper-Woodin cardinal
+Inaccessible cardinal
+Ineffable cardinal
+Mahlo cardinal
+Measurable cardinal
+N-huge cardinal
+Ramsey cardinal
+Rank-into-rank
+Remarkable cardinal
+Shelah cardinal
+Strong cardinal
+Strongly inaccessible cardinal
+Subtle cardinal
+Supercompact cardinal
+Superstrong cardinal
+Totally indescribable cardinal
+Weakly compact cardinal
+Weakly hyper-Woodin cardinal
+Weakly inaccessible cardinal
+Woodin cardinal
+Unfoldable cardinal
+
+Recursion theory
+Entscheidungsproblem
+Decision problem
+Decidability (logic)
+Church–Turing thesis
+Computable function
+Algorithm
+Recursion
+Primitive recursive function
+Mu operator
+Ackermann function
+Turing machine
+Halting problem
+Computability theory, computation
+Herbrand Universe
+Markov algorithm
+Lambda calculus
+Church-Rosser theorem
+Calculus of constructions
+Combinatory logic
+Post correspondence problem
+Kleene's recursion theorem
+Recursively enumerable set
+Recursively enumerable language
+Decidable language
+Undecidable language
+Rice's theorem
+Post's theorem
+Turing degree
+Effective results in number theory
+Diophantine set
+Matiyasevich's theorem
+Word problem for groups
+Arithmetical hierarchy
+Subrecursion theory
+Presburger arithmetic
+Computational complexity theory
+Polynomial time
+Exponential time
+Complexity class
+Complexity classes P and NP
+Cook's theorem
+List of complexity classes
+Polynomial hierarchy
+Exponential hierarchy
+NP-complete
+Time hierarchy theorem
+Space hierarchy theorem
+Natural proof
+Hypercomputation
+Oracle machine
+Rózsa Péter
+Alonzo Church
+Emil Post
+Alan Turing
+Jacques Herbrand
+Haskell Curry
+Stephen Cole Kleene
+Definable real number
+
+Proof theory
+Metamathematics
+Cut-elimination
+Tarski's undefinability theorem
+Diagonal lemma
+Provability logic
+Interpretability logic
+Sequent
+Sequent calculus
+Analytic proof
+Structural proof theory
+Self-verifying theories
+Substructural logics
+Structural rule
+Weakening
+Contraction
+Linear logic
+Intuitionistic linear logic
+Proof net
+Affine logic
+Strict logic
+Relevant logic
+Proof-theoretic semantics
+Ludics
+System F
+Gerhard Gentzen
+Gentzen's consistency proof
+Reverse mathematics
+Nonfirstorderizability
+Interpretability
+Weak interpretability
+Cointerpretability
+Tolerant sequence
+Cotolerant sequence
+Deduction theorem
+Cirquent calculus
+
+Mathematical constructivism
+Nonconstructive proof
+Existence theorem
+Intuitionistic logic
+Intuitionistic type theory
+Type theory
+Lambda calculus
+Church–Rosser theorem
+Simply typed lambda calculus
+Typed lambda calculus
+Curry–Howard isomorphism
+Calculus of constructions
+Constructivist analysis
+Lambda cube
+System F
+Introduction to topos theory
+LF (logical framework)
+Computability logic
+Computable measure theory
+Finitism
+Ultraintuitionism
+Luitzen Egbertus Jan Brouwer
+
+Modal logic
+Kripke semantics
+Sahlqvist formula
+Interior algebra
+
+Theorem provers
+First-order resolution
+Automated theorem proving
+ACL2 theorem prover
+E equational theorem prover
+Gandalf theorem prover
+HOL theorem prover
+Isabelle theorem prover
+LCF theorem prover
+Otter theorem prover
+Paradox theorem prover
+Vampire theorem prover
+Interactive proof system
+Mizar system
+QED project
+Coq
+
+Discovery systems
+Automated Mathematician
+Eurisko
+
+Historical
+Begriffsschrift
+Systems of Logic Based on Ordinals – Alan Turing's Ph.D. thesis
+
+See also
+Kurt Gödel
+Alfred Tarski
+Saharon Shelah

@@ -1,0 +1,12 @@
+In mathematics, there are two types of Euler integral:
+The Euler integral of the first kind is the beta function 
+The Euler integral of the second kind is the gamma function For positive integers m and n, the two integrals can be expressed in terms of factorials and binomial coefficients:
+
+See also
+Leonhard Euler
+List of topics named after Leonhard Euler
+
+References
+External links and references
+Wolfram MathWorld on the Euler Integral
+NIST Digital Library of Mathematical Functions dlmf.nist.gov/5.2.1 relation 5.2.1 and dlmf.nist.gov/5.12 relation 5.12.1

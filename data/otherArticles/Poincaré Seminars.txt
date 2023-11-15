@@ -1,0 +1,21 @@
+The Poincaré Seminars, named for the mathematician and theoretical physicist Henri Poincaré, were founded in 2001. They are nicknamed Bourbaphy for their inspiration by the Bourbaki Seminars.
+The goal of this seminar is to provide information on topics of current interest in physics. Its way of working is directly inspired by the Bourbaki Seminar in mathematics. A series of pedagogical talks aims at explaining a topic of current interest both from a theoretical and an experimental point of view, possibly complemented by a historical introduction. A booklet with the contributions of the speakers is distributed on the day of the seminar. The seminar aims at a general audience of mathematicians and physicists and does not require any specialized knowledge.
+
+Publications
+Bertrand Duplantier; Vincent Rivasseau eds. (2003), Vacuum Energy - Renormalization (Poincaré Seminar 2002), Progress in Mathematical Physics, vol. 30, Birkhäuser Verlag, ISBN 978-3-7643-0579-6, MR 2164890 {{citation}}: |author2= has generic name (help)
+Jean Dalibard; Bertrand Duplantier; Vincent Rivasseau eds. (2004), Bose-Einstein condensation - Entropy (Poincaré Seminar 2003), Progress in Mathematical Physics, vol. 38, Birkhäuser Verlag, ISBN 3-7643-7106-4, MR 2164890 {{citation}}: |author3= has generic name (help)
+Benoît Douçot; Bertrand Duplantier; Vincent Pasquier; Vincent Rivasseau eds. (2004), The Quantum Hall Effect (Poincaré Seminar 2004), Progress in Mathematical Physics, vol. 45, Birkhäuser Verlag {{citation}}: |author4= has generic name (help)
+Thibault Damour; Olivier Darrigol; Bertrand Duplantier; Vincent Rivasseau eds. (2005), Einstein, 1905-2005 (Poincaré Seminar 2005), Progress in Mathematical Physics, vol. 47, Birkhäuser Verlag {{citation}}: |author4= has generic name (help)
+Bertrand Duplantier; Jean-Michel Raimond; Vincent Rivasseau eds. (2005), Quantum Decoherence (Poincaré Seminar 2005), Progress in Mathematical Physics, vol. 48, Birkhäuser Verlag {{citation}}: |author3= has generic name (help)
+Thibault Damour; Bertrand Duplantier; Vincent Rivasseau eds. (2006), Gravitation and Experiment (Poincaré Seminar 2006), Progress in Mathematical Physics, vol. 52, Birkhäuser Verlag {{citation}}: |author3= has generic name (help)
+Bertrand Duplantier; Jean-Michel Raimond; Vincent Rivasseau eds. (2007), Quantum Spaces (Poincaré Seminar 2007), Progress in Mathematical Physics, vol. 53, Birkhäuser Verlag {{citation}}: |author3= has generic name (help)
+Bertrand Duplantier; Vincent Rivasseau eds. (2007), The Spin (Poincaré Seminar 2007), Progress in Mathematical Physics, vol. 55, Birkhäuser Verlag {{citation}}: |author2= has generic name (help)
+Bertrand Duplantier; Vincent Rivasseau eds. (2009), Biological Physics (Poincaré Seminar 2009), Progress in Mathematical Physics, vol. 60, Birkhäuser Verlag {{citation}}: |author2= has generic name (help)
+Bertrand Duplantier; Thomas Halsey; Vincent Rivasseau eds. (2009), Glasses and Grains (Poincaré Seminar 2009), Progress in Mathematical Physics, vol. 61, Birkhäuser Verlag {{citation}}: |author3= has generic name (help)
+Bertrand Duplantier ed. (2010), Time (Poincaré Seminar 2010), Progress in Mathematical Physics, vol. 63, Birkhäuser Verlag {{citation}}: |author= has generic name (help)
+Bertrand Duplantier; Stéphane Nonnemacher; Vincent Rivasseau eds. (2010), Chaos (Poincaré Seminar 2010), Progress in Mathematical Physics, vol. 66, Birkhäuser Verlag {{citation}}: |author3= has generic name (help)
+Bertrand Duplantier; Vincent Rivasseau eds. (2012), Henri Poincaré, 1912-2012 (Poincaré Seminar 2012), Progress in Mathematical Physics, vol. 67, Birkhäuser Verlag {{citation}}: |author2= has generic name (help)
+Olivier Darrigol; Bertrand Duplantier; Jean-Michel Raimond; Vincent Rivasseau eds. (2013), Niels Bohr, 1913-2013 (Poincaré Seminar 2013), Progress in Mathematical Physics, vol. 68, Birkhäuser Verlag {{citation}}: |author4= has generic name (help)
+
+External links
+English pages about Bourbaphy at the Centre National de la Recherche Scientifique

@@ -1,0 +1,104 @@
+In polymer science, inherent viscosity is the ratio of the natural logarithm of the relative viscosity of a polymer to its mass concentration.Inherent viscosity is defined as 
+  
+    
+      
+        
+          η
+          
+            i
+            n
+            h
+          
+        
+        =
+        
+          
+            
+              ln
+              ⁡
+              
+                η
+                
+                  r
+                  e
+                  l
+                
+              
+            
+            c
+          
+        
+      
+    
+    {\displaystyle \eta _{inh}={\frac {\ln \eta _{rel}}{c}}}
+   
+where c is the mass concentration of the polymer (g/dL) and 
+  
+    
+      
+        
+          η
+          
+            r
+            e
+            l
+          
+        
+      
+    
+    {\displaystyle \eta _{rel}}
+   is the relative viscosity, which is defined as 
+
+  
+    
+      
+        
+          η
+          
+            r
+            e
+            l
+          
+        
+        =
+        
+          
+            η
+            
+              η
+              
+                s
+              
+            
+          
+        
+      
+    
+    {\displaystyle \eta _{rel}={\frac {\eta }{\eta _{s}}}}
+  
+where 
+  
+    
+      
+        η
+      
+    
+    {\displaystyle \eta }
+   is the viscosity of the solution and 
+  
+    
+      
+        
+          η
+          
+            s
+          
+        
+      
+    
+    {\displaystyle \eta _{s}}
+   is the viscosity of the solvent.
+The unit of inherent viscosity is dL/g.
+
+
+== References ==

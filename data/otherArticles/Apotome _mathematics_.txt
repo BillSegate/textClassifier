@@ -1,0 +1,5 @@
+In the historical study of mathematics, an apotome is a line segment formed from a longer line segment by breaking it into two parts, one of which is commensurable only in power to the whole; the other part is the apotome. In this definition, two line segments are said to be "commensurable only in power" when the ratio of their lengths is an irrational number but the ratio of their squared lengths is rational.Translated into modern algebraic language, an apotome can be interpreted as a quadratic irrational number formed by subtracting one square root of a rational number from another.
+This concept of the apotome appears in Euclid's Elements beginning in book X, where Euclid defines two special kinds of apotomes. In an apotome of the first kind, the whole is rational, while in an apotome of the second kind, the part subtracted from it is rational; both kinds of apotomes also satisfy an additional condition.  Euclid Proposition XIII.6 states that, if a rational line segment is split into two pieces in the golden ratio, then both pieces may be represented as apotomes.
+
+
+== References ==

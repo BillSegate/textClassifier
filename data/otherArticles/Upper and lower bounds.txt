@@ -1,0 +1,29 @@
+In mathematics, particularly in order theory, an upper bound or majorant of a subset S of some preordered set (K, ≤) is an element of K that is greater than or equal to every element of S.Dually, a lower bound or minorant of S is defined to be an element of K that is less than or equal to every element of S. 
+A set with an upper (respectively, lower) bound is said to be bounded from above or majorized (respectively bounded from below or minorized) by that bound. 
+The terms bounded above (bounded below) are also used in the mathematical literature for sets that have upper (respectively lower) bounds.
+
+Examples
+For example, 5 is a lower bound for the set S = {5, 8, 42, 34, 13934} (as a subset of the integers or of the real numbers, etc.), and so is 4. On the other hand, 6 is not a lower bound for S since it is not smaller than every element in S.
+The set S = {42} has 42 as both an upper bound and a lower bound; all other numbers are either an upper bound or a lower bound for that S.
+Every subset of the natural numbers has a lower bound since the natural numbers have a least element (0 or 1, depending on convention). An infinite subset of the natural numbers cannot be bounded from above. An infinite subset of the integers may be bounded from below or bounded from above, but not both. An infinite subset of the rational numbers may or may not be bounded from below, and may or may not be bounded from above.
+Every finite subset of a non-empty totally ordered set has both upper and lower bounds.
+
+Bounds of functions
+The definitions can be generalized to functions and even to sets of functions.
+Given a function f with domain D and a preordered set (K, ≤) as codomain, an element y of K is an upper bound of f if y ≥ f(x) for each x in D. The upper bound is called sharp if equality holds for at least one value of x. It indicates that the constraint is optimal, and thus cannot be further reduced without invalidating the inequality.
+Similarly, a function g defined on domain D and having the same codomain (K, ≤) is an upper bound of f, if g(x) ≥ f(x) for each x in D. The function g is further said to be an upper bound of a set of functions, if it is an upper bound of each function in that set.
+The notion of lower bound for (sets of) functions is defined analogously, by replacing ≥ with ≤.
+
+Tight bounds
+An upper bound is said to be a tight upper bound, a least upper bound, or a supremum, if no smaller value is an upper bound. Similarly, a lower bound is said to be a tight lower bound, a greatest lower bound, or an infimum, if no greater value is a lower bound.
+
+Exact upper bounds
+An upper bound u of a subset S of a preordered set (K, ≤) is said to be an exact upper bound for S if every element of K that is strictly majorized by u is also majorized by some element of S. Exact upper bounds of reduced products of linear orders play an important role in PCF theory.
+
+See also
+Greatest element and least element
+Infimum and supremum
+Maximal and minimal elements
+
+
+== References ==

@@ -1,0 +1,166 @@
+This is a list of notable mathematical conjectures.
+
+Open problems
+The following conjectures remain open.  The (incomplete) column "cites" lists the number of results for a Google Scholar search for the term, in double quotes as of September 2022.
+
+Conjectures now proved (theorems)
+The conjecture terminology may persist: theorems often enough may still be referred to as conjectures, using the anachronistic names.
+
+Deligne's conjecture on 1-motives
+Goldbach's weak conjecture (proved in 2013)
+Sensitivity conjecture (proved in 2019)
+
+Disproved (no longer conjectures)
+The conjectures in following list were not necessarily generally accepted as true before being disproved.
+
+Atiyah conjecture (not a conjecture to start with)
+Borsuk's conjecture
+Chinese hypothesis (not a conjecture to start with)
+Doomsday conjecture
+Euler's sum of powers conjecture
+Ganea conjecture
+Generalized Smith conjecture
+Hauptvermutung
+Hedetniemi's conjecture, counterexample announced 2019
+Hirsch conjecture (disproved  in 2010)
+Intersection graph conjecture
+Kelvin's conjecture
+Kouchnirenko's conjecture
+Mertens conjecture
+Pólya conjecture, 1919 (1958)
+Ragsdale conjecture
+Schoenflies conjecture (disproved 1910)
+Tait's conjecture
+Von Neumann conjecture
+Weyl–Berry conjecture
+Williamson conjectureIn mathematics, ideas are supposedly not accepted as fact until they have been rigorously proved. However, there have been some ideas that were fairly accepted in the past but which were subsequently shown to be false. The following list is meant to serve as a repository for compiling a list of such ideas.
+
+The idea of the Pythagoreans that all numbers can be expressed as a ratio of two whole numbers. This was disproved by one of Pythagoras' own disciples, Hippasus, who showed that the square root of two is what we today call an irrational number. One story claims that he was thrown off the ship in which he and some other Pythagoreans were sailing because his discovery was too heretical.
+Euclid's parallel postulate stated that if two lines cross a third in a plane in such a way that the sum of the "interior angles" is not 180° then the two lines meet. Furthermore, he implicitly assumed that two separate intersecting lines meet at only one point. These assumptions were believed to be true for more than 2000 years, but in light of General Relativity at least the second can no longer be considered true. In fact the very notion of a straight line in four-dimensional curved space-time has to be redefined, which one can do as a geodesic. (But the notion of a plane does not carry over.) It is now recognized that Euclidean geometry can be studied as a mathematical abstraction, but that the universe is non-Euclidean.
+Fermat conjectured that all numbers of the form 
+  
+    
+      
+        
+          2
+          
+            
+              2
+              
+                m
+              
+            
+          
+        
+        +
+        1
+      
+    
+    {\displaystyle 2^{2^{m}}+1}
+   (known as Fermat numbers) were prime. However, this conjecture was disproved by Euler, who found that 
+  
+    
+      
+        
+          2
+          
+            
+              2
+              
+                5
+              
+            
+          
+        
+        +
+        1
+        =
+        4
+        ,
+        294
+        ,
+        967
+        ,
+        297
+        =
+        641
+        ×
+        6
+        ,
+        700
+        ,
+        417.
+      
+    
+    {\displaystyle 2^{2^{5}}+1=4,294,967,297=641\times 6,700,417.}
+  
+The idea that transcendental numbers were unusual. Disproved by Georg Cantor who showed that there are so many transcendental numbers that it is impossible to make a one-to-one mapping between them and the algebraic numbers. In other words, the cardinality of the set of transcendentals (denoted 
+  
+    
+      
+        
+          ℶ
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \beth _{1}}
+  ) is greater than that of the set of algebraic numbers (
+  
+    
+      
+        
+          ℵ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \aleph _{0}}
+  ).
+Bernhard Riemann, at the end of his famous 1859 paper "On the Number of Primes Less Than a Given Magnitude", stated (based on his results) that the logarithmic integral gives a somewhat too high estimate of the prime-counting function. The evidence also seemed to indicate this. However, in 1914 J. E. Littlewood proved that this was not always the case, and in fact it is now known that the first x for which 
+  
+    
+      
+        π
+        (
+        x
+        )
+        >
+        
+          l
+          i
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle \pi (x)>\mathrm {li} (x)}
+   occurs somewhere before 10317. See Skewes' number for more detail.
+Naïvely it might be expected that a continuous function must have a derivative or else that the set of points where it is not differentiable should be "small" in some sense. This was disproved in 1872 by Karl Weierstrass, and in fact examples had been found earlier of functions that were nowhere differentiable (see Weierstrass function). According to Weierstrass in his paper, earlier mathematicians including Gauss had often assumed that such functions did not exist.
+It was conjectured in 1919 by George Pólya, based on the evidence, that most numbers less than any particular limit have an odd number of prime factors. However, this Pólya conjecture was disproved in 1958. It turns out that for some values of the limit (such as values a bit more than 906 million), most numbers less than the limit have an even number of prime factors.
+Erik Christopher Zeeman tried for 7 years to prove that one cannot untie a knot on a 4-sphere. Then one day he decided to try to prove the opposite, and he succeeded in a few hours.
+A "theorem" of Jan-Erik Roos in 1961 stated that in an [AB4*] abelian category, lim1 vanishes on Mittag-Leffler sequences. This "theorem" was used by many people since then, but it was disproved by counterexample in 2002 by Amnon Neeman.
+
+See also
+Erdős conjectures
+Fuglede's conjecture
+Millennium Prize Problems
+Painlevé conjecture
+Mathematical fallacy
+Superseded theories in science
+List of incomplete proofs
+List of unsolved problems in mathematics
+List of disproved mathematical ideas
+List of unsolved problems
+List of lemmas
+List of theorems
+List of statements undecidable in ZFC
+
+References
+External links
+Open Problem Garden

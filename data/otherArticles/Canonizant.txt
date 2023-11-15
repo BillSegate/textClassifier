@@ -1,0 +1,7 @@
+In mathematical invariant theory, the canonizant or canonisant is a covariant of forms related to a canonical form for them.
+
+Canonizants of a binary form
+The canonizant of a binary form of degree 2n – 1 is a covariant of degree n and order n, given by the catalecticant of the penultimate emanant, which is the determinant of the n by n Hankel matrix with entries ai+jx + ai+j+1y for 0 ≤ i,j < n.
+
+References
+Elliott, Edwin Bailey (1913) [1895], An introduction to the algebra of quantics. (2nd ed.), Oxford. Clarendon Press, JFM 26.0135.01

@@ -1,0 +1,130 @@
+A first-order fluid is another name for a power-law fluid with exponential dependence of viscosity on temperature.
+
+  
+    
+      
+        
+          μ
+          
+            
+              e
+              f
+              f
+            
+          
+        
+        (
+        
+          
+            
+              γ
+              ˙
+            
+          
+        
+        ,
+        T
+        )
+        =
+        
+          μ
+          
+            0
+          
+        
+        
+          
+            
+              
+                γ
+                ˙
+              
+            
+          
+          
+            n
+            −
+            1
+          
+        
+        exp
+        ⁡
+        (
+        −
+        b
+        T
+        )
+      
+    
+    {\displaystyle \mu _{\mathrm {eff} }({\dot {\gamma }},T)=\mu _{0}{\dot {\gamma }}^{n-1}\exp(-bT)}
+  where γ̇ is the shear rate, T is temperature and μ0, n and b are coefficients.
+The model can be re-written as
+
+  
+    
+      
+        
+          μ
+          
+            
+              e
+              f
+              f
+            
+          
+        
+        (
+        
+          
+            
+              γ
+              ˙
+            
+          
+        
+        ,
+        T
+        )
+        =
+        exp
+        ⁡
+        
+          (
+          
+            
+              A
+              
+                0
+              
+            
+            +
+            
+              A
+              
+                1
+              
+            
+            ln
+            ⁡
+            
+              
+                
+                  γ
+                  ˙
+                
+              
+            
+            +
+            
+              A
+              
+                2
+              
+            
+            T
+          
+          )
+        
+      
+    
+    {\displaystyle \mu _{\mathrm {eff} }({\dot {\gamma }},T)=\exp \left(A_{0}+A_{1}\ln {\dot {\gamma }}+A_{2}T\right)}

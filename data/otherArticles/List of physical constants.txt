@@ -1,0 +1,65 @@
+The constants listed here are known values of physical constants expressed in SI units; that is, physical quantities that are generally believed to be universal in nature and thus are independent of the unit system in which they are measured.  Many of these are redundant, in the sense that they obey a known relationship with other physical constants and can be determined from them.
+
+Table of physical constants
+Uncertainties
+While the values of the physical constants are independent of the system of units in use, each uncertainty as stated reflects our lack of knowledge of the corresponding value as expressed in SI units, and is strongly dependent on how those units are defined.  For example, the atomic mass constant 
+  
+    
+      
+        
+          m
+          
+            u
+          
+        
+      
+    
+    {\displaystyle m_{\text{u}}}
+   is exactly known when expressed using the dalton (its value is exactly 1 Da), but the kilogram is not exactly known when using these units, the opposite of when expressing the same quantities using the kilogram.
+
+Technical constants
+Some of these constants are of a technical nature and do not give any true physical property, but they are included for convenience.  Such a constant gives the correspondence ratio of a technical dimension with its corresponding underlying physical dimension. These include the Boltzmann constant 
+  
+    
+      
+        
+          k
+          
+            B
+          
+        
+      
+    
+    {\displaystyle k_{\text{B}}}
+  , which gives the correspondence of the dimension temperature to the dimension of energy per degree of freedom, and the Avogadro constant 
+  
+    
+      
+        
+          N
+          
+            A
+          
+        
+      
+    
+    {\displaystyle N_{\text{A}}}
+  , which gives the correspondence of the dimension of amount of substance with the dimension of count of entities (the latter formally regarded in the SI as being dimensionless).  By implication, any product of powers of such constants is also such a constant, such as the molar gas constant 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  .
+
+See also
+List of mathematical constants
+Physical constant
+List of particles
+
+Notes
+
+
+== References ==

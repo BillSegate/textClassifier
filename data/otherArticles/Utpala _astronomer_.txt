@@ -1,0 +1,56 @@
+Utpala, also known as Bhaṭṭotpala (Bhaṭṭa-Utpala) was an astronomer from Kashmir region of present-day India, who lived in the 10th century (or according to one theory, in the 9th century). He wrote several Sanskrit-language texts on astrology and astronomy, the best-known being his commentaries on the works of the 6th-century astrologer-astronomer Varāhamihira.
+
+Date
+Utpala dates two of his commentaries on Varāhamihira's works to the year 888 of the Shaka kāla. Assuming that Utpala refers to current year of the Shaka era beginning in 78 CE, these works can be dated to 965-966 CE.
+For example, a verse in Jagac-candrikā - his commentary on the Bṛhaj-jātaka - states that he finished the work on the 5th day of the bright half of the Chaitra month. This day began on Thursday, 9 March 965 CE and ended on Friday. Utpala states that he completed his work on Thursday.Similarly, a verse in Saṃhitā-vivṛti - his commentary on the Bṛhat-saṃhitā - states that he finished it on the 2nd day of the dark half of the Phalguna month. This day began on Wednesday, 10 January 966 CE, and ended on Thursday, 11 January 966 CE. Utpala states that he completed his work on Thursday.These dates align with a list of astronomers that places Utpala in the Shaka year 890 (c. 968 CE); this list was procured by W. Hunter at Ujjain, and published by H.T. Colebrooke.However, there are some problems with placing Utpala around 966 CE:
+Abu Ma'shar al-Balkhi (died 886 CE) cites a passage (about the third decan of Aries) from Utpala's Jagaccandrikā. This means either Utpala copied this passage from an older text, or he lived before 886 CE.In Jagac-candrikā, Utpala quotes four stanzas from a text that he calls Bhaskara-siddhanta. These stanzas are identical with stanzas 1.9-12 of Bhaskara II's Siddhanta Shiromani, which is dated to the Shaka year 1072 (1150 CE). This is chronologically impossible, as Al-Biruni's India (c. 1030 CE) mentions Utpala, and Varuṇabhațța's commentary on Brahmagupta's Khaṇḍakhādyaka-karana (Shaka 962 / 1040 CE) also mentions him. Scholar P.V. Kane suggests that either Bhaskara II took these verses from an earlier writer of the same name (e.g. Bhaskara I), or that a copyist added these verses to a manuscript on Utpala's commentary at a later date. These verses are not found in some manuscripts.This, combined with the absence of the date (Shaka 888) in another manuscript of Utpala's work, led Kane to theorize that Utpala must have flourished no later than c. 850 CE.Historian Ajay Mitra Shastri theorizes that by "Shaka kāla", Utpala means the Vikrama era beginning in 57 BCE, not the Shaka era beginning in 78 CE. Shastri notes that historical Indian texts use the term "Shaka" to denote either the Shaka era, or a calendar era in general. Moreover, in his commentary on Bṛhat-saṃhitā, Utpala writes: "that time, when the barbarian rulers called Shakas were destroyed by the illustrious Vikramaditya, is known by the name Shaka". Thus, according to Shastri, year 888 of the "Shaka kāla" in the manuscripts of Utpala's work equates to the Vikrama year 888, that is, c. 830 CE. Shastri further notes:
+
+The 5th day of the bright half of the Chaitra month of Vikrama year 888 (current) ended on Thursday, 3 March 830 CE. This aligns with Varāhamihira's statement that he completed Jagac-candrikā on Thursday.
+The 2nd day of the dark half of the Phalguna month of Vikrama year 888 (current) ended on Thursday, 2 February 831 CE. Again, this aligns with Varāhamihira's statement that he completed Saṃhitā-vivṛti on Thursday.The colophons of some manuscripts claim that he was a relative of Varāhamihira (6th century). For example, a manuscript titled Prashna-jnana claims that he was a son of Varāhamihira. Some manuscripts of Prashna-mahodadhi or Shat-pancha-shika, a work by Pṛthuyaśas (the actual son of Varāhamihira), claim that Utpala was the father of Pṛthuyaśas. However, these claims are incorrect.
+
+Residence
+None of Utpala's works mention his geographical location. However, Al-Biruni's India (c. 1030 CE) identifies him as a native of Kashmir. Varuṇabhațța's first commentary on Brahmagupta's Khaṇḍakhādyaka-karana (1040 CE) also makes a similar statement. This identification is corroborated by the fact that Utpala's works feature several words characteristic of Kashmiri influence.According to Al-Biruni, Kashmir and Varanasi remained the major centres of Hindu learning during his time, amid the disruptions caused by the Islamic conquest of northern India. Several Brahmins from neighbouring regions such as Peshawar took refuge in Adhiṣṭhāna, the capital of Kashmir. Utpala appears to have become an authoritative figure in the astral science among the Brahmins of Kashmir.The opening stanza of Utpala's commentary on Laghu-jataka invokes Mahadeva, which suggests that he was a Shaivite.
+
+Works
+Utpala's extant works include:
+
+Śiṣyahitā or Hitā, a commentary on Varāhamihira's Laghu-jātaka
+Jagac-candrikā or Cintāmaṇi, a commentary on Varāhamihira's Bṛhaj-jātaka
+Saṃhitā-vivṛti, a commentary on Varāhamihira's Bṛhat-saṃhitā; also includes extracts from Varāhamihira's Samāsa-saṃhitāBhaskara, the son of Kumara of Varsha-ganya family, wrote Utpala-parimala, an abridged version of this commentary
+Cintāmaṇi, a commentary on Brahmagupta's Khaṇḍakhādyaka
+Yajñeśvamedhikā, a commentary on Varāhamihira's Bṛhadyātrā
+A commentary on Varāhamihira's Yoga-yātrā
+Cintāmaṇi, a commentary on Varāhamihira's Vivāha-paṭala
+A commentary on Varāhamihira's son Pṛthuyaśas' Ṣaṭpañcāśikā
+Cintāmaṇi, a commentary on Bādarāyaṇa's Praśna-vidyā
+Praśna-cūḍāmaṇi, a 70-verse text on interrogative astrologyThis is the only surviving original text written by Utpala
+Also known by the names Āryā-saptati (because it contains 70 verses in Arya metre), Bhuvana-dīpaka, Jñāna-māla, Praśna-jñāna, Praśnārya, Praśnārya-saptati, and Praśna-grantha
+Utpala calls it by the name Praśna-jñāna in the opening and concluding verses, which suggests that Praśna-jñāna was the original title of the workThe colophons of some manuscripts suggest that it was a part of a larger work titled Jñāna-māla
+Yuddha-jayārṇava-tantra, on victory in warfareThe colophon mentions Bhattotpala as its author.
+Known from a Newari script palm-leaf manuscript copied by the astrologer (daivajña) Sarvabala in 1270 CE; now at the National Museum, New Delhi
+The work is in form of Shiva's answers to Parvati's questions, and is quoted in Raghu-nandana's Jyotiṣa-tattva'Besides Saṃhitā-vivṛti and Praśna-cūḍāmaṇi, Al-Biruni mentions the following works by Utpala, which are now lost:
+Rā.h.t.rakaraṇa, a handbook on astronomy
+Eduard Sachau restores the title as Rāhunrā-karaṇa; Ajay Mitra Shastri suggests this may be an error for Rāhu-nirākaraṇa; David Pingree suggests Ārdharātrika-karaṇa
+Karaṇaghāta (or Karaṇa-pāta), a handbook on astronomy
+A commentary (Ṭīkā) on Muñjāla's Bṛhanmānasa
+S.rū.dh.w, a text on astronomy
+The original Sanskrit title of the work is uncertain, but Sachau suggests Śrūdhava, while Pingree suggests Sūtra-dhāra.
+Al-Biruni recommends the metrology described in this work, stating that it had been adopted by "ŚMY", another learned Indian astronomer.In Jagac-candrikā, Utpala quotes verses from another of his lost works, on Vastu-vidya (architecture).A verse found at the end of some manuscripts of Kalyana-varman's Sārāvalī suggests that the original text remained incomplete for over three hundred years, before Utpala completed it.The manuscripts of Utpala's surviving works may contain some alterations and omissions by copyists. For example, Al-Biruni attributes a statement about the original name of Multan to Saṃhitā-vivṛti, but this statement is not present in the surviving manuscripts. According to this statement, Multan was originally called Yavana-pura, then Hamsa-pura, then Baga-pura, then Shamba-pura, then Mula-sthana (literally "original place").
+
+Legacy
+Modern interpretations of Varāhamihira's works, such as Bṛhat-saṃhitā and Bṛhaj-jātaka, rely largely on Utpala's explanations. Utpala refers to several earlier commentaries on Bṛhat-saṃhitā, but his commentary is the only one still extant.Utpala quotes several Sanskrit and Prakrit works, which are now lost, including those attributed to the semi-legendary figures such as Garga, Parashara, and Rshiputra..Utpala is known for quoting six verses from Surya Siddhanta which are not found in its extant version. These six verses can be found in the 'Introduction' by S.Jain to the translation of Surya Siddhānta made by E. Burgess.As a commentator, Utpala devotes considerable effort to correctly interpret the text, using scientific methods far ahead of this time. He provides variant readings of various terms and refers to the views of the earlier commentators. He identifies some parts of the Bṛhat-saṃhitā text available to him as later forgeries, and provides reasons for doing so. He admits his lack of expertise at places; for example, while commenting on the Gandha-yukti section of the Bṛhat-saṃhitā, he states that is not well-versed with the art of hair dyeing and cosmetics, and the reader should consult people skilled in those areas. That said, he lived several centuries after Varāhamihira, and therefore, could not understand certain concepts, leading to deficiences in his commentaries. For example, he wrongly interprets the term gana (republican states) as samūha or saṇghāta (groups).Sometime before 1861, Hendrik Kern (1833-1917) edited Utpala's commentaries on Bṛhatsaṃhitā and Bṛhajjātaka from the manuscripts, at Albrecht Weber's recommendation. He extracted a long list of technical terms from the texts; this list was included in Böhtlingk and Roth's Petersburg Sanskrit-Wörterbuch (1855-1875) and the Monier-Williams Sanskrit-English dictionary (1872), which became a standard reference for Sanskritists.
+
+See also
+Indian science and technology
+Indian mathematics
+Hindu astronomy
+
+Notes
+References
+Bibliography
+Further reading
+David Pingree, The Beginning of Utpala's Commentary on the Khaṇḍakhādyaka, Journal of the American Oriental Society (1973).
+B. Chatterjee (trans.), The Khandakhadyaka (an astronomical treatise) of Brahmagupta; With the commentary of Bhattotpala, 2 vols., Calcutta (1970).
+Surya Siddhānta (Text with translation and Notes) [A Text-Book of Hindu Astronomy], translation by E. Burgess, with Sanskrit text and edited by S. Jain. Oriental Book Centre, Delhi, 2005; ISBN 81-8315-017-9.
+Yoga Yatra Vivritti by Bhattotpala]
+Brihat Jatak Vivritti by Bhattotpala

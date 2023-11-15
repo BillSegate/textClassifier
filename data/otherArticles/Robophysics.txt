@@ -1,0 +1,4 @@
+Robophysics is an emerging scientific field to understand the physical principles of how robots move in the complex real world, analogous to biophysics to understand the motions of biological systems. This emerging area has demonstrated the need for a physics of robotics and reveal interesting problems at the interface of nonlinear dynamics, soft matter, control and biology.
+
+
+== References ==

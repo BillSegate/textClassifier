@@ -1,0 +1,9 @@
+ALEKS (Assessment and Learning in Knowledge Spaces) is an online tutoring and assessment program that includes course material in mathematics, chemistry,  introductory statistics, and business.Rather than being based on numerical test scores, ALEKS uses the theory of knowledge spaces to develop a combinatorial understanding of the set of topics a student does or doesn't understand from the answers to its test questions. Based on this assessment, it determines the topics that the student is ready to learn and allows the student to choose from interactive learning modules for these topics.ALEKS was initially developed at UC Irvine starting in 1994 with support from a large National Science Foundation grant. The software was granted by UC Irvine's Office of Technology Alliances to ALEKS Corporation under an exclusive, worldwide, perpetual license. In 2013, the ALEKS Corporation was acquired by McGraw-Hill Education.
+
+Subjects covered
+ALEKS is available for a variety of courses and subjects that cover K-12, higher education, and continuing education, ranging from basic arithmetic and chemistry to pre-calculus and MBA financial accounting preparation.
+
+Notes
+References
+External links
+Official website

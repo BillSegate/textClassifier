@@ -1,0 +1,1699 @@
+In mathematics, the Enriques–Kodaira classification is a classification of compact complex surfaces into ten classes. For each of these classes, the surfaces in the class can be parametrized by a moduli space. For most of the classes the moduli spaces are well understood, but for the class of surfaces of general type the moduli spaces seem too complicated to describe explicitly, though some components are known.
+Max Noether began the systematic study of algebraic surfaces, and Guido Castelnuovo proved important parts of the classification. Federigo Enriques (1914, 1949) described the classification of complex projective surfaces. Kunihiko Kodaira (1964, 1966, 1968a, 1968b) later extended the classification to include non-algebraic compact surfaces. The analogous classification of surfaces in positive characteristic was begun by David Mumford (1969) and completed by Enrico Bombieri and David Mumford (1976, 1977); it is similar to the characteristic 0 projective case, except that one also gets singular and supersingular Enriques surfaces in characteristic 2, and quasi-hyperelliptic surfaces in characteristics 2 and 3.
+
+Statement of the classification
+The Enriques–Kodaira classification of compact complex surfaces states that every nonsingular minimal compact complex surface is of exactly one of the 10 types listed on this page; in other words, it is one of the rational, ruled (genus > 0), type VII, K3, Enriques, Kodaira, toric, hyperelliptic, properly quasi-elliptic, or general type surfaces.
+For the 9 classes of surfaces other than general type, there is a fairly complete description of what all the surfaces look like (which for class VII depends on the global spherical shell conjecture, still unproved in 2009). For surfaces of general type not much is known about their explicit classification, though many examples have been found.
+The classification of algebraic surfaces in positive characteristic (Mumford 1969, Mumford & Bombieri 1976, 1977) is similar to that of algebraic surfaces in characteristic 0, except that there are no Kodaira surfaces or surfaces of type VII, and there are some extra families of Enriques surfaces in characteristic 2, and hyperelliptic surfaces in characteristics 2 and 3, and in Kodaira dimension 1 in characteristics 2 and 3 one also allows quasielliptic fibrations. These extra families can be understood as follows: In characteristic 0 these surfaces are the quotients of surfaces by finite groups, but in finite characteristics it is also possible to take quotients by finite group schemes that are not étale.
+Oscar Zariski constructed some surfaces in positive characteristic that are unirational but not rational, derived from inseparable extensions (Zariski surfaces). In positive characteristic Serre showed that 
+  
+    
+      
+        
+          h
+          
+            0
+          
+        
+        (
+        Ω
+        )
+      
+    
+    {\displaystyle h^{0}(\Omega )}
+   may differ from 
+  
+    
+      
+        
+          h
+          
+            1
+          
+        
+        (
+        
+          
+            O
+          
+        
+        )
+      
+    
+    {\displaystyle h^{1}({\mathcal {O}})}
+  , and Igusa showed that even when they are equal they may be greater than the irregularity (the dimension of the Picard variety).
+
+Invariants of surfaces
+Hodge numbers and Kodaira dimension
+The most important invariants of a compact complex surfaces used in the classification can be given in terms of the dimensions of various coherent sheaf cohomology groups. The basic ones are the plurigenera and the Hodge numbers defined as follows:
+
+K is the canonical line bundle whose sections are the holomorphic 2-forms.
+  
+    
+      
+        
+          P
+          
+            n
+          
+        
+        =
+        dim
+        ⁡
+        
+          H
+          
+            0
+          
+        
+        (
+        
+          K
+          
+            n
+          
+        
+        )
+        ,
+        n
+        ⩾
+        1
+      
+    
+    {\displaystyle P_{n}=\dim H^{0}(K^{n}),n\geqslant 1}
+   are called the plurigenera. They are birational invariants, i.e., invariant under blowing up. Using Seiberg–Witten theory, Robert Friedman and John Morgan showed that for complex manifolds they only depend on the underlying oriented smooth 4-manifold. For non-Kähler surfaces the plurigenera are determined by the fundamental group, but for Kähler surfaces there are examples of surfaces that are homeomorphic but have different plurigenera and Kodaira dimensions. The individual plurigenera are not often used; the most important thing about them is their growth rate, measured by the Kodaira dimension.
+  
+    
+      
+        κ
+      
+    
+    {\displaystyle \kappa }
+   is the Kodaira dimension: it is 
+  
+    
+      
+        −
+        ∞
+      
+    
+    {\displaystyle -\infty }
+   (sometimes written −1) if the plurigenera are all 0, and is otherwise the smallest number (0, 1, or 2 for surfaces) such that 
+  
+    
+      
+        
+          P
+          
+            n
+          
+        
+        
+          /
+        
+        
+          n
+          
+            κ
+          
+        
+      
+    
+    {\displaystyle P_{n}/n^{\kappa }}
+   is bounded. Enriques did not use this definition: instead he used the values of 
+  
+    
+      
+        
+          P
+          
+            12
+          
+        
+      
+    
+    {\displaystyle P_{12}}
+   and 
+  
+    
+      
+        K
+        ⋅
+        K
+        =
+        
+          c
+          
+            1
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle K\cdot K=c_{1}^{2}}
+  . These determine the Kodaira dimension given the following correspondence:
+  
+    
+      
+        
+          
+            
+              
+                κ
+                =
+                −
+                ∞
+              
+              
+                
+                ⟷
+                
+                  P
+                  
+                    12
+                  
+                
+                =
+                0
+              
+            
+            
+              
+                κ
+                =
+                0
+              
+              
+                
+                ⟷
+                
+                  P
+                  
+                    12
+                  
+                
+                =
+                1
+              
+            
+            
+              
+                κ
+                =
+                1
+              
+              
+                
+                ⟷
+                
+                  P
+                  
+                    12
+                  
+                
+                >
+                1
+                
+                   and 
+                
+                K
+                ⋅
+                K
+                =
+                0
+              
+            
+            
+              
+                κ
+                =
+                2
+              
+              
+                
+                ⟷
+                
+                  P
+                  
+                    12
+                  
+                
+                >
+                1
+                
+                   and 
+                
+                K
+                ⋅
+                K
+                >
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\kappa =-\infty &\longleftrightarrow P_{12}=0\\\kappa =0&\longleftrightarrow P_{12}=1\\\kappa =1&\longleftrightarrow P_{12}>1{\text{ and }}K\cdot K=0\\\kappa =2&\longleftrightarrow P_{12}>1{\text{ and }}K\cdot K>0\\\end{aligned}}}
+  
+  
+    
+      
+        
+          h
+          
+            i
+            ,
+            j
+          
+        
+        =
+        dim
+        ⁡
+        
+          H
+          
+            j
+          
+        
+        (
+        X
+        ,
+        
+          Ω
+          
+            i
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle h^{i,j}=\dim H^{j}(X,\Omega ^{i}),}
+   where 
+  
+    
+      
+        
+          Ω
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \Omega ^{i}}
+   is the sheaf of holomorphic i-forms, are the Hodge numbers, often arranged in the Hodge diamond:
+  
+    
+      
+        
+          
+            
+              
+              
+              
+                
+                  h
+                  
+                    0
+                    ,
+                    0
+                  
+                
+              
+              
+              
+            
+            
+              
+              
+                
+                  h
+                  
+                    1
+                    ,
+                    0
+                  
+                
+              
+              
+              
+                
+                  h
+                  
+                    0
+                    ,
+                    1
+                  
+                
+              
+              
+            
+            
+              
+                
+                  h
+                  
+                    2
+                    ,
+                    0
+                  
+                
+              
+              
+              
+                
+                  h
+                  
+                    1
+                    ,
+                    1
+                  
+                
+              
+              
+              
+                
+                  h
+                  
+                    0
+                    ,
+                    2
+                  
+                
+              
+            
+            
+              
+              
+                
+                  h
+                  
+                    2
+                    ,
+                    1
+                  
+                
+              
+              
+              
+                
+                  h
+                  
+                    1
+                    ,
+                    2
+                  
+                
+              
+              
+            
+            
+              
+              
+              
+                
+                  h
+                  
+                    2
+                    ,
+                    2
+                  
+                
+              
+              
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{matrix}&&h^{0,0}&&\\&h^{1,0}&&h^{0,1}&\\h^{2,0}&&h^{1,1}&&h^{0,2}\\&h^{2,1}&&h^{1,2}&\\&&h^{2,2}&&\\\end{matrix}}}
+  
+By Serre duality 
+  
+    
+      
+        
+          h
+          
+            i
+            ,
+            j
+          
+        
+        =
+        
+          h
+          
+            2
+            −
+            i
+            ,
+            2
+            −
+            j
+          
+        
+      
+    
+    {\displaystyle h^{i,j}=h^{2-i,2-j}}
+   and 
+  
+    
+      
+        
+          h
+          
+            0
+            ,
+            0
+          
+        
+        =
+        
+          h
+          
+            2
+            ,
+            2
+          
+        
+        =
+        1.
+      
+    
+    {\displaystyle h^{0,0}=h^{2,2}=1.}
+   The Hodge numbers of a complex surface depend only on the oriented real cohomology ring of the surface, and are invariant under birational transformations except for 
+  
+    
+      
+        
+          h
+          
+            1
+            ,
+            1
+          
+        
+      
+    
+    {\displaystyle h^{1,1}}
+   which increases by 1 under blowing up a single point.
+If the surface is Kähler then 
+  
+    
+      
+        
+          h
+          
+            i
+            ,
+            j
+          
+        
+        =
+        
+          h
+          
+            j
+            ,
+            i
+          
+        
+      
+    
+    {\displaystyle h^{i,j}=h^{j,i}}
+   and there are only three independent Hodge numbers.
+If the surface is compact then 
+  
+    
+      
+        
+          h
+          
+            1
+            ,
+            0
+          
+        
+      
+    
+    {\displaystyle h^{1,0}}
+   equals 
+  
+    
+      
+        
+          h
+          
+            0
+            ,
+            1
+          
+        
+      
+    
+    {\displaystyle h^{0,1}}
+   or 
+  
+    
+      
+        
+          h
+          
+            0
+            ,
+            1
+          
+        
+        −
+        1.
+      
+    
+    {\displaystyle h^{0,1}-1.}
+
+Invariants related to Hodge numbers
+There are many invariants that (at least for complex surfaces) can be written as linear combinations of the Hodge numbers, as follows:
+
+Betti numbers: defined by 
+  
+    
+      
+        
+          b
+          
+            i
+          
+        
+        =
+        dim
+        ⁡
+        
+          H
+          
+            i
+          
+        
+        (
+        S
+        )
+        ,
+        0
+        ⩽
+        i
+        ⩽
+        4.
+      
+    
+    {\displaystyle b_{i}=\dim H^{i}(S),0\leqslant i\leqslant 4.}
+  
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  
+                    b
+                    
+                      0
+                    
+                  
+                  =
+                  
+                    b
+                    
+                      4
+                    
+                  
+                  =
+                  1
+                
+              
+              
+                
+                  
+                    b
+                    
+                      1
+                    
+                  
+                  =
+                  
+                    b
+                    
+                      3
+                    
+                  
+                  =
+                  
+                    h
+                    
+                      1
+                      ,
+                      0
+                    
+                  
+                  +
+                  
+                    h
+                    
+                      0
+                      ,
+                      1
+                    
+                  
+                  =
+                  
+                    h
+                    
+                      2
+                      ,
+                      1
+                    
+                  
+                  +
+                  
+                    h
+                    
+                      1
+                      ,
+                      2
+                    
+                  
+                
+              
+              
+                
+                  
+                    b
+                    
+                      2
+                    
+                  
+                  =
+                  
+                    h
+                    
+                      2
+                      ,
+                      0
+                    
+                  
+                  +
+                  
+                    h
+                    
+                      1
+                      ,
+                      1
+                    
+                  
+                  +
+                  
+                    h
+                    
+                      0
+                      ,
+                      2
+                    
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}b_{0}=b_{4}=1\\b_{1}=b_{3}=h^{1,0}+h^{0,1}=h^{2,1}+h^{1,2}\\b_{2}=h^{2,0}+h^{1,1}+h^{0,2}\end{cases}}}
+  
+In characteristic p > 0 the Betti numbers are defined using l-adic cohomology and need not satisfy these relations.Euler characteristic or Euler number:
+  
+    
+      
+        e
+        =
+        
+          b
+          
+            0
+          
+        
+        −
+        
+          b
+          
+            1
+          
+        
+        +
+        
+          b
+          
+            2
+          
+        
+        −
+        
+          b
+          
+            3
+          
+        
+        +
+        
+          b
+          
+            4
+          
+        
+        .
+      
+    
+    {\displaystyle e=b_{0}-b_{1}+b_{2}-b_{3}+b_{4}.}
+  The irregularity is defined as the dimension of the Picard variety and the Albanese variety and denoted by q. For complex surfaces (but not always for surfaces of prime characteristic)
+  
+    
+      
+        q
+        =
+        
+          h
+          
+            0
+            ,
+            1
+          
+        
+        .
+      
+    
+    {\displaystyle q=h^{0,1}.}
+  The geometric genus:
+  
+    
+      
+        
+          p
+          
+            g
+          
+        
+        =
+        
+          h
+          
+            0
+            ,
+            2
+          
+        
+        =
+        
+          h
+          
+            2
+            ,
+            0
+          
+        
+        =
+        
+          P
+          
+            1
+          
+        
+        .
+      
+    
+    {\displaystyle p_{g}=h^{0,2}=h^{2,0}=P_{1}.}
+  The arithmetic genus:
+  
+    
+      
+        
+          p
+          
+            a
+          
+        
+        =
+        
+          p
+          
+            g
+          
+        
+        −
+        q
+        =
+        
+          h
+          
+            0
+            ,
+            2
+          
+        
+        −
+        
+          h
+          
+            0
+            ,
+            1
+          
+        
+        .
+      
+    
+    {\displaystyle p_{a}=p_{g}-q=h^{0,2}-h^{0,1}.}
+  The holomorphic Euler characteristic of the trivial bundle (usually differs from the Euler number e defined above):
+  
+    
+      
+        χ
+        =
+        
+          p
+          
+            g
+          
+        
+        −
+        q
+        +
+        1
+        =
+        
+          h
+          
+            0
+            ,
+            2
+          
+        
+        −
+        
+          h
+          
+            0
+            ,
+            1
+          
+        
+        +
+        1.
+      
+    
+    {\displaystyle \chi =p_{g}-q+1=h^{0,2}-h^{0,1}+1.}
+  
+By Noether's formula it is also equal to the Todd genus 
+  
+    
+      
+        
+          
+            
+              1
+              12
+            
+          
+        
+        (
+        
+          c
+          
+            1
+          
+          
+            2
+          
+        
+        +
+        
+          c
+          
+            2
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle {\tfrac {1}{12}}(c_{1}^{2}+c_{2}).}
+  The signature of the second cohomology group for complex surfaces is denoted by 
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+  :
+  
+    
+      
+        τ
+        =
+        4
+        χ
+        −
+        e
+        =
+        
+          ∑
+          
+            i
+            ,
+            j
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            j
+          
+        
+        
+          h
+          
+            i
+            ,
+            j
+          
+        
+        .
+      
+    
+    {\displaystyle \tau =4\chi -e=\sum \nolimits _{i,j}(-1)^{j}h^{i,j}.}
+  
+  
+    
+      
+        
+          b
+          
+            ±
+          
+        
+      
+    
+    {\displaystyle b^{\pm }}
+  are the dimensions of the maximal positive and negative definite subspaces of 
+  
+    
+      
+        
+          H
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle H^{2},}
+   so:
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  
+                    b
+                    
+                      +
+                    
+                  
+                  +
+                  
+                    b
+                    
+                      −
+                    
+                  
+                  =
+                  
+                    b
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  
+                    b
+                    
+                      +
+                    
+                  
+                  −
+                  
+                    b
+                    
+                      −
+                    
+                  
+                  =
+                  τ
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}b^{+}+b^{-}=b_{2}\\b^{+}-b^{-}=\tau \end{cases}}}
+  c2 = e and 
+  
+    
+      
+        
+          c
+          
+            1
+          
+          
+            2
+          
+        
+        =
+        
+          K
+          
+            2
+          
+        
+        =
+        12
+        χ
+        −
+        e
+      
+    
+    {\displaystyle c_{1}^{2}=K^{2}=12\chi -e}
+   are the Chern numbers, defined as the integrals of various polynomials in the Chern classes over the manifold.
+
+Other invariants
+There are further invariants of compact complex surfaces that are not used so much in the classification. These include algebraic invariants such as the Picard group Pic(X) of divisors modulo linear equivalence, its quotient the Néron–Severi group NS(X) with rank the Picard number ρ, topological invariants such as the fundamental group π1 and the integral homology and cohomology groups, and invariants of the underlying smooth 4-manifold such as the Seiberg–Witten invariants and Donaldson invariants.
+
+Minimal models and blowing up
+Any surface is birational to a non-singular surface, so for most purposes it is enough to classify the non-singular surfaces.
+Given any point on a surface, we can form a new surface by blowing up this point, which means roughly that we replace it by a copy of the projective line. For the purpose of this article, a non-singular surface X is called minimal if it cannot be obtained from another non-singular surface by blowing up a point. By Castelnuovo's contraction theorem, this is equivalent to saying that X has no (−1)-curves (smooth rational curves with self-intersection number −1). (In the more modern terminology of the minimal model program, a smooth projective surface X would be called minimal if its canonical line bundle KX is nef. A smooth projective surface has a minimal model in that stronger sense if and only if its Kodaira dimension is nonnegative.)
+Every surface X is birational to a minimal non-singular surface, and this minimal non-singular surface is unique if X has Kodaira dimension at least 0 or is not algebraic. Algebraic surfaces of Kodaira dimension 
+  
+    
+      
+        −
+        ∞
+      
+    
+    {\displaystyle -\infty }
+   may be birational to more than one minimal non-singular surface, but it is easy to describe the relation between these minimal surfaces. For example, P1 × P1 blown up at a point is isomorphic to P2 blown up twice. So to classify all compact complex surfaces up to birational isomorphism it is (more or less) enough to classify the minimal non-singular ones.
+
+Surfaces of Kodaira dimension −∞
+Algebraic surfaces of Kodaira dimension 
+  
+    
+      
+        −
+        ∞
+      
+    
+    {\displaystyle -\infty }
+   can be classified as follows. If q > 0 then the map to the Albanese variety has fibers that are projective lines (if the surface is minimal) so the surface is a ruled surface. If q = 0 this argument does not work as the Albanese variety is a point, but in this case Castelnuovo's theorem implies that the surface is rational.
+For non-algebraic surfaces Kodaira found an extra class of surfaces, called type VII, which are still not well understood.
+
+Rational surfaces
+Rational surface means surface birational to the complex projective plane P2. These are all algebraic. The minimal rational surfaces are P2 itself and the Hirzebruch surfaces Σn for n = 0 or n ≥ 2. (The Hirzebruch surface Σn is the P1 bundle over P1 associated to the sheaf O(0) + O(n). The surface Σ0 is isomorphic to P1 × P1, and Σ1 is isomorphic to P2 blown up at a point so is not minimal.)
+Invariants: The plurigenera are all 0 and the fundamental group is trivial.
+Hodge diamond:
+
+Examples: P2, P1 × P1 = Σ0, Hirzebruch surfaces Σn, quadrics, cubic surfaces, del Pezzo surfaces, Veronese surface. Many of these examples are non-minimal.
+
+Ruled surfaces of genus > 0
+Ruled surfaces of genus g have a smooth morphism to a curve of genus g whose fibers are lines P1. They are all algebraic.
+(The ones of genus 0 are the Hirzebruch surfaces and are rational.) Any ruled surface is birationally equivalent to P1 × C for a unique curve C, so the classification of ruled surfaces up to birational equivalence is essentially the same as the classification of curves. A ruled surface not isomorphic to P1 × P1 has a unique ruling (P1 × P1 has two).
+Invariants: The plurigenera are all 0.
+Hodge diamond:
+
+Examples: The product of any curve of genus > 0 with P1.
+
+Surfaces of class VII
+These surfaces are never algebraic or Kähler. The minimal ones with b2 = 0 have been classified by Bogomolov, and are either Hopf surfaces or Inoue surfaces. Examples with positive second Betti number include Inoue-Hirzebruch surfaces, Enoki surfaces, and more generally Kato surfaces. The global spherical shell conjecture implies that all minimal class VII surfaces with positive second Betti number are Kato surfaces, which would more or less complete the classification of the type VII surfaces.
+Invariants: q = 1, h1,0 = 0. All plurigenera are 0.
+Hodge diamond:
+
+Surfaces of Kodaira dimension 0
+These surfaces are classified by starting with Noether's formula 
+  
+    
+      
+        12
+        χ
+        =
+        
+          c
+          
+            2
+          
+        
+        +
+        
+          c
+          
+            1
+          
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle 12\chi =c_{2}+c_{1}^{2}.}
+   For Kodaira dimension 0, K has zero intersection number with itself, so 
+  
+    
+      
+        
+          c
+          
+            1
+          
+          
+            2
+          
+        
+        =
+        0.
+      
+    
+    {\displaystyle c_{1}^{2}=0.}
+   Using
+
+  
+    
+      
+        
+          
+            
+              
+                χ
+              
+              
+                
+                =
+                
+                  h
+                  
+                    0
+                    ,
+                    0
+                  
+                
+                −
+                
+                  h
+                  
+                    0
+                    ,
+                    1
+                  
+                
+                +
+                
+                  h
+                  
+                    0
+                    ,
+                    2
+                  
+                
+              
+            
+            
+              
+                
+                  c
+                  
+                    2
+                  
+                
+              
+              
+                
+                =
+                2
+                −
+                2
+                
+                  b
+                  
+                    1
+                  
+                
+                +
+                
+                  b
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\chi &=h^{0,0}-h^{0,1}+h^{0,2}\\c_{2}&=2-2b_{1}+b_{2}\end{aligned}}}
+  we arrive at:
+
+  
+    
+      
+        10
+        +
+        12
+        
+          h
+          
+            0
+            ,
+            2
+          
+        
+        =
+        8
+        
+          h
+          
+            0
+            ,
+            1
+          
+        
+        +
+        2
+        
+          (
+          
+            2
+            
+              h
+              
+                0
+                ,
+                1
+              
+            
+            −
+            
+              b
+              
+                1
+              
+            
+          
+          )
+        
+        +
+        
+          b
+          
+            2
+          
+        
+      
+    
+    {\displaystyle 10+12h^{0,2}=8h^{0,1}+2\left(2h^{0,1}-b_{1}\right)+b_{2}}
+  Moreover since κ = 0 we have:
+
+  
+    
+      
+        
+          h
+          
+            0
+            ,
+            2
+          
+        
+        =
+        
+          
+            {
+            
+              
+                
+                  1
+                
+                
+                  K
+                  =
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  
+                    otherwise
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle h^{0,2}={\begin{cases}1&K=0\\0&{\text{otherwise}}\end{cases}}}
+  combining this with the previous equation gives:
+
+  
+    
+      
+        8
+        
+          h
+          
+            0
+            ,
+            1
+          
+        
+        +
+        2
+        
+          (
+          
+            2
+            
+              h
+              
+                0
+                ,
+                1
+              
+            
+            −
+            
+              b
+              
+                1
+              
+            
+          
+          )
+        
+        +
+        
+          b
+          
+            2
+          
+        
+        =
+        
+          
+            {
+            
+              
+                
+                  22
+                
+                
+                  K
+                  =
+                  0
+                
+              
+              
+                
+                  10
+                
+                
+                  
+                    otherwise
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle 8h^{0,1}+2\left(2h^{0,1}-b_{1}\right)+b_{2}={\begin{cases}22&K=0\\10&{\text{otherwise}}\end{cases}}}
+  In general 2h0,1 ≥ b1, so three terms on the left are non-negative integers and there are only a few solutions to this equation. 
+
+For algebraic surfaces 2h0,1 − b1 is an even integer between 0 and 2pg.
+For compact complex surfaces 2h0,1 − b1 = 0 or 1.
+For Kähler surfaces 2h0,1 − b1 = 0 and h1,0 = h0,1.Most solutions to these conditions correspond to classes of surfaces, as in the following table:
+
+K3 surfaces
+These are the minimal compact complex surfaces of Kodaira dimension 0 with q = 0 and trivial canonical line bundle. They are all Kähler manifolds. All K3 surfaces are diffeomorphic, and their diffeomorphism class is an important example of a smooth spin simply connected 4-manifold.
+Invariants: The second cohomology group H2(X, Z) is isomorphic to the unique even unimodular lattice II3,19 of dimension 22 and signature −16.
+Hodge diamond:
+
+Examples:
+
+Degree 4 hypersurfaces in P3(C)
+Kummer surfaces. These are obtained by quotienting out an abelian surface by the automorphism a → −a, then blowing up the 16 singular points.A marked K3 surface is a K3 surface together with an isomorphism from II3,19 to H2(X, Z). The moduli space of marked K3 surfaces is connected non-Hausdorff smooth analytic space of dimension 20. The algebraic K3 surfaces form a countable collection of 19-dimensional subvarieties of it.
+
+Abelian surfaces and 2-dimensional complex tori
+The two-dimensional complex tori include the abelian surfaces. One-dimensional complex tori are just elliptic curves and are all algebraic, but Riemann discovered that most complex tori of dimension 2 are not algebraic. The algebraic ones are exactly the 2-dimensional abelian varieties. Most of their theory is a special case of the theory of higher-dimensional tori or abelian varieties. Criteria to be a product of two elliptic curves (up to isogeny) were a popular study in the nineteenth century.
+Invariants: The plurigenera are all 1. The surface is diffeomorphic to S1 × S1 × S1 × S1 so the fundamental group is Z4.
+Hodge diamond:
+
+Examples: A product of two elliptic curves. The Jacobian of a genus 2 curve. Any quotient of C2 by a lattice.
+
+Kodaira surfaces
+These are never algebraic, though they have non-constant meromorphic functions. They are usually divided into two subtypes: primary Kodaira surfaces with trivial canonical bundle, and secondary Kodaira surfaces which are quotients of these by finite groups of orders 2, 3, 4, or 6, and which have non-trivial canonical bundles. The secondary Kodaira surfaces have the same relation to primary ones that Enriques surfaces have to K3 surfaces, or bielliptic surfaces have to abelian surfaces.
+Invariants: If the surface is the quotient of a primary Kodaira surface by a group of order k = 1, 2, 3, 4, 6, then the plurigenera Pn are 1 if n is divisible by k and 0 otherwise.
+Hodge diamond:
+
+Examples: Take a non-trivial line bundle over an elliptic curve, remove the zero section, then quotient out the fibers by Z acting as multiplication by powers of some complex number z. This gives a primary Kodaira surface.
+
+Enriques surfaces
+These are the complex surfaces such that q = 0 and the canonical line bundle is non-trivial, but has trivial square. Enriques surfaces are all algebraic (and therefore Kähler). They are quotients of K3 surfaces by a group of order 2 and their theory is similar to that of algebraic K3 surfaces.
+Invariants: The plurigenera Pn are 1 if n is even and 0 if n is odd. The fundamental group has order 2. The second cohomology group H2(X, Z) is isomorphic to the sum of the unique even unimodular lattice II1,9 of dimension 10 and signature −8 and a group of order 2.
+Hodge diamond:
+
+Marked Enriques surfaces form a connected 10-dimensional family, which has been described explicitly.
+In characteristic 2 there are some extra families of Enriques surfaces called singular and supersingular Enriques surfaces; see the article on Enriques surfaces for details.
+
+Hyperelliptic (or bielliptic) surfaces
+Over the complex numbers these are quotients of a product of two elliptic curves by a finite group of automorphisms. The finite group can be Z/2Z,  Z/2Z + Z/2Z, Z/3Z,  Z/3Z + Z/3Z,  Z/4Z,  Z/4Z + Z/2Z, or Z/6Z, giving seven families of such surfaces. 
+Hodge diamond:
+
+Over fields of characteristics 2 or 3 there are some extra families given by taking quotients by a non-etale group scheme; see the article on hyperelliptic surfaces for details.
+
+Surfaces of Kodaira dimension 1
+An elliptic surface is a surface equipped with an elliptic fibration (a surjective holomorphic map to a curve B such that all but finitely many fibers are smooth irreducible curves of genus 1). The generic fiber in such a fibration is a genus 1 curve over the function field of B. Conversely, given a genus 1 curve over the function field of a curve, its relative minimal model is an elliptic surface. Kodaira and others have given a fairly complete description of all elliptic surfaces. In particular, Kodaira gave a complete list of the possible singular fibers. The theory of elliptic surfaces is analogous to the theory of proper regular models of elliptic curves over discrete valuation rings (e.g., the ring of p-adic integers) and Dedekind domains (e.g., the ring of integers of a number field).
+In finite characteristic 2 and 3 one can also get quasi-elliptic surfaces, whose fibers may almost all be rational curves with a single node, which are "degenerate elliptic curves".
+Every surface of Kodaira dimension 1 is an elliptic surface (or a quasielliptic surface in characteristics 2 or 3), but the converse is not true: an elliptic surface can have Kodaira dimension 
+  
+    
+      
+        −
+        ∞
+      
+    
+    {\displaystyle -\infty }
+  , 0, or 1. All Enriques surfaces, all hyperelliptic surfaces, all Kodaira surfaces, some K3 surfaces, some abelian surfaces, and some rational surfaces are elliptic surfaces, and these examples have Kodaira dimension less than 1. An elliptic surface whose base curve B is of genus at least 2 always has Kodaira dimension 1, but the Kodaira dimension can be 1 also for some elliptic surfaces with B of genus 0 or 1.
+Invariants: 
+  
+    
+      
+        
+          c
+          
+            1
+          
+          
+            2
+          
+        
+        =
+        0
+        ,
+        
+          c
+          
+            2
+          
+        
+        ⩾
+        0.
+      
+    
+    {\displaystyle c_{1}^{2}=0,c_{2}\geqslant 0.}
+  
+Example: If E is an elliptic curve and B is a curve of genus at least 2, then E×B is an elliptic surface of Kodaira dimension 1.
+
+Surfaces of Kodaira dimension 2 (surfaces of general type)
+These are all algebraic, and in some sense most surfaces are in this class. Gieseker showed that there is a coarse moduli scheme for surfaces of general type; this means that for any fixed values of the Chern numbers c21 and c2, there is a quasi-projective scheme classifying the surfaces of general type with those Chern numbers. However it is a very difficult problem to describe these schemes explicitly, and there are very few pairs of Chern numbers for which this has been done (except when the scheme is empty!)
+Invariants: There are several conditions that the Chern numbers of a minimal complex surface of general type must satisfy:
+
+  
+    
+      
+        
+          c
+          
+            1
+          
+          
+            2
+          
+        
+        ,
+        
+          c
+          
+            2
+          
+        
+        >
+        0
+      
+    
+    {\displaystyle c_{1}^{2},c_{2}>0}
+  
+
+  
+    
+      
+        
+          c
+          
+            1
+          
+          
+            2
+          
+        
+        ⩽
+        3
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle c_{1}^{2}\leqslant 3c_{2}}
+   (the Bogomolov–Miyaoka–Yau inequality)
+
+  
+    
+      
+        5
+        
+          c
+          
+            1
+          
+          
+            2
+          
+        
+        −
+        
+          c
+          
+            2
+          
+        
+        +
+        36
+        ⩾
+        0
+      
+    
+    {\displaystyle 5c_{1}^{2}-c_{2}+36\geqslant 0}
+   (the Noether inequality)
+
+  
+    
+      
+        
+          c
+          
+            1
+          
+          
+            2
+          
+        
+        +
+        
+          c
+          
+            1
+          
+        
+        ≡
+        0
+        
+          mod
+          
+            1
+          
+        
+        2.
+      
+    
+    {\displaystyle c_{1}^{2}+c_{1}\equiv 0{\bmod {1}}2.}
+  Most pairs of integers satisfying these conditions are the Chern numbers for some complex surface of general type.
+Examples: The simplest examples are the product of two curves of genus at least 2, and a hypersurface of degree at least 5 in P3. There are a large number of other constructions known. However, there is no known construction that can produce "typical" surfaces of general type for large Chern numbers; in fact it is not even known if there is any reasonable concept of a "typical" surface of general type. There are many other examples that have been found, including most Hilbert modular surfaces, fake projective planes, Barlow surfaces, and so on.
+
+See also
+List of algebraic surfaces
+
+References
+Barth, Wolf P.; Hulek, Klaus; Peters, Chris A.M.; Van de Ven, Antonius (2004), Compact Complex Surfaces, Ergebnisse der Mathematik und ihrer Grenzgebiete. 3. Folge., vol. 4, Springer-Verlag, Berlin, doi:10.1007/978-3-642-57739-0, ISBN 978-3-540-00832-3, MR 2030225 – the standard reference book for compact complex surfaces
+Beauville, Arnaud (1996), Complex algebraic surfaces, London Mathematical Society Student Texts, vol. 34 (2nd ed.), Cambridge University Press, doi:10.1017/CBO9780511623936, ISBN 978-0-521-49510-3, MR 1406314; (ISBN 978-0-521-49842-5 softcover) – including a more elementary introduction to the classification
+Bombieri, Enrico; Mumford, David (1977), "Enriques' classification of surfaces in char. p. II", Complex analysis and algebraic geometry, Tokyo: Iwanami Shoten, pp. 23–42, MR 0491719
+Bombieri, E.; Mumford, D. (1977). "Enriques' Classification of Surfaces in Char. P, II". Complex Analysis and Algebraic Geometry. pp. 23–42. doi:10.1017/CBO9780511569197.004. ISBN 9780521217774.
+Bombieri, Enrico; Mumford, David (1976), "Enriques' classification of surfaces in char. p. III." (PDF), Inventiones Mathematicae, 35: 197–232, Bibcode:1976InMat..35..197B, doi:10.1007/BF01390138, MR 0491720, S2CID 122816845
+Enriques, Federigo (1914), "Sulla classificazione delle superficie algebriche e particolarmente sulle superficie di genere p1=1", Atti. Acc. Lincei V Ser., 23
+Enriques, Federigo (1949), Le Superficie Algebriche, Nicola Zanichelli, Bologna, MR 0031770
+Kodaira, Kunihiko (1964), "On the structure of compact complex analytic surfaces. I", American Journal of Mathematics, 86 (4): 751–798, doi:10.2307/2373157, JSTOR 2373157, MR 0187255
+Kodaira, Kunihiko (1966), "On the structure of compact complex analytic surfaces. II", American Journal of Mathematics, 88 (3): 682–721, doi:10.2307/2373150, JSTOR 2373150, MR 0205280, PMC 300219, PMID 16578569
+Kodaira, Kunihiko (1968a), "On the structure of compact complex analytic surfaces. III", American Journal of Mathematics, 90 (1): 55–83, doi:10.2307/2373426, JSTOR 2373426, MR 0228019
+Kodaira, Kunihiko (1968b), "On the structure of complex analytic surfaces. IV", American Journal of Mathematics, 90 (4): 1048–1066, doi:10.2307/2373289, JSTOR 2373289, MR 0239114
+Mumford, David (1969), "Enriques' classification of surfaces in char p I", Global Analysis (Papers in Honor of K. Kodaira), Tokyo: Univ. Tokyo Press, pp. 325–339, doi:10.1515/9781400871230-019, ISBN 978-1-4008-7123-0, JSTOR j.ctt13x10qw.21, MR 0254053
+Reid, Miles (1997), "Chapters on algebraic surfaces", Complex algebraic geometry (Park City, UT, 1993), IAS/Park City Math. Ser., vol. 3, Providence, R.I.: American Mathematical Society, pp. 3–159, arXiv:alg-geom/9602006, Bibcode:1996alg.geom..2006R, doi:10.1090/pcms/003/02, ISBN 9780821811450, MR 1442522, S2CID 116933286
+Shafarevich, Igor R.; Averbuh, Boris G.; Vaĭnberg, Ju. R.; Zhizhchenko, A. B.; Manin, Yuri I.; Moishezon, Boris G.; Tjurina, Galina N.; Tjurin, Andrei N. (1967) [1965], "Algebraic surfaces", Proceedings of the Steklov Institute of Mathematics, Providence, R.I.: American Mathematical Society, 75: 1–215, ISBN 978-0-8218-1875-6, MR 0190143
+Van de Ven, Antonius (1978), "On the Enriques classification of algebraic surfaces", Séminaire Bourbaki, 29e année (1976/77), Lecture Notes in Math., vol. 677, Berlin, New York: Springer-Verlag, pp. 237–251, MR 0521772
+Lang, William E. "Quasi-elliptic surfaces in characteristic three", Annales scientifiques de l'École Normale Supérieure, Série 4, Tome 12 (1979) no. 4, pp. 473-500. doi : 10.24033/asens.1373. Theorem 4.3 of this article classifies the Hodge numbers of a quasi-hyperelliptic surface in characteristic three.
+
+External links
+le superficie algebriche is an interactive visualisation of the Enriques--Kodaira classification, by Pieter Belmans and Johan Commelin

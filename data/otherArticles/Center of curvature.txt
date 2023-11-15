@@ -1,0 +1,10 @@
+In geometry, the center of curvature of a curve is found at a point that is at a distance from the curve equal to the radius of curvature lying on the normal vector.  It is the point at infinity if the curvature is zero.  The osculating circle to the curve is centered at the centre of curvature.  Cauchy defined the center of curvature C as the intersection point of two infinitely close normal lines to the curve. The locus of centers of curvature for each point on the curve comprise the evolute of the curve. This term is generally used in physics regarding the study of lenses and mirrors (see radius of curvature (optics)).
+It can also be defined as the spherical distance between the point at which all the rays falling on a lens or mirror either seems to converge to (in the case of convex lenses and concave mirrors) or diverge from (in the case of concave lenses or convex mirrors) and the lens/mirror itself.
+
+See also
+Curvature
+Differential geometry of curves
+
+References
+Bibliography
+Hilbert, David; Cohn-Vossen, Stephan (1952), Geometry and the Imagination (2nd ed.), New York: Chelsea, ISBN 978-0-8284-0087-9

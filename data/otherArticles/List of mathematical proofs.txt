@@ -1,0 +1,183 @@
+A list of articles with mathematical proofs:
+
+Theorems of which articles are primarily devoted to proving them
+Bertrand's postulate and a proof
+Estimation of covariance matrices
+Fermat's little theorem and some proofs
+Gödel's completeness theorem and its original proof
+Mathematical induction and a proof
+Proof that 0.999... equals 1
+Proof that 22/7 exceeds π
+Proof that e is irrational
+Proof that π is irrational
+Proof that the sum of the reciprocals of the primes diverges
+
+Articles devoted to theorems of which a (sketch of a) proof is given
+Banach fixed-point theorem
+Banach–Tarski paradox
+Basel problem
+Bolzano–Weierstrass theorem
+Brouwer fixed-point theorem
+Buckingham π theorem (proof in progress)
+Burnside's lemma
+Cantor's theorem
+Cantor–Bernstein–Schroeder theorem
+Cayley's formula
+Cayley's theorem
+Clique problem (to do)
+Compactness theorem (very compact proof)
+Erdős–Ko–Rado theorem
+Euler's formula
+Euler's four-square identity
+Euler's theorem
+Five color theorem
+Five lemma
+Fundamental theorem of arithmetic
+Gauss–Markov theorem (brief pointer to proof)
+Gödel's incompleteness theorem
+Gödel's first incompleteness theorem
+Gödel's second incompleteness theorem
+Goodstein's theorem
+Green's theorem (to do)
+Green's theorem when D is a simple region
+Heine–Borel theorem
+Intermediate value theorem
+Itô's lemma
+Kőnig's lemma
+Kőnig's theorem (set theory)
+Kőnig's theorem (graph theory)
+Lagrange's theorem (group theory)
+Lagrange's theorem (number theory)
+Liouville's theorem (complex analysis)
+Markov's inequality (proof of a generalization)
+Mean value theorem
+Multivariate normal distribution (to do)
+Holomorphic functions are analytic
+Pythagorean theorem
+Quadratic equation
+Quotient rule
+Ramsey's theorem
+Rao–Blackwell theorem
+Rice's theorem
+Rolle's theorem
+Splitting lemma
+squeeze theorem
+Sum rule in differentiation
+Sum rule in integration
+Sylow theorems
+Transcendence of e and π (as corollaries of Lindemann–Weierstrass)
+Tychonoff's theorem (to do)
+Ultrafilter lemma
+Ultraparallel theorem
+Urysohn's lemma
+Van der Waerden's theorem
+Wilson's theorem
+Zorn's lemma
+
+Articles devoted to algorithms in which their correctness is proved
+Bellman–Ford algorithm (to do)
+Euclidean algorithm
+Kruskal's algorithm
+Gale–Shapley algorithm
+Prim's algorithm
+Shor's algorithm (incomplete)
+
+Articles where example statements are proved
+Basis (linear algebra)
+Burrows–Abadi–Needham logic
+Direct proof
+Generating a vector space
+Linear independence
+Polynomial
+Proof
+Pumping lemma
+Simpson's rule
+
+Other articles containing proofs
+Accumulation point
+Addition in N
+associativity of addition in N
+commutativity of addition in N
+uniqueness of addition in N
+Algorithmic information theory
+Boolean ring
+commutativity of a boolean ring
+Boolean satisfiability problem
+NP-completeness of the Boolean satisfiability problem
+Cantor's diagonal argument
+set is smaller than its power set
+uncountability of the real numbers
+Cantor's first uncountability proof
+uncountability of the real numbers
+Combinatorics
+Combinatory logic
+Co-NP
+Coset
+Countable
+countability of a subset of a countable set (to do)
+Angle of parallelism
+Galois group
+Fundamental theorem of Galois theory (to do)
+Gödel number
+Gödel's incompleteness theorem
+Group (mathematics)
+Halting problem
+insolubility of the halting problem
+Harmonic series (mathematics)
+divergence of the (standard) harmonic series
+Highly composite number
+Area of hyperbolic sector, basis of hyperbolic angle
+Infinite series
+convergence of the geometric series with first term 1 and ratio 1/2
+Integer partition
+Irrational number
+irrationality of log23
+irrationality of the square root of 2
+Mathematical induction
+sum identity
+Power rule
+differential of xn
+Product and Quotient Rules
+Derivation of Product and Quotient rules for differentiating.
+Prime number
+Infinitude of the prime numbers
+Primitive recursive function
+Principle of bivalence
+no propositions are neither true nor false in intuitionistic logic
+Recursion
+Relational algebra (to do)
+Solvable group
+Square root of 2
+Tetris
+Algebra of sets
+idempotent laws for set union and intersection
+
+Articles which mention dependencies of theorems
+Cauchy's integral formula
+Cauchy integral theorem
+Computational geometry
+Fundamental theorem of algebra
+Lambda calculus
+Invariance of domain
+Minkowski inequality
+Nash embedding theorem
+Open mapping theorem (functional analysis)
+Product topology
+Riemann integral
+Time hierarchy theorem
+Deterministic time hierarchy theorem
+
+Proofs using...
+topology
+Furstenberg's proof of the infinitude of primes
+
+Articles giving mathematical proofs within a physical model
+No-cloning theorem
+Torque
+
+See also
+Gödel's ontological proof
+Invalid proof
+List of theorems
+List of incomplete proofs
+List of long proofs

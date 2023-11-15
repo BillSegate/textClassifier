@@ -1,0 +1,8317 @@
+In geometry, triangle inequalities are inequalities involving the parameters of triangles, that hold for every triangle, or for every triangle meeting certain conditions. The inequalities give an ordering of two different values: they are of the form "less than", "less than or equal to", "greater than", or "greater than or equal to". The parameters in a triangle inequality can be the side lengths, the semiperimeter, the angle measures, the values of trigonometric functions of those angles, the area of the triangle, the medians of the sides, the altitudes, the lengths of the internal angle bisectors from each angle to the opposite side, the perpendicular bisectors of the sides, the distance from an arbitrary point to another point, the inradius, the exradii, the circumradius, and/or other quantities.
+Unless otherwise specified, this article deals with triangles in the Euclidean plane.
+
+Main parameters and notation
+The parameters most commonly appearing in triangle inequalities are:
+
+the side lengths a, b, and c;
+the semiperimeter s = (a + b + c) / 2 (half the perimeter p);
+the angle measures A, B, and C of the angles of the vertices opposite the respective sides a, b, and c (with the vertices denoted with the same symbols as their angle measures);
+the values of trigonometric functions of the angles;
+the area T of the triangle;
+the medians ma, mb, and mc of the sides (each being the length of the line segment from the midpoint of the side to the opposite vertex);
+the altitudes ha, hb, and hc (each being the length of a segment perpendicular to one side and reaching from that side (or possibly the extension of that side) to the opposite vertex);
+the lengths of the internal angle bisectors ta, tb, and tc (each being a segment from a vertex to the opposite side and bisecting the vertex's angle);
+the perpendicular bisectors pa, pb, and pc of the sides (each being the length of a segment perpendicular to one side at its midpoint and reaching to one of the other sides);
+the lengths of line segments with an endpoint at an arbitrary point P in the plane (for example, the length of the segment from P to vertex A is denoted PA or AP);
+the inradius r (radius of the circle inscribed in the triangle, tangent to all three sides), the exradii ra, rb, and rc (each being the radius of an excircle tangent to side a, b, or c respectively and tangent to the extensions of the other two sides), and the circumradius R (radius of the circle circumscribed around the triangle and passing through all three vertices).
+
+Side lengths
+The basic triangle inequality is
+
+or equivalently
+
+In addition,
+
+where the value of the right side is the lowest possible bound,: p. 259  approached asymptotically as certain classes of triangles approach the degenerate case of zero area. The left inequality, which holds for all positive a, b, c, is Nesbitt's inequality.
+We have
+
+  
+    
+      
+        3
+        
+          (
+          
+            
+              
+                a
+                b
+              
+            
+            +
+            
+              
+                b
+                c
+              
+            
+            +
+            
+              
+                c
+                a
+              
+            
+          
+          )
+        
+        ≥
+        2
+        
+          (
+          
+            
+              
+                b
+                a
+              
+            
+            +
+            
+              
+                c
+                b
+              
+            
+            +
+            
+              
+                a
+                c
+              
+            
+          
+          )
+        
+        +
+        3.
+      
+    
+    {\displaystyle 3\left({\frac {a}{b}}+{\frac {b}{c}}+{\frac {c}{a}}\right)\geq 2\left({\frac {b}{a}}+{\frac {c}{b}}+{\frac {a}{c}}\right)+3.}
+  : p.250, #82 
+  
+    
+      
+        a
+        b
+        c
+        ≥
+        (
+        a
+        +
+        b
+        −
+        c
+        )
+        (
+        a
+        −
+        b
+        +
+        c
+        )
+        (
+        −
+        a
+        +
+        b
+        +
+        c
+        )
+        .
+        
+      
+    
+    {\displaystyle abc\geq (a+b-c)(a-b+c)(-a+b+c).\quad }
+  : p. 260 
+  
+    
+      
+        
+          
+            1
+            3
+          
+        
+        ≤
+        
+          
+            
+              
+                a
+                
+                  2
+                
+              
+              +
+              
+                b
+                
+                  2
+                
+              
+              +
+              
+                c
+                
+                  2
+                
+              
+            
+            
+              (
+              a
+              +
+              b
+              +
+              c
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        <
+        
+          
+            1
+            2
+          
+        
+        .
+        
+      
+    
+    {\displaystyle {\frac {1}{3}}\leq {\frac {a^{2}+b^{2}+c^{2}}{(a+b+c)^{2}}}<{\frac {1}{2}}.\quad }
+  : p. 261 
+  
+    
+      
+        
+          
+            a
+            +
+            b
+            −
+            c
+          
+        
+        +
+        
+          
+            a
+            −
+            b
+            +
+            c
+          
+        
+        +
+        
+          
+            −
+            a
+            +
+            b
+            +
+            c
+          
+        
+        ≤
+        
+          
+            a
+          
+        
+        +
+        
+          
+            b
+          
+        
+        +
+        
+          
+            c
+          
+        
+        .
+      
+    
+    {\displaystyle {\sqrt {a+b-c}}+{\sqrt {a-b+c}}+{\sqrt {-a+b+c}}\leq {\sqrt {a}}+{\sqrt {b}}+{\sqrt {c}}.}
+  : p. 261 
+  
+    
+      
+        
+          a
+          
+            2
+          
+        
+        b
+        (
+        a
+        −
+        b
+        )
+        +
+        
+          b
+          
+            2
+          
+        
+        c
+        (
+        b
+        −
+        c
+        )
+        +
+        
+          c
+          
+            2
+          
+        
+        a
+        (
+        c
+        −
+        a
+        )
+        ≥
+        0.
+      
+    
+    {\displaystyle a^{2}b(a-b)+b^{2}c(b-c)+c^{2}a(c-a)\geq 0.}
+  : p. 261 If angle C is obtuse (greater than 90°) then
+
+  
+    
+      
+        
+          a
+          
+            2
+          
+        
+        +
+        
+          b
+          
+            2
+          
+        
+        <
+        
+          c
+          
+            2
+          
+        
+        ;
+      
+    
+    {\displaystyle a^{2}+b^{2}<c^{2};}
+  if C is acute (less than 90°) then
+
+  
+    
+      
+        
+          a
+          
+            2
+          
+        
+        +
+        
+          b
+          
+            2
+          
+        
+        >
+        
+          c
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle a^{2}+b^{2}>c^{2}.}
+  The in-between case of equality when C is a right angle is the Pythagorean theorem.
+In general,: p.1, #74 
+
+  
+    
+      
+        
+          a
+          
+            2
+          
+        
+        +
+        
+          b
+          
+            2
+          
+        
+        >
+        
+          
+            
+              c
+              
+                2
+              
+            
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle a^{2}+b^{2}>{\frac {c^{2}}{2}},}
+  with equality approached in the limit only as the apex angle of an isosceles triangle approaches 180°.
+If the centroid of the triangle is inside the triangle's incircle, then: p. 153 
+
+  
+    
+      
+        
+          a
+          
+            2
+          
+        
+        <
+        4
+        b
+        c
+        ,
+        
+        
+          b
+          
+            2
+          
+        
+        <
+        4
+        a
+        c
+        ,
+        
+        
+          c
+          
+            2
+          
+        
+        <
+        4
+        a
+        b
+        .
+      
+    
+    {\displaystyle a^{2}<4bc,\quad b^{2}<4ac,\quad c^{2}<4ab.}
+  While all of the above inequalities are true because a, b, and c must follow the basic triangle inequality that the longest side is less than half the perimeter, the following relations hold for all positive a, b, and c:: p.267 
+
+  
+    
+      
+        
+          
+            
+              3
+              a
+              b
+              c
+            
+            
+              a
+              b
+              +
+              b
+              c
+              +
+              c
+              a
+            
+          
+        
+        ≤
+        
+          
+            
+              a
+              b
+              c
+            
+            
+              3
+            
+          
+        
+        ≤
+        
+          
+            
+              a
+              +
+              b
+              +
+              c
+            
+            3
+          
+        
+        ,
+      
+    
+    {\displaystyle {\frac {3abc}{ab+bc+ca}}\leq {\sqrt[{3}]{abc}}\leq {\frac {a+b+c}{3}},}
+  each holding with equality only when a = b = c. This says that in the non-equilateral case the harmonic mean of the sides is less than their geometric mean which in turn is less than their arithmetic mean.
+
+Angles
+cos
+        ⁡
+        A
+        +
+        cos
+        ⁡
+        B
+        +
+        cos
+        ⁡
+        C
+        ≤
+        
+          
+            3
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle \cos A+\cos B+\cos C\leq {\frac {3}{2}}.}
+    : p. 286 
+  
+    
+      
+        (
+        1
+        −
+        cos
+        ⁡
+        A
+        )
+        (
+        1
+        −
+        cos
+        ⁡
+        B
+        )
+        (
+        1
+        −
+        cos
+        ⁡
+        C
+        )
+        ≥
+        cos
+        ⁡
+        A
+        ⋅
+        cos
+        ⁡
+        B
+        ⋅
+        cos
+        ⁡
+        C
+        .
+      
+    
+    {\displaystyle (1-\cos A)(1-\cos B)(1-\cos C)\geq \cos A\cdot \cos B\cdot \cos C.}
+  : p.21, #836 
+  
+    
+      
+        
+          cos
+          
+            4
+          
+        
+        ⁡
+        
+          
+            A
+            2
+          
+        
+        +
+        
+          cos
+          
+            4
+          
+        
+        ⁡
+        
+          
+            B
+            2
+          
+        
+        +
+        
+          cos
+          
+            4
+          
+        
+        ⁡
+        
+          
+            C
+            2
+          
+        
+        ≤
+        
+          
+            
+              s
+              
+                3
+              
+            
+            
+              2
+              a
+              b
+              c
+            
+          
+        
+      
+    
+    {\displaystyle \cos ^{4}{\frac {A}{2}}+\cos ^{4}{\frac {B}{2}}+\cos ^{4}{\frac {C}{2}}\leq {\frac {s^{3}}{2abc}}}
+  for semi-perimeter s, with equality only in the equilateral case.: p.13, #608 
+
+  
+    
+      
+        a
+        +
+        b
+        +
+        c
+        ≥
+        2
+        
+          
+            b
+            c
+          
+        
+        cos
+        ⁡
+        A
+        +
+        2
+        
+          
+            c
+            a
+          
+        
+        cos
+        ⁡
+        B
+        +
+        2
+        
+          
+            a
+            b
+          
+        
+        cos
+        ⁡
+        C
+        .
+      
+    
+    {\displaystyle a+b+c\geq 2{\sqrt {bc}}\cos A+2{\sqrt {ca}}\cos B+2{\sqrt {ab}}\cos C.}
+   : Thm.1 
+  
+    
+      
+        sin
+        ⁡
+        A
+        +
+        sin
+        ⁡
+        B
+        +
+        sin
+        ⁡
+        C
+        ≤
+        
+          
+            
+              3
+              
+                
+                  3
+                
+              
+            
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle \sin A+\sin B+\sin C\leq {\frac {3{\sqrt {3}}}{2}}.}
+   : p.286 
+  
+    
+      
+        
+          sin
+          
+            2
+          
+        
+        ⁡
+        A
+        +
+        
+          sin
+          
+            2
+          
+        
+        ⁡
+        B
+        +
+        
+          sin
+          
+            2
+          
+        
+        ⁡
+        C
+        ≤
+        
+          
+            9
+            4
+          
+        
+        .
+      
+    
+    {\displaystyle \sin ^{2}A+\sin ^{2}B+\sin ^{2}C\leq {\frac {9}{4}}.}
+    : p. 286 
+  
+    
+      
+        sin
+        ⁡
+        A
+        ⋅
+        sin
+        ⁡
+        B
+        ⋅
+        sin
+        ⁡
+        C
+        ≤
+        
+          
+            (
+            
+              
+                
+                  sin
+                  ⁡
+                  A
+                  +
+                  sin
+                  ⁡
+                  B
+                  +
+                  sin
+                  ⁡
+                  C
+                
+                3
+              
+            
+            )
+          
+          
+            3
+          
+        
+        ≤
+        
+          
+            (
+            
+              sin
+              ⁡
+              
+                
+                  
+                    A
+                    +
+                    B
+                    +
+                    C
+                  
+                  3
+                
+              
+            
+            )
+          
+          
+            3
+          
+        
+        =
+        
+          sin
+          
+            3
+          
+        
+        ⁡
+        
+          (
+          
+            
+              π
+              3
+            
+          
+          )
+        
+        =
+        
+          
+            
+              3
+              
+                
+                  3
+                
+              
+            
+            8
+          
+        
+        .
+      
+    
+    {\displaystyle \sin A\cdot \sin B\cdot \sin C\leq \left({\frac {\sin A+\sin B+\sin C}{3}}\right)^{3}\leq \left(\sin {\frac {A+B+C}{3}}\right)^{3}=\sin ^{3}\left({\frac {\pi }{3}}\right)={\frac {3{\sqrt {3}}}{8}}.}
+    : p. 203 
+  
+    
+      
+        sin
+        ⁡
+        A
+        +
+        sin
+        ⁡
+        B
+        ⋅
+        sin
+        ⁡
+        C
+        ≤
+        φ
+      
+    
+    {\displaystyle \sin A+\sin B\cdot \sin C\leq \varphi }
+  : p.149, #3297 where 
+  
+    
+      
+        φ
+        =
+        
+          
+            
+              1
+              +
+              
+                
+                  5
+                
+              
+            
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle \varphi ={\frac {1+{\sqrt {5}}}{2}},}
+   the golden ratio.
+
+  
+    
+      
+        sin
+        ⁡
+        
+          
+            A
+            2
+          
+        
+        ⋅
+        sin
+        ⁡
+        
+          
+            B
+            2
+          
+        
+        ⋅
+        sin
+        ⁡
+        
+          
+            C
+            2
+          
+        
+        ≤
+        
+          
+            1
+            8
+          
+        
+        .
+      
+    
+    {\displaystyle \sin {\frac {A}{2}}\cdot \sin {\frac {B}{2}}\cdot \sin {\frac {C}{2}}\leq {\frac {1}{8}}.}
+   : p. 286 
+  
+    
+      
+        
+          tan
+          
+            2
+          
+        
+        ⁡
+        
+          
+            A
+            2
+          
+        
+        +
+        
+          tan
+          
+            2
+          
+        
+        ⁡
+        
+          
+            B
+            2
+          
+        
+        +
+        
+          tan
+          
+            2
+          
+        
+        ⁡
+        
+          
+            C
+            2
+          
+        
+        ≥
+        1.
+      
+    
+    {\displaystyle \tan ^{2}{\frac {A}{2}}+\tan ^{2}{\frac {B}{2}}+\tan ^{2}{\frac {C}{2}}\geq 1.}
+    : p. 286 
+  
+    
+      
+        cot
+        ⁡
+        A
+        +
+        cot
+        ⁡
+        B
+        +
+        cot
+        ⁡
+        C
+        ≥
+        
+          
+            3
+          
+        
+        .
+      
+    
+    {\displaystyle \cot A+\cot B+\cot C\geq {\sqrt {3}}.}
+    
+  
+    
+      
+        sin
+        ⁡
+        A
+        ⋅
+        cos
+        ⁡
+        B
+        +
+        sin
+        ⁡
+        B
+        ⋅
+        cos
+        ⁡
+        C
+        +
+        sin
+        ⁡
+        C
+        ⋅
+        cos
+        ⁡
+        A
+        ≤
+        
+          
+            
+              3
+              
+                
+                  3
+                
+              
+            
+            4
+          
+        
+        .
+      
+    
+    {\displaystyle \sin A\cdot \cos B+\sin B\cdot \cos C+\sin C\cdot \cos A\leq {\frac {3{\sqrt {3}}}{4}}.}
+  : p.187, #309.2 For circumradius R and inradius r we have
+
+  
+    
+      
+        max
+        
+          (
+          
+            sin
+            ⁡
+            
+              
+                A
+                2
+              
+            
+            ,
+            sin
+            ⁡
+            
+              
+                B
+                2
+              
+            
+            ,
+            sin
+            ⁡
+            
+              
+                C
+                2
+              
+            
+          
+          )
+        
+        ≤
+        
+          
+            1
+            2
+          
+        
+        
+          (
+          
+            1
+            +
+            
+              
+                1
+                −
+                
+                  
+                    
+                      2
+                      r
+                    
+                    R
+                  
+                
+              
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle \max \left(\sin {\frac {A}{2}},\sin {\frac {B}{2}},\sin {\frac {C}{2}}\right)\leq {\frac {1}{2}}\left(1+{\sqrt {1-{\frac {2r}{R}}}}\right),}
+  with equality if and only if the triangle is isosceles with apex angle greater than or equal to 60°;: Cor. 3  and
+
+  
+    
+      
+        min
+        
+          (
+          
+            sin
+            ⁡
+            
+              
+                A
+                2
+              
+            
+            ,
+            sin
+            ⁡
+            
+              
+                B
+                2
+              
+            
+            ,
+            sin
+            ⁡
+            
+              
+                C
+                2
+              
+            
+          
+          )
+        
+        ≥
+        
+          
+            1
+            2
+          
+        
+        
+          (
+          
+            1
+            −
+            
+              
+                1
+                −
+                
+                  
+                    
+                      2
+                      r
+                    
+                    R
+                  
+                
+              
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle \min \left(\sin {\frac {A}{2}},\sin {\frac {B}{2}},\sin {\frac {C}{2}}\right)\geq {\frac {1}{2}}\left(1-{\sqrt {1-{\frac {2r}{R}}}}\right),}
+  with equality if and only if the triangle is isosceles with apex angle less than or equal to 60°.: Cor. 3 We also have
+
+  
+    
+      
+        
+          
+            r
+            R
+          
+        
+        −
+        
+          
+            1
+            −
+            
+              
+                
+                  2
+                  r
+                
+                R
+              
+            
+          
+        
+        ≤
+        cos
+        ⁡
+        A
+        ≤
+        
+          
+            r
+            R
+          
+        
+        +
+        
+          
+            1
+            −
+            
+              
+                
+                  2
+                  r
+                
+                R
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {r}{R}}-{\sqrt {1-{\frac {2r}{R}}}}\leq \cos A\leq {\frac {r}{R}}+{\sqrt {1-{\frac {2r}{R}}}}}
+  and likewise for angles B, C, with equality in the first part if the triangle is isosceles and the apex angle is at least 60° and equality in the second part if and only if the triangle is isosceles with apex angle no greater than 60°.: Prop. 5 Further, any two angle measures A and B opposite sides a and b respectively are related according to: p. 264 
+
+  
+    
+      
+        A
+        >
+        B
+        
+        
+          if and only if
+        
+        
+        a
+        >
+        b
+        ,
+      
+    
+    {\displaystyle A>B\quad {\text{if and only if}}\quad a>b,}
+  which is related to the isosceles triangle theorem and its converse, which state that A = B if and only if a = b.
+By Euclid's exterior angle theorem, any exterior angle of a triangle is greater than either of the interior angles at the opposite vertices:: p. 261 
+
+  
+    
+      
+        
+          180
+          
+            ∘
+          
+        
+        −
+        A
+        >
+        max
+        (
+        B
+        ,
+        C
+        )
+        .
+      
+    
+    {\displaystyle 180^{\circ }-A>\max(B,C).}
+  If a point D is in the interior of triangle ABC, then
+
+  
+    
+      
+        ∠
+        B
+        D
+        C
+        >
+        ∠
+        A
+        .
+      
+    
+    {\displaystyle \angle BDC>\angle A.}
+  : p. 263 For an acute triangle we have: p.26, #954 
+
+  
+    
+      
+        
+          cos
+          
+            2
+          
+        
+        ⁡
+        A
+        +
+        
+          cos
+          
+            2
+          
+        
+        ⁡
+        B
+        +
+        
+          cos
+          
+            2
+          
+        
+        ⁡
+        C
+        <
+        1
+        ,
+      
+    
+    {\displaystyle \cos ^{2}A+\cos ^{2}B+\cos ^{2}C<1,}
+  with the reverse inequality holding for an obtuse triangle.
+Furthermore, for non-obtuse triangles we have: Corollary 3 
+
+  
+    
+      
+        
+          
+            
+              2
+              R
+              +
+              r
+            
+            R
+          
+        
+        ≤
+        
+          
+            2
+          
+        
+        
+          (
+          
+            cos
+            ⁡
+            
+              (
+              
+                
+                  
+                    A
+                    −
+                    C
+                  
+                  2
+                
+              
+              )
+            
+            +
+            cos
+            ⁡
+            
+              (
+              
+                
+                  B
+                  2
+                
+              
+              )
+            
+          
+          )
+        
+      
+    
+    {\displaystyle {\frac {2R+r}{R}}\leq {\sqrt {2}}\left(\cos \left({\frac {A-C}{2}}\right)+\cos \left({\frac {B}{2}}\right)\right)}
+  with equality if and only if it is a right triangle with hypotenuse AC.
+
+Area
+Weitzenböck's inequality is, in terms of area T,: p. 290 
+
+  
+    
+      
+        
+          a
+          
+            2
+          
+        
+        +
+        
+          b
+          
+            2
+          
+        
+        +
+        
+          c
+          
+            2
+          
+        
+        ≥
+        4
+        
+          
+            3
+          
+        
+        ⋅
+        T
+        ,
+      
+    
+    {\displaystyle a^{2}+b^{2}+c^{2}\geq 4{\sqrt {3}}\cdot T,}
+  with equality only in the equilateral case. This is a corollary of the Hadwiger–Finsler inequality, which is
+
+  
+    
+      
+        
+          a
+          
+            2
+          
+        
+        +
+        
+          b
+          
+            2
+          
+        
+        +
+        
+          c
+          
+            2
+          
+        
+        ≥
+        (
+        a
+        −
+        b
+        
+          )
+          
+            2
+          
+        
+        +
+        (
+        b
+        −
+        c
+        
+          )
+          
+            2
+          
+        
+        +
+        (
+        c
+        −
+        a
+        
+          )
+          
+            2
+          
+        
+        +
+        4
+        
+          
+            3
+          
+        
+        ⋅
+        T
+        .
+      
+    
+    {\displaystyle a^{2}+b^{2}+c^{2}\geq (a-b)^{2}+(b-c)^{2}+(c-a)^{2}+4{\sqrt {3}}\cdot T.}
+  Also,
+
+  
+    
+      
+        a
+        b
+        +
+        b
+        c
+        +
+        c
+        a
+        ≥
+        4
+        
+          
+            3
+          
+        
+        ⋅
+        T
+      
+    
+    {\displaystyle ab+bc+ca\geq 4{\sqrt {3}}\cdot T}
+  : p. 138 and: p.192, #340.3 : p. 204 
+
+  
+    
+      
+        T
+        ≤
+        
+          
+            
+              a
+              b
+              c
+            
+            2
+          
+        
+        
+          
+            
+              
+                a
+                +
+                b
+                +
+                c
+              
+              
+                
+                  a
+                  
+                    3
+                  
+                
+                +
+                
+                  b
+                  
+                    3
+                  
+                
+                +
+                
+                  c
+                  
+                    3
+                  
+                
+                +
+                a
+                b
+                c
+              
+            
+          
+        
+        ≤
+        
+          
+            1
+            4
+          
+        
+        
+          
+            
+              
+                3
+                (
+                a
+                +
+                b
+                +
+                c
+                
+                  )
+                  
+                    3
+                  
+                
+                (
+                a
+                b
+                c
+                
+                  )
+                  
+                    4
+                  
+                
+              
+              
+                
+                  a
+                  
+                    3
+                  
+                
+                +
+                
+                  b
+                  
+                    3
+                  
+                
+                +
+                
+                  c
+                  
+                    3
+                  
+                
+              
+            
+            
+              6
+            
+          
+        
+        ≤
+        
+          
+            
+              3
+            
+            4
+          
+        
+        (
+        a
+        b
+        c
+        
+          )
+          
+            2
+            
+              /
+            
+            3
+          
+        
+        .
+      
+    
+    {\displaystyle T\leq {\frac {abc}{2}}{\sqrt {\frac {a+b+c}{a^{3}+b^{3}+c^{3}+abc}}}\leq {\frac {1}{4}}{\sqrt[{6}]{\frac {3(a+b+c)^{3}(abc)^{4}}{a^{3}+b^{3}+c^{3}}}}\leq {\frac {\sqrt {3}}{4}}(abc)^{2/3}.}
+  From the rightmost upper bound on T, using the arithmetic-geometric mean inequality, is obtained the isoperimetric inequality for triangles:
+
+  
+    
+      
+        T
+        ≤
+        
+          
+            
+              3
+            
+            36
+          
+        
+        (
+        a
+        +
+        b
+        +
+        c
+        
+          )
+          
+            2
+          
+        
+        =
+        
+          
+            
+              3
+            
+            9
+          
+        
+        
+          s
+          
+            2
+          
+        
+      
+    
+    {\displaystyle T\leq {\frac {\sqrt {3}}{36}}(a+b+c)^{2}={\frac {\sqrt {3}}{9}}s^{2}}
+   : p. 203 for semiperimeter s. This is sometimes stated in terms of perimeter p as
+
+  
+    
+      
+        
+          p
+          
+            2
+          
+        
+        ≥
+        12
+        
+          
+            3
+          
+        
+        ⋅
+        T
+        ,
+      
+    
+    {\displaystyle p^{2}\geq 12{\sqrt {3}}\cdot T,}
+  with equality for the equilateral triangle. This is strengthened by
+
+  
+    
+      
+        T
+        ≤
+        
+          
+            
+              3
+            
+            4
+          
+        
+        (
+        a
+        b
+        c
+        
+          )
+          
+            2
+            
+              /
+            
+            3
+          
+        
+        .
+      
+    
+    {\displaystyle T\leq {\frac {\sqrt {3}}{4}}(abc)^{2/3}.}
+  Bonnesen's inequality also strengthens the isoperimetric inequality:
+
+  
+    
+      
+        
+          π
+          
+            2
+          
+        
+        (
+        R
+        −
+        r
+        
+          )
+          
+            2
+          
+        
+        ≤
+        (
+        a
+        +
+        b
+        +
+        c
+        
+          )
+          
+            2
+          
+        
+        −
+        4
+        π
+        T
+        .
+      
+    
+    {\displaystyle \pi ^{2}(R-r)^{2}\leq (a+b+c)^{2}-4\pi T.}
+  We also have
+
+  
+    
+      
+        
+          
+            
+              9
+              a
+              b
+              c
+            
+            
+              a
+              +
+              b
+              +
+              c
+            
+          
+        
+        ≥
+        4
+        
+          
+            3
+          
+        
+        ⋅
+        T
+      
+    
+    {\displaystyle {\frac {9abc}{a+b+c}}\geq 4{\sqrt {3}}\cdot T}
+   : p. 290 : p. 138 with equality only in the equilateral case;
+
+  
+    
+      
+        38
+        
+          T
+          
+            2
+          
+        
+        ≤
+        2
+        
+          s
+          
+            4
+          
+        
+        −
+        
+          a
+          
+            4
+          
+        
+        −
+        
+          b
+          
+            4
+          
+        
+        −
+        
+          c
+          
+            4
+          
+        
+      
+    
+    {\displaystyle 38T^{2}\leq 2s^{4}-a^{4}-b^{4}-c^{4}}
+  : p.111, #2807 for semiperimeter s; and
+
+  
+    
+      
+        
+          
+            1
+            a
+          
+        
+        +
+        
+          
+            1
+            b
+          
+        
+        +
+        
+          
+            1
+            c
+          
+        
+        <
+        
+          
+            s
+            T
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {1}{a}}+{\frac {1}{b}}+{\frac {1}{c}}<{\frac {s}{T}}.}
+  : p.88, #2188 Ono's inequality for acute triangles (those with all angles less than 90°) is
+
+  
+    
+      
+        27
+        (
+        
+          b
+          
+            2
+          
+        
+        +
+        
+          c
+          
+            2
+          
+        
+        −
+        
+          a
+          
+            2
+          
+        
+        
+          )
+          
+            2
+          
+        
+        (
+        
+          c
+          
+            2
+          
+        
+        +
+        
+          a
+          
+            2
+          
+        
+        −
+        
+          b
+          
+            2
+          
+        
+        
+          )
+          
+            2
+          
+        
+        (
+        
+          a
+          
+            2
+          
+        
+        +
+        
+          b
+          
+            2
+          
+        
+        −
+        
+          c
+          
+            2
+          
+        
+        
+          )
+          
+            2
+          
+        
+        ≤
+        (
+        4
+        T
+        
+          )
+          
+            6
+          
+        
+        .
+      
+    
+    {\displaystyle 27(b^{2}+c^{2}-a^{2})^{2}(c^{2}+a^{2}-b^{2})^{2}(a^{2}+b^{2}-c^{2})^{2}\leq (4T)^{6}.}
+  The area of the triangle can be compared to the area of the incircle:
+
+  
+    
+      
+        
+          
+            Area of incircle
+            Area of triangle
+          
+        
+        ≤
+        
+          
+            π
+            
+              3
+              
+                
+                  3
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\text{Area of incircle}}{\text{Area of triangle}}}\leq {\frac {\pi }{3{\sqrt {3}}}}}
+  with equality only for the equilateral triangle.If an inner triangle is inscribed in a reference triangle so that the inner triangle's vertices partition the perimeter of the reference triangle into equal length segments, the ratio of their areas is bounded by: p. 138 
+
+  
+    
+      
+        
+          
+            Area of inscribed triangle
+            Area of reference triangle
+          
+        
+        ≤
+        
+          
+            1
+            4
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {\text{Area of inscribed triangle}}{\text{Area of reference triangle}}}\leq {\frac {1}{4}}.}
+  Let the interior angle bisectors of A, B, and C meet the opposite sides at D, E, and F. Then: p.18, #762 
+
+  
+    
+      
+        
+          
+            
+              3
+              a
+              b
+              c
+            
+            
+              4
+              (
+              
+                a
+                
+                  3
+                
+              
+              +
+              
+                b
+                
+                  3
+                
+              
+              +
+              
+                c
+                
+                  3
+                
+              
+              )
+            
+          
+        
+        ≤
+        
+          
+            
+              
+                Area of triangle
+              
+              
+              D
+              E
+              F
+            
+            
+              
+                Area of triangle
+              
+              
+              A
+              B
+              C
+            
+          
+        
+        ≤
+        
+          
+            1
+            4
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {3abc}{4(a^{3}+b^{3}+c^{3})}}\leq {\frac {{\text{Area of triangle}}\,DEF}{{\text{Area of triangle}}\,ABC}}\leq {\frac {1}{4}}.}
+  A line through a triangle’s median splits the area such that the ratio of the smaller sub-area to the original triangle’s area is at least 4/9.
+
+Medians and centroid
+The three medians 
+  
+    
+      
+        
+          m
+          
+            a
+          
+        
+        ,
+        
+        
+          m
+          
+            b
+          
+        
+        ,
+        
+        
+          m
+          
+            c
+          
+        
+      
+    
+    {\displaystyle m_{a},\,m_{b},\,m_{c}}
+   of a triangle each connect a vertex with the midpoint of the opposite side, and the sum of their lengths satisfies: p. 271 
+
+  
+    
+      
+        
+          
+            3
+            4
+          
+        
+        (
+        a
+        +
+        b
+        +
+        c
+        )
+        <
+        
+          m
+          
+            a
+          
+        
+        +
+        
+          m
+          
+            b
+          
+        
+        +
+        
+          m
+          
+            c
+          
+        
+        <
+        a
+        +
+        b
+        +
+        c
+        .
+      
+    
+    {\displaystyle {\frac {3}{4}}(a+b+c)<m_{a}+m_{b}+m_{c}<a+b+c.}
+  Moreover,: p.12, #589 
+
+  
+    
+      
+        
+          
+            (
+            
+              
+                
+                  m
+                  
+                    a
+                  
+                
+                a
+              
+            
+            )
+          
+          
+            2
+          
+        
+        +
+        
+          
+            (
+            
+              
+                
+                  m
+                  
+                    b
+                  
+                
+                b
+              
+            
+            )
+          
+          
+            2
+          
+        
+        +
+        
+          
+            (
+            
+              
+                
+                  m
+                  
+                    c
+                  
+                
+                c
+              
+            
+            )
+          
+          
+            2
+          
+        
+        ≥
+        
+          
+            9
+            4
+          
+        
+        ,
+      
+    
+    {\displaystyle \left({\frac {m_{a}}{a}}\right)^{2}+\left({\frac {m_{b}}{b}}\right)^{2}+\left({\frac {m_{c}}{c}}\right)^{2}\geq {\frac {9}{4}},}
+  with equality only in the equilateral case, and for inradius r,: p.22, #846 
+
+  
+    
+      
+        
+          
+            
+              
+                m
+                
+                  a
+                
+              
+              
+                m
+                
+                  b
+                
+              
+              
+                m
+                
+                  c
+                
+              
+            
+            
+              
+                m
+                
+                  a
+                
+                
+                  2
+                
+              
+              +
+              
+                m
+                
+                  b
+                
+                
+                  2
+                
+              
+              +
+              
+                m
+                
+                  c
+                
+                
+                  2
+                
+              
+            
+          
+        
+        ≥
+        r
+        .
+      
+    
+    {\displaystyle {\frac {m_{a}m_{b}m_{c}}{m_{a}^{2}+m_{b}^{2}+m_{c}^{2}}}\geq r.}
+  If we further denote the lengths of the medians extended to their intersections with the circumcircle as Ma , 
+Mb , and Mc , then: p.16, #689 
+
+  
+    
+      
+        
+          
+            
+              M
+              
+                a
+              
+            
+            
+              m
+              
+                a
+              
+            
+          
+        
+        +
+        
+          
+            
+              M
+              
+                b
+              
+            
+            
+              m
+              
+                b
+              
+            
+          
+        
+        +
+        
+          
+            
+              M
+              
+                c
+              
+            
+            
+              m
+              
+                c
+              
+            
+          
+        
+        ≥
+        4.
+      
+    
+    {\displaystyle {\frac {M_{a}}{m_{a}}}+{\frac {M_{b}}{m_{b}}}+{\frac {M_{c}}{m_{c}}}\geq 4.}
+  The centroid G is the intersection of the medians. Let AG, BG, and CG meet the circumcircle at U, V, and W respectively. Then both: p.17#723 
+
+  
+    
+      
+        G
+        U
+        +
+        G
+        V
+        +
+        G
+        W
+        ≥
+        A
+        G
+        +
+        B
+        G
+        +
+        C
+        G
+      
+    
+    {\displaystyle GU+GV+GW\geq AG+BG+CG}
+  and
+
+  
+    
+      
+        G
+        U
+        ⋅
+        G
+        V
+        ⋅
+        G
+        W
+        ≥
+        A
+        G
+        ⋅
+        B
+        G
+        ⋅
+        C
+        G
+        ;
+      
+    
+    {\displaystyle GU\cdot GV\cdot GW\geq AG\cdot BG\cdot CG;}
+  in addition,: p.156, #S56 
+
+  
+    
+      
+        sin
+        ⁡
+        G
+        B
+        C
+        +
+        sin
+        ⁡
+        G
+        C
+        A
+        +
+        sin
+        ⁡
+        G
+        A
+        B
+        ≤
+        
+          
+            3
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle \sin GBC+\sin GCA+\sin GAB\leq {\frac {3}{2}}.}
+  For an acute triangle we have: p.26, #954 
+
+  
+    
+      
+        
+          m
+          
+            a
+          
+          
+            2
+          
+        
+        +
+        
+          m
+          
+            b
+          
+          
+            2
+          
+        
+        +
+        
+          m
+          
+            c
+          
+          
+            2
+          
+        
+        >
+        6
+        
+          R
+          
+            2
+          
+        
+      
+    
+    {\displaystyle m_{a}^{2}+m_{b}^{2}+m_{c}^{2}>6R^{2}}
+  in terms of the circumradius R, while the opposite inequality holds for an obtuse triangle.
+Denoting as IA, IB, IC the distances of the incenter from the vertices, the following holds:: p.192, #339.3 
+
+  
+    
+      
+        
+          
+            
+              I
+              
+                A
+                
+                  2
+                
+              
+            
+            
+              m
+              
+                a
+              
+              
+                2
+              
+            
+          
+        
+        +
+        
+          
+            
+              I
+              
+                B
+                
+                  2
+                
+              
+            
+            
+              m
+              
+                b
+              
+              
+                2
+              
+            
+          
+        
+        +
+        
+          
+            
+              I
+              
+                C
+                
+                  2
+                
+              
+            
+            
+              m
+              
+                c
+              
+              
+                2
+              
+            
+          
+        
+        ≤
+        
+          
+            4
+            3
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {IA^{2}}{m_{a}^{2}}}+{\frac {IB^{2}}{m_{b}^{2}}}+{\frac {IC^{2}}{m_{c}^{2}}}\leq {\frac {4}{3}}.}
+  The three medians of any triangle can form the sides of another triangle:: p. 592 
+
+  
+    
+      
+        
+          m
+          
+            a
+          
+        
+        <
+        
+          m
+          
+            b
+          
+        
+        +
+        
+          m
+          
+            c
+          
+        
+        ,
+        
+        
+          m
+          
+            b
+          
+        
+        <
+        
+          m
+          
+            c
+          
+        
+        +
+        
+          m
+          
+            a
+          
+        
+        ,
+        
+        
+          m
+          
+            c
+          
+        
+        <
+        
+          m
+          
+            a
+          
+        
+        +
+        
+          m
+          
+            b
+          
+        
+        .
+      
+    
+    {\displaystyle m_{a}<m_{b}+m_{c},\quad m_{b}<m_{c}+m_{a},\quad m_{c}<m_{a}+m_{b}.}
+  Furthermore,: Coro. 6 
+
+  
+    
+      
+        max
+        {
+        b
+        
+          m
+          
+            c
+          
+        
+        +
+        c
+        
+          m
+          
+            b
+          
+        
+        ,
+        
+        c
+        
+          m
+          
+            a
+          
+        
+        +
+        a
+        
+          m
+          
+            c
+          
+        
+        ,
+        
+        a
+        
+          m
+          
+            b
+          
+        
+        +
+        b
+        
+          m
+          
+            a
+          
+        
+        }
+        ≤
+        
+          
+            
+              
+                a
+                
+                  2
+                
+              
+              +
+              
+                b
+                
+                  2
+                
+              
+              +
+              
+                c
+                
+                  2
+                
+              
+            
+            
+              3
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \max\{bm_{c}+cm_{b},\quad cm_{a}+am_{c},\quad am_{b}+bm_{a}\}\leq {\frac {a^{2}+b^{2}+c^{2}}{\sqrt {3}}}.}
+
+Altitudes
+The altitudes ha, etc. each connect a vertex to the opposite side and are perpendicular to that side. They satisfy both: p. 274 
+
+  
+    
+      
+        
+          h
+          
+            a
+          
+        
+        +
+        
+          h
+          
+            b
+          
+        
+        +
+        
+          h
+          
+            c
+          
+        
+        ≤
+        
+          
+            
+              3
+            
+            2
+          
+        
+        (
+        a
+        +
+        b
+        +
+        c
+        )
+      
+    
+    {\displaystyle h_{a}+h_{b}+h_{c}\leq {\frac {\sqrt {3}}{2}}(a+b+c)}
+  and
+
+  
+    
+      
+        
+          h
+          
+            a
+          
+          
+            2
+          
+        
+        +
+        
+          h
+          
+            b
+          
+          
+            2
+          
+        
+        +
+        
+          h
+          
+            c
+          
+          
+            2
+          
+        
+        ≤
+        
+          
+            3
+            4
+          
+        
+        (
+        
+          a
+          
+            2
+          
+        
+        +
+        
+          b
+          
+            2
+          
+        
+        +
+        
+          c
+          
+            2
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle h_{a}^{2}+h_{b}^{2}+h_{c}^{2}\leq {\frac {3}{4}}(a^{2}+b^{2}+c^{2}).}
+  In addition, if 
+  
+    
+      
+        a
+        ≥
+        b
+        ≥
+        c
+        ,
+      
+    
+    {\displaystyle a\geq b\geq c,}
+   then: 222, #67 
+
+  
+    
+      
+        a
+        +
+        
+          h
+          
+            a
+          
+        
+        ≥
+        b
+        +
+        
+          h
+          
+            b
+          
+        
+        ≥
+        c
+        +
+        
+          h
+          
+            c
+          
+        
+        .
+      
+    
+    {\displaystyle a+h_{a}\geq b+h_{b}\geq c+h_{c}.}
+  We also have: p.140, #3150 
+
+  
+    
+      
+        
+          
+            
+              h
+              
+                a
+              
+              
+                2
+              
+            
+            
+              (
+              
+                b
+                
+                  2
+                
+              
+              +
+              
+                c
+                
+                  2
+                
+              
+              )
+            
+          
+        
+        ⋅
+        
+          
+            
+              h
+              
+                b
+              
+              
+                2
+              
+            
+            
+              (
+              
+                c
+                
+                  2
+                
+              
+              +
+              
+                a
+                
+                  2
+                
+              
+              )
+            
+          
+        
+        ⋅
+        
+          
+            
+              h
+              
+                c
+              
+              
+                2
+              
+            
+            
+              (
+              
+                a
+                
+                  2
+                
+              
+              +
+              
+                b
+                
+                  2
+                
+              
+              )
+            
+          
+        
+        ≤
+        
+          
+            (
+            
+              
+                3
+                8
+              
+            
+            )
+          
+          
+            3
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {h_{a}^{2}}{(b^{2}+c^{2})}}\cdot {\frac {h_{b}^{2}}{(c^{2}+a^{2})}}\cdot {\frac {h_{c}^{2}}{(a^{2}+b^{2})}}\leq \left({\frac {3}{8}}\right)^{3}.}
+  For internal angle bisectors ta, tb, tc from vertices A, B, C and circumcenter R and incenter r, we have: p.125, #3005 
+
+  
+    
+      
+        
+          
+            
+              h
+              
+                a
+              
+            
+            
+              t
+              
+                a
+              
+            
+          
+        
+        +
+        
+          
+            
+              h
+              
+                b
+              
+            
+            
+              t
+              
+                b
+              
+            
+          
+        
+        +
+        
+          
+            
+              h
+              
+                c
+              
+            
+            
+              t
+              
+                c
+              
+            
+          
+        
+        ≥
+        
+          
+            
+              R
+              +
+              4
+              r
+            
+            R
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {h_{a}}{t_{a}}}+{\frac {h_{b}}{t_{b}}}+{\frac {h_{c}}{t_{c}}}\geq {\frac {R+4r}{R}}.}
+  The reciprocals of the altitudes of any triangle can themselves form a triangle:
+
+  
+    
+      
+        
+          
+            1
+            
+              h
+              
+                a
+              
+            
+          
+        
+        <
+        
+          
+            1
+            
+              h
+              
+                b
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              h
+              
+                c
+              
+            
+          
+        
+        ,
+        
+        
+          
+            1
+            
+              h
+              
+                b
+              
+            
+          
+        
+        <
+        
+          
+            1
+            
+              h
+              
+                c
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              h
+              
+                a
+              
+            
+          
+        
+        ,
+        
+        
+          
+            1
+            
+              h
+              
+                c
+              
+            
+          
+        
+        <
+        
+          
+            1
+            
+              h
+              
+                a
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              h
+              
+                b
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {1}{h_{a}}}<{\frac {1}{h_{b}}}+{\frac {1}{h_{c}}},\quad {\frac {1}{h_{b}}}<{\frac {1}{h_{c}}}+{\frac {1}{h_{a}}},\quad {\frac {1}{h_{c}}}<{\frac {1}{h_{a}}}+{\frac {1}{h_{b}}}.}
+
+Internal angle bisectors and incenter
+The internal angle bisectors are segments in the interior of the triangle reaching from one vertex to the opposite side and bisecting the vertex angle into two equal angles. The angle bisectors ta etc. satisfy
+
+  
+    
+      
+        
+          t
+          
+            a
+          
+        
+        +
+        
+          t
+          
+            b
+          
+        
+        +
+        
+          t
+          
+            c
+          
+        
+        ≤
+        
+          
+            3
+            2
+          
+        
+        (
+        a
+        +
+        b
+        +
+        c
+        )
+      
+    
+    {\displaystyle t_{a}+t_{b}+t_{c}\leq {\frac {3}{2}}(a+b+c)}
+  in terms of the sides, and
+
+  
+    
+      
+        
+          h
+          
+            a
+          
+        
+        ≤
+        
+          t
+          
+            a
+          
+        
+        ≤
+        
+          m
+          
+            a
+          
+        
+      
+    
+    {\displaystyle h_{a}\leq t_{a}\leq m_{a}}
+  in terms of the altitudes and medians, and likewise for tb and tc .: pp. 271–3  Further,: p.224, #132 
+
+  
+    
+      
+        
+          
+            
+              m
+              
+                a
+              
+            
+          
+        
+        +
+        
+          
+            
+              m
+              
+                b
+              
+            
+          
+        
+        +
+        
+          
+            
+              m
+              
+                c
+              
+            
+          
+        
+        ≥
+        
+          
+            
+              t
+              
+                a
+              
+            
+          
+        
+        +
+        
+          
+            
+              t
+              
+                b
+              
+            
+          
+        
+        +
+        
+          
+            
+              t
+              
+                c
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt {m_{a}}}+{\sqrt {m_{b}}}+{\sqrt {m_{c}}}\geq {\sqrt {t_{a}}}+{\sqrt {t_{b}}}+{\sqrt {t_{c}}}}
+  in terms of the medians, and: p.125, #3005 
+
+  
+    
+      
+        
+          
+            
+              h
+              
+                a
+              
+            
+            
+              t
+              
+                a
+              
+            
+          
+        
+        +
+        
+          
+            
+              h
+              
+                b
+              
+            
+            
+              t
+              
+                b
+              
+            
+          
+        
+        +
+        
+          
+            
+              h
+              
+                c
+              
+            
+            
+              t
+              
+                c
+              
+            
+          
+        
+        ≥
+        1
+        +
+        
+          
+            
+              4
+              r
+            
+            R
+          
+        
+      
+    
+    {\displaystyle {\frac {h_{a}}{t_{a}}}+{\frac {h_{b}}{t_{b}}}+{\frac {h_{c}}{t_{c}}}\geq 1+{\frac {4r}{R}}}
+  in terms of the altitudes, inradius r and circumradius R.
+Let Ta ,  Tb , and Tc be the lengths of the angle bisectors extended to the circumcircle. Then: p.11, #535 
+
+  
+    
+      
+        
+          T
+          
+            a
+          
+        
+        
+          T
+          
+            b
+          
+        
+        
+          T
+          
+            c
+          
+        
+        ≥
+        
+          
+            
+              8
+              
+                
+                  3
+                
+              
+            
+            9
+          
+        
+        a
+        b
+        c
+        ,
+      
+    
+    {\displaystyle T_{a}T_{b}T_{c}\geq {\frac {8{\sqrt {3}}}{9}}abc,}
+  with equality only in the equilateral case, and: p.14, #628 
+
+  
+    
+      
+        
+          T
+          
+            a
+          
+        
+        +
+        
+          T
+          
+            b
+          
+        
+        +
+        
+          T
+          
+            c
+          
+        
+        ≤
+        5
+        R
+        +
+        2
+        r
+      
+    
+    {\displaystyle T_{a}+T_{b}+T_{c}\leq 5R+2r}
+  for circumradius R and inradius r, again with equality only in the equilateral case. In addition,.: p.20, #795 
+
+  
+    
+      
+        
+          T
+          
+            a
+          
+        
+        +
+        
+          T
+          
+            b
+          
+        
+        +
+        
+          T
+          
+            c
+          
+        
+        ≥
+        
+          
+            4
+            3
+          
+        
+        (
+        
+          t
+          
+            a
+          
+        
+        +
+        
+          t
+          
+            b
+          
+        
+        +
+        
+          t
+          
+            c
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle T_{a}+T_{b}+T_{c}\geq {\frac {4}{3}}(t_{a}+t_{b}+t_{c}).}
+  For incenter I (the intersection of the internal angle bisectors),: p.127, #3033 
+
+  
+    
+      
+        6
+        r
+        ≤
+        A
+        I
+        +
+        B
+        I
+        +
+        C
+        I
+        ≤
+        
+          
+            12
+            (
+            
+              R
+              
+                2
+              
+            
+            −
+            R
+            r
+            +
+            
+              r
+              
+                2
+              
+            
+            )
+          
+        
+        .
+      
+    
+    {\displaystyle 6r\leq AI+BI+CI\leq {\sqrt {12(R^{2}-Rr+r^{2})}}.}
+  For midpoints L, M, N of the sides,: p.152, #J53 
+
+  
+    
+      
+        I
+        
+          L
+          
+            2
+          
+        
+        +
+        I
+        
+          M
+          
+            2
+          
+        
+        +
+        I
+        
+          N
+          
+            2
+          
+        
+        ≥
+        r
+        (
+        R
+        +
+        r
+        )
+        .
+      
+    
+    {\displaystyle IL^{2}+IM^{2}+IN^{2}\geq r(R+r).}
+  For incenter I, centroid G, circumcenter O, nine-point center N, and orthocenter H, we have for non-equilateral triangles the distance inequalities: p.232 
+
+  
+    
+      
+        I
+        G
+        <
+        H
+        G
+        ,
+      
+    
+    {\displaystyle IG<HG,}
+  
+  
+    
+      
+        I
+        H
+        <
+        H
+        G
+        ,
+      
+    
+    {\displaystyle IH<HG,}
+  
+  
+    
+      
+        I
+        G
+        <
+        I
+        O
+        ,
+      
+    
+    {\displaystyle IG<IO,}
+  and
+
+  
+    
+      
+        I
+        N
+        <
+        
+          
+            1
+            2
+          
+        
+        I
+        O
+        ;
+      
+    
+    {\displaystyle IN<{\frac {1}{2}}IO;}
+  and we have the angle inequality: p.233 
+
+  
+    
+      
+        ∠
+        I
+        O
+        H
+        <
+        
+          
+            π
+            6
+          
+        
+        .
+      
+    
+    {\displaystyle \angle IOH<{\frac {\pi }{6}}.}
+  In addition,: p.233, Lemma 3 
+
+  
+    
+      
+        I
+        G
+        <
+        
+          
+            1
+            3
+          
+        
+        v
+        ,
+      
+    
+    {\displaystyle IG<{\frac {1}{3}}v,}
+  where v is the longest median.
+Three triangles with vertex at the incenter, OIH, GIH, and OGI, are obtuse:: p.232 
+
+  
+    
+      
+        ∠
+        O
+        I
+        H
+      
+    
+    {\displaystyle \angle OIH}
+   > 
+  
+    
+      
+        ∠
+        G
+        I
+        H
+      
+    
+    {\displaystyle \angle GIH}
+    > 90° , 
+  
+    
+      
+        ∠
+        O
+        G
+        I
+      
+    
+    {\displaystyle \angle OGI}
+   > 90°.Since these triangles have the indicated obtuse angles, we have
+
+  
+    
+      
+        O
+        
+          I
+          
+            2
+          
+        
+        +
+        I
+        
+          H
+          
+            2
+          
+        
+        <
+        O
+        
+          H
+          
+            2
+          
+        
+        ,
+        
+        G
+        
+          I
+          
+            2
+          
+        
+        +
+        I
+        
+          H
+          
+            2
+          
+        
+        <
+        G
+        
+          H
+          
+            2
+          
+        
+        ,
+        
+        O
+        
+          G
+          
+            2
+          
+        
+        +
+        G
+        
+          I
+          
+            2
+          
+        
+        <
+        O
+        
+          I
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle OI^{2}+IH^{2}<OH^{2},\quad GI^{2}+IH^{2}<GH^{2},\quad OG^{2}+GI^{2}<OI^{2},}
+  and in fact the second of these is equivalent to a result stronger than the first, shown by Euler:
+
+  
+    
+      
+        O
+        
+          I
+          
+            2
+          
+        
+        <
+        O
+        
+          H
+          
+            2
+          
+        
+        −
+        2
+        ⋅
+        I
+        
+          H
+          
+            2
+          
+        
+        <
+        2
+        ⋅
+        O
+        
+          I
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle OI^{2}<OH^{2}-2\cdot IH^{2}<2\cdot OI^{2}.}
+  The larger of two angles of a triangle has the shorter internal angle bisector:: p.72, #114 
+
+  
+    
+      
+        
+          If
+        
+        
+        A
+        >
+        B
+        
+        
+          then
+        
+        
+        
+          t
+          
+            a
+          
+        
+        <
+        
+          t
+          
+            b
+          
+        
+        .
+      
+    
+    {\displaystyle {\text{If}}\quad A>B\quad {\text{then}}\quad t_{a}<t_{b}.}
+
+Perpendicular bisectors of sides
+These inequalities deal with the lengths pa etc. of the triangle-interior portions of the perpendicular bisectors of sides of the triangle. Denoting the sides so that 
+  
+    
+      
+        a
+        ≥
+        b
+        ≥
+        c
+        ,
+      
+    
+    {\displaystyle a\geq b\geq c,}
+   we have
+
+  
+    
+      
+        
+          p
+          
+            a
+          
+        
+        ≥
+        
+          p
+          
+            b
+          
+        
+      
+    
+    {\displaystyle p_{a}\geq p_{b}}
+  and
+
+  
+    
+      
+        
+          p
+          
+            c
+          
+        
+        ≥
+        
+          p
+          
+            b
+          
+        
+        .
+      
+    
+    {\displaystyle p_{c}\geq p_{b}.}
+
+Segments from an arbitrary point
+Interior point
+Consider any point P in the interior of the triangle, with the triangle's vertices denoted A, B, and C and with the lengths of line segments denoted PA etc. We have: pp. 275–7 
+
+  
+    
+      
+        2
+        (
+        P
+        A
+        +
+        P
+        B
+        +
+        P
+        C
+        )
+        >
+        A
+        B
+        +
+        B
+        C
+        +
+        C
+        A
+        >
+        P
+        A
+        +
+        P
+        B
+        +
+        P
+        C
+        ,
+      
+    
+    {\displaystyle 2(PA+PB+PC)>AB+BC+CA>PA+PB+PC,}
+  and more strongly than the second of these inequalities is:: p. 278  If 
+  
+    
+      
+        A
+        B
+      
+    
+    {\displaystyle AB}
+   is the shortest side of the triangle, then 
+
+  
+    
+      
+        P
+        A
+        +
+        P
+        B
+        +
+        P
+        C
+        ≤
+        A
+        C
+        +
+        B
+        C
+        .
+      
+    
+    {\displaystyle PA+PB+PC\leq AC+BC.}
+  We also have Ptolemy's inequality: p.19, #770 
+
+  
+    
+      
+        P
+        A
+        ⋅
+        B
+        C
+        +
+        P
+        B
+        ⋅
+        C
+        A
+        >
+        P
+        C
+        ⋅
+        A
+        B
+      
+    
+    {\displaystyle PA\cdot BC+PB\cdot CA>PC\cdot AB}
+  for interior point P and likewise for cyclic permutations of the vertices.
+If we draw perpendiculars from interior point P to the sides of the triangle, intersecting the sides at D, E, and F, we have: p. 278 
+
+  
+    
+      
+        P
+        A
+        ⋅
+        P
+        B
+        ⋅
+        P
+        C
+        ≥
+        (
+        P
+        D
+        +
+        P
+        E
+        )
+        (
+        P
+        E
+        +
+        P
+        F
+        )
+        (
+        P
+        F
+        +
+        P
+        D
+        )
+        .
+      
+    
+    {\displaystyle PA\cdot PB\cdot PC\geq (PD+PE)(PE+PF)(PF+PD).}
+  Further, the Erdős–Mordell inequality states that
+
+  
+    
+      
+        
+          
+            
+              P
+              A
+              +
+              P
+              B
+              +
+              P
+              C
+            
+            
+              P
+              D
+              +
+              P
+              E
+              +
+              P
+              F
+            
+          
+        
+        ≥
+        2
+      
+    
+    {\displaystyle {\frac {PA+PB+PC}{PD+PE+PF}}\geq 2}
+  with equality in the equilateral case. More strongly, Barrow's inequality states that if the interior bisectors of the angles at interior point P (namely, of ∠APB, ∠BPC, and ∠CPA) intersect the triangle's sides at U, V, and W, then
+
+  
+    
+      
+        
+          
+            
+              P
+              A
+              +
+              P
+              B
+              +
+              P
+              C
+            
+            
+              P
+              U
+              +
+              P
+              V
+              +
+              P
+              W
+            
+          
+        
+        ≥
+        2.
+      
+    
+    {\displaystyle {\frac {PA+PB+PC}{PU+PV+PW}}\geq 2.}
+  Also stronger than the Erdős–Mordell inequality is the following: Let D, E, F be the orthogonal projections of P onto BC, CA, AB respectively, and H, K, L be the orthogonal projections of P onto the tangents to the triangle's circumcircle at A, B, C respectively. Then
+
+  
+    
+      
+        P
+        H
+        +
+        P
+        K
+        +
+        P
+        L
+        ≥
+        2
+        (
+        P
+        D
+        +
+        P
+        E
+        +
+        P
+        F
+        )
+        .
+      
+    
+    {\displaystyle PH+PK+PL\geq 2(PD+PE+PF).}
+  With orthogonal projections H, K, L from P onto the tangents to the triangle's circumcircle at A, B, C respectively, we have
+
+  
+    
+      
+        
+          
+            
+              P
+              H
+            
+            
+              a
+              
+                2
+              
+            
+          
+        
+        +
+        
+          
+            
+              P
+              K
+            
+            
+              b
+              
+                2
+              
+            
+          
+        
+        +
+        
+          
+            
+              P
+              L
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+        ≥
+        
+          
+            1
+            R
+          
+        
+      
+    
+    {\displaystyle {\frac {PH}{a^{2}}}+{\frac {PK}{b^{2}}}+{\frac {PL}{c^{2}}}\geq {\frac {1}{R}}}
+  where R is the circumradius.
+Again with distances PD, PE, PF of the interior point P from the sides we have these three inequalities:: p.29, #1045 
+
+  
+    
+      
+        
+          
+            
+              P
+              
+                A
+                
+                  2
+                
+              
+            
+            
+              P
+              E
+              ⋅
+              P
+              F
+            
+          
+        
+        +
+        
+          
+            
+              P
+              
+                B
+                
+                  2
+                
+              
+            
+            
+              P
+              F
+              ⋅
+              P
+              D
+            
+          
+        
+        +
+        
+          
+            
+              P
+              
+                C
+                
+                  2
+                
+              
+            
+            
+              P
+              D
+              ⋅
+              P
+              E
+            
+          
+        
+        ≥
+        12
+        ;
+      
+    
+    {\displaystyle {\frac {PA^{2}}{PE\cdot PF}}+{\frac {PB^{2}}{PF\cdot PD}}+{\frac {PC^{2}}{PD\cdot PE}}\geq 12;}
+  
+  
+    
+      
+        
+          
+            
+              P
+              A
+            
+            
+              P
+              E
+              ⋅
+              P
+              F
+            
+          
+        
+        +
+        
+          
+            
+              P
+              B
+            
+            
+              P
+              F
+              ⋅
+              P
+              D
+            
+          
+        
+        +
+        
+          
+            
+              P
+              C
+            
+            
+              P
+              D
+              ⋅
+              P
+              E
+            
+          
+        
+        ≥
+        6
+        ;
+      
+    
+    {\displaystyle {\frac {PA}{\sqrt {PE\cdot PF}}}+{\frac {PB}{\sqrt {PF\cdot PD}}}+{\frac {PC}{\sqrt {PD\cdot PE}}}\geq 6;}
+  
+  
+    
+      
+        
+          
+            
+              P
+              A
+            
+            
+              P
+              E
+              +
+              P
+              F
+            
+          
+        
+        +
+        
+          
+            
+              P
+              B
+            
+            
+              P
+              F
+              +
+              P
+              D
+            
+          
+        
+        +
+        
+          
+            
+              P
+              C
+            
+            
+              P
+              D
+              +
+              P
+              E
+            
+          
+        
+        ≥
+        3.
+      
+    
+    {\displaystyle {\frac {PA}{PE+PF}}+{\frac {PB}{PF+PD}}+{\frac {PC}{PD+PE}}\geq 3.}
+  For interior point P with distances PA, PB, PC from the vertices and with triangle area T,: p.37, #1159 
+
+  
+    
+      
+        (
+        b
+        +
+        c
+        )
+        P
+        A
+        +
+        (
+        c
+        +
+        a
+        )
+        P
+        B
+        +
+        (
+        a
+        +
+        b
+        )
+        P
+        C
+        ≥
+        8
+        T
+      
+    
+    {\displaystyle (b+c)PA+(c+a)PB+(a+b)PC\geq 8T}
+  and: p.26, #965 
+
+  
+    
+      
+        
+          
+            
+              P
+              A
+            
+            a
+          
+        
+        +
+        
+          
+            
+              P
+              B
+            
+            b
+          
+        
+        +
+        
+          
+            
+              P
+              C
+            
+            c
+          
+        
+        ≥
+        
+          
+            3
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {PA}{a}}+{\frac {PB}{b}}+{\frac {PC}{c}}\geq {\sqrt {3}}.}
+  For an interior point P, centroid G, midpoints L, M, N of the sides, and semiperimeter s,: p.140, #3164 : p.130, #3052 
+
+  
+    
+      
+        2
+        (
+        P
+        L
+        +
+        P
+        M
+        +
+        P
+        N
+        )
+        ≤
+        3
+        P
+        G
+        +
+        P
+        A
+        +
+        P
+        B
+        +
+        P
+        C
+        ≤
+        s
+        +
+        2
+        (
+        P
+        L
+        +
+        P
+        M
+        +
+        P
+        N
+        )
+        .
+      
+    
+    {\displaystyle 2(PL+PM+PN)\leq 3PG+PA+PB+PC\leq s+2(PL+PM+PN).}
+  Moreover, for positive numbers k1, k2, k3, and t with t less than or equal to 1:: Thm.1 
+
+  
+    
+      
+        
+          k
+          
+            1
+          
+        
+        ⋅
+        (
+        P
+        A
+        
+          )
+          
+            t
+          
+        
+        +
+        
+          k
+          
+            2
+          
+        
+        ⋅
+        (
+        P
+        B
+        
+          )
+          
+            t
+          
+        
+        +
+        
+          k
+          
+            3
+          
+        
+        ⋅
+        (
+        P
+        C
+        
+          )
+          
+            t
+          
+        
+        ≥
+        
+          2
+          
+            t
+          
+        
+        
+          
+            
+              k
+              
+                1
+              
+            
+            
+              k
+              
+                2
+              
+            
+            
+              k
+              
+                3
+              
+            
+          
+        
+        
+          (
+          
+            
+              
+                
+                  (
+                  P
+                  D
+                  
+                    )
+                    
+                      t
+                    
+                  
+                
+                
+                  
+                    k
+                    
+                      1
+                    
+                  
+                
+              
+            
+            +
+            
+              
+                
+                  (
+                  P
+                  E
+                  
+                    )
+                    
+                      t
+                    
+                  
+                
+                
+                  
+                    k
+                    
+                      2
+                    
+                  
+                
+              
+            
+            +
+            
+              
+                
+                  (
+                  P
+                  F
+                  
+                    )
+                    
+                      t
+                    
+                  
+                
+                
+                  
+                    k
+                    
+                      3
+                    
+                  
+                
+              
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle k_{1}\cdot (PA)^{t}+k_{2}\cdot (PB)^{t}+k_{3}\cdot (PC)^{t}\geq 2^{t}{\sqrt {k_{1}k_{2}k_{3}}}\left({\frac {(PD)^{t}}{\sqrt {k_{1}}}}+{\frac {(PE)^{t}}{\sqrt {k_{2}}}}+{\frac {(PF)^{t}}{\sqrt {k_{3}}}}\right),}
+  while for t > 1 we have: Thm.2 
+
+  
+    
+      
+        
+          k
+          
+            1
+          
+        
+        ⋅
+        (
+        P
+        A
+        
+          )
+          
+            t
+          
+        
+        +
+        
+          k
+          
+            2
+          
+        
+        ⋅
+        (
+        P
+        B
+        
+          )
+          
+            t
+          
+        
+        +
+        
+          k
+          
+            3
+          
+        
+        ⋅
+        (
+        P
+        C
+        
+          )
+          
+            t
+          
+        
+        ≥
+        2
+        
+          
+            
+              k
+              
+                1
+              
+            
+            
+              k
+              
+                2
+              
+            
+            
+              k
+              
+                3
+              
+            
+          
+        
+        
+          (
+          
+            
+              
+                
+                  (
+                  P
+                  D
+                  
+                    )
+                    
+                      t
+                    
+                  
+                
+                
+                  
+                    k
+                    
+                      1
+                    
+                  
+                
+              
+            
+            +
+            
+              
+                
+                  (
+                  P
+                  E
+                  
+                    )
+                    
+                      t
+                    
+                  
+                
+                
+                  
+                    k
+                    
+                      2
+                    
+                  
+                
+              
+            
+            +
+            
+              
+                
+                  (
+                  P
+                  F
+                  
+                    )
+                    
+                      t
+                    
+                  
+                
+                
+                  
+                    k
+                    
+                      3
+                    
+                  
+                
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle k_{1}\cdot (PA)^{t}+k_{2}\cdot (PB)^{t}+k_{3}\cdot (PC)^{t}\geq 2{\sqrt {k_{1}k_{2}k_{3}}}\left({\frac {(PD)^{t}}{\sqrt {k_{1}}}}+{\frac {(PE)^{t}}{\sqrt {k_{2}}}}+{\frac {(PF)^{t}}{\sqrt {k_{3}}}}\right).}
+
+Interior or exterior point
+There are various inequalities for an arbitrary interior or exterior point in the plane in terms of the radius r of the triangle's inscribed circle. For example,: p. 109 
+
+  
+    
+      
+        P
+        A
+        +
+        P
+        B
+        +
+        P
+        C
+        ≥
+        6
+        r
+        .
+      
+    
+    {\displaystyle PA+PB+PC\geq 6r.}
+  Others include:: pp. 180–1 
+
+  
+    
+      
+        P
+        
+          A
+          
+            3
+          
+        
+        +
+        P
+        
+          B
+          
+            3
+          
+        
+        +
+        P
+        
+          C
+          
+            3
+          
+        
+        +
+        k
+        ⋅
+        (
+        P
+        A
+        ⋅
+        P
+        B
+        ⋅
+        P
+        C
+        )
+        ≥
+        8
+        (
+        k
+        +
+        3
+        )
+        
+          r
+          
+            3
+          
+        
+      
+    
+    {\displaystyle PA^{3}+PB^{3}+PC^{3}+k\cdot (PA\cdot PB\cdot PC)\geq 8(k+3)r^{3}}
+  for k = 0, 1, ..., 6;
+
+  
+    
+      
+        P
+        
+          A
+          
+            2
+          
+        
+        +
+        P
+        
+          B
+          
+            2
+          
+        
+        +
+        P
+        
+          C
+          
+            2
+          
+        
+        +
+        (
+        P
+        A
+        ⋅
+        P
+        B
+        ⋅
+        P
+        C
+        
+          )
+          
+            2
+            
+              /
+            
+            3
+          
+        
+        ≥
+        16
+        
+          r
+          
+            2
+          
+        
+        ;
+      
+    
+    {\displaystyle PA^{2}+PB^{2}+PC^{2}+(PA\cdot PB\cdot PC)^{2/3}\geq 16r^{2};}
+  
+  
+    
+      
+        P
+        
+          A
+          
+            2
+          
+        
+        +
+        P
+        
+          B
+          
+            2
+          
+        
+        +
+        P
+        
+          C
+          
+            2
+          
+        
+        +
+        2
+        (
+        P
+        A
+        ⋅
+        P
+        B
+        ⋅
+        P
+        C
+        
+          )
+          
+            2
+            
+              /
+            
+            3
+          
+        
+        ≥
+        20
+        
+          r
+          
+            2
+          
+        
+        ;
+      
+    
+    {\displaystyle PA^{2}+PB^{2}+PC^{2}+2(PA\cdot PB\cdot PC)^{2/3}\geq 20r^{2};}
+  and
+
+  
+    
+      
+        P
+        
+          A
+          
+            4
+          
+        
+        +
+        P
+        
+          B
+          
+            4
+          
+        
+        +
+        P
+        
+          C
+          
+            4
+          
+        
+        +
+        k
+        (
+        P
+        A
+        ⋅
+        P
+        B
+        ⋅
+        P
+        C
+        
+          )
+          
+            4
+            
+              /
+            
+            3
+          
+        
+        ≥
+        16
+        (
+        k
+        +
+        3
+        )
+        
+          r
+          
+            4
+          
+        
+      
+    
+    {\displaystyle PA^{4}+PB^{4}+PC^{4}+k(PA\cdot PB\cdot PC)^{4/3}\geq 16(k+3)r^{4}}
+  for k = 0, 1, ..., 9.
+Furthermore, for circumradius R,
+
+  
+    
+      
+        (
+        P
+        A
+        ⋅
+        P
+        B
+        
+          )
+          
+            3
+            
+              /
+            
+            2
+          
+        
+        +
+        (
+        P
+        B
+        ⋅
+        P
+        C
+        
+          )
+          
+            3
+            
+              /
+            
+            2
+          
+        
+        +
+        (
+        P
+        C
+        ⋅
+        P
+        A
+        
+          )
+          
+            3
+            
+              /
+            
+            2
+          
+        
+        ≥
+        12
+        R
+        
+          r
+          
+            2
+          
+        
+        ;
+      
+    
+    {\displaystyle (PA\cdot PB)^{3/2}+(PB\cdot PC)^{3/2}+(PC\cdot PA)^{3/2}\geq 12Rr^{2};}
+  : p. 227 
+  
+    
+      
+        (
+        P
+        A
+        ⋅
+        P
+        B
+        
+          )
+          
+            2
+          
+        
+        +
+        (
+        P
+        B
+        ⋅
+        P
+        C
+        
+          )
+          
+            2
+          
+        
+        +
+        (
+        P
+        C
+        ⋅
+        P
+        A
+        
+          )
+          
+            2
+          
+        
+        ≥
+        8
+        (
+        R
+        +
+        r
+        )
+        R
+        
+          r
+          
+            2
+          
+        
+        ;
+      
+    
+    {\displaystyle (PA\cdot PB)^{2}+(PB\cdot PC)^{2}+(PC\cdot PA)^{2}\geq 8(R+r)Rr^{2};}
+  : p. 233 
+  
+    
+      
+        (
+        P
+        A
+        ⋅
+        P
+        B
+        
+          )
+          
+            2
+          
+        
+        +
+        (
+        P
+        B
+        ⋅
+        P
+        C
+        
+          )
+          
+            2
+          
+        
+        +
+        (
+        P
+        C
+        ⋅
+        P
+        A
+        
+          )
+          
+            2
+          
+        
+        ≥
+        48
+        
+          r
+          
+            4
+          
+        
+        ;
+      
+    
+    {\displaystyle (PA\cdot PB)^{2}+(PB\cdot PC)^{2}+(PC\cdot PA)^{2}\geq 48r^{4};}
+  : p. 233 
+  
+    
+      
+        (
+        P
+        A
+        ⋅
+        P
+        B
+        
+          )
+          
+            2
+          
+        
+        +
+        (
+        P
+        B
+        ⋅
+        P
+        C
+        
+          )
+          
+            2
+          
+        
+        +
+        (
+        P
+        C
+        ⋅
+        P
+        A
+        
+          )
+          
+            2
+          
+        
+        ≥
+        6
+        (
+        7
+        R
+        −
+        6
+        r
+        )
+        
+          r
+          
+            3
+          
+        
+        .
+      
+    
+    {\displaystyle (PA\cdot PB)^{2}+(PB\cdot PC)^{2}+(PC\cdot PA)^{2}\geq 6(7R-6r)r^{3}.}
+  : p. 233 Let ABC be a triangle, let G be its centroid, and let D, E, and F be the midpoints of BC, CA, and AB, respectively. For any point P in the plane of ABC:
+
+  
+    
+      
+        P
+        A
+        +
+        P
+        B
+        +
+        P
+        C
+        ≤
+        2
+        (
+        P
+        D
+        +
+        P
+        E
+        +
+        P
+        F
+        )
+        +
+        3
+        P
+        G
+        .
+      
+    
+    {\displaystyle PA+PB+PC\leq 2(PD+PE+PF)+3PG.}
+
+Inradius, exradii, and circumradius
+Inradius and circumradius
+The Euler inequality for the circumradius R and the inradius r states that
+
+  
+    
+      
+        
+          
+            R
+            r
+          
+        
+        ≥
+        2
+        ,
+      
+    
+    {\displaystyle {\frac {R}{r}}\geq 2,}
+  with equality only in the equilateral case.: p. 198 A stronger version: p. 198  is
+
+  
+    
+      
+        
+          
+            R
+            r
+          
+        
+        ≥
+        
+          
+            
+              a
+              b
+              c
+              +
+              
+                a
+                
+                  3
+                
+              
+              +
+              
+                b
+                
+                  3
+                
+              
+              +
+              
+                c
+                
+                  3
+                
+              
+            
+            
+              2
+              a
+              b
+              c
+            
+          
+        
+        ≥
+        
+          
+            a
+            b
+          
+        
+        +
+        
+          
+            b
+            c
+          
+        
+        +
+        
+          
+            c
+            a
+          
+        
+        −
+        1
+        ≥
+        
+          
+            2
+            3
+          
+        
+        
+          (
+          
+            
+              
+                a
+                b
+              
+            
+            +
+            
+              
+                b
+                c
+              
+            
+            +
+            
+              
+                c
+                a
+              
+            
+          
+          )
+        
+        ≥
+        2.
+      
+    
+    {\displaystyle {\frac {R}{r}}\geq {\frac {abc+a^{3}+b^{3}+c^{3}}{2abc}}\geq {\frac {a}{b}}+{\frac {b}{c}}+{\frac {c}{a}}-1\geq {\frac {2}{3}}\left({\frac {a}{b}}+{\frac {b}{c}}+{\frac {c}{a}}\right)\geq 2.}
+  By comparison,: p.183, #276.2 
+
+  
+    
+      
+        
+          
+            r
+            R
+          
+        
+        ≥
+        
+          
+            
+              4
+              a
+              b
+              c
+              −
+              
+                a
+                
+                  3
+                
+              
+              −
+              
+                b
+                
+                  3
+                
+              
+              −
+              
+                c
+                
+                  3
+                
+              
+            
+            
+              2
+              a
+              b
+              c
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\frac {r}{R}}\geq {\frac {4abc-a^{3}-b^{3}-c^{3}}{2abc}},}
+  where the right side could be positive or negative.
+Two other refinements of Euler's inequality are: p.134, #3087 
+
+  
+    
+      
+        
+          
+            R
+            r
+          
+        
+        ≥
+        
+          
+            
+              (
+              b
+              +
+              c
+              )
+            
+            
+              3
+              a
+            
+          
+        
+        +
+        
+          
+            
+              (
+              c
+              +
+              a
+              )
+            
+            
+              3
+              b
+            
+          
+        
+        +
+        
+          
+            
+              (
+              a
+              +
+              b
+              )
+            
+            
+              3
+              c
+            
+          
+        
+        ≥
+        2
+      
+    
+    {\displaystyle {\frac {R}{r}}\geq {\frac {(b+c)}{3a}}+{\frac {(c+a)}{3b}}+{\frac {(a+b)}{3c}}\geq 2}
+  and
+
+  
+    
+      
+        
+          
+            (
+            
+              
+                R
+                r
+              
+            
+            )
+          
+          
+            3
+          
+        
+        ≥
+        
+          (
+          
+            
+              
+                a
+                b
+              
+            
+            +
+            
+              
+                b
+                a
+              
+            
+          
+          )
+        
+        
+          (
+          
+            
+              
+                b
+                c
+              
+            
+            +
+            
+              
+                c
+                b
+              
+            
+          
+          )
+        
+        
+          (
+          
+            
+              
+                c
+                a
+              
+            
+            +
+            
+              
+                a
+                c
+              
+            
+          
+          )
+        
+        ≥
+        8.
+      
+    
+    {\displaystyle \left({\frac {R}{r}}\right)^{3}\geq \left({\frac {a}{b}}+{\frac {b}{a}}\right)\left({\frac {b}{c}}+{\frac {c}{b}}\right)\left({\frac {c}{a}}+{\frac {a}{c}}\right)\geq 8.}
+  Another symmetric inequality is: p.125, #3004 
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  (
+                  
+                    
+                      
+                        a
+                      
+                    
+                    −
+                    
+                      
+                        b
+                      
+                    
+                  
+                  )
+                
+                
+                  2
+                
+              
+              +
+              
+                
+                  (
+                  
+                    
+                      
+                        b
+                      
+                    
+                    −
+                    
+                      
+                        c
+                      
+                    
+                  
+                  )
+                
+                
+                  2
+                
+              
+              +
+              
+                
+                  (
+                  
+                    
+                      
+                        c
+                      
+                    
+                    −
+                    
+                      
+                        a
+                      
+                    
+                  
+                  )
+                
+                
+                  2
+                
+              
+            
+            
+              
+                (
+                
+                  
+                    
+                      a
+                    
+                  
+                  +
+                  
+                    
+                      b
+                    
+                  
+                  +
+                  
+                    
+                      c
+                    
+                  
+                
+                )
+              
+              
+                2
+              
+            
+          
+        
+        ≤
+        
+          
+            4
+            9
+          
+        
+        
+          (
+          
+            
+              
+                R
+                r
+              
+            
+            −
+            2
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle {\frac {\left({\sqrt {a}}-{\sqrt {b}}\right)^{2}+\left({\sqrt {b}}-{\sqrt {c}}\right)^{2}+\left({\sqrt {c}}-{\sqrt {a}}\right)^{2}}{\left({\sqrt {a}}+{\sqrt {b}}+{\sqrt {c}}\right)^{2}}}\leq {\frac {4}{9}}\left({\frac {R}{r}}-2\right).}
+  Moreover,
+
+  
+    
+      
+        
+          
+            R
+            r
+          
+        
+        ≥
+        
+          
+            
+              2
+              (
+              
+                a
+                
+                  2
+                
+              
+              +
+              
+                b
+                
+                  2
+                
+              
+              +
+              
+                c
+                
+                  2
+                
+              
+              )
+            
+            
+              a
+              b
+              +
+              b
+              c
+              +
+              c
+              a
+            
+          
+        
+        ;
+      
+    
+    {\displaystyle {\frac {R}{r}}\geq {\frac {2(a^{2}+b^{2}+c^{2})}{ab+bc+ca}};}
+  : 288 
+  
+    
+      
+        
+          a
+          
+            3
+          
+        
+        +
+        
+          b
+          
+            3
+          
+        
+        +
+        
+          c
+          
+            3
+          
+        
+        ≤
+        8
+        s
+        (
+        
+          R
+          
+            2
+          
+        
+        −
+        
+          r
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle a^{3}+b^{3}+c^{3}\leq 8s(R^{2}-r^{2})}
+  in terms of the semiperimeter s;: p.20, #816 
+
+  
+    
+      
+        r
+        (
+        r
+        +
+        4
+        R
+        )
+        ≥
+        
+          
+            3
+          
+        
+        ⋅
+        T
+      
+    
+    {\displaystyle r(r+4R)\geq {\sqrt {3}}\cdot T}
+  in terms of the area T;: p. 201 
+
+  
+    
+      
+        s
+        
+          
+            3
+          
+        
+        ≤
+        r
+        +
+        4
+        R
+      
+    
+    {\displaystyle s{\sqrt {3}}\leq r+4R}
+   : p. 201 and
+
+  
+    
+      
+        
+          s
+          
+            2
+          
+        
+        ≥
+        16
+        R
+        r
+        −
+        5
+        
+          r
+          
+            2
+          
+        
+      
+    
+    {\displaystyle s^{2}\geq 16Rr-5r^{2}}
+   : p.17#708 in terms of the semiperimeter s; and
+
+  
+    
+      
+        
+          
+            
+              
+              
+                2
+                
+                  R
+                  
+                    2
+                  
+                
+                +
+                10
+                R
+                r
+                −
+                
+                  r
+                  
+                    2
+                  
+                
+                −
+                2
+                (
+                R
+                −
+                2
+                r
+                )
+                
+                  
+                    
+                      R
+                      
+                        2
+                      
+                    
+                    −
+                    2
+                    R
+                    r
+                  
+                
+                ≤
+                
+                  s
+                  
+                    2
+                  
+                
+              
+            
+            
+              
+              
+                
+                
+                ≤
+                2
+                
+                  R
+                  
+                    2
+                  
+                
+                +
+                10
+                R
+                r
+                −
+                
+                  r
+                  
+                    2
+                  
+                
+                +
+                2
+                (
+                R
+                −
+                2
+                r
+                )
+                
+                  
+                    
+                      R
+                      
+                        2
+                      
+                    
+                    −
+                    2
+                    R
+                    r
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}&2R^{2}+10Rr-r^{2}-2(R-2r){\sqrt {R^{2}-2Rr}}\leq s^{2}\\&\quad \leq 2R^{2}+10Rr-r^{2}+2(R-2r){\sqrt {R^{2}-2Rr}}\end{aligned}}}
+  also in terms of the semiperimeter.: p. 206 : p. 99  Here the expression 
+  
+    
+      
+        
+          
+            
+              R
+              
+                2
+              
+            
+            −
+            2
+            R
+            r
+          
+        
+        =
+        d
+      
+    
+    {\displaystyle {\sqrt {R^{2}-2Rr}}=d}
+   where d is the distance between the incenter and the circumcenter. In the latter double inequality, the first part holds with equality if and only if the triangle is isosceles with an apex angle of at least 60°, and the last part holds with equality if and only if the triangle is isosceles with an apex angle of at most 60°. Thus both are equalities if and only if the triangle is equilateral.: Thm. 1 We also have for any side a
+
+  
+    
+      
+        (
+        R
+        −
+        d
+        
+          )
+          
+            2
+          
+        
+        −
+        
+          r
+          
+            2
+          
+        
+        ≤
+        4
+        
+          R
+          
+            2
+          
+        
+        
+          r
+          
+            2
+          
+        
+        
+          (
+          
+            
+              
+                (
+                R
+                +
+                d
+                
+                  )
+                  
+                    2
+                  
+                
+                −
+                
+                  r
+                  
+                    2
+                  
+                
+              
+              
+                (
+                R
+                +
+                d
+                
+                  )
+                  
+                    4
+                  
+                
+              
+            
+          
+          )
+        
+        ≤
+        
+          
+            
+              a
+              
+                2
+              
+            
+            4
+          
+        
+        ≤
+        Q
+        ≤
+        (
+        R
+        +
+        d
+        
+          )
+          
+            2
+          
+        
+        −
+        
+          r
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle (R-d)^{2}-r^{2}\leq 4R^{2}r^{2}\left({\frac {(R+d)^{2}-r^{2}}{(R+d)^{4}}}\right)\leq {\frac {a^{2}}{4}}\leq Q\leq (R+d)^{2}-r^{2},}
+  where 
+  
+    
+      
+        Q
+        =
+        
+          R
+          
+            2
+          
+        
+      
+    
+    {\displaystyle Q=R^{2}}
+   if the circumcenter is on or outside of the incircle and 
+  
+    
+      
+        Q
+        =
+        4
+        
+          R
+          
+            2
+          
+        
+        
+          r
+          
+            2
+          
+        
+        
+          (
+          
+            
+              
+                (
+                R
+                −
+                d
+                
+                  )
+                  
+                    2
+                  
+                
+                −
+                
+                  r
+                  
+                    2
+                  
+                
+              
+              
+                (
+                R
+                −
+                d
+                
+                  )
+                  
+                    4
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle Q=4R^{2}r^{2}\left({\frac {(R-d)^{2}-r^{2}}{(R-d)^{4}}}\right)}
+   if the circumcenter is inside the incircle. The circumcenter is inside the incircle if and only if
+
+  
+    
+      
+        
+          
+            R
+            r
+          
+        
+        <
+        
+          
+            2
+          
+        
+        +
+        1.
+      
+    
+    {\displaystyle {\frac {R}{r}}<{\sqrt {2}}+1.}
+  Further,
+
+  
+    
+      
+        
+          
+            
+              9
+              r
+            
+            
+              2
+              T
+            
+          
+        
+        ≤
+        
+          
+            1
+            a
+          
+        
+        +
+        
+          
+            1
+            b
+          
+        
+        +
+        
+          
+            1
+            c
+          
+        
+        ≤
+        
+          
+            
+              9
+              R
+            
+            
+              4
+              T
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {9r}{2T}}\leq {\frac {1}{a}}+{\frac {1}{b}}+{\frac {1}{c}}\leq {\frac {9R}{4T}}.}
+  : p. 291 Blundon's inequality states that: p. 206,  
+
+  
+    
+      
+        s
+        ≤
+        (
+        3
+        
+          
+            3
+          
+        
+        −
+        4
+        )
+        r
+        +
+        2
+        R
+        .
+      
+    
+    {\displaystyle s\leq (3{\sqrt {3}}-4)r+2R.}
+  We also have, for all acute triangles,
+
+  
+    
+      
+        s
+        >
+        2
+        R
+        +
+        r
+        .
+      
+    
+    {\displaystyle s>2R+r.}
+  For incircle center I, let AI, BI, and CI extend beyond I to intersect the circumcircle at D, E, and F respectively. Then: p.14, #644 
+
+  
+    
+      
+        
+          
+            
+              A
+              I
+            
+            
+              I
+              D
+            
+          
+        
+        +
+        
+          
+            
+              B
+              I
+            
+            
+              I
+              E
+            
+          
+        
+        +
+        
+          
+            
+              C
+              I
+            
+            
+              I
+              F
+            
+          
+        
+        ≥
+        3.
+      
+    
+    {\displaystyle {\frac {AI}{ID}}+{\frac {BI}{IE}}+{\frac {CI}{IF}}\geq 3.}
+  In terms of the vertex angles we have : p.193, #342.6 
+
+  
+    
+      
+        cos
+        ⁡
+        A
+        ⋅
+        cos
+        ⁡
+        B
+        ⋅
+        cos
+        ⁡
+        C
+        ≤
+        
+          
+            (
+            
+              
+                r
+                
+                  R
+                  
+                    
+                      2
+                    
+                  
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle \cos A\cdot \cos B\cdot \cos C\leq \left({\frac {r}{R{\sqrt {2}}}}\right)^{2}.}
+  Denote as 
+  
+    
+      
+        
+          R
+          
+            A
+          
+        
+        ,
+        
+          R
+          
+            B
+          
+        
+        ,
+        
+          R
+          
+            C
+          
+        
+      
+    
+    {\displaystyle R_{A},R_{B},R_{C}}
+   the tanradii of the triangle. Then: Thm. 4 
+
+  
+    
+      
+        
+          
+            4
+            R
+          
+        
+        ≤
+        
+          
+            1
+            
+              R
+              
+                A
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              R
+              
+                B
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              R
+              
+                C
+              
+            
+          
+        
+        ≤
+        
+          
+            2
+            r
+          
+        
+      
+    
+    {\displaystyle {\frac {4}{R}}\leq {\frac {1}{R_{A}}}+{\frac {1}{R_{B}}}+{\frac {1}{R_{C}}}\leq {\frac {2}{r}}}
+  with equality only in the equilateral case, and 
+
+  
+    
+      
+        
+          
+            9
+            2
+          
+        
+        r
+        ≤
+        
+          R
+          
+            A
+          
+        
+        +
+        
+          R
+          
+            B
+          
+        
+        +
+        
+          R
+          
+            C
+          
+        
+        ≤
+        2
+        R
+        +
+        
+          
+            1
+            2
+          
+        
+        r
+      
+    
+    {\displaystyle {\frac {9}{2}}r\leq R_{A}+R_{B}+R_{C}\leq 2R+{\frac {1}{2}}r}
+  with equality only in the equilateral case.
+
+Circumradius and other lengths
+For the circumradius R we have: p.101, #2625 
+
+  
+    
+      
+        18
+        
+          R
+          
+            3
+          
+        
+        ≥
+        (
+        
+          a
+          
+            2
+          
+        
+        +
+        
+          b
+          
+            2
+          
+        
+        +
+        
+          c
+          
+            2
+          
+        
+        )
+        R
+        +
+        a
+        b
+        c
+        
+          
+            3
+          
+        
+      
+    
+    {\displaystyle 18R^{3}\geq (a^{2}+b^{2}+c^{2})R+abc{\sqrt {3}}}
+  and : p.35, #1130 
+
+  
+    
+      
+        
+          a
+          
+            2
+            
+              /
+            
+            3
+          
+        
+        +
+        
+          b
+          
+            2
+            
+              /
+            
+            3
+          
+        
+        +
+        
+          c
+          
+            2
+            
+              /
+            
+            3
+          
+        
+        ≤
+        
+          3
+          
+            7
+            
+              /
+            
+            4
+          
+        
+        
+          R
+          
+            3
+            
+              /
+            
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle a^{2/3}+b^{2/3}+c^{2/3}\leq 3^{7/4}R^{3/2}.}
+  We also have: pp. 287–90 
+
+  
+    
+      
+        a
+        +
+        b
+        +
+        c
+        ≤
+        3
+        
+          
+            3
+          
+        
+        ⋅
+        R
+        ,
+      
+    
+    {\displaystyle a+b+c\leq 3{\sqrt {3}}\cdot R,}
+  
+  
+    
+      
+        9
+        
+          R
+          
+            2
+          
+        
+        ≥
+        
+          a
+          
+            2
+          
+        
+        +
+        
+          b
+          
+            2
+          
+        
+        +
+        
+          c
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle 9R^{2}\geq a^{2}+b^{2}+c^{2},}
+  
+  
+    
+      
+        
+          h
+          
+            a
+          
+        
+        +
+        
+          h
+          
+            b
+          
+        
+        +
+        
+          h
+          
+            c
+          
+        
+        ≤
+        3
+        
+          
+            3
+          
+        
+        ⋅
+        R
+      
+    
+    {\displaystyle h_{a}+h_{b}+h_{c}\leq 3{\sqrt {3}}\cdot R}
+  in terms of the altitudes,
+
+  
+    
+      
+        
+          m
+          
+            a
+          
+          
+            2
+          
+        
+        +
+        
+          m
+          
+            b
+          
+          
+            2
+          
+        
+        +
+        
+          m
+          
+            c
+          
+          
+            2
+          
+        
+        ≤
+        
+          
+            27
+            4
+          
+        
+        
+          R
+          
+            2
+          
+        
+      
+    
+    {\displaystyle m_{a}^{2}+m_{b}^{2}+m_{c}^{2}\leq {\frac {27}{4}}R^{2}}
+  in terms of the medians, and: p.26, #957 
+
+  
+    
+      
+        
+          
+            
+              a
+              b
+            
+            
+              a
+              +
+              b
+            
+          
+        
+        +
+        
+          
+            
+              b
+              c
+            
+            
+              b
+              +
+              c
+            
+          
+        
+        +
+        
+          
+            
+              c
+              a
+            
+            
+              c
+              +
+              a
+            
+          
+        
+        ≥
+        
+          
+            
+              2
+              T
+            
+            R
+          
+        
+      
+    
+    {\displaystyle {\frac {ab}{a+b}}+{\frac {bc}{b+c}}+{\frac {ca}{c+a}}\geq {\frac {2T}{R}}}
+  in terms of the area.
+Moreover, for circumcenter O, let lines AO, BO, and CO intersect the opposite sides BC, CA, and AB at U, V, and W respectively. Then: p.17, #718 
+
+  
+    
+      
+        O
+        U
+        +
+        O
+        V
+        +
+        O
+        W
+        ≥
+        
+          
+            3
+            2
+          
+        
+        R
+        .
+      
+    
+    {\displaystyle OU+OV+OW\geq {\frac {3}{2}}R.}
+  For an acute triangle the distance between the circumcenter O and the orthocenter H satisfies: p.26, #954 
+
+  
+    
+      
+        O
+        H
+        <
+        R
+        ,
+      
+    
+    {\displaystyle OH<R,}
+  with the opposite inequality holding for an obtuse triangle.
+The circumradius is at least twice the distance between the first and second Brocard points B1 and B2:
+
+  
+    
+      
+        R
+        ≥
+        2
+        
+          B
+          
+            1
+          
+        
+        
+          B
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle R\geq 2B_{1}B_{2}.}
+
+Inradius, exradii, and other lengths
+For the inradius r we have: pp. 289–90 
+
+  
+    
+      
+        
+          
+            1
+            a
+          
+        
+        +
+        
+          
+            1
+            b
+          
+        
+        +
+        
+          
+            1
+            c
+          
+        
+        ≤
+        
+          
+            
+              3
+            
+            
+              2
+              r
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\frac {1}{a}}+{\frac {1}{b}}+{\frac {1}{c}}\leq {\frac {\sqrt {3}}{2r}},}
+  
+  
+    
+      
+        9
+        r
+        ≤
+        
+          h
+          
+            a
+          
+        
+        +
+        
+          h
+          
+            b
+          
+        
+        +
+        
+          h
+          
+            c
+          
+        
+      
+    
+    {\displaystyle 9r\leq h_{a}+h_{b}+h_{c}}
+  in terms of the altitudes, and
+
+  
+    
+      
+        
+          
+            
+              r
+              
+                a
+              
+              
+                2
+              
+            
+            +
+            
+              r
+              
+                b
+              
+              
+                2
+              
+            
+            +
+            
+              r
+              
+                c
+              
+              
+                2
+              
+            
+          
+        
+        ≥
+        6
+        r
+      
+    
+    {\displaystyle {\sqrt {r_{a}^{2}+r_{b}^{2}+r_{c}^{2}}}\geq 6r}
+  in terms of the radii of the excircles. We additionally have
+
+  
+    
+      
+        
+          
+            s
+          
+        
+        (
+        
+          
+            a
+          
+        
+        +
+        
+          
+            b
+          
+        
+        +
+        
+          
+            c
+          
+        
+        )
+        ≤
+        
+          
+            2
+          
+        
+        (
+        
+          r
+          
+            a
+          
+        
+        +
+        
+          r
+          
+            b
+          
+        
+        +
+        
+          r
+          
+            c
+          
+        
+        )
+      
+    
+    {\displaystyle {\sqrt {s}}({\sqrt {a}}+{\sqrt {b}}+{\sqrt {c}})\leq {\sqrt {2}}(r_{a}+r_{b}+r_{c})}
+  : p.66, #1678 and
+
+  
+    
+      
+        
+          
+            
+              a
+              b
+              c
+            
+            r
+          
+        
+        ≥
+        
+          
+            
+              a
+              
+                3
+              
+            
+            
+              r
+              
+                a
+              
+            
+          
+        
+        +
+        
+          
+            
+              b
+              
+                3
+              
+            
+            
+              r
+              
+                b
+              
+            
+          
+        
+        +
+        
+          
+            
+              c
+              
+                3
+              
+            
+            
+              r
+              
+                c
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {abc}{r}}\geq {\frac {a^{3}}{r_{a}}}+{\frac {b^{3}}{r_{b}}}+{\frac {c^{3}}{r_{c}}}.}
+  : p.183, #281.2 The exradii and medians are related by: p.66, #1680 
+
+  
+    
+      
+        
+          
+            
+              
+                r
+                
+                  a
+                
+              
+              
+                r
+                
+                  b
+                
+              
+            
+            
+              
+                m
+                
+                  a
+                
+              
+              
+                m
+                
+                  b
+                
+              
+            
+          
+        
+        +
+        
+          
+            
+              
+                r
+                
+                  b
+                
+              
+              
+                r
+                
+                  c
+                
+              
+            
+            
+              
+                m
+                
+                  b
+                
+              
+              
+                m
+                
+                  c
+                
+              
+            
+          
+        
+        +
+        
+          
+            
+              
+                r
+                
+                  c
+                
+              
+              
+                r
+                
+                  a
+                
+              
+            
+            
+              
+                m
+                
+                  c
+                
+              
+              
+                m
+                
+                  a
+                
+              
+            
+          
+        
+        ≥
+        3.
+      
+    
+    {\displaystyle {\frac {r_{a}r_{b}}{m_{a}m_{b}}}+{\frac {r_{b}r_{c}}{m_{b}m_{c}}}+{\frac {r_{c}r_{a}}{m_{c}m_{a}}}\geq 3.}
+  In addition, for an acute triangle the distance between the incircle center I and orthocenter H satisfies: p.26, #954 
+
+  
+    
+      
+        I
+        H
+        <
+        r
+        
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle IH<r{\sqrt {2}},}
+  with the reverse inequality for an obtuse triangle.
+Also, an acute triangle satisfies: p.26, #954 
+
+  
+    
+      
+        
+          r
+          
+            2
+          
+        
+        +
+        
+          r
+          
+            a
+          
+          
+            2
+          
+        
+        +
+        
+          r
+          
+            b
+          
+          
+            2
+          
+        
+        +
+        
+          r
+          
+            c
+          
+          
+            2
+          
+        
+        <
+        8
+        
+          R
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle r^{2}+r_{a}^{2}+r_{b}^{2}+r_{c}^{2}<8R^{2},}
+  in terms of the circumradius R, again with the reverse inequality holding for an obtuse triangle.
+If the internal angle bisectors of angles A, B, C meet the opposite sides at U, V, W then: p.215, 32nd IMO, #1 
+
+  
+    
+      
+        
+          
+            1
+            4
+          
+        
+        <
+        
+          
+            
+              A
+              I
+              ⋅
+              B
+              I
+              ⋅
+              C
+              I
+            
+            
+              A
+              U
+              ⋅
+              B
+              V
+              ⋅
+              C
+              W
+            
+          
+        
+        ≤
+        
+          
+            8
+            27
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {1}{4}}<{\frac {AI\cdot BI\cdot CI}{AU\cdot BV\cdot CW}}\leq {\frac {8}{27}}.}
+  If the internal angle bisectors through incenter I extend to meet the circumcircle at X, Y and Z then : p.181, #264.4 
+
+  
+    
+      
+        
+          
+            1
+            
+              I
+              X
+            
+          
+        
+        +
+        
+          
+            1
+            
+              I
+              Y
+            
+          
+        
+        +
+        
+          
+            1
+            
+              I
+              Z
+            
+          
+        
+        ≥
+        
+          
+            3
+            R
+          
+        
+      
+    
+    {\displaystyle {\frac {1}{IX}}+{\frac {1}{IY}}+{\frac {1}{IZ}}\geq {\frac {3}{R}}}
+  for circumradius R, and: p.181, #264.4 : p.45, #1282 
+
+  
+    
+      
+        0
+        ≤
+        (
+        I
+        X
+        −
+        I
+        A
+        )
+        +
+        (
+        I
+        Y
+        −
+        I
+        B
+        )
+        +
+        (
+        I
+        Z
+        −
+        I
+        C
+        )
+        ≤
+        2
+        (
+        R
+        −
+        2
+        r
+        )
+        .
+      
+    
+    {\displaystyle 0\leq (IX-IA)+(IY-IB)+(IZ-IC)\leq 2(R-2r).}
+  If the incircle is tangent to the sides at D, E, F, then: p.115, #2875 
+
+  
+    
+      
+        E
+        
+          F
+          
+            2
+          
+        
+        +
+        F
+        
+          D
+          
+            2
+          
+        
+        +
+        D
+        
+          E
+          
+            2
+          
+        
+        ≤
+        
+          
+            
+              s
+              
+                2
+              
+            
+            3
+          
+        
+      
+    
+    {\displaystyle EF^{2}+FD^{2}+DE^{2}\leq {\frac {s^{2}}{3}}}
+  for semiperimeter s.
+
+Inscribed figures
+Inscribed hexagon
+If a tangential hexagon is formed by drawing three segments tangent to a triangle's incircle and parallel to a side, so that the hexagon is inscribed in the triangle with its other three sides coinciding with parts of the triangle's sides, then: p.42, #1245 
+
+  
+    
+      
+        
+          Perimeter of hexagon
+        
+        ≤
+        
+          
+            2
+            3
+          
+        
+        (
+        
+          Perimeter of triangle
+        
+        )
+        .
+      
+    
+    {\displaystyle {\text{Perimeter of hexagon}}\leq {\frac {2}{3}}({\text{Perimeter of triangle}}).}
+
+Inscribed triangle
+If three points D, E, F on the respective sides AB, BC, and CA of a reference triangle ABC are the vertices of an inscribed triangle, which thereby partitions the reference triangle into four triangles, then the area of the inscribed triangle is greater than the area of at least one of the other interior triangles, unless the vertices of the inscribed triangle are at the midpoints of the sides of the reference triangle (in which case the inscribed triangle is the medial triangle and all four interior triangles have equal areas):: p.137 
+
+  
+    
+      
+        
+          Area(DEF)
+        
+        ≥
+        min
+        (
+        
+          Area(BED), Area(CFE), Area(ADF)
+        
+        )
+        .
+      
+    
+    {\displaystyle {\text{Area(DEF)}}\geq \min({\text{Area(BED), Area(CFE), Area(ADF)}}).}
+
+Inscribed squares
+An acute triangle has three inscribed squares, each with one side coinciding with part of a side of the triangle and with the square's other two vertices on the remaining two sides of the triangle. (A right triangle has only two distinct inscribed squares.) If one of these squares has side length xa and another has side length xb with xa < xb, then: p. 115 
+
+  
+    
+      
+        1
+        ≥
+        
+          
+            
+              x
+              
+                a
+              
+            
+            
+              x
+              
+                b
+              
+            
+          
+        
+        ≥
+        
+          
+            
+              2
+              
+                
+                  2
+                
+              
+            
+            3
+          
+        
+        ≈
+        0.94.
+      
+    
+    {\displaystyle 1\geq {\frac {x_{a}}{x_{b}}}\geq {\frac {2{\sqrt {2}}}{3}}\approx 0.94.}
+  Moreover, for any square inscribed in any triangle we have: p.18, #729 
+
+  
+    
+      
+        
+          
+            Area of triangle
+            Area of inscribed square
+          
+        
+        ≥
+        2.
+      
+    
+    {\displaystyle {\frac {\text{Area of triangle}}{\text{Area of inscribed square}}}\geq 2.}
+
+Euler line
+A triangle's Euler line goes through its orthocenter, its circumcenter, and its centroid, but does not go through its incenter unless the triangle is isosceles.: p.231  For all non-isosceles triangles, the distance d from the incenter to the Euler line satisfies the following inequalities in terms of the triangle's longest median v, its longest side u, and its semiperimeter s:: p. 234, Propos.5 
+
+  
+    
+      
+        
+          
+            d
+            s
+          
+        
+        <
+        
+          
+            d
+            u
+          
+        
+        <
+        
+          
+            d
+            v
+          
+        
+        <
+        
+          
+            1
+            3
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {d}{s}}<{\frac {d}{u}}<{\frac {d}{v}}<{\frac {1}{3}}.}
+  For all of these ratios, the upper bound of 1/3 is the tightest possible.: p.235, Thm.6
+
+Right triangle
+In right triangles the legs a and b and the hypotenuse c obey the following, with equality only in the isosceles case:: p. 280 
+
+  
+    
+      
+        a
+        +
+        b
+        ≤
+        c
+        
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle a+b\leq c{\sqrt {2}}.}
+  In terms of the inradius, the hypotenuse obeys: p. 281 
+
+  
+    
+      
+        2
+        r
+        ≤
+        c
+        (
+        
+          
+            2
+          
+        
+        −
+        1
+        )
+        ,
+      
+    
+    {\displaystyle 2r\leq c({\sqrt {2}}-1),}
+  and in terms of the altitude from the hypotenuse the legs obey: p. 282 
+
+  
+    
+      
+        
+          h
+          
+            c
+          
+        
+        ≤
+        
+          
+            
+              2
+            
+            4
+          
+        
+        (
+        a
+        +
+        b
+        )
+        .
+      
+    
+    {\displaystyle h_{c}\leq {\frac {\sqrt {2}}{4}}(a+b).}
+
+Isosceles triangle
+If the two equal sides of an isosceles triangle have length a and the other side has length c, then the internal angle bisector t from one of the two equal-angled vertices satisfies: p.169, #
+  
+    
+      
+        η
+      
+    
+    {\displaystyle \eta }
+  44 
+
+  
+    
+      
+        
+          
+            
+              2
+              a
+              c
+            
+            
+              a
+              +
+              c
+            
+          
+        
+        >
+        t
+        >
+        
+          
+            
+              a
+              c
+              
+                
+                  2
+                
+              
+            
+            
+              a
+              +
+              c
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {2ac}{a+c}}>t>{\frac {ac{\sqrt {2}}}{a+c}}.}
+
+Equilateral triangle
+For any point P in the plane of an equilateral triangle ABC, the distances of P from the vertices, PA, PB, and PC, are such that, unless P is on the triangle's circumcircle, they obey the basic triangle inequality and thus can themselves form the sides of a triangle:: p. 279 
+However, when P is on the circumcircle the sum of the distances from P to the nearest two vertices exactly equals the distance to the farthest vertex.
+A triangle is equilateral if and only if, for every point P in the plane, with distances PD, PE, and PF to the triangle's sides and distances PA, PB, and PC to its vertices,: p.178, #235.4
+
+Two triangles
+Pedoe's inequality for two triangles, one with sides a, b, and c and area T, and the other with sides d, e, and f and area  S, states that
+
+  
+    
+      
+        
+          d
+          
+            2
+          
+        
+        (
+        
+          b
+          
+            2
+          
+        
+        +
+        
+          c
+          
+            2
+          
+        
+        −
+        
+          a
+          
+            2
+          
+        
+        )
+        +
+        
+          e
+          
+            2
+          
+        
+        (
+        
+          a
+          
+            2
+          
+        
+        +
+        
+          c
+          
+            2
+          
+        
+        −
+        
+          b
+          
+            2
+          
+        
+        )
+        +
+        
+          f
+          
+            2
+          
+        
+        (
+        
+          a
+          
+            2
+          
+        
+        +
+        
+          b
+          
+            2
+          
+        
+        −
+        
+          c
+          
+            2
+          
+        
+        )
+        ≥
+        16
+        T
+        S
+        ,
+      
+    
+    {\displaystyle d^{2}(b^{2}+c^{2}-a^{2})+e^{2}(a^{2}+c^{2}-b^{2})+f^{2}(a^{2}+b^{2}-c^{2})\geq 16TS,}
+  with equality if and only if the two triangles are similar.
+The hinge theorem or open-mouth theorem states that if two sides of one triangle are congruent to two sides of another triangle, and the included angle of the first is larger than the included angle of the second, then the third side of the first triangle is longer than the third side of the second triangle. That is, in triangles ABC and DEF with sides a, b, c, and d, e, f respectively (with a opposite A etc.), if a = d and b = e and angle C > angle F, then
+
+  
+    
+      
+        c
+        >
+        f
+        .
+      
+    
+    {\displaystyle c>f.}
+  The converse also holds: if c > f, then C > F.
+The angles in any two triangles ABC and DEF are related in terms of the cotangent function according to
+
+  
+    
+      
+        cot
+        ⁡
+        A
+        (
+        cot
+        ⁡
+        E
+        +
+        cot
+        ⁡
+        F
+        )
+        +
+        cot
+        ⁡
+        B
+        (
+        cot
+        ⁡
+        F
+        +
+        cot
+        ⁡
+        D
+        )
+        +
+        cot
+        ⁡
+        C
+        (
+        cot
+        ⁡
+        D
+        +
+        cot
+        ⁡
+        E
+        )
+        ≥
+        2.
+      
+    
+    {\displaystyle \cot A(\cot E+\cot F)+\cot B(\cot F+\cot D)+\cot C(\cot D+\cot E)\geq 2.}
+
+Non-Euclidean triangles
+In a triangle on the surface of a sphere, as well as in elliptic geometry,
+
+  
+    
+      
+        ∠
+        A
+        +
+        ∠
+        B
+        +
+        ∠
+        C
+        >
+        
+          180
+          
+            ∘
+          
+        
+        .
+      
+    
+    {\displaystyle \angle A+\angle B+\angle C>180^{\circ }.}
+  This inequality is reversed for hyperbolic triangles.
+
+See also
+List of inequalities
+List of triangle topics
+Quadrilateral § Inequalities
+Quadrilateral § Maximum and minimum properties
+
+
+== References ==

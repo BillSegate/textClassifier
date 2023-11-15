@@ -1,0 +1,135 @@
+Dynamic Amplification Factor (DAF) or Dynamic Increase Factor (DIF), is a dimensionless number which describes how many times the deflections or stresses should be multiplied to the deflections or stresses caused by the static loads when a dynamic load is applied on to a structure.When lifting an object during a sub-sea operation, the DAF is calculated based on dynamic hydraulic forces or on snap-forces. 
+
+  
+    
+      
+        D
+        A
+        F
+        =
+        
+          
+            
+              F
+              
+                t
+                o
+                t
+                a
+                l
+              
+            
+            
+              M
+              g
+            
+          
+        
+      
+    
+    {\displaystyle DAF={\frac {F_{total}}{Mg}}}
+  Where:
+
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   is the mass of the object in air (kg)
+
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   is the acceleration of gravity (9.81m/s2)
+
+  
+    
+      
+        
+          F
+          
+            t
+            o
+            t
+            a
+            l
+          
+        
+      
+    
+    {\displaystyle F_{total}}
+   is the largest of 
+  
+    
+      
+        
+          
+            F
+            
+              s
+              t
+              a
+              t
+              i
+              c
+              −
+              m
+              a
+              x
+            
+          
+          +
+          
+            F
+            
+              h
+              y
+              d
+            
+          
+        
+      
+    
+    {\displaystyle {F_{static-max}+F_{hyd}}}
+   or 
+  
+    
+      
+        
+          F
+          
+            s
+            t
+            a
+            t
+            i
+            c
+            −
+            m
+            a
+            x
+          
+        
+        +
+        
+          F
+          
+            s
+            n
+            a
+            p
+          
+        
+      
+    
+    {\displaystyle F_{static-max}+F_{snap}}
+   (N)
+
+
+== References ==

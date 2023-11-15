@@ -1,0 +1,258 @@
+This article lists Wikipedia articles about named mathematical inequalities.
+
+Inequalities in pure mathematics
+Analysis
+Agmon's inequality
+Askey–Gasper inequality
+Babenko–Beckner inequality
+Bernoulli's inequality
+Bernstein's inequality (mathematical analysis)
+Bessel's inequality
+Bihari–LaSalle inequality
+Bohnenblust–Hille inequality
+Borell–Brascamp–Lieb inequality
+Brezis–Gallouet inequality
+Carleman's inequality
+Chebyshev–Markov–Stieltjes inequalities
+Chebyshev's sum inequality
+Clarkson's inequalities
+Eilenberg's inequality
+Fekete–Szegő inequality
+Fenchel's inequality
+Friedrichs's inequality
+Gagliardo–Nirenberg interpolation inequality
+Gårding's inequality
+Grothendieck inequality
+Grunsky's inequalities
+Hanner's inequalities
+Hardy's inequality
+Hardy–Littlewood inequality
+Hardy–Littlewood–Sobolev inequality
+Harnack's inequality
+Hausdorff–Young inequality
+Hermite–Hadamard inequality
+Hilbert's inequality
+Hölder's inequality
+Jackson's inequality
+Jensen's inequality
+Khabibullin's conjecture on integral inequalities
+Kantorovich inequality
+Karamata's inequality
+Korn's inequality
+Ladyzhenskaya's inequality
+Landau–Kolmogorov inequality
+Lebedev–Milin inequality
+Lieb–Thirring inequality
+Littlewood's 4/3 inequality
+Markov brothers' inequality
+Mashreghi–Ransford inequality
+Max–min inequality
+Minkowski's inequality
+Poincaré inequality
+Popoviciu's inequality
+Prékopa–Leindler inequality
+Rayleigh–Faber–Krahn inequality
+Remez inequality
+Riesz rearrangement inequality
+Schur test
+Shapiro inequality
+Sobolev inequality
+Steffensen's inequality
+Szegő inequality
+Three spheres inequality
+Trace inequalities
+Trudinger's theorem
+Turán's inequalities
+Von Neumann's inequality
+Wirtinger's inequality for functions
+Young's convolution inequality
+Young's inequality for products
+
+Inequalities relating to means
+Hardy–Littlewood maximal inequality
+Inequality of arithmetic and geometric means
+Ky Fan inequality
+Levinson's inequality
+Maclaurin's inequality
+Mahler's inequality
+Muirhead's inequality
+Newton's inequalities
+Stein–Strömberg theorem
+
+Combinatorics
+Binomial coefficient bounds
+Factorial bounds
+XYZ inequality
+Fisher's inequality
+Ingleton's inequality
+Lubell–Yamamoto–Meshalkin inequality
+Nesbitt's inequality
+Rearrangement inequality
+Schur's inequality
+Shapiro inequality
+Stirling's formula (bounds)
+
+Differential equations
+Grönwall's inequality
+
+Geometry
+Alexandrov–Fenchel inequality
+Aristarchus's inequality
+Barrow's inequality
+Berger–Kazdan comparison theorem
+Blaschke–Lebesgue inequality
+Blaschke–Santaló inequality
+Bishop–Gromov inequality
+Bogomolov–Miyaoka–Yau inequality
+Bonnesen's inequality
+Brascamp–Lieb inequality
+Brunn–Minkowski inequality
+Castelnuovo–Severi inequality
+Cheng's eigenvalue comparison theorem
+Clifford's theorem on special divisors
+Cohn-Vossen's inequality
+Erdős–Mordell inequality
+Euler's theorem in geometry
+Gromov's inequality for complex projective space
+Gromov's systolic inequality for essential manifolds
+Hadamard's inequality
+Hadwiger–Finsler inequality
+Hinge theorem
+Hitchin–Thorpe inequality
+Isoperimetric inequality
+Jordan's inequality
+Jung's theorem
+Loewner's torus inequality
+Łojasiewicz inequality
+Loomis–Whitney inequality
+Melchior's inequality
+Milman's reverse Brunn–Minkowski inequality
+Milnor–Wood inequality
+Minkowski's first inequality for convex bodies
+Myers's theorem
+Noether inequality
+Ono's inequality
+Pedoe's inequality
+Ptolemy's inequality
+Pu's inequality
+Riemannian Penrose inequality
+Toponogov's theorem
+Triangle inequality
+Weitzenböck's inequality
+Wirtinger inequality (2-forms)
+
+Information theory
+Inequalities in information theory
+Kraft's inequality
+Log sum inequality
+Welch bounds
+
+Algebra
+Abhyankar's inequality
+Pisier–Ringrose inequality
+
+Linear algebra
+Abel's inequality
+Bregman–Minc inequality
+Cauchy–Schwarz inequality
+Golden–Thompson inequality
+Hadamard's inequality
+Hoffman-Wielandt inequality
+Peetre's inequality
+Sylvester's rank inequality
+Triangle inequality
+Trace inequalities
+
+Eigenvalue inequalities
+Bendixson's inequality
+Weyl's inequality in matrix theory
+Cauchy interlacing theorem
+Poincaré separation theorem
+
+Number theory
+Bonse's inequality
+Large sieve inequality
+Pólya–Vinogradov inequality
+Turán–Kubilius inequality
+Weyl's inequality
+
+Probability theory and statistics
+Azuma's inequality
+Bennett's inequality, an upper bound on the probability that the sum of independent random variables deviates from its expected value by more than any specified amount
+Bhatia–Davis inequality, an upper bound on the variance of any bounded probability distribution
+Bernstein inequalities (probability theory)
+Boole's inequality
+Borell–TIS inequality
+BRS-inequality
+Burkholder's inequality
+Burkholder–Davis–Gundy inequalities
+Cantelli's inequality
+Chebyshev's inequality
+Chernoff's inequality
+Chung–Erdős inequality
+Concentration inequality
+Cramér–Rao inequality
+Doob's martingale inequality
+Dvoretzky–Kiefer–Wolfowitz inequality
+Eaton's inequality, a bound on the largest absolute value of a linear combination of bounded random variables
+Emery's inequality
+Entropy power inequality
+Etemadi's inequality
+Fannes–Audenaert inequality
+Fano's inequality
+Fefferman's inequality
+Fréchet inequalities
+Gauss's inequality
+Gauss–Markov theorem, the statement that the least-squares estimators in certain linear models are the best linear unbiased estimators
+Gaussian correlation inequality
+Gaussian isoperimetric inequality
+Gibbs's inequality
+Hoeffding's inequality
+Hoeffding's lemma
+Jensen's inequality
+Khintchine inequality
+Kolmogorov's inequality
+Kunita–Watanabe inequality
+Le Cam's theorem
+Lenglart's inequality
+Marcinkiewicz–Zygmund inequality
+Markov's inequality
+McDiarmid's inequality
+Paley–Zygmund inequality
+Pinsker's inequality
+Popoviciu's inequality on variances
+Prophet inequality
+Rao–Blackwell theorem
+Ross's conjecture, a lower bound on the average waiting time in certain queues
+Samuelson's inequality
+Shearer's inequality
+Stochastic Gronwall inequality
+Talagrand's concentration inequality
+Vitale's random Brunn–Minkowski inequality
+Vysochanskiï–Petunin inequality
+
+Topology
+Berger's inequality for Einstein manifolds
+
+Inequalities particular to physics
+Ahlswede–Daykin inequality
+Bell's inequality – see Bell's theorem
+Bell's original inequality
+CHSH inequality
+Clausius–Duhem inequality
+Correlation inequality – any of several inequalities
+FKG inequality
+Ginibre inequality
+Griffiths inequality
+Heisenberg's inequality
+Holley inequality
+Leggett–Garg inequality
+Riemannian Penrose inequality
+Rushbrooke inequality
+Tsirelson's inequality
+
+See also
+Comparison theorem
+List of mathematical identities
+Lists of mathematics topics
+List of set identities and relations

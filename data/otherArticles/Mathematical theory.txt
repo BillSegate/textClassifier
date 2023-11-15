@@ -1,0 +1,15 @@
+A mathematical theory is a mathematical model of a branch of mathematics that is based on a set of axioms. It can also simultaneously be a body of knowledge (e.g., based on known axioms and definitions), and so in this sense can refer to an area of mathematical research within the established framework.Explanatory depth is one of the most significant theoretical virtues in mathematics. For example, set theory has the ability to systematize and explain number theory and geometry/analysis. Despite the widely logical necessity (and self-evidence) of arithmetic truths such as 1<3, 2+2=4, 6-1=5, and so on, a theory that just postulates an infinite blizzard of such truths would be inadequate. Rather an adequate theory is one in which such truths are derived from explanatorily prior axioms, such as the Peano Axioms or set theoretic axioms, which lie at the foundation of ZFC axiomatic set theory.
+The singular accomplishment of axiomatic set theory is its ability to give a foundation for the derivation of the entirety of classical mathematics from a handful of axioms. The reason set theory is so prized is because of its explanatory depth. So a mathematical theory which just postulates an infinity of arithmetic truths without explanatory depth would not be a serious competitor to Peano arithmetic or Zermelo-Fraenkel set theory.
+
+See also
+List of mathematical theories
+Theorem, a statement with a mathematical proof
+Theory (mathematical logic)
+Unifying theories in mathematics
+
+References
+External links
+Langlands, Robert P. (January 2010). "Is there beauty in mathematical theories?" (PDF).
+Boero, Paolo. "Approaching Mathematical Theories in Junior High School". Dipartimento di Matematica, Università di Genova.
+Corry, Leo. "Reflexive Thinking in Mathematics: Formal and Non-formal Aspects" (PDF). Tel Aviv, IL: Tel Aviv University.
+"Theory (mathematics)". Citizendium.org.

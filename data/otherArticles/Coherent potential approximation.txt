@@ -1,0 +1,8 @@
+The coherent potential approximation (or CPA) is a method, in physics, of finding the Green's function of an effective medium. It is a useful concept in understanding how sound waves scatter in a material which displays spatial inhomogeneity.
+One version of the CPA is an extension to random materials of the muffin-tin approximation, used to calculate electronic band structure in solids. A variational implementation of the muffin-tin approximation to crystalline solids using Green's functions was suggested by Korringa and by Kohn and Rostoker, and is often referred to as the KKR method. For random materials, the theory is applied by the introduction of an ordered lattice of effective potentials to replace the varying potentials in the random material. This approach is called the KKR coherent potential approximation.
+
+References
+Further reading
+Ping Sheng (1995). Introduction to Wave Scattering, Localization, and Mesoscopic Phenomena. Academic Press. ISBN 978-0-12-639845-8.
+Fumiko Yonezawa and Kazuo Morigaki (1973). "Coherent Potential Approximation: Basic Concepts and Applications". Progress of Theoretical Physics Supplement. 53: 1–76. Bibcode:1973PThPS..53....1Y. doi:10.1143/PTPS.53.1.
+John R. Klauder (1961). "The modification of electron energy levels by impurity atoms". Annals of Physics. 14: 43–76. Bibcode:1961AnPhy..14...43K. doi:10.1016/0003-4916(61)90051-3.

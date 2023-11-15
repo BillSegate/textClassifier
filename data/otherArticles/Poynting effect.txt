@@ -1,0 +1,213 @@
+The Poynting effect may refer to two unrelated physical phenomena.  Neither should be confused with the Poynting–Robertson effect.  All of these effects are named after John Henry Poynting, an English physicist.
+
+Solid mechanics
+In solid mechanics, the Poynting effect is a Finite strain theory effect observed when an elastic cube is sheared between two plates and stress is developed in the direction normal to the sheared faces, or when a cylinder is subjected to torsion and the axial length changes. The Poynting phenomenon in torsion was noticed experimentally by J. H. Poynting.
+
+Chemistry and thermodynamics
+In thermodynamics, the Poynting effect generally refers to the change in the fugacity of a liquid when a non-condensable gas is mixed with the vapor at saturated conditions.
+
+  
+    
+      
+        ln
+        ⁡
+        
+          
+            
+              
+                f
+                
+                  L
+                
+              
+              (
+              T
+              ,
+              P
+              )
+            
+            
+              
+                f
+                
+                  sat
+                
+              
+              (
+              T
+              )
+            
+          
+        
+        =
+        
+          
+            1
+            
+              R
+              T
+            
+          
+        
+        
+          ∫
+          
+            
+              P
+              
+                sat
+              
+            
+            (
+            T
+            )
+          
+          
+            P
+          
+        
+        
+          v
+          
+            liq
+          
+        
+        
+        d
+        p
+      
+    
+    {\displaystyle \ln {\frac {f^{L}(T,P)}{f_{\text{sat}}(T)}}={\frac {1}{RT}}\int _{P^{\text{sat}}(T)}^{P}v_{\text{liq}}\,dp}
+  Equivalently in terms of vapor pressure, if one assumes that the vapor and the non-condensable gas behave as ideal gases and an ideal mixture, it can be shown that:
+
+  
+    
+      
+        ln
+        ⁡
+        
+          
+            
+              p
+              
+                v
+              
+            
+            
+              p
+              
+                v
+                ,
+                o
+              
+            
+          
+        
+        =
+        
+          
+            
+              v
+              
+                liq
+              
+            
+            
+              R
+              T
+            
+          
+        
+        (
+        P
+        −
+        
+          p
+          
+            v
+            ,
+            o
+          
+        
+        )
+        
+      
+    
+    {\displaystyle \ln {\frac {p_{v}}{p_{v,o}}}={\frac {v_{\text{liq}}}{RT}}(P-p_{v,o})\!}
+  where
+
+  
+    
+      
+        
+          p
+          
+            v
+          
+        
+      
+    
+    {\textstyle p_{v}}
+   is the modified vapor pressure
+
+  
+    
+      
+        
+          p
+          
+            v
+            ,
+            o
+          
+        
+      
+    
+    {\textstyle p_{v,o}}
+   is the unmodified vapor pressure
+
+  
+    
+      
+        
+          v
+          
+            l
+            i
+            q
+          
+        
+      
+    
+    {\textstyle v_{liq}}
+   is the liquid molar volume
+
+  
+    
+      
+        R
+      
+    
+    {\textstyle R}
+   is the liquid/vapor's gas constant
+
+  
+    
+      
+        T
+      
+    
+    {\textstyle T}
+   is the temperature
+
+  
+    
+      
+        P
+      
+    
+    {\textstyle P}
+   is the total pressure (vapor pressure + non-condensable gas)A common example is the production of the medicine Entonox, a high-pressure mixture of nitrous oxide and oxygen.  The ability to combine N2O and O2 at high pressure while remaining in the gaseous form is due to the Poynting effect.
+
+
+== References ==

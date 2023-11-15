@@ -1,0 +1,12 @@
+In theoretical physics, stochastic quantization is a method for modelling quantum mechanics, introduced by Edward Nelson in 1966, and streamlined by  Parisi and Wu.
+
+Details
+Stochastic quantization serves to quantize Euclidean field theories, and is used for numerical applications, such as numerical simulations of gauge theories with fermions. This serves to address the problem of fermion doubling that usually occurs in these numerical calculations.
+Stochastic quantization takes advantage of the fact that a Euclidean quantum field theory can be modeled as the equilibrium limit of a statistical mechanical system coupled to a heat bath. In particular, in the path integral representation of a Euclidean quantum field theory, the path integral measure is closely related to the Boltzmann distribution of a statistical mechanical system in equilibrium. In this relation, Euclidean Green's functions become correlation functions in the statistical mechanical system. A statistical mechanical system in equilibrium can be modeled, via the ergodic hypothesis, as the stationary distribution of a stochastic process. Then the Euclidean path integral measure can also be thought of as the stationary distribution of a stochastic process; hence the name stochastic quantization.
+
+See also
+Supersymmetric theory of stochastic dynamics
+Stochastic quantum mechanics
+
+
+== References ==

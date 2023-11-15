@@ -1,0 +1,138 @@
+A yupana (from Quechua: yupay 'count') is a counting board used to perform arithmetic operations, dating back to the time of the Incas. Very little documentation exists concerning its precise physical form or how it was used.
+
+Types
+The term yupana refers to two distinct classes of objects:
+
+Table Yupana (or archaeological yupana): a system of geometric boxes of different sizes and materials. The first example of this type was found in 1869 in the Ecuadorian province of Azuay and prompted searches for more of these objects. All examples of the archaeological yupana vary greatly from each other. Some archaeological yupanas found in  Manchán (an archaeological site in Casma) and Huacones-Vilcahuasi (in Cañete) were embedded into the floor.
+Poma de Ayala Yupana: a picture on page 360 of El primer nueva corónica y buen gobierno, written by the Amerindian chronicler Felipe Guaman Poma de Ayala  shows a 5x4 chessboard (shown right). The chessboard, though resembling a table yupana, differs from this style in most notably in each of its rectangular trays have the same dimensions, while table yupanas have trays of other polygonal shapes of differing sizes.Although very different from each other, most scholars who have dealt with table yupanas have extended reasoning and theories to the Poma de Ayala yupana and vice versa, perhaps in an attempt to find a unifying thread or a common method of creation. For example, the Nueva coronica (New Chronicle) discovered in 1916 in the library of Copenhagen contained evidence that a portion of the studies on the Poma de Ayala yupana were based on previous studies and theories regarding table yupanas.
+
+History
+Several chroniclers of the Indies described, in brief, this Incan abacus and its operation.
+
+Felipe Guaman Poma de Ayala
+The first was Guaman Poma de Ayala around the year 1615 who wrote:
+
+... They count using tables, numbered in increments one hundred thousand to ten thousand, one hundred to ten, and onward until they arrive at one. They keep records of everything that happens in this realm: holidays and Sundays, months and years. The accountants and treasurers of the kingdom are found in every city, town, or indigenous village...
+In addition to providing this brief description, Poma de Ayala drew a picture of the yupana: a board of five rows and four columns with each cell holding a series of black and white circles.
+
+José de Acosta
+Predating Pomo de Ayala's writings, in 1596 The Jesuit father José de Acosta wrote:
+
+... Well, seeing another group which uses kernels of corn is an enchanting thing, as a very embarrassing account, which he will have a very good accountant do by pen and ink, to see how each contribution fits with so many people, taking so much from over there and adding so much from here, with another hundred small pieces, these Indians will take their kernels and put one here, three there, eight I don't know where; they will move a kernel from here, they will barter three from there, and, in fact, they leave with their account done punctually without missing a mark, and much more they know how to put into account and account for what each can pay or give, that we will know how to give to each of them as ascertained by pen and ink.  If this is not ingenuity and these men are beasts, let whoever wishes to judge it so judge it, for what I judge to be true is that in what they apply they give us great advantages.
+
+Juan de Velasco
+In 1841, Father Juan de Velasco wrote:
+
+... these teachers were using something like a series of trays made of wood, stone, or clay, with different separations, in which they put stones of different shapes, colors and angularities...
+
+Table yupana
+Various table yupana have been found across Ecuador and Peru.
+
+The Chordeleg Yupana
+The earliest known example of a table yupana was found in 1869 in Chordeleg, Azuay Province, Ecuador.  A rectangular table (33x27 cm) of wood consisting of 17 compartments, 14 of which are square, 2 are rectangular, and one of which is octagonal. Two edges of the table contain other square compartments (12x12 cm) raised and arranged side by side, upon which two square platforms (7x7 cm), are superimposed. These structures are called "towers". The table's compartments are symmetrical with respect to the diagonal of the rectangular compartments. The four sides of the board are also engraved with images of human heads and a crocodile. As a result of this discovery, Charles Wiener a systematic study of these objects in 1877. Wiener concluded that the table yupanas served to calculate the taxes that farmers paid to the Incan empire.
+
+The Caraz Yupana
+Found at Caraz between 1878 and 1879, this table yupana differs from that of Chordeleg as the material of construction is the stone and the central octagonal compartment is replaced with a rectangular one; towers also have three shelves instead of two.
+
+The Callejón de Huaylas Yupana
+A series of table yupanas much different from the first, was described by Erland Nordenskiöld in 1931. These yupana, made of stone, boast a series of rectangular and square compartments. The tower has two rectangular compartments. The compartments are arranged symmetrically with respect to the axis of the smaller side of the table.
+
+The Triangular Yupana
+These yupana, made of stone, have 18 triangular compartments. On one side there is a rectangular tower with one level and three triangular compartments. In the central part there are four square compartments.
+
+The Chan Chan Yupana
+Identical to the yupana of Chordeleg, both for the material and the arrangement of the compartments, this table yupana was found in the Chan Chan archaeological complex in Peru in 1967.
+
+The Cárhua de la Bahía Yupana
+Discovered in the Peruvian province of Pisco, these are two table yupana in clay and bone. The first is rectangular (47x32 cm), has 22 square (5x5 cm) and three rectangular (16x18 cm) compartments, and has no towers. The second yupana is rectangular (32x23 cm) and has 22 square compartments, two L-shaped compartments and three rectangular compartments in the center. The compartments are arranged symmetrically with respect to the axis of the longer side.
+
+The Huancarcuchu Yupana
+Discovered in Northern Ecuador by Max Uhle in 1922, this yupana is made of stone and its compartments are drawn onto the surface of the tablet. It has the shape of a pyramid consisting of 10 overlapping rectangles: four on the first level, three on the second, two in the third and one in the fourth. This yupana is the one that is closest to the picture by Poma de Ayala in Nueva Coronica, while having a line fewer and being partially drawn.
+
+The Florio Yupana
+C. Florio presents a study  which does not identify a yupana in these archaeological findings, but an object whose name has been forgotten and remains unknown. Instead, this object is used to connect to the tocapu (an ideogram already used by pre-Incas civilizations) called “llave inca” (i.e. Inca key) to the yanantin-masintin philosophy. The scholar justifies this based on from the lack of objective evidence that recognizes this object as a yupana, a belief that consolidated over years without repetition or demonstration of this hypothesis, and with the crossing of data from the Miccinelli Documents and the tocapu catalogued by Victoria de la Jara. 
+Supposing to color the different compartments of the table yupana (fig. A), C. Florio identifies a drawing (fig. B) very similar to an existing tocapu (fig. C) catalogued by Victoria de la Jara. In addition, in the tocapu reported in figure D, also catalogued by V. de la Jara, Florio identifies a stylization of tocapu C and the departure point for creating the tocapu “llave Inca” (Inca key). She finds the relation between the table yupana and the Inca key also similar in their connection with the concept of duality: the table yupana structure is clearly dual and Blas Valera in “Exsul Immeritus Blas Valera populo suo” (one of the two Miccinelli Documents) describes the "Inca key" tocapu as representing the concept of the “opposite forces” and the “number 2”, both strictly linked to the concept of duality.According to C. Florio, the real yupana used by the Incas is that of Guáman Poma, but with more columns and rows. The Poma de Ayala yupana would have represented just the part of the yupana useful for carrying out a specific calculation, which Florio identifies to be multiplication (see below).
+
+Theories Based On the Poma de Ayala Yupana
+Henry Wassen
+In 1931, Henry Wassén studied the Poma de Ayala yupana, proposing for the first time a possible representation of the numbers on the board and the operations of addition and multiplication. He interpreted the white circles as gaps carved into yupana into which the seeds described by chroniclers would be inserted: so the white circles correspond to empty gaps, while the blacks circles correspond to the same gaps filled with a black seed.The numbering system at the base of the yupana was positional notation in base 10 (in line with the writings of the chroniclers of the Indies).
+The representation of the numbers then followed a vertical progression such that the numbers 1-9 were positioned in the first row from the bottom, the second row contained the tens, the third contained the hundreds, and so on.
+Wassen proposed a progression of values of the seeds that depends on their position in the table: 1, 5, 15, 30, respectively, depending on which seeds occupy a gap in the first, second, third and fourth columns (see the table below). Only a maximum of five seeds could be included in a box belonging to the first column, so that the maximum value of that box was 5, multiplied by the power of the corresponding row. These seeds could be replaced with one seed of the next column, useful during arithmetic operations. According to the theory of Wassen, therefore, the operations of sum and product were carried out horizontally.
+This theory received a lot of criticism due to the high complexity of the calculations and was therefore considered inadequate and soon abandoned.
+The following table shows the number 13457 as it would appear on Wassen's yupana:
+
+This first interpretation of the Poma de Ayala yupana was the starting point for the theories developed by subsequent authors, into the modern writing.  No researcher moved away from the positional numbering system until 2008.
+
+Emilio Mendizabal
+Emilio Mendizabal was the first to propose in 1976 that the Inca a representation based on the progression 1, 2, 3, 5 in addition to the decimal representation. In the same publication, Mendizabal  pointed out that the series of numbers 1, 2, 3, and 5, appear in Poma de Ayala's drawing, and are part of the Fibonacci sequence, and stressed the importance of the "magic" that the number 5 contained for civilizations of Northern Peru, similar in significance to the number 8 for the civilizations of Southern Peru.
+
+Radicati di Primeglio
+In 1979, Carlos Radicati di Primeglio emphasized the difference of table yupana from that of Poma de Ayala, describing the state-of-the-art research and advanced theories so far. He also proposed the algorithms for calculating the four basic arithmetic operations for the Poma de Ayala yupana, according to a new interpretation for which it was possible to have up to nine seeds in each box with a vertical progression of powers of ten. Radicati associated each gap with a value of 1.
+The following table shows the number 13457 as it would appear on Radicati's yupana:
+
+William Burns Glynn
+In 1981, the English textile engineer William Burns Glynn proposed a positional base 10 solution for the yupana of Poma de Ayala.Glynn, as Radicati, adopted Wassen's idea of full and empty gaps, as well as a vertical progression of the powers of ten, but proposed an architecture that allowed yupana users to greatly simplify the arithmetic operations themselves.
+The horizontal progression of the values of the seeds in its representation is 1, 1, 1 for the first three columns, such that in each row is possible to deposit a maximum of ten seeds (5 + 3 + 2 seeds). Ten seeds in any row corresponds to a single seed in the line above it.
+The last column in Glynn's yupana is dedicated to the "memory", a place that can hold up to ten seeds before they are moved to the upper line.  According to the author, this is very useful during arithmetic operations in order to reduce the possibility of error.
+Glynn's solution has been adopted in various teaching projects all over the world, and even today some of its variants are used in some schools of South America.The following table shows the number 13457 as it would appear on Glynn's yupana:
+
+Nicolino de Pasquale
+In 2001, the Italian engineer Nicolino de Pasquale proposed a positional solution in base 40 of the Poma de Ayala yupana, taking the representation theory of Fibonacci already proposed by Emilio Mendizabal and developing it for the four operations.
+De Pasquale's yupana also adopts a vertical progression to represent numbers by powers of 40. The representation of the numbers is based on the fact that the sum of the values of the circles in each row is 39, if each circle takes the value 5 in the first column, 3 in the second column, 2 in the third and 1 in the fourth one; it is thus possible to represent 39 numbers, united to neutral element ( zero or "no seeds" in the table); this forms the basis of 40 symbols necessary for the numbering system.The following table shows one of the possible representations of the number 13457 in De Pasquale's yupana:
+
+After its publication, De Pasquale's theory sparked great controversy among researchers who fell into two primary groups: a group supporting the base 10 theory and another supporting the base 40 theory. The Spanish chronicles written of the conquest of the Americas indicated that the Incas used a decimal system and since 2003 the base 10 theory has been proposed as the basis for calculating both with the abacus and the quipuDe Pasquale has recently proposed the use of yupana as astronomical calendar running in mixed base 36/40 and provided his own interpretation of the Quechua word huno, translating it as "0.1". This interpretation diverges from all chroniclers of the Indies, especially Domingo de Santo Tomas who in 1560 translated huno into chunga guaranga (ten thousand).
+
+Cinzia Florio
+In 2008 Cinzia Florio proposed an alternative and revolutionary approach compared to all the theories proposed so far.  Florio's newer theory deviated from the positional numbering system and adopted additive, or sign-value notation.Relying exclusively on Poma de Ayala's design, Florio explained the arrangement of white and black circles and interpreted the use of the yupana as a board for computing multiplications, in which the multiplicand is represented in the right column, the multiplier in the two central columns, and the product in the left column, illustrated in the following table:
+
+The theory differs from all the previous in several aspects: first, the white and black circles would not be gaps that could be filled with a seed, but rather different colors of seeds, representing respectively tens and ones (this according to the chronicler Juan de Velasco).Secondly, the multiplicand is entered in the first column respecting the sign-value notation: so, the seeds can be entered in any order and the number is given by the sum of the values of these seeds.
+The multiplier is represented as the sum of two factors, since the procedure for obtaining the product is based on the distributive property of multiplication over addition.
+According to Florio, the multiplication table drawn by Poma de Ayala with provision of the seeds represented the calculation: 32 x 5, where the multiplier 5 is decomposed into 3 + 2. The sequence of numbers 1,2,3,5 would be causal, contingent to the calculation done and unrelated to the Fibonacci series.
+
+Key: ◦ = 10; • = 1; The operation represented is: 32 x 5 = 32 x (2 + 3) = (32 x 2) + (32 x 3) = 64 + 96 = 160
+The numbers represented in the columns are, from left to right:
+
+32 (the multiplicand),
+64 = 32 x 2 and 32 x 3 = 96 (which together constitute the multiplicand, multiplied by the two factors in which the multiplier has been broken down)
+151 (the product)The final number in this computation (which is incorrect) is the basis for all possible criticisms of this interpretation, since 160, not 151, is the sum of 96 and 64. Florio notes, however, that the mistake could have been on the part of Poma de Ayala in the original drawing, in designing a space as being occupied by a black circle instead of a white one. In this case, changing just one black circle into a white one in the final column gives us the number 160, the correct product.
+Poma de Ayala's yupana cannot represent every multiplicand either, it is necessary to extend the yupana vertically (adding rows) to represent numbers whose sum of digits exceeds 5.  The case is the same for the multipliers: to represent all the numbers is necessary to extend the number of columns. Apart from the supposed erroneous calculation (or erroneous representation by the designer), this is the only theory that identifies in Poma de Ayala's yupana a mathematical and consistent message (multiplication) and not a series of random numbers as in other interpretations.
+
+Andrés Chirinos (2010)
+In October 2010, Peruvian researcher Andrés Chirinos with the support of the Spanish Agency for International Development Cooperation (ACEID), revised older drawings and descriptions chronicled by Poma de Ayala, and finally deciphered the use of the yupana: a table with eleven holes which Chirinos calls a "Pre-Columbian Calculator", capable of adding, subtracting, dividing, and multiplying, making him hopeful of applying this information to the investigation of how quipus were used and functioned.
+
+See also
+Quipu
+Inca Empire
+Numbering System
+
+References
+External links
+Gilsdorf - Ethnomathematics of the Inkas
+Heliane Seline - Mathematics through cultures
+O'Connor & Robertson - Mathematics of the Incas
+
+Chroniclers of the Indies
+(in Spanish) Poma de Ayala - El Primer Nueva Coronica y Buen Gobierno
+(in Spanish) José De Acosta - Historia Natural y Moral de las Indias
+(in Spanish) Velasco - Historia del reyno de Quito del America del Sur
+
+Theory by Wassen and table-Yupana
+(in Spanish) Radicati di Primeglio - El sistema contable de los Incas: Yupana y Quipu
+
+Theory by Glynn Burns and school projects
+(in Spanish) Mora & Valero - La Yupana come strumento pedagogico alle elementari
+Leonard & Shakiban - The Incan Abacus
+(in Italian) Fiorentino - La yupana elettronica: uno strumento per la didattica interculturale della matematica
+
+Theory by De Pasquale
+(in Italian) Università Bocconi di Milano - La Matematica nelle civiltà pre-colombiane
+(in English)Incan counting system as easy as 1,2,3,5 - by Rossella Lorenzi
+(in Italian) Notizie sulla numerazione Inca e sulla yupana
+(in Italian) Un italiano scopre l'enigma della matematica inca
+(in Italian) Il Sole 24 Ore Domenica 10 Novembre 2002 – N. 308 – Pagina 35 - di Antonio Aimi - SCIENZA E FILOSOFIA Matematica precolombiana Scoperto il metodo di calcolo degli Inca
+(in Italian) L'unione Sarda - I numeri della natura nella scacchiera degli Inca - di Andrea Mameli
+(in English) "Guaman Poma Game, by N. De Pasquale, D. D'Ottavio
+
+Theory by C. Florio
+(in Italian) Florio - Incontri e disincontri nella individuazione di una relazione matematica nella yupana in Guaman Poma de Ayala
+(in Spanish) Florio - Encuentros y Desencuentros en la identificación de unarelación matemática en la yupana de Guaman Poma de Ayala

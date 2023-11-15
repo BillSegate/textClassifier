@@ -1,0 +1,1035 @@
+In calculus, Leibniz's notation, named in honor of the 17th-century German philosopher and mathematician Gottfried Wilhelm Leibniz, uses the symbols dx and dy to represent infinitely small (or infinitesimal) increments of x and y, respectively, just as Δx and Δy represent finite increments of x and y, respectively.Consider y as a function of a variable x, or y = f(x). If this is the case, then the derivative of y with respect to x, which later came to be viewed as the limit
+
+  
+    
+      
+        
+          lim
+          
+            Δ
+            x
+            →
+            0
+          
+        
+        
+          
+            
+              Δ
+              y
+            
+            
+              Δ
+              x
+            
+          
+        
+        =
+        
+          lim
+          
+            Δ
+            x
+            →
+            0
+          
+        
+        
+          
+            
+              f
+              (
+              x
+              +
+              Δ
+              x
+              )
+              −
+              f
+              (
+              x
+              )
+            
+            
+              Δ
+              x
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \lim _{\Delta x\rightarrow 0}{\frac {\Delta y}{\Delta x}}=\lim _{\Delta x\rightarrow 0}{\frac {f(x+\Delta x)-f(x)}{\Delta x}},}
+  was, according to Leibniz, the quotient of an infinitesimal increment of y by an infinitesimal increment of x, or
+
+  
+    
+      
+        
+          
+            
+              d
+              y
+            
+            
+              d
+              x
+            
+          
+        
+        =
+        
+          f
+          ′
+        
+        (
+        x
+        )
+        ,
+      
+    
+    {\displaystyle {\frac {dy}{dx}}=f'(x),}
+  where the right hand side is Joseph-Louis Lagrange's notation for the derivative of f at x.  The infinitesimal increments are called differentials.  Related to this is the  integral in which the infinitesimal increments are summed (e.g. to compute lengths, areas and volumes as sums of tiny pieces), for which Leibniz also supplied a closely related notation involving the same differentials, a notation whose efficiency proved decisive in the development of continental European mathematics.
+Leibniz's concept of infinitesimals, long considered to be too imprecise to be used as a foundation of calculus, was eventually replaced by rigorous concepts developed by Weierstrass and others in the 19th century. Consequently, Leibniz's quotient notation was re-interpreted to stand for the limit of the modern definition. However, in many instances, the symbol did seem to act as an actual quotient would and its usefulness kept it popular even in the face of several competing notations.  Several different formalisms were developed in the 20th century that can give rigorous meaning to notions of infinitesimals and infinitesimal displacements, including nonstandard analysis, tangent space, O notation and others.
+The derivatives and integrals of calculus can be packaged into the modern theory of differential forms, in which the derivative is genuinely a ratio of two differentials, and the integral likewise behaves in exact accordance with Leibniz notation.  However, this requires that derivative and integral first be defined by other means, and as such expresses the self-consistency and computational efficacy of the Leibniz notation rather than giving it a new foundation.
+
+History
+The Newton–Leibniz approach to infinitesimal calculus was introduced in the 17th century. While Newton worked with fluxions and fluents, Leibniz based his approach on generalizations of sums and differences. Leibniz was the first to use the 
+  
+    
+      
+        
+          ∫
+        
+      
+    
+    {\displaystyle \textstyle \int }
+   character. He based the character on the Latin word summa ("sum"), which he wrote ſumma with the elongated s commonly used in Germany at the time. Viewing differences as the inverse operation of summation, he used the symbol d, the first letter of the Latin differentia, to indicate this inverse operation. Leibniz was fastidious about notation, having spent years experimenting, adjusting, rejecting and corresponding with other mathematicians about them. Notations he used for the differential of y ranged successively from ω, l, and y/d until he finally settled on dy. His integral sign first appeared publicly in the article "De Geometria Recondita et analysi indivisibilium atque infinitorum" ("On a hidden geometry and analysis of indivisibles and infinites"), published in Acta Eruditorum in June 1686, but he had been using it in private manuscripts at least since 1675. Leibniz first used dx in the article "Nova Methodus pro Maximis et Minimis" also published in Acta Eruditorum in 1684. While the symbol dx/dy does appear in private manuscripts of 1675, it does not appear in this form in either of the above-mentioned published works. Leibniz did, however, use forms such as dy ad dx and dy : dx in print.
+At the end of the 19th century, Weierstrass's followers ceased to take Leibniz's notation for derivatives and integrals literally. That is, mathematicians felt that the concept of infinitesimals contained logical contradictions in its development. A number of 19th century mathematicians (Weierstrass and others) found logically rigorous ways to treat derivatives and integrals without infinitesimals using limits as shown above, while Cauchy exploited both infinitesimals and limits (see Cours d'Analyse). Nonetheless, Leibniz's notation is still in general use. Although the notation need not be taken literally, it is usually simpler than alternatives when the technique of separation of variables is used in the solution of differential equations. In physical applications, one may for example regard f(x) as measured in meters per second, and dx in seconds, so that f(x) dx is in meters, and so is the value of its definite integral. In that way the Leibniz notation is in harmony with dimensional analysis.
+
+Leibniz's notation for differentiation
+Suppose a dependent variable y represents a function f of an independent variable x, that is,
+
+  
+    
+      
+        y
+        =
+        f
+        (
+        x
+        )
+        .
+      
+    
+    {\displaystyle y=f(x).}
+  Then the derivative of the function f, in Leibniz's notation for differentiation, can be written as
+
+  
+    
+      
+        
+          
+            
+              d
+              y
+            
+            
+              d
+              x
+            
+          
+        
+        
+        
+           or 
+        
+        
+          
+            d
+            
+              d
+              x
+            
+          
+        
+        y
+        
+        
+           or 
+        
+        
+          
+            
+              d
+              
+                
+                  (
+                
+              
+              f
+              (
+              x
+              )
+              
+                
+                  )
+                
+              
+            
+            
+              d
+              x
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {dy}{dx}}\,{\text{ or }}{\frac {d}{dx}}y\,{\text{ or }}{\frac {d{\bigl (}f(x){\bigr )}}{dx}}.}
+  The Leibniz expression, also, at times, written dy/dx, is one of several notations used for derivatives and derived functions. A common alternative is Lagrange's notation
+
+  
+    
+      
+        
+          
+            
+              d
+              y
+            
+            
+              d
+              x
+            
+          
+        
+        
+        =
+        
+          y
+          ′
+        
+        =
+        
+          f
+          ′
+        
+        (
+        x
+        )
+        .
+      
+    
+    {\displaystyle {\frac {dy}{dx}}\,=y'=f'(x).}
+  Another alternative is Newton's notation, often used for derivatives with respect to time (like velocity), which requires placing a dot over the dependent variable (in this case, x):
+
+  
+    
+      
+        
+          
+            
+              d
+              x
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        
+          
+            
+              x
+              ˙
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {dx}{dt}}={\dot {x}}.}
+  Lagrange's "prime" notation is especially useful in discussions of derived functions and has the advantage of having a natural way of denoting the value of the derived function at a specific value. However, the Leibniz notation has other virtues that have kept it popular through the years.
+In its modern interpretation, the expression dy/dx should not be read as the division of two quantities dx and dy (as Leibniz had envisioned it); rather, the whole expression should be seen as a single symbol that is shorthand for
+
+  
+    
+      
+        
+          lim
+          
+            Δ
+            x
+            →
+            0
+          
+        
+        
+          
+            
+              Δ
+              y
+            
+            
+              Δ
+              x
+            
+          
+        
+      
+    
+    {\displaystyle \lim _{\Delta x\to 0}{\frac {\Delta y}{\Delta x}}}
+  (note Δ vs. d, where Δ indicates a finite difference).
+The expression may also be thought of as the application of the differential operator d/dx (again, a single symbol) to y, regarded as a function of x. This operator is written D in Euler's notation. Leibniz did not use this form, but his use of the symbol d corresponds fairly closely to this modern concept.
+While there is traditionally no division implied by the notation (but see Nonstandard analysis), the division-like notation is useful since in many situations, the derivative operator does behave like a division, making some results about derivatives easy to obtain and remember.
+This notation owes its longevity to the fact that it seems to reach to the very heart of the geometrical and mechanical applications of the calculus.
+
+Leibniz notation for higher derivatives
+If y = f(x), the nth derivative of f in Leibniz notation is given by,
+
+  
+    
+      
+        
+          f
+          
+            (
+            n
+            )
+          
+        
+        (
+        x
+        )
+        =
+        
+          
+            
+              
+                d
+                
+                  n
+                
+              
+              y
+            
+            
+              d
+              
+                x
+                
+                  n
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle f^{(n)}(x)={\frac {d^{n}y}{dx^{n}}}.}
+  This notation, for the second derivative, is obtained by using d/dx as an operator in the following way,
+
+  
+    
+      
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              y
+            
+            
+              d
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+        
+        =
+        
+        
+          
+            d
+            
+              d
+              x
+            
+          
+        
+        
+          (
+          
+            
+              
+                d
+                y
+              
+              
+                d
+                x
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle {\frac {d^{2}y}{dx^{2}}}\,=\,{\frac {d}{dx}}\left({\frac {dy}{dx}}\right).}
+  A third derivative, which might be written as,
+
+  
+    
+      
+        
+          
+            
+              d
+              
+                (
+                
+                  
+                    
+                      d
+                      
+                        (
+                        
+                          
+                            
+                              d
+                              y
+                            
+                            
+                              d
+                              x
+                            
+                          
+                        
+                        )
+                      
+                    
+                    
+                      d
+                      x
+                    
+                  
+                
+                )
+              
+            
+            
+              d
+              x
+            
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle {\frac {d\left({\frac {d\left({\frac {dy}{dx}}\right)}{dx}}\right)}{dx}}\,,}
+  can be obtained from
+
+  
+    
+      
+        
+          
+            
+              
+                d
+                
+                  3
+                
+              
+              y
+            
+            
+              d
+              
+                x
+                
+                  3
+                
+              
+            
+          
+        
+        
+        =
+        
+        
+          
+            d
+            
+              d
+              x
+            
+          
+        
+        
+          (
+          
+            
+              
+                
+                  d
+                  
+                    2
+                  
+                
+                y
+              
+              
+                d
+                
+                  x
+                  
+                    2
+                  
+                
+              
+            
+          
+          )
+        
+        
+        =
+        
+        
+          
+            d
+            
+              d
+              x
+            
+          
+        
+        
+          (
+          
+            
+              
+                d
+                
+                  d
+                  x
+                
+              
+            
+            
+              (
+              
+                
+                  
+                    d
+                    y
+                  
+                  
+                    d
+                    x
+                  
+                
+              
+              )
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle {\frac {d^{3}y}{dx^{3}}}\,=\,{\frac {d}{dx}}\left({\frac {d^{2}y}{dx^{2}}}\right)\,=\,{\frac {d}{dx}}\left({\frac {d}{dx}}\left({\frac {dy}{dx}}\right)\right).}
+  Similarly, the higher derivatives may be obtained inductively.
+While it is possible, with carefully chosen definitions, to interpret dy/dx as a quotient of differentials, this should not be done with the higher order forms. However, an alternative Leibniz notation for higher order derivatives allows for this.
+This notation was, however, not used by Leibniz. In print he did not use multi-tiered notation nor numerical exponents (before 1695). To write x3 for instance, he would write xxx, as was common in his time. The square of a differential, as it might appear in an arc length formula for instance, was written as dxdx. However, Leibniz did use his d notation as we would today use operators, namely he would write a second derivative as ddy and a third derivative as dddy. In 1695 Leibniz started to write d2⋅x and d3⋅x for ddx and dddx respectively, but l'Hôpital, in his textbook on calculus written around the same time, used Leibniz's original forms.
+
+Use in various formulas
+One reason that Leibniz's notations in calculus have endured so long is that they permit the easy recall of the appropriate formulas used for differentiation and integration. For instance, the chain rule—suppose that the function g is differentiable at x and y = f(u) is differentiable at u = g(x). Then the composite function y = f(g(x)) is differentiable at x and its derivative can be expressed in Leibniz notation as,
+
+  
+    
+      
+        
+          
+            
+              d
+              y
+            
+            
+              d
+              x
+            
+          
+        
+        =
+        
+          
+            
+              d
+              y
+            
+            
+              d
+              u
+            
+          
+        
+        ⋅
+        
+          
+            
+              d
+              u
+            
+            
+              d
+              x
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {dy}{dx}}={\frac {dy}{du}}\cdot {\frac {du}{dx}}.}
+  This can be generalized to deal with the composites of several appropriately defined and related functions, u1, u2, ..., un and would be expressed as,
+
+  
+    
+      
+        
+          
+            
+              d
+              y
+            
+            
+              d
+              x
+            
+          
+        
+        =
+        
+          
+            
+              d
+              y
+            
+            
+              d
+              
+                u
+                
+                  1
+                
+              
+            
+          
+        
+        ⋅
+        
+          
+            
+              d
+              
+                u
+                
+                  1
+                
+              
+            
+            
+              d
+              
+                u
+                
+                  2
+                
+              
+            
+          
+        
+        ⋅
+        
+          
+            
+              d
+              
+                u
+                
+                  2
+                
+              
+            
+            
+              d
+              
+                u
+                
+                  3
+                
+              
+            
+          
+        
+        ⋯
+        
+          
+            
+              d
+              
+                u
+                
+                  n
+                
+              
+            
+            
+              d
+              x
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {dy}{dx}}={\frac {dy}{du_{1}}}\cdot {\frac {du_{1}}{du_{2}}}\cdot {\frac {du_{2}}{du_{3}}}\cdots {\frac {du_{n}}{dx}}.}
+  Also, the integration by substitution formula may be expressed by
+
+  
+    
+      
+        ∫
+        y
+        
+        d
+        x
+        =
+        ∫
+        y
+        
+          
+            
+              d
+              x
+            
+            
+              d
+              u
+            
+          
+        
+        
+        d
+        u
+        ,
+      
+    
+    {\displaystyle \int y\,dx=\int y{\frac {dx}{du}}\,du,}
+  where x is thought of as a function of a new variable u and the function y on the left is expressed in terms of x while on the right it is expressed in terms of u.
+If y = f(x) where f is a differentiable function that is invertible, the derivative of the inverse function, if it exists, can be given by,
+
+  
+    
+      
+        
+          
+            
+              d
+              x
+            
+            
+              d
+              y
+            
+          
+        
+        =
+        
+          
+            1
+            
+              (
+              
+                
+                  
+                    d
+                    y
+                  
+                  
+                    d
+                    x
+                  
+                
+              
+              )
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\frac {dx}{dy}}={\frac {1}{\left({\frac {dy}{dx}}\right)}},}
+  where the parentheses are added to emphasize the fact that the derivative is not a fraction.
+However, when solving differential equations, it is easy to think of the dys and dxs as separable. One of the simplest types of differential equations is
+
+  
+    
+      
+        M
+        (
+        x
+        )
+        +
+        N
+        (
+        y
+        )
+        
+          
+            
+              d
+              y
+            
+            
+              d
+              x
+            
+          
+        
+        =
+        0
+        ,
+      
+    
+    {\displaystyle M(x)+N(y){\frac {dy}{dx}}=0,}
+  where M and N are continuous functions. Solving (implicitly) such an equation can be done by examining the equation in its differential form,
+
+  
+    
+      
+        M
+        (
+        x
+        )
+        d
+        x
+        +
+        N
+        (
+        y
+        )
+        d
+        y
+        =
+        0
+      
+    
+    {\displaystyle M(x)dx+N(y)dy=0}
+  and integrating to obtain
+
+  
+    
+      
+        ∫
+        M
+        (
+        x
+        )
+        
+        d
+        x
+        +
+        ∫
+        N
+        (
+        y
+        )
+        
+        d
+        y
+        =
+        C
+        .
+      
+    
+    {\displaystyle \int M(x)\,dx+\int N(y)\,dy=C.}
+  Rewriting, when possible, a differential equation into this form and applying the above argument is known as the separation of variables technique for solving such equations.
+In each of these instances the Leibniz notation for a derivative appears to act like a fraction, even though, in its modern interpretation, it isn't one.
+
+Modern justification of infinitesimals
+In the 1960s, building upon earlier work by Edwin Hewitt and Jerzy Łoś, Abraham Robinson developed mathematical explanations for Leibniz's infinitesimals that were acceptable by contemporary standards of rigor, and developed nonstandard analysis based on these ideas. Robinson's methods are used by only a minority of mathematicians. Jerome Keisler wrote a first-year calculus textbook, Elementary calculus: an infinitesimal approach, based on Robinson's approach.
+From the point of view of modern infinitesimal theory, Δx is an infinitesimal x-increment, Δy is the corresponding y-increment, and the derivative is the standard part of the infinitesimal ratio:
+
+  
+    
+      
+        
+          f
+          ′
+        
+        (
+        x
+        )
+        =
+        
+          
+            s
+            t
+          
+        
+        
+          
+            (
+          
+        
+        
+          
+            
+              Δ
+              y
+            
+            
+              Δ
+              x
+            
+          
+        
+        
+          
+            )
+          
+        
+      
+    
+    {\displaystyle f'(x)={\rm {st}}{\Bigg (}{\frac {\Delta y}{\Delta x}}{\Bigg )}}
+  .Then one sets 
+  
+    
+      
+        d
+        x
+        =
+        Δ
+        x
+      
+    
+    {\displaystyle dx=\Delta x}
+  , 
+  
+    
+      
+        d
+        y
+        =
+        
+          f
+          ′
+        
+        (
+        x
+        )
+        d
+        x
+      
+    
+    {\displaystyle dy=f'(x)dx}
+  , so that by definition, 
+  
+    
+      
+        
+          f
+          ′
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle f'(x)}
+   is the ratio of dy by dx.
+Similarly, although most mathematicians now view an integral
+
+  
+    
+      
+        ∫
+        f
+        (
+        x
+        )
+        
+        d
+        x
+      
+    
+    {\displaystyle \int f(x)\,dx}
+  as a limit
+
+  
+    
+      
+        
+          lim
+          
+            Δ
+            x
+            →
+            0
+          
+        
+        
+          ∑
+          
+            i
+          
+        
+        f
+        (
+        
+          x
+          
+            i
+          
+        
+        )
+        
+        Δ
+        x
+        ,
+      
+    
+    {\displaystyle \lim _{\Delta x\rightarrow 0}\sum _{i}f(x_{i})\,\Delta x,}
+  where Δx is an interval containing xi, Leibniz viewed it as the sum (the integral sign denoted summation for him) of infinitely many infinitesimal quantities f(x) dx.  From the viewpoint of nonstandard analysis, it is correct to view the integral as the standard part of such an infinite sum.
+The trade-off needed to gain the precision of these concepts is that the set of real numbers must be extended to the set of hyperreal numbers.
+
+Other notations of Leibniz
+Leibniz experimented with many different notations in various areas of mathematics. He felt that good notation was fundamental in the pursuit of mathematics. In a letter to l'Hôpital in 1693 he says:
+One of the secrets of analysis consists in the characteristic, that is, in the art of skilful employment of the available signs, and you will observe, Sir, by the small enclosure [on determinants] that Vieta and Descartes have not known all the mysteries. He refined his criteria for good notation over time and came to realize the value of "adopting symbolisms which could be set up in a line like ordinary type, without the need of widening the spaces between lines to make room for symbols with sprawling parts." For instance, in his early works he heavily used a vinculum to indicate grouping of symbols, but later he introduced the idea of using pairs of parentheses for this purpose, thus appeasing the typesetters who no longer had to widen the spaces between lines on a page and making the pages look more attractive.Many of the over 200 new symbols introduced by Leibniz are still in use today. Besides the differentials dx, dy and the integral sign ( ∫ ) already mentioned, he also introduced the colon (:) for division, the middle dot (⋅) for multiplication, the geometric signs for similar (~) and congruence (≅), the use of Recorde's equal sign (=) for proportions (replacing Oughtred's :: notation) and the double-suffix notation for determinants.
+
+See also
+Leibniz–Newton calculus controversy
+
+Notes
+References
+Briggs, William; Cochran, Lyle (2010), Calculus / Early Transcendentals / Single Variable, Addison-Wesley, ISBN 978-0-321-66414-3
+Cajori, Florian (1993) [1928], A History of Mathematical Notations, New York: Dover, ISBN 0-486-67766-4
+Katz, Victor J. (1993), A History of Mathematics / An Introduction (2nd ed.), Addison Wesley Longman, ISBN 978-0-321-01618-8
+Mazur, Joseph (2014), Enlightening Symbols / A Short History of Mathematical Notation and Its Hidden Powers, Princeton University Press, ISBN 978-0-691-17337-5
+Swokowski, Earl W. (1983), Calculus with Analytic Geometry (Alternate ed.), Prindle, Weber and Schmidt, ISBN 0-87150-341-7

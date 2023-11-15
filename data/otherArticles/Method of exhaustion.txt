@@ -1,0 +1,30 @@
+The method of exhaustion (Latin: methodus exhaustionibus) is a method of finding the area of a shape by inscribing inside it a sequence of polygons whose areas converge to the area of the containing shape. If the sequence is correctly constructed, the difference in area between the nth polygon and the containing shape will become arbitrarily small as n becomes large. As this difference becomes arbitrarily small, the possible values for the area of the shape are systematically "exhausted" by the lower bound areas successively established by the sequence members.
+The method of exhaustion typically required a form of proof by contradiction, known as reductio ad absurdum. This amounts to finding an area of a region by first comparing it to the area of a second region, which can be "exhausted" so that its area becomes arbitrarily close to the true area. The proof involves assuming that the true area is greater than the second area, proving that assertion false, assuming it is less than the second area, then proving that assertion false, too.
+
+History
+The idea originated in the late 5th century BC with Antiphon, although it is not entirely clear how well he understood it. The theory was made rigorous a few decades later by Eudoxus of Cnidus, who used it to calculate areas and volumes. It was later reinvented in China by Liu Hui in the 3rd century AD in order to find the area of a circle. The first use of the term was in 1647 by Gregory of Saint Vincent in Opus geometricum quadraturae circuli et sectionum.
+The method of exhaustion is seen as a precursor to the methods of calculus. The development of analytical geometry and rigorous integral calculus in the 17th-19th centuries subsumed the method of exhaustion so that it is no longer explicitly used to solve problems. An important alternative approach was Cavalieri's principle, also termed the method of indivisibles which eventually evolved into the infinitesimal calculus of Roberval, Torricelli, Wallis, Leibniz, and others.
+
+Euclid
+Euclid used the method of exhaustion to prove the following six propositions in the 12th book of his Elements.
+Proposition 2: The area of circles is proportional to the square of their diameters.Proposition 5: The volumes of two tetrahedra of the same height are proportional to the areas of their triangular bases.Proposition 10: The volume of a cone is a third of the volume of the corresponding cylinder which has the same base and height.Proposition 11: The volume of a cone (or cylinder) of the same height is proportional to the area of the base.Proposition 12: The volume of a cone (or cylinder) that is similar to another is proportional to the cube of the ratio of the diameters of the bases.Proposition 18: The volume of a sphere is proportional to the cube of its diameter.
+
+Archimedes
+Archimedes used the method of exhaustion as a way to compute the area inside a circle by filling the circle with a polygon of a greater area and greater number of sides.  The quotient formed by the area of this polygon divided by the square of the circle radius can be made arbitrarily close to  π as the number of polygon sides becomes large, proving that the area inside the circle of radius r is πr2, π being defined as the ratio of the circumference to the diameter (C/d).
+He also provided the bounds 3 + 10/71 < π < 3 + 10/70, (giving a range of 1/497) by comparing the perimeters of the circle with the perimeters of the inscribed and circumscribed 96-sided regular polygons.
+Other results he obtained with the method of exhaustion included
+The area bounded by the intersection of a line and a parabola is 4/3 that of the triangle having the same base and height (the quadrature of the parabola);
+The area of an ellipse is proportional to a rectangle having sides equal to its major and minor axes;
+The volume of a sphere is 4 times that of a cone having a base of the same radius and height equal to this radius;
+The volume of a cylinder having a height equal to its diameter is 3/2 that of a sphere having the same diameter;
+The area bounded by one spiral rotation and a line is 1/3 that of the circle having a radius equal to the line segment length;
+Use of the method of exhaustion also led to the successful evaluation of an infinite geometric series (for the first time);
+
+See also
+The Method of Mechanical Theorems
+The Quadrature of the Parabola
+Trapezoidal rule
+Pythagorean Theorem
+
+
+== References ==

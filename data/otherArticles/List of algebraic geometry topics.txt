@@ -1,0 +1,247 @@
+This is a list of algebraic geometry topics, by Wikipedia page.
+
+Classical topics in projective geometry
+Affine space
+Projective space
+Projective line, cross-ratio
+Projective plane
+Line at infinity
+Complex projective plane
+Complex projective space
+Plane at infinity, hyperplane at infinity
+Projective frame
+Projective transformation
+Fundamental theorem of projective geometry
+Duality (projective geometry)
+Real projective plane
+Real projective space
+Segre embedding of a product of projective spaces
+Rational normal curve
+
+Algebraic curves
+Conics, Pascal's theorem, Brianchon's theorem
+Twisted cubic
+Elliptic curve, cubic curve
+Elliptic function, Jacobi's elliptic functions, Weierstrass's elliptic functions
+Elliptic integral
+Complex multiplication
+Weil pairing
+Hyperelliptic curve
+Klein quartic
+Modular curve
+Modular equation
+Modular function
+Modular group
+Supersingular primes
+Fermat curve
+Bézout's theorem
+Brill–Noether theory
+Genus (mathematics)
+Riemann surface
+Riemann–Hurwitz formula
+Riemann–Roch theorem
+Abelian integral
+Differential of the first kind
+Jacobian variety
+Generalized Jacobian
+Moduli of algebraic curves
+Hurwitz's theorem on automorphisms of a curve
+Clifford's theorem on special divisors
+Gonality of an algebraic curve
+Weil reciprocity law
+Algebraic geometry codes
+
+Algebraic surfaces
+Enriques–Kodaira classification
+List of algebraic surfaces
+Ruled surface
+Cubic surface
+Veronese surface
+Del Pezzo surface
+Rational surface
+Enriques surface
+K3 surface
+Hodge index theorem
+Elliptic surface
+Surface of general type
+Zariski surface
+
+Algebraic geometry: classical approach
+Algebraic variety
+Hypersurface
+Quadric (algebraic geometry)
+Dimension of an algebraic variety
+Hilbert's Nullstellensatz
+Complete variety
+Elimination theory
+Gröbner basis
+Projective variety
+Quasiprojective variety
+Canonical bundle
+Complete intersection
+Serre duality
+Spaltenstein variety
+Arithmetic genus, geometric genus, irregularity
+Tangent space, Zariski tangent space
+Function field of an algebraic variety
+Ample line bundle
+Ample vector bundle
+Linear system of divisors
+Birational geometry
+Blowing up
+Resolution of singularities
+Rational variety
+Unirational variety
+Ruled variety
+Kodaira dimension
+Canonical ring
+Minimal model program
+Intersection theory
+Intersection number
+Chow ring
+Chern class
+Serre's multiplicity conjectures
+Albanese variety
+Picard group
+Modular form
+Moduli space
+Modular equation
+J-invariant
+Algebraic function
+Algebraic form
+Addition theorem
+Invariant theory
+Symbolic method of invariant theory
+Geometric invariant theory
+Toric variety
+Deformation theory
+Singular point, non-singular
+Singularity theory
+Newton polygon
+Weil conjectures
+
+Complex manifolds
+Kähler manifold
+Calabi–Yau manifold
+Stein manifold
+Hodge theory
+Hodge cycle
+Hodge conjecture
+Algebraic geometry and analytic geometry
+Mirror symmetry
+
+Algebraic groups
+Linear algebraic group
+Additive group
+Multiplicative group
+Algebraic torus
+Reductive group
+Borel subgroup
+Parabolic subgroup
+Radical of an algebraic group
+Unipotent radical
+Lie-Kolchin theorem
+Haboush's theorem (also known as the Mumford conjecture)
+Group scheme
+Abelian variety
+Theta function
+Grassmannian
+Flag manifold
+Weil restriction
+Differential Galois theory
+
+Contemporary foundations
+Commutative algebra
+Prime ideal
+Valuation (algebra)
+Krull dimension
+Regular local ring
+Regular sequence
+Cohen–Macaulay ring
+Gorenstein ring
+Koszul complex
+Spectrum of a ring
+Zariski topology
+Kähler differential
+Generic flatness
+Irrelevant ideal
+
+Sheaf theory
+Locally ringed space
+Coherent sheaf
+Invertible sheaf
+Sheaf cohomology
+Coherent sheaf cohomology
+Hirzebruch–Riemann–Roch theorem
+Grothendieck–Riemann–Roch theorem
+Coherent duality
+Dévissage
+
+Schemes
+Affine scheme
+Scheme
+Éléments de géométrie algébrique
+Grothendieck's Séminaire de géométrie algébrique
+Fiber product of schemes
+Flat morphism
+Smooth scheme
+Finite morphism
+Quasi-finite morphism
+Proper morphism
+Semistable elliptic curve
+Grothendieck's relative point of view
+Hilbert scheme
+
+Category theory
+Grothendieck topology
+Topos
+Derived category
+Descent (category theory)
+Grothendieck's Galois theory
+Algebraic stack
+Gerbe
+Étale cohomology
+Motive (algebraic geometry)
+Motivic cohomology
+A¹ homotopy theory
+Homotopical algebra
+
+Algebraic geometers
+Niels Henrik Abel
+Carl Gustav Jacob Jacobi
+Jakob Steiner
+Julius Plücker
+Arthur Cayley
+Bernhard Riemann
+Max Noether
+William Kingdon Clifford
+David Hilbert
+Italian school of algebraic geometry
+Guido Castelnuovo
+Federigo Enriques
+Francesco Severi
+Solomon Lefschetz
+Oscar Zariski
+W. V. D. Hodge
+Sir Michael Atiyah
+Kunihiko Kodaira
+André Weil
+Jean-Pierre Serre
+Alexander Grothendieck
+Friedrich Hirzebruch
+Igor Shafarevich
+Heisuke Hironaka
+Shreeram S. Abhyankar
+Pierre Samuel
+C.P. Ramanujam
+David Mumford
+Michael Artin
+Phillip Griffiths
+Pierre Deligne
+Yuri Manin
+Shigefumi Mori
+Vladimir Drinfeld
+Vladimir Voevodsky
+Claire Voisin
+János Kollár
+Caucher Birkar

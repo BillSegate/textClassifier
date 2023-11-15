@@ -1,0 +1,14 @@
+In mathematics, the adjective Noetherian is used to describe objects that satisfy an ascending or descending chain condition on certain kinds of subobjects, meaning that certain ascending or descending sequences of subobjects must have finite length. Noetherian objects are named after Emmy Noether, who was the first to study the ascending and descending chain conditions for rings. Specifically:
+
+Noetherian group, a group that satisfies the ascending chain condition on subgroups.
+Noetherian ring, a ring that satisfies the ascending chain condition on ideals.
+Noetherian module, a module that satisfies the ascending chain condition on submodules.
+More generally, an object in a category is said to be Noetherian if there is no infinitely increasing filtration of it by subobjects. A category is Noetherian if every object in it is Noetherian.
+Noetherian relation, a binary relation that satisfies the ascending chain condition on its elements.
+Noetherian topological space, a topological space that satisfies the descending chain condition on closed sets.
+Noetherian induction, also called well-founded induction, a proof method for binary relations that satisfy the descending chain condition.
+Noetherian rewriting system, an abstract rewriting system that has no infinite chains.
+Noetherian scheme, a scheme in algebraic geometry that admits a finite covering by open spectra of Noetherian rings.
+
+See also
+Artinian ring, a ring that satisfies the descending chain condition on ideals.

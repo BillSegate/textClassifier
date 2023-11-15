@@ -1,0 +1,20 @@
+In mathematics, a limiting case of a mathematical object is a special case that arises when one or more components of the object take on their most extreme possible values. For example:
+
+In statistics, the limiting case of the binomial distribution is the Poisson distribution. As the number of events tends to infinity in the binomial distribution, the random variable changes from the binomial to the Poisson distribution.
+A circle is a limiting case of various other figures, including the Cartesian oval, the ellipse, the superellipse, and the Cassini oval. Each type of figure is a circle for certain values of the defining parameters, and the generic figure appears more like a circle as the limiting values are approached.
+Archimedes calculated an approximate value of π by treating the circle as the limiting case of a regular polygon with 3 × 2n sides, as n gets large.
+In electricity and magnetism, the long wavelength limit is the limiting case when the wavelength is much larger than the system size.
+In economics, two limiting cases of a demand curve or supply curve are those in which the elasticity is zero (the totally inelastic case) or infinity (the infinitely elastic case).
+In finance, continuous compounding is the limiting case of compound interest in which the compounding period becomes infinitesimally small, achieved by taking the limit as the number of compounding periods per year goes to infinity.A limiting case is sometimes a degenerate case in which some qualitative properties differ from the corresponding properties of the generic case. For example:
+
+A point is a degenerate circle, namely one with radius 0.
+A parabola can degenerate into two distinct or coinciding parallel lines.
+An ellipse can degenerate into a single point or a line segment.
+A hyperbola can degenerate into two intersecting lines.
+
+See also
+Degeneracy (mathematics)
+Limit (mathematics)
+
+
+== References ==

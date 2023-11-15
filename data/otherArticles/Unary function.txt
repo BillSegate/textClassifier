@@ -1,0 +1,71 @@
+In mathematics, a unary function is a function that takes one argument. A unary operator belongs to a subset of unary functions, in that its range coincides with its domain. In contrast, a unary function's domain may or may not coincide with its range.
+
+Examples
+The successor function, denoted 
+  
+    
+      
+        succ
+      
+    
+    {\displaystyle \operatorname {succ} }
+  , is a unary operator. Its domain and codomain are the natural numbers; its definition is as follows:
+
+In many programming languages such as C, executing this operation is denoted by postfixing 
+  
+    
+      
+        
+          
+            +
+            
+              +
+            
+          
+        
+      
+    
+    {\displaystyle {\mathrel {+{+}}}}
+   to the operand, i.e. the use of 
+  
+    
+      
+        n
+        
+          
+            +
+            
+              +
+            
+          
+        
+      
+    
+    {\displaystyle n{\mathrel {+{+}}}}
+   is equivalent to executing the assignment 
+  
+    
+      
+        n
+        :=
+        succ
+        ⁡
+        (
+        n
+        )
+      
+    
+    {\displaystyle n:=\operatorname {succ} (n)}
+  .
+Many of the elementary functions are unary functions, including the trigonometric functions, logarithm with a specified base, exponentiation to a particular power or  base, and hyperbolic functions.
+
+See also
+Arity
+Binary function
+Binary operator
+List of mathematical functions
+Ternary operation
+Unary operation
+
+References
+Foundations of Genetic Programming

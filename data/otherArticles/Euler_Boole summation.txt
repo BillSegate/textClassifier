@@ -1,0 +1,381 @@
+Euler–Boole summation is a method for summing alternating series based on Euler's polynomials, which are defined by
+
+  
+    
+      
+        
+          
+            
+              2
+              
+                e
+                
+                  x
+                  t
+                
+              
+            
+            
+              
+                e
+                
+                  t
+                
+              
+              +
+              1
+            
+          
+        
+        =
+        
+          ∑
+          
+            n
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          E
+          
+            n
+          
+        
+        (
+        x
+        )
+        
+          
+            
+              t
+              
+                n
+              
+            
+            
+              n
+              !
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {2e^{xt}}{e^{t}+1}}=\sum _{n=0}^{\infty }E_{n}(x){\frac {t^{n}}{n!}}.}
+  The concept is named after Leonhard Euler and George Boole.
+The periodic Euler functions are
+
+  
+    
+      
+        
+          
+            
+              
+                E
+                ~
+              
+            
+          
+          
+            n
+          
+        
+        (
+        x
+        +
+        1
+        )
+        =
+        −
+        
+          
+            
+              
+                E
+                ~
+              
+            
+          
+          
+            n
+          
+        
+        (
+        x
+        )
+        
+           and 
+        
+        
+          
+            
+              
+                E
+                ~
+              
+            
+          
+          
+            n
+          
+        
+        (
+        x
+        )
+        =
+        
+          E
+          
+            n
+          
+        
+        (
+        x
+        )
+        
+           for 
+        
+        0
+        <
+        x
+        <
+        1.
+      
+    
+    {\displaystyle {\widetilde {E}}_{n}(x+1)=-{\widetilde {E}}_{n}(x){\text{ and }}{\widetilde {E}}_{n}(x)=E_{n}(x){\text{ for }}0<x<1.}
+  The Euler–Boole formula to sum alternating series is
+
+  
+    
+      
+        
+          ∑
+          
+            j
+            =
+            a
+          
+          
+            n
+            −
+            1
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            j
+          
+        
+        f
+        (
+        j
+        +
+        h
+        )
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            m
+            −
+            1
+          
+        
+        
+          
+            
+              
+                E
+                
+                  k
+                
+              
+              (
+              h
+              )
+            
+            
+              k
+              !
+            
+          
+        
+        
+          (
+          
+            (
+            −
+            1
+            
+              )
+              
+                n
+                −
+                1
+              
+            
+            
+              f
+              
+                (
+                k
+                )
+              
+            
+            (
+            n
+            )
+            +
+            (
+            −
+            1
+            
+              )
+              
+                a
+              
+            
+            
+              f
+              
+                (
+                k
+                )
+              
+            
+            (
+            a
+            )
+          
+          )
+        
+        +
+        
+          
+            1
+            
+              2
+              (
+              m
+              −
+              1
+              )
+              !
+            
+          
+        
+        
+          ∫
+          
+            a
+          
+          
+            n
+          
+        
+        
+          f
+          
+            (
+            m
+            )
+          
+        
+        (
+        x
+        )
+        
+          
+            
+              
+                E
+                ~
+              
+            
+          
+          
+            m
+            −
+            1
+          
+        
+        (
+        h
+        −
+        x
+        )
+        
+        d
+        x
+        ,
+      
+    
+    {\displaystyle \sum _{j=a}^{n-1}(-1)^{j}f(j+h)={\frac {1}{2}}\sum _{k=0}^{m-1}{\frac {E_{k}(h)}{k!}}\left((-1)^{n-1}f^{(k)}(n)+(-1)^{a}f^{(k)}(a)\right)+{\frac {1}{2(m-1)!}}\int _{a}^{n}f^{(m)}(x){\widetilde {E}}_{m-1}(h-x)\,dx,}
+  where 
+  
+    
+      
+        a
+        ,
+        m
+        ,
+        n
+        ∈
+        
+          N
+        
+        ,
+        a
+        <
+        n
+        ,
+        h
+        ∈
+        [
+        0
+        ,
+        1
+        ]
+      
+    
+    {\displaystyle a,m,n\in \mathbb {N} ,a<n,h\in [0,1]}
+   and 
+  
+    
+      
+        
+          f
+          
+            (
+            k
+            )
+          
+        
+      
+    
+    {\displaystyle f^{(k)}}
+   is the kth derivative.
+
+References
+Jonathan M. Borwein, Neil J. Calkin, Dante Manna: "Euler–Boole Summation Revisited", The American Mathematical Monthly, Vol. 116, No. 5 (May, 2009), pp. 387–412, JSTOR 40391116
+Nico M. Temme: Special Functions: An Introduction to the Classical Functions of Mathematical Physics, Wiley, 2011, ISBN 9781118030813, pp. 17–18

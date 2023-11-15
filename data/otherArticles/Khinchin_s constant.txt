@@ -1,0 +1,1124 @@
+In number theory, Aleksandr Yakovlevich Khinchin proved that for almost all real numbers x, coefficients ai of the continued fraction expansion of x have a finite geometric mean that is independent of the value of x and is known as Khinchin's constant.
+That is, for
+
+  
+    
+      
+        x
+        =
+        
+          a
+          
+            0
+          
+        
+        +
+        
+          
+            
+              
+                
+              
+              
+                
+                  1
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  
+                    a
+                    
+                      1
+                    
+                  
+                  +
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            1
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            
+                              a
+                              
+                                2
+                              
+                            
+                            +
+                            
+                              
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      1
+                                    
+                                  
+                                
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      
+                                        a
+                                        
+                                          3
+                                        
+                                      
+                                      +
+                                      
+                                        
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                1
+                                              
+                                            
+                                          
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                ⋱
+                                              
+                                            
+                                          
+                                        
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        
+      
+    
+    {\displaystyle x=a_{0}+{\cfrac {1}{a_{1}+{\cfrac {1}{a_{2}+{\cfrac {1}{a_{3}+{\cfrac {1}{\ddots }}}}}}}}\;}
+  it is almost always true that
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            (
+            
+              
+                a
+                
+                  1
+                
+              
+              
+                a
+                
+                  2
+                
+              
+              .
+              .
+              .
+              
+                a
+                
+                  n
+                
+              
+            
+            )
+          
+          
+            1
+            
+              /
+            
+            n
+          
+        
+        =
+        
+          K
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \lim _{n\rightarrow \infty }\left(a_{1}a_{2}...a_{n}\right)^{1/n}=K_{0}}
+  where 
+  
+    
+      
+        
+          K
+          
+            0
+          
+        
+      
+    
+    {\displaystyle K_{0}}
+   is Khinchin's constant
+
+  
+    
+      
+        
+          K
+          
+            0
+          
+        
+        =
+        
+          ∏
+          
+            r
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              (
+              
+                1
+                +
+                
+                  
+                    1
+                    
+                      r
+                      (
+                      r
+                      +
+                      2
+                      )
+                    
+                  
+                
+              
+              )
+            
+          
+          
+            
+              log
+              
+                2
+              
+            
+            ⁡
+            r
+          
+        
+        ≈
+        2.6854520010
+        …
+      
+    
+    {\displaystyle K_{0}=\prod _{r=1}^{\infty }{\left(1+{1 \over r(r+2)}\right)}^{\log _{2}r}\approx 2.6854520010\dots }
+   (sequence A002210 in the OEIS)(with 
+  
+    
+      
+        ∏
+      
+    
+    {\displaystyle \prod }
+   denoting the product over all sequence terms).
+Although almost all numbers satisfy this property, it has not been proven for any real number not specifically constructed for the purpose. Among the numbers whose continued fraction expansions apparently do have this property (based on numerical evidence) are  π, the Euler-Mascheroni constant γ, Apéry's constant ζ(3), and Khinchin's constant itself. However, this is unproven. 
+Among the numbers x whose continued fraction expansions are known not to have this property are rational numbers, roots of quadratic equations (including the golden ratio Φ and the square roots of integers), and the base of the natural logarithm e.
+Khinchin is sometimes spelled Khintchine (the French transliteration of Russian Хинчин) in older mathematical literature.
+
+Sketch of proof
+The proof presented here was arranged by Czesław Ryll-Nardzewski and is much simpler than Khinchin's original proof which did not use ergodic theory.
+Since the first coefficient a0 of the continued fraction of x plays no role in Khinchin's theorem and since the rational numbers have Lebesgue measure zero, we are reduced to the study of irrational numbers in the unit interval, i.e., those in 
+  
+    
+      
+        I
+        =
+        [
+        0
+        ,
+        1
+        ]
+        ∖
+        
+          Q
+        
+      
+    
+    {\displaystyle I=[0,1]\setminus \mathbb {Q} }
+  . These numbers are in bijection with infinite continued fractions of the form [0; a1, a2, ...], which we simply write [a1, a2, ...], where a1, a2, ... are positive integers. Define a transformation T:I → I by
+
+  
+    
+      
+        T
+        (
+        [
+        
+          a
+          
+            1
+          
+        
+        ,
+        
+          a
+          
+            2
+          
+        
+        ,
+        …
+        ]
+        )
+        =
+        [
+        
+          a
+          
+            2
+          
+        
+        ,
+        
+          a
+          
+            3
+          
+        
+        ,
+        …
+        ]
+        .
+        
+      
+    
+    {\displaystyle T([a_{1},a_{2},\dots ])=[a_{2},a_{3},\dots ].\,}
+  The transformation T is called the Gauss–Kuzmin–Wirsing operator. For every  Borel subset E of I, we also define the Gauss–Kuzmin measure of E
+
+  
+    
+      
+        μ
+        (
+        E
+        )
+        =
+        
+          
+            1
+            
+              log
+              ⁡
+              2
+            
+          
+        
+        
+          ∫
+          
+            E
+          
+        
+        
+          
+            
+              d
+              x
+            
+            
+              1
+              +
+              x
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \mu (E)={\frac {1}{\log 2}}\int _{E}{\frac {dx}{1+x}}.}
+  Then μ is a probability measure on the σ-algebra of Borel subsets of I. The measure μ is equivalent to the Lebesgue measure on I, but it has the additional property that the transformation T preserves the measure μ. Moreover, it can be proved that T is an ergodic transformation of the measurable space I endowed with the probability measure μ (this is the hard part of the proof). The ergodic theorem then says that for any μ-integrable function f on I, the average value of 
+  
+    
+      
+        f
+        
+          (
+          
+            
+              T
+              
+                k
+              
+            
+            x
+          
+          )
+        
+      
+    
+    {\displaystyle f\left(T^{k}x\right)}
+   is the same for almost all 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  :
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            1
+            n
+          
+        
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            n
+            −
+            1
+          
+        
+        (
+        f
+        ∘
+        
+          T
+          
+            k
+          
+        
+        )
+        (
+        x
+        )
+        =
+        
+          ∫
+          
+            I
+          
+        
+        f
+        d
+        μ
+        
+        
+          for 
+        
+        μ
+        
+          -almost all 
+        
+        x
+        ∈
+        I
+        .
+      
+    
+    {\displaystyle \lim _{n\to \infty }{\frac {1}{n}}\sum _{k=0}^{n-1}(f\circ T^{k})(x)=\int _{I}fd\mu \quad {\text{for }}\mu {\text{-almost all }}x\in I.}
+  Applying this to the function defined by f([a1, a2, ...]) = log(a1), we obtain that
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            1
+            n
+          
+        
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            n
+          
+        
+        log
+        ⁡
+        (
+        
+          a
+          
+            k
+          
+        
+        )
+        =
+        
+          ∫
+          
+            I
+          
+        
+        f
+        
+        d
+        μ
+        =
+        
+          ∑
+          
+            r
+            =
+            1
+          
+          
+            ∞
+          
+        
+        log
+        ⁡
+        (
+        r
+        )
+        
+          
+            
+              log
+              ⁡
+              
+                
+                  (
+                
+              
+              1
+              +
+              
+                
+                  1
+                  
+                    r
+                    (
+                    r
+                    +
+                    2
+                    )
+                  
+                
+              
+              
+                
+                  )
+                
+              
+            
+            
+              log
+              ⁡
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \lim _{n\to \infty }{\frac {1}{n}}\sum _{k=1}^{n}\log(a_{k})=\int _{I}f\,d\mu =\sum _{r=1}^{\infty }\log(r){\frac {\log {\bigl (}1+{\frac {1}{r(r+2)}}{\bigr )}}{\log 2}}}
+  for almost all [a1, a2, ...] in I as n → ∞.
+Taking the exponential on both sides, we obtain to the left the geometric mean of the first n coefficients of the continued fraction, and to the right Khinchin's constant.
+
+Series expressions
+Khinchin's constant may be expressed as a rational zeta series in the form
+
+  
+    
+      
+        log
+        ⁡
+        
+          K
+          
+            0
+          
+        
+        =
+        
+          
+            1
+            
+              log
+              ⁡
+              2
+            
+          
+        
+        
+          ∑
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              ζ
+              (
+              2
+              n
+              )
+              −
+              1
+            
+            n
+          
+        
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            2
+            n
+            −
+            1
+          
+        
+        
+          
+            
+              (
+              −
+              1
+              
+                )
+                
+                  k
+                  +
+                  1
+                
+              
+            
+            k
+          
+        
+      
+    
+    {\displaystyle \log K_{0}={\frac {1}{\log 2}}\sum _{n=1}^{\infty }{\frac {\zeta (2n)-1}{n}}\sum _{k=1}^{2n-1}{\frac {(-1)^{k+1}}{k}}}
+  or, by peeling off terms in the series, 
+
+  
+    
+      
+        log
+        ⁡
+        
+          K
+          
+            0
+          
+        
+        =
+        
+          
+            1
+            
+              log
+              ⁡
+              2
+            
+          
+        
+        
+          [
+          
+            −
+            
+              ∑
+              
+                k
+                =
+                2
+              
+              
+                N
+              
+            
+            log
+            ⁡
+            
+              (
+              
+                
+                  
+                    k
+                    −
+                    1
+                  
+                  k
+                
+              
+              )
+            
+            log
+            ⁡
+            
+              (
+              
+                
+                  
+                    k
+                    +
+                    1
+                  
+                  k
+                
+              
+              )
+            
+            +
+            
+              ∑
+              
+                n
+                =
+                1
+              
+              
+                ∞
+              
+            
+            
+              
+                
+                  ζ
+                  (
+                  2
+                  n
+                  ,
+                  N
+                  +
+                  1
+                  )
+                
+                n
+              
+            
+            
+              ∑
+              
+                k
+                =
+                1
+              
+              
+                2
+                n
+                −
+                1
+              
+            
+            
+              
+                
+                  (
+                  −
+                  1
+                  
+                    )
+                    
+                      k
+                      +
+                      1
+                    
+                  
+                
+                k
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle \log K_{0}={\frac {1}{\log 2}}\left[-\sum _{k=2}^{N}\log \left({\frac {k-1}{k}}\right)\log \left({\frac {k+1}{k}}\right)+\sum _{n=1}^{\infty }{\frac {\zeta (2n,N+1)}{n}}\sum _{k=1}^{2n-1}{\frac {(-1)^{k+1}}{k}}\right]}
+  where N is an integer, held fixed, and ζ(s, n) is the complex Hurwitz zeta function. Both series are strongly convergent, as ζ(n) − 1 approaches zero quickly for large n.  An expansion may also be given in terms of the dilogarithm:
+
+  
+    
+      
+        log
+        ⁡
+        
+          K
+          
+            0
+          
+        
+        =
+        log
+        ⁡
+        2
+        +
+        
+          
+            1
+            
+              log
+              ⁡
+              2
+            
+          
+        
+        
+          [
+          
+            
+              
+                
+                  Li
+                
+              
+              
+                2
+              
+            
+            
+              (
+              
+                
+                  
+                    −
+                    1
+                  
+                  2
+                
+              
+              )
+            
+            +
+            
+              
+                1
+                2
+              
+            
+            
+              ∑
+              
+                k
+                =
+                2
+              
+              
+                ∞
+              
+            
+            (
+            −
+            1
+            
+              )
+              
+                k
+              
+            
+            
+              
+                
+                  Li
+                
+              
+              
+                2
+              
+            
+            
+              (
+              
+                
+                  4
+                  
+                    k
+                    
+                      2
+                    
+                  
+                
+              
+              )
+            
+          
+          ]
+        
+        .
+      
+    
+    {\displaystyle \log K_{0}=\log 2+{\frac {1}{\log 2}}\left[{\mbox{Li}}_{2}\left({\frac {-1}{2}}\right)+{\frac {1}{2}}\sum _{k=2}^{\infty }(-1)^{k}{\mbox{Li}}_{2}\left({\frac {4}{k^{2}}}\right)\right].}
+
+Hölder means
+The Khinchin constant can be viewed as the first in a series of the Hölder means of the terms of continued fractions.  Given an arbitrary series {an}, the Hölder mean of order p of the series is given by
+
+  
+    
+      
+        
+          K
+          
+            p
+          
+        
+        =
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            [
+            
+              
+                
+                  1
+                  n
+                
+              
+              
+                ∑
+                
+                  k
+                  =
+                  1
+                
+                
+                  n
+                
+              
+              
+                a
+                
+                  k
+                
+                
+                  p
+                
+              
+            
+            ]
+          
+          
+            1
+            
+              /
+            
+            p
+          
+        
+        .
+      
+    
+    {\displaystyle K_{p}=\lim _{n\to \infty }\left[{\frac {1}{n}}\sum _{k=1}^{n}a_{k}^{p}\right]^{1/p}.}
+  When the {an} are the terms of a continued fraction expansion, the constants are given by
+
+  
+    
+      
+        
+          K
+          
+            p
+          
+        
+        =
+        
+          
+            [
+            
+              
+                ∑
+                
+                  k
+                  =
+                  1
+                
+                
+                  ∞
+                
+              
+              −
+              
+                k
+                
+                  p
+                
+              
+              
+                log
+                
+                  2
+                
+              
+              ⁡
+              
+                (
+                
+                  1
+                  −
+                  
+                    
+                      1
+                      
+                        (
+                        k
+                        +
+                        1
+                        
+                          )
+                          
+                            2
+                          
+                        
+                      
+                    
+                  
+                
+                )
+              
+            
+            ]
+          
+          
+            1
+            
+              /
+            
+            p
+          
+        
+        .
+      
+    
+    {\displaystyle K_{p}=\left[\sum _{k=1}^{\infty }-k^{p}\log _{2}\left(1-{\frac {1}{(k+1)^{2}}}\right)\right]^{1/p}.}
+  This is obtained by taking the p-th mean in conjunction with the Gauss–Kuzmin distribution. For example, the harmonic mean (p = −1) of the terms of a continued fraction is almost always
+
+  
+    
+      
+        
+          K
+          
+            −
+            1
+          
+        
+        =
+        1.74540566240
+        …
+      
+    
+    {\displaystyle K_{-1}=1.74540566240\dots }
+   (sequence A087491 in the OEIS).The value for K0 is obtained in the limit of p → 0.
+
+Open problems
+π, the Euler–Mascheroni constant γ, and Khinchin's constant itself, based on numerical evidence,                           are thought to be among the numbers whose geometric mean of the coefficients ai in their continued                       fraction expansion tends to Khinchin's constant.  However, none of these limits have been rigorously               established.
+It is not known whether Khinchin's constant is a rational, algebraic irrational or transcendental number.
+
+See also
+Lochs' theorem
+Lévy's constant
+List of mathematical constants
+
+References
+David H. Bailey; Jonathan M. Borwein; Richard E. Crandall (1995). "On the Khinchine constant" (PDF). Mathematics of Computation. 66 (217): 417–432. doi:10.1090/s0025-5718-97-00800-4.
+Jonathan M. Borwein; David M. Bradley; Richard E. Crandall (2000). "Computational Strategies for the Riemann Zeta Function" (PDF). J. Comput. Appl. Math. 121 (1–2): 11. Bibcode:2000JCoAM.121..247B. doi:10.1016/s0377-0427(00)00336-8.Thomas Wieting (2007). "A Khinchin Sequence". Proceedings of the American Mathematical Society. 136 (3): 815–824. doi:10.1090/S0002-9939-07-09202-7.Aleksandr Ya. Khinchin (1997). Continued Fractions. New York: Dover Publications.
+
+External links
+
+110,000 digits of Khinchin's constant
+10,000 digits of Khinchin's constant

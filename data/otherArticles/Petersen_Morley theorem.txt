@@ -1,0 +1,23 @@
+In geometry, the Petersen–Morley theorem states that, if
+a,
+b,
+c
+are three general skew lines in space, if
+a′,
+b′,
+c′ are the lines of shortest distance
+respectively for the pairs (b,c), (c,a) and (a,b),
+and if p, q and r
+are the lines of shortest distance respectively
+for the pairs (a,a′), (b,b′) and (c,c′), then there
+is a single line meeting at right angles all of
+p,
+q,
+and
+r.
+The theorem is named after Johannes Hjelmslev (who published his work on this result under his original name Johannes Trolle Petersen) and Frank Morley.
+
+References
+Morley, F. (1897). "On a regular rectangular configuration of ten lines". Proc. London Math. Soc. Vol. 29, no. 1. pp. 670–673. doi:10.1112/plms/s1-29.1.670.
+Lyons, R. J.; Frith, R. (1934). "The Petersen–Morley Theorem I". Math. Proc. Camb. Philos. Soc. Vol. 30, no. 2. pp. 192–196. doi:10.1017/S0305004100016601.
+Baker, H. F. (1935). "Verification of the Petersen–Morley Theorem". Proc. London Math. Soc. Vol. 11, no. 1. pp. 24–26. doi:10.1112/jlms/s1-11.1.24.

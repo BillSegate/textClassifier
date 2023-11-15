@@ -1,0 +1,941 @@
+In mathematics, Catalan's constant G, is defined by
+
+  
+    
+      
+        G
+        =
+        β
+        (
+        2
+        )
+        =
+        
+          ∑
+          
+            n
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              (
+              −
+              1
+              
+                )
+                
+                  n
+                
+              
+            
+            
+              (
+              2
+              n
+              +
+              1
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            1
+            
+              1
+              
+                2
+              
+            
+          
+        
+        −
+        
+          
+            1
+            
+              3
+              
+                2
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              5
+              
+                2
+              
+            
+          
+        
+        −
+        
+          
+            1
+            
+              7
+              
+                2
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              9
+              
+                2
+              
+            
+          
+        
+        −
+        ⋯
+        ,
+      
+    
+    {\displaystyle G=\beta (2)=\sum _{n=0}^{\infty }{\frac {(-1)^{n}}{(2n+1)^{2}}}={\frac {1}{1^{2}}}-{\frac {1}{3^{2}}}+{\frac {1}{5^{2}}}-{\frac {1}{7^{2}}}+{\frac {1}{9^{2}}}-\cdots ,}
+  where β is the Dirichlet beta function. Its numerical value is approximately (sequence A006752 in the OEIS)
+
+G = 0.915965594177219015054603514932384110774…
+It is not known whether G is irrational, let alone transcendental. G has been called "arguably the most basic constant whose irrationality and transcendence (though strongly
+suspected) remain unproven".Catalan's constant was named after Eugène Charles Catalan, who found quickly-converging series for its calculation and published a memoir on it in 1865.
+
+Uses
+In low-dimensional topology, Catalan's constant is 1/4 of the volume of an ideal hyperbolic octahedron, and therefore 1/4 of the hyperbolic volume of the complement of the Whitehead link. It is 1/8 of the volume of the complement of the Borromean rings.In combinatorics and statistical mechanics, it arises in connection with counting domino tilings, spanning trees, and Hamiltonian cycles of grid graphs.In number theory, Catalan's constant appears in a conjectured formula for the asymptotic number of primes of the form 
+  
+    
+      
+        
+          n
+          
+            2
+          
+        
+        +
+        1
+      
+    
+    {\displaystyle n^{2}+1}
+   according to Hardy and Littlewood's Conjecture F. However, it is an unsolved problem (one of Landau's problems) whether there are even infinitely many primes of this form.Catalan's constant also appears in the calculation of the mass distribution of spiral galaxies.
+
+Known digits
+The number of known digits of Catalan's constant G has increased dramatically during the last decades. This is due both to the increase of performance of computers as well as to algorithmic improvements.
+
+Integral identities
+As Seán Stewart writes, "There is a rich and seemingly endless source of definite integrals that
+can be equated to or expressed in terms of Catalan's constant." Some of these expressions include:
+
+where the last three formulas are related to Malmsten's integrals.If K(k) is the complete elliptic integral of the first kind, as a function of the elliptic modulus k, then
+
+If E(k) is the complete elliptic integral of the second kind, as a function of the elliptic modulus k, then
+
+With the gamma function Γ(x + 1) = x!
+
+The integral
+
+is a known special function, called the inverse tangent integral, and was extensively studied by Srinivasa Ramanujan.
+
+Relation to other special functions
+G appears in values of the second polygamma function, also called the trigamma function, at fractional arguments:
+
+Simon Plouffe gives an infinite collection of identities between the trigamma function, π2 and Catalan's constant; these are expressible as paths on a graph.
+Catalan's constant occurs frequently in relation to the Clausen function, the inverse tangent integral, the inverse sine integral, the Barnes G-function, as well as integrals and series summable in terms of the aforementioned functions.
+As a particular example, by first expressing the inverse tangent integral in its closed form – in terms of Clausen functions – and then expressing those Clausen functions in terms of the Barnes G-function, the following expression is obtained (see Clausen function for more):
+
+If one defines the Lerch transcendent Φ(z,s,α) (related to the Lerch zeta function) by
+
+then
+
+Quickly converging series
+The following two formulas involve quickly converging series, and are thus appropriate for numerical computation:
+
+and
+
+The theoretical foundations for such series are given by Broadhurst, for the first formula, and Ramanujan, for the second formula. The algorithms for fast evaluation of the Catalan constant were constructed by E. Karatsuba. Using these series, calculating Catalan's constant is now about as fast as calculating Apery's constant, 
+  
+    
+      
+        ζ
+        (
+        3
+        )
+      
+    
+    {\displaystyle \zeta (3)}
+  .Other quickly converging series, due to Guillera and Pilehrood and employed by the y-cruncher software, include:
+
+  
+    
+      
+        G
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              (
+              −
+              8
+              
+                )
+                
+                  k
+                
+              
+              (
+              3
+              k
+              +
+              2
+              )
+            
+            
+              (
+              2
+              k
+              +
+              1
+              
+                )
+                
+                  3
+                
+              
+              
+                
+                  
+                    
+                      (
+                    
+                    
+                      
+                        2
+                        k
+                      
+                      k
+                    
+                    
+                      )
+                    
+                  
+                
+                
+                  3
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle G={\frac {1}{2}}\sum _{k=0}^{\infty }{\frac {(-8)^{k}(3k+2)}{(2k+1)^{3}{\binom {2k}{k}}^{3}}}}
+  
+  
+    
+      
+        G
+        =
+        
+          
+            1
+            64
+          
+        
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              
+                256
+                
+                  k
+                
+              
+              (
+              580
+              
+                k
+                
+                  2
+                
+              
+              −
+              184
+              k
+              +
+              15
+              )
+            
+            
+              
+                k
+                
+                  3
+                
+              
+              (
+              2
+              k
+              −
+              1
+              )
+              
+                
+                  
+                    (
+                  
+                  
+                    
+                      6
+                      k
+                    
+                    
+                      3
+                      k
+                    
+                  
+                  
+                    )
+                  
+                
+              
+              
+                
+                  
+                    (
+                  
+                  
+                    
+                      6
+                      k
+                    
+                    
+                      4
+                      k
+                    
+                  
+                  
+                    )
+                  
+                
+              
+              
+                
+                  
+                    (
+                  
+                  
+                    
+                      4
+                      k
+                    
+                    
+                      2
+                      k
+                    
+                  
+                  
+                    )
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle G={\frac {1}{64}}\sum _{k=1}^{\infty }{\frac {256^{k}(580k^{2}-184k+15)}{k^{3}(2k-1){\binom {6k}{3k}}{\binom {6k}{4k}}{\binom {4k}{2k}}}}}
+  
+  
+    
+      
+        G
+        =
+        −
+        
+          
+            1
+            1024
+          
+        
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              (
+              −
+              4096
+              
+                )
+                
+                  k
+                
+              
+              (
+              45136
+              
+                k
+                
+                  4
+                
+              
+              −
+              57184
+              
+                k
+                
+                  3
+                
+              
+              +
+              21240
+              
+                k
+                
+                  2
+                
+              
+              −
+              3160
+              k
+              +
+              165
+              )
+            
+            
+              
+                k
+                
+                  3
+                
+              
+              (
+              2
+              k
+              −
+              1
+              
+                )
+                
+                  3
+                
+              
+            
+          
+        
+        
+          (
+          
+            
+              
+                (
+                2
+                k
+                )
+                
+                  !
+                  
+                    6
+                  
+                
+                (
+                3
+                k
+                )
+                
+                  !
+                  
+                    3
+                  
+                
+              
+              
+                k
+                
+                  !
+                  
+                    3
+                  
+                
+                (
+                6
+                k
+                )
+                
+                  !
+                  
+                    3
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle G=-{\frac {1}{1024}}\sum _{k=1}^{\infty }{\frac {(-4096)^{k}(45136k^{4}-57184k^{3}+21240k^{2}-3160k+165)}{k^{3}(2k-1)^{3}}}\left({\frac {(2k)!^{6}(3k)!^{3}}{k!^{3}(6k)!^{3}}}\right)}
+  All of these series have time complexity 
+  
+    
+      
+        O
+        (
+        n
+        log
+        ⁡
+        (
+        n
+        
+          )
+          
+            3
+          
+        
+        )
+      
+    
+    {\displaystyle O(n\log(n)^{3})}
+  .
+
+Continued fraction
+G can be expressed in the following form
+
+  
+    
+      
+        G
+        =
+        
+          
+            
+              
+                
+              
+              
+                
+                  1
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  1
+                  +
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            
+                              1
+                              
+                                4
+                              
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            8
+                            +
+                            
+                              
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      
+                                        3
+                                        
+                                          4
+                                        
+                                      
+                                    
+                                  
+                                
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      16
+                                      +
+                                      
+                                        
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                
+                                                  5
+                                                  
+                                                    4
+                                                  
+                                                
+                                              
+                                            
+                                          
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                24
+                                                +
+                                                
+                                                  
+                                                    
+                                                      
+                                                        
+                                                      
+                                                      
+                                                        
+                                                          
+                                                            7
+                                                            
+                                                              4
+                                                            
+                                                          
+                                                        
+                                                      
+                                                    
+                                                    
+                                                      
+                                                        
+                                                      
+                                                      
+                                                        
+                                                          32
+                                                          +
+                                                          
+                                                            
+                                                              
+                                                                
+                                                                  
+                                                                
+                                                                
+                                                                  
+                                                                    
+                                                                      9
+                                                                      
+                                                                        4
+                                                                      
+                                                                    
+                                                                  
+                                                                
+                                                              
+                                                              
+                                                                
+                                                                  
+                                                                
+                                                                
+                                                                  
+                                                                    40
+                                                                    +
+                                                                    ⋱
+                                                                  
+                                                                
+                                                              
+                                                            
+                                                          
+                                                        
+                                                      
+                                                    
+                                                  
+                                                
+                                              
+                                            
+                                          
+                                        
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle G={\cfrac {1}{1+{\cfrac {1^{4}}{8+{\cfrac {3^{4}}{16+{\cfrac {5^{4}}{24+{\cfrac {7^{4}}{32+{\cfrac {9^{4}}{40+\ddots }}}}}}}}}}}}}
+  
+The simple continued fraction is given by
+
+  
+    
+      
+        G
+        =
+        
+          
+            
+              
+                
+              
+              
+                
+                  1
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  1
+                  +
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            1
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            10
+                            +
+                            
+                              
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      1
+                                    
+                                  
+                                
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      1
+                                      +
+                                      
+                                        
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                1
+                                              
+                                            
+                                          
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                8
+                                                +
+                                                
+                                                  
+                                                    
+                                                      
+                                                        
+                                                      
+                                                      
+                                                        
+                                                          1
+                                                        
+                                                      
+                                                    
+                                                    
+                                                      
+                                                        
+                                                      
+                                                      
+                                                        
+                                                          1
+                                                          +
+                                                          
+                                                            
+                                                              
+                                                                
+                                                                  
+                                                                
+                                                                
+                                                                  
+                                                                    1
+                                                                  
+                                                                
+                                                              
+                                                              
+                                                                
+                                                                  
+                                                                
+                                                                
+                                                                  
+                                                                    88
+                                                                    +
+                                                                    ⋱
+                                                                  
+                                                                
+                                                              
+                                                            
+                                                          
+                                                        
+                                                      
+                                                    
+                                                  
+                                                
+                                              
+                                            
+                                          
+                                        
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle G={\cfrac {1}{1+{\cfrac {1}{10+{\cfrac {1}{1+{\cfrac {1}{8+{\cfrac {1}{1+{\cfrac {1}{88+\ddots }}}}}}}}}}}}}
+  
+This continued fraction would have infinite terms if and only if 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   is irrational, which is still unresolved.
+
+See also
+Gieseking manifold
+List of mathematical constants
+Mathematical constant
+Particular values of Riemann zeta function
+
+References
+Further reading
+Adamchik, Victor (2002). "A certain series associated with Catalan's constant". Zeitschrift für Analysis und ihre Anwendungen. 21 (3): 1–10. doi:10.4171/ZAA/1110. MR 1929434.
+Fee, Gregory J. (1990). "Computation of Catalan's Constant Using Ramanujan's Formula". In Watanabe, Shunro; Nagata, Morio (eds.). Proceedings of the International Symposium on Symbolic and Algebraic Computation, ISSAC '90, Tokyo, Japan, August 20-24, 1990. ACM. pp. 157–160. doi:10.1145/96877.96917. ISBN 0201548925. S2CID 1949187.
+Bradley, David M. (1999). "A class of series acceleration formulae for Catalan's constant". The Ramanujan Journal. 3 (2): 159–173. arXiv:0706.0356. doi:10.1023/A:1006945407723. MR 1703281. S2CID 5111792.
+Bradley, David M. (2007). "A class of series acceleration formulae for Catalan's constant". The Ramanujan Journal. 3 (2): 159–173. arXiv:0706.0356. Bibcode:2007arXiv0706.0356B. doi:10.1023/A:1006945407723. S2CID 5111792.
+
+External links
+Adamchik, Victor. "33 representations for Catalan's constant". Archived from the original on 2016-08-07.
+Plouffe, Simon (1993). "A few identities (III) with Catalan". Archived from the original on 2019-06-26. (Provides over one hundred different identities).
+Plouffe, Simon (1999). "A few identities with Catalan constant and Pi^2". Archived from the original on 2019-06-26. (Provides a graphical interpretation of the relations)
+Fee, Greg (1996). Catalan's Constant (Ramanujan's Formula). (Provides the first 300,000 digits of Catalan's constant)
+Bradley, David M. (2001). Representations of Catalan's constant. CiteSeerX 10.1.1.26.1879.
+Johansson, Fredrik. "0.915965594177219015054603514932". Ordner, a catalog of real numbers in Fungrim.
+"Catalan's Constant". YouTube. Let's Learn, Nemo!. 10 August 2020.
+Weisstein, Eric W. "Catalan's Constant". MathWorld.
+"Catalan constant: Series representations". Wolfram Functions Site.
+"Catalan constant". Encyclopedia of Mathematics. EMS Press. 2001 [1994].

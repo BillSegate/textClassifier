@@ -1,0 +1,36 @@
+In mathematical logic, especially set theory and model theory, the back-and-forth method is a method for showing isomorphism between countably infinite structures satisfying specified conditions. In particular it can be used to prove that
+
+any two countably infinite densely ordered sets (i.e., linearly ordered in such a way that between any two members there is another) without endpoints are isomorphic. An isomorphism between linear orders is simply a strictly increasing bijection. This result implies, for example, that there exists a strictly increasing bijection between the set of all rational numbers and the set of all real algebraic numbers.
+any two countably infinite atomless Boolean algebras are isomorphic to each other.
+any two equivalent countable atomic models of a theory are isomorphic.
+the Erdős–Rényi model of random graphs, when applied to countably infinite graphs, almost surely produces a unique graph, the Rado graph.
+any two many-complete recursively enumerable sets are recursively isomorphic.
+
+Application to densely ordered sets
+As an example, the back-and-forth method can be used to prove Cantor's isomorphism theorem, although this was not Georg Cantor's original proof. This theorem states that two unbounded countable dense linear orders are isomorphic.Suppose that
+
+(A, ≤A) and (B, ≤B) are linearly ordered sets;
+They are both unbounded, in other words neither A nor B has either a maximum or a minimum;
+They are densely ordered, i.e. between any two members there is another;
+They are countably infinite.Fix enumerations (without repetition) of the underlying sets:
+
+A = { a1, a2, a3, ... },
+B = { b1, b2, b3, ... }.Now we construct a one-to-one correspondence between A and B that is strictly increasing. Initially no member of A is paired with any member of B.
+
+(1) Let i be the smallest index such that ai is not yet paired with any member of B. Let j be some index such that bj is not yet paired with any member of A and ai can be paired with bj consistently with the requirement that the pairing be strictly increasing. Pair ai with bj.(2) Let j be the smallest index such that bj is not yet paired with any member of A. Let i be some index such that ai is not yet paired with any member of B and bj can be paired with ai consistently with the requirement that the pairing be strictly increasing. Pair bj with ai.(3) Go back to step (1).It still has to be checked that the choice required in step (1) and (2) can actually be made in accordance to the requirements. Using step (1) as an example:
+If there are already ap and aq in A corresponding to bp and bq in B respectively such that ap < ai < aq and bp < bq, we choose bj in between bp and bq using density. Otherwise, we choose a suitable large or small element of B using the fact that B has neither a maximum nor a minimum. Choices made in step (2) are dually possible. Finally, the construction ends after countably many steps because A and B are countably infinite. Note that we had to use all the prerequisites.
+
+History
+According to Hodges (1993):
+
+Back-and-forth methods are often ascribed to Cantor, Bertrand Russell and C. H. Langford [...], but there is no evidence to support any of these attributions.While the theorem on countable densely ordered sets is due to Cantor (1895), the back-and-forth method with which it is now proved was developed by Edward Vermilye Huntington (1904) and Felix Hausdorff (1914). Later it was applied in other situations, most notably by Roland Fraïssé in model theory.
+
+See also
+Ehrenfeucht–Fraïssé game
+
+References
+
+Hausdorff, F. (1914), Grundzüge der Mengenlehre
+Hodges, Wilfrid (1993), Model theory, Cambridge University Press, ISBN 978-0-521-30442-9
+Huntington, E. V. (1904), The continuum and other types of serial order, with an introduction to Cantor's transfinite numbers, Harvard University Press
+Marker, David (2002), Model Theory: An Introduction, Graduate Texts in Mathematics, Berlin, New York: Springer-Verlag, ISBN 978-0-387-98760-6

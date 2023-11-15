@@ -1,0 +1,601 @@
+In mathematics, Kostant's convexity theorem, introduced by Bertram Kostant (1973),  states that the projection of every coadjoint orbit of a connected compact Lie group into the dual of a Cartan subalgebra is a convex set. It is a special case of a more general result for symmetric spaces. Kostant's theorem is a generalization of a result of Schur (1923), Horn (1954) and Thompson (1972) for hermitian matrices. They proved that the projection onto the diagonal matrices of the space of all n by n complex self-adjoint matrices with given eigenvalues Λ = (λ1, ..., λn) is the convex polytope with vertices all permutations of the coordinates of Λ.
+Kostant used this to generalize the Golden–Thompson inequality to all compact groups.
+
+Compact Lie groups
+Let K be a connected compact Lie group with maximal torus T and Weyl group W = NK(T)/T. Let their Lie algebras be 
+  
+    
+      
+        
+          
+            k
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {k}}}
+   and 
+  
+    
+      
+        
+          
+            t
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {t}}}
+  . Let P be the orthogonal projection of 
+  
+    
+      
+        
+          
+            k
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {k}}}
+   onto 
+  
+    
+      
+        
+          
+            t
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {t}}}
+   for some Ad-invariant inner product on 
+  
+    
+      
+        
+          
+            k
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {k}}}
+  . Then for X in 
+  
+    
+      
+        
+          
+            t
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {t}}}
+  , P(Ad(K)⋅X) is the convex polytope with vertices w(X) where w runs over the Weyl group.
+
+Symmetric spaces
+Let G be a compact Lie group and σ an involution with K a compact subgroup fixed by σ and containing the identity component of the fixed point subgroup of σ. Thus G/K is a symmetric space of compact type. Let  
+  
+    
+      
+        
+          
+            g
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {g}}}
+   and 
+  
+    
+      
+        
+          
+            k
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {k}}}
+   be their Lie algebras and let σ also denote the corresponding involution of 
+  
+    
+      
+        
+          
+            g
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {g}}}
+  .  Let 
+  
+    
+      
+        
+          
+            p
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {p}}}
+   be the −1 eigenspace of σ and let 
+  
+    
+      
+        
+          
+            a
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {a}}}
+   be a maximal Abelian subspace. Let Q be the orthogonal projection of 
+  
+    
+      
+        
+          
+            p
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {p}}}
+   onto 
+  
+    
+      
+        
+          
+            a
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {a}}}
+   for some Ad(K)-invariant inner product on 
+  
+    
+      
+        
+          
+            p
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {p}}}
+  . Then for X in 
+  
+    
+      
+        
+          
+            a
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {a}}}
+  , Q(Ad(K)⋅X) is the convex polytope with vertices the w(X) where w runs over the restricted Weyl group (the normalizer of 
+  
+    
+      
+        
+          
+            a
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {a}}}
+   in K modulo its centralizer).
+The case of a compact Lie group is the special case where G = K × K, K is embedded diagonally and σ is the automorphism of G interchanging the two factors.
+
+Proof for a compact Lie group
+Kostant's proof for symmetric spaces is given in Helgason (1984). There is an elementary proof just for compact Lie groups using similar ideas, due to Wildberger (1993): it is based on a generalization of the Jacobi eigenvalue algorithm to compact Lie groups.
+Let K be a connected compact Lie group with maximal torus T. For each positive root α there is a homomorphism of SU(2) into K. A simple calculation with 2 by 2 matrices shows that if  Y is in 
+  
+    
+      
+        
+          
+            k
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {k}}}
+   and k varies in this image of SU(2), then P(Ad(k)⋅Y) traces a straight line between P(Y) and its reflection in the root α.  In particular the component in the α root space—its "α off-diagonal coordinate"—can be sent to 0. In performing this latter operation, the distance from P(Y) to P(Ad(k)⋅Y) is bounded above by size of the α off-diagonal coordinate of Y. Let m be the number of positive roots, half the dimension of K/T. Starting from an arbitrary Y1 take the largest off-diagonal coordinate and send it to zero to get Y2. Continue in this way, to get a sequence (Yn). Then
+
+  
+    
+      
+        
+          
+            ‖
+            
+              P
+              
+                ⊥
+              
+            
+            (
+            
+              Y
+              
+                n
+                +
+                1
+              
+            
+            )
+            
+              ‖
+              
+                2
+              
+            
+            ≤
+            
+              (
+              
+                
+                  
+                    m
+                    −
+                    1
+                  
+                  m
+                
+              
+              )
+            
+            ‖
+            
+              P
+              
+                ⊥
+              
+            
+            (
+            
+              Y
+              
+                n
+              
+            
+            )
+            
+              ‖
+              
+                2
+              
+            
+            .
+          
+        
+      
+    
+    {\displaystyle \displaystyle {\|P^{\perp }(Y_{n+1})\|^{2}\leq \left({m-1 \over m}\right)\|P^{\perp }(Y_{n})\|^{2}.}}
+  Thus P⊥(Yn) tends to 0 and
+
+  
+    
+      
+        
+          
+            ‖
+            P
+            (
+            
+              Y
+              
+                n
+                +
+                1
+              
+            
+            −
+            
+              Y
+              
+                n
+              
+            
+            )
+            ‖
+            ≤
+            ‖
+            
+              P
+              
+                ⊥
+              
+            
+            (
+            
+              Y
+              
+                n
+              
+            
+            )
+            ‖
+            .
+          
+        
+      
+    
+    {\displaystyle \displaystyle {\|P(Y_{n+1}-Y_{n})\|\leq \|P^{\perp }(Y_{n})\|.}}
+  Hence Xn = P(Yn) is a Cauchy sequence, so  tends to X in 
+  
+    
+      
+        
+          
+            t
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {t}}}
+  . Since Yn = P(Yn) ⊕ P⊥(Yn), Yn tends to X. On the other hand, Xn lies on the line segment joining Xn+1 and its reflection in the root α. Thus Xn lies in the Weyl group polytope defined by Xn+1. These convex polytopes are thus increasing as n increases and hence P(Y) lies in the polytope for X. This can be repeated for each Z in the K-orbit of X. The limit is necessarily in the Weyl group orbit of X and hence P(Ad(K)⋅X) is contained in the convex polytope defined by W(X).
+To prove the opposite inclusion, take X to be a point in the positive Weyl chamber. Then all the other points Y in the convex hull of W(X) can be obtained by a series of paths in that intersection moving along the negative of a simple root. (This matches a familiar picture from representation theory: if by duality X corresponds to a dominant weight λ, the other weights in the Weyl group polytope defined by λ are those appearing in the irreducible representation of K with highest weight λ. An argument with lowering operators shows that each such weight is linked by a chain to λ obtained by successively subtracting simple roots from λ.) Each part of the path from X to Y can be obtained by the process described above for the copies of SU(2) corresponding to simple roots, so the whole convex polytope lies in P(Ad(K)⋅X).
+
+Other proofs
+Heckman (1982) gave another proof of the convexity theorem for compact Lie groups, also presented in Hilgert, Hofmann & Lawson (1989). For compact groups, Atiyah (1982) and Guillemin & Sternberg (1982) showed that if M is a symplectic manifold with a Hamiltonian action of a torus T with Lie algebra 
+  
+    
+      
+        
+          
+            t
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {t}}}
+  , then the image of the moment map
+
+  
+    
+      
+        
+          
+            M
+            →
+            
+              
+                
+                  t
+                
+              
+              
+                ∗
+              
+            
+          
+        
+      
+    
+    {\displaystyle \displaystyle {M\rightarrow {\mathfrak {t}}^{*}}}
+  is a convex polytope with vertices in the image of the fixed point set of T (the image is a finite set). Taking for M a coadjoint orbit of K in 
+  
+    
+      
+        
+          
+            
+              k
+            
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {k}}^{*}}
+  , the moment map for T is the composition
+
+  
+    
+      
+        
+          
+            M
+            →
+            
+              
+                
+                  k
+                
+              
+              
+                ∗
+              
+            
+            →
+            
+              
+                
+                  t
+                
+              
+              
+                ∗
+              
+            
+            .
+          
+        
+      
+    
+    {\displaystyle \displaystyle {M\rightarrow {\mathfrak {k}}^{*}\rightarrow {\mathfrak {t}}^{*}.}}
+  Using the Ad-invariant inner product to identify 
+  
+    
+      
+        
+          
+            
+              k
+            
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {k}}^{*}}
+   and 
+  
+    
+      
+        
+          
+            k
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {k}}}
+  , the map becomes
+
+  
+    
+      
+        
+          
+            
+              A
+              d
+            
+            (
+            K
+            )
+            ⋅
+            X
+            →
+            
+              
+                t
+              
+            
+            ,
+          
+        
+      
+    
+    {\displaystyle \displaystyle {\mathrm {Ad} (K)\cdot X\rightarrow {\mathfrak {t}},}}
+  the restriction of the orthogonal projection. Taking X in 
+  
+    
+      
+        
+          
+            t
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {t}}}
+  , the fixed points of T in the orbit Ad(K)⋅X are just the orbit under the Weyl group, W(X). So the convexity properties of the moment map imply that the image is the convex polytope with these vertices. Ziegler (1992) gave a simplified direct version of the proof using moment maps.
+Duistermaat (1983) showed that a generalization of the convexity properties of the moment map could be used to treat the more general case of symmetric spaces. Let τ be a smooth involution of M which takes the symplectic form ω to −ω and such that t ∘ τ = τ ∘ t−1. Then M and the fixed point set of τ (assumed to be non-empty) have the same image under the moment map. To apply this, let T = exp 
+  
+    
+      
+        
+          
+            a
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {a}}}
+  , a torus in G. If X is in 
+  
+    
+      
+        
+          
+            a
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {a}}}
+   as before the moment map yields the projection map
+
+  
+    
+      
+        
+          
+            
+              A
+              d
+            
+            (
+            G
+            )
+            ⋅
+            X
+            →
+            
+              
+                a
+              
+            
+            .
+          
+        
+      
+    
+    {\displaystyle \displaystyle {\mathrm {Ad} (G)\cdot X\rightarrow {\mathfrak {a}}.}}
+  Let τ be the map τ(Y) =  − σ(Y). The map above has the same image as that of the fixed point set of τ, i.e. Ad(K)⋅X. Its image is the convex polytope with vertices the image of the fixed point set of T on Ad(G)⋅X, i.e. the points w(X) for w in W = NK(T)/CK(T).
+
+Further directions
+In Kostant (1973) the convexity theorem is deduced from a more general convexity theorem concerning the projection onto the  component A in the Iwasawa decomposition G = KAN of a real semisimple Lie group G. The result discussed above for compact Lie groups  K corresponds to the special case when G is the complexification of K: in this case the Lie algebra of A can be identified with 
+  
+    
+      
+        i
+        
+          
+            t
+          
+        
+      
+    
+    {\displaystyle i{\mathfrak {t}}}
+  . The more general version of Kostant's theorem has also been generalized to semisimple symmetric spaces by van den Ban (1986). Kac & Peterson (1984) gave a generalization for infinite-dimensional groups.
+
+Notes
+References
+Atiyah, M. F. (1982), "Convexity and commuting Hamiltonians", Bull. London Math. Soc., 14: 1–15, CiteSeerX 10.1.1.396.48, doi:10.1112/blms/14.1.1
+Duistermaat, J. J. (1983), "Convexity and tightness for restrictions of Hamiltonian functions to fixed point sets of an antisymplectic involution", Trans. Amer. Math. Soc., 275: 417–429, doi:10.1090/s0002-9947-1983-0678361-2
+Duistermaat, J.J.; Kolk, A. (2000), Lie groups, Universitext, Springer, ISBN 978-3540152934
+Guillemin, V.; Sternberg, S. (1982), "Convexity properties of the moment mapping", Invent. Math., 67 (3): 491–513, doi:10.1007/bf01398933
+Helgason, Sigurdur (1984), Groups and Geometric Analysis: Integral Geometry, Invariant Differential Operators, and Spherical Functions, Academic Press, pp. 473–476, ISBN 978-0-12-338301-3
+Hilgert, Joachim; Hofmann, Karl Heinrich; Lawson, Jimmie D. (1989), Lie groups, convex cones, and semigroups, Oxford Mathematical Monographs, Oxford University Press, ISBN 978-0-19-853569-0
+Heckman, G. J. (1982), "Projections of orbits and asymptotic behavior of multiplicities for compact connected Lie groups", Invent. Math., 67 (2): 333–356, doi:10.1007/bf01393821
+Horn, Alfred (1954), "Doubly stochastic matrices and the diagonal of a rotation matrix", Amer. J. Math., 76 (3): 620–630, doi:10.2307/2372705, JSTOR 2372705
+Humphreys, James E. (1997), Introduction to Lie Algebras and Representation Theory, Graduate texts in mathematics, vol. 9 (2nd ed.), Springer, ISBN 978-3540900535
+Kac, V. G.; Peterson, D. H. (1984), "Unitary structure in representations of infinite-dimensional groups and a convexity theorem", Invent. Math., 76: 1–14, doi:10.1007/bf01388487, hdl:2027.42/46611
+Kostant, Bertram (1973), "On convexity, the Weyl group and the Iwasawa decomposition", Annales Scientifiques de l'École Normale Supérieure, Série 4, 6 (4): 413–455, doi:10.24033/asens.1254, ISSN 0012-9593, MR 0364552
+Schur, I. (1923), "Uber eine Klasse von Mittelbildungen mit Anwendungen auf der Determinanten Theorie", Sitzungsberichte der Berliner Mathematischen Gesellschaft, 22: 9–20
+Thompson, Colin J. (1972), "Inequalities and partial orders on matrix spaces", Indiana Univ. Math. J., 21 (5): 469–480, doi:10.1512/iumj.1972.21.21037
+van den Ban, Erik P. (1986), "A convexity theorem for semisimple symmetric spaces", Pacific J. Math., 124: 21–55, doi:10.2140/pjm.1986.124.21
+Wildberger, N. J. (1993), "Diagonalization in compact Lie algebras and a new proof of a theorem of Kostant", Proc. Amer. Math. Soc., 119 (2): 649–655, doi:10.1090/s0002-9939-1993-1151817-6
+Ziegler, François (1992), "On the Kostant convexity theorem", Proc. Amer. Math. Soc., 115 (4): 1111–1113, doi:10.1090/s0002-9939-1992-1111441-7

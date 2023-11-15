@@ -1,0 +1,2 @@
+A network automaton (plural network automata) is a mathematical system consisting of a network of nodes that evolves over time according to predetermined rules.  It is similar in concept to a cellular automaton, but much less studied.
+Stephen Wolfram's book A New Kind of Science, which is primarily concerned with cellular automata, briefly discusses network automata, and suggests (without positive evidence) that the universe might at the very lowest level be a network automaton.

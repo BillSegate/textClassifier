@@ -1,0 +1,135 @@
+This is a list of special function eponyms in mathematics, to cover the theory of special functions, the differential equations they satisfy, named differential operators of the theory (but not intended to include every mathematical eponym). Named symmetric functions, and other special polynomials, are included.
+
+A
+Niels Abel: Abel polynomials - Abelian function - Abel–Gontscharoff interpolating polynomial
+Sir George Biddell Airy: Airy function
+Waleed Al-Salam (1926–1996): Al-Salam polynomial - Al Salam–Carlitz polynomial - Al Salam–Chihara polynomial
+C. T. Anger: Anger–Weber function
+Kazuhiko Aomoto: Aomoto–Gel'fand hypergeometric function - Aomoto integral
+Paul Émile Appell (1855–1930): Appell hypergeometric series, Appell polynomial, Generalized Appell polynomials
+Richard Askey: Askey–Wilson polynomial, Askey–Wilson function (with James A. Wilson)
+
+B
+Ernest William Barnes: Barnes G-function
+E. T. Bell: Bell polynomials
+Bender–Dunne polynomial
+Jacob Bernoulli: Bernoulli polynomial
+Friedrich Bessel: Bessel function, Bessel–Clifford function
+H. Blasius:  Blasius functions
+R. P. Boas, R. C. Buck: Boas–Buck polynomial
+Böhmer integral
+Erland Samuel Bring: Bring radical
+de Bruijn function
+Buchstab function
+Burchnall, Chaundy: Burchnall–Chaundy polynomial
+
+C
+Leonard Carlitz: Carlitz polynomial
+Arthur Cayley, Capelli: Cayley–Capelli operator
+Celine's polynomial
+Charlier polynomial
+Pafnuty Chebyshev: Chebyshev polynomials
+Elwin Bruno Christoffel, Darboux: Christoffel–Darboux relation
+Cyclotomic polynomials
+
+D
+H. G. Dawson: Dawson function
+Charles F. Dunkl: Dunkl operator, Jacobi–Dunkl operator, Dunkl–Cherednik operator
+Dickman–de Bruijn function
+
+E
+Engel: Engel expansion
+Erdélyi Artúr: Erdelyi–Kober operator
+Leonhard Euler: Euler polynomial, Eulerian integral, Euler hypergeometric integral
+
+F
+V. N. Faddeeva: Faddeeva function (also known as the complex error function; see error function)
+
+G
+C. F. Gauss: Gaussian polynomial, Gaussian distribution, Hypergeometric function 2F1, etc.
+Leopold Bernhard Gegenbauer: Gegenbauer polynomials
+Gottlieb polynomial
+Gould polynomial
+Christoph Gudermann: Gudermannian function
+
+H
+Wolfgang Hahn: Hahn polynomial, (with H. Exton) Hahn–Exton Bessel function
+Philip Hall: Hall polynomial, Hall–Littlewood polynomial
+Hermann Hankel: Hankel function
+Heine:  Heine functions
+Charles Hermite: Hermite polynomials
+Karl L. W. M. Heun (1859 – 1929): Heun's equation
+J. Horn: Horn hypergeometric series
+Adolf Hurwitz: Hurwitz zeta-function
+Hypergeometric function 2F1
+
+J
+Henry Jack (1917–1978) Dundee: Jack polynomial
+F. H. Jackson: Jackson derivative Jackson integral
+Carl Gustav Jakob Jacobi: Jacobi polynomial, Jacobi theta function
+
+K
+Joseph Marie Kampe de Feriet (1893–1982): Kampe de Feriet hypergeometric series
+David Kazhdan, George Lusztig: Kazhdan–Lusztig polynomial
+Lord Kelvin: Kelvin function
+Kibble–Slepian formula
+Kirchhoff: Kirchhoff polynomial
+Tom H. Koornwinder: Koornwinder polynomial
+Kostka polynomial, Kostka–Foulkes polynomial
+Mikhail Kravchuk: Kravchuk polynomial
+
+L
+Edmond Laguerre: Laguerre polynomials
+Johann Heinrich Lambert: Lambert W function
+Gabriel Lamé: Lamé polynomial
+G. Lauricella Lauricella-Saran: Lauricella hypergeometric series
+Adrien-Marie Legendre: Legendre polynomials
+Eugen Cornelius Joseph von Lommel (1837–1899), physicist: Lommel polynomial, Lommel function, Lommel–Weber function
+
+M
+Ian G. Macdonald: Macdonald polynomial, Macdonald–Kostka polynomial, Macdonald spherical function
+Mahler polynomial
+Maitland function
+Émile Léonard Mathieu: Mathieu function
+F. G. Mehler, student of Dirichlet (Ferdinand): Mehler's formula, Mehler–Fock formula, Mehler–Heine formula, Mehler functions
+Meijer G-function
+Josef Meixner: Meixner polynomial, Meixner-Pollaczek polynomial
+Mittag-Leffler: Mittag-Leffler polynomials
+Mott polynomial
+
+P
+Paul Painlevé: Painlevé function, Painlevé transcendents
+Poisson–Charlier polynomial
+Pollaczek polynomial
+
+R
+Giulio Racah: Racah polynomial
+Jacopo Riccati: Riccati–Bessel function
+Bernhard Riemann: Riemann zeta-function
+Olinde Rodrigues: Rodrigues formula
+Leonard James Rogers: Rogers–Askey–Ismail polynomial, Rogers–Ramanujan identity, Rogers–Szegő polynomials
+
+S
+Schubert polynomial
+Issai Schur: Schur polynomial
+Atle Selberg: Selberg integral
+Sheffer polynomial
+Slater's identities
+Thomas Joannes Stieltjes: Stieltjes polynomial, Stieltjes–Wigert polynomials
+Strömgren function
+Hermann Struve: Struve function
+
+T
+Francesco Tricomi: Tricomi–Carlitz polynomial
+
+W
+Wall polynomial
+Wangerein:  Wangerein functions
+Weber function
+Weierstrass: Weierstrass function
+Louis Weisner: Weisner's method
+E. T. Whittaker: Whittaker function
+Wilson polynomial
+
+Z
+Frits Zernike: Zernike polynomials

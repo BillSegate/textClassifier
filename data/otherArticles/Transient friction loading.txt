@@ -1,0 +1,12 @@
+Transient friction loading is the mechanical stress induced on an object due to transient or vibrational frictional forces.
+
+Examples
+A classic example of transient friction loading is the wooden block sliding over an unlevel, non-planar surface. Due to the transient response of the contact force, the resultant frictional force is noisy. The induced stress is concisely described as transient friction loading.
+Another is the internal stresses on a hydraulic ram operating in a vibrational environment. Due to the oscillatory nature of the acceleration experienced by the ram, in n-dimensions, the resulting frictional response is described as transient friction loading.
+
+See also
+Tribology
+Frictionless plane
+
+
+== References ==

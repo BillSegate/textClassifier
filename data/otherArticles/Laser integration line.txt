@@ -1,0 +1,7 @@
+The Laser Integration Line (LIL) is a prototype for the Laser Mégajoule (LMJ) located at CEA-CESTA.  Whereas the LMJ is planned to comprise 240 laser beams and deliver 1.8MJ, the LIL delivers just one sixtieth of the energy, 30kJ.
+
+References
+Bibliography
+Further reading
+Di-Nicola, J.M.; Fleurot, N.; Lonjaret, T.; Julien, X.; Bordenave, E.; Le Garrec, B.; Mangeant, M.; Behar, G.; Chies, T.; Féral, C.; Graillot, H.; Luttmann, M.; Jequier, F.; Journot, E.; Lutz, O.; Thiell, G. (2006-06-16). "The LIL facility quadruplet commissioning". J. Phys. IV France. 133 (1): 595–600. Bibcode:2006JPhy4.133..595D. doi:10.1051/jp4:2006133119.
+Hubert, S.; Dubois, J. L.; Gontier, D.; Lidove, G.; Reverdin, C.; Soullié, G.; Stemmler, P.; Villette, B. (2010). "The x-ray calibration facility of the laser integration line in the 0.9–10 keV range: The high energy x-ray source and some applications". Review of Scientific Instruments. 81 (5): 053501. Bibcode:2010RScI...81e3501H. doi:10.1063/1.3427236. PMID 20515133.

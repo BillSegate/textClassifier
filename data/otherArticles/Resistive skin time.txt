@@ -1,0 +1,68 @@
+The resistive skin time is a characteristic time of typical magnetohydrodynamic (MHD) phenomena.
+
+Definition
+The resistive skin time is defined as:
+
+  
+    
+      
+        
+          τ
+          
+            R
+          
+        
+        =
+        
+          
+            
+              
+                μ
+                
+                  0
+                
+              
+              
+                a
+                
+                  2
+                
+              
+            
+            η
+          
+        
+      
+    
+    {\displaystyle \tau _{R}={\frac {\mu _{0}a^{2}}{\eta }}}
+  
+where 
+  
+    
+      
+        η
+      
+    
+    {\displaystyle \eta }
+   is the resistivity, 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   is a typical radius of the device and 
+  
+    
+      
+        
+          μ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \mu _{0}}
+   is the magnetic permeability.

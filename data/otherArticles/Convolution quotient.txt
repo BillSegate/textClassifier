@@ -1,0 +1,180 @@
+In mathematics, a space of convolution quotients is a field of fractions of a convolution  ring of functions: a convolution quotient is to the operation of convolution as a quotient of integers is to multiplication.  The construction of convolution quotients allows easy algebraic representation of the Dirac delta function, integral operator, and differential operator without having to deal directly with integral transforms, which are often subject to technical difficulties with respect to whether they converge.
+Convolution quotients were introduced by Mikusiński (1949), and their theory is sometimes called Mikusiński's operational calculus.
+The kind of convolution 
+  
+    
+      
+        (
+        f
+        ,
+        g
+        )
+        ↦
+        f
+        ∗
+        g
+      
+    
+    {\textstyle (f,g)\mapsto f*g}
+   with which this theory is concerned is defined by
+
+  
+    
+      
+        (
+        f
+        ∗
+        g
+        )
+        (
+        x
+        )
+        =
+        
+          ∫
+          
+            0
+          
+          
+            x
+          
+        
+        f
+        (
+        u
+        )
+        g
+        (
+        x
+        −
+        u
+        )
+        
+        d
+        u
+        .
+      
+    
+    {\displaystyle (f*g)(x)=\int _{0}^{x}f(u)g(x-u)\,du.}
+  It follows from the Titchmarsh convolution theorem that if the convolution 
+  
+    
+      
+        f
+        ∗
+        g
+      
+    
+    {\textstyle f*g}
+   of two functions 
+  
+    
+      
+        f
+        ,
+        g
+      
+    
+    {\textstyle f,g}
+   that are continuous on 
+  
+    
+      
+        [
+        0
+        ,
+        +
+        ∞
+        )
+      
+    
+    {\textstyle [0,+\infty )}
+   is equal to 0 everywhere on that interval, then at least one of 
+  
+    
+      
+        f
+        ,
+        g
+      
+    
+    {\textstyle f,g}
+   is 0 everywhere on that interval. A consequence is that if 
+  
+    
+      
+        f
+        ,
+        g
+        ,
+        h
+      
+    
+    {\textstyle f,g,h}
+   are continuous on 
+  
+    
+      
+        [
+        0
+        ,
+        +
+        ∞
+        )
+      
+    
+    {\textstyle [0,+\infty )}
+   then 
+  
+    
+      
+        h
+        ∗
+        f
+        =
+        h
+        ∗
+        g
+      
+    
+    {\textstyle h*f=h*g}
+   only if 
+  
+    
+      
+        f
+        =
+        g
+        .
+      
+    
+    {\textstyle f=g.}
+   This fact makes it possible to define convolution quotients by saying that for two functions ƒ, g, the pair (ƒ, g) has the same convolution quotient as the pair (h * ƒ,h * g).
+As with the construction of the rational numbers from the integers, the field of convolution quotients is a direct extension of the convolution ring from which it was built.  Every "ordinary" function 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   in the original space embeds canonically into the space of convolution quotients as the (equivalence class of the) pair 
+  
+    
+      
+        (
+        f
+        ∗
+        g
+        ,
+        g
+        )
+      
+    
+    {\displaystyle (f*g,g)}
+  , in the same way that ordinary integers embed canonically into the rational numbers.  Non-function elements of our new space can be thought of as "operators", or generalized functions, whose algebraic action on functions is always well-defined even if they have no representation in "ordinary" function space.
+If we start with convolution ring of positive half-line functions, the above construction is identical in behavior to the Laplace transform, and ordinary Laplace-space conversion charts can be used to map expressions involving non-function operators to ordinary functions (if they exist).  Yet, as mentioned above, the algebraic approach to the construction of the space bypasses the need to explicitly define the transform or its inverse, sidestepping a number of technically challenging convergence problems with the "traditional" integral transform construction.
+
+References
+Mikusiński, Jan G. (1949), "Sur les fondements du calcul opératoire", Studia Math., 11: 41–70, MR 0036949
+Mikusiński, Jan (1959) [1953], Operational calculus, International Series of Monographs on Pure and Applied Mathematics, vol. 8, New York-London-Paris-Los Angeles: Pergamon Press, MR 0105594

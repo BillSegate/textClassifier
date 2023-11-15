@@ -1,0 +1,342 @@
+K-convexity in Rn is a mathematical concept.
+
+Formula
+Let 
+  
+    
+      
+        
+          K
+        
+      
+    
+    {\displaystyle \mathrm {K} }
+  = (K0,K1,...,Kn) to be a vector of (n+1) nonnegative constants and define a function 
+  
+    
+      
+        
+          K
+        
+      
+    
+    {\displaystyle \mathrm {K} }
+  (.): 
+  
+    
+      
+        
+          ℜ
+          
+            +
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \Re _{+}^{n}}
+    → 
+  
+    
+      
+        
+          ℜ
+          
+            +
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \Re _{+}^{1}}
+   as follows:
+
+  
+    
+      
+        
+          K
+        
+      
+    
+    {\displaystyle \mathrm {K} }
+  (
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  ) = K0
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+  (e
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  ) + 
+  
+    
+      
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \sum _{i=1}^{n}}
+  Ki
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+  (
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+      
+    
+    {\displaystyle x_{i}}
+  ),
+where e = (1,1,...,1) ∈ 
+  
+    
+      
+        
+          ℜ
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \Re ^{n}}
+  , 
+  
+    
+      
+        
+          ℜ
+          
+            +
+          
+          
+            n
+          
+        
+        =
+        {
+        x
+        ∈
+        
+          ℜ
+          
+            n
+          
+        
+        
+          |
+        
+        x
+        ≥
+        0
+        }
+      
+    
+    {\displaystyle \Re _{+}^{n}=\{x\in \Re ^{n}|x\geq 0\}}
+  , 
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+  (0) = 0 and 
+  
+    
+      
+        δ
+        (
+        z
+        )
+      
+    
+    {\displaystyle \delta (z)}
+  = 1 for all 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+   > 0.The concept of K-convexity generalizes K-convexity introduced by Scarf (1960) to higher dimensional spaces and is useful in multiproduct inventory problems with fixed setup costs. Scarf used K-convexity to prove the optimality of the (s, S) policy in the single product case. Several papers are devoted to obtaining optimal policies for multiple product problems with fixed ordering costs.This definition introduced by Gallego and Sethi (2005) is motivated by the joint replenishment problem when we incur a setup cost K0, whenever we order an item or items and an individual setup cost Ki for each item 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   we order. There are some important special cases:
+(i) The simplest is the case of one product or n = 1, where  K0 + K1 can be considered to be the setup cost.  
+(ii) The joint setup cost arises when Ki = 0, 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   = 1, 2, . . . , n, and a setup cost of 
+  
+    
+      
+        
+          
+            K
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \mathrm {K} _{0}}
+   is incurred whenever any one or more of the items are ordered.  In this case,  
+  
+    
+      
+        
+          K
+        
+      
+    
+    {\displaystyle \mathrm {K} }
+   = (K0, 0, 0, . . . , 0) and  
+  
+    
+      
+        
+          K
+        
+      
+    
+    {\displaystyle \mathrm {K} }
+  (
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  ) = K0
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+  (e
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  ).
+(iii) When there is no joint setup cost, i.e., K0  = 0, and there are only individual setups, we have 
+  
+    
+      
+        
+          K
+        
+      
+    
+    {\displaystyle \mathrm {K} }
+  (
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  ) = 
+  
+    
+      
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \sum _{i=1}^{n}}
+  Ki
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+  (
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+      
+    
+    {\displaystyle x_{i}}
+  ).
+
+
+== References ==

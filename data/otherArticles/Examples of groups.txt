@@ -1,0 +1,145 @@
+Some elementary examples of groups in mathematics are given on Group (mathematics).
+Further examples are listed here.
+
+Permutations of a set of three elements
+Consider three colored blocks (red, green, and blue), initially placed in the order RGB. Let a be the operation "swap the first block and the second block", and b be the operation "swap the second block and the third block".
+We can write xy for the operation "first do y, then do x"; so that ab is the operation RGB → RBG → BRG, which could be described as "move the first two blocks one position to the right and put the third block into the first position". If we write e for "leave the blocks as they are" (the identity operation), then we can write the six permutations of the three blocks as follows:
+
+e : RGB → RGB
+a : RGB → GRB
+b : RGB → RBG
+ab : RGB → BRG
+ba : RGB → GBR
+aba : RGB → BGRNote that aa has the effect RGB → GRB → RGB; so we can write aa = e. Similarly, bb = (aba)(aba) = e; (ab)(ba) = (ba)(ab) = e; so every element has an inverse.
+By inspection, we can determine associativity and closure; note in particular that (ba)b = bab = b(ab).
+Since it is built up from the basic operations a and b, we say that the set {a, b} generates this group. The group, called the symmetric group S3, has order 6, and is non-abelian (since, for example, ab ≠ ba).
+
+Group of translations of the plane
+A translation of the plane is a rigid movement of every point of the plane for a certain distance in a certain direction.
+For instance "move in the North-East direction for 2 kilometres" is a translation of the plane.
+Two translations such as a and b can be composed to form a new translation a ∘ b as follows: first follow the prescription of b, then that of a.
+For instance, if 
+
+a = "move North-East for 3 kilometres"and
+
+b = "move South-East for 4 kilometres"then
+
+a ∘ b = "move to bearing 8.13° for 5 kilometres" (bearing is measured counterclockwise and from East)Or, if
+
+a = "move to bearing 36.87° for 3 kilometres" (bearing is measured counterclockwise and from East)and
+
+b = "move to bearing 306.87° for 4 kilometres" (bearing is measured counterclockwise and from East)then
+
+a ∘ b = "move East for 5 kilometres"(see Pythagorean theorem for why this is so, geometrically).
+The set of all translations of the plane with composition as the operation forms a group:
+
+If a and b are translations, then a ∘ b is also a translation.
+Composition of translations is associative:  (a ∘ b) ∘ c = a ∘ (b ∘ c).
+The identity element for this group is the translation with prescription "move zero kilometres in any direction".
+The inverse of a translation is given by walking in the opposite direction for the same distance.This is an abelian group and our first (nondiscrete) example of a Lie group: a group which is also a manifold.
+
+Symmetry group of a square: dihedral group of order 8
+Groups are very important to describe the symmetry of objects, be they geometrical (like a tetrahedron) or algebraic (like a set of equations).
+As an example, we consider a glass square of a certain thickness (with a letter "F" written on it, just to make the different positions distinguishable).
+In order to describe its symmetry, we form the set of all those rigid movements of the square that don't make a visible difference (except the "F"). For instance, if an object turned 90° clockwise still looks the same, the movement is one element of the set, for instance a.
+We could also flip it around a vertical axis so that its bottom surface becomes its top surface, while the left edge becomes the right edge. Again, after performing this movement, the glass square looks the same, so this is also an element of our set and we call it b. The movement that does nothing is denoted by e.
+Given two such movements x and y, it is possible to define the composition x ∘ y as above: first the movement y is performed, followed by the movement x.
+The result will leave the slab looking like before.
+The point is that the set of all those movements, with composition as the operation, forms a group.
+This group is the most concise description of the square's symmetry.
+Chemists use symmetry groups of this type to describe the symmetry of crystals and molecules.
+
+Generating the group
+Let's investigate our square's symmetry group some more. Right now, we have the elements a, b and e, but we can easily form more: 
+for instance a ∘ a, also written as a2, is a 180° degree turn.
+a3 is a 270° clockwise rotation (or a 90° counter-clockwise rotation).
+We also see that b2 = e and also a4 = e.
+Here's an interesting one: what does a ∘ b do?
+First flip horizontally, then rotate.
+Try to visualize that a ∘ b = b ∘ a3.
+Also, a2 ∘ b is a vertical flip and is equal to b ∘ a2.
+We say that elements a and b generate the group.
+This group of order 8 has the following Cayley table:
+
+For any two elements in the group, the table records what their composition is. Here we wrote "a3b" as a shorthand for a3 ∘ b.
+In mathematics this group is known as the dihedral group of order 8, and is either denoted Dih4, D4 or D8, depending on the convention. 
+This was an example of a non-abelian group: the operation ∘ here is not commutative, which can be seen from the table; the table is not symmetrical about the main diagonal.
+
+Normal subgroup
+This version of the Cayley table shows that this group has one normal subgroup shown with a red background.  In this table r means rotations, and f means flips. Because the subgroup is normal, the left coset is the same as the right coset.
+
+Free group on two generators
+The free group with two generators a and b consists of all finite strings/words that can be formed from the four symbols a, a−1, b and b−1 such that no a appears directly next to an a−1 and no b appears directly next to a b−1.
+Two such strings can be concatenated and converted into a string of this type by repeatedly replacing the "forbidden" substrings with the empty string.
+For instance: "abab−1a−1" concatenated with
+"abab−1a" yields "abab−1a−1abab−1a", which gets reduced to "abaab−1a".
+One can check that the set of those strings with this operation forms a group with the empty string ε := "" being the identity element
+(Usually the quotation marks are left off; this is why the symbol ε is required).
+This is another infinite non-abelian group.
+Free groups are important in algebraic topology; the free group in two generators is also used for a proof of the Banach–Tarski paradox.
+
+Set of maps
+Sets of maps from a set to a group
+Let G be a group and S a set.  The set of maps M(S, G) is itself a group; namely for two maps f, g of S into G we define fg to be the map such that (fg)(x) = f(x)g(x) for every x in S and f −1 to be the map such that f −1(x) = f(x)−1.
+Take maps f, g, and h in M(S, G).
+For every x in S, f(x) and g(x) are both in G, and so is (fg)(x).
+Therefore, fg is also in M(S, G), i.e. M(S, G) is closed.
+M(S, G) is associative because ((fg)h)(x) = (fg)(x)h(x) = (f(x)g(x))h(x) = f(x)(g(x)h(x)) = f(x)(gh)(x) = (f(gh))(x).
+And there is a map i such that i(x) = e where e is the identity element of G.
+The map i is such that for all f in M(S, G) we have
+fi = if = f, i.e. i is the identity element of M(S, G).
+Thus, M(S, G) is actually a group.
+If G is abelian then (fg)(x) = f(x)g(x) = g(x)f(x) = (gf)(x), and therefore so is M(S, G).
+
+Automorphism groups
+Groups of permutations
+Let G be the set of bijective mappings of a set S onto itself. Then G forms a group under ordinary composition of mappings. This group is called the symmetric group, and is commonly denoted 
+  
+    
+      
+        Sym
+        ⁡
+        (
+        S
+        )
+      
+    
+    {\displaystyle \operatorname {Sym} (S)}
+  , ΣS, or 
+  
+    
+      
+        
+          
+            
+              S
+            
+          
+          
+            S
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {S}}_{S}}
+  . The identity element of G is the identity map of S. For two maps f, g in G are bijective, fg is also bijective. Therefore, G is closed. The composition of maps is associative; hence G is a group. S may be either finite or infinite.
+
+Matrix groups
+If n is some positive integer, we can consider the set of all invertible n by n matrices with real number components, say.
+This is a group with matrix multiplication as the operation. It is called the general linear group, and denoted GLn(R) or GL(n, R) (where R is the set of real numbers). Geometrically, it contains all combinations of rotations, reflections, dilations and skew transformations of n-dimensional Euclidean space that fix a given point (the origin).
+If we restrict ourselves to matrices with determinant 1, then we get another group, the special linear group, SLn(R) or SL(n, R).
+Geometrically, this consists of all the elements of GLn(R) that preserve both orientation and volume of the various geometric solids in Euclidean space.
+If instead we restrict ourselves to orthogonal matrices, then we get the orthogonal group On(R) or O(n, R).
+Geometrically, this consists of all combinations of rotations and reflections that fix the origin.  These are precisely the transformations which preserve lengths and angles.
+Finally, if we impose both restrictions, then we get the special orthogonal group SOn(R) or SO(n, R), which consists of rotations only.
+These groups are our first examples of infinite non-abelian groups. They are also happen to be Lie groups. In fact, most of the important Lie groups (but not all) can be expressed as matrix groups.
+If this idea is generalised to matrices with complex numbers as entries, then we get further useful Lie groups, such as the unitary group U(n).
+We can also consider matrices with quaternions as entries; in this case,  there is no well-defined notion of a determinant (and thus no good way to define a quaternionic "volume"), but we can still define a group analogous to the orthogonal group, the symplectic group Sp(n).
+Furthermore, the idea can be treated purely algebraically with matrices over any field, but then the groups are not Lie groups.
+
+See also
+List of small groups
+List of the 230 crystallographic 3D space groups
+
+
+== References ==

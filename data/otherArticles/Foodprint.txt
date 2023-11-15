@@ -1,0 +1,23 @@
+A foodprint refers to the environmental pressures created by the food demands of individuals, organizations, and geopolitical entities.  Like other forms of ecological footprinting, a foodprint can include multiple parameters to quantify the overall environmental impact of food, including carbon footprinting, water footprinting, and foodshed mapping. Some foodprinting efforts also attempt to capture the social and ethical costs of food production by accounting for dimensions such as farm worker justice or prices received by farmers for goods as a share of food dollars. Environmental advocacy organizations like the Earth Day Network and the Natural Resources Defense Council have publicized the foodprint concept as a way of engaging consumers on the environmental impacts of dietary choices.
+
+Methodology
+Existing frameworks
+Foodprinting can incorporate multiple parameters. Foodshed mapping can be used to give a land area estimate for a geographic region, but similar analysis can be employed to specific food products. Water footprinting and carbon footprinting are also used to compare the impacts of different food choices. This type of comparison is commonly used to differentiate between products that have high environmental footprints and their alternatives, like dairy and meat.Life Cycle Assessment is one analytical framework frequently used to incorporated multiple dimensions of foodprinting, though it comes with particular challenges. Life cycle assessments for industrial products have discreet inflows and outflows that are easily measured and modeled. As biological systems with high variability, however, agricultural processes are more difficult to model.
+
+Existing research
+Geographic foodprinting
+On a city scale, researchers have conducted foodprint analyses for cities like Paris and Melbourne. Researchers have also used a foodprint model to map the land required for feeding the United States.
+
+Dietary patterns
+Foodprinting has also been applied to dietary patterns as a way of predicting impacts of consumption and production shifts on the environment. The EAT Lancet commission, for example, analyzed possible dietary patterns for impacts in GHG emissions, land, water and fertilizer use, and biodiversity, ultimately recommending the "Planetary Diet"  that has a low foodprint in those parameters.  Similar analysis from the IPCC focuses on carbon footprints of dietary patterns. Other carbon-focused research determined that supplying and consuming the calories that fuel global obesity adds an additional 700 megatons per year of CO2 equivalents to the atmosphere, approximately 1.6% of global carbon emissions.The whole-diet models used to establish estimates of land requirements for the standard American diet can also be used as a comparison for projecting the land requirements of dietary shifts.  Using these techniques, researchers have compared the land-area foodprint of high and low-quality diets, and found that high-quality diets could use significantly less land than current consumption patterns.
+
+Use in environmental advocacy
+Various organizations have publicized the concept of a foodprint, largely as a tool for understanding the impacts of consumer food choice on the environment. Non-profit organizations like FoodPrint educate consumers on environmental issues within food systems and provide resources for reducing personal foodprints. The NRDC and other organizations have released similar initiatives.Foodprints are also increasingly referenced by sustainability advocates within the food industry: the California-based Zero Foodprint initiative, for example, adds a voluntary surcharge to restaurant bills to pay for soil health–related projects on participating farms.  The non-profit was recognized with a Humanitarian of the Year Award from the James Beard Foundation. Other companies reduce foodprints of restaurants and other businesses reducing food-related waste. Restaurant chains like Panera and Chipotle have also embraced the concept of the foodprint, adding environmental impact scoring systems to their menu items. These initiatives vary in scope, however, and may struggle to communicate and contextualize the full range of environmental and social issues surrounding food production.
+
+See also
+Ecological footprint
+Carbon footprint
+Water footprint
+
+
+== References ==

@@ -1,0 +1,50 @@
+A compass, more accurately known as a pair of compasses, is a technical drawing instrument that can be used for inscribing circles or arcs. As dividers, it can also be used as a tool to mark out distances, in particular, on maps. Compasses can be used for mathematics, drafting, navigation and other purposes.
+Prior to computerization, compasses and other tools for manual drafting were often packaged as a set with interchangeable parts. By the mid-twentieth century, circle templates supplemented the use of compasses. Today those facilities are more often provided by computer-aided design programs, so the physical tools serve mainly a didactic purpose in teaching geometry, technical drawing, etc.
+
+Construction and parts
+Compasses are usually made of metal or plastic, and consist of two "legs" connected by a hinge which can be adjusted to allow changing of the radius of the circle drawn. Typically one leg has a spike at its end for anchoring, and the other leg holds a drawing tool, such as a pencil, a short length of just pencil lead or sometimes a pen.
+
+Handle
+The handle, a small knurled rod above the hinge, is usually about half an inch long. Users can grip it between their pointer finger and thumb.
+
+Legs
+There are two types of leg in a pair of compasses: the straight or the steady leg and the adjustable one. Each has a separate purpose; the steady leg serves as the basis or support for the needle point, while the adjustable leg can be altered in order to draw different sizes of circles.
+
+Hinge
+The screw through the hinge holds the two legs in position. The hinge can be adjusted, depending on desired stiffness; the tighter the hinge-screw, the more accurate the compass's performance. The better quality compass, made of plated metal, is able to be finely adjusted via a small, serrated wheel usually set between the legs  (see the "using a compass" animation shown above) and it has a (dangerously powerful) spring encompassing the hinge. This sort of compass is often known as a "pair of Spring-Bow Compasses".
+
+Needle point
+The needle point is located on the steady leg, and serves as the center point of the circle that is about to be drawn.
+
+Pencil lead
+The pencil lead draws the circle on a particular paper or material. Alternatively, an ink nib or attachment with a technical pen may be used. The better quality compass, made of metal, has its piece of pencil lead specially sharpened to a "chisel edge" shape, rather than to a point.
+
+Adjusting nut
+This holds the pencil lead or pen in place.
+
+Uses
+Circles can be made by pushing one leg of the compasses into the paper with the spike, putting the pencil on the paper, and moving the pencil around while keeping the legs at the same angle. Some people who find this action difficult often hold the compasses still and move the paper round instead. The radius of the intended circle can be changed by adjusting the initial angle between the two legs.
+Distances can be measured on a map using compasses with two spikes, also called a dividing compass (or just "dividers"). The hinge is set in such a way that the distance between the spikes on the map represents a certain distance in reality, and by measuring how many times the compasses fit between two points on the map the distance between those points can be calculated.
+
+Compasses and straightedge
+Compasses-and-straightedge constructions are used to illustrate principles of plane geometry. Although a real pair of compasses is used to draft visible illustrations, the ideal compass used in proofs is an abstract creator of perfect circles. The most rigorous definition of this abstract tool is the "collapsing compass"; having drawn a circle from a given point with a given radius, it disappears; it cannot simply be moved to another point and used to draw another circle of equal radius (unlike a real pair of compasses). Euclid showed in his second proposition (Book I of the Elements) that such a collapsing compass could be used to transfer a distance, proving that a collapsing compass could do anything a real compass can do.
+
+Variants
+A beam compass is an instrument, with a wooden or brass beam and sliding sockets, cursors or trammels, for drawing and dividing circles larger than those made by a regular pair of compasses.Scribe-compasses is an instrument used by carpenters and other tradesmen. Some compasses can be used to draw circles, bisect angles and, in this case, to trace a line. It is the compass in the most simple form. Both branches are crimped metal. One branch has a pencil sleeve while the other branch is crimped with a fine point protruding from the end. A wing nut on the hinge serves two purposes: first it tightens the pencil and secondly it locks in the desired distance when the wing nut is turned clockwise.
+Loose leg wing dividers  are made of all forged steel. The pencil holder, thumb screws, brass pivot and branches are all well built. They are used for scribing circles and stepping off repetitive measurements with some accuracy.
+A reduction compass or proportional dividers is used to reduce or enlarge patterns while conserving angles.
+
+As a symbol
+A pair of compasses is often used as a symbol of precision and discernment. As such it finds a place in logos and symbols such as the Freemasons' Square and Compasses and in various computer icons. English poet John Donne used the compass as a conceit in "A Valediction: Forbidding Mourning" (1611).
+
+See also
+Dividers
+Circle
+Geometrography
+Masonic Square and Compasses
+Technical drawing tools
+
+References
+External links
+
+Beam or trammel compass (variant form)

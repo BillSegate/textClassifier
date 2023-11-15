@@ -1,0 +1,49 @@
+List of some published works of Nikolay Bogolyubov in chronological order:
+
+1924
+N. N. Bogolyubov (1924). On the behavior of solutions of linear differential equations at infinity (Russian: О поведении решений линейных дифференциальных уравнений на бесконечности).
+
+1934
+N. M. Krylov and N. N. Bogolyubov (1934). On various formal expansions of non-linear mechanics (in Ukrainian). Kiev: Izdat. Zagal'noukr. Akad. Nauk.
+
+1937
+N. N. Bogoliubov and N. M. Krylov (1937). "La theorie generalie de la mesure dans son application a l'etude de systemes dynamiques de la mecanique non-lineaire" (in French). Ann. Math. II 38: 65–113.  Zbl. 16.86.
+
+1945
+Боголюбов Н. Н. (1945).  О некоторых статистических методах в математической физике (in Russian). Киев: Изд-во АН УССР.
+N. N. Bogoliubov (1945). On Some Statistical Methods in Mathematical Physics (in Russian). Kyiv: Izdatelstvo AN USSR.
+
+1946
+N. N. Bogoliubov (1946). "Kinetic Equations" (in Russian). Journal of Experimental and Theoretical Physics 16 (8): 691–702.N. N. Bogoliubov (1946). "Kinetic Equations" (in English). Journal of Physics 10 (3): 265–274.
+
+1947
+N. N. Bogoliubov, K. P. Gurov (1947). "Kinetic Equations in Quantum Mechanics" (in Russian). Journal of Experimental and Theoretical Physics 17 (7): 614–628.
+N. N. Bogoliubov (1947). "К теории сверхтекучести" (in Russian). Известия АН СССР, физика, 1947, 11, № 1, 77.N. N. Bogoliubov (1947). "On the Theory of Superfluidity" (in English). Journal of Physics 11 (1): 23–32.
+
+1948
+N. N. Bogoliubov (1948). "Equations of Hydrodynamics in Statistical Mechanics" (in Ukrainian). Sbornik Trudov Instituta Matematiki AN USSR 10: 41—59.
+
+1949
+Боголюбов М. М. (1949).  Лекціï з квантовоï статистики. Питання статистичноï механіки квантових систем. (in Ukrainian). Киïв.{{cite book}}:  CS1 maint: location missing publisher (link)
+N. N. Bogoliubov (1967—1970): Lectures on Quantum Statistics. Problems of Statistical Mechanics of Quantum Systems. New York, Gordon and Breach.
+
+1955
+Bogoliubov, N. N.; Ostap S. Parasyuk (1955).  Теория умножения причинных исключительных функций [A theory of multiplication of causative singular functions]. Doklady Akademii Nauk SSSR (in Russian). 100: 25–28.
+Bogoliubov, N. N.; Shirkov D. V. (1955).  Группа мультипликативной ренормировки в квантовой теории поля [Multiplicative renormalization group in quantum field theory]. JETP (in Russian). 30: 77–86.
+
+1957
+Боголюбов Н. Н.; Ширков Д. В. (1957).  Введение в теорию квантованных полей (in Russian). М.: Наука.
+N. N. Bogoliubov; D. V. Shirkov (1957). Introduction to the Theory of Quantized Field (in Russian). Moscow: Nauka.
+N. N. Bogoliubov; D. V. Shirkov (1959). Introduction to the Theory of Quantized Field. John Wiley & Sons Inc. ISBN 0-470-08613-0. (1st edition)
+N. N. Bogoliubov; D. V. Shirkov (1980). Introduction to the Theory of Quantized Field. John Wiley & Sons Inc. ISBN 0-471-04223-4. (3rd edition)
+N. N. Bogoliubov, O. S. Parasyuk (1957). "Uber die Multiplikation der Kausalfunktionen in der Quantentheorie der Felder" (in German). Acta Mathematica 97: 227–266. doi:10.1007/BF02392399.
+
+1958
+N. N. Bogoliubov (1958). On a New Method in the Theory of Superconductivity. Journal of Experimental and Theoretical Physics 34 (1): 58.
+Боголюбов Н. Н.; Медведев Б. В.; Поливанов М. К. (1958).  Вопросы теории дисперсионных соотношений (in Russian). М.: Физматгиз.N. N. Bogoliubov; B. V. Medvedev; M. K. Polivanov (1958). Problems in the Theory of Dispersion Relations. Princeton: Institute for Advanced Study.
+
+1965
+N. N. Bogolubov, B. V. Struminsky, A. N. Tavkhelidze (1965). On composite models in the theory of elementary particles. JINR Preprint D-1968, Dubna.
+
+External links
+Complete list

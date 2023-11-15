@@ -1,0 +1,6332 @@
+Runge–Kutta methods are methods for the numerical solution of the ordinary differential equation
+
+  
+    
+      
+        
+          
+            
+              d
+              y
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        f
+        (
+        t
+        ,
+        y
+        )
+        .
+      
+    
+    {\displaystyle {\frac {dy}{dt}}=f(t,y).}
+  Explicit Runge–Kutta methods take the form
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  y
+                  
+                    n
+                    +
+                    1
+                  
+                
+              
+              
+                
+                =
+                
+                  y
+                  
+                    n
+                  
+                
+                +
+                h
+                
+                  ∑
+                  
+                    i
+                    =
+                    1
+                  
+                  
+                    s
+                  
+                
+                
+                  b
+                  
+                    i
+                  
+                
+                
+                  k
+                  
+                    i
+                  
+                
+              
+            
+            
+              
+                
+                  k
+                  
+                    1
+                  
+                
+              
+              
+                
+                =
+                f
+                (
+                
+                  t
+                  
+                    n
+                  
+                
+                ,
+                
+                  y
+                  
+                    n
+                  
+                
+                )
+                ,
+              
+            
+            
+              
+                
+                  k
+                  
+                    2
+                  
+                
+              
+              
+                
+                =
+                f
+                (
+                
+                  t
+                  
+                    n
+                  
+                
+                +
+                
+                  c
+                  
+                    2
+                  
+                
+                h
+                ,
+                
+                  y
+                  
+                    n
+                  
+                
+                +
+                h
+                (
+                
+                  a
+                  
+                    21
+                  
+                
+                
+                  k
+                  
+                    1
+                  
+                
+                )
+                )
+                ,
+              
+            
+            
+              
+                
+                  k
+                  
+                    3
+                  
+                
+              
+              
+                
+                =
+                f
+                (
+                
+                  t
+                  
+                    n
+                  
+                
+                +
+                
+                  c
+                  
+                    3
+                  
+                
+                h
+                ,
+                
+                  y
+                  
+                    n
+                  
+                
+                +
+                h
+                (
+                
+                  a
+                  
+                    31
+                  
+                
+                
+                  k
+                  
+                    1
+                  
+                
+                +
+                
+                  a
+                  
+                    32
+                  
+                
+                
+                  k
+                  
+                    2
+                  
+                
+                )
+                )
+                ,
+              
+            
+            
+              
+              
+                
+                
+                
+                ⋮
+              
+            
+            
+              
+                
+                  k
+                  
+                    i
+                  
+                
+              
+              
+                
+                =
+                f
+                
+                  (
+                  
+                    
+                      t
+                      
+                        n
+                      
+                    
+                    +
+                    
+                      c
+                      
+                        i
+                      
+                    
+                    h
+                    ,
+                    
+                      y
+                      
+                        n
+                      
+                    
+                    +
+                    h
+                    
+                      ∑
+                      
+                        j
+                        =
+                        1
+                      
+                      
+                        i
+                        −
+                        1
+                      
+                    
+                    
+                      a
+                      
+                        i
+                        j
+                      
+                    
+                    
+                      k
+                      
+                        j
+                      
+                    
+                  
+                  )
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}y_{n+1}&=y_{n}+h\sum _{i=1}^{s}b_{i}k_{i}\\k_{1}&=f(t_{n},y_{n}),\\k_{2}&=f(t_{n}+c_{2}h,y_{n}+h(a_{21}k_{1})),\\k_{3}&=f(t_{n}+c_{3}h,y_{n}+h(a_{31}k_{1}+a_{32}k_{2})),\\&\;\;\vdots \\k_{i}&=f\left(t_{n}+c_{i}h,y_{n}+h\sum _{j=1}^{i-1}a_{ij}k_{j}\right).\end{aligned}}}
+  Stages for implicit methods of s stages take the more general form, with the solution to be found over all s
+
+  
+    
+      
+        
+          k
+          
+            i
+          
+        
+        =
+        f
+        
+          (
+          
+            
+              t
+              
+                n
+              
+            
+            +
+            
+              c
+              
+                i
+              
+            
+            h
+            ,
+            
+              y
+              
+                n
+              
+            
+            +
+            h
+            
+              ∑
+              
+                j
+                =
+                1
+              
+              
+                s
+              
+            
+            
+              a
+              
+                i
+                j
+              
+            
+            
+              k
+              
+                j
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle k_{i}=f\left(t_{n}+c_{i}h,y_{n}+h\sum _{j=1}^{s}a_{ij}k_{j}\right).}
+  Each method listed on this page is defined by its Butcher tableau, which puts the coefficients of the method in a table as follows:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  c
+                  
+                    1
+                  
+                
+              
+              
+                
+                  a
+                  
+                    11
+                  
+                
+              
+              
+                
+                  a
+                  
+                    12
+                  
+                
+              
+              
+                …
+              
+              
+                
+                  a
+                  
+                    1
+                    s
+                  
+                
+              
+            
+            
+              
+                
+                  c
+                  
+                    2
+                  
+                
+              
+              
+                
+                  a
+                  
+                    21
+                  
+                
+              
+              
+                
+                  a
+                  
+                    22
+                  
+                
+              
+              
+                …
+              
+              
+                
+                  a
+                  
+                    2
+                    s
+                  
+                
+              
+            
+            
+              
+                ⋮
+              
+              
+                ⋮
+              
+              
+                ⋮
+              
+              
+                ⋱
+              
+              
+                ⋮
+              
+            
+            
+              
+                
+                  c
+                  
+                    s
+                  
+                
+              
+              
+                
+                  a
+                  
+                    s
+                    1
+                  
+                
+              
+              
+                
+                  a
+                  
+                    s
+                    2
+                  
+                
+              
+              
+                …
+              
+              
+                
+                  a
+                  
+                    s
+                    s
+                  
+                
+              
+            
+            
+              
+              
+                
+                  b
+                  
+                    1
+                  
+                
+              
+              
+                
+                  b
+                  
+                    2
+                  
+                
+              
+              
+                …
+              
+              
+                
+                  b
+                  
+                    s
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|cccc}c_{1}&a_{11}&a_{12}&\dots &a_{1s}\\c_{2}&a_{21}&a_{22}&\dots &a_{2s}\\\vdots &\vdots &\vdots &\ddots &\vdots \\c_{s}&a_{s1}&a_{s2}&\dots &a_{ss}\\\hline &b_{1}&b_{2}&\dots &b_{s}\\\end{array}}}
+  For adaptive and implicit methods, the Butcher tableau is extended to give values of 
+  
+    
+      
+        
+          b
+          
+            i
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle b_{i}^{*}}
+  , and the estimated error is then
+
+  
+    
+      
+        
+          e
+          
+            n
+            +
+            1
+          
+        
+        =
+        h
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            s
+          
+        
+        (
+        
+          b
+          
+            i
+          
+        
+        −
+        
+          b
+          
+            i
+          
+          
+            ∗
+          
+        
+        )
+        
+          k
+          
+            i
+          
+        
+      
+    
+    {\displaystyle e_{n+1}=h\sum _{i=1}^{s}(b_{i}-b_{i}^{*})k_{i}}
+  .
+
+Explicit methods
+The explicit methods are those where the matrix 
+  
+    
+      
+        [
+        
+          a
+          
+            i
+            j
+          
+        
+        ]
+      
+    
+    {\displaystyle [a_{ij}]}
+   is lower triangular.
+
+Forward Euler
+The Euler method is first order. The lack of stability and accuracy limits its popularity mainly to use as a simple introductory example of a numeric solution method.
+
+  
+    
+      
+        
+          
+            
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+              
+                1
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|c}0&0\\\hline &1\\\end{array}}}
+
+Explicit midpoint method
+The (explicit) midpoint method is a second-order method with two stages (see also the implicit midpoint method below):
+
+  
+    
+      
+        
+          
+            
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                0
+              
+            
+            
+              
+              
+                0
+              
+              
+                1
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|cc}0&0&0\\1/2&1/2&0\\\hline &0&1\\\end{array}}}
+
+Heun's method
+Heun's method is a second-order method with two stages.  It is also known as the explicit trapezoid rule, improved Euler's method, or modified Euler's method.  (Note: The "eu" is pronounced the same way as in "Euler", so "Heun" rhymes with "coin"):
+
+  
+    
+      
+        
+          
+            
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                1
+              
+              
+                1
+              
+              
+                0
+              
+            
+            
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|cc}0&0&0\\1&1&0\\\hline &1/2&1/2\\\end{array}}}
+
+Ralston's method
+Ralston's method is a second-order method with two stages and a minimum local error bound:
+
+  
+    
+      
+        
+          
+            
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                2
+                
+                  /
+                
+                3
+              
+              
+                2
+                
+                  /
+                
+                3
+              
+              
+                0
+              
+            
+            
+              
+              
+                1
+                
+                  /
+                
+                4
+              
+              
+                3
+                
+                  /
+                
+                4
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|cc}0&0&0\\2/3&2/3&0\\\hline &1/4&3/4\\\end{array}}}
+
+Generic second-order method
+0
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                α
+              
+              
+                α
+              
+              
+                0
+              
+            
+            
+              
+              
+                1
+                −
+                
+                  
+                    1
+                    
+                      2
+                      α
+                    
+                  
+                
+              
+              
+                
+                  
+                    1
+                    
+                      2
+                      α
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|ccc}0&0&0\\\alpha &\alpha &0\\\hline &1-{\frac {1}{2\alpha }}&{\frac {1}{2\alpha }}\\\end{array}}}
+
+Kutta's third-order method
+0
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                1
+              
+              
+                −
+                1
+              
+              
+                2
+              
+              
+                0
+              
+            
+            
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+              
+                2
+                
+                  /
+                
+                3
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|ccc}0&0&0&0\\1/2&1/2&0&0\\1&-1&2&0\\\hline &1/6&2/3&1/6\\\end{array}}}
+
+Generic third-order method
+See Sanderse and Veldman (2019).for α ≠ 0, 2⁄3, 1: 
+
+  
+    
+      
+        
+          
+            
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                α
+              
+              
+                α
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                1
+              
+              
+                1
+                +
+                
+                  
+                    
+                      1
+                      −
+                      α
+                    
+                    
+                      α
+                      (
+                      3
+                      α
+                      −
+                      2
+                      )
+                    
+                  
+                
+              
+              
+                −
+                
+                  
+                    
+                      1
+                      −
+                      α
+                    
+                    
+                      α
+                      (
+                      3
+                      α
+                      −
+                      2
+                      )
+                    
+                  
+                
+              
+              
+                0
+              
+            
+            
+              
+              
+                
+                  
+                    1
+                    2
+                  
+                
+                −
+                
+                  
+                    1
+                    
+                      6
+                      α
+                    
+                  
+                
+              
+              
+                
+                  
+                    1
+                    
+                      6
+                      α
+                      (
+                      1
+                      −
+                      α
+                      )
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      2
+                      −
+                      3
+                      α
+                    
+                    
+                      6
+                      (
+                      1
+                      −
+                      α
+                      )
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|ccc}0&0&0&0\\\alpha &\alpha &0&0\\1&1+{\frac {1-\alpha }{\alpha (3\alpha -2)}}&-{\frac {1-\alpha }{\alpha (3\alpha -2)}}&0\\\hline &{\frac {1}{2}}-{\frac {1}{6\alpha }}&{\frac {1}{6\alpha (1-\alpha )}}&{\frac {2-3\alpha }{6(1-\alpha )}}\\\end{array}}}
+
+Heun's third-order method
+0
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                1
+                
+                  /
+                
+                3
+              
+              
+                1
+                
+                  /
+                
+                3
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                2
+                
+                  /
+                
+                3
+              
+              
+                0
+              
+              
+                2
+                
+                  /
+                
+                3
+              
+              
+                0
+              
+            
+            
+              
+              
+                1
+                
+                  /
+                
+                4
+              
+              
+                0
+              
+              
+                3
+                
+                  /
+                
+                4
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|ccc}0&0&0&0\\1/3&1/3&0&0\\2/3&0&2/3&0\\\hline &1/4&0&3/4\\\end{array}}}
+
+Van der Houwen's/Wray third-order method
+0
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                8
+                
+                  /
+                
+                15
+              
+              
+                8
+                
+                  /
+                
+                15
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                2
+                
+                  /
+                
+                3
+              
+              
+                1
+                
+                  /
+                
+                4
+              
+              
+                5
+                
+                  /
+                
+                12
+              
+              
+                0
+              
+            
+            
+              
+              
+                1
+                
+                  /
+                
+                4
+              
+              
+                0
+              
+              
+                3
+                
+                  /
+                
+                4
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|ccc}0&0&0&0\\8/15&8/15&0&0\\2/3&1/4&5/12&0\\\hline &1/4&0&3/4\\\end{array}}}
+
+Ralston's third-order method
+Ralston's third-order method is used in the embedded Bogacki–Shampine method.
+
+  
+    
+      
+        
+          
+            
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                3
+                
+                  /
+                
+                4
+              
+              
+                0
+              
+              
+                3
+                
+                  /
+                
+                4
+              
+              
+                0
+              
+            
+            
+              
+              
+                2
+                
+                  /
+                
+                9
+              
+              
+                1
+                
+                  /
+                
+                3
+              
+              
+                4
+                
+                  /
+                
+                9
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|ccc}0&0&0&0\\1/2&1/2&0&0\\3/4&0&3/4&0\\\hline &2/9&1/3&4/9\\\end{array}}}
+
+Third-order Strong Stability Preserving Runge-Kutta (SSPRK3)
+0
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                1
+              
+              
+                1
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                4
+              
+              
+                1
+                
+                  /
+                
+                4
+              
+              
+                0
+              
+            
+            
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+              
+                2
+                
+                  /
+                
+                3
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|ccc}0&0&0&0\\1&1&0&0\\1/2&1/4&1/4&0\\\hline &1/6&1/6&2/3\\\end{array}}}
+
+Classic fourth-order method
+The "original" Runge–Kutta method.
+
+  
+    
+      
+        
+          
+            
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                0
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                1
+              
+              
+                0
+              
+              
+                0
+              
+              
+                1
+              
+              
+                0
+              
+            
+            
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+              
+                1
+                
+                  /
+                
+                3
+              
+              
+                1
+                
+                  /
+                
+                3
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|cccc}0&0&0&0&0\\1/2&1/2&0&0&0\\1/2&0&1/2&0&0\\1&0&0&1&0\\\hline &1/6&1/3&1/3&1/6\\\end{array}}}
+
+3/8-rule fourth-order method
+This method doesn't have as much notoriety as the "classic" method, but is just as classic because it was proposed in the same paper (Kutta, 1901).
+
+  
+    
+      
+        
+          
+            
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                1
+                
+                  /
+                
+                3
+              
+              
+                1
+                
+                  /
+                
+                3
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                2
+                
+                  /
+                
+                3
+              
+              
+                −
+                1
+                
+                  /
+                
+                3
+              
+              
+                1
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                1
+              
+              
+                1
+              
+              
+                −
+                1
+              
+              
+                1
+              
+              
+                0
+              
+            
+            
+              
+              
+                1
+                
+                  /
+                
+                8
+              
+              
+                3
+                
+                  /
+                
+                8
+              
+              
+                3
+                
+                  /
+                
+                8
+              
+              
+                1
+                
+                  /
+                
+                8
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|cccc}0&0&0&0&0\\1/3&1/3&0&0&0\\2/3&-1/3&1&0&0\\1&1&-1&1&0\\\hline &1/8&3/8&3/8&1/8\\\end{array}}}
+
+Ralston's fourth-order method
+This fourth order method has minimum truncation error.
+
+  
+    
+      
+        
+          
+            
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                .4
+              
+              
+                .4
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                .45573725
+              
+              
+                .29697761
+              
+              
+                .15875964
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                1
+              
+              
+                .21810040
+              
+              
+                −
+                3.05096516
+              
+              
+                3.83286476
+              
+              
+                0
+              
+            
+            
+              
+              
+                .17476028
+              
+              
+                −
+                .55148066
+              
+              
+                1.20553560
+              
+              
+                .17118478
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|cccc}0&0&0&0&0\\.4&.4&0&0&0\\.45573725&.29697761&.15875964&0&0\\1&.21810040&-3.05096516&3.83286476&0\\\hline &.17476028&-.55148066&1.20553560&.17118478\\\end{array}}}
+
+Embedded methods
+The embedded methods are designed to produce an estimate of the local truncation error of a single Runge–Kutta step, and as result, allow to control the error with adaptive stepsize. This is done by having two methods in the tableau, one with order p and one with order p-1.
+The lower-order step is given by
+
+  
+    
+      
+        
+          y
+          
+            n
+            +
+            1
+          
+          
+            ∗
+          
+        
+        =
+        
+          y
+          
+            n
+          
+        
+        +
+        h
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            s
+          
+        
+        
+          b
+          
+            i
+          
+          
+            ∗
+          
+        
+        
+          k
+          
+            i
+          
+        
+        ,
+      
+    
+    {\displaystyle y_{n+1}^{*}=y_{n}+h\sum _{i=1}^{s}b_{i}^{*}k_{i},}
+  where the 
+  
+    
+      
+        
+          k
+          
+            i
+          
+        
+      
+    
+    {\displaystyle k_{i}}
+   are the same as for the higher order method. Then the error is
+
+  
+    
+      
+        
+          e
+          
+            n
+            +
+            1
+          
+        
+        =
+        
+          y
+          
+            n
+            +
+            1
+          
+        
+        −
+        
+          y
+          
+            n
+            +
+            1
+          
+          
+            ∗
+          
+        
+        =
+        h
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            s
+          
+        
+        (
+        
+          b
+          
+            i
+          
+        
+        −
+        
+          b
+          
+            i
+          
+          
+            ∗
+          
+        
+        )
+        
+          k
+          
+            i
+          
+        
+        ,
+      
+    
+    {\displaystyle e_{n+1}=y_{n+1}-y_{n+1}^{*}=h\sum _{i=1}^{s}(b_{i}-b_{i}^{*})k_{i},}
+  which is 
+  
+    
+      
+        O
+        (
+        
+          h
+          
+            p
+          
+        
+        )
+      
+    
+    {\displaystyle O(h^{p})}
+  . The Butcher Tableau for this kind of method is extended to give the values of 
+  
+    
+      
+        
+          b
+          
+            i
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle b_{i}^{*}}
+  
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  c
+                  
+                    1
+                  
+                
+              
+              
+                
+                  a
+                  
+                    11
+                  
+                
+              
+              
+                
+                  a
+                  
+                    12
+                  
+                
+              
+              
+                …
+              
+              
+                
+                  a
+                  
+                    1
+                    s
+                  
+                
+              
+            
+            
+              
+                
+                  c
+                  
+                    2
+                  
+                
+              
+              
+                
+                  a
+                  
+                    21
+                  
+                
+              
+              
+                
+                  a
+                  
+                    22
+                  
+                
+              
+              
+                …
+              
+              
+                
+                  a
+                  
+                    2
+                    s
+                  
+                
+              
+            
+            
+              
+                ⋮
+              
+              
+                ⋮
+              
+              
+                ⋮
+              
+              
+                ⋱
+              
+              
+                ⋮
+              
+            
+            
+              
+                
+                  c
+                  
+                    s
+                  
+                
+              
+              
+                
+                  a
+                  
+                    s
+                    1
+                  
+                
+              
+              
+                
+                  a
+                  
+                    s
+                    2
+                  
+                
+              
+              
+                …
+              
+              
+                
+                  a
+                  
+                    s
+                    s
+                  
+                
+              
+            
+            
+              
+              
+                
+                  b
+                  
+                    1
+                  
+                
+              
+              
+                
+                  b
+                  
+                    2
+                  
+                
+              
+              
+                …
+              
+              
+                
+                  b
+                  
+                    s
+                  
+                
+              
+            
+            
+              
+              
+                
+                  b
+                  
+                    1
+                  
+                  
+                    ∗
+                  
+                
+              
+              
+                
+                  b
+                  
+                    2
+                  
+                  
+                    ∗
+                  
+                
+              
+              
+                …
+              
+              
+                
+                  b
+                  
+                    s
+                  
+                  
+                    ∗
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|cccc}c_{1}&a_{11}&a_{12}&\dots &a_{1s}\\c_{2}&a_{21}&a_{22}&\dots &a_{2s}\\\vdots &\vdots &\vdots &\ddots &\vdots \\c_{s}&a_{s1}&a_{s2}&\dots &a_{ss}\\\hline &b_{1}&b_{2}&\dots &b_{s}\\&b_{1}^{*}&b_{2}^{*}&\dots &b_{s}^{*}\\\end{array}}}
+
+Heun–Euler
+The simplest adaptive Runge–Kutta method involves combining Heun's method, which is order 2, with the Euler method, which is order 1. Its extended Butcher Tableau is:
+
+  
+    
+      
+        
+          
+            
+              
+                0
+              
+              
+            
+            
+              
+                1
+              
+              
+                1
+              
+            
+            
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+            
+            
+              
+              
+                1
+              
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|cc}0&\\1&1\\\hline &1/2&1/2\\&1&0\end{array}}}
+  The error estimate is used to control the stepsize.
+
+Fehlberg RK1(2)
+The Fehlberg method has two methods of orders 1 and 2. Its extended Butcher Tableau is:
+
+The first row of b coefficients gives the second-order accurate solution, and the second row has order one.
+
+Bogacki–Shampine
+The Bogacki–Shampine method has two methods of orders 2 and 3. Its extended Butcher Tableau is:
+
+The first row of b coefficients gives the third-order accurate solution, and the second row has order two.
+
+Fehlberg
+The Runge–Kutta–Fehlberg method has two methods of orders 5 and 4; it is sometimes dubbed RKF45 . Its extended Butcher Tableau is:
+
+  
+    
+      
+        
+          
+            
+              
+                0
+              
+              
+              
+              
+              
+              
+            
+            
+              
+                1
+                
+                  /
+                
+                4
+              
+              
+                1
+                
+                  /
+                
+                4
+              
+              
+              
+              
+            
+            
+              
+                3
+                
+                  /
+                
+                8
+              
+              
+                3
+                
+                  /
+                
+                32
+              
+              
+                9
+                
+                  /
+                
+                32
+              
+              
+              
+            
+            
+              
+                12
+                
+                  /
+                
+                13
+              
+              
+                1932
+                
+                  /
+                
+                2197
+              
+              
+                −
+                7200
+                
+                  /
+                
+                2197
+              
+              
+                7296
+                
+                  /
+                
+                2197
+              
+              
+            
+            
+              
+                1
+              
+              
+                439
+                
+                  /
+                
+                216
+              
+              
+                −
+                8
+              
+              
+                3680
+                
+                  /
+                
+                513
+              
+              
+                −
+                845
+                
+                  /
+                
+                4104
+              
+              
+            
+            
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                −
+                8
+                
+                  /
+                
+                27
+              
+              
+                2
+              
+              
+                −
+                3544
+                
+                  /
+                
+                2565
+              
+              
+                1859
+                
+                  /
+                
+                4104
+              
+              
+                −
+                11
+                
+                  /
+                
+                40
+              
+            
+            
+              
+              
+                16
+                
+                  /
+                
+                135
+              
+              
+                0
+              
+              
+                6656
+                
+                  /
+                
+                12825
+              
+              
+                28561
+                
+                  /
+                
+                56430
+              
+              
+                −
+                9
+                
+                  /
+                
+                50
+              
+              
+                2
+                
+                  /
+                
+                55
+              
+            
+            
+              
+              
+                25
+                
+                  /
+                
+                216
+              
+              
+                0
+              
+              
+                1408
+                
+                  /
+                
+                2565
+              
+              
+                2197
+                
+                  /
+                
+                4104
+              
+              
+                −
+                1
+                
+                  /
+                
+                5
+              
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{r|ccccc}0&&&&&\\1/4&1/4&&&\\3/8&3/32&9/32&&\\12/13&1932/2197&-7200/2197&7296/2197&\\1&439/216&-8&3680/513&-845/4104&\\1/2&-8/27&2&-3544/2565&1859/4104&-11/40\\\hline &16/135&0&6656/12825&28561/56430&-9/50&2/55\\&25/216&0&1408/2565&2197/4104&-1/5&0\end{array}}}
+  The first row of b coefficients gives the fifth-order accurate solution, and the second row has order four.
+The coefficients here allow for an adaptive stepsize to be determined automatically.
+
+Cash-Karp
+Cash and Karp have modified Fehlberg's original idea. The extended tableau for the Cash–Karp method is
+
+The first row of b coefficients gives the fifth-order accurate solution, and the second row has order four.
+
+Dormand–Prince
+The extended tableau for the Dormand–Prince method is
+
+The first row of b coefficients gives the fifth-order accurate solution, and the second row gives the fourth-order accurate solution.
+
+Implicit methods
+Backward Euler
+The backward Euler method is first order. Unconditionally stable and non-oscillatory for linear diffusion problems.
+
+  
+    
+      
+        
+          
+            
+              
+                1
+              
+              
+                1
+              
+            
+            
+              
+              
+                1
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|c}1&1\\\hline &1\\\end{array}}}
+
+Implicit midpoint
+The implicit midpoint method is of second order. It is the simplest method in the class of collocation methods known as the Gauss-Legendre methods. It is a symplectic integrator.
+
+  
+    
+      
+        
+          
+            
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+            
+            
+              
+              
+                1
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|c}1/2&1/2\\\hline &1\end{array}}}
+
+Crank-Nicolson method
+The Crank–Nicolson method corresponds to the implicit trapezoidal rule and is a second-order accurate and A-stable method.
+
+  
+    
+      
+        
+          
+            
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                1
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+            
+            
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|cc}0&0&0\\1&1/2&1/2\\\hline &1/2&1/2\\\end{array}}}
+
+Gauss–Legendre methods
+These methods are based on the points of Gauss–Legendre quadrature. The Gauss–Legendre method of order four has Butcher tableau:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    1
+                    2
+                  
+                
+                −
+                
+                  
+                    
+                      3
+                    
+                    6
+                  
+                
+              
+              
+                
+                  
+                    1
+                    4
+                  
+                
+              
+              
+                
+                  
+                    1
+                    4
+                  
+                
+                −
+                
+                  
+                    
+                      3
+                    
+                    6
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    1
+                    2
+                  
+                
+                +
+                
+                  
+                    
+                      3
+                    
+                    6
+                  
+                
+              
+              
+                
+                  
+                    1
+                    4
+                  
+                
+                +
+                
+                  
+                    
+                      3
+                    
+                    6
+                  
+                
+              
+              
+                
+                  
+                    1
+                    4
+                  
+                
+              
+            
+            
+              
+              
+                
+                  
+                    1
+                    2
+                  
+                
+              
+              
+                
+                  
+                    1
+                    2
+                  
+                
+              
+            
+            
+              
+              
+                
+                  
+                    1
+                    2
+                  
+                
+                +
+                
+                  
+                    
+                      3
+                    
+                    2
+                  
+                
+              
+              
+                
+                  
+                    1
+                    2
+                  
+                
+                −
+                
+                  
+                    
+                      3
+                    
+                    2
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|cc}{\frac {1}{2}}-{\frac {\sqrt {3}}{6}}&{\frac {1}{4}}&{\frac {1}{4}}-{\frac {\sqrt {3}}{6}}\\{\frac {1}{2}}+{\frac {\sqrt {3}}{6}}&{\frac {1}{4}}+{\frac {\sqrt {3}}{6}}&{\frac {1}{4}}\\\hline &{\frac {1}{2}}&{\frac {1}{2}}\\&{\frac {1}{2}}+{\frac {\sqrt {3}}{2}}&{\frac {1}{2}}-{\frac {\sqrt {3}}{2}}\\\end{array}}}
+  The Gauss–Legendre method of order six has Butcher tableau:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    1
+                    2
+                  
+                
+                −
+                
+                  
+                    
+                      15
+                    
+                    10
+                  
+                
+              
+              
+                
+                  
+                    5
+                    36
+                  
+                
+              
+              
+                
+                  
+                    2
+                    9
+                  
+                
+                −
+                
+                  
+                    
+                      15
+                    
+                    15
+                  
+                
+              
+              
+                
+                  
+                    5
+                    36
+                  
+                
+                −
+                
+                  
+                    
+                      15
+                    
+                    30
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    1
+                    2
+                  
+                
+              
+              
+                
+                  
+                    5
+                    36
+                  
+                
+                +
+                
+                  
+                    
+                      15
+                    
+                    24
+                  
+                
+              
+              
+                
+                  
+                    2
+                    9
+                  
+                
+              
+              
+                
+                  
+                    5
+                    36
+                  
+                
+                −
+                
+                  
+                    
+                      15
+                    
+                    24
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    1
+                    2
+                  
+                
+                +
+                
+                  
+                    
+                      15
+                    
+                    10
+                  
+                
+              
+              
+                
+                  
+                    5
+                    36
+                  
+                
+                +
+                
+                  
+                    
+                      15
+                    
+                    30
+                  
+                
+              
+              
+                
+                  
+                    2
+                    9
+                  
+                
+                +
+                
+                  
+                    
+                      15
+                    
+                    15
+                  
+                
+              
+              
+                
+                  
+                    5
+                    36
+                  
+                
+              
+            
+            
+              
+              
+                
+                  
+                    5
+                    18
+                  
+                
+              
+              
+                
+                  
+                    4
+                    9
+                  
+                
+              
+              
+                
+                  
+                    5
+                    18
+                  
+                
+              
+            
+            
+              
+              
+                −
+                
+                  
+                    5
+                    6
+                  
+                
+              
+              
+                
+                  
+                    8
+                    3
+                  
+                
+              
+              
+                −
+                
+                  
+                    5
+                    6
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|ccc}{\frac {1}{2}}-{\frac {\sqrt {15}}{10}}&{\frac {5}{36}}&{\frac {2}{9}}-{\frac {\sqrt {15}}{15}}&{\frac {5}{36}}-{\frac {\sqrt {15}}{30}}\\{\frac {1}{2}}&{\frac {5}{36}}+{\frac {\sqrt {15}}{24}}&{\frac {2}{9}}&{\frac {5}{36}}-{\frac {\sqrt {15}}{24}}\\{\frac {1}{2}}+{\frac {\sqrt {15}}{10}}&{\frac {5}{36}}+{\frac {\sqrt {15}}{30}}&{\frac {2}{9}}+{\frac {\sqrt {15}}{15}}&{\frac {5}{36}}\\\hline &{\frac {5}{18}}&{\frac {4}{9}}&{\frac {5}{18}}\\&-{\frac {5}{6}}&{\frac {8}{3}}&-{\frac {5}{6}}\end{array}}}
+
+Diagonally Implicit Runge–Kutta methods
+Diagonally Implicit Runge–Kutta (DIRK) formulae have been widely used for the numerical solution of stiff initial value problems;
+
+the advantage of this approach is that here the solution may be found sequentially as opposed to simultaneously.
+The simplest method from this class is the order 2 implicit midpoint method.
+Kraaijevanger and Spijker's two-stage Diagonally Implicit Runge–Kutta method:
+
+  
+    
+      
+        
+          
+            
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                0
+              
+            
+            
+              
+                3
+                
+                  /
+                
+                2
+              
+              
+                −
+                1
+                
+                  /
+                
+                2
+              
+              
+                2
+              
+            
+            
+              
+              
+                −
+                1
+                
+                  /
+                
+                2
+              
+              
+                3
+                
+                  /
+                
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|cc}1/2&1/2&0\\3/2&-1/2&2\\\hline &-1/2&3/2\\\end{array}}}
+  Qin and Zhang's two-stage, 2nd order, symplectic Diagonally Implicit Runge–Kutta method:
+
+  
+    
+      
+        
+          
+            
+              
+                1
+                
+                  /
+                
+                4
+              
+              
+                1
+                
+                  /
+                
+                4
+              
+              
+                0
+              
+            
+            
+              
+                3
+                
+                  /
+                
+                4
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                4
+              
+            
+            
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|cc}1/4&1/4&0\\3/4&1/2&1/4\\\hline &1/2&1/2\\\end{array}}}
+  Pareschi and Russo's two-stage 2nd order Diagonally Implicit Runge–Kutta method:
+
+  
+    
+      
+        
+          
+            
+              
+                x
+              
+              
+                x
+              
+              
+                0
+              
+            
+            
+              
+                1
+                −
+                x
+              
+              
+                1
+                −
+                2
+                x
+              
+              
+                x
+              
+            
+            
+              
+              
+                
+                  
+                    1
+                    2
+                  
+                
+              
+              
+                
+                  
+                    1
+                    2
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|cc}x&x&0\\1-x&1-2x&x\\\hline &{\frac {1}{2}}&{\frac {1}{2}}\\\end{array}}}
+  This Diagonally Implicit Runge–Kutta method is A-stable if and only if 
+  
+    
+      
+        x
+        ≥
+        
+          
+            1
+            4
+          
+        
+      
+    
+    {\textstyle x\geq {\frac {1}{4}}}
+  .  Moreover, this method is L-stable if and only if 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   equals one of the roots of the polynomial 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        −
+        2
+        x
+        +
+        
+          
+            1
+            2
+          
+        
+      
+    
+    {\textstyle x^{2}-2x+{\frac {1}{2}}}
+  , i.e. if 
+  
+    
+      
+        x
+        =
+        1
+        ±
+        
+          
+            
+              2
+            
+            2
+          
+        
+      
+    
+    {\textstyle x=1\pm {\frac {\sqrt {2}}{2}}}
+  .
+Qin and Zhang's Diagonally Implicit Runge–Kutta method corresponds to Pareschi and Russo's Diagonally Implicit Runge–Kutta method with 
+  
+    
+      
+        x
+        =
+        1
+        
+          /
+        
+        4
+      
+    
+    {\displaystyle x=1/4}
+  .
+Two-stage 2nd order Diagonally Implicit Runge–Kutta method:
+
+  
+    
+      
+        
+          
+            
+              
+                x
+              
+              
+                x
+              
+              
+                0
+              
+            
+            
+              
+                1
+              
+              
+                1
+                −
+                x
+              
+              
+                x
+              
+            
+            
+              
+              
+                1
+                −
+                x
+              
+              
+                x
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|cc}x&x&0\\1&1-x&x\\\hline &1-x&x\\\end{array}}}
+  Again, this Diagonally Implicit Runge–Kutta method is A-stable if and only if 
+  
+    
+      
+        x
+        ≥
+        
+          
+            1
+            4
+          
+        
+      
+    
+    {\textstyle x\geq {\frac {1}{4}}}
+  .  As the previous method, this method is again L-stable if and only if 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   equals one of the roots of the polynomial 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        −
+        2
+        x
+        +
+        
+          
+            1
+            2
+          
+        
+      
+    
+    {\textstyle x^{2}-2x+{\frac {1}{2}}}
+  , i.e. if 
+  
+    
+      
+        x
+        =
+        1
+        ±
+        
+          
+            
+              2
+            
+            2
+          
+        
+      
+    
+    {\textstyle x=1\pm {\frac {\sqrt {2}}{2}}}
+  .
+Crouzeix's two-stage, 3rd order Diagonally Implicit Runge–Kutta method:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    1
+                    2
+                  
+                
+                +
+                
+                  
+                    
+                      3
+                    
+                    6
+                  
+                
+              
+              
+                
+                  
+                    1
+                    2
+                  
+                
+                +
+                
+                  
+                    
+                      3
+                    
+                    6
+                  
+                
+              
+              
+                0
+              
+            
+            
+              
+                
+                  
+                    1
+                    2
+                  
+                
+                −
+                
+                  
+                    
+                      3
+                    
+                    6
+                  
+                
+              
+              
+                −
+                
+                  
+                    
+                      3
+                    
+                    3
+                  
+                
+              
+              
+                
+                  
+                    1
+                    2
+                  
+                
+                +
+                
+                  
+                    
+                      3
+                    
+                    6
+                  
+                
+              
+            
+            
+              
+              
+                
+                  
+                    1
+                    2
+                  
+                
+              
+              
+                
+                  
+                    1
+                    2
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|cc}{\frac {1}{2}}+{\frac {\sqrt {3}}{6}}&{\frac {1}{2}}+{\frac {\sqrt {3}}{6}}&0\\{\frac {1}{2}}-{\frac {\sqrt {3}}{6}}&-{\frac {\sqrt {3}}{3}}&{\frac {1}{2}}+{\frac {\sqrt {3}}{6}}\\\hline &{\frac {1}{2}}&{\frac {1}{2}}\\\end{array}}}
+  Crouzeix's three-stage, 4th order Diagonally Implicit Runge–Kutta method:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      1
+                      +
+                      α
+                    
+                    2
+                  
+                
+              
+              
+                
+                  
+                    
+                      1
+                      +
+                      α
+                    
+                    2
+                  
+                
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                
+                  
+                    1
+                    2
+                  
+                
+              
+              
+                −
+                
+                  
+                    α
+                    2
+                  
+                
+              
+              
+                
+                  
+                    
+                      1
+                      +
+                      α
+                    
+                    2
+                  
+                
+              
+              
+                0
+              
+            
+            
+              
+                
+                  
+                    
+                      1
+                      −
+                      α
+                    
+                    2
+                  
+                
+              
+              
+                1
+                +
+                α
+              
+              
+                −
+                (
+                1
+                +
+                2
+                
+                α
+                )
+              
+              
+                
+                  
+                    
+                      1
+                      +
+                      α
+                    
+                    2
+                  
+                
+              
+            
+            
+              
+              
+                
+                  
+                    1
+                    
+                      6
+                      
+                        α
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+              
+              
+                1
+                −
+                
+                  
+                    1
+                    
+                      3
+                      
+                        α
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+              
+              
+                
+                  
+                    1
+                    
+                      6
+                      
+                        α
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|ccc}{\frac {1+\alpha }{2}}&{\frac {1+\alpha }{2}}&0&0\\{\frac {1}{2}}&-{\frac {\alpha }{2}}&{\frac {1+\alpha }{2}}&0\\{\frac {1-\alpha }{2}}&1+\alpha &-(1+2\,\alpha )&{\frac {1+\alpha }{2}}\\\hline &{\frac {1}{6\alpha ^{2}}}&1-{\frac {1}{3\alpha ^{2}}}&{\frac {1}{6\alpha ^{2}}}\\\end{array}}}
+  with 
+  
+    
+      
+        α
+        =
+        
+          
+            2
+            
+              3
+            
+          
+        
+        cos
+        ⁡
+        
+          
+            π
+            18
+          
+        
+      
+    
+    {\textstyle \alpha ={\frac {2}{\sqrt {3}}}\cos {\frac {\pi }{18}}}
+  .
+Three-stage, 3rd order, L-stable Diagonally Implicit Runge–Kutta method:
+
+  
+    
+      
+        
+          
+            
+              
+                x
+              
+              
+                x
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                
+                  
+                    
+                      1
+                      +
+                      x
+                    
+                    2
+                  
+                
+              
+              
+                
+                  
+                    
+                      1
+                      −
+                      x
+                    
+                    2
+                  
+                
+              
+              
+                x
+              
+              
+                0
+              
+            
+            
+              
+                1
+              
+              
+                −
+                3
+                
+                  x
+                  
+                    2
+                  
+                
+                
+                  /
+                
+                2
+                +
+                4
+                x
+                −
+                1
+                
+                  /
+                
+                4
+              
+              
+                3
+                
+                  x
+                  
+                    2
+                  
+                
+                
+                  /
+                
+                2
+                −
+                5
+                x
+                +
+                5
+                
+                  /
+                
+                4
+              
+              
+                x
+              
+            
+            
+              
+              
+                −
+                3
+                
+                  x
+                  
+                    2
+                  
+                
+                
+                  /
+                
+                2
+                +
+                4
+                x
+                −
+                1
+                
+                  /
+                
+                4
+              
+              
+                3
+                
+                  x
+                  
+                    2
+                  
+                
+                
+                  /
+                
+                2
+                −
+                5
+                x
+                +
+                5
+                
+                  /
+                
+                4
+              
+              
+                x
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|ccc}x&x&0&0\\{\frac {1+x}{2}}&{\frac {1-x}{2}}&x&0\\1&-3x^{2}/2+4x-1/4&3x^{2}/2-5x+5/4&x\\\hline &-3x^{2}/2+4x-1/4&3x^{2}/2-5x+5/4&x\\\end{array}}}
+  with 
+  
+    
+      
+        x
+        =
+        0.4358665215
+      
+    
+    {\displaystyle x=0.4358665215}
+  
+Nørsett's three-stage, 4th order Diagonally Implicit Runge–Kutta method has the following Butcher tableau:
+
+  
+    
+      
+        
+          
+            
+              
+                x
+              
+              
+                x
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+                −
+                x
+              
+              
+                x
+              
+              
+                0
+              
+            
+            
+              
+                1
+                −
+                x
+              
+              
+                2
+                x
+              
+              
+                1
+                −
+                4
+                x
+              
+              
+                x
+              
+            
+            
+              
+              
+                
+                  
+                    1
+                    
+                      6
+                      (
+                      1
+                      −
+                      2
+                      x
+                      
+                        )
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      3
+                      (
+                      1
+                      −
+                      2
+                      x
+                      
+                        )
+                        
+                          2
+                        
+                      
+                      −
+                      1
+                    
+                    
+                      3
+                      (
+                      1
+                      −
+                      2
+                      x
+                      
+                        )
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+              
+              
+                
+                  
+                    1
+                    
+                      6
+                      (
+                      1
+                      −
+                      2
+                      x
+                      
+                        )
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|ccc}x&x&0&0\\1/2&1/2-x&x&0\\1-x&2x&1-4x&x\\\hline &{\frac {1}{6(1-2x)^{2}}}&{\frac {3(1-2x)^{2}-1}{3(1-2x)^{2}}}&{\frac {1}{6(1-2x)^{2}}}\\\end{array}}}
+  with 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   one of the three roots of the cubic equation 
+  
+    
+      
+        
+          x
+          
+            3
+          
+        
+        −
+        3
+        
+          x
+          
+            2
+          
+        
+        
+          /
+        
+        2
+        +
+        x
+        
+          /
+        
+        2
+        −
+        1
+        
+          /
+        
+        24
+        =
+        0
+      
+    
+    {\displaystyle x^{3}-3x^{2}/2+x/2-1/24=0}
+  .  The three roots of this cubic equation are approximately 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        =
+        1.06858
+      
+    
+    {\displaystyle x_{1}=1.06858}
+  , 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        =
+        0.30254
+      
+    
+    {\displaystyle x_{2}=0.30254}
+  , and 
+  
+    
+      
+        
+          x
+          
+            3
+          
+        
+        =
+        0.12889
+      
+    
+    {\displaystyle x_{3}=0.12889}
+  .  The root 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+      
+    
+    {\displaystyle x_{1}}
+   gives the best stability properties for initial value problems.
+Four-stage, 3rd order, L-stable Diagonally Implicit Runge–Kutta method
+
+  
+    
+      
+        
+          
+            
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                2
+                
+                  /
+                
+                3
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                −
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                0
+              
+            
+            
+              
+                1
+              
+              
+                3
+                
+                  /
+                
+                2
+              
+              
+                −
+                3
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+            
+            
+              
+              
+                3
+                
+                  /
+                
+                2
+              
+              
+                −
+                3
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|cccc}1/2&1/2&0&0&0\\2/3&1/6&1/2&0&0\\1/2&-1/2&1/2&1/2&0\\1&3/2&-3/2&1/2&1/2\\\hline &3/2&-3/2&1/2&1/2\\\end{array}}}
+
+Lobatto methods
+There are three main families of Lobatto methods, called IIIA, IIIB and IIIC (in classical mathematical literature, the symbols I and II are reserved for two types of Radau methods).  These are named after Rehuel Lobatto as a reference to the Lobatto quadrature rule, but were introduced by Byron L. Ehle in his thesis.  All are implicit methods, have order 2s − 2 and they all have c1 = 0 and cs = 1.  Unlike any explicit method, it's possible for these methods to have the order greater than the number of stages. Lobatto lived before the classic fourth-order method was popularized by Runge and Kutta.
+
+Lobatto IIIA methods
+The Lobatto IIIA methods are collocation methods. The second-order method is known as the trapezoidal rule:
+
+  
+    
+      
+        
+          
+            
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                1
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+            
+            
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+            
+            
+              
+              
+                1
+              
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|cc}0&0&0\\1&1/2&1/2\\\hline &1/2&1/2\\&1&0\\\end{array}}}
+  The fourth-order method is given by
+
+  
+    
+      
+        
+          
+            
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                5
+                
+                  /
+                
+                24
+              
+              
+                1
+                
+                  /
+                
+                3
+              
+              
+                −
+                1
+                
+                  /
+                
+                24
+              
+            
+            
+              
+                1
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+              
+                2
+                
+                  /
+                
+                3
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+            
+            
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+              
+                2
+                
+                  /
+                
+                3
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+            
+            
+              
+              
+                −
+                
+                  
+                    1
+                    2
+                  
+                
+              
+              
+                2
+              
+              
+                −
+                
+                  
+                    1
+                    2
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|ccc}0&0&0&0\\1/2&5/24&1/3&-1/24\\1&1/6&2/3&1/6\\\hline &1/6&2/3&1/6\\&-{\frac {1}{2}}&2&-{\frac {1}{2}}\\\end{array}}}
+  These methods are A-stable, but not L-stable and B-stable.
+
+Lobatto IIIB methods
+The Lobatto IIIB methods are not collocation methods, but they can be viewed as discontinuous collocation methods (Hairer, Lubich & Wanner 2006, §II.1.4). The second-order method is given by
+
+  
+    
+      
+        
+          
+            
+              
+                0
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                0
+              
+            
+            
+              
+                1
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                0
+              
+            
+            
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+            
+            
+              
+              
+                1
+              
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|cc}0&1/2&0\\1&1/2&0\\\hline &1/2&1/2\\&1&0\\\end{array}}}
+  The fourth-order method is given by
+
+  
+    
+      
+        
+          
+            
+              
+                0
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+              
+                −
+                1
+                
+                  /
+                
+                6
+              
+              
+                0
+              
+            
+            
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+              
+                1
+                
+                  /
+                
+                3
+              
+              
+                0
+              
+            
+            
+              
+                1
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+              
+                5
+                
+                  /
+                
+                6
+              
+              
+                0
+              
+            
+            
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+              
+                2
+                
+                  /
+                
+                3
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+            
+            
+              
+              
+                −
+                
+                  
+                    1
+                    2
+                  
+                
+              
+              
+                2
+              
+              
+                −
+                
+                  
+                    1
+                    2
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|ccc}0&1/6&-1/6&0\\1/2&1/6&1/3&0\\1&1/6&5/6&0\\\hline &1/6&2/3&1/6\\&-{\frac {1}{2}}&2&-{\frac {1}{2}}\\\end{array}}}
+  Lobatto IIIB methods are A-stable, but not L-stable and B-stable.
+
+Lobatto IIIC methods
+The Lobatto IIIC methods also are discontinuous collocation methods. The second-order method is given by
+
+  
+    
+      
+        
+          
+            
+              
+                0
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                −
+                1
+                
+                  /
+                
+                2
+              
+            
+            
+              
+                1
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+            
+            
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+            
+            
+              
+              
+                1
+              
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|cc}0&1/2&-1/2\\1&1/2&1/2\\\hline &1/2&1/2\\&1&0\\\end{array}}}
+  The fourth-order method is given by
+
+  
+    
+      
+        
+          
+            
+              
+                0
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+              
+                −
+                1
+                
+                  /
+                
+                3
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+            
+            
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+              
+                5
+                
+                  /
+                
+                12
+              
+              
+                −
+                1
+                
+                  /
+                
+                12
+              
+            
+            
+              
+                1
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+              
+                2
+                
+                  /
+                
+                3
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+            
+            
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+              
+                2
+                
+                  /
+                
+                3
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+            
+            
+              
+              
+                −
+                
+                  
+                    1
+                    2
+                  
+                
+              
+              
+                2
+              
+              
+                −
+                
+                  
+                    1
+                    2
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|ccc}0&1/6&-1/3&1/6\\1/2&1/6&5/12&-1/12\\1&1/6&2/3&1/6\\\hline &1/6&2/3&1/6\\&-{\frac {1}{2}}&2&-{\frac {1}{2}}\\\end{array}}}
+  They are L-stable. They are also algebraically stable and thus B-stable, that makes them suitable for stiff problems.
+
+Lobatto IIIC* methods
+The Lobatto IIIC* methods are also known as Lobatto III methods (Butcher, 2008), Butcher's Lobatto methods (Hairer et al., 1993), and Lobatto IIIC methods (Sun, 2000) in the literature. The second-order method is given by
+
+  
+    
+      
+        
+          
+            
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                1
+              
+              
+                1
+              
+              
+                0
+              
+            
+            
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|cc}0&0&0\\1&1&0\\\hline &1/2&1/2\\\end{array}}}
+  Butcher's three-stage, fourth-order method is given by
+
+  
+    
+      
+        
+          
+            
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+              
+                0
+              
+            
+            
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                4
+              
+              
+                1
+                
+                  /
+                
+                4
+              
+              
+                0
+              
+            
+            
+              
+                1
+              
+              
+                0
+              
+              
+                1
+              
+              
+                0
+              
+            
+            
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+              
+                2
+                
+                  /
+                
+                3
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|ccc}0&0&0&0\\1/2&1/4&1/4&0\\1&0&1&0\\\hline &1/6&2/3&1/6\\\end{array}}}
+  These methods are not A-stable, B-stable or L-stable. The Lobatto IIIC* method for 
+  
+    
+      
+        s
+        =
+        2
+      
+    
+    {\displaystyle s=2}
+   is sometimes called the explicit trapezoidal rule.
+
+Generalized Lobatto methods
+One can consider a very general family of methods with three real parameters 
+  
+    
+      
+        (
+        
+          α
+          
+            A
+          
+        
+        ,
+        
+          α
+          
+            B
+          
+        
+        ,
+        
+          α
+          
+            C
+          
+        
+        )
+      
+    
+    {\displaystyle (\alpha _{A},\alpha _{B},\alpha _{C})}
+   by considering Lobatto coefficients of the form
+
+  
+    
+      
+        
+          a
+          
+            i
+            ,
+            j
+          
+        
+        (
+        
+          α
+          
+            A
+          
+        
+        ,
+        
+          α
+          
+            B
+          
+        
+        ,
+        
+          α
+          
+            C
+          
+        
+        )
+        =
+        
+          α
+          
+            A
+          
+        
+        
+          a
+          
+            i
+            ,
+            j
+          
+          
+            A
+          
+        
+        +
+        
+          α
+          
+            B
+          
+        
+        
+          a
+          
+            i
+            ,
+            j
+          
+          
+            B
+          
+        
+        +
+        
+          α
+          
+            C
+          
+        
+        
+          a
+          
+            i
+            ,
+            j
+          
+          
+            C
+          
+        
+        +
+        
+          α
+          
+            C
+            ∗
+          
+        
+        
+          a
+          
+            i
+            ,
+            j
+          
+          
+            C
+            ∗
+          
+        
+      
+    
+    {\displaystyle a_{i,j}(\alpha _{A},\alpha _{B},\alpha _{C})=\alpha _{A}a_{i,j}^{A}+\alpha _{B}a_{i,j}^{B}+\alpha _{C}a_{i,j}^{C}+\alpha _{C*}a_{i,j}^{C*}}
+  ,where
+
+  
+    
+      
+        
+          α
+          
+            C
+            ∗
+          
+        
+        =
+        1
+        −
+        
+          α
+          
+            A
+          
+        
+        −
+        
+          α
+          
+            B
+          
+        
+        −
+        
+          α
+          
+            C
+          
+        
+      
+    
+    {\displaystyle \alpha _{C*}=1-\alpha _{A}-\alpha _{B}-\alpha _{C}}
+  .For example, Lobatto IIID family introduced in (Nørsett and Wanner, 1981), also called Lobatto IIINW, are given by
+
+  
+    
+      
+        
+          
+            
+              
+                0
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+            
+            
+              
+                1
+              
+              
+                −
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+            
+            
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|cc}0&1/2&1/2\\1&-1/2&1/2\\\hline &1/2&1/2\\\end{array}}}
+  and
+
+  
+    
+      
+        
+          
+            
+              
+                0
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+              
+                0
+              
+              
+                −
+                1
+                
+                  /
+                
+                6
+              
+            
+            
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                12
+              
+              
+                5
+                
+                  /
+                
+                12
+              
+              
+                0
+              
+            
+            
+              
+                1
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                1
+                
+                  /
+                
+                3
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+            
+            
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+              
+                2
+                
+                  /
+                
+                3
+              
+              
+                1
+                
+                  /
+                
+                6
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|ccc}0&1/6&0&-1/6\\1/2&1/12&5/12&0\\1&1/2&1/3&1/6\\\hline &1/6&2/3&1/6\\\end{array}}}
+  These methods correspond to 
+  
+    
+      
+        
+          α
+          
+            A
+          
+        
+        =
+        2
+      
+    
+    {\displaystyle \alpha _{A}=2}
+  , 
+  
+    
+      
+        
+          α
+          
+            B
+          
+        
+        =
+        2
+      
+    
+    {\displaystyle \alpha _{B}=2}
+  , 
+  
+    
+      
+        
+          α
+          
+            C
+          
+        
+        =
+        −
+        1
+      
+    
+    {\displaystyle \alpha _{C}=-1}
+  , and 
+  
+    
+      
+        
+          α
+          
+            C
+            ∗
+          
+        
+        =
+        −
+        2
+      
+    
+    {\displaystyle \alpha _{C*}=-2}
+  .  The methods are L-stable. They are algebraically stable and thus B-stable.
+
+Radau methods
+Radau methods are fully implicit methods (matrix A of such methods can have any structure). Radau methods attain order 2s − 1 for s stages. Radau methods are A-stable, but expensive to implement. Also they can suffer from order reduction.
+The first order Radau method is similar to backward Euler method.
+
+Radau IA methods
+The third-order method is given by
+
+  
+    
+      
+        
+          
+            
+              
+                0
+              
+              
+                1
+                
+                  /
+                
+                4
+              
+              
+                −
+                1
+                
+                  /
+                
+                4
+              
+            
+            
+              
+                2
+                
+                  /
+                
+                3
+              
+              
+                1
+                
+                  /
+                
+                4
+              
+              
+                5
+                
+                  /
+                
+                12
+              
+            
+            
+              
+              
+                1
+                
+                  /
+                
+                4
+              
+              
+                3
+                
+                  /
+                
+                4
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|cc}0&1/4&-1/4\\2/3&1/4&5/12\\\hline &1/4&3/4\\\end{array}}}
+  The fifth-order method is given by
+
+  
+    
+      
+        
+          
+            
+              
+                0
+              
+              
+                
+                  
+                    1
+                    9
+                  
+                
+              
+              
+                
+                  
+                    
+                      −
+                      1
+                      −
+                      
+                        
+                          6
+                        
+                      
+                    
+                    18
+                  
+                
+              
+              
+                
+                  
+                    
+                      −
+                      1
+                      +
+                      
+                        
+                          6
+                        
+                      
+                    
+                    18
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    3
+                    5
+                  
+                
+                −
+                
+                  
+                    
+                      6
+                    
+                    10
+                  
+                
+              
+              
+                
+                  
+                    1
+                    9
+                  
+                
+              
+              
+                
+                  
+                    11
+                    45
+                  
+                
+                +
+                
+                  
+                    
+                      7
+                      
+                        
+                          6
+                        
+                      
+                    
+                    360
+                  
+                
+              
+              
+                
+                  
+                    11
+                    45
+                  
+                
+                −
+                
+                  
+                    
+                      43
+                      
+                        
+                          6
+                        
+                      
+                    
+                    360
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    3
+                    5
+                  
+                
+                +
+                
+                  
+                    
+                      6
+                    
+                    10
+                  
+                
+              
+              
+                
+                  
+                    1
+                    9
+                  
+                
+              
+              
+                
+                  
+                    11
+                    45
+                  
+                
+                +
+                
+                  
+                    
+                      43
+                      
+                        
+                          6
+                        
+                      
+                    
+                    360
+                  
+                
+              
+              
+                
+                  
+                    11
+                    45
+                  
+                
+                −
+                
+                  
+                    
+                      7
+                      
+                        
+                          6
+                        
+                      
+                    
+                    360
+                  
+                
+              
+            
+            
+              
+              
+                
+                  
+                    1
+                    9
+                  
+                
+              
+              
+                
+                  
+                    4
+                    9
+                  
+                
+                +
+                
+                  
+                    
+                      6
+                    
+                    36
+                  
+                
+              
+              
+                
+                  
+                    4
+                    9
+                  
+                
+                −
+                
+                  
+                    
+                      6
+                    
+                    36
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|ccc}0&{\frac {1}{9}}&{\frac {-1-{\sqrt {6}}}{18}}&{\frac {-1+{\sqrt {6}}}{18}}\\{\frac {3}{5}}-{\frac {\sqrt {6}}{10}}&{\frac {1}{9}}&{\frac {11}{45}}+{\frac {7{\sqrt {6}}}{360}}&{\frac {11}{45}}-{\frac {43{\sqrt {6}}}{360}}\\{\frac {3}{5}}+{\frac {\sqrt {6}}{10}}&{\frac {1}{9}}&{\frac {11}{45}}+{\frac {43{\sqrt {6}}}{360}}&{\frac {11}{45}}-{\frac {7{\sqrt {6}}}{360}}\\\hline &{\frac {1}{9}}&{\frac {4}{9}}+{\frac {\sqrt {6}}{36}}&{\frac {4}{9}}-{\frac {\sqrt {6}}{36}}\\\end{array}}}
+
+Radau IIA methods
+The ci of this method are zeros of
+
+  
+    
+      
+        
+          
+            
+              d
+              
+                s
+                −
+                1
+              
+            
+            
+              d
+              
+                x
+                
+                  s
+                  −
+                  1
+                
+              
+            
+          
+        
+        (
+        
+          x
+          
+            s
+            −
+            1
+          
+        
+        (
+        x
+        −
+        1
+        
+          )
+          
+            s
+          
+        
+        )
+      
+    
+    {\displaystyle {\frac {d^{s-1}}{dx^{s-1}}}(x^{s-1}(x-1)^{s})}
+  .The third-order method is given by
+
+  
+    
+      
+        
+          
+            
+              
+                1
+                
+                  /
+                
+                3
+              
+              
+                5
+                
+                  /
+                
+                12
+              
+              
+                −
+                1
+                
+                  /
+                
+                12
+              
+            
+            
+              
+                1
+              
+              
+                3
+                
+                  /
+                
+                4
+              
+              
+                1
+                
+                  /
+                
+                4
+              
+            
+            
+              
+              
+                3
+                
+                  /
+                
+                4
+              
+              
+                1
+                
+                  /
+                
+                4
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|cc}1/3&5/12&-1/12\\1&3/4&1/4\\\hline &3/4&1/4\\\end{array}}}
+  The fifth-order method is given by
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    2
+                    5
+                  
+                
+                −
+                
+                  
+                    
+                      6
+                    
+                    10
+                  
+                
+              
+              
+                
+                  
+                    11
+                    45
+                  
+                
+                −
+                
+                  
+                    
+                      7
+                      
+                        
+                          6
+                        
+                      
+                    
+                    360
+                  
+                
+              
+              
+                
+                  
+                    37
+                    225
+                  
+                
+                −
+                
+                  
+                    
+                      169
+                      
+                        
+                          6
+                        
+                      
+                    
+                    1800
+                  
+                
+              
+              
+                −
+                
+                  
+                    2
+                    225
+                  
+                
+                +
+                
+                  
+                    
+                      6
+                    
+                    75
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    2
+                    5
+                  
+                
+                +
+                
+                  
+                    
+                      6
+                    
+                    10
+                  
+                
+              
+              
+                
+                  
+                    37
+                    225
+                  
+                
+                +
+                
+                  
+                    
+                      169
+                      
+                        
+                          6
+                        
+                      
+                    
+                    1800
+                  
+                
+              
+              
+                
+                  
+                    11
+                    45
+                  
+                
+                +
+                
+                  
+                    
+                      7
+                      
+                        
+                          6
+                        
+                      
+                    
+                    360
+                  
+                
+              
+              
+                −
+                
+                  
+                    2
+                    225
+                  
+                
+                −
+                
+                  
+                    
+                      6
+                    
+                    75
+                  
+                
+              
+            
+            
+              
+                1
+              
+              
+                
+                  
+                    4
+                    9
+                  
+                
+                −
+                
+                  
+                    
+                      6
+                    
+                    36
+                  
+                
+              
+              
+                
+                  
+                    4
+                    9
+                  
+                
+                +
+                
+                  
+                    
+                      6
+                    
+                    36
+                  
+                
+              
+              
+                
+                  
+                    1
+                    9
+                  
+                
+              
+            
+            
+              
+              
+                
+                  
+                    4
+                    9
+                  
+                
+                −
+                
+                  
+                    
+                      6
+                    
+                    36
+                  
+                
+              
+              
+                
+                  
+                    4
+                    9
+                  
+                
+                +
+                
+                  
+                    
+                      6
+                    
+                    36
+                  
+                
+              
+              
+                
+                  
+                    1
+                    9
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{c|ccc}{\frac {2}{5}}-{\frac {\sqrt {6}}{10}}&{\frac {11}{45}}-{\frac {7{\sqrt {6}}}{360}}&{\frac {37}{225}}-{\frac {169{\sqrt {6}}}{1800}}&-{\frac {2}{225}}+{\frac {\sqrt {6}}{75}}\\{\frac {2}{5}}+{\frac {\sqrt {6}}{10}}&{\frac {37}{225}}+{\frac {169{\sqrt {6}}}{1800}}&{\frac {11}{45}}+{\frac {7{\sqrt {6}}}{360}}&-{\frac {2}{225}}-{\frac {\sqrt {6}}{75}}\\1&{\frac {4}{9}}-{\frac {\sqrt {6}}{36}}&{\frac {4}{9}}+{\frac {\sqrt {6}}{36}}&{\frac {1}{9}}\\\hline &{\frac {4}{9}}-{\frac {\sqrt {6}}{36}}&{\frac {4}{9}}+{\frac {\sqrt {6}}{36}}&{\frac {1}{9}}\\\end{array}}}
+
+Notes
+References
+Ehle, Byron L. (1969). On Padé approximations to the exponential function and A-stable methods for the numerical solution of initial value problems (PDF) (Thesis).
+Hairer, Ernst; Nørsett, Syvert Paul; Wanner, Gerhard (1993), Solving ordinary differential equations I: Nonstiff problems, Berlin, New York: Springer-Verlag, ISBN 978-3-540-56670-0.
+Hairer, Ernst; Wanner, Gerhard (1996), Solving ordinary differential equations II: Stiff and differential-algebraic problems, Berlin, New York: Springer-Verlag, ISBN 978-3-540-60452-5.
+Hairer, Ernst; Lubich, Christian; Wanner, Gerhard (2006), Geometric Numerical Integration: Structure-Preserving Algorithms for Ordinary Differential Equations (2nd ed.), Berlin, New York: Springer-Verlag, ISBN 978-3-540-30663-4.

@@ -1,0 +1,11 @@
+In mathematics, p-adic cohomology means a cohomology theory for varieties of characteristic p whose values are modules over a ring of p-adic integers. Examples (in roughly historical order) include:
+
+Serre's Witt vector cohomology
+Monsky–Washnitzer cohomology
+Infinitesimal cohomology
+Crystalline cohomology
+Rigid cohomology
+
+See also
+p-adic Hodge theory
+Étale cohomology, taking values over a ring of l-adic integers for l≠p

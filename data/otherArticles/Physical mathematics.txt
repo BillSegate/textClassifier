@@ -1,0 +1,21 @@
+The subject of physical mathematics is concerned with physically motivated mathematics and is considered by some as a subfield of mathematical physics.
+
+Overview
+According to Margaret Osler the simple machines of Hero of Alexandria and the ray tracing of Alhazen did not refer to causality or forces. Accordingly these early expressions of kinematics and optics do not rise to the level of mathematical physics as practiced by Galileo and Newton.
+The details of physical units and their manipulation were addressed by Alexander Macfarlane in Physical Arithmetic in 1885. The science of kinematics created a need for mathematical representation of motion and has found expression with complex numbers, quaternions, and linear algebra.
+At Cambridge University the Mathematical Tripos tested students on their knowledge of "mixed mathematics". "... [N]ew books which appeared  in the mid-eighteenth century offered a systematic introduction to the fundamental  operations of the fluxional calculus and showed how it could be applied to a wide range of mathematical and physical problems. ... The strongly problem-oriented presentation in the treatises ... made it much easier for university students to master the fluxional calculus and its applications [and] helped define a new field of mixed mathematical studies..."
+An adventurous expression of physical mathematics is found in A Treatise on Electricity and Magnetism which used partial differential equations. The text aspired  to describe phenomena in four dimensions but the  foundation for this physical world, Minkowski space, trailed by forty years.
+String theorist Greg Moore said this about physical mathematics in his vision talk at Strings 2014.
+"The use of the term “Physical Mathematics” in contrast to the more traditional “Mathematical Physics” by myself and others is not meant to detract from the venerable subject of Mathematical Physics but rather to delineate a smaller subfield characterized by questions and goals that are often motivated, on the physics side, by quantum gravity, string theory, and supersymmetry, (and more recently by the notion of topological phases in condensed matter physics), and, on the mathematics side, often involve deep relations to infinite-dimensional Lie algebras (and groups), topology, geometry, and even analytic number theory, in addition to the more traditional relations of physics to algebra, group theory, and analysis."
+
+See also
+Theoretical physics
+Mathematical physics
+
+References
+
+Eric Zaslow, Physmatics, arXiv:physics/0506153
+Arthur Jaffe, Frank Quinn, "Theoretical mathematics: Toward a cultural synthesis of mathematics and theoretical physics", Bulletin of the American Mathematical Society 30: 178-207, 1994, arXiv:math/9307227
+Michael Atiyah et al., "Responses to Theoretical Mathematics: Toward a cultural synthesis of mathematics and theoretical physics, by A. Jaffe and F. Quinn", Bull. Am. Math. Soc. 30: 178-207, 1994, arXiv:math/9404229
+Michael Stöltzner, "Theoretical Mathematics: On the Philosophical Significance of the Jaffe-Quinn Debate", in: The Role of Mathematics in Physical Sciences, pages 197-222, doi:10.1007/1-4020-3107-6_13
+Kevin Hartnett (November 30, 2017) "Secret link discovered between pure math and physics", Quanta Magazine

@@ -1,0 +1,279 @@
+In mathematics, the qualifier pointwise is used to indicate that a certain property is defined by considering each value 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+   of some function 
+  
+    
+      
+        f
+        .
+      
+    
+    {\displaystyle f.}
+   An important class of pointwise concepts are the pointwise operations, that is, operations defined on functions by applying the operations to function values separately for each point in the domain of definition. Important relations can also be defined pointwise.
+
+Pointwise operations
+Formal definition
+A binary operation o: Y × Y → Y on a set Y can be lifted pointwise to an operation O: (X→Y) × (X→Y) → (X→Y) on the set X → Y of all functions from X to Y as follows: Given two functions f1: X → Y and f2: X → Y, define the function O(f1, f2): X → Y by
+
+Commonly, o and O are denoted by the same symbol. A similar definition is used for unary operations o, and for operations of other arity.
+
+Examples
+where 
+  
+    
+      
+        f
+        ,
+        g
+        :
+        X
+        →
+        R
+      
+    
+    {\displaystyle f,g:X\to R}
+  .
+See also pointwise product, and scalar.
+An example of an operation on functions which is not pointwise is convolution.
+
+Properties
+Pointwise operations inherit such properties as associativity, commutativity and distributivity from corresponding operations on the codomain. 
+If 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+    is some algebraic structure, the set of all functions 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   to the carrier set of 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   can be turned into an algebraic structure of the same type in an analogous way.
+
+Componentwise operations
+Componentwise operations are usually defined on vectors, where vectors are elements of the set 
+  
+    
+      
+        
+          K
+          
+            n
+          
+        
+      
+    
+    {\displaystyle K^{n}}
+   for some natural number 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   and some field 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  . If we denote the 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  -th component of any vector 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   as 
+  
+    
+      
+        
+          v
+          
+            i
+          
+        
+      
+    
+    {\displaystyle v_{i}}
+  , then componentwise addition is 
+  
+    
+      
+        (
+        u
+        +
+        v
+        
+          )
+          
+            i
+          
+        
+        =
+        
+          u
+          
+            i
+          
+        
+        +
+        
+          v
+          
+            i
+          
+        
+      
+    
+    {\displaystyle (u+v)_{i}=u_{i}+v_{i}}
+  .
+Componentwise operations can be defined on matrices. Matrix addition, where 
+  
+    
+      
+        (
+        A
+        +
+        B
+        
+          )
+          
+            i
+            j
+          
+        
+        =
+        
+          A
+          
+            i
+            j
+          
+        
+        +
+        
+          B
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle (A+B)_{ij}=A_{ij}+B_{ij}}
+   is a componentwise operation while matrix multiplication is not.
+A tuple can be regarded as a function, and a vector is a tuple. Therefore, any vector 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   corresponds to the function 
+  
+    
+      
+        f
+        :
+        n
+        →
+        K
+      
+    
+    {\displaystyle f:n\to K}
+   such that 
+  
+    
+      
+        f
+        (
+        i
+        )
+        =
+        
+          v
+          
+            i
+          
+        
+      
+    
+    {\displaystyle f(i)=v_{i}}
+  , and any componentwise operation on vectors is the pointwise operation on functions corresponding to those vectors.
+
+Pointwise relations
+In order theory it is common to define a pointwise partial order on functions. With A, B posets, the set of functions A → B can be ordered by f ≤ g if and only if (∀x ∈ A) f(x) ≤ g(x). Pointwise orders also inherit some properties of the underlying posets. For instance if A and B are continuous lattices, then so is the set of functions A → B with pointwise order. Using the pointwise order on functions one can concisely define other important notions, for instance:
+A closure operator c on a poset P is a monotone and idempotent self-map on P (i.e. a projection operator) with the additional property that idA ≤ c, where id is the identity function.
+Similarly, a projection operator k is called a kernel operator if and only if k ≤ idA.An example of an infinitary pointwise relation is pointwise convergence of functions—a sequence of functions
+
+with
+
+converges pointwise to a function 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   if for each 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   in 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+
+Notes
+References
+For order theory examples:
+
+T. S. Blyth, Lattices and Ordered Algebraic Structures, Springer, 2005, ISBN 1-85233-905-5.
+G. Gierz, K. H. Hofmann, K. Keimel, J. D. Lawson, M. Mislove, D. S. Scott: Continuous Lattices and Domains, Cambridge University Press, 2003.This article incorporates material from Pointwise on PlanetMath, which is licensed under the Creative Commons Attribution/Share-Alike License.

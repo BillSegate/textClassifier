@@ -1,0 +1,2116 @@
+In signal processing, the polynomial Wigner–Ville distribution is a quasiprobability distribution that generalizes the Wigner distribution function. It was proposed by Boualem Boashash and Peter O'Shea in 1994.
+
+Introduction
+Many signals in nature and in engineering applications can be modeled as 
+  
+    
+      
+        z
+        (
+        t
+        )
+        =
+        
+          e
+          
+            j
+            2
+            π
+            ϕ
+            (
+            t
+            )
+          
+        
+      
+    
+    {\displaystyle z(t)=e^{j2\pi \phi (t)}}
+  , where 
+  
+    
+      
+        ϕ
+        (
+        t
+        )
+      
+    
+    {\displaystyle \phi (t)}
+   is a polynomial phase and 
+  
+    
+      
+        j
+        =
+        
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle j={\sqrt {-1}}}
+  .
+For example, it is important to detect signals of an arbitrary high-order polynomial phase. However, the conventional Wigner–Ville distribution have the limitation being based on the second-order statistics. Hence, the polynomial Wigner–Ville distribution was proposed as a generalized form of the conventional Wigner–Ville distribution, which is able to deal with signals with nonlinear phase.
+
+Definition
+The polynomial Wigner–Ville distribution 
+  
+    
+      
+        
+          W
+          
+            z
+          
+          
+            g
+          
+        
+        (
+        t
+        ,
+        f
+        )
+      
+    
+    {\displaystyle W_{z}^{g}(t,f)}
+   is defined as
+
+  
+    
+      
+        
+          W
+          
+            z
+          
+          
+            g
+          
+        
+        (
+        t
+        ,
+        f
+        )
+        =
+        
+          
+            
+              F
+            
+          
+          
+            τ
+            →
+            f
+          
+        
+        
+          [
+          
+            
+              K
+              
+                z
+              
+              
+                g
+              
+            
+            (
+            t
+            ,
+            τ
+            )
+          
+          ]
+        
+      
+    
+    {\displaystyle W_{z}^{g}(t,f)={\mathcal {F}}_{\tau \to f}\left[K_{z}^{g}(t,\tau )\right]}
+  where 
+  
+    
+      
+        
+          
+            
+              F
+            
+          
+          
+            τ
+            →
+            f
+          
+        
+      
+    
+    {\displaystyle {\mathcal {F}}_{\tau \to f}}
+   denotes the Fourier transform with respect to 
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+  , and 
+  
+    
+      
+        
+          K
+          
+            z
+          
+          
+            g
+          
+        
+        (
+        t
+        ,
+        τ
+        )
+      
+    
+    {\displaystyle K_{z}^{g}(t,\tau )}
+   is the polynomial kernel given by
+
+  
+    
+      
+        
+          K
+          
+            z
+          
+          
+            g
+          
+        
+        (
+        t
+        ,
+        τ
+        )
+        =
+        
+          ∏
+          
+            k
+            =
+            −
+            
+              
+                q
+                2
+              
+            
+          
+          
+            
+              q
+              2
+            
+          
+        
+        
+          
+            [
+            
+              z
+              
+                (
+                
+                  t
+                  +
+                  
+                    c
+                    
+                      k
+                    
+                  
+                  τ
+                
+                )
+              
+            
+            ]
+          
+          
+            
+              b
+              
+                k
+              
+            
+          
+        
+      
+    
+    {\displaystyle K_{z}^{g}(t,\tau )=\prod _{k=-{\frac {q}{2}}}^{\frac {q}{2}}\left[z\left(t+c_{k}\tau \right)\right]^{b_{k}}}
+  where 
+  
+    
+      
+        z
+        (
+        t
+        )
+      
+    
+    {\displaystyle z(t)}
+   is the input signal and 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+   is an even number.
+The above expression for the kernel may be rewritten in symmetric form as
+
+  
+    
+      
+        
+          K
+          
+            z
+          
+          
+            g
+          
+        
+        (
+        t
+        ,
+        τ
+        )
+        =
+        
+          ∏
+          
+            k
+            =
+            0
+          
+          
+            
+              q
+              2
+            
+          
+        
+        
+          
+            [
+            
+              z
+              
+                (
+                
+                  t
+                  +
+                  
+                    c
+                    
+                      k
+                    
+                  
+                  τ
+                
+                )
+              
+            
+            ]
+          
+          
+            
+              b
+              
+                k
+              
+            
+          
+        
+        
+          
+            [
+            
+              
+                z
+                
+                  ∗
+                
+              
+              
+                (
+                
+                  t
+                  +
+                  
+                    c
+                    
+                      −
+                      k
+                    
+                  
+                  τ
+                
+                )
+              
+            
+            ]
+          
+          
+            −
+            
+              b
+              
+                −
+                k
+              
+            
+          
+        
+      
+    
+    {\displaystyle K_{z}^{g}(t,\tau )=\prod _{k=0}^{\frac {q}{2}}\left[z\left(t+c_{k}\tau \right)\right]^{b_{k}}\left[z^{*}\left(t+c_{-k}\tau \right)\right]^{-b_{-k}}}
+  The discrete-time version of the polynomial Wigner–Ville distribution is given by the discrete Fourier transform of
+
+  
+    
+      
+        
+          K
+          
+            z
+          
+          
+            g
+          
+        
+        (
+        n
+        ,
+        m
+        )
+        =
+        
+          ∏
+          
+            k
+            =
+            0
+          
+          
+            
+              q
+              2
+            
+          
+        
+        
+          
+            [
+            
+              z
+              
+                (
+                
+                  n
+                  +
+                  
+                    c
+                    
+                      k
+                    
+                  
+                  m
+                
+                )
+              
+            
+            ]
+          
+          
+            
+              b
+              
+                k
+              
+            
+          
+        
+        
+          
+            [
+            
+              
+                z
+                
+                  ∗
+                
+              
+              
+                (
+                
+                  n
+                  +
+                  
+                    c
+                    
+                      −
+                      k
+                    
+                  
+                  m
+                
+                )
+              
+            
+            ]
+          
+          
+            −
+            
+              b
+              
+                −
+                k
+              
+            
+          
+        
+      
+    
+    {\displaystyle K_{z}^{g}(n,m)=\prod _{k=0}^{\frac {q}{2}}\left[z\left(n+c_{k}m\right)\right]^{b_{k}}\left[z^{*}\left(n+c_{-k}m\right)\right]^{-b_{-k}}}
+  where 
+  
+    
+      
+        n
+        =
+        t
+        
+          
+            f
+          
+          
+            s
+          
+        
+        ,
+        m
+        =
+        
+          τ
+        
+        
+          
+            f
+          
+          
+            s
+          
+        
+        ,
+      
+    
+    {\displaystyle n=t{f}_{s},m={\tau }{f}_{s},}
+   and 
+  
+    
+      
+        
+          f
+          
+            s
+          
+        
+      
+    
+    {\displaystyle f_{s}}
+   is the sampling frequency.
+The conventional Wigner–Ville distribution is a special case of the polynomial Wigner–Ville distribution with 
+  
+    
+      
+        q
+        =
+        2
+        ,
+        
+          b
+          
+            −
+            1
+          
+        
+        =
+        −
+        1
+        ,
+        
+          b
+          
+            1
+          
+        
+        =
+        1
+        ,
+        
+          b
+          
+            0
+          
+        
+        =
+        0
+        ,
+        
+          c
+          
+            −
+            1
+          
+        
+        =
+        −
+        
+          
+            1
+            2
+          
+        
+        ,
+        
+          c
+          
+            0
+          
+        
+        =
+        0
+        ,
+        
+          c
+          
+            1
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+      
+    
+    {\displaystyle q=2,b_{-1}=-1,b_{1}=1,b_{0}=0,c_{-1}=-{\frac {1}{2}},c_{0}=0,c_{1}={\frac {1}{2}}}
+
+Example
+One of the simplest generalizations of the usual Wigner–Ville distribution kernel can be achieved by taking 
+  
+    
+      
+        q
+        =
+        4
+      
+    
+    {\displaystyle q=4}
+  . The set of coefficients 
+  
+    
+      
+        
+          b
+          
+            k
+          
+        
+      
+    
+    {\displaystyle b_{k}}
+   and 
+  
+    
+      
+        
+          c
+          
+            k
+          
+        
+      
+    
+    {\displaystyle c_{k}}
+   must be found to completely specify the new kernel. For example, we set
+
+  
+    
+      
+        
+          b
+          
+            1
+          
+        
+        =
+        −
+        
+          b
+          
+            −
+            1
+          
+        
+        =
+        2
+        ,
+        
+          b
+          
+            2
+          
+        
+        =
+        
+          b
+          
+            −
+            2
+          
+        
+        =
+        1
+        ,
+        
+          b
+          
+            0
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle b_{1}=-b_{-1}=2,b_{2}=b_{-2}=1,b_{0}=0}
+  
+
+  
+    
+      
+        
+          c
+          
+            1
+          
+        
+        =
+        −
+        
+          c
+          
+            −
+            1
+          
+        
+        =
+        0.675
+        ,
+        
+          c
+          
+            2
+          
+        
+        =
+        −
+        
+          c
+          
+            −
+            2
+          
+        
+        =
+        −
+        0.85
+      
+    
+    {\displaystyle c_{1}=-c_{-1}=0.675,c_{2}=-c_{-2}=-0.85}
+  The resulting discrete-time kernel is then given by
+
+  
+    
+      
+        
+          K
+          
+            z
+          
+          
+            g
+          
+        
+        (
+        n
+        ,
+        m
+        )
+        =
+        
+          
+            [
+            
+              z
+              
+                (
+                
+                  n
+                  +
+                  0.675
+                  m
+                
+                )
+              
+              
+                z
+                
+                  ∗
+                
+              
+              
+                (
+                
+                  n
+                  −
+                  0.675
+                  m
+                
+                )
+              
+            
+            ]
+          
+          
+            2
+          
+        
+        
+          z
+          
+            ∗
+          
+        
+        
+          (
+          
+            n
+            +
+            0.85
+            m
+          
+          )
+        
+        z
+        
+          (
+          
+            n
+            −
+            0.85
+            m
+          
+          )
+        
+      
+    
+    {\displaystyle K_{z}^{g}(n,m)=\left[z\left(n+0.675m\right)z^{*}\left(n-0.675m\right)\right]^{2}z^{*}\left(n+0.85m\right)z\left(n-0.85m\right)}
+
+Design of a Practical Polynomial Kernel
+Given a signal 
+  
+    
+      
+        z
+        (
+        t
+        )
+        =
+        
+          e
+          
+            j
+            2
+            π
+            ϕ
+            (
+            t
+            )
+          
+        
+      
+    
+    {\displaystyle z(t)=e^{j2\pi \phi (t)}}
+  , where 
+  
+    
+      
+        ϕ
+        (
+        t
+        )
+        =
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            p
+          
+        
+        
+          a
+          
+            i
+          
+        
+        
+          t
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \phi (t)=\sum _{i=0}^{p}a_{i}t^{i}}
+  is a polynomial function, its instantaneous frequency (IF) is 
+  
+    
+      
+        
+          ϕ
+          ′
+        
+        (
+        t
+        )
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            p
+          
+        
+        i
+        
+          a
+          
+            i
+          
+        
+        
+          t
+          
+            i
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle \phi '(t)=\sum _{i=1}^{p}ia_{i}t^{i-1}}
+  .
+For a practical polynomial kernel 
+  
+    
+      
+        
+          K
+          
+            z
+          
+          
+            g
+          
+        
+        (
+        t
+        ,
+        τ
+        )
+      
+    
+    {\displaystyle K_{z}^{g}(t,\tau )}
+  , the set of coefficients 
+  
+    
+      
+        q
+        ,
+        
+          b
+          
+            k
+          
+        
+      
+    
+    {\displaystyle q,b_{k}}
+  and 
+  
+    
+      
+        
+          c
+          
+            k
+          
+        
+      
+    
+    {\displaystyle c_{k}}
+  should be chosen properly such that
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  K
+                  
+                    z
+                  
+                  
+                    g
+                  
+                
+                (
+                t
+                ,
+                τ
+                )
+              
+              
+                
+                =
+                
+                  ∏
+                  
+                    k
+                    =
+                    0
+                  
+                  
+                    
+                      q
+                      2
+                    
+                  
+                
+                
+                  
+                    [
+                    
+                      z
+                      
+                        (
+                        
+                          t
+                          +
+                          
+                            c
+                            
+                              k
+                            
+                          
+                          τ
+                        
+                        )
+                      
+                    
+                    ]
+                  
+                  
+                    
+                      b
+                      
+                        k
+                      
+                    
+                  
+                
+                
+                  
+                    [
+                    
+                      
+                        z
+                        
+                          ∗
+                        
+                      
+                      
+                        (
+                        
+                          t
+                          +
+                          
+                            c
+                            
+                              −
+                              k
+                            
+                          
+                          τ
+                        
+                        )
+                      
+                    
+                    ]
+                  
+                  
+                    −
+                    
+                      b
+                      
+                        −
+                        k
+                      
+                    
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                exp
+                ⁡
+                (
+                j
+                2
+                π
+                
+                  ∑
+                  
+                    i
+                    =
+                    1
+                  
+                  
+                    p
+                  
+                
+                i
+                
+                  a
+                  
+                    i
+                  
+                
+                
+                  t
+                  
+                    i
+                    −
+                    1
+                  
+                
+                τ
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}K_{z}^{g}(t,\tau )&=\prod _{k=0}^{\frac {q}{2}}\left[z\left(t+c_{k}\tau \right)\right]^{b_{k}}\left[z^{*}\left(t+c_{-k}\tau \right)\right]^{-b_{-k}}\\&=\exp(j2\pi \sum _{i=1}^{p}ia_{i}t^{i-1}\tau )\end{aligned}}}
+  
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  W
+                  
+                    z
+                  
+                  
+                    g
+                  
+                
+                (
+                t
+                ,
+                f
+                )
+              
+              
+                
+                =
+                
+                  ∫
+                  
+                    −
+                    ∞
+                  
+                  
+                    ∞
+                  
+                
+                exp
+                ⁡
+                (
+                −
+                j
+                2
+                π
+                (
+                f
+                −
+                
+                  ∑
+                  
+                    i
+                    =
+                    1
+                  
+                  
+                    p
+                  
+                
+                i
+                
+                  a
+                  
+                    i
+                  
+                
+                
+                  t
+                  
+                    i
+                    −
+                    1
+                  
+                
+                )
+                τ
+                )
+                d
+                τ
+              
+            
+            
+              
+              
+                
+                ≅
+                δ
+                (
+                f
+                −
+                
+                  ∑
+                  
+                    i
+                    =
+                    1
+                  
+                  
+                    p
+                  
+                
+                i
+                
+                  a
+                  
+                    i
+                  
+                
+                
+                  t
+                  
+                    i
+                    −
+                    1
+                  
+                
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}W_{z}^{g}(t,f)&=\int _{-\infty }^{\infty }\exp(-j2\pi (f-\sum _{i=1}^{p}ia_{i}t^{i-1})\tau )d\tau \\&\cong \delta (f-\sum _{i=1}^{p}ia_{i}t^{i-1})\end{aligned}}}
+  When 
+  
+    
+      
+        q
+        =
+        2
+        ,
+        
+          b
+          
+            −
+            1
+          
+        
+        =
+        −
+        1
+        ,
+        
+          b
+          
+            0
+          
+        
+        =
+        0
+        ,
+        
+          b
+          
+            1
+          
+        
+        =
+        1
+        ,
+        p
+        =
+        2
+      
+    
+    {\displaystyle q=2,b_{-1}=-1,b_{0}=0,b_{1}=1,p=2}
+  ,
+  
+    
+      
+        z
+        
+          (
+          
+            t
+            +
+            
+              c
+              
+                1
+              
+            
+            τ
+          
+          )
+        
+        
+          z
+          
+            ∗
+          
+        
+        
+          (
+          
+            t
+            +
+            
+              c
+              
+                −
+                1
+              
+            
+            τ
+          
+          )
+        
+        =
+        exp
+        ⁡
+        (
+        j
+        2
+        π
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            2
+          
+        
+        i
+        
+          a
+          
+            i
+          
+        
+        
+          t
+          
+            i
+            −
+            1
+          
+        
+        τ
+        )
+      
+    
+    {\displaystyle z\left(t+c_{1}\tau \right)z^{*}\left(t+c_{-1}\tau \right)=\exp(j2\pi \sum _{i=1}^{2}ia_{i}t^{i-1}\tau )}
+  
+
+  
+    
+      
+        
+          a
+          
+            2
+          
+        
+        (
+        t
+        +
+        
+          c
+          
+            1
+          
+        
+        
+          )
+          
+            2
+          
+        
+        +
+        
+          a
+          
+            1
+          
+        
+        (
+        t
+        +
+        
+          c
+          
+            1
+          
+        
+        )
+        −
+        
+          a
+          
+            2
+          
+        
+        (
+        t
+        +
+        
+          c
+          
+            −
+            1
+          
+        
+        
+          )
+          
+            2
+          
+        
+        −
+        
+          a
+          
+            1
+          
+        
+        (
+        t
+        +
+        
+          c
+          
+            −
+            1
+          
+        
+        )
+        =
+        2
+        
+          a
+          
+            2
+          
+        
+        t
+        τ
+        +
+        
+          a
+          
+            1
+          
+        
+        τ
+      
+    
+    {\displaystyle a_{2}(t+c_{1})^{2}+a_{1}(t+c_{1})-a_{2}(t+c_{-1})^{2}-a_{1}(t+c_{-1})=2a_{2}t\tau +a_{1}\tau }
+  
+
+  
+    
+      
+        ⇒
+        
+          c
+          
+            1
+          
+        
+        −
+        
+          c
+          
+            −
+            1
+          
+        
+        =
+        1
+        ,
+        
+          c
+          
+            1
+          
+        
+        +
+        
+          c
+          
+            −
+            1
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \Rightarrow c_{1}-c_{-1}=1,c_{1}+c_{-1}=0}
+  
+
+  
+    
+      
+        ⇒
+        
+          c
+          
+            1
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        ,
+        
+          c
+          
+            −
+            1
+          
+        
+        =
+        −
+        
+          
+            1
+            2
+          
+        
+      
+    
+    {\displaystyle \Rightarrow c_{1}={\frac {1}{2}},c_{-1}=-{\frac {1}{2}}}
+  When 
+  
+    
+      
+        q
+        =
+        4
+        ,
+        
+          b
+          
+            −
+            2
+          
+        
+        =
+        
+          b
+          
+            −
+            1
+          
+        
+        =
+        −
+        1
+        ,
+        
+          b
+          
+            0
+          
+        
+        =
+        0
+        ,
+        
+          b
+          
+            2
+          
+        
+        =
+        
+          b
+          
+            1
+          
+        
+        =
+        1
+        ,
+        p
+        =
+        3
+      
+    
+    {\displaystyle q=4,b_{-2}=b_{-1}=-1,b_{0}=0,b_{2}=b_{1}=1,p=3}
+  
+  
+    
+      
+        
+          
+            
+              
+              
+                
+                  a
+                  
+                    3
+                  
+                
+                (
+                t
+                +
+                
+                  c
+                  
+                    1
+                  
+                
+                
+                  )
+                  
+                    3
+                  
+                
+                +
+                
+                  a
+                  
+                    2
+                  
+                
+                (
+                t
+                +
+                
+                  c
+                  
+                    1
+                  
+                
+                
+                  )
+                  
+                    2
+                  
+                
+                +
+                
+                  a
+                  
+                    1
+                  
+                
+                (
+                t
+                +
+                
+                  c
+                  
+                    1
+                  
+                
+                )
+              
+            
+            
+              
+              
+                
+                  a
+                  
+                    3
+                  
+                
+                (
+                t
+                +
+                
+                  c
+                  
+                    2
+                  
+                
+                
+                  )
+                  
+                    3
+                  
+                
+                +
+                
+                  a
+                  
+                    2
+                  
+                
+                (
+                t
+                +
+                
+                  c
+                  
+                    2
+                  
+                
+                
+                  )
+                  
+                    2
+                  
+                
+                +
+                
+                  a
+                  
+                    1
+                  
+                
+                (
+                t
+                +
+                
+                  c
+                  
+                    2
+                  
+                
+                )
+              
+            
+            
+              
+              
+                
+                −
+                
+                  a
+                  
+                    3
+                  
+                
+                (
+                t
+                +
+                
+                  c
+                  
+                    −
+                    1
+                  
+                
+                
+                  )
+                  
+                    3
+                  
+                
+                −
+                
+                  a
+                  
+                    2
+                  
+                
+                (
+                t
+                +
+                
+                  c
+                  
+                    −
+                    1
+                  
+                
+                
+                  )
+                  
+                    2
+                  
+                
+                −
+                
+                  a
+                  
+                    1
+                  
+                
+                (
+                t
+                +
+                
+                  c
+                  
+                    −
+                    1
+                  
+                
+                )
+              
+            
+            
+              
+              
+                
+                −
+                
+                  a
+                  
+                    3
+                  
+                
+                (
+                t
+                +
+                
+                  c
+                  
+                    −
+                    2
+                  
+                
+                
+                  )
+                  
+                    3
+                  
+                
+                −
+                
+                  a
+                  
+                    2
+                  
+                
+                (
+                t
+                +
+                
+                  c
+                  
+                    −
+                    2
+                  
+                
+                
+                  )
+                  
+                    2
+                  
+                
+                −
+                
+                  a
+                  
+                    1
+                  
+                
+                (
+                t
+                +
+                
+                  c
+                  
+                    −
+                    2
+                  
+                
+                )
+              
+            
+            
+              
+              
+                
+                =
+                3
+                
+                  a
+                  
+                    3
+                  
+                
+                
+                  t
+                  
+                    2
+                  
+                
+                τ
+                +
+                2
+                
+                  a
+                  
+                    2
+                  
+                
+                t
+                τ
+                +
+                
+                  a
+                  
+                    1
+                  
+                
+                τ
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}&a_{3}(t+c_{1})^{3}+a_{2}(t+c_{1})^{2}+a_{1}(t+c_{1})\\&a_{3}(t+c_{2})^{3}+a_{2}(t+c_{2})^{2}+a_{1}(t+c_{2})\\&-a_{3}(t+c_{-1})^{3}-a_{2}(t+c_{-1})^{2}-a_{1}(t+c_{-1})\\&-a_{3}(t+c_{-2})^{3}-a_{2}(t+c_{-2})^{2}-a_{1}(t+c_{-2})\\&=3a_{3}t^{2}\tau +2a_{2}t\tau +a_{1}\tau \end{aligned}}}
+  
+
+  
+    
+      
+        ⇒
+        
+          
+            {
+            
+              
+                
+                  
+                    c
+                    
+                      1
+                    
+                  
+                  +
+                  
+                    c
+                    
+                      2
+                    
+                  
+                  −
+                  
+                    c
+                    
+                      −
+                      1
+                    
+                  
+                  −
+                  
+                    c
+                    
+                      −
+                      2
+                    
+                  
+                  =
+                  1
+                
+              
+              
+                
+                  
+                    c
+                    
+                      1
+                    
+                    
+                      2
+                    
+                  
+                  +
+                  
+                    c
+                    
+                      2
+                    
+                    
+                      2
+                    
+                  
+                  −
+                  
+                    c
+                    
+                      −
+                      1
+                    
+                    
+                      2
+                    
+                  
+                  −
+                  
+                    c
+                    
+                      −
+                      2
+                    
+                    
+                      2
+                    
+                  
+                  =
+                  0
+                
+              
+              
+                
+                  
+                    c
+                    
+                      1
+                    
+                    
+                      3
+                    
+                  
+                  +
+                  
+                    c
+                    
+                      2
+                    
+                    
+                      3
+                    
+                  
+                  −
+                  
+                    c
+                    
+                      −
+                      1
+                    
+                    
+                      3
+                    
+                  
+                  −
+                  
+                    c
+                    
+                      −
+                      2
+                    
+                    
+                      3
+                    
+                  
+                  =
+                  0
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle \Rightarrow {\begin{cases}c_{1}+c_{2}-c_{-1}-c_{-2}=1\\c_{1}^{2}+c_{2}^{2}-c_{-1}^{2}-c_{-2}^{2}=0\\c_{1}^{3}+c_{2}^{3}-c_{-1}^{3}-c_{-2}^{3}=0\end{cases}}}
+
+Applications
+Nonlinear FM signals are common both in nature and in engineering applications. For example, the sonar system of some bats use hyperbolic FM and quadratic FM signals for echo location. In radar, certain pulse-compression schemes employ linear FM and quadratic signals. The Wigner–Ville distribution has optimal concentration in the time-frequency plane for linear frequency modulated signals. However, for nonlinear frequency modulated signals, optimal concentration is not obtained, and smeared spectral representations result. The polynomial Wigner–Ville distribution can be designed to cope with such problem.
+
+References
+Boashash, B.; O'Shea, P. (1994). "Polynomial Wigner-Ville distributions and their relationship to time-varying higher order spectra" (PDF). IEEE Transactions on Signal Processing. 42 (1): 216–220. Bibcode:1994ITSP...42..216B. doi:10.1109/78.258143. ISSN 1053-587X.
+Luk, Franklin T.; Benidir, Messaoud; Boashash, Boualem (June 1995). Polynomial Wigner-Ville distributions. SPIE Proceedings. Proceedings. Vol. 2563. San Diego, CA. pp. 69–79. doi:10.1117/12.211426. ISSN 0277-786X.
+“Polynomial Wigner–Ville distributions and time-varying higher spectra,” in Proc. Time-Freq. Time-Scale Anal., Victoria, B.C., Canada, Oct. 1992, pp. 31–34.

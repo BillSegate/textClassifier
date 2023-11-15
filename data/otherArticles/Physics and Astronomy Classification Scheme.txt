@@ -1,0 +1,17 @@
+The Physics and Astronomy Classification Scheme (PACS) is a scheme developed in 1970 by the American Institute of Physics (AIP) for classifying scientific literature using a hierarchical set of codes. PACS has been used by over 160 international journals, including the Physical Review series since 1975. Since 2016, American Physical Society introduced the PhySH (Physics Subject Headings) system instead of PACS.
+
+Discontinuation
+AIP has announced that PACS 2010 will be the final version, but it will continue to be available through their website. The decision was made to discontinue PACS, owing to the administrative complexity of the revision process and its future viability in light of changing technological and research trends. However, PACS is still in use by scientific journals.In association with Access Innovations, Inc., the AIP has developed a new "AIP Thesaurus", which it states will enable faster, more accurate and more efficient searches.
+
+See also
+Mathematics Subject Classification (MSC)
+Computing Classification System (CCS)
+PhySH (Physics Subject Headings)
+
+References
+External links
+https://journals.aps.org/PACS PACS
+https://web.archive.org/web/20070826124822/http://www.aip.org/pacs/Information on PACS
+https://web.archive.org/web/20171201041118/https://publishing.aip.org/publishing/pacs/pacs-2010-regular-editionPACS 2010
+"PACS 2010". Archived from the original on 2019-02-02. Retrieved 2019-02-01.
+"PACS 2010 alpha".

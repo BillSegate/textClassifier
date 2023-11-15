@@ -1,0 +1,48 @@
+The timeline of discovery of Solar System planets and their natural satellites charts the progress of the discovery of new bodies over history. Each object is listed in chronological order of its discovery (multiple dates occur when the moments of imaging, observation, and publication differ), identified through its various designations (including temporary and permanent schemes), and the discoverer(s) listed.
+Historically the naming of moons did not always match the times of their discovery. Traditionally, the discoverer enjoys the privilege of naming the new object; however, some neglected to do so (E. E. Barnard stated he would "defer any suggestions as to a name" [for Amalthea] "until a later paper" but never got around to picking one from the numerous suggestions he received) or actively declined (S. B. Nicholson stated "Many have asked what the new satellites [Lysithea and Carme] are to be named. They will be known only by the numbers X and XI, written in Roman numerals, and usually prefixed by the letter J to identify them with Jupiter."). The issue arose nearly as soon as planetary satellites were discovered: Galileo referred to the four main satellites of Jupiter using numbers while the names suggested by his rival Simon Marius gradually gained universal acceptance. The International Astronomical Union (IAU) eventually started officially approving names in the late 1970s. With the explosion of discoveries in the 21st century, new moons have once again started to be left unnamed even after their numbering, beginning with Jupiter LI and Jupiter LII in 2010.
+
+Key info
+In the following tables, planetary satellites are indicated in bold type (e.g. Moon) while planets and dwarf planets, which directly circle the Sun, are in italic type (e.g. Earth). The Sun itself is indicated in roman type. The tables are sorted by publication/announcement date. Dates are annotated with the following symbols:
+
+i: for date of first imaging (photography, etc.);
+o: for date of first human visual observation, either through telescope or on photographic plate;
+p: for date of announcement or publication.In a few cases, the date is uncertain and is then marked "(?)".
+* Note: Moons marked by an asterisk (*) had complicated discoveries. Some took years to be confirmed, and in several cases were actually lost and rediscovered. Others were found in Voyager photographs years after they were taken.
+
+Color legendThe Sun, the planets, dwarf planets, and their natural satellites are marked in the following colors:
+
+It is not known precisely how many objects in the Solar System are dwarf planets; the nine objects listed in the third column are those agreed on by most astronomers, corresponding to a threshold of about 900 km diameter. There may be more; here, all objects with estimated diameter over 700 km are included as dwarf planet candidates, listed in the fourth column. In particular, Salacia and Varda each have a rather large moon, and current estimates for their densities still leave open the possibility that they are dwarf planets.
+
+DesignationsOther designations are synonyms or periphrases sometimes encountered for the object.
+Permanent designations (of planetary satellites) are explained here.
+Temporary designations are explained here.If a satellite is named, its name is bolded; if it is unnamed, but has a permanent designation, then its permanent designation is bolded; and if it has neither, then its temporary designation is bolded.
+
+Prehistorically discovered
+17th century
+The numbering of Saturn's moons was adjusted with each new discovery until 1848, in order to continue reflecting their order from their parent planet.
+
+18th century
+The numbering of Titania and Oberon underwent some confusion, because in 1797, Herschel reported four more satellites of Uranus that turned out not to exist. Before any more Uranian moons were discovered, William Lassell sometimes adopted Herschel's numbers where Titania and Oberon are respectively Uranus II and IV, and sometimes called them respectively Uranus I and II. After he discovered Ariel and Umbriel in 1851, Lassell numbered the four real Uranian satellites then known outward from their parent planet as I (Ariel), II (Umbriel), III (Titania), and IV (Oberon), and this finally stuck.
+
+19th century
+The discovery of Amalthea marks the first time the Roman numerals were not adjusted with the discovery of a new satellite; from then on they reflected order of discovery rather than distance from the parent planet.
+
+20th century
+1901–1950
+1951–2000
+21st century
+2000s
+2010s
+2020s
+See also
+Timeline of Solar System astronomy
+Timeline of Solar System exploration
+Lists of astronomical objects
+Solar System
+
+References
+External links
+City of Hudson's Natural Satellite Page
+Scott Sheppard's Giant Planet Satellite Page
+JPL Natural Satellite Discovery Data
+James L. Hilton, When did the asteroids become minor planets?

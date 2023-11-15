@@ -1,0 +1,11 @@
+In Information theory, outage probability of a communication channel is the probability that a given information rate is not supported, because of variable channel capacity. Outage probability is defined as the probability that information rate is less than the required threshold information rate. It is the probability that an outage will occur within a specified time period.
+
+Slow-fading channel
+For example, the channel capacity for slow-fading channel is C = log2(1 + h2 SNR), where h is the fading coefficient and SNR is a signal to noise ratio without fading.  As C is random, no constant rate is available. There may be a chance that information rate may go below to required threshold level. For slow fading channel, outage probability = P(C < r) = P(log2(1 + h2 SNR) < r), where r is the required threshold information rate.
+
+See also
+Shannon–Hartley theorem
+Fading channel
+
+
+== References ==

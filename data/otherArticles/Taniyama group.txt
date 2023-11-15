@@ -1,0 +1,5 @@
+In mathematics, the Taniyama group is a group that is an extension of the absolute Galois group of the rationals by the Serre group. It was introduced by Langlands (1977) using an observation by Deligne, and named after Yutaka Taniyama. It was intended to be the group scheme whose representations correspond to the (hypothetical) CM motives over the field Q of rational numbers.
+
+References
+Deligne, Pierre; Milne, James S.; Ogus, Arthur; Shih, Kuang-yen (1982), "Langlands's Construction of the Taniyama Group", Hodge cycles, motives, and Shimura varieties. (PDF), Lecture Notes in Mathematics, vol. 900, Berlin-New York: Springer-Verlag, doi:10.1007/978-3-540-38955-2_14, ISBN 3-540-11174-3, MR 0654325
+Langlands, R. P. (1977), "Automorphic representations, Shimura varieties, and motives. Ein Märchen", Automorphic forms, representations and L-functions, Proc. Sympos. Pure Math., vol. 33, pp. 205–246, ISBN 0-8218-1437-0, MR 0546619

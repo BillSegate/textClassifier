@@ -1,0 +1,327 @@
+In mathematics, the Champernowne constant C10 is a transcendental real constant whose decimal expansion has important properties.  It is named after economist and mathematician D. G. Champernowne, who published it as an undergraduate in 1933.For base 10, the number is defined by concatenating representations of successive integers:
+
+C10 = 0.12345678910111213141516…  (sequence A033307 in the OEIS).Champernowne constants can also be constructed in other bases, similarly, for example:
+
+C2 = 0.11011100101110111… 2
+C3 = 0.12101112202122… 3.The Champernowne word or Barbier word is the sequence of digits of C10 obtained by writing it in base 10 and juxtaposing the digits:
+ 12345678910111213141516...  (sequence A007376 in the OEIS)More generally, a Champernowne sequence (sometimes also called a Champernowne word) is any sequence of digits obtained by concatenating all finite digit-strings (in any given base) in some recursive order.
+For instance, the binary Champernowne sequence in shortlex order is
+
+0 1 00 01 10 11 000 001 ... (sequence A076478 in the OEIS)where spaces (otherwise to be ignored) have been inserted just to show the strings being concatenated.
+
+Properties
+A real number x is said to be normal if its digits in every base follow a uniform distribution: all digits being equally likely, all pairs of digits equally likely, all triplets of digits equally likely, etc. x is said to be normal in base b if its digits in base b follow a uniform distribution.
+If we denote a digit string as [a0, a1, …], then, in base 10, we would expect strings [0], [1], [2], …, [9] to occur 1/10 of the time, strings [0,0], [0,1], …, [9,8], [9,9] to occur 1/100 of the time, and so on, in a normal number.
+Champernowne proved that 
+  
+    
+      
+        
+          C
+          
+            10
+          
+        
+      
+    
+    {\displaystyle C_{10}}
+   is normal in base 10, while Nakai and Shiokawa proved a more general theorem, a corollary of which is that 
+  
+    
+      
+        
+          C
+          
+            b
+          
+        
+      
+    
+    {\displaystyle C_{b}}
+   is normal in base 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   for any b. It is an open problem whether 
+  
+    
+      
+        
+          C
+          
+            k
+          
+        
+      
+    
+    {\displaystyle C_{k}}
+   is normal in bases 
+  
+    
+      
+        b
+        ≠
+        k
+      
+    
+    {\displaystyle b\neq k}
+  .
+Kurt Mahler showed that the constant is transcendental.
+The irrationality measure of 
+  
+    
+      
+        
+          C
+          
+            10
+          
+        
+      
+    
+    {\displaystyle C_{10}}
+   is 
+  
+    
+      
+        μ
+        (
+        
+          C
+          
+            10
+          
+        
+        )
+        =
+        10
+      
+    
+    {\displaystyle \mu (C_{10})=10}
+  , and more generally 
+  
+    
+      
+        μ
+        (
+        
+          C
+          
+            b
+          
+        
+        )
+        =
+        b
+      
+    
+    {\displaystyle \mu (C_{b})=b}
+   for any base 
+  
+    
+      
+        b
+        ≥
+        2
+      
+    
+    {\displaystyle b\geq 2}
+  .The Champernowne word is a disjunctive sequence.
+
+Series
+The definition of the Champernowne constant immediately gives rise to an infinite series representation involving a double sum,
+ 
+where 
+  
+    
+      
+        
+          δ
+          
+            10
+          
+        
+        (
+        n
+        )
+        =
+        9
+        
+          ∑
+          
+            ℓ
+            =
+            1
+          
+          
+            n
+            −
+            1
+          
+        
+        
+          10
+          
+            ℓ
+            −
+            1
+          
+        
+        ℓ
+      
+    
+    {\displaystyle \delta _{10}(n)=9\sum _{\ell =1}^{n-1}10^{\ell -1}\ell }
+   is the number of digits between the decimal point and the first contribution from an n-digit base-10 number; these expressions generalize to an arbitrary base b by replacing 10 and 9 with b and b − 1 respectively. Alternative forms are
+
+and
+
+where 
+  
+    
+      
+        ⌊
+        x
+        ⌋
+      
+    
+    {\displaystyle \lfloor x\rfloor }
+   and 
+  
+    
+      
+        ⌈
+        x
+        ⌉
+      
+    
+    {\displaystyle \lceil x\rceil }
+   denote the floor and ceiling functions.Returning to the first of these series, both the summand of the outer sum and the expression for 
+  
+    
+      
+        
+          δ
+          
+            b
+          
+        
+        (
+        n
+        )
+      
+    
+    {\displaystyle \delta _{b}(n)}
+   can be simplified using the closed form for the two-dimensional geometric series:
+
+The resulting expression for 
+  
+    
+      
+        
+          δ
+          
+            b
+          
+        
+        (
+        n
+        )
+      
+    
+    {\displaystyle \delta _{b}(n)}
+   is
+
+while the summand of the outer sum becomes
+
+Summing over all n ≥ 1 gives
+
+Observe that in the summand, the expression in parentheses is approximately 
+  
+    
+      
+        
+          
+            
+              b
+              −
+              1
+            
+            b
+          
+        
+      
+    
+    {\displaystyle {\frac {b-1}{b}}}
+   for n ≥ 2 and rapidly approaches that value as n grows, while the exponent 
+  
+    
+      
+        
+          δ
+          
+            b
+          
+        
+        (
+        n
+        +
+        1
+        )
+      
+    
+    {\displaystyle \delta _{b}(n+1)}
+   grows exponentially with n. As a consequence, each additional term provides an exponentially growing number of correct digits even though the number of digits in the numerators and denominators of the fractions comprising these terms grows only linearly. For example, the first few terms of C10 are
+
+Continued fraction expansion
+The simple continued fraction expansion of Champernowne's constant does not terminate (because the constant is not rational) and is aperiodic (because it is not an irreducible quadratic). It exhibits extremely large terms appearing between many small ones. For example, in base 10,
+
+C10 = [0; 8, 9, 1, 149083, 1, 1, 1, 4, 1, 1, 1, 3, 4, 1, 1, 1, 15, 4 57540 11139 10310 76483 64662 82429 56118 59960 39397 10457 55500 06620 04393 09026 26592 56314 93795 32077 47128 65631 38641 20937 55035 52094 60718 30899 84575 80146 98631 48833 59214 17830 10987, 6, 1, 1, ...]. (sequence A030167 in the OEIS)The large number at position 18 has 166 digits, and the next very large term at position 40 of the continued fraction has 2504 digits. That there are such large numbers as terms of the continued fraction expansion means that the convergents obtained by stopping before these large numbers provide an exceptionally good approximation of the Champernowne constant. For example, truncating just before the 4th partial quotient, gives 
+
+which matches the first term in the rapidly converging series expansion of the previous section and which approximates Champernowne's constant with an error of about 1 × 10−9. Truncating just before the 18th partial quotient gives an approximation that matches the first two terms of the series, that is, the terms up to the term containing 10−9,
+
+which approximates Champernowne's constant with error approximately 9 × 10−190.
+The first and second incrementally largest terms ("high-water marks") after the initial zero are 8 and 9, respectively, and occur at positions 1 and 2. Sikora (2012) noticed that the number of digits in the high-water marks starting with the fourth display an apparent pattern. Indeed, the high-water marks themselves grow doubly-exponentially, and the number of digits 
+  
+    
+      
+        
+          d
+          
+            n
+          
+        
+      
+    
+    {\displaystyle d_{n}}
+   in the nth mark for 
+  
+    
+      
+        n
+        ⩾
+        3
+      
+    
+    {\displaystyle n\geqslant 3}
+   are
+
+6, 166, 2504, 33102, 411100, 4911098, 57111096, 651111094, 7311111092, ...whose pattern becomes obvious starting with the 6th high-water mark. The number of terms can be given by
+
+However, it is still unknown as to whether or not there is a way to determine where the large terms (with at least 6 digits) occur, or their values. The high-water marks themselves are located at positions
+
+1, 2, 4, 18, 40, 162, 526, 1708, 4838, 13522, 34062, .... (sequence A143533 in the OEIS)
+
+See also
+Copeland–Erdős constant, a similar normal number, defined using the prime numbers
+Liouville's constant, another constant defined by its decimal representation
+Smarandache–Wellin number, another number obtained through concatenation a representation in a given base.
+
+References
+
+Cassaigne, J.; Nicolas, F. (2010). "Factor complexity". In Berthé, Valérie; Rigo, Michel (eds.). Combinatorics, automata, and number theory. Encyclopedia of Mathematics and its Applications. Vol. 135. Cambridge: Cambridge University Press. pp. 163–247. ISBN 978-0-521-51597-9. Zbl 1216.68204.
+Champernowne, D. G. (1933), "The construction of decimals normal in the scale of ten", Journal of the London Mathematical Society, 8 (4): 254–260, doi:10.1112/jlms/s1-8.4.254.
+Nakai, Y.; Shiokawa, I. (1992), "Discrepancy estimates for a class of normal numbers", Acta Arithmetica, 62 (3): 271–284, doi:10.4064/aa-62-3-271-284.

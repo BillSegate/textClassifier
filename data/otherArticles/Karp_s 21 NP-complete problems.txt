@@ -1,0 +1,38 @@
+In computational complexity theory, Karp's 21 NP-complete problems are a set of computational problems which are NP-complete. In his 1972 paper, "Reducibility Among Combinatorial Problems",  Richard Karp used Stephen Cook's 1971 theorem that the boolean satisfiability problem is NP-complete (also called the Cook-Levin theorem) to show that there is a polynomial time many-one reduction from the boolean satisfiability problem to each of 21 combinatorial and graph theoretical computational problems, thereby showing that they are all NP-complete. This was one of the first demonstrations that many natural computational problems occurring throughout computer science are computationally intractable, and it drove interest in the study of NP-completeness and the P versus NP problem.
+
+The problems
+Karp's 21 problems are shown below, many with their original names. The nesting indicates the direction of the reductions used. For example, Knapsack was shown to be NP-complete by reducing Exact cover to Knapsack.
+
+Satisfiability: the boolean satisfiability problem for formulas in conjunctive normal form (often referred to as SAT)
+0–1 integer programming (A variation in which only the restrictions must be satisfied, with no optimization)
+Clique (see also independent set problem)
+Set packing
+Vertex cover
+Set covering
+Feedback node set
+Feedback arc set
+Directed Hamilton circuit (Karp's name, now usually called Directed Hamiltonian cycle)
+Undirected Hamilton circuit (Karp's name, now usually called Undirected Hamiltonian cycle)
+Satisfiability with at most 3 literals per clause (equivalent to 3-SAT)
+Chromatic number (also called the Graph Coloring Problem)
+Clique cover
+Exact cover
+Hitting set
+Steiner tree
+3-dimensional matching
+Knapsack (Karp's definition of Knapsack is closer to Subset sum)
+Job sequencing
+Partition
+Max cut
+
+Approximations
+As time went on it was discovered that many of the problems can be solved efficiently if restricted to special cases, or can be solved within any fixed percentage of the optimal result. However, David Zuckerman showed in 1996 that every one of these 21 problems has a constrained optimization version that is impossible to approximate within any constant factor unless P = NP, by showing that Karp's approach to reduction generalizes to a specific type of approximability reduction. Note however that these may be different from the standard optimization versions of the problems, which may have approximation algorithms (as in the case of maximum cut).
+
+See also
+List of NP-complete problems
+
+Notes
+References
+Cook, Stephen (1971). "The Complexity of Theorem Proving Procedures". Proc. 3rd Annual ACM Symposium on Theory of Computing (STOC). pp. 151–158. doi:10.1145/800157.805047. ISBN 9781450374644. S2CID 7573663.
+Karp, Richard M. (1972). "Reducibility Among Combinatorial Problems" (PDF). In R. E. Miller; J. W. Thatcher; J.D. Bohlinger (eds.). Complexity of Computer Computations. New York: Plenum. pp. 85–103. doi:10.1007/978-1-4684-2001-2_9. ISBN 978-1-4684-2003-6.
+Zuckerman, David (1996). "On Unapproximable Versions of NP-Complete Problems". SIAM Journal on Computing. 25 (6): 1293–1304. doi:10.1137/S0097539794266407. [1]

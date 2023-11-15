@@ -1,0 +1,382 @@
+In science and engineering, a power level and a field level (also called a root-power level) are logarithmic magnitudes of certain quantities referenced to a standard reference value of the same type.
+
+A power level is a logarithmic quantity used to measure power, power density or sometimes energy, with commonly used unit decibel (dB).
+A field level (or root-power level) is a logarithmic quantity used to measure quantities of which the square is typically proportional to power (for instance, the square of voltage is proportional to power by the inverse of the conductor's resistance), etc., with commonly used units neper (Np) or decibel (dB).The type of level and choice of units indicate the scaling of the logarithm of the ratio between the quantity and its reference value, though a logarithm may be considered to be a dimensionless quantity. The reference values for each type of quantity are often specified by international standards.
+Power and field levels are used in electronic engineering, telecommunications, acoustics and related disciplines.  Power levels are used for signal power, noise power, sound power, sound exposure, etc.  Field levels are used for voltage, current, sound pressure.
+
+Power level
+Level of a power quantity, denoted LP, is defined by
+
+  
+    
+      
+        
+          L
+          
+            P
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          log
+          
+            
+              e
+            
+          
+        
+        
+        
+          (
+          
+            
+              P
+              
+                P
+                
+                  0
+                
+              
+            
+          
+          )
+        
+        
+         
+        
+          N
+          p
+        
+        =
+        
+          log
+          
+            10
+          
+        
+        
+        
+          (
+          
+            
+              P
+              
+                P
+                
+                  0
+                
+              
+            
+          
+          )
+        
+        
+         
+        
+          B
+        
+        =
+        10
+        
+          log
+          
+            10
+          
+        
+        
+        
+          (
+          
+            
+              P
+              
+                P
+                
+                  0
+                
+              
+            
+          
+          )
+        
+        
+         
+        
+          d
+          B
+        
+        .
+      
+    
+    {\displaystyle L_{P}={\frac {1}{2}}\log _{\mathrm {e} }\!\left({\frac {P}{P_{0}}}\right)\!~\mathrm {Np} =\log _{10}\!\left({\frac {P}{P_{0}}}\right)\!~\mathrm {B} =10\log _{10}\!\left({\frac {P}{P_{0}}}\right)\!~\mathrm {dB} .}
+  where
+
+P is the power quantity;
+P0 is the reference value of P.
+
+Field (or root-power) level
+The level of a root-power quantity (also known as a field quantity), denoted LF, is defined by
+
+  
+    
+      
+        
+          L
+          
+            F
+          
+        
+        =
+        
+          log
+          
+            
+              e
+            
+          
+        
+        
+        
+          (
+          
+            
+              F
+              
+                F
+                
+                  0
+                
+              
+            
+          
+          )
+        
+        
+         
+        
+          N
+          p
+        
+        =
+        2
+        
+          log
+          
+            10
+          
+        
+        
+        
+          (
+          
+            
+              F
+              
+                F
+                
+                  0
+                
+              
+            
+          
+          )
+        
+        
+         
+        
+          B
+        
+        =
+        20
+        
+          log
+          
+            10
+          
+        
+        
+        
+          (
+          
+            
+              F
+              
+                F
+                
+                  0
+                
+              
+            
+          
+          )
+        
+        
+         
+        
+          d
+          B
+        
+        .
+      
+    
+    {\displaystyle L_{F}=\log _{\mathrm {e} }\!\left({\frac {F}{F_{0}}}\right)\!~\mathrm {Np} =2\log _{10}\!\left({\frac {F}{F_{0}}}\right)\!~\mathrm {B} =20\log _{10}\!\left({\frac {F}{F_{0}}}\right)\!~\mathrm {dB} .}
+  where
+
+F is the root-power quantity, proportional to the square root of power quantity;
+F0 is the reference value of F.If the power quantity P is proportional to F2, and if the reference value of the power quantity, P0, is in the same proportion to F02, the levels LF and LP are equal.
+The neper, bel, and decibel (one tenth of a bel) are units of level that are often applied to such quantities as power, intensity, or gain.  The neper, bel, and decibel are related by
+1 B = 1/2 loge10 Np;
+1 dB = 0.1 B = 1/20 loge10 Np.
+
+Standards
+Level and its units are defined in ISO 80000-3.
+The ISO standard defines each of the quantities power level and field level to be dimensionless, with 1 Np = 1.  This is motivated by simplifying the expressions involved, as in systems of natural units.
+
+Related quantities
+Logarithmic ratio quantity
+Power and field quantities are part of a larger class, logarithmic ratio quantities.
+ANSI/ASA S1.1-2013 defines a class of quantities it calls levels. It defines a level of a quantity Q, denoted LQ, as
+
+  
+    
+      
+        
+          L
+          
+            Q
+          
+        
+        =
+        
+          log
+          
+            r
+          
+        
+        
+        
+          (
+          
+            
+              Q
+              
+                Q
+                
+                  0
+                
+              
+            
+          
+          )
+        
+        
+        ,
+      
+    
+    {\displaystyle L_{Q}=\log _{r}\!\left({\frac {Q}{Q_{0}}}\right)\!,}
+  where
+
+r is the base of the logarithm;
+Q is the quantity;
+Q0 is the reference value of Q.For the level of a root-power quantity, the base of the logarithm is r = e.
+For the level of a power quantity, the base of the logarithm is r = e2.
+
+Logarithmic frequency ratio
+The logarithmic frequency ratio (also known as frequency level) of two frequencies is the logarithm of their ratio, and may be expressed using the unit octave (symbol: oct) corresponding to the ratio 2 or the unit decade (symbol: dec) corresponding to the ratio 10:
+
+  
+    
+      
+        
+          L
+          
+            f
+          
+        
+        =
+        
+          log
+          
+            2
+          
+        
+        
+        
+          (
+          
+            
+              f
+              
+                f
+                
+                  0
+                
+              
+            
+          
+          )
+        
+         
+        
+          oct
+        
+        =
+        
+          log
+          
+            10
+          
+        
+        
+        
+          (
+          
+            
+              f
+              
+                f
+                
+                  0
+                
+              
+            
+          
+          )
+        
+         
+        
+          dec
+        
+        .
+      
+    
+    {\displaystyle L_{f}=\log _{2}\!\left({\frac {f}{f_{0}}}\right)~{\text{oct}}=\log _{10}\!\left({\frac {f}{f_{0}}}\right)~{\text{dec}}.}
+  In music theory, the octave is a unit used with logarithm base 2 (called interval). A semitone is one twelfth of an octave. A cent is one hundredth of a semitone.  In this context, the reference frequency is taken to be C0, four octaves below middle C.
+
+See also
+Decibel § Definition
+Power, root-power, and field quantities
+Logarithmic scale
+Sound level (disambiguation)
+Leveling (tapered floating point)
+Level-index arithmetic (LI) and symmetric level-index arithmetic (SLI)
+
+Notes
+References
+Fletcher, H. (1934), "Loudness, pitch and the timbre of musical tones and their relation to the intensity, the frequency and the overtone structure", Journal of the Acoustical Society of America, 6 (2): 59, Bibcode:1934ASAJ....6...59F, doi:10.1121/1.1915704
+Taylor, Barry (1995), Guide for the Use of the International System of Units (SI): The Metric System, Diane Publishing Co., p. 28, ISBN 9780788125799
+ISO 80000-3: Quantities and units, vol. Part 3: Space and Time, International Organization for Standardization, 2006
+Carey, W. M. (2006), "Sound Sources and Levels in the Ocean", IEEE Journal of Oceanic Engineering, 31 (1): 61, Bibcode:2006IJOE...31...61C, doi:10.1109/JOE.2006.872214, S2CID 30674485
+ISO 80000-8: Quantities and units, vol. Part 8: Acoustics, International Organization for Standardization, 2007
+ANSI/ASA S1.1: Acoustical Terminology, vol. ANSI/ASA S1.1-2013, Acoustical Society of America, 2013
+Ainslie, Michael A. (2015), "A Century of Sonar: Planetary Oceanography, Underwater Noise Monitoring, and the Terminology of Underwater Sound", Acoustics Today, 11 (1)
+D'Amore, F. (2015), Effect of moisturizer and lubricant on the finger‒surface sliding contact: tribological and dynamical analysis
+IEEE/ASTM SI 10: American National Standard for Metric Practice, IEEE Standards Association, 2016
+Ainslie, Michael A.; Halvorsen, Michele B.; Robinson, Stephen P. (January 2022) [2021-11-09]. "A terminology standard for underwater acoustics and the benefits of international standardization". IEEE Journal of Oceanic Engineering. IEEE. 47 (1): 179–200. doi:10.1109/JOE.2021.3085947. eISSN 1558-1691. ISSN 0364-9059. S2CID 243948953. [1] (22 pages)
+ISO 18405:2017 Underwater acoustics – Terminology, International Organization for Standardization, 2022 [2017], retrieved 2022-12-20

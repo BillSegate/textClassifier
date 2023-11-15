@@ -1,0 +1,205 @@
+In mathematics, a proof of impossibility is a proof that demonstrates that a particular problem cannot be solved as described in the claim, or that a particular set of problems cannot be solved in general. Such a case is also known as a negative proof, proof of an impossibility theorem, or negative result. Proofs of impossibility often are the resolutions to decades or centuries of work attempting to find a solution, eventually proving that there is no solution. Proving that something is impossible is usually much harder than the opposite task, as it is often necessary to develop a proof that works in general, rather than to just show a particular example. Impossibility theorems are usually expressible as negative existential propositions or universal propositions in logic.
+The irrationality of the square root of 2 is one of the oldest proofs of impossibility. It shows that it is impossible to express the square root of 2 as a ratio of two integers. Another consequential proof of impossibility was Ferdinand von Lindemann's proof in 1882, which showed that the problem of squaring the circle cannot be solved because the number π is transcendental (i.e., non-algebraic), and that only a subset of the algebraic numbers can be constructed by compass and straightedge. Two other classical problems—trisecting the general angle and doubling the cube—were also proved impossible in the 19th century, and all of these problems gave rise to research into more complicated mathematical structures.
+A problem that arose in the 16th century was creating a general formula using radicals to express the solution of any polynomial equation of fixed degree k, where k ≥ 5. In the 1820s, the Abel–Ruffini theorem (also known as Abel's impossibility theorem) showed this to be impossible, using concepts such as solvable groups from Galois theory—a new sub-field of abstract algebra.
+Some of the most important proofs of impossibility found in the 20th century were those related to undecidability, which showed that there are problems that cannot be solved in general by any algorithm, with one of the more prominent ones being the halting problem. Gödel's incompleteness theorems were other examples that uncovered fundamental limitations in the provability of formal systems.In computational complexity theory, techniques like relativization (the addition of an oracle) allow for "weak" proofs of impossibility, in that proofs techniques that are not affected by relativization cannot resolve the P versus NP problem. Another technique is the proof of completeness for a complexity class, which provides evidence for the difficulty of problems by showing them to be just as hard to solve as any other problem in the class. In particular, a complete problem is intractable if one of the problems in its class is.
+
+Types of proof
+By contradiction
+One of the widely used types of impossibility proof is proof by contradiction. In this type of proof, it is shown that if a proposition, such as a solution to a particular class of equations, is assumed to hold, then via deduction two mutually contradictory things can be shown to hold, such as a number being both even and odd or both negative and positive. Since the contradiction stems from the original assumption, this means that the assumed premise must be impossible.
+
+By descent
+Another type of proof by contradiction is proof by descent, which proceeds first by assuming that something is possible, such as a positive integer solution to a class of equations, and that therefore there must be a smallest solution (by the Well-ordering principle). From the alleged smallest solution, it is then shown that a smaller solution can be found, contradicting the premise that the former solution was the smallest one possible—thereby showing that the original premise that a solution exists must be false.
+
+Types of disproof
+There are two alternative methods of disproving a conjecture that something is impossible: by counterexample (constructive proof) and by logical contradiction (non-constructive proof).
+The obvious way to disprove an impossibility conjecture is by providing a single counterexample. For example, Euler proposed that at least n different nth powers were necessary to sum to yet another nth power. The conjecture was disproved in 1966, with a counterexample involving a count of only four different 5th powers summing to another fifth power:
+
+275 + 845 + 1105 + 1335 = 1445.Proof by counterexample is a form of constructive proof, in that an object disproving the claim is exhibited. In contrast, a non-constructive proof of an impossibility claim would proceed by showing it is logically contradictory for all possible counterexamples to be invalid: at least one of the items on a list of possible counterexamples must actually be a valid counterexample to the impossibility conjecture. For example, a conjecture that it is impossible for an irrational power raised to an irrational power to be rational was disproved, by showing that one of two possible counterexamples must be a valid counterexample, without showing which one it is.
+
+Pythagorean proof of the existence of irrational numbers
+The proof by Pythagoras about 500 BCE has had a profound effect on mathematics. It shows that the square root of 2 cannot be expressed as the ratio of two integers. The proof bifurcated "the numbers" into two non-overlapping collections—the rational numbers and the irrational numbers. This bifurcation was used by Cantor in his diagonal method, which in turn was used by Turing in his proof that the Entscheidungsproblem, the decision problem of Hilbert, is undecidable.
+
+It is unknown when, or by whom, the "theorem of Pythagoras" was discovered. The discovery can hardly have been made by Pythagoras himself, but it was certainly made in his school. Pythagoras lived about 570–490 BCE. Democritus, born about 470 BCE, wrote on irrational lines and solids ...
+Proofs followed for various square roots of the primes up to 17.
+
+There is a famous passage in Plato's Theaetetus in which it is stated that Theodorus (Plato's teacher) proved the irrationality of
+
+  
+    
+      
+        
+          
+            3
+          
+        
+        ,
+        
+          
+            5
+          
+        
+        ,
+        .
+        .
+        .
+        ,
+      
+    
+    {\displaystyle {\sqrt {3}},{\sqrt {5}},...,}
+  taking all the separate cases up to the root of 17 square feet ... .
+
+A more general proof now exists that:
+
+The mth root of an integer N is irrational, unless N is the mth power of an integer n".That is, it is impossible to express the mth root of an integer N as the ratio a⁄b of two integers a and b, that share no common prime factor except in cases in which b = 1.
+
+Impossible constructions sought by the ancient Greeks
+Three famous questions of Greek geometry were how:
+
+to trisect any angle using a compass and a straightedge,
+to construct a cube with a volume twice the volume of a given cube,
+to construct a square equal in area to that of a given circle.For more than 2,000 years unsuccessful attempts were made to solve these problems; at last, in the 19th century it was proved that the desired constructions are logically impossible.A fourth problem of the ancient Greeks was to construct an equilateral polygon with a specified number n of sides, beyond the basic cases n = 3, 4, 5, 6 that they knew how to construct.
+All of these are problems in Euclidean construction, and Euclidean constructions can be done only if they involve only Euclidean numbers (by definition of the latter). Irrational numbers can be Euclidean. A good example is the square root of 2 (an irrational number). It is simply the length of the hypotenuse of a right triangle with legs both one unit in length, and it can be constructed with a straightedge and a compass. But it was proved centuries after Euclid that Euclidean numbers cannot involve any operations other than addition, subtraction, multiplication, division, and the extraction of square roots.
+
+Angle trisection and doubling the cube
+Both trisecting the general angle and doubling the cube require taking cube roots, which are not constructible numbers by compass and straightedge.
+
+Squaring the circle
+π
+      
+    
+    {\displaystyle \pi }
+   is not a Euclidean number ... and therefore it is impossible to construct, by Euclidean methods a length equal to the circumference of a circle of unit diameter
+A proof exists to demonstrate that any Euclidean number is an algebraic number — a number that is the solution to some polynomial equation. Therefore, because 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   was proved in 1882 to be a transcendental number and thus by definition not an algebraic number, it is not a Euclidean number. Hence the construction of a length 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   from a unit circle is impossible, and the circle cannot be squared.
+
+Constructing an equilateral n-gon
+The Gauss-Wantzel theorem showed in 1837 that constructing an equilateral n-gon is impossible for most values of n.
+
+Euclid's parallel postulate
+The parallel postulate from Euclid's Elements is equivalent to the statement that given a straight line and a point not on that line, only one parallel to the line may be drawn through that point. Unlike the other postulates, it was seen as less self-evident. Nagel and Newman argue that this may be because the postulate concerns "infinitely remote" regions of space; in particular, parallel lines are defined as not meeting even "at infinity", in contrast to asymptotes. This perceived lack of self-evidence led to the question of whether it might be proven from the other Euclidean axioms and postulates. It was only in the nineteenth century that the impossibility of deducing the parallel postulate from the others was demonstrated in the works of Gauss, Bolyai, Lobachevsky, and Riemann. These works showed that the parallel postulate can moreover be replaced by alternatives, leading to non-Euclidean geometries.
+Nagel and Newman consider the question raised by the parallel postulate to be "...perhaps the most significant development in its long-range effects upon subsequent mathematical history". In particular, they consider its outcome to be "of the greatest intellectual importance," as it showed that "a proof can be given of the impossibility of proving certain propositions [in this case, the parallel postulate] within a given system [in this case, Euclid's first four postulates]."
+
+Fermat's Last Theorem
+Fermat's Last Theorem was conjectured by Pierre de Fermat in the 1600s, states the impossibility of finding solutions in positive integers for the equation 
+  
+    
+      
+        
+          x
+          
+            n
+          
+        
+        +
+        
+          y
+          
+            n
+          
+        
+        =
+        
+          z
+          
+            n
+          
+        
+      
+    
+    {\displaystyle x^{n}+y^{n}=z^{n}}
+   with 
+  
+    
+      
+        n
+        >
+        2
+      
+    
+    {\displaystyle n>2}
+  . Fermat himself gave a proof for the n = 4 case using his technique of infinite descent, and other special cases were subsequently proved, but the general case was not proven until 1994 by Andrew Wiles.
+
+Richard's paradox
+This profound paradox presented by Jules Richard in 1905 informed the work of Kurt Gödel and Alan Turing. A succinct definition is found in Principia Mathematica:
+Richard's paradox ... is as follows. Consider all decimals that can be defined by means of a finite number of words [“words” are symbols; boldface added for emphasis]; let E be the class of such decimals. Then E has 
+  
+    
+      
+        
+          ℵ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \aleph _{0}}
+   [an infinite number of] terms; hence its members can be ordered as the 1st, 2nd, 3rd, ... Let X be a number defined as follows [Whitehead & Russell now employ the Cantor diagonal method].
+If the n-th figure in the n-th decimal is p, let the n-th figure in X be p + 1 (or 0, if p = 9). Then X is different from all the members of E, since, whatever finite value n may have, the n-th figure in X is different from the n-th figure in the n-th of the decimals composing E, and therefore X is different from the n-th decimal. Nevertheless we have defined X in a finite number of words [i.e. this very definition of “word” above.] and therefore X ought to be a member of E. Thus X both is and is not a member of E.
+Kurt Gödel considered his proof to be “an analogy” of Richard's paradox, which he called “Richard's antinomy” (see below).
+Alan Turing constructed this paradox with a machine and proved that this machine could not answer a simple question: will this machine be able to determine if any machine (including itself) will become trapped in an unproductive ‘infinite loop’ (i.e. it fails to continue its computation of the diagonal number).
+
+Incompleteness of axiomatic systems: Gödel's proof
+To quote Nagel and Newman (p. 68), "Gödel's paper is difficult. Forty-six preliminary definitions, together with several important preliminary theorems, must be mastered before the main results are reached". In fact, Nagel and Newman required a 67-page introduction to their exposition of the proof. But if the reader feels strong enough to tackle the paper, Martin Davis observes that "This remarkable paper is not only an intellectual landmark but is written with a clarity and vigor that makes it a pleasure to read" (Davis in Undecidable, p. 4). It is recommended that most readers see Nagel and Newman first.
+Gödel proved, in his own words:
+
+"It is reasonable... to make the conjecture that ...[the] axioms [from Principia Mathematica and Peano ] are ... sufficient to decide all mathematical questions which can be formally expressed in the given systems. In what follows it will be shown that this is not the case, but rather that ... there exist relatively simple problems of the theory of ordinary whole numbers which cannot be decided on the basis of the axioms" (Gödel in Undecidable, p. 4).Gödel compared his proof to "Richard's antinomy" (an "antinomy" is a contradiction or a paradox; for more see Richard's paradox):
+
+"The analogy of this result with Richard's antinomy is immediately evident; there is also a close relationship [14] with the Liar Paradox (Gödel's footnote 14: Every epistemological antinomy can be used for a similar proof of undecidability) ... Thus, we have a proposition before us which asserts its own unprovability [15]. (His footnote 15: Contrary to appearances, such a proposition is not circular, for, to begin with, it asserts the unprovability of a quite definite formula)".
+
+Halting problem: Turing's first proof
+The Entscheidungsproblem, the decision problem, was first answered by Church in April 1935 and preceded Turing by over a year, as Turing's paper was received for publication in May 1936.
+Turing's proof is made difficult by number of definitions required and its subtle nature. See Turing machine and Turing's proof for details.
+Turing's first proof (of three) follows the schema of Richard's paradox: Turing's computing machine is an algorithm represented by a string of seven letters in a "computing machine". Its "computation" is to test all computing machines (including itself) for "circles", and form a diagonal number from the computations of the non-circular or "successful" computing machines. It does this, starting in sequence from 1, by converting the numbers (base 8) into strings of seven letters to test. When it arrives at its own number, it creates its own letter-string. It decides it is the letter-string of a successful machine, but when it tries to do this machine's (its own) computation it locks in a circle and can't continue. Thus, we have arrived at Richard's paradox. (If you are bewildered see Turing's proof for more).A number of similar undecidability proofs appeared soon before and after Turing's proof:
+
+April 1935: Proof of Alonzo Church ("An Unsolvable Problem of Elementary Number Theory"). His proof was to "...propose a definition of effective calculability ... and to show, by means of an example, that not every problem of this class is solvable" (Undecidable p. 90))
+1946: Post correspondence problem (cf Hopcroft and Ullman p. 193ff, p. 407 for the reference)
+April 1947: Proof of Emil Post (Recursive Unsolvability of a Problem of Thue) (Undecidable p. 293). This has since become known as "The Word problem of Thue" or "Thue's Word Problem" (Axel Thue proposed this problem in a paper of 1914 (cf References to Post's paper in Undecidable, p. 303)).
+Rice's theorem: a generalized formulation of Turing's second theorem (cf Hopcroft and Ullman p. 185ff)
+Greibach's theorem: undecidability in language theory (cf Hopcroft and Ullman p. 205ff and reference on p. 401 ibid: Greibach [1963] "The undecidability of the ambiguity problem for minimal lineal grammars," Information and Control 6:2, 117–125, also reference on p. 402 ibid: Greibach [1968] "A note on undecidable properties of formal languages", Math Systems Theory 2:1, 1–6.)
+Penrose tiling questions.
+Question of solutions for Diophantine equations and the resultant answer in the MRDP Theorem; see entry below.
+
+String compressibility: Chaitin's proof
+For an exposition suitable for non-specialists, see Beltrami p. 108ff. Also see Franzen Chapter 8 pp. 137–148, and Davis pp. 263–266. Franzén's discussion is significantly more complicated than Beltrami's and delves into Ω—Gregory Chaitin's so-called "halting probability". Davis's older treatment approaches the question from a Turing machine viewpoint. Chaitin has written a number of books about his endeavors and the subsequent philosophic and mathematical fallout from them.
+A string is called (algorithmically) random if it cannot be produced from any shorter computer program. While most strings are random, no particular one can be proved so, except for finitely many short ones:
+
+"A paraphrase of Chaitin's result is that there can be no formal proof that a sufficiently long string is random..."Beltrami observes that "Chaitin's proof is related to a paradox posed by Oxford librarian G. Berry early in the twentieth century that asks for 'the smallest positive integer that cannot be defined by an English sentence with fewer than 1000 characters.' Evidently, the shortest definition of this number must have at least 1000 characters. However, the sentence within quotation marks, which is itself a definition of the alleged number is less than 1000 characters in length!".
+
+Integer solutions of Diophantine equations: Hilbert's tenth problem
+The question "Does any arbitrary Diophantine equation have an integer solution?" is undecidable. That is, it is impossible to answer the question for all cases.
+Franzén introduces Hilbert's tenth problem and the MRDP theorem (Matiyasevich-Robinson-Davis-Putnam theorem) which states that "no algorithm exists which can decide whether or not a Diophantine equation has any solution at all". MRDP uses the undecidability proof of Turing: "... the set of solvable Diophantine equations is an example of a computably enumerable but not decidable set, and the set of unsolvable Diophantine equations is not computably enumerable".
+
+In social science
+In political science, Arrow's impossibility theorem states that it is impossible to devise a voting system that satisfies a set of five specific axioms. This theorem is proved by showing that four of the axioms together imply the opposite of the fifth.
+Similarly, the Gibbard–Satterthwaite theorem states that no voting system can have more than two alternatives, be robust to strategic voting and prevent a single voter to decide the outcome.
+In economics, Holmström's theorem is an impossibility theorem proving that no incentive system for a team of agents can satisfy all of three desirable criteria.
+
+In natural science
+In natural science, impossibility assertions (like other assertions) come to be widely accepted as overwhelmingly probable rather than considered proved to the point of being unchallengeable. The basis for this strong acceptance is a combination of extensive evidence of something not occurring, combined with an underlying theory, very successful in making predictions, whose assumptions lead logically to the conclusion that something is impossible.
+Two examples of widely accepted impossibilities in physics are perpetual motion machines, which violate the law of conservation of energy, and exceeding the speed of light, which violates the implications of special relativity. Another is the uncertainty principle of quantum mechanics, which asserts the impossibility of simultaneously knowing both the position and the momentum of a particle. There is also Bell's theorem: no physical theory of local hidden variables can ever reproduce all of the predictions of quantum mechanics.
+While an impossibility assertion in natural science can never be absolutely proved, it could be refuted by the observation of a single counterexample. Such a counterexample would require that the assumptions underlying the theory that implied the impossibility be re-examined.
+
+See also
+List of unsolved problems in mathematics – Solutions of these problems are still being searched for. In contrast, the above problems are known to have no solution.
+Paradoxes of set theory
+
+Notes and references
+
+
+== Bibliography ==

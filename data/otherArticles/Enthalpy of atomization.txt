@@ -1,0 +1,45 @@
+In chemistry, the enthalpy of atomization (also atomisation in British English) is the enthalpy change that accompanies the total separation of all atoms in a chemical substance (either an element or a compound). This is often represented by the symbol 
+  
+    
+      
+        
+          Δ
+          
+            a
+            t
+          
+        
+        H
+      
+    
+    {\displaystyle \Delta _{at}H}
+   or 
+  
+    
+      
+        Δ
+        
+          H
+          
+            a
+            t
+          
+        
+        .
+      
+    
+    {\displaystyle \Delta H_{at}.}
+   All bonds in the compound are broken in atomization and none are formed, so enthalpies of atomization are always positive. The associated standard enthalpy is known as the standard enthalpy of atomization, ΔatH⊖/(kJ mol−1), at 298.15 K (or 25 degrees Celsius) and 100 kPa.
+
+Definition
+Enthalpy of atomization is the amount of enthalpy change when a compound's bonds are broken and the component atoms are separated into single atoms ( or monoatom).
+Enthalpy of atomization is denoted by the symbol ΔatH. The enthalpy change of atomization of gaseous H2O is, for example, the sum of the HO–H and H–OH bond dissociation enthalpies.
+The enthalpy of atomization of an elemental solid is exactly the same as the enthalpy of sublimation for any elemental solid that becomes a monatomic gas upon evaporation.
+When a diatomic element is converted to gaseous atoms, only half a mole of molecules will be needed, as the standard enthalpy change is based purely on the production of one mole of gaseous atoms. When the atoms in the molecule are different isotopes of the same element the calculation becomes non-trivial.
+
+See also
+Ionization energy
+Electron gain enthalpy
+
+
+== References ==

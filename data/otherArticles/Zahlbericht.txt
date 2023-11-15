@@ -1,0 +1,29 @@
+In mathematics, the Zahlbericht (number report) was a report on algebraic number theory by Hilbert (1897, 1998, (English translation)).
+
+History
+In 1893 the German Mathematical Society invited Hilbert and Minkowski to write reports on the theory of numbers. They agreed that Minkowski would cover the more elementary parts of number theory while Hilbert would cover algebraic number theory. Minkowski eventually abandoned his report, while Hilbert's report was published in 1897. It was reprinted in volume 1 of his collected works, and republished in an English translation in 1998.
+Corry (1996) and Schappacher (2005) and the English introduction to (Hilbert 1998) give detailed discussions of the history and influence of Hilbert's Zahlbericht. 
+Some earlier reports on number theory include the report by H. J. S. Smith in 6 parts between 1859 and 1865, reprinted in Smith (1965), and the report by Brill & Noether (1894). Hasse (1926, 1927, 1930) wrote an update of Hilbert's Zahlbericht that covered class field theory (republished in 1 volume as (Hasse 1970)).
+
+Contents
+Part 1 covers the theory of general number fields, including ideals, discriminants, differents, units, and ideal classes. 
+Part 2 covers Galois number fields, including in particular Hilbert's theorem 90.
+Part 3 covers quadratic number fields, including the theory of genera, and class numbers of quadratic fields.
+Part 4 covers cyclotomic fields, including the Kronecker–Weber theorem (theorem 131), the Hilbert–Speiser theorem (theorem 132), and the Eisenstein reciprocity law for lth power residues (theorem 140) .
+Part 5 covers Kummer number fields, and ends with Kummer's proof of Fermat's last theorem for regular primes.
+
+References
+Brill, A.; Noether, M. (1894), "Die Entwickelung der Theorie der algebraischen Functionen in älterer und neuerer Zeit", Jahresbericht der Deutschen Mathematiker-Vereinigung (in German), 3: 107–566, ISSN 0012-0456
+Corry, Leo (1996), Modern algebra and the rise of mathematical structures, Science Networks. Historical Studies, vol. 17, Birkhäuser Verlag, ISBN 978-3-7643-5311-7, MR 1391720
+Hasse, H. (1926), "Bericht über neuere Untersuchungen und Probleme aus der Theorie der algebraischen Zahlkörper. I: Klassenkörpertheorie.", Jahresbericht der Deutschen Mathematiker-Vereinigung (in German), 35: 1–55
+Hasse, H. (1927), "Bericht über neuere Untersuchungen und Probleme aus der Theorie der algebraischen Zahlkörper. Teil Ia: Beweise zu I.", Jahresbericht der Deutschen Mathematiker-Vereinigung (in German), 36: 233–311
+Hasse, H. (1930), "Bericht über neuere Untersuchungen und Probleme aus der Theorie der algebraischen Zahlkörper. Teil II: Reziprozitätsgesetz", Jahresbericht der Deutschen Mathematiker-Vereinigung (in German), Ergänzungsband 6
+Hasse, Helmut (1970) [1930], Bericht über neuere Untersuchungen und Probleme aus der Theorie der algebraischen Zahlkörper. Teil I: Klassenkörpertheorie. Teil Ia: Beweise zu Teil I. Teil II: Reziprozitätsgesetz (3rd ed.), Physica-Verlag, ISBN 978-3-7908-0010-4, MR 0266893
+Hilbert, David (1897), "Die Theorie der algebraischen Zahlkörper", Jahresbericht der Deutschen Mathematiker-Vereinigung (in German), 4: 175–546, ISSN 0012-0456
+Hilbert, David (1998), The theory of algebraic number fields, Berlin, New York: Springer-Verlag, doi:10.1007/978-3-662-03545-0, ISBN 978-3-540-62779-1, MR 1646901
+Schappacher, N. (2005), "Chapter 54. David Hilbert, Report on algebraic number fields", in Grattan-Guinness, Ivor (ed.), Landmark writings in western mathematics 1640–1940, Elsevier B. V., Amsterdam, ISBN 978-0-444-50871-3, MR 2169816
+Smith, Henry John Stephen (1965) [1894], Glaisher, J. W. L. (ed.), The Collected Mathematical Papers of Henry John Stephen Smith, vol. I, New York: AMS Chelsea Publishing, ISBN 978-0-8284-0187-6, volume 1volume 2
+
+External links
+
+Introduction to the English Edition of Hilbert's Zahlbericht

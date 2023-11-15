@@ -1,0 +1,13 @@
+In continuum mechanics, the generalized Lagrangian mean (GLM) is a formalism – developed by D.G. Andrews and M.E. McIntyre (1978a, 1978b) – to unambiguously split a motion into a mean part and an oscillatory part. The method gives a mixed Eulerian–Lagrangian description for the flow field, but appointed to fixed Eulerian coordinates.
+
+Background
+In general, it is difficult to decompose a combined wave–mean motion into a mean and a wave part, especially for flows bounded by a wavy surface: e.g. in the presence of surface gravity waves or near another undulating bounding surface (like atmospheric flow over mountainous or hilly terrain). However, this splitting of the motion in a wave and mean part is often demanded in mathematical models, when the main interest is in the mean motion – slowly varying at scales much larger than those of the individual undulations. From a series of postulates, Andrews & McIntyre (1978a) arrive at the (GLM) formalism to split the flow: into a generalised Lagrangian mean flow and an oscillatory-flow part.  
+The GLM method does not suffer from the strong drawback of the Lagrangian specification of the flow field – following individual fluid parcels – that Lagrangian positions which are initially close gradually drift far apart. In the Lagrangian frame of reference, it therefore becomes often difficult to attribute Lagrangian-mean values to some location in space.
+The specification of mean properties for the oscillatory part of the flow, like: Stokes drift, wave action, pseudomomentum and pseudoenergy – and the associated conservation laws – arise naturally when using the GLM method.The GLM concept can also be incorporated into variational principles of fluid flow.
+
+Notes
+References
+By Andrews & McIntyre
+
+
+=== By others ===

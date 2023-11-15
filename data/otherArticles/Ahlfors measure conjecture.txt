@@ -1,0 +1,9 @@
+In mathematics, the Ahlfors conjecture, now a theorem, states that the limit set of a finitely-generated Kleinian group is either the whole Riemann sphere, or has measure 0. 
+The conjecture was introduced by Ahlfors (1966), who proved it in the case that the Kleinian group has a fundamental domain with a finite number of sides. Canary (1993) proved the Ahlfors conjecture for topologically tame groups, by showing that a topologically tame Kleinian group is geometrically tame,  so the Ahlfors conjecture follows from Marden's tameness conjecture that hyperbolic 3-manifolds with finitely generated fundamental groups are topologically tame (homeomorphic to the interior of compact 3-manifolds). This latter conjecture was proved, independently, by Agol (2004) and by Calegari & Gabai (2006).
+Canary (1993) also showed that in the case when the limit set is the whole sphere, the action of the Kleinian group on the limit set is ergodic.
+
+References
+Agol, Ian (2004), Tameness of hyperbolic 3-manifolds, arXiv:math/0405568, Bibcode:2004math......5568A
+Ahlfors, Lars V. (1966), "Fundamental polyhedrons and limit point sets of Kleinian groups", Proceedings of the National Academy of Sciences of the United States of America, 55 (2): 251–254, Bibcode:1966PNAS...55..251A, doi:10.1073/pnas.55.2.251, ISSN 0027-8424, JSTOR 57511, MR 0194970, PMC 224131, PMID 16591331
+Calegari, Danny; Gabai, David (2006), "Shrinkwrapping and the taming of hyperbolic 3-manifolds", Journal of the American Mathematical Society, 19 (2): 385–446, arXiv:math/0407161, doi:10.1090/S0894-0347-05-00513-8, ISSN 0894-0347, MR 2188131, S2CID 1053364
+Canary, Richard D. (1993), "Ends of hyperbolic 3-manifolds", Journal of the American Mathematical Society, 6 (1): 1–35, doi:10.2307/2152793, ISSN 0894-0347, JSTOR 2152793, MR 1166330

@@ -1,0 +1,134 @@
+In mathematics, a system of differential equations is a finite set of differential equations. Such a system can be either linear or non-linear. Also, such a system can be either a system of ordinary differential equations or a system of partial differential equations.
+
+Linear system of differential equations
+Like any system of equations, a system of linear differential equations is said to be overdetermined if there are more equations than the unknowns.
+For an overdetermined system to have a solution, it needs to satisfy the compatibility conditions. For example, consider the system:
+
+  
+    
+      
+        
+          
+            
+              ∂
+              u
+            
+            
+              ∂
+              
+                x
+                
+                  i
+                
+              
+            
+          
+        
+        =
+        
+          f
+          
+            i
+          
+        
+        ,
+        1
+        ≤
+        i
+        ≤
+        m
+        .
+      
+    
+    {\displaystyle {\frac {\partial u}{\partial x_{i}}}=f_{i},1\leq i\leq m.}
+  Then the necessary conditions for the system to have a solution are:
+
+  
+    
+      
+        
+          
+            
+              ∂
+              
+                f
+                
+                  i
+                
+              
+            
+            
+              ∂
+              
+                x
+                
+                  k
+                
+              
+            
+          
+        
+        −
+        
+          
+            
+              ∂
+              
+                f
+                
+                  k
+                
+              
+            
+            
+              ∂
+              
+                x
+                
+                  i
+                
+              
+            
+          
+        
+        =
+        0
+        ,
+        1
+        ≤
+        i
+        ,
+        k
+        ≤
+        m
+        .
+      
+    
+    {\displaystyle {\frac {\partial f_{i}}{\partial x_{k}}}-{\frac {\partial f_{k}}{\partial x_{i}}}=0,1\leq i,k\leq m.}
+  See also: Cauchy problem and Ehrenpreis's fundamental principle.
+
+Non-linear system of differential equations
+Perhaps the most famous example of a non-linear system of differential equations is the Navier–Stokes equations. Unlike the linear case, the existence of a solution of a non-linear system is a difficult problem (cf. Navier–Stokes existence and smoothness.)
+See also: h-principle.
+
+Differential system
+A differential system is a means of studying a system of partial differential equations using geometric ideas such as differential forms and vector fields.
+For example, the compatibility conditions of an overdetermined system of differential equations can be succinctly stated in terms of differential forms (i.e., a form to be exact, it needs to be closed). See integrability conditions for differential systems for more.
+See also: Category:differential systems.
+
+Notes
+See also
+Integral geometry
+Cartan–Kuranishi prolongation theorem
+
+References
+L. Ehrenpreis, The Universality of the Radon Transform, Oxford Univ. Press, 2003.
+Gromov, M. (1986), Partial differential relations, Springer, ISBN 3-540-12177-3
+M. Kuranishi, "Lectures on involutive systems of partial differential equations" , Publ. Soc. Mat. São Paulo (1967)
+Pierre Schapira, Microdifferential systems in the complex domain, Grundlehren der Math- ematischen Wissenschaften, vol. 269, Springer-Verlag, 1985.
+
+Further reading
+https://mathoverflow.net/questions/273235/a-very-basic-question-about-projections-in-formal-pde-theory
+https://www.encyclopediaofmath.org/index.php/Involutional_system
+https://www.encyclopediaofmath.org/index.php/Complete_system
+https://www.encyclopediaofmath.org/index.php/Partial_differential_equations_on_a_manifold

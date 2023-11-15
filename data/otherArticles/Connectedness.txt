@@ -1,0 +1,32 @@
+In mathematics, connectedness is used to refer to various properties meaning, in some sense, "all one piece". When a mathematical object has such a property, we say it is connected; otherwise it is disconnected. When a disconnected object can be split naturally into connected pieces, each piece is usually called a component (or connected component).
+
+Connectedness in topology
+A topological space is said to be connected if it is not the union of two disjoint nonempty open sets. A set is open if it contains no point lying on its boundary; thus, in an informal, intuitive sense, the fact that a space can be partitioned into disjoint open sets suggests that the boundary between the two sets is not part of the space, and thus splits it into two separate pieces.
+
+Other notions of connectedness
+Fields of mathematics are typically concerned with special kinds of objects. Often such an object is said to be connected if, when it is considered as a topological space, it is a connected space. Thus, manifolds, Lie groups, and graphs are all called connected if they are connected as topological spaces, and their components are the topological components. Sometimes it is convenient to restate the definition of connectedness in such fields. For example, a graph is said to be connected if each pair of vertices in the graph is joined by a path. This definition is equivalent to the topological one, as applied to graphs, but it is easier to deal with in the context of graph theory. Graph theory also offers a context-free measure of connectedness, called the clustering coefficient.
+Other fields of mathematics are concerned with objects that are rarely considered as topological spaces. Nonetheless, definitions of connectedness often reflect the topological meaning in some way. For example, in category theory, a category is said to be connected if each pair of objects in it is joined by a sequence of morphisms. Thus, a category is connected if it is, intuitively, all one piece.
+There may be different notions of connectedness that are intuitively similar, but different as formally defined concepts. We might wish to call a topological space connected if each pair of points in it is joined by a path. However this condition turns out to be stronger than standard topological connectedness; in particular, there are connected topological spaces for which this property does not hold. Because of this, different terminology is used; spaces with this property are said to be path connected. While not all connected spaces are path connected, all path connected spaces are connected.
+Terms involving connected are also used for properties that are related to, but clearly different from, connectedness. For example, a path-connected topological space is simply connected if each loop (path from a point to itself) in it is contractible; that is, intuitively, if there is essentially only one way to get from any point to any other point. Thus, a sphere and a disk are each simply connected, while a torus is not. As another example, a directed graph is strongly connected if each ordered pair of vertices is joined by a directed path (that is, one that "follows the arrows").
+Other concepts express the way in which an object is not connected. For example, a topological space is totally disconnected if each of its components is a single point.
+
+Connectivity
+Properties and parameters based on the idea of connectedness often involve the word connectivity. For example, in graph theory, a connected graph is one from which we must remove at least one vertex to create a disconnected graph. In recognition of this, such graphs are also said to be 1-connected. Similarly, a graph is 2-connected if we must remove at least two vertices from it, to create a disconnected graph. A 3-connected graph requires the removal of at least three vertices, and so on. The connectivity of a graph is the minimum number of vertices that must be removed to disconnect it. Equivalently, the connectivity of a graph is the greatest integer k for which the graph is k-connected.
+While terminology varies, noun forms of connectedness-related properties often include the term connectivity. Thus, when discussing simply connected topological spaces, it is far more common to speak of simple connectivity than simple connectedness. On the other hand, in fields without a formally defined notion of connectivity, the word may be used as a synonym for connectedness.
+Another example of connectivity can be found in regular tilings. Here, the connectivity describes the number of neighbors accessible from a single tile:
+
+See also
+connected space
+connected category
+connected component (graph theory)
+connected sum
+cross-link
+network
+Scale-free network
+simply connected
+small-world network
+strongly connected component
+totally disconnected
+
+
+== References ==

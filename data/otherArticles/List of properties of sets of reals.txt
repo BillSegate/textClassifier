@@ -1,0 +1,28 @@
+This article lists some properties of sets of real numbers. The general study of these concepts forms descriptive set theory, which has a rather different emphasis from general topology.
+
+Definability properties
+Borel set  
+Analytic set  
+C-measurable set  
+Projective set  
+Inductive set  
+Infinity-Borel set  
+Suslin set  
+Homogeneously Suslin set  
+Weakly homogeneously Suslin set  
+Set of uniqueness
+
+Regularity properties
+Property of Baire  
+Lebesgue measurable  
+Universally measurable set  
+Perfect set property  
+Universally Baire set
+
+Largeness and smallness properties
+Meager set  
+Comeager set - A comeager set is one whose complement is meager.
+Null set  
+Conull set  
+Dense set  
+Nowhere dense set

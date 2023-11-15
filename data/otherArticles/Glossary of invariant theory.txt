@@ -1,0 +1,745 @@
+This page is a glossary of terms  in invariant theory. 
+For descriptions of particular invariant rings, see invariants of a binary form, symmetric polynomials. 
+For geometric terms used in invariant theory see the glossary of classical algebraic geometry. 
+Definitions of many terms used in invariant theory can be found in (Sylvester 1853), (Cayley 1860), (Burnside & Panton 1881), (Salmon 1885), (Elliott 1895), (Grace & Young 1903), (Glenn 1915),   (Dolgachev 2012), and the index to the fourth volume of Sylvester's collected works includes many of the terms invented by him.
+
+Conventions
+-an
+Nouns  ending in -an are often  invariants named after people, as in Cayleyan, Hessian, Jacobian, Steinerian.
+
+-ant
+Nouns  ending in -ant are often  invariants, as in determinant, covariant, and so on.
+
+-ary
+Adjectives  ending in -ary often refer to the number of variables of a form, as in unary, binary, ternary, quaternary, quinary, senary, septenary, octonary, nonary, denary.
+
+-ic
+Adjectives or nouns ending in -ic often refer to the degree of a form, as in linear or monic, quadric or quadratic, cubic, quartic or biquadratic, quintic, sextic, septic or septimic, octic or octavic, nonic, decic or decimic, undecic or undecimic, duodecic or duodecimic, and so on.
+
+!$@
+(a0, a1, ..., an)(x,y)n
+Short for the form (n0)a0xn + (n1)a1xn–1y+ ... + (nn)anyn. When the first ) has a circumflex or arrow on top of it, this means that the binomial coefficients are omitted. The parentheses are sometimes overlapped: 
+  
+    
+      
+        (
+        
+          a
+          
+            0
+          
+        
+        ,
+        …
+        ,
+        
+          a
+          
+            n
+          
+        
+        )
+        
+        
+        (
+        x
+        ,
+        y
+        
+          )
+          
+            n
+          
+        
+      
+    
+    {\displaystyle (a_{0},\ldots ,a_{n})\!\!(x,y)^{n}}
+  
+
+[]
+See Sylvester (1853, Glossary p. 543–548) 
+
+(αβγ...)
+The determinant of the matrix with entries αi, βi, γi,... For example, (αβ) means α1β2 –  α2β1.
+
+A
+absolute
+1.  The absolute invariant is essentially the j-invariant of an elliptic curve.
+2.  An absolute invariant is something fixed by a group action, in other words a (relative) invariant (something that transforms according to a character) where the character is trivial.
+
+allotrious
+See Sylvester (1853, Glossary p. 543–548), Archaic.  
+
+alternant
+1.  An archaic term for the commutator AB–BA of two operators A and B. (Elliott 1895, p.144) 
+2.  An alternant matrix is a matrix such that the entries of each column are given by some fixed function of a variable. 
+
+annihilator
+An annihilator is a differential operator representing an element of a Lie algebra, so that invariants of a group are killed by the annihilators. (Elliott 1895, p.108) 
+
+anti-invariant
+A relative invariant transforming according to a character of order 2 of a group such as the symmetric group.
+
+anti-seminvariant
+(Elliott 1895, p.126) 
+
+apocopated
+See Sylvester (1853, Glossary p. 543–548). Archaic.
+
+Arf invariant
+ An invariant of quadratic forms over a field of order 2.
+Aronhold invariant
+One of the two generators of degrees 4 and 6 of the ring of invariants of ternary cubic forms. (Dolgachev 2012, 3.1.1) 
+
+asyzygetic
+Linearly independent.
+
+B
+Bezoutiant
+ A symmetric square matrix associated to two binary forms.
+Bezoutic
+See Sylvester (1853, Glossary p. 543–548). Archaic.
+
+Bezoutiod
+See Sylvester (1853, Glossary p. 543–548). Archaic.
+
+bidegree
+An ordered pair of integers, giving the degrees of a form relative to  two sets of variables.
+
+biform
+A polynomial homogeneous in each of two sets of variables. In other words an element of  SmV×SnW, usually considered as a representation of  GLV×GLW.
+
+binary
+Depending on 2 variables. Same as bivariate.
+
+biquadratic
+Same as quartic, meaning degree 4.
+
+biternary
+A biternary form is one in 6 variables, 3 transforming according to the fundamental representation of SL3 and 3 transforming according to its dual.
+
+bivariate
+Depending on 2 variables. Same as binary.
+
+Boolean invariant
+An invariant for the orthogonal group. (Elliott 1895, p.344) 
+
+bordered Hessian
+An alternative name for the reciprocant
+
+bracket
+An invariant given by either the pairing of a vector and a vector in the dual space, or the determinant of a matrix form by n vectors of an n-dimensional space (in other words their exterior product in the top exterior power).
+
+Brioschi covariant
+This is a degree 12 order 9 covariant of ternary cubic forms, introduced by Brioschi (1863). (Dolgachev 2012, 3.4.3)
+
+C
+canonical form
+A particularly simple representation of a form, such as a sum of powers of linear forms, or with many zero coefficients. For example, the canonical form of a binary form of degree 2m+1 is a sum of m+1 powers of linear forms.
+
+canonisant
+canonizant
+ A covariant of a form, given by the catalecticant of the penultimate emanant. It is related to the  canonical form of a form. For example, the canonizant of a binary form of degree 2n–1  has  degree n and order n. (Elliott 1895, p.21) 
+catalecticant
+ An invariant vanishing on forms that are the sum of an unusually small number of powers of linear forms.
+Cayley Ω process
+ A certain differential operator used for constructing invariants.
+Cayleyan
+ A contravariant. 
+characteristic
+See Sylvester (1853, Glossary p. 543–548) 
+
+class
+The class of a contravariant or concomitant is its degree in the covariant variables. See also degree and order.
+
+Clebsch invariant
+(Dolgachev 2012, p.283) 
+
+co-Bezoutiant
+See Sylvester (1853, Glossary p. 543–548). Archaic. 
+
+cogredient
+Transforming according to the natural representation of a linear group. (Elliott 1895, p.55) 
+
+combinant
+A joint relative invariant of several forms of the same degree, that is unchanged if a multiple of one of the forms is added to another. Essentially a relative invariant of a product of two general linear groups. (Elliott 1895, p.340) Sylvester (1853, Glossary p. 543–548) (Salmon 1885, p.161) 
+
+combinative
+Related to invariants of a product of groups. For example a combinative covariant is a covariant of a product of two groups.
+
+commutant
+A generalization of the determinant to arrays of dimension greater than 2. (Cayley 1860) 
+
+complete
+A complete system of invariants is a set of generators for the ring of invariants.
+
+concomitant
+A relative invariant of GL(V) acting on the polynomials over Sn(V)⊕V⊕V*.
+
+conjunctive
+See Sylvester (1853, Glossary p. 543–548) 
+
+connex
+A form in two sets of variables, one set corresponding to a vector space and the other to its dual, or in other words an element of the symmetric algebra of V⊕V* for a vector space V. Introduced by Clebsch.
+
+continuant
+ A determinant of a tridiagonal matrix.(Salmon 1885, p.18) 
+contragredient
+Transforming according to the dual of the natural  representation of a linear group. (Elliott 1895, p.74) 
+
+contravariant
+A relative invariant of GL(V) acting on the polynomials over Sn(V)⊕V.
+
+convolution
+A method of constructing invariants from two other invariants. (Glenn 1915, p.87) 
+
+covariancy
+(Elliott 1895, p.83) 
+
+covariant
+1.  (Noun) A relative invariant of GL(V) acting on the polynomials over Sn(V)⊕V*.
+2.  (Adjective) Invariant under the action of a group, especially for functions between two spaces acted on by the group.
+
+cross ratio
+The cross ratio is an invariant of 4 points of a projective line.
+
+cubic
+(Adjective) Degree 3
+(Noun) A form of degree 3
+
+cubicovariant
+A covariant of degree 3, in particular an order 3 degree 3 covariant of a binary cubic given by the Jacobian of the cubic and its Hessian. (Elliott 1895, p.50) 
+
+cubinvariant
+An invariant of degree 3.
+
+cubo-
+Used to form compound adjectives such as cubo-linear, cubo-quadric, and so on, indicating the bidegree of something. For example, cubo-linear means having degree 3 in the first of two sets of variables and degree 1 in the second.  
+
+cumulant
+The numerator or denominator of a continued fraction, often expressed as a determinant. Sylvester (1853, Glossary p. 543–548).
+
+D
+decic
+decimic
+(Adjective) Degree 10
+(Noun) A form of degree 10
+
+degree
+1.  The degree of a form is the total power of the variables in it.
+2.  The degree of an invariant or covariant or contravariant means its degree in terms of the coefficients of the form. The degree of a form considered as a form is usually not its degree when considered as a covariant.
+3.  Some authors exchange the meanings of "degree" and "order" of a covariant or concomitant.
+
+denary
+Depending on 10 variables
+
+determinant
+The determinant is a joint invariant of n vectors of an n-dimensional space.
+
+dialytic
+Sylvester's dialytic method is a method for calculating resultants, essentially by expressing them as the determinant of a Sylvester matrix. See Sylvester (1853, Glossary p. 543–548). Archaic. 
+
+differentiant
+Another name for an invariant of a binary form. Archaic. 
+
+discriminant
+  The discriminant of a form in n variables is the multivariate resultant of the n differentials with respect to each of the variables. For binary forms the discriminant vanishes if the form has multiple roots and is essentially the same as the discriminant of a polynomial of 1 variable. The discriminant of a form vanishes when the corresponding hypersurface has singularities (as a scheme).  
+disjunctive
+See Sylvester (1853, Glossary p. 543–548) 
+
+divariant
+An alternative name for a concomitant suggested by Salmon (1885, p.121) 
+
+duodecic
+duodecimic
+(Adjective) Degree 12
+(Noun) A form of degree 12
+
+E
+effective
+See Sylvester (1853, Glossary p. 543–548) 
+
+effluent
+See Sylvester (1853, Glossary p. 543–548). Archaic. 
+
+eliminant
+De Morgan's name for the (multivariate) resultant, an invariant of n forms in n variables that vanishes if they have a common nonzero solution.  (Elliott 1895, p.16) 
+
+emanant
+The rth emanant of a binary form in variables xi is a covariant given by the action of the rth power of the differential operator Σyi∂/∂xi. This is essentially the same as polarization. (Elliott 1895, p.56)  Sylvester (1853, Glossary p. 543–548) 
+
+endoscopic
+See Sylvester (1853, Glossary p. 543–548). Archaic. 
+
+equianharmonic contravariant
+A weight 4 contravariant of binary quartics (Dolgachev 2012, 6.4) 
+
+evectant
+ A contravariant given by the action of an evector.
+evector
+ A differential operator constructed from a binary form.
+excess
+The excess of a polynomial in the coefficients a0,...ap of a form of  degree p is ip–2w, where p is the degree of the polynomial and w is its weight. (Elliott 1895, p.141) 
+
+exoscopic
+See Sylvester (1853, Glossary p. 543–548). Archaic. 
+
+extensor
+An element of the kth exterior power of a vector space that can be written as the exterior product of k vectors.
+
+extent
+The extent of a polynomial in a0, a1,... is the largest value of p such that the polynomial involves ap. (Elliott 1895, p.138)
+
+F
+facient
+One of the variables of a form (Cayley 1860) 
+
+facultative
+A facultative point is one where a given function is positive. (Salmon 1885, p.243) 
+
+form
+A homogeneous polynomial in several variables, also called a quantic.
+
+functional determinant
+An archaic name for Jacobians
+
+fundamental
+1.  The first fundamental theorem describes generators (called brackets) for the ring of invariant polynomials on a sum of copies of a vector space V and its dual (for the special linear group of V). The second fundamental theorem describes the syzygies between the generators.
+2.  For fundamental scale see Sylvester (1853, Glossary p. 543–548). Archaic. 
+3.  A fundamental invariant is an element of a set of generators for a ring of invariants.
+4.  A fundamental system is a set of generators (for a ring of invariants, covariants, and so on).
+
+G
+Gordan
+Named for Paul Gordan.
+1.  Gordan's theorem states that the ring of invariants of a binary form (or several binary forms) is finitely generated. 
+
+grade
+The highest power of a bracket factor in the symbolic expression for an invariant. (Glenn 1915, 4.8) 
+
+gradient
+A homogeneous polynomial in a0, ..., ap all of whose terms have the same weight, where an has weight n. (Elliott 1895, p.138) Archaic.  
+
+Gröbner basis
+ A basis for an ideal of a ring of polynomials chosen according to some rule to make computations easier.
+ground form
+An element of a minimal set of homogeneous generators for the invariants of a form. Archaic.
+
+H
+hectic
+A joke term for a form of degree 100.
+
+harmonic contravariant
+A weight 6 contravariant of binary quartics (Dolgachev 2012, 6.4) 
+
+harmonizant
+A bilinear invariant of two forms whose vanishing means they are polar. (Dolgachev 2012, p.75) 
+
+Hermite
+Named after Charles Hermite
+1.  The Hermite contravariant is a  degree 12 class 9 contravariant of ternary cubics. (Dolgachev 2012, 3.4.3) 
+2.  Hermite's law of reciprocity states that the degree m covariants of a binary form of degree n correspond to the degree n covariants of a binary form of degree m.
+3.  The Hermite invariant is the degree 18 skew invariant of a binary quintic.
+
+Hessian
+ A covariant of a form u, given by the determinant of the matrix with entries ∂2u/∂xi∂xj.
+Hilbert
+Named after David Hilbert
+A Hilbert series is a formal power series whose coefficients are dimensions of spaces of invariants of various degrees. 
+Hilbert's theorem states that the ring of invariants of a finite-dimensional representation of a reductive group is finitely generated.
+
+homographic
+1.  A homographic transformation is a transformation taking x to (ax+b)/(cx+d). 
+2.  A homographic relation between x and y is a relation of the form  axy + bx + cy + d=0 .
+
+hyperdeterminant
+ An invariant of a multidimensional array of coefficients, generalizing the determinant of a 2-dimensional array.
+
+I
+identity covariant
+A form considered as a covariant of degree 1.
+
+immanant
+ A generalization of the determinant and permanent of a matrix
+inertia
+The signature of a real quadratic form. See Sylvester (1853, Glossary p. 543–548) 
+
+integral rational function
+A polynomial.
+
+intercalations
+See Sylvester (1853, Glossary p. 543–548). Archaic. 
+
+intermediate invariant
+An invariant of two forms constructed from two invariants of each of the forms. (Elliott 1895, p.23) 
+
+intermutant
+A special  form of permutant. (Cayley 1860) 
+
+invariant
+1.  (Adjective) Fixed by the action of a group
+2.  (Noun) An absolute invariant, meaning something fixed by a group action.
+3.  (Noun) A relative invariant, meaning something transforming according to a character of a group. In classical invariant theory it often refers to relatively invariant polynomials in the coefficients of a quantic, considered as a representation of a general linear group.
+
+involutant
+See Sylvester's collected papers, volume IV, page 135
+
+irreducible
+Not expressible as a polynomial in things of smaller degree.
+
+isobaric
+All terms having the same weight. (Elliott 1895, p.32)
+
+J
+Jacobian
+ A covariant of n forms fi  in n variables xj, given by the determinant of the matrix with entries ∂fi/∂xj.  
+joint invariant
+A relative invariant for polynomials over reducible representation of a group, in particular a relative invariant for several binary forms.
+
+K
+kenotheme
+Sylvester (1853, Glossary p. 543–548) defines this as "A finite system of discrete points defined by one or more homogeneous equations in number one less than the number of variables contained therein." This may mean an intersection of n hypersurfaces in n-dimensional projective space. Archaic.
+
+L
+linear
+Degree 1
+
+lineo-
+Used to form compound adjectives such as lineo-linear, lineo-quadric, and so on, indicating the bidegree of something. For example, lineo-linear means having degree 1 in each of two sets of variables. In particular the lineo-linear invariant of two binary forms has degree 1 in the coefficients of each form. (Elliott 1895, p.54) 
+
+Lüroth invariant
+A degree 54 invariant vanishing on Lüroth quartics (nonsingular quartic plane curves containing the 10 vertices of a complete pentalateral).
+(Dolgachev 2012, p.295)
+
+M
+meicatalecticizant
+Sylvester's original term for what he later renamed the catalecticant. Archaic.
+
+mixed concomitant
+A concomitant that involves both covariant and contravariant variables, in other words one that is not a covariant or contravariant. (Elliott 1895, p.77) 
+
+modular
+ Defined over a finite field.
+modulus
+An alternative name for the determinant of a linear transformation. (Elliott 1895, p.3) 
+
+monic
+1.  Adjective. Having leading coefficient 1.
+2.  Adjective. Having degree 1.
+3.  Noun. A form of degree 1. 
+
+monotheme
+See Sylvester (1853, Glossary p. 543–548). Archaic.
+
+N
+nonary
+Depending on 9 variables
+
+nonic
+(Adjective) Degree 9
+(Noun) A form of degree 9
+
+nullcone
+The cone of nullforms
+
+nullform
+ A form on which all invariants with zero constant term vanish.
+
+O
+octavic
+octic
+(Adjective) Degree 8
+(Noun) A form of degree 8
+
+octonary
+Depending on 8 variables
+
+Omega process
+ 
+order
+1.  The degree of a covariant or concomitant in the variables of a form.
+2.  Some authors interchange the meaning of "degree" and "order" of a covariant.
+3.  See Sylvester (1853, Glossary p. 543–548) 
+
+ordinary
+An ordinary invariant means a relative invariant, in other words something transforming according to a character of a group, as opposed to an absolute invariant.
+
+osculant
+ An invariant of several forms of the same degree generalizing the tact-invariant of two forms, equal to the discriminant if the number of forms is 1, and to the multivariate resultant if the number of forms is the number of variables. Salmon (1885, p.171)
+
+P
+partial transvectant
+ 
+partition
+ An expression of  a number as a sum of positive integers.(Elliott 1895, p.119) 
+peninvariant
+Same as seminvariant. (Cayley 1860) 
+
+permanent
+ A variation of the determinant of a matrix
+permutant
+(Cayley 1860) 
+
+perpetuant
+ Roughly an irreducible covariant of a form of infinite order.
+persymmetrical
+A persymmetrical matrix is a Hankel matrix. See Sylvester (1853, Glossary p. 543–548).  Archaic. 
+
+Pfaffian
+ A square root of the determinant of a skew-symmetric matrix.
+pippian
+An old name for the Cayleyan. 
+
+plagiogonal
+Related to or fixed by the orthogonal group of some quadratic form. See Sylvester's collected papers, volume I, page 357
+
+plexus
+A set of generators of an ideal, especially if the number of generators needed is larger than the codimension of the corresponding variety.
+
+polarization
+A method of reducing the degree of something by introducing extra variables.
+
+principiant
+A reciprocant that is invariant under homographic substitutions, up to a constant facts. See Sylvester's collected papers, vol IV, page 382
+
+projective invariant
+1.  An invariant of the projective general linear group.
+2.  An invariant of a central extension of a group.
+
+protomorph
+A set of protomorphs is a set of seminvariants, such that any seminvariant is a polynomial in the protomorphs and the inverse of the first protomorph. (Elliott 1895, p.206)
+
+Q
+quadratic
+quadric
+(Adjective) Degree 2
+(Noun) A form of degree 2
+
+quadricovariant
+A covariant of degree 2. (Salmon 1885, p.261) 
+
+quadrinvariant
+An invariant of degree 2. Sylvester (1853, Glossary p. 543–548). 
+
+quadro-
+Degree 2. Used to form compound adjectives such as quadro-linear, quadro-quadric, and so on, indicating the bidegree of something. For example, quadro-linear means having degree 2 in the first of two sets of variables and degree 1 in the other.  
+
+quantic
+An archaic name for a homogeneous polynomial in several variables, now usually called a form.
+
+quartic
+(Adjective) Degree 4
+(Noun) A form of degree 4
+
+quarticovariant
+A covariant of degree 4.
+
+quartinvariant
+An invariant of degree 4
+
+quarto-
+Used to form compound adjectives such as quarto-linear, quarto-quadric, and so on, indicating the bidegree of something. For example, quarto-linear means having degree 4 in the first of two sets of variables and degree 1 in the other.  
+
+quaternary
+Depending on 4 variables
+
+quinary
+Depending on 5 variables. 
+
+quintic
+(Adjective) Degree 5
+(Noun) A form of degree 5
+
+quintinvariant
+An invariant of degree 5.
+
+quippian
+
+R
+rational integral function
+A polynomial.
+
+reciprocal
+The reciprocal of a matrix is the adjugate matrix.
+
+reciprocant
+1.  A contravariant of a ternary form, giving the equation of a dual curve. (Elliott 1895, p.400) 
+
+reciprocity
+Exchanging the degree of a form with the degree of an invariant. For example, Hermite's law of reciprocity states that the degree p invariants of a form of degree n correspond to the degree n invariants of a form of degree p. (Elliott 1895, p.137) 
+
+reducible
+Expressible as a polynomial in things of smaller degree.
+
+relative invariant
+Something transforming according to a 1-dimensional character of a group, often a power of the determinant. Same as ordinary invariant.
+
+resultant
+1.   A joint invariant of two binary forms that vanishes when they have a common root. More generally a (multivariate) resultant is a joint invariant of n forms in n variables that vanishes if they have a common nontrivial zero. Sometimes called an eliminant in older books. 
+2.  An archaic term for the determinant
+
+revenant
+Suggested by Sylvester (collected works vol 3, page 593) as an alternative name for a perpetuant.
+
+Reynolds operator
+ Projection onto the fixed vectors
+rhizoristic
+See Sylvester (1853, Glossary p. 543–548).  Archaic.
+
+S
+Salmon invariant
+A degree 60 invariant vanishing on ternary quartics with an
+inflection bitangent. (Dolgachev 2012, 6.4) 
+
+Scorza covariant
+A covariant of ternary quartics. (Dolgachev 2012, 6.3.4) 
+
+semicovariant
+An analogue of seminvariants for covariants. See (Burnside & Panton 1881, p.329) 
+
+semi-invariant
+seminvariant
+1.  The leading term of a covariant, also called its source. (Grace & Young 1903, section 33) 
+2.  An invariant of the group of upper triangular matrices.
+
+senary
+Depending on 6 variables. (Rare)
+
+septenary
+Depending on 7 variables
+
+septic
+septimic
+(Adjective) Degree 7
+(Noun) A form of degree 7
+
+sextic
+(Adjective) Degree 6
+(Noun) A form of degree 6
+
+sexticovariant
+A covariant of degree 6
+
+sextinvariant
+An invariant of degree 6 (Salmon 1885, p.262) 
+
+signaletic
+See Sylvester (1853, Glossary p. 543–548).  Archaic. 
+
+singular
+1.  See Sylvester (1853, Glossary p. 543–548) 
+
+skew
+A skew invariant is a relative invariant of a group G that changes sign under an element of order 2 in its abelianization. In particular for the general linear group it changes sign under elements of determinant –1, and for the symmetric group it changes sign under odd permutations. For binary forms skew invariants are the invariants of odd weight. They do not exist for binary quadrics, cubics, or quartics, but do for binary quintics. (Elliott 1895, p.112) 
+
+source
+The source of a covariant is its leading term, when the covariant is considered as a form. Also called a seminvariant. (Elliott 1895, p.126) 
+
+Steinerian
+ 
+symbolic
+ The symbolic method is a way of representing invariants, that repeatedly uses  the identification of the symmetric power of a vector space with the symmetric elements of a tensor power. 
+syrrhizoristic
+Sylvester (1853, Glossary p. 543–548) defined this as "A syrrhizoristic series is a series of disconnected functions which serve to determine the effective intercalations of the real roots of two functions lying between any assigned limits."  Archaic. This term does not seem to have been used (or understood) by anyone other than Sylvester.
+
+syzygant
+(Elliott 1895, p.198) 
+
+syzygetic
+See Sylvester (1853, Glossary p. 543–548) 
+
+syzygy
+A linear or algebraic relation, especially one between generators of a ring or module.
+
+T
+tacinvariant
+tact invariant
+An invariant of one or two ternary forms that vanishes if the corresponding curve touches itself, or if the two curves touch each other. It is generalized by the osculant.
+
+tamisage
+Sylvester's name for his method of guessing the degrees of a generating set of invariants or covariants by examining the generating function.(Elliott 1895, p.175).  Archaic. 
+
+tantipartite
+An archaic term for multilinear. (Cayley 1860) 
+
+Tschirnhaus transformation
+ 
+ternary
+Depending on 3 variables
+
+Toeplitz invariant
+An invariant of nets of quadrics in 3-dimensional projective space that vanishes on nets with a common polar pentahedron. (Dolgachev 2012, p.51) 
+
+transfer
+A method of constructing contravariants of forms in n+1 variables from invariants of forms in n variables. (Dolgachev 2012, 3.4.2) 
+
+transvectant
+ An invariant formed from n invariants in n variables using Cayley's omega process. (Elliott 1895, p.71) 
+trinomial
+A polynomial with at most three non-zero coefficients.
+
+U
+ueberschiebung
+Transvectant. (Elliott 1895, p.171) 
+
+umbrae
+umbral
+See Sylvester (1853, Glossary p. 543–548) 
+
+unary
+Depending on 1 variable. Same as univariate.
+
+undecic
+undecimic
+(Adjective) Degree 11
+(Noun) A form of degree 11
+
+unimodular
+Having determinant 1
+
+unitarian trick
+Finite-dimensional representations of a semisimple Lie group are equivalent to finite-dimensional representations of a compact form, and are therefore completely reducible.
+
+univariate
+Depending on 1 variable. Same as unary.
+
+universal concomitant
+The pairing between a vector space and its dual, considered as a concomitant. (Elliott 1895, p.77)
+
+V
+W
+weight
+1.  The power of the determinant appearing in the formula for transformation of a relative invariant.
+2.  A character of a torus
+3.  See Sylvester (1853, Glossary p. 543–548) 
+4.  The weight of ai is i, and the weight of a product of monomials is the sum of their weights.
+
+XYZ
+zeta
+ζ
+A product of squared differences. See Sylvester (1853, Glossary p. 543–548)
+
+See also
+Glossary of classical algebraic geometry
+
+References
+Brioschi, F. (1863). "Sur la théorie des formes cubiques à trois indéterminées". CR. 56: 304–307.
+Burnside, William Snow; Panton, Arthur William (1881), The theory of equations: With an introduction to the theory of binary algebraic forms, 2 volumes, Hodges, Figgis & co., MR 0115987
+Dieudonné, Jean A.; Carrell, James B. (1970), "Invariant theory, old and new", Advances in Mathematics, 4: 1–80, doi:10.1016/0001-8708(70)90015-0, ISSN 0001-8708, MR 0255525 Reprinted as Dieudonné, Jean A.; Carrell, James B. (1971), Invariant theory, old and new, Boston, MA: Academic Press, doi:10.1016/0001-8708(70)90015-0, ISBN 978-0-12-215540-6, MR 0279102
+Cayley, Arthur (1860), "Recent terminology in mathematics", The English Cyclopaedia, vol. 5, Charles Knight, London, pp. 534–542, Reprinted in Cayley's collected works, volume IV, pages 594–608
+Crilly, Tony (2006), Arthur Cayley. Mathematician laureate of the Victorian age, Johns Hopkins University Press, ISBN 978-0-8018-8011-7, MR 2284396
+Dolgachev, Igor (2003), Lectures on invariant theory, London Mathematical Society Lecture Note Series, vol. 296, Cambridge University Press, doi:10.1017/CBO9780511615436, ISBN 978-0-521-52548-0, MR 2004511
+Dolgachev, Igor V. (2012), Classical Algebraic Geometry: a modern view (PDF), Cambridge University Press, ISBN 978-1-107-01765-8, archived from the original (PDF) on 2014-05-31, retrieved 2012-04-26
+Elliott, Edwin Bailey (1895), "An introduction to the algebra of quantics", Nature, Oxford, Clarendon Press, 53 (1364): 147, Bibcode:1895Natur..53..147G, doi:10.1038/053147a0, S2CID 4036717, Reprinted by Chelsea Scientific Books 1964
+Glenn, Oliver E. (1915), A Treatise on the Theory of Invariants, Ginn and company, ISBN 978-1-4297-0030-6
+Grace, J. H.; Young, Alfred (1903), The algebra of invariants, Cambridge: Cambridge University Press
+Hilbert, David (1890), "Ueber die Theorie der algebraischen Formen", Mathematische Annalen, 36 (4): 473–534, doi:10.1007/BF01208503, ISSN 0025-5831, S2CID 179177713
+Hilbert, D. (1893), "Über die vollen Invariantensysteme (On Full Invariant Systems)", Math. Annalen, 42 (3): 313, doi:10.1007/BF01444162, S2CID 177808686
+Olver, Peter J. (1999), Classical invariant theory, Cambridge: Cambridge University Press, ISBN 0-521-55821-2
+Salmon, George (1885) [1859], Lessons introductory to the modern higher algebra (4th ed.), Dublin, Hodges, Figgis, and Co., ISBN 978-0-8284-0150-0
+Sylvester, James Joseph (1853), "On a Theory of the Syzygetic Relations of Two Rational Integral Functions, Comprising an Application to the Theory of Sturm's Functions, and That of the Greatest Algebraical Common Measure", Philosophical Transactions of the Royal Society of London, The Royal Society, 143: 407–548, doi:10.1098/rstl.1853.0018, ISSN 0080-4614, JSTOR 108572
+Sylvester, James Joseph; Franklin, F. (1879), "Tables of the Generating Functions and Groundforms for the Binary Quantics of the First Ten Orders", American Journal of Mathematics, The Johns Hopkins University Press, 2 (3): 223–251, doi:10.2307/2369240, ISSN 0002-9327, JSTOR 2369240
+Weyl, Hermann (1939), The Classical Groups. Their Invariants and Representations, Princeton University Press, ISBN 978-0-691-05756-9, MR 0000255
+
+External links
+Brouwer, Andries E., Invariants of binary forms
