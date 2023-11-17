@@ -15,6 +15,16 @@ lemmatizer = WordNetLemmatizer()
 PATH_MEDICAL_ARTICLES = 'data/medicalArticles'
 PATH_OTHER_ARTICLES = 'data/otherArticles'
 
+# util function
+def readFile(filepath: str) -> str:
+    text = ''
+    with open(filepath, 'r', encoding='utf-8') as file:
+        lines = file.readlines()
+        # clear the text 
+        for line in lines:
+            text += line.strip() + '\n'
+
+    return text
 
 # perform the stopwords elimination
 def deleteStopwords(article: str) -> str:
@@ -75,18 +85,12 @@ def createBoW(isMedical: bool) -> None:
     # for each file read the article
     for filename in articlesDirectory:
         filepath =  pathToArticles + '/' + filename
-        with open(filepath, 'r', encoding='utf-8') as file:
-            lines = file.readlines()
-            # clear the text 
-            text = ''
-            for line in lines:
-                text += line.strip() + '\n'
-            # process the text
-            text = performPreProcessing(text)
-            # count occurrences, we use set in order to have unique words.
-            # this is useful if we want to calculate the document occurrences
-            countOccurrences(occurrencesDict, set(text))
-    # end for
+        text = readFile(filepath)
+        # process the text
+        text = performPreProcessing(text)
+        # count occurrences, we use set in order to have unique words.
+        # this is useful if we want to calculate the document occurrences
+        countOccurrences(occurrencesDict, set(text))
 
     # sort the dict in order to have word with high occurrence at top
     occurrencesDict = dict(sorted(occurrencesDict.items(), key=lambda item: item[1], reverse=True))
@@ -106,23 +110,11 @@ def testArticle(article: list, filename: str) -> None:
     medicalFrequency = {}
     otherFrequency = {}
 
-    with open('data/medicalFrequencies.json', 'r', encoding='utf-8') as medFreq:
-        lines = medFreq.readlines()
-        # clear the text 
-        text = ''
-        for line in lines:
-            text += line.strip() + '\n'
-    
-        medicalFrequency = json.loads(text)
+    medicalJson = readFile('data/medicalFrequencies.json')
+    medicalFrequency = json.loads(medicalJson)
 
-    with open('data/otherFrequencies.json', 'r', encoding='utf-8') as otherFreq:
-        lines = otherFreq.readlines()
-        # clear the text 
-        text = ''
-        for line in lines:
-            text += line.strip() + '\n'
-    
-        otherFrequency = json.loads(text)
+    otherJson = readFile('data/otherFrequencies.json')
+    otherFrequency = json.loads(otherJson)
 
     totalMedProduct = 0
     totalOtherProduct = 0
@@ -145,9 +137,10 @@ def testArticle(article: list, filename: str) -> None:
     
     if(medicalProb > otherProb):
         log(f'{filename} is a medical article with {medicalProb * 100}% probability')
-        log(otherProb)
+        log(f'other probability {otherProb * 100}%')
     else:
         log(f'{filename} is a non-medical article with {medicalProb * 100}% probability')
+        log(f'medical probability {medicalProb * 100}%')
 
 # 
 def main():
@@ -161,16 +154,10 @@ def main():
     testArticlesDirectory = os.listdir('data/testArticles')
     # for each file read the article
     for testFile in testArticlesDirectory:
-        filepath =  'data/testArticles' + '/' + testFile
-        with open(filepath, 'r', encoding='utf-8') as file:
-            lines = file.readlines()
-            
-            text = ''
-            for line in lines:
-                text += line.strip() + '\n'
-
-            text = performPreProcessing(text)
-            testArticle(text, testFile)
+        filepath =  'data/testArticles/' + testFile
+        text = readFile(filepath)
+        text = performPreProcessing(text)
+        testArticle(text, testFile)
 
 
 if __name__ == '__main__':
