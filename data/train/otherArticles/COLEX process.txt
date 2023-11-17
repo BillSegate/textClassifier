@@ -1,0 +1,43 @@
+The COLEX process (or COLEX separation) is a chemical method of isotopic separation of lithium-6 and lithium-7, based on the use of mercury. COLEX stands for column exchange.
+Since the beginning of the atomic era, a variety of lithium enrichments methods have been developed (such as chemical exchange, electromagnetic, laser, centrifugal) and the COLEX process has been the most extensively implemented method so far.
+
+Early development
+In the US, several chemical exchange methods for lithium isotope separation have been under investigation in the 1930s and 1940s to develop a process for lithium-6 production, so that tritium could be obtained for thermonuclear weapons research.
+The system finally selected was the COLEX process, with aqueous lithium hydroxide (LiOH) contacted with lithium-mercury amalgam. This process was initially used in the US between 1955 and 1963 in the Y12 plant in Oak Ridge, Tennessee. The COLEX plants in Oak Ridge had a very rough start in 1955 with major problems in this entirely new, complicated, and potentially hazardous technology. Stockpiles of lithium-6 and lithium-7 from that period have been available until recently to meet the relatively small domestic and world demandSince then, due to environmental concerns, the US has stopped lithium enrichments operations in 1963.South Africa also built a pilot plant using the COLEX method to make lithium-6 for its nuclear weapons program in the 1970s.
+
+Lithium isotopes and uses
+Natural lithium contains about 7.5% lithium-6 ( 63Li ), with the rest being lithium-7 ( 73Li ).
+
+Natural lithium
+Naturally occurring lithium has many non nuclear industrial uses, ranging from Li-ion batteries, ceramics, lubricants, to glass.
+In the beginning of the 21st century, the steady increase of lithium world production is mainly stimulated by the demand of Li-ion batteries for electric vehicles.
+The nuclear applications of lithium requires relatively small annual quantities of lithium, in the form of enriched lithium-6 and lithium-7.
+
+Lithium-6
+Lithium-6 is valuable as the source material for the production of tritium and as an absorber of neutrons in nuclear fusion reactions.
+Enriched lithium-6 is used as a neutron booster in thermonuclear bombs, and will be a key component in the tritium breeding modules (required enrichment from 7.5% to 30%-90%) of the future fusion reactors based on plasma confinement.The separation of lithium-6 has by now ceased in the large thermonuclear powers (notably USA, Russia, China), but stockpiles of it remain in these countries.
+
+Lithium-7
+Highly enriched lithium-7 (more than 99%) is used as a coolant in molten salt reactors (MSRs) and pH stabilizer in pressurized water reactors (PWRs).
+
+Working principle
+Lithium-6 has a greater affinity than lithium-7 for the element mercury. When an amalgam of lithium and mercury is added to aqueous lithium hydroxide, the lithium-6 becomes more concentrated in the amalgam and the lithium-7 more in the hydroxide solution.
+The COLEX separation method makes use of this by passing a counter-flow of lithium-mercury amalgam flowing down and aqueous lithium hydroxide flowing up through a cascade of stages. The fraction of lithium-6 is preferentially drained by the mercury, but the lithium-7 flows mostly with the hydroxide. At the bottom of the column, the lithium (enriched with lithium-6) is separated from the amalgam, and the mercury is recovered to be reused in the process. At the top, the lithium hydroxide solution is electrolyzed to liberate the lithium-7 fraction.
+The enrichment obtained with this method varies with the column length, the flow speed, and the operating temperature.
+
+Advantages and disadvantages
+From a technical and economical point of view, the COLEX separation has been so far the only method that enables industrial scale production of enriched lithium at minimal costs. The technology is mature, and has changed little since its development in the 1950s and 1960s.The method is not without a number of drawbacks, the main of which are:
+
+toxicity and large amounts of mercury, participating in the process
+amalgam trend to decomposition in aqueous solutions
+formation of dangerous mercury-containing waste
+high energy consumptionThe technology has potentially disastrous environmental implications. A significant amount of mercury is required (24 million pounds were used in the U.S. between 1955 and 1963) and many opportunities for leaks into the environment exist. Cleanup remains extremely difficult and expensive.In spite of the health and environmental concerns associated with processes based on mercury, some research is still being done on the COLEX separation along with cleaner lithium enrichment methods.
+
+COLEX separation facilities in the world
+Nowadays, it seems that China is the only country in the world which officially employs the COLEX process to enrich lithium. Due to environmental concerns and relatively low demand for enriched lithium, further use of the COLEX process is officially banned in the USA since 1963, which strengthens China’s near unanimous hold over the market of enriched lithium, followed by Russia.Russian enrichment capacities focus on lithium-7 production by electrolysis of an aqueous lithium chloride solution using a mercury cathode, which is thus different from the COLEX process.Although US nuclear industry relies heavily on Chinese and Russian enriched lithium, ecological concerns over the process may impede its future domestic use at industrial scale.
+However, with the upswing in research in the general area of fusion reactor technology (ITER, DEMO) there has been renewed interest during the last decade in better processes for 6Li-7Li separation, especially in Japan and the US.North Korea is assessed to have procured the means to build a lithium-6 enrichment plant based on the COLEX separation.No industrial-scale facilities exist today that could meet the future requirements of commercial fusion power plants.
+
+See also
+
+
+== References ==

@@ -1,0 +1,4 @@
+In the field of nuclear engineering, a rabbit is a pneumatically controlled tool used to insert small samples of material inside the core of a nuclear reactor, usually for the purpose of studying the effect of irradiation on the material. Some rabbits have special linings to screen out certain types of neutrons. (For example, the Missouri University of Science and Technology research reactor uses a cadmium-lined rabbit to allow only high-energy neutrons through to samples in its core.)
+
+
+== References ==

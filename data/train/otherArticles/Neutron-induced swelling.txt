@@ -1,0 +1,5 @@
+Neutron-induced swelling is the increase of volume and decrease of density of materials subjected to intense neutron radiation. Neutrons impacting the material's lattice rearrange its atoms, causing buildup of dislocations, voids, and Wigner energy. Together with the resulting strength reduction and embrittlement, it is a major concern for materials for nuclear reactors.
+Materials show significant differences in their swelling resistance.
+
+See also
+Radiation hardening

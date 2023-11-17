@@ -1,0 +1,8 @@
+A radionuclide generator is a device which provides a local supply of a short-lived radioactive substance from the decay of a longer-lived parent radionuclide. They are commonly used in nuclear medicine to supply a radiopharmacy. The generator provides a way to separate the desired product from the parent, typically in a process that can be repeated several times over the life of the parent.Use of a generator avoids the challenge of distributing short-lived radionuclides from the original production site (typically a nuclear reactor) to individual users; the loss of activity due to decay in transit can result in too little being supplied or the need for much larger initial quantities to be sent out (incurring additional production and transport costs). An alternative to generators for on-site production of radionuclides is a cyclotron, though it is uncommon that the same radionuclide can be provided by both methods. It is feasible to have cyclotrons at larger centres, but they are much more expensive and complex than generators. In some cases a cyclotron is used to produce the parent radionuclide for a generator.Long-lived radionuclides which are administered to a patient with a view to utilising useful properties of a daughter product have been termed in-vivo generators, though they are not routinely used clinically.
+
+Commercial and experimental generators
+Further reading
+IAEA. "Generator Module". Human Health Campus. International Atomic Energy Agency.
+
+
+== References ==

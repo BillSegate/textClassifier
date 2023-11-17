@@ -1,0 +1,83 @@
+Nuclear engineering is the engineering discipline concerned with the design and application of systems that make use of the energy released by nuclear processes.
+The most prominent application of nuclear engineering is the generation of electricity. Worldwide, some 440 nuclear reactors in 32 countries generate 10 percent of the world's energy through nuclear fission. In the future, it is expected that nuclear fusion will add another nuclear means of generating energy. Both reactions make use of the nuclear binding energy released when atomic nucleons are either separated (fission) or brought together (fusion). The energy available is given by the binding energy curve, and the amount generated is much greater than that generated through chemical reactions. Fission of 1 gram of uranium yields as much energy as burning 3 tons of coal or 600 gallons of fuel oil, without adding carbon dioxide to the atmosphere.
+
+What nuclear engineers do
+Nuclear engineers work in such areas as the following:
+Nuclear reactor design, which has evolved from the Generation I, proof-of concept, reactors of the 1950s and 1960s, to Generation II, Generation III, and Generation IV concepts
+Thermal hydraulics and heat transfer. In a typical nuclear power plant, heat generates steam that drives a steam turbine and a generator that produces electricity
+Materials science as it relates to nuclear power applications
+Managing the nuclear fuel cycle, in which fissile material is obtained, formed into fuel, removed when depleted, and safely stored or reprocessed
+Nuclear propulsion, mainly for military naval vessels, but there have been concepts for aircraft and missiles. Nuclear power has been used in space since the 1960s
+Plasma physics, which is integral to the development of fusion power
+Weapons development and management
+Generation of radionuclides, which have applications in industry, medicine, and many other areas
+Nuclear waste management
+Health physics
+Nuclear medicine and Medical Physics
+Health and safety
+Instrumentation and control engineering
+Process engineering
+Project Management
+Quality engineering
+Reactor operations
+Nuclear security (detection of clandestine nuclear materials)
+Nuclear engineering even has a role in criminal investigation, and agriculture.Many chemical, electrical and mechanical and other types of engineers also work in the nuclear industry, as do many scientists and support staff. In the U.S., nearly 100,000 people directly work in the nuclear industry. Including secondary sector jobs, the number of people supported by the U.S. nuclear industry is 475,000.
+
+History of nuclear engineering
+An argument can be made that nuclear engineering was born in 1938, with the discovery of nuclear fission. However, from the engineering perspective of applying science to create something new, a more fitting beginning might be 1942, when Chicago Pile-1 (CP-1) began operating at the University of Chicago as a part of the Manhattan Project. The first artificial nuclear reactor, CP-1 was designed by a team of physicists who were concerned that Nazi Germany might also be seeking to build a bomb based on nuclear fission. (The earliest known nuclear reaction on Earth occurred naturally, 1.7 billion years ago, in Oklo, Gabon, Africa.) The second artificial nuclear reactor, the X-10 Graphite Reactor was also a part of the Manhattan Project, as were the plutonium-producing reactors of the Hanford Engineer Works.
+The first nuclear reactor to generate electricity was Experimental Breeder Reactor I (EBR-I), which did so near Arco, Idaho, in 1951. EBR-I was a standalone facility, not connected to a grid, but a later Idaho research reactor in the BORAX series did briefly supply power to the town of Arco in 1955.
+The first commercial nuclear power plant, built to be connected to an electrical grid, is the Obninsk Nuclear Power Plant, which began operation in 1954. The second appears to be the Shippingport Atomic Power Station, which produced electricity in 1957.
+For a brief chronology, from the discovery of uranium to the current era, see Outline History of Nuclear Energy or History of Nuclear Power.
+See List of Commercial Nuclear Reactors for a comprehensive listing of nuclear power reactors and IAEA Power Reactor Information System (PRIS) for worldwide and country-level statistics on nuclear power generation.
+
+Where nuclear engineers work
+In the United States, nuclear engineers are employed as follows:
+Electric power generation 25%
+Federal government 18%
+Scientific research and development 15%
+Engineering services 5%
+Manufacturing 10%
+Other areas 27%Worldwide, job prospects for nuclear engineers are likely best in those countries that are active in or exploring nuclear technologies:
+
+Nuclear engineering schools and training
+Organizations that provide study and training in nuclear engineering include the following:
+
+Nuclear engineering organizations
+American Nuclear Society
+Asian Network for Education in Nuclear Technology (ANENT) https://www.iaea.org/services/networks/anent
+Canadian Nuclear Association
+Chinese Nuclear Society
+International Atomic Energy Agency
+International Energy Agency (IEA)
+Japan Atomic Industrial Forum (JAIF)
+Korea Nuclear Energy Agency (KNEA)
+Latin American Network for Education in Nuclear Technology (LANENT) https://www.iaea.org/services/networks/lanent
+Minerals Council of Australia
+Nucleareurope
+Nuclear Institute
+Nuclear Energy Institute (NEI)
+Nuclear Industry Association of South Africa (NIASA)
+Nuclear Technology Education Consortion https://www.ntec.ac.uk/
+OECD Nuclear Energy Agency (NEA)
+Regional Network for Education and Training in Nuclear Technology (STAR-NET) https://www.iaea.org/services/networks/star-net
+World Nuclear Association
+World Nuclear Transport Institute
+
+See also
+References
+Further reading
+Ash, Milton, "Nuclear reactor kinetics", McGraw-Hill, (1965)
+Cravens, Gwyneth. Power to Save the World (2007)
+Gowing, Margaret. Britain and Atomic Energy, 1939–1945 (1964).
+Gowing, Margaret, and Lorna Arnold. Independence and Deterrence: Britain and Atomic Energy, Vol. I: Policy Making, 1945–52; Vol. II: Policy Execution, 1945–52 (London, 1974)
+Johnston, Sean F. "Creating a Canadian Profession: The Nuclear Engineer, 1940–68," Canadian Journal of History, Winter 2009, Vol. 44 Issue 3, pp 435–466
+Johnston, Sean F. "Implanting a discipline: the academic trajectory of nuclear engineering in the USA and UK," Minerva, 47 (2009), pp. 51–73
+
+External links
+
+Electric Generation from Commercial Nuclear Power
+Hacettepe University Department of Nuclear Engineering
+Nuclear Engineering International magazine
+Nuclear Safety Info Resources
+Nuclear Science and Engineering technical journal
+Science and Technology of Nuclear Installation Open-Access Journal

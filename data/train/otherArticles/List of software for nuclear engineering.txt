@@ -1,0 +1,82 @@
+With the decreased cost and increased capabilities of computers, Nuclear Engineering has implemented computer software (Computer code to Mathematical model) into all facets of this field. There are a wide variety of fields associated with nuclear engineering, but computers and associated software are used most often in design and analysis. Neutron Kinetics, Thermal-hydraulics, and structural mechanics are all important in this effort. each software need to test and verify before use. The codes can be separated by use and function. most of software's written in C and Fortran.
+
+Monte Carlo Radiation Transport
+Geant4
+MCCARD
+MCNP
+OpenMC - https://github.com/openmc-dev/openmc
+PHITS - https://phits.jaea.go.jp/
+SCALE(KENO V and KENO VI) - https://www.ornl.gov/scale
+Serpent
+TRIPOLI-4 - http://www.cea.fr/nucleaire/tripoli-4
+
+Transmutation, fuel depletion
+ACAB code Activation and Transmutation calculations for nuclear applications
+ORIP_XXI code  Isotope transmutation simulations
+ORILL Code 1D transmutation, fuel depletion (burn-up) and radiological protection code
+FISPACT-II Multiphysics, inventory and source-term code
+MURE Serpent-MCNP Utility for Reactor Evolution
+VESTA Monte Carlo depletion interface code
+
+Toolkit
+PyNE The Nuclear Engineering Toolkit - https://pyne.io/
+
+Deterministic Radiation Transport
+CASMO5 - https://www.studsvik.com/our-solutions/products/casmo/
+HELIOS-2 - https://www.studsvik.com/our-solutions/products/helios-2/
+SCALE - https://www.ornl.gov/scale
+MPACT - https://www.ornl.gov/division/rnsd/projects/mpact
+THOR - https://github.com/NCSU-NCSG/THOR
+nTRACER
+
+Steady-state Reactor Analysis
+SIMULATE5 - https://www.studsvik.com/our-solutions/products/simulate5/
+
+Spatial Kinetics
+PARCS - https://engineering.purdue.edu/PARCS
+SIMULATE-3K - https://www.studsvik.com/our-solutions/products/simulate3-k/
+NESTLE - http://necluster.engr.utk.edu/nestledev
+Citation - http://www.oecd-nea.org/tools/abstract/detail/nesc0387
+
+Thermal-Hydraulics
+ATHLET https://www.grs.de/en/computer-code-athlet
+TRACE
+Idaho National Laboratory's RELAP5-3D
+GOTHIC - http://www.numerical.com/software/gothic
+FLICA-4
+RETRAN (RETRAN-02 and RETRAN-3D)
+VIPRE-01
+PROTO-FLO
+PROTO-HX
+PROTO-HVAC
+PROTO-Sprinkler
+
+Computational Fluid Dynamics
+CFX
+FLUENT
+StarCD
+STAR-CCM+
+LOGOS - http://logos.vniief.ru/
+COBRA-TF - https://www.ne.ncsu.edu/rdfmg/cobra-tf/
+TransAT - https://www.transat-cfd.com/
+
+Severe Accident
+ATHLET-CD - https://www.grs.de/en/simulation-codes/athlet-cd
+MELCOR
+MAAP - http://www.fauske.com/nuclear/maap-modular-accident-analysis-programMany codes are supported by the U.S. Nuclear Regulatory Commission (NRC). These include SCALE, PARCS, TRACE (Formerly RELAP5 and TRAC-B), MELCOR, and many others.
+http://www.nrc.gov/about-nrc/regulatory/research/safetycodes.html
+
+See also
+Safety code (nuclear reactor)
+Computational science
+Computational physics
+Computer simulation
+List of software for nanostructures modeling
+
+References
+External links
+http://www.min.uc.edu/nuclear/current_research/sinema-research/codes-of-interest
+https://www.nrc.gov/about-nrc/regulatory/research/safetycodes.html
+http://www.oecd-nea.org/tools/abstract/list
+http://www.ne.anl.gov/codes/
+http://www.irsn.fr/EN/Research/Scientific-tools/Computer-codes/Pages/Computer-codes-2624.aspx

@@ -1,0 +1,86 @@
+A cardiac stress test is a cardiological examination that evaluates the cardiovascular system's response to external stress within a controlled clinical setting. This stress response can be induced through physical exercise (usually a treadmill) or intravenous pharmacological stimulation of heart rate.As the heart works progressively harder (stressed) it is monitored using an electrocardiogram (ECG) monitor. This measures the heart's electrical rhythms and broader electrophysiology. Pulse rate, blood pressure and symptoms such as chest discomfort or fatigue are simultaneously monitored by attending clinical staff. Clinical staff will question the patient throughout the procedure asking questions that relate to pain and perceived discomfort. Abnormalities in blood pressure, heart rate, ECG or worsening physical symptoms could be indicative of coronary artery disease.Stress testing does not accurately diagnose all cases of coronary artery disease, and can often indicate that it exists in people who do not have the condition. The test can also detect heart abnormalities such as arrythmias, and conditions affecting  electrical conduction within the heart such as various types of fascicular blocks.A "normal" stress test does not offer any substantial reassurance that a future unstable coronary plaque will not rupture and block an artery, inducing a heart attack. As with all medical diagnostic procedures, data is only from a moment in time. A primary reason stress testing is not perceived as a robust method of CAD detection — is that stress testing generally only detects arteries that are severely narrowed (~70% or more).
+
+Stress testing and echocardiography
+A stress test may be accompanied by echocardiography. The echocardiography is performed both before and after the exercise so that structural differences can be compared.
+A resting echocardiogram is obtained prior to stress. The ultrasound images obtained are similar to the ones obtained during a full surface echocardiogram, commonly referred to as transthoracic echocardiogram. The patient is subjected to stress in the form of exercise or chemically (often dobutamine). After the target heart rate is achieved, 'stress' echocardiogram images are obtained. The two echocardiogram images are then compared to assess for any abnormalities in wall motion of the heart. This is used to detect obstructive coronary artery disease.
+
+Cardiopulmonary exercise stress testing
+While also measuring breathing gases (e.g., oxygen saturation, maximal oxygen consumption), the test is often referred to as a cardiopulmonary exercise test. Common indications for a cardiopulmonary exercise test include evaluation of shortness of breath, workup before heart transplantation, and prognosis and risk assessment of heart failure patients.
+The test is also common in sport science for measuring athletes' maximal oxygen consumption, V̇O2 max. In 2016, the American Heart Association published an official scientific statement advocating that cardiorespiratory fitness, quantifiable as V̇O2 max and measured during a cardiopulmonary exercise test, be categorized as a clinical vital sign and should be routinely assessed as part of clinical practice.The CPX test can be done on a treadmill or cycle ergometer. In untrained subjects, V̇O2 max is 10% to 20% lower when using a cycle ergometer compared with a treadmill.
+
+Stress testing using injected nuclear markers
+A nuclear stress test uses a gamma camera to image radioisotopes injected into the bloodstream. The best known example  is myocardial perfusion imaging. Typically, a radiotracer (Tc-99 sestamibi, Myoview or thallous chloride 201) may be injected during the test. After a suitable waiting period to ensure proper distribution of the radiotracer, scans are acquired with a gamma camera to capture images of the blood flow. Scans acquired before and after exercise are examined to assess the state of the coronary arteries of the patient. By showing the relative amounts of radioisotope within the heart muscle, the nuclear stress tests more accurately identify regional areas of reduced blood flow.Stress and potential cardiac damage from exercise during the test is a problem in patients with ECG abnormalities at rest or in patients with severe motor disability. Pharmacological stimulation from vasodilators such as dipyridamole or adenosine, or positive chronotropic agents such as dobutamine can be used. Testing personnel can include a cardiac radiologist, a nuclear medicine physician, a nuclear medicine technologist, a cardiology technologist, a cardiologist, and/or a nurse. The typical dose of radiation received during this procedure can range from 9.4 to 40.7 millisieverts.
+
+Recommended utility of this procedure
+The American Heart Association recommends ECG treadmill testing as the first choice for patients with medium risk of coronary heart disease according to risk factors of smoking, family history of coronary artery stenosis, hypertension, diabetes and high cholesterol. In 2013, in its "Exercise Standards for Testing and Training", the AHA indicated that high frequency QRS analysis during ECG treadmill test have useful test performance for detection of coronary heart disease.
+Perfusion stress test (with 99mTc labelled sestamibi) is appropriate for select patients, especially those with an abnormal resting electrocardiogram.
+Intracoronary ultrasound or angiogram can provide more information but is invasive and carries the risk of complications associated with cardiac catheterization procedures.
+
+Diagnostic value
+The common approach for stress testing recommended by the American College of Cardiology and the American Heart Association involves several methods to assess cardiac health. These methods provide information for diagnosing and managing heart-related conditions. Two primary stress tests utilized are a treadmill test using ECG/electrophysiology metrics and nuclear testing, each have unique sensitivity and specificity values.
+The treadmill test, employing the modified Bruce protocol, demonstrates a sensitivity range of around 73-90% and a specificity range of around 50-74%. Sensitivity refers to the percentage of individuals with the condition correctly identified by the test, while specificity denotes the percentage of individuals without the condition correctly identified as not having it. The nuclear stress test exhibits a sensitivity of 81% and a specificity ranging from 85 to 95%.To arrive at the patient's post test likelihood of disease, the interpretation of the stress test result necessitates the integration of the patient's pretest likelihood with the test's sensitivity and specificity. This method, initially introduced by Diamond and Forrester in the 1970s, provides an estimate of the patient's post-test likelihood of disease. Stress tests have limitations in assessing the significance and nature of cardiac problems, they should be seen in context - as an initial assessment that can lead to a number of other diagnostic approaches in the broader management of cardiac diseases.According to data from the US Centers for Disease Control and Prevention (CDC) common first systems of coronary artery disease is a heart attack. According to the American Heart Association, a significant percentage of individuals, approximately 65% of men and 47% of women, present with a heart attack or sudden cardiac arrest as their first symptom of cardiovascular disease. Consequently, stress tests performed shortly before these events may not be highly relevant for predicting infarction in the majority of individuals tested.
+
+Contraindications and termination conditions
+Stress cardiac imaging is not recommended for asymptomatic, low-risk patients as part of their routine care. Some estimates show that such screening accounts for 45% of cardiac stress imaging, and evidence does not show that this results in better outcomes for patients. Unless high-risk markers are present, such as diabetes in patients aged over 40, peripheral arterial disease, or a risk of coronary heart disease greater than 2 percent yearly, most health societies do not recommend the test as a routine procedure.Absolute contraindications to cardiac stress test include:
+
+Acute myocardial infarction within 48 hours
+Unstable angina not yet stabilized with medical therapy
+Uncontrolled cardiac arrhythmia, which may have significant hemodynamic responses (e.g. ventricular tachycardia)
+Severe symptomatic aortic stenosis, aortic dissection, pulmonary embolism, and pericarditis
+Multivessel coronary artery diseases that have a high risk of producing an acute myocardial infarction
+Decompensated or inadequately controlled congestive heart failure
+Uncontrolled hypertension (blood pressure > 200/110 mmHg)
+Severe pulmonary hypertension
+Acute aortic dissection
+Acutely ill for any reasonIndications for termination:
+A cardiac stress test should be terminated before completion under the following circumstances:Absolute indications for termination include:
+
+Systolic blood pressure decreases by more than 10 mmHg with increase in work rate, or drops below baseline in the same position, with other evidence of ischemia.
+Increase in nervous system symptoms: Dizziness, ataxia or near syncope
+Moderate to severe anginal pain (above 3 on standard 4-point scale)
+Signs of poor perfusion, e.g. cyanosis or pallor
+Request of the test subject
+Technical difficulties (e.g. difficulties in measuring blood pressure or EGC)
+ST Segment elevation of more than 1 mm in aVR, V1 or non-Q wave leads
+Sustained ventricular tachycardiaRelative indications for termination include:
+
+Systolic blood pressure decreases by more than 10 mmHg with increase in work rate, or drops below baseline in the same position, without other evidence of ischemia.
+ST or QRS segment changes, e.g. more than 2 mm horizontal or downsloping ST segment depression in non-Q wave leads, or marked axis shift
+Arrhythmias other than sustained ventricular tachycardia e.g. Premature ventricular contractions, both multifocal or triplet; heart block; supraventricular tachycardia or bradyarrhythmias
+Intraventricular conduction delay or bundle branch block or that cannot be distinguished from ventricular tachycardia
+Increasing chest pain
+Fatigue, shortness of breath, wheezing, claudication or leg cramps
+Hypertensive response (systolic blood pressure > 250 mmHg or diastolic blood pressure > 115 mmHg)
+
+Adverse effects
+Side effects from cardiac stress testing may include
+Palpitations, chest pain, myocardial infarction, shortness of breath, headache, nausea or fatigue.
+Adenosine and dipyridamole can cause mild hypotension.
+As the radioactive tracers used for this test are chemically carcinogenic, and frequent use of these tests carries a small risk of cancer.
+
+Use of pharmacological agents to stress the heart
+Pharmacologic stress testing relies on coronary steal. Vasodilators are used to dilate coronary vessels, which causes increased blood velocity and flow rate in normal vessels and less of a response in stenotic vessels. This difference in response leads to a steal of flow and perfusion defects appear in cardiac nuclear scans or as ST-segment changes.The choice of pharmacologic stress agents used in the test depends on factors such as potential drug interactions with other treatments and concomitant diseases.
+Pharmacologic agents such as adenosine, regadenoson (Lexiscan), or dipyridamole is generally used when a patient cannot achieve adequate work level with treadmill exercise, or has poorly controlled hypertension or left bundle branch block. However, an exercise stress test may provide more information about exercise tolerance than a pharmacologic stress test.Commonly used agents include:
+
+Vasodilators acting as adenosine receptor agonists, such as adenosine itself, and dipyridamole (Persantine), which acts indirectly at the receptor.
+Regadenoson (Lexiscan), which acts specifically at the adenosine A2A receptor, thus affecting the heart more than the lung.
+Dobutamine –  The effects of beta-agonists such as dobutamine can be reversed by administering beta-blockers such as propranolol.Regadenoson or dobutamine is often used in patients with severe reactive airway disease (asthma or COPD) as adenosine and dipyridamole can cause acute exacerbation of these conditions. If the patient's Asthma is treated with an inhaler then it should be used as a pre-treatment prior to the injection of the pharmacologic stress agent. In addition, if the patient is actively wheezing then the physician should determine the benefits versus the risk to the patient of performing a stress test especially outside of a hospital setting. Caffeine is usually held 24 hours prior to an adenosine stress test, as it is a competitive antagonist of the A2A adenosine receptor and can attenuate the vasodilatory effects adenosine.Aminophylline may be used to attenuate severe and/or persistent adverse reactions to adenosine and regadenoson.
+
+History
+Cardiac stress testing, used since the 1960s, has a history rooted in the diagnostic and prognostic assessment of patients with suspected coronary artery disease. It has evolved to evaluate inducible myocardial ischemia as an indicator of adverse outcomes. The factors influencing mortality risk have changed over time due to decreasing angina symptoms, increasing prevalence of conditions like diabetes and obesity, and the rise in pharmacologic testing for patients unable to exercise during stress tests.
+
+See also
+Cardiac steal syndrome
+Duke Treadmill Score
+Harvard step test
+Metabolic equivalent
+Robert A. Bruce
+Wasserman 9-Panel Plot
+
+References
+External links
+Preparing for the exercise stress test Archived 2021-02-28 at the Wayback Machine
+"A Simple Exercise Tolerance Test for Circulatory Efficiency with Standard Tables for Normal Individuals," American Journal of the Medical Sciences
+"Optimal Medical Therapy with or without PCI for Stable Coronary Disease," New England Journal of Medicine
+Stress test information from the American Heart Association
+Nuclear stress test information at NIH MedLine

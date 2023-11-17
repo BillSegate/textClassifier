@@ -1,0 +1,94 @@
+Nuclear artillery is a subset of limited-yield tactical nuclear weapons, in particular those weapons that are launched from the ground at battlefield targets.  Nuclear artillery is commonly associated with shells delivered by a cannon, but in a technical sense short-range artillery rockets or tactical ballistic missiles are also included.
+The development of nuclear artillery was part of a broad push by nuclear weapons countries to develop nuclear weapons which could be used tactically against enemy armies in the field (as opposed to strategic uses against cities, military bases, and heavy industry).  Nuclear artillery was both developed and deployed by a small group of states, including the United States, the Soviet Union, and France. The United Kingdom planned and partially developed such weapon systems (the Blue Water missile and the Yellow Anvil artillery shell) but did not put them into production.
+A second group of states has derivative association with nuclear artillery. These nations fielded artillery units trained and equipped to use nuclear weapons, but did not control the devices themselves.  Instead, the devices were held by embedded custodial units of the developing countries.  These custodial units retained control of the nuclear weapons until they were released for use in a crisis.  This second group has included such North Atlantic Treaty Organisation (NATO) countries as Belgium, Canada, West Germany, Greece, Italy, the Netherlands, Turkey, and the United Kingdom.
+Today, nuclear artillery has been almost entirely replaced with mobile tactical ballistic missile launchers, carrying missiles with nuclear warheads.
+
+United States
+United States developments resulted in nuclear weapons for various artillery systems. After the short-lived M65 Atomic Cannon, standard howitzers were used. Delivery systems include, in approximate order of development:
+
+MGR-1 Honest John free flight rocket delivering W7 and later W31 nuclear weapons, 1953–1985.
+M65 Atomic Cannon delivering 280mm W9 and W19 nuclear shells, 1953–1963.
+MGM-5 Corporal missile delivering W7 nuclear weapon, 1955–1964.
+16"/50 caliber Mark 7 gun on the Iowa-class battleship delivering 406 mm W23 nuclear shells, 1956–1962.
+PGM-11 Redstone missile delivering the W39 nuclear weapon, 1958-1964
+M110 howitzer and M115 howitzer delivering 203mm W33 nuclear shell, 1957–1992.
+M-28/M-29 Davy Crockett (nuclear device) M-388 warhead derived from W54, 1961–1971.
+MGR-3 Little John free flight rocket delivering W45 nuclear weapon, 1962–1969.
+MGM-18 Lacrosse missile with nuclear warhead, 1959–1964.
+M109 self-propelled, M114 towed howitzers and M198 towed howitzers  delivering 155mm W48, 1963–1992.
+MGM-29 Sergeant missile delivering W52 nuclear weapon, 1962–1979.
+MGM-31 Pershing missile delivering W50 nuclear weapon, 1962–1969 for Pershing 1, 1969–1991 for Pershing 1a.
+MGM-52 Lance missile delivering W70 nuclear weapon, 1972–1992.
+M110 howitzer and M115 howitzer delivering 203mm W79 nuclear shell, 1976–1992.
+Pershing II missile delivering W85 nuclear warhead, 1983–1991.
+155mm W82 nuclear artillery shell, cancelled. Likely would have been delivered by M109 self-propelled, M114 towed howitzers and M198 towed howitzers.
+ The first artillery test was on May 25, 1953 at the Nevada Test Site. Fired as part of Operation Upshot–Knothole and codenamed Shot GRABLE, a 280 mm (11 inch) shell with a gun-type fission warhead was fired 10,000 m (6.2 miles) and detonated 160 m (525 ft) above the ground with an estimated yield of 15 kilotons. This was the only nuclear artillery shell ever actually fired in the U.S. nuclear weapons test program. The shell was 1384 mm (4.5 ft) long and weighed 365 kg (805 lb). It was fired from a special, very large artillery piece, nicknamed "Atomic Annie", built by the Artillery Test Unit of Fort Sill, Oklahoma. About 3,200 soldiers and civilians were present. The warhead was designated the W9 nuclear warhead and 80 were produced in 1952 to 1953 for the T-124 shell. It was retired in 1957.
+
+Development work continued and resulted in the W19, a 280 mm shell, a longer version of the W9. Only 80 warheads were produced and the system was retired in 1963 coinciding with the introduction of the W48 warhead.
+The W48 was 846 mm long and weighed 58 kg; it was in a 155 mm M-45 AFAP (artillery fired atomic projectile) for firing from standard 155 mm howitzer. The fission warhead was a linear implosion type, consisting of a long cylinder of subcritical fissile material which is compressed and shaped by explosive into a supercritical sphere. The W48 yielded an explosive force of just 100 tons of TNT.The W48 went into production beginning in 1963, and 135 Mod 0 version projectiles were produced by 1968 when it was replaced by the Mod 1. The Mod 1 was manufactured from 1965 through 1969.  925 of these were produced.
+Only one type of artillery round other than the W48 was produced in large numbers. It was the W33 nuclear warhead for use in an 8-inch-diameter (203 mm) artillery shell. About 2,000 of these warheads were produced from 1957 to 1965. Each XM422 projectile was 940 mm long, it had a projectile weight of 243 pounds. XM422 were fitted with a triple-deck mechanical time-base fuze. They were to be fired from a standard eight-inch howitzer, if the use of this weapon had ever been called for.
+
+The W33's four explosive yields were all greater than that of the W48. M422 projectiles were hand-assembled in the field to provide the required yield, three yielding 5 to 10 kilotons and one with 40 kilotons. There was also a ballistically matched spotting round (HES M424) and a special white bag charge system, M80, composed of charges one through three. The M423 ordnance training rounds and their associated "bird cages" can be seen at the National Atomic Museum in Albuquerque, New Mexico.
+Efforts were made to update the warheads: the 155 mm W74 and 203 mm W75 were developed from about 1970, and they were intended to have a yield of 100 tons or more. These versions were canceled in 1973. A further development program began in the 1980s: the W82, for the XM-785 (a 155 mm shell), was intended to yield up to two kilotons with an enhanced radiation capability. Its development was halted in 1983. A W82-1 fission-only type was designed but was canceled in 1990.
+Other developments also continued. In 1958 a fusion warhead was developed and tested, the UCRL Swift. It was 622 mm long, 127 mm diameter, and weighed 43.5 kg. At its test it yielded only 190 tons; it failed to achieve fusion and only the initial fission explosion worked correctly. There are unconfirmed reports that work on similar concepts continued into the 1970s and resulted in a one-kiloton warhead design for 5-inch (127 mm) naval gun rounds; these, however, were never deployed as operational weapons.
+In 1991 the US unilaterally withdrew its nuclear artillery shells from service, and Russia responded in kind in 1992. The US removed around 1,300 nuclear shells from Europe and reportedly dismantled its last shells by 2004. Focus has since moved to development of nuclear bunker buster munitions.
+
+Soviet Union
+The Soviet Union's nuclear artillery was operated by the rocket troops and artillery branch of the Soviet ground forces. Delivery units were organic to tank and motor rifle divisions and higher echelons. The control and custody of nuclear weapons was the responsibility of the 12th Main Directorate of the Ministry of Defense and its special units.
+The Soviet Union developed and eventually deployed both rocket- and projectile-type nuclear artillery systems.  The first system developed was the SM-54 (2А3) 406 mm gun, nicknamed "Kondensator" (Russian: Конденсатор, "Capacitor"); this was released in 1956. A 420 mm breech-loading smoothbore self-propelled mortar, 2B1 Oka or "Transformator" (Russian: Трансформатор; "Transformer") was produced in 1957. Testing revealed critical operational defects in both systems and they were not put into full production. The purpose-built weapons suffered from the same deficiencies of the American M-65 Nuclear Cannon to which they are analogous; large, unwieldy, and quickly obsolete.Meanwhile, rocket- and missile-based delivery systems were concurrently developed. The original systems (the T7 "Scud", the FROG-1 and successors) were first introduced in the late 1950s.  Development continued on missile based systems:
+
+T5 Luna (NATO FROG family) free flight rocket
+T7 (NATO SS-1 Scud) missile
+TR-1 Temp (NATO SS-12 Scaleboard) missile
+OTR-21 Tochka (NATO SS-21 Scarab) missile
+OTR-23 Oka (NATO SS-23 Spider) missileAfter the abortive effort with purpose-built artillery pieces, the Soviet approach to nuclear artillery was that nuclear munitions should be fired by standard guns and howitzers (without modification) in normal artillery units. The first nuclear weapon for use from standard 152 mm artillery, called 3BV3, was finally accepted in 1965. Subsequent weapon designs followed using existing and new technology: 
+
+152 mm projectile 3BV3 for self-propelled guns 2S19 Msta-S, 2S3 Akatsiya, 2S5 Giatsint-S, towed gun D-20, 2A36 Giatsint-B, and 2A65 Msta-B. The yield was 1 kiloton, maximum range 17.4 km. The nuclear weapon was designated RFYAC-VNIITF and designed by Academician E. I. Zababakhin in Snezhinsk.
+180 mm projectile 3BV1 for S-23, MK-3-180 (originally a coast artillery piece), maximum range 45 km.
+203 mm projectile 3BV2 for self-propelled gun 2S7 Pion, and towed howitzer B-4M, range from 18 km to 30 km.
+240 mm projectile 3BV4 for mortar M-240 and self-propelled 2S4 Tyulpan. Normal maximum range 9.5 km, and 18 km with rocket assistance.At the end of the Cold War, Russia followed the United States lead and deactivated its nuclear artillery units in 1993.  By 2000, Russia reported that nearly all nuclear artillery shells and missile warheads had been destroyed.
+
+France
+France's nuclear artillery was provided by Artillery Regiments equipped with the Pluton missile system from 1975 to 1993 and with its successor, the longer-ranged Hadès missile, from 1991 to 1996.
+
+NATO
+Belgium, Canada, Germany, Greece, Italy, Netherlands, Turkey, and the United Kingdom provided artillery units trained in the correct handling and operation of nuclear weapons and in some cases specialist logistic and security units.  Their allocated nuclear weapons were in the custody of US Army Artillery Groups (USAAG) with subordinate US Army Field Artillery Detachments (USAFAD) assigned to the national artillery units.  The Groups were part of the 59th Ordnance Brigade.
+At various times these artillery units operated: 
+
+MGR-1 Honest John free flight rocket
+MGM-5 Corporal missile
+MGM-29 Sergeant missile
+MGM-52 Lance missile
+8-inch (203 mm) howitzer M1, M15, M110, M110A1, M110A2 firing the W33 nuclear artillery shell
+155 mm howitzer M109, M109A1, M109A2 and M109G firing the W48 nuclear artillery shell
+Pershing 1 and Pershing 1a missiles were operated by the German Air Force
+
+Italy
+Nuclear artillery was provided by Artillery Groups equipped with the MGR-1 Honest John free flight rockets, MGM-52 Lance missiles and 8-inch (203 mm) howitzers.
+The Italian units were (links in Italian):
+
+3ª Brigata Missili "Aquileia":
+3° Gr.Msl. Gruppo Missili "Volturno"
+1° Gr.A.Pe. Gruppo Artiglieria Pesante "Adige"
+9° Gr.A.Pe. Gruppo Artiglieria Pesante "Rovigo"
+27° Gr.A.Pe.Smv. Gruppo Artiglieria Pesante Semovente "Marche"
+
+Netherlands
+Nuclear artillery was provided by two Artillery Groups.
+The Dutch units were:
+
+19 Afdva (FA Bn)(existed from 1960-1966, equipped with 2 x MGR-1 Honest John (1960–65) and 4 xM115 towed howitzer
+49 Afdva (FA Bn) (existed from 1960-1966) equipped with 2 x MGR-1 Honest John (1960–65) and 4 xM115 towed howitzer
+109 Afdva (FA Bn) (existed from 1960-1978) equipped with 2 x MGR-1 Honest John (1960–65) and after disbanding 49 FABn of 4 xMGR-1 Honest John (1965–78)
+119 Afdva (FA Bn) (existed from 1960-1978) equipped with 2 x MGR-1 Honest John (1960–65) and after disbanding 19 FABn of 4 xMGR-1 Honest John (1965–78)
+129 Afdva (existed from 1978-1991) after disbanding Honest John,  equipped with 6 xMGM-52 Lance guided missiles)
+19 Afdva (1966-1988) equipped with 8xM110(A2) SP howitzer
+19 Special Ammunition Battery (existed from 1988-1991) with 4 x mission teams for M110
+8 Special Ammunition Supply Battery
+
+References
+External links
+Nuclear Artillery – The 280 MM Gun at the Nevada Proving Ground 1953 on YouTube
+Video clip of Grable nuclear artillery experiment
+Nuclear experiments (video clips), DoE, archived from the original on 2008-07-21.
+Netherlands dual capable artillery, 1985

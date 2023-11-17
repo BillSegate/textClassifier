@@ -1,5 +1,0 @@
-In mathematics, the Lyusternik–Fet theorem states that  on every compact Riemannian manifold there exists a closed geodesic. It is named after Lazar Lyusternik and Abram Ilyich Fet.
-
-References
-https://www.encyclopediaofmath.org/index.php/Closed_geodesic
-L.A. Lyusternik, A.I. Fet, "Variational problems on closed manifolds" Dokl. Akad. Nauk. SSSR, 81 (1951) pp. 17–18 (In Russian)

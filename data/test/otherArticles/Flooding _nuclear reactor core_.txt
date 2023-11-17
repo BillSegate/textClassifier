@@ -1,0 +1,11 @@
+Flooding refers to a fluid flow phenomenon whereby counter-current two-phase flow is reversed and runs concurrent in the direction of the initial gas/vapor phase flow when filling, or "flooding", a nuclear reactor core with coolant.   This phenomenon is generally discussed with respect to a loss-of-coolant accident (LOCA).  As this phenomenon proceeds, annular flow running counter-current begins as liquid water is inserted into the system.  Then if conditions are correct, the frictional force at the gas-liquid interface begins to reverse the flow of the liquid.  Finally, the flow of the liquid reverses, running concurrently in a slug (or other) flow regime.  The significance of this phenomenon is that, if not properly designed for, it can present issues when trying to fill the core with liquid (the phenomenon works against gravity, forcing liquid out of the core).
+
+Light water reactor examples
+In a boiling water reactor (BWR), the emergency core cooling system (ECCS) injects liquid water into the reactor core from the top.  Water vapor produced from boiling will flow in the opposite direction.  Given a high enough flow rate of steam, reversal of the ECCS-injected liquid water occurs.
+In a pressurized water reactor (PWR), the ECCS injects liquid into the hot and/or cold leg of the reactor.  The cold leg flows through a downcomer on the outside of the core, before flowing up through the core.  The core barrel and the reactor vessel wall form a cylindrical shell that is referred to as the downcomer.  In the cold leg, boiling in the downcomer creates an upward flow of steam that can reverse the flow of liquid water coming in through the cold leg.  The flooding rate in a PWR is pressure dependent.
+
+Similar terminology
+Flooding as a fluid flow phenomenon should be distinguished from the act of filling the core with coolant ("flooding of the reactor core"), as the fluid flow phenomenon occurs during the filling process. "Flooding of containment" refers to filling the nuclear reactor containment with liquid (usually water), which is distinctly different from either reactor core flooding or flooding as a fluid flow phenomenon.
+
+
+== References ==

@@ -1,0 +1,12 @@
+In the operation of a nuclear reactor, criticality is the state in which a nuclear chain reaction is self-sustaining—that is, when reactivity is zero. In supercritical states, reactivity is greater than zero.
+
+Applications
+Criticality is the normal operating condition of a nuclear reactor, in which nuclear fuel sustains a fission chain reaction. A reactor achieves criticality (and is said to be critical) when each fission releases a sufficient number of neutrons to sustain an ongoing series of nuclear reactions.The International Atomic Energy Agency defines the first criticality date as the date when the reactor is made critical for the first time. This is an important milestone in the construction and commissioning of a nuclear power plant.
+
+See also
+Criticality accident
+Critical mass
+Prompt criticality
+
+
+== References ==

@@ -1,0 +1,70 @@
+The ISIS Neutron and Muon Source is a pulsed neutron and muon source, established 1984 at the Rutherford Appleton Laboratory of the Science and Technology Facilities Council, on the Harwell Science and Innovation Campus in Oxfordshire, United Kingdom. It uses the techniques of muon spectroscopy and neutron scattering to probe the structure and dynamics of condensed matter on a microscopic scale ranging from the subatomic to the macromolecular.
+Hundreds of experiments are performed every year at the facility by researchers from around the world, in diverse science areas such as physics, chemistry, materials engineering, earth sciences, biology and archaeology.
+
+Background physics
+Neutrons are uncharged constituents of atoms and penetrate materials well, deflecting only from the nuclei of atoms. The statistical accumulation of deflected neutrons at different positions beyond the sample can be used to find the structure of a material, and the loss or gain of energy by neutrons can reveal the dynamic behaviour of parts of a sample, for example diffusive processes in solids. At ISIS the neutrons are created by accelerating 'bunches' of protons in a synchrotron, then colliding these with a heavy tungsten metal target, under a constant cooling load to dissipate the heat from the 160 kW proton beam. The impacts cause neutrons to spall off the tungsten atoms, and the neutrons are channelled through guides, or beamlines, to around 20 instruments, each individually optimised for the study of different types of interactions between the neutron beam and matter. The target station and most of the instruments are set in a large hall. Neutrons are a dangerous form of radiation, so the target and beamlines are heavily shielded with concrete.ISIS Neutron and Muon Source produces muons by colliding a fraction of the proton beam with a graphite target, producing pions which decay rapidly into muons, delivered in a spin-polarised beam to sample stations.
+
+History
+The source was approved in 1977 for the RAL site on the Harwell campus and recycled components from earlier UK science programmes including the accelerator hall which had previously been occupied by the Nimrod accelerator. The first beam was produced in 1984, and the facility was formally opened by the then Prime Minister Margaret Thatcher in October 1985.The name ISIS is not an acronym: it refers to the Ancient Egyptian goddess and the local name for the River Thames. The name was selected for the official opening of the facility in 1985, prior to this it was known as the SNS, or Spallation Neutron Source. The name was considered appropriate as Isis was a goddess who could restore life to the dead, and ISIS made use of equipment previously constructed for the Nimrod and NINA  accelerators.
+The second target station was given funding in 2003 by Lord Sainsbury, then science minister, and was completed in 2009, on time and budget, with the opening of 7 instruments. In March 2011, the Science Minister, David Willetts gave a £21 million investment to build 4 new instruments, which are now all in their commissioning phase or fully scheduled instruments.ISIS Neutron and Muon Source was originally expected to have an operational life of 20 years (1985 to 2005), but its continued success led to a process of refurbishment and further investment, intended to advance the facility and extend the life of ISIS through to 2030.According to its Annual Report from 2017–2018, STFC expects the end of the ISIS pulsed neutron source and the associated Second Target Station to be in 2040 and anticipates decommissioning to take 55 years. The cost of radioactive waste disposal could range between £9 million and £16 million.: 51
+
+Science
+ISIS Neutron and Muon Source is administered and operated by the Science and Technology Facilities Council (previously CCLRC). The Science and Technology Facilities council, or STFC, is part of UK Research and Innovation.  Experimental time is open to academic users from funding countries and is applied for through a twice-yearly 'call for proposals'. Research allocation, or 'beam-time', is allotted to applicants via a peer-review process. Users and their parent institutions do not pay for the running costs of the facility, which are as much as £11,000 per instrument per day. Transport and living costs are covered for those associated with UK Universities. Most users stay in Ridgeway House, a hotel near the site, or at Cosener's House, an STFC-run conference centre in Abingdon. Over 600 experiments by 1600 users are completed every year.
+A large number of support staff operate the facility, aid users, and carry out research. The control room is staffed 24 hours a day, every day of the year. Instrument scientists oversee the running of each instrument and liaise with users, and other divisions provide sample environment, data analysis and computing expertise, maintain the accelerator, and run education programmes. ISIS is also one of the few neutron facilities to have a significant detector group that researches and develops new techniques for collecting data.
+Among the important and pioneering work carried out was the discovery of the structure of high-temperature superconductors and the solid phase of buckminster-fullerene. Other recent developments can be found here.
+Construction for a second target station (TS2) started in 2003, and the first neutrons were delivered to the target on December 14, 2007. TS2 uses low-energy neutrons to study soft condensed matter, biological systems, advanced composites and nanomaterials.
+The synchrotron itself hosted the International Muon Ionization Cooling Experiment (MICE) for parasitic running from 2008 to 2018. MICE replaced the earlier HEP Test Beam.
+
+Neutron and muon instruments
+The instruments currently at ISIS Neutron and Muon Source are:
+
+Target Station 1
+Alf is a crystal alignment facility.
+Crisp is a neutron reflectometer designed for high resolution studies of a wide range of interfacial phenomena.
+Engin-X is a neutron diffractometer optimised for the measurement of strain, and thus stress, deep within a crystalline material.
+Gem is a neutron diffractometer that can perform high intensity, high resolution experiments to study the structure of disordered materials and crystalline powders.
+Hrpd is a neutron diffractometer which is one of the highest resolution neutron powder diffractometers of its type in the world.
+Ines is a neutron powder diffractometer, built and managed by the Italian National Research Council (CNR) within the cooperation agreement with STFC.
+Iris is a neutron spectrometer,  designed for quasi-elastic and low-energy high resolution inelastic spectroscopy.
+LOQ is a small angle neutron scattering instrument used to investigate the shape and size of large molecules, small particles or porous materials with dimensions typically in the range of 1 - 100 nm.
+Maps is a neutron spectrometer, primarily designed to tackle magnetic and structural excitations in single crystals.
+MARI is a neutron spectrometer, ideal for the study of phonon densities of states in crystalline and disordered systems, and crystal field excitations in magnetic materials.
+Merlin is a neutron spectrometer with a high count rate, medium energy resolution, direct geometry chopper spectrometer.
+Osiris can be used as a neutron spectrometer or diffractometer. It is optimised for very low energy studies and long wavelength diffraction
+Pearl is a neutron diffractometer dedicated to high-pressure powder diffraction.
+Polaris is a neutron diffractometer optimised for the rapid characterisation of structures, the study of small amounts of materials, the collection of data sets in rapid time and the studies of materials under non-ambient conditions.
+Rotax is used for detector and equipment tests.SANDALS is a neutron diffractometer especially built for investigating the structure of liquids and amorphous materials.
+SURF a neutron reflectometer one of the leading instruments in the world for liquid interface research.
+SXD is a neutron diffractometer which is powerful in applications involving surveys of reciprocal space, such as phase transitions and incommensurate structures, and also in applications where sample orientation may be restricted.
+Tosca is a neutron spectrometer optimised for the study of molecular vibrations in the solid state.
+Vesuvio is a neutron spectrometer which uses the high intensity of neutrons in the eV energy range (epi-thermal neutrons) to mass-separate the spectra into a collection of nuclear momentum distributions.
+EMU is a µSR spectrometer, optimised for zero field and longitudinal field measurements.
+MuSR is a µSR spectrometer which can be rotated through 90 degrees to enable both longitudinal and transverse measurements to be made.
+HIFI is a  high-field muon instrument that provides applied longitudinal fields up to 5T.
+Argus is a muon spectrometer for condensed matter and molecular studies.
+CHRONUS is a muon instrument on the Japanese-owned RIKEN-RAL Muon Facility.
+
+Target Station 2
+ChipIR chip irradiation instrument dedicated to the irradiation of microelectronics with atmospheric-like neutrons.
+IMAT is a neutron imaging and diffraction instrument for materials science, materials processing and engineering.
+Inter is a high-intensity chemical interfaces reflectometer offering a unique facility for the study of a range of air/liquid, liquid/liquid, air/solid, and liquid/solid interfaces.
+Larmor is a flexible small angle neutron scattering instrument that has been optimised for the development of new neutron scattering techniques which use the Larmor precession of neutrons to encode energy or direction.
+LET is a neutron spectrometer optimised for the study of dynamics in condensed matter to understand the microscopic origin of material properties.
+NIMROD is a neutron diffractometer designed to access length scales ranging from the interatomic (< 1 Å) through to the mesoscopic (>300 Å).
+Offspec is a neutron reflectometer that gives access to nanometre length scales parallel and perpendicular to interfaces.
+Polref is a neutron reflectometer designed for the study of the magnetic ordering in and between the layers and surfaces of thin film materials.
+Sans2d is a small angle  neutron scattering instruments that can be used to examine size, shape, internal structure and spatial arrangement in nanomaterials, ‘soft matter’, and colloidal systems, including those of biological origin, on length scales of between* 0.25-300 nm.
+Wish is a neutron diffractometer designed for powder diffraction at long d-spacing in magnetic and large unit cell systems, with the option of enabling single-crystal and polarised beam experiments.
+Zoom is a flexible, high count rate small-angle scattering instrument.
+
+In popular culture
+The final episode of series 1 of the Sparticle Mystery was filmed on site. The site is also referenced in the book Itch Rocks.
+
+References
+External links
+ISIS Neutron and Muon Source website homepage
+The Science and Technology Facilities Council
+UK Research and Innovation
+Bull, Martyn. "Isis". Backstage Science. Brady Haran.
+View all ISIS neutron and Muon Source publications on ePubs
+ISIS Neutron and Muon Source Science Highlight articles

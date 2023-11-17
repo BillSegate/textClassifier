@@ -1,0 +1,40 @@
+Uranium hexafluoride, sometimes called hex, is an inorganic compound with the formula UF6. Uranium hexafluoride is a volatile white solid that reacts with water, releasing corrosive hydrofluoric acid. The compound reacts mildly with aluminium, forming a thin surface layer of AlF3 that resists any further reaction from the compound. UF6 is used in the process of enriching uranium, which produces fuel for nuclear reactors and nuclear weapons.
+
+Preparation
+Milled uranium ore—U3O8 or "yellowcake"—is dissolved in nitric acid, yielding a solution of uranyl nitrate UO2(NO3)2. Pure uranyl nitrate is obtained by solvent extraction, then treated with ammonia to produce ammonium diuranate ("ADU", [NH4]2U2O7). Reduction with hydrogen gives UO2, which is converted with hydrofluoric acid (HF) to uranium tetrafluoride, UF4. Oxidation with fluorine yields UF6.
+The Honeywell Uranium Hexafluoride Processing Facility uses a different process.
+During nuclear reprocessing, uranium is reacted with chlorine trifluoride to give UF6:
+
+U + 2 ClF3 → UF6 + Cl2
+
+Properties
+Physical properties
+At atmospheric pressure, UF6 sublimes at 56.5 °C.
+The solid-state structure was determined by neutron diffraction at 77 K and 293 K.
+
+Chemical properties
+It has been shown that uranium hexafluoride is an oxidant and a Lewis acid that is able to bind to fluoride; for instance, the reaction of copper(II) fluoride with uranium hexafluoride in acetonitrile is reported to form copper(II) heptafluorouranate(VI), Cu2+[UF−7]2.Polymeric uranium(VI) fluorides containing organic cations have been isolated and characterized by X-ray diffraction.
+
+Application in the fuel cycle
+As one of the most volatile compounds of uranium, uranium hexafluoride is relatively convenient to process and is used in both of the main uranium enrichment methods, namely gaseous diffusion and the gas centrifuge method. Since the triple point of UF6—64 °C(147 °F; 337 K) and 152 kPa (22 psi; 1.5 atm)— is close to ambient conditions, phase transitions can be achieved in a processing facility with little thermodynamic work.
+Fluorine has only a single naturally occurring stable isotope, so isotopologues of UF6 differ in their molecular weight based solely on the uranium isotope present. This difference is the basis for the physical separation of isotopes in enrichment.
+All the other uranium fluorides are nonvolatile solids that are coordination polymers.
+The conversion factor for the 238U isotopologue of UF6 ("hex") to "U mass" is 0.676.Gaseous diffusion requires about 60 times as much energy as the gas centrifuge process: gaseous diffusion-produced nuclear fuel produces 25 times more energy than is used in the diffusion process, while centrifuge-produced fuel produces 1,500 times more energy than is used in the centrifuge process.
+In addition to its use in enrichment, uranium hexafluoride has been used in an advanced reprocessing method (fluoride volatility), which was developed in the Czech Republic. In this process, spent nuclear fuel is treated with fluorine gas to transform the oxides or elemental metals into a mixture of fluorides. This mixture is then distilled to separate the different classes of material. Some fission products form nonvolatile fluorides which remain as solids and can then either be prepared for storage as nuclear waste or further processed either by solvation-based methods or electrochemically.
+Uranium enrichment produces large quantities of depleted uranium hexafluoride (DUF6 or D-UF6) as a waste product. The long-term storage of D-UF6 presents environmental, health, and safety risks because of its chemical instability. When UF6 is exposed to moist air, it reacts with the water in the air to produce UO2F2 (uranyl fluoride) and HF (hydrogen fluoride) both of which are highly corrosive and toxic. In 2005, 686,500 tonnes of D-UF6 was housed in 57,122 storage cylinders located near Portsmouth, Ohio; Oak Ridge, Tennessee; and Paducah, Kentucky. Storage cylinders must be regularly inspected for signs of corrosion and leaks. The estimated lifetime of the steel cylinders is measured in decades.There have been several accidents involving uranium hexafluoride in the US, including a cylinder-filling accident and material release at the Sequoyah Fuels Corporation in 1986. The U.S. government has been converting DUF6 to solid uranium oxides for disposal. Such disposal of the entire DUF6 stockpile could cost anywhere from $15 million to $450 million.
+
+References
+Further reading
+Gmelins Handbuch der anorganischen Chemie, System Nr. 55, Uran, Teil A, p. 121–123.
+Gmelins Handbuch der anorganischen Chemie, System Nr. 55, Uran, Teil C 8, p. 71–163.
+R. DeWitt: Uranium hexafluoride: A survey of the physico-chemical properties, Technical report, GAT-280; Goodyear Atomic Corp., Portsmouth, Ohio; 12. August 1960; doi:10.2172/4025868.
+Ingmar Grenthe, Janusz Drożdżynński, Takeo Fujino, Edgar C. Buck, Thomas E. Albrecht-Schmitt, Stephen F. Wolf: Uranium Archived 2012-01-18 at the Wayback Machine, in: Lester R. Morss, Norman M. Edelstein, Jean Fuger (Hrsg.): The Chemistry of the Actinide and Transactinide Elements, Springer, Dordrecht 2006; ISBN 1-4020-3555-1, p. 253–698; doi:10.1007/1-4020-3598-5_5 (p. 530–531, 557–564).
+US-Patent 2535572: Preparation of UF6; 26. December 1950.
+US-Patent 5723837: Uranium Hexafluoride Purification; 3. March 1998.
+
+External links
+
+Simon Cotton (Uppingham School, Rutland, UK): Uranium Hexafluoride.
+Uranium Hexafluoride (UF6) – Physical and chemical properties of UF6, and its use in uranium processing – Uranium Hexafluoride and Its Properties
+Uranium Hexafluoride at WebElements
+Import of Western depleted uranium hexafluoride (uranium tails) to Russia [dead link 30 June 2017]

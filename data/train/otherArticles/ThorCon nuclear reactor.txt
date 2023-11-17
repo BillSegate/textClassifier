@@ -1,0 +1,22 @@
+The Thorcon nuclear reactor is a design of a molten salt reactor with a graphite moderator, proposed by the US-based Thorcon company. These nuclear reactors are designed as part of a floating power plant, to be manufactured on an assembly line in a shipyard, and to be delivered via barge to any ocean or major waterway shoreline. The reactors are to be delivered as a sealed unit and never opened on site. All reactor maintenance and fuel processing is done at an off-site location. As of 2022, no reactor of this type has been built. A proposal to build a prototype in Indonesia has been submitted to the IAEA.
+
+Design
+ThorCon has proposed a power station closely based on the Molten-Salt Reactor Experiment in the 1960s, claiming that its design requires no new technology. The power station would contain two 250 MWe small modular reactors. The replaceable reactors are to be removed and replaced every four years. As molten salt reactors, they are designed for the use of fuel in liquid form, which also serves as primary coolant. The fuel would be about 20% enriched uranium tetrafluoride and thorium tetrafluoride. The ThorCon design is a floating power station to be built in a shipyard and then towed to the location of operation.
+
+Safety
+Thorcon claims that this reactor design will be safer than traditional nuclear reactors. The design includes several features intended to prevent meltdowns, contain radioactive materials, and protect from terrorism and sabotage.
+
+Reviews
+A 2017 study by the Energy Innovation Reform Project looked at the ThorCon and concluded that "if power plants featuring these technologies are able to produce electricity at the average LCOE price projected here (much less the low-end estimate), it would have a significant impact on electricity markets."
+
+Criticism
+The Union of Concerned Scientists has expressed worries with the liquid-fueled MSR reactor pattern about issues with safety, environmental impacts, and nuclear proliferation.
+
+See also
+Thorium fuel cycle
+Liquid fluoride thorium reactor
+Thorium Energy Alliance
+
+References
+External links
+ThorCon official website

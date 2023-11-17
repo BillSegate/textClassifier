@@ -1,0 +1,59 @@
+A neutron source is any device that emits neutrons, irrespective of the mechanism used to produce the neutrons. Neutron sources are used in physics, engineering, medicine, nuclear weapons, petroleum exploration, biology, chemistry, and nuclear power.
+Neutron source variables include the energy of the neutrons emitted by the source, the rate of neutrons emitted by the source, the size of the source, the cost of owning and maintaining the source, and government regulations related to the source.
+
+Small devices
+Spontaneous fission (SF)
+Some isotopes undergo SF with emission of neutrons. The most common spontaneous fission source is the isotope californium-252. 252Cf and all other SF neutron sources are made by irradiating uranium or a transuranic element in a nuclear reactor, where neutrons are absorbed in the starting material and its subsequent reaction products, transmuting the starting material into the SF isotope. 252Cf neutron sources are typically 1/4" to 1/2" in diameter and 1" to 2" in length. A typical 252Cf neutron source emits 107 to 109 neutrons per second when new; but with a half-life of 2.6 years, neutron output drops by half in 2.6 years. A typical 252Cf neutron source costs $15,000 to $20,000.
+
+Radioisotopes which alpha decay; mixed with a light element
+Neutrons are produced when alpha particles hit any of several light isotopes including isotopes of beryllium, carbon, or oxygen. Thus, one can make a neutron source by mixing an alpha-emitter such as radium, polonium, or americium with a low-atomic-weight isotope, usually by blending powders of the two materials. Alpha neutron sources typically produce ~106–108 neutrons per second. An alpha-beryllium neutron source may produce about 30 neutrons per 106 alpha particles. The useful lifetime for such sources depends on the half-life of the radioisotope. The size and cost of these neutron sources are comparable to spontaneous fission sources. Usual combinations of materials are plutonium-beryllium (PuBe), americium-beryllium (AmBe), or americium-lithium (AmLi).
+
+Radioisotopes which decay with high-energy photons co-located with beryllium or deuterium
+Gamma radiation with an energy exceeding the neutron binding energy of a nucleus can eject a neutron (photoneutron). Two example reactions are:
+
+9Be + >1.7 MeV photon → 1 neutron + 2 4He
+2H (deuterium) + >2.26 MeV photon → 1 neutron + 1H
+
+Sealed-tube neutron generators
+Some accelerator-based neutron generators induce fusion between beams of deuterium and/or tritium ions and metal hydride targets which also contain these isotopes.
+
+Medium-sized devices
+Plasma focus and plasma pinch devices
+The dense plasma focus neutron source produces controlled nuclear fusion by creating a dense plasma within which heats ionized deuterium and/or tritium gas to temperatures sufficient for creating fusion.
+
+Inertial electrostatic confinement
+Inertial electrostatic confinement devices such as the Farnsworth-Hirsch fusor use an electric field to heat a plasma to fusion conditions and produce neutrons. Various applications from a hobby enthusiast scene up to commercial applications have developed, mostly in the US.
+
+Light ion accelerators
+Traditional particle accelerators with hydrogen (H), deuterium (D), or tritium (T) ion sources may be used to produce neutrons using targets of deuterium, tritium, lithium, beryllium, and other low-Z materials. Typically these accelerators operate with energies in the > 1 MeV range.
+
+High-energy bremsstrahlung photoneutron/photofission systems
+Neutrons are produced when photons above the nuclear binding energy of a substance are incident on that substance, causing it to undergo giant dipole resonance after which it either emits a neutron (photoneutron) or undergoes fission (photofission). The number of neutrons released by each fission event is dependent on the substance. Typically photons begin to produce neutrons on interaction with normal matter at energies of about 7 to 40 MeV, which means that radiotherapy facilities using megavoltage X-rays also produce neutrons, and some require neutron shielding. In addition, electrons of energy over about 50 MeV may induce giant dipole resonance in nuclides by a mechanism which is the inverse of internal conversion, and thus produce neutrons by a mechanism similar to that of photoneutrons.
+
+Large devices
+Nuclear fission reactors
+Nuclear fission within a reactor, produces many neutrons and can be used for a variety of purposes including power generation and experiments. Research reactors are often specially designed to allow placement of material samples into a high-neutron-flux environment.
+
+Nuclear fusion systems
+Nuclear fusion, the fusing of heavy isotopes of hydrogen, also has the potential to produces large numbers of neutrons. Small scale fusion systems exist for (plasma) research purposes at many universities and laboratories around the world. A small number of large scale fusion experiments also exist including the National Ignition Facility in the US, JET in the UK, and soon the ITER experiment currently under construction in France. None are yet used as neutron sources.
+Inertial confinement fusion has the potential to produce orders of magnitude more neutrons than spallation. This could be useful for neutron radiography which can be used to locate hydrogen atoms in structures, resolve atomic thermal motion and study collective excitation of nuclei more effectively than X-rays.
+
+High-energy particle accelerators
+A spallation source is a high-flux source in which protons that have been accelerated to high energies hit a target, prompting emission of neutrons. The world's strongest neutron sources tend to be spallation based as high flux fission reactors have an upper bound of neutrons produced. As of 2022, the most powerful neutron source in the world is the Spallation Neutron Source in Oak Ridge, Tennessee, with the European Spallation Source in Lund, Sweden under construction to become the world's strongest intermediate duration pulsed neutron source. Subcritical nuclear fission reactors are proposed to use spallation neutron sources and can be used both for nuclear transmutation (e.g. production of medical radionuclides or synthesis of precious metals) and for power generation as the energy required to produce one spallation neutron (~30 MeV at current technology levels) is almost an order of magnitude lower than the energy released by fission (~200 MeV for most fissile actinides).
+
+Neutron flux
+For most applications, higher neutron flux is better (since it reduces the time needed to do the experiment, acquire the image, etc.). Amateur fusion devices, like a fusor, generate only about 300 000 neutrons per second. Commercial fusor devices can generate on the order of 109 neutrons per second, hence a usable flux of less than 105 n/(cm² s). Large neutron beams around the world achieve much greater flux. Reactor-based sources now produce 1015 n/(cm² s), and spallation sources generate > 1017 n/(cm² s).
+
+See also
+Neutron emission
+Neutron generator, commercial devices
+Neutron temperature ('fast' or 'slow')
+Startup neutron source
+Zetatron
+A subcritical nuclear reactor relies on an "external" neutron source
+
+References
+External links
+Neutronsources.org
+List of Neutron Sources Worldwide
+Science and Innovation with Neutrons in Europe in 2020 (SINE2020)

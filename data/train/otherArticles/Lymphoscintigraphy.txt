@@ -1,0 +1,45 @@
+The sentinel lymph node is the hypothetical first lymph node or group of nodes draining a cancer. In case of established cancerous dissemination it is postulated that the sentinel lymph nodes are the target organs primarily reached by metastasizing cancer cells from the tumor.
+The sentinel node procedure (also termed sentinel lymph node biopsy or SLNB) is the identification, removal and analysis of the sentinel lymph nodes of a particular tumour.
+
+Physiology
+The spread of some forms of cancer usually follows an orderly progression, spreading first to regional lymph nodes, then the next echelon of lymph nodes, and so on, since the flow of lymph is directional, meaning that some cancers spread in a predictable fashion from where the cancer started. In these cases, if the cancer spreads it will spread first to lymph nodes (lymph glands) close to the tumor before it spreads to other parts of the body. The concept of sentinel lymph node surgery is to determine if the cancer has spread to the very first draining lymph node (called the "sentinel lymph node") or not. If the sentinel lymph node does not contain cancer, then there is a high likelihood that the cancer has not spread to any other area of the body.
+
+Uses
+The concept of the sentinel lymph node is important because of the advent of the sentinel lymph node biopsy technique, also known as a sentinel node procedure.  This technique is used in the staging of certain types of cancer to see if they have spread to any lymph nodes, since lymph node metastasis is one of the most important prognostic signs. It can also guide the surgeon to the appropriate therapy.
+There are various procedures entailing the sentinel node detection:
+
+Preoperative planar lymphoscintigraphy
+Preoperative planar lymphoscintigraphy in conjunction with SPECT/CT [single photonemission CT (SPECT) with a low-dose CT]
+Intraoperative visual blue dye detection
+Intraoperative fluorescence detection (fluorescence image-guided surgery)
+Intraoperative gamma probe/Geiger meter-detection
+Preoperative or intraoperative super paramagnetic iron oxide nanoparticles injection, detection by using Sentimag instrument
+Postoperative scintigraphy of main specimen with planar acquisitionIn everyday clinical activity, entailing sentinel node detection and sentinel lymph node biopsy, it is not required to include all different techniques listed above. In skilled hands and in a center with sound routines, one, two or three of the listed methods can be considered sufficient.
+To perform a sentinel lymph node biopsy, the physician performs a lymphoscintigraphy, wherein a low-activity radioactive substance is injected near the tumor. The injected substance, filtered sulfur colloid, is tagged with the radionuclide technetium-99m. The injection protocols differ by doctor but the most common is a 500 μCi dose divided among 5 tuberculin syringes with 1/2 inch, 24 gauge needles. In the UK 20 megabecquerels of nanocolloid is recommended. The sulphur colloid is slightly acidic and causes minor stinging. A gentle massage of the injection sites spreads the sulphur colloid, relieving the pain and speeding up the lymph uptake. Scintigraphic imaging is usually started within 5 minutes of injection and the node appears from 5 min to 1 hour. This is usually done several hours before the actual biopsy.  About 15 minutes before the biopsy the physician injects a blue dye in the same manner. Then, during the biopsy, the physician visually inspects the lymph nodes for staining and uses a gamma probe or a Geiger counter to assess which lymph nodes have taken up the radionuclide.  One or several nodes may take up the dye and radioactive tracer, and these nodes are designated the sentinel lymph nodes.  The surgeon then removes these lymph nodes and sends them to a pathologist for rapid examination under a microscope to look for the presence of cancer.
+A frozen section procedure is commonly employed (which takes less than 20 minutes), so if neoplasia is detected in the lymph node a further lymph node dissection may be performed. With malignant melanoma, many pathologists eschew frozen sections for more accurate "permanent" specimen preparation due to the increased instances of false-negative with melanocytic staining.
+
+Clinical advantages
+There are various advantages to the sentinel node procedure. First and foremost, it decreases lymph node dissections where unnecessary, thereby reducing the risk of lymphedema, a common complication of this procedure. Increased attention on the node(s) identified to most likely contain metastasis is also more likely to detect micrometastasis and result in staging and treatment changes. Its main uses are in breast cancer and malignant melanoma surgery, although it has been used in other tumor types (colon cancer) with a degree of success. Other cancers which have been investigated with this technique are penile cancer, urinary bladder cancer, prostate cancer, testicular cancer and renal cell cancer.
+
+Research advantages
+As a bridge to translational medicine, various aspects of cancer dissemination can be studied using sentinel node detection and ensuing sentinel node biopsy. Tumor biology pertaining to metastatic capacity, mechanisms of dissemination, the EMT-MET-process (epithelial–mesenchymal transition) and cancer immunology are some subjects which can be more distinctly investigated.
+
+Disadvantages
+However, the technique is not without drawbacks, particularly when used for melanoma patients.  This technique only has therapeutic value in patients with positive nodes. Failure to detect cancer cells in the sentinel node can lead to a false negative result—there may still be cancerous cells in the lymph node basin.  In addition, there is no compelling evidence that patients who have a full lymph node dissection as a result of a positive sentinel lymph node result have improved survival compared to those who do not have a full dissection until later in their disease, when the lymph nodes can be felt by a physician. Such patients may be having an unnecessary full dissection, with the attendant risk of lymphedema.
+
+History
+The concept of a sentinel node was first described by Gould et al. 1960 in a
+patient with cancer of the parotid gland and was implemented clinically on a broad scale by Cabanas in penile cancer.
+The technique of sentinel node radiolocalization was co-founded by James C. Alex, MD, FACS and David N. Krag MD (University of Vermont Medical Center) and they were the first ones to pioneer this method for the use of cutaneous melanoma, breast cancer, head and neck cancer and Merkel cell carcinoma.   Confirmative trials followed soon after. Studies were also conducted at the Moffitt Cancer Center with Charles Cox, MD, Cristina Wofter, MD, Douglas Reintgen, MD and James Norman, MD.
+Following validation of the sentinel node biopsy technique, a number of randomised controlled trials were initiated to establish whether the technique could safely be used to avoid unnecessary axillary dissection among women with early breast cancer. The first such trial, led by Umberto Veronesi at the European Institute of Oncology, showed that women with breast tumours of 2 cm or less could safely forgo axillary dissection if their sentinel lymph nodes were found to be cancer-free on biopsy. The benefits included less pain, greater arm mobility and less swelling in the arm.
+
+See also
+ALMANAC, Axillary Lymphatic Mapping Against Nodal Axillary Clearance trial
+
+References
+Further reading
+External links
+"Sentinel node biopsy using radiocolloid blue dye". You Tube.
+"Sentinel node biopsy". Cancer Management Handbook. August 11, 2011.
+"Sentinel Lymph Node". Know Your Body.
+"International Sentinel Node Society (ISNS)".

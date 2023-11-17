@@ -1,0 +1,23 @@
+Synroc, a portmanteau of "synthetic rock", is a means of safely storing radioactive waste. It was pioneered in 1978 by a team led by Professor Ted Ringwood at the Australian National University, with further research undertaken in collaboration with ANSTO at research laboratories in Lucas Heights.
+
+Manufacture
+Synroc is composed of three titanate minerals – hollandite, zirconolite and perovskite – plus rutile and a small amount of metal alloy. These are combined into a slurry to which is added a portion of high-level liquid nuclear waste. The mixture is dried and calcined at 750 °C (1,380 °F) to produce a powder.
+The powder is then compressed in a process known as hot isostatic pressing (HIP), where it is compressed within a bellows-like stainless steel container at temperatures of 1,150–1,200 °C (2,100–2,190 °F).
+The result is a cylinder of hard, dense, black synthetic rock.
+
+Comparisons
+If stored in a liquid form, nuclear waste can enter the environment and the waterways, and cause widespread damage. As a solid, these risks are greatly minimised.
+Unlike borosilicate glass, which is amorphous, Synroc is a ceramic that incorporates the radioactive waste into its crystal structure. Naturally occurring rocks can store radioactive materials for long periods. The aim of Synroc is to imitate this by converting liquid into a crystalline structure and use to store radioactive waste. Synroc-based glass composite materials (GCM) combine the process and chemical flexibility of glass with the superior chemical durability of ceramics and can achieve higher waste loadings.Different types of Synroc waste forms (ratios of component minerals, specific HIP pressures and temperatures etc.) can be developed for the immobilisation of different types of waste. Only zirconolite and perovskite can accommodate actinides. The exact proportions of the main phases vary depending on the HLW composition. For example, Synroc-C is designed to contain about 20% by weight of calcined HLW and it consists of approximately (% by weight): 30 – hollandite; 30 – zirconolite; 20 – perovskite and 20 – Ti-oxides and other phases. Immobilising weapons-grade plutonium or transuranium wastes instead of bulk HLW may essentially change the Synroc phase composition to primarily zirconolite-based or a pyrochlore-based ceramic. The starting precursor for Synroc-C fabrication contains ~57% by weight TiO2 and 2% by weight metallic Ti. The metallic titanium provides reducing conditions during ceramic synthesis and helps decrease volatilisation of radioactive cesium.Synroc is not a disposal method. Synroc still has to be stored. Even though the waste is held in a solid lattice and prevented from spreading, it is still radioactive and can have a negative effect on its surroundings. Synroc is a superior method of nuclear waste storage because it minimises leaching.
+
+Production use
+In 1997 Synroc was tested with real HLW using technology developed jointly by ANSTO and the US DoE's Argonne National Laboratory.  
+In January 2010, the United States Department of Energy selected hot isostatic pressing (HIP) for processing waste at the Idaho National Laboratory.
+In April 2008, the Battelle Energy Alliance signed a contract with ANSTO to demonstrate the benefits of Synroc in processing waste managed by Batelle as part of its contract to manage the Idaho National Laboratory.
+Synroc was chosen in April 2005 for a multimillion-dollar "demonstration" contract to eliminate 5 t (5.5 short tons) of plutonium-contaminated waste at British Nuclear Fuel's Sellafield plant, on the northwest coast of England.
+
+References
+External links
+Synroc Wasteform (from World Nuclear Association)
+Canberra Observer report on 2005 contract
+ANSTO
+The Synroc Website

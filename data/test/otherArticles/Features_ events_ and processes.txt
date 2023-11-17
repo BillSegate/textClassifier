@@ -1,0 +1,12 @@
+Features, Events, and Processes (FEP) are terms used in the fields of radioactive waste management, carbon capture and storage, and hydraulic fracturing to define relevant scenarios for safety assessment studies.  For a radioactive waste repository, features would include the characteristics of the site, such as the type of soil or geological formation the repository is to be built on or under. Events would include things that may or will occur in the future, like, e.g., glaciations, droughts, earthquakes, or formation of faults. Processes are things that are ongoing, such as the erosion or subsidence of the landform where the site is located on, or near.
+Several catalogues of FEP's are publicly available, a.o., this one elaborated for the NEA Clay Club dealing with the disposal of radioactive waste in deep clay formations,
+and those compiled for deep crystalline rocks (granite) by Svensk Kärnbränslehantering AB, SKB, the Swedish Nuclear Fuel and Waste Management Company.
+
+References
+External links
+Free PDF reports are accessible from here: 
+
+Nuclear Energy Agency
+SKB (Sweden) web site
+Posiva (Finland) Databank web site
+NAGRA (Switzerland) web site

@@ -1,0 +1,49 @@
+Nuclear knowledge management (NKM) is knowledge management as applied in the nuclear technology field. It supports the gathering and sharing of new knowledge and the updating of the existing knowledge base. Knowledge management is of particular importance in the nuclear sector, owing to the rapid development and complexity of nuclear technologies and their hazards and security implications. The International Atomic Energy Agency (IAEA) launched a nuclear knowledge management programme in 2002.
+
+Definition of nuclear knowledge management
+Nuclear knowledge management is defined as knowledge management in the nuclear domain. This simple definition is consistent with the working definition used in the IAEA document "Knowledge Management for Nuclear Industry Operating Organizations" (2006). Knowledge management (KM) itself is defined as an integrated, systematic approach to identifying, acquiring, transforming, developing, disseminating, using, sharing, and preserving knowledge, relevant to achieving specified objectives.
+
+Description
+Knowledge management systems support nuclear organizations in strengthening and aligning their knowledge. Knowledge is the nuclear energy industry’s most valuable asset and resource, without which the industry cannot operate safely and economically. Nuclear knowledge is also very complex, expensive to acquire and maintain, and easily lost. States, suppliers, and operating organizations that deploy nuclear technology are responsible for ensuring that the associated nuclear knowledge is maintained and accessible.In the organizational context, nuclear knowledge management supports the organization's business processes, and involves applying knowledge management practices. These may be applied at any stage of a nuclear facility's life cycle: research and development, design and engineering, construction, commissioning, operations, maintenance, refurbishment and life time extension, waste management, and decommissioning. Nuclear knowledge management issues and priorities are often unique to the particular circumstances of individual Member States and their nuclear industry organizations. Nuclear knowledge management practices enhance and support traditional business functions and goals such as human resource management, training, planning, operations, maintenance, projects, innovation, performance and risk management, information management, process management, organizational learning and information technology support.A nuclear knowledge management strategy, with clearly defined objectives, provides a framework for establishing principles, policy, priorities and plans to apply knowledge management practices in the workplace.
+
+Implementation
+Knowledge management focuses on people and organizational culture to stimulate and nurture the sharing and use of knowledge; on processes or methods to find, create, capture and share knowledge; and on technology to store and assimilate knowledge and to make it readily accessible in a manner which will allow people to work together even if they are not located together. People are the most important component in a KM system and the creation of new knowledge is one of its most valuable byproducts. For a KM system to function properly, the people involved must be willing to share and re-use existing knowledge and to cooperatively generate new knowledge to the advantage of the organization.
+Due to the nature of nuclear power plant operating organizations (high hazard but low risk), a number of knowledge management activities and programmes have been in place throughout the industry to manage and control the knowledge and information related to nuclear power plant design, construction, operation and maintenance. Examples of such existing KM activities employed by NPPs and in most other nuclear technology facilities include the following functions:
+
+Plant policies and procedures;
+Communication techniques;
+Configuration management;
+Document control;
+Work control systems;
+Quality assurance and quality management;
+Operating experience programmes;
+Corrective action systems;
+Safety analysis;
+Training and development;
+Human resource management;
+Company intranet and other web-based strategies.The implementation of a KM system is not intended to replace any of these systems, but rather should increase the benefits to be derived from these systems in conjunction with the deployment of an integrated management system. Properly implemented KM should increase the benefits to the organization of these existing activities, rather than substituting for them. The lessons learned in the nuclear industry in the past 20 years, moving away from inspection by large quality assurance organizations towards building quality into all facility processes, have considerable relevance for KM implementation.
+
+Motivation for nuclear knowledge management programs
+It is probable that nuclear knowledge will continue to expand and change. Without diligence in managing nuclear knowledge, substantial portions of it could be lost due to personnel retirements and the likelihood that much of it could be disused or discarded as a result of either negligence or changing priorities. It will be as important to identify and properly treat obsolete, superseded knowledge as it will be to gather and share new knowledge. It is therefore necessary to maintain effective and efficient KM systems.
+NKM has become an increasingly important element of the nuclear sector in recent years, resulting from a number of challenges and trends:
+
+Countries with expanding nuclear programmes require skilled and trained human resources to design and operate future nuclear installations. Capacity building through training and education and transferring knowledge from centres of knowledge to centres of growth are key issues.
+In countries with stagnating nuclear programmes, the challenge is to secure the human resources needed to sustain the safe operation of existing installations, including their decommissioning and related programmes for spent fuel and waste. Replacing retiring staff and attracting the young generation to a career in the nuclear field are key challenges.
+Non-power applications of nuclear technologies require a stable or even growing base of nuclear knowledge and trained human resources, be it for cancer treatment or for food and agriculture. This need is present in all Member States using nuclear technologies, independent of the use of nuclear power.
+
+Nuclear energy
+Concerns about global climate change and the availability of economically exploitable fossil fuels are driving many countries to reconsider the use of nuclear energy. Yet, the innovations required to design, construct, operate and maintain nuclear power plants consistent with international needs and constraints must derive from a strong foundation of well-sustained nuclear knowledge. 
+In contrast to knowledge in other scientific domains, the free sharing and uncontrolled use of nuclear knowledge are severely restricted due to concerns about nuclear security and proliferation. On the other hand, ensuring nuclear safety requires free sharing of information and experience to avoid repetition of accident precursors. Risks to nuclear safety could be very high due to the nature and size of third party liability and the possibility of nuclear security being severely compromised. In managing nuclear knowledge, therefore, an appropriate balance between nuclear safety and security requirements needs to be established.
+
+Other sectors
+The applications of nuclear technology in the non-power areas enumerated above tends to be less controversial than nuclear power. Knowledge in these areas is broadly disseminated and – in many cases – is freely shared. Effective and efficient systems of managing nuclear knowledge form the basis for refining existing applications and developing new, even more widely used applications.
+
+IAEA program on nuclear knowledge management
+The importance of nuclear knowledge management is increasingly being recognized in the industry. The International Atomic Energy Agency (IAEA) has been a repository of knowledge related to peaceful applications of nuclear technology from the time the organization was established in 1957. Nuclear Knowledge Management came in the forefront in the IAEA as a formal programme to address Member States' priorities in the 21st century. Several resolutions adopted at the IAEA General Conference since 2002 include knowledge management topics.
+The IAEA Secretariat was urged to assist member states, at their request, in fostering and preserving nuclear education and training in all areas of nuclear technology for peaceful purposes; in developing guidance on and methodologies for planning, designing and implementing nuclear knowledge management programmes; in providing Member States with reliable information resources on the peaceful use of nuclear energy; and in continuing to develop tools and methods to capture, retain, share, utilize and preserve nuclear knowledge.
+The IAEA has organized a number of international meetings, schools and conferences covering a wide range of topics, from general concepts that underpin nuclear knowledge management to specific methods and tools taught at training seminars for practitioners.The IAEA Nuclear Knowledge Management Programme was headed by Yanko Yanev (2002–2012) and by John de Grosbois (since 2012).
+
+References
+External links
+Managing Nuclear Knowledge, A Pocket Guide, IAEA Vienna 2012.
+International Journal of Nuclear Knowledge Management, Inderscience Publishers.

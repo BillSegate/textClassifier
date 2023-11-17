@@ -1,4 +1,0 @@
-The Alexander–Hirschowitz theorem shows that a specific collection of k double points in the P^r will impose independent types of conditions on homogenous polynomials and the hypersurface of d with many known lists of exceptions. In which case, the classic polynomial interpolation that is located in several variables can be generalized to points that have larger multiplicities.
-
-
-== References ==

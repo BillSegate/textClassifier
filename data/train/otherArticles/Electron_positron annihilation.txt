@@ -1,0 +1,36 @@
+Electron–positron annihilation occurs when an electron (e−) and a positron (e+, the electron's antiparticle) collide. At low energies, the result of the collision is the annihilation of the electron and positron, and the creation of energetic photons:
+
+e− + e+ → γ + γAt high energies, other particles, such as B mesons or the W and Z bosons, can be created. All processes must satisfy a number of conservation laws, including:
+
+Conservation of electric charge. The net charge before and after is zero.
+Conservation of linear momentum and total energy. This forbids the creation of a single photon. However, in quantum field theory this process is allowed; see examples of annihilation.
+Conservation of angular momentum.
+Conservation of total (i.e. net) lepton number, which is the number of leptons (such as the electron) minus the number of antileptons (such as the positron); this can be described as a conservation of (net) matter law.As with any two charged objects, electrons and positrons may also interact with each other without annihilating, in general by elastic scattering.
+
+Low-energy case
+There are only a very limited set of possibilities for the final state. The most probable is the creation of two or more gamma photons. Conservation of energy and linear momentum forbid the creation of only one photon. (An exception to this rule can occur for tightly bound atomic electrons.) In the most common case, two gamma photons are created, each with energy equal to the rest energy of the electron or positron (0.511 MeV). A convenient frame of reference is that in which the system has no net linear momentum before the annihilation; thus, after collision, the gamma photons are emitted in opposite directions. It is also common for three to be created, since in some angular momentum states, this is necessary to conserve charge parity. It is also possible to create any larger number of photons, but the probability becomes lower with each additional gamma photon because these more complex processes have lower probability amplitudes.
+Since neutrinos also have a smaller mass than electrons, it is also possible – but exceedingly unlikely – for the annihilation to produce one or more neutrino–antineutrino pairs. The probability for such process is on the order of 10000 times less likely than the annihilation into photons. The same would be true for any other particles, which are as light, as long as they share at least one fundamental interaction with electrons and no conservation laws forbid it. However, no other such particles are known.
+
+High-energy case
+If either the electron or positron, or both, have appreciable kinetic energies, other heavier particles can also be produced (such as D mesons or B mesons), since there is enough kinetic energy in the relative velocities to provide the rest energies of those particles. Alternatively, it is possible to produce photons and other light particles, but they will emerge with higher kinetic energies.
+At energies near and beyond the mass of the carriers of the weak force, the W and Z bosons, the strength of the weak force becomes comparable to the electromagnetic force. As a result, it becomes much easier to produce particles such as neutrinos that interact only weakly with other matter.
+The heaviest particle pairs yet produced by electron–positron annihilation in particle accelerators are W+–W− pairs (mass 80.385 GeV/c2 × 2). The heaviest single-charged particle is the Z boson (mass 91.188 GeV/c2). The driving motivation for constructing the International Linear Collider is to produce the Higgs bosons (mass 125.09 GeV/c2) in this way.
+
+Practical uses
+The electron–positron annihilation process is the physical phenomenon relied on as the basis of positron emission tomography (PET) and positron annihilation spectroscopy (PAS). It is also used as a method of measuring the Fermi surface and band structure in metals by a technique called Angular Correlation of Electron Positron Annihilation Radiation.
+It is also used for nuclear transition.
+Positron annihilation spectroscopy is also used for the study of crystallographic defects in metals and semiconductors;
+it is considered the only direct probe for vacancy-type defects.
+
+Reverse reaction
+The reverse reaction, electron–positron creation, is a form of pair production governed by two-photon physics.
+
+See also
+Bhabha scattering
+List of particles
+Meitner–Hupfeld effect
+Pair production
+Positronium
+
+
+== References ==

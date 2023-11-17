@@ -1,0 +1,57 @@
+The APR-1400 (for Advanced Power Reactor 1400 MW electricity) is an advanced pressurized water nuclear reactor designed by the Korea Electric Power Corporation (KEPCO). Originally known as the Korean Next Generation Reactor (KNGR), this Generation III reactor was developed from the earlier OPR-1000 design and also incorporates features from the US Combustion Engineering (C-E) System 80+ design. Currently in South Korea there are 3 units in operation (Shin Kori unit 3 and 4, Shin Hanul unit 1), and 3 units in construction (Shin Hanul unit 2, Shin Kori unit 5 and 6). Three units are completed and in commercial operation in the United Arab Emirates at Barakah, with one more under construction at the same plant.
+
+History
+APR-1400 design began in 1992 and was awarded certification by the Korean Institute of Nuclear Safety in May 2002. The design certification application was submitted to the US Nuclear Regulatory Commission (NRC) in December 2014 and in March 2015, it was accepted for technical review to determine if the reactor design meets basic US safety requirements.In October 2017, European Utility Requirements (EUR) organization approved changes to the APR-1400 design for emergency cooling, allowing the design to be built in countries outside Europe to EUR certification.As of September 2018, the NRC issued its final safety evaluation report and standard design approval finding the design technically acceptable and valid for 15 years. In April 2019 the NRC approved a rule to certify the APR-1400 standard design. 
+In September 2018, the U.S. Nuclear Regulatory Commission gave the APR-1400 Standard Design Approval, and in September 2019 it received a design certificate valid for 15 years.In 2022, Westinghouse Electric Company, which had acquired Combustion Engineering in 2000, filed a lawsuit in a U.S. federal court against KHNP and Kepco alleging that the APR-1400 was copied the System 80 reactor. This had the indirect effect that the U.S. government rejected a request for necessary APR-1400 permission to export to a third country while the case is resolved.
+
+Locations
+South Korea
+The first commercial APR-1400 reactors at Shin Kori were approved in September 2007, with construction starting in October 2008 (Unit 3) and August 2009 (Unit 4). Shin Kori-3 was initially scheduled to commence operation by the end of 2013, but the schedules for both Units 3 & 4 were delayed by approximately one year to replace safety-related control cabling, which had failed some tests. Construction of two more APR-1400 units at Shin Kori, Korea (Units 5 and 6) had been expected to begin in 2014, but as of December 2016 plans had not been finalised.Construction of two new APR-1400s, Shin Hanul Units 1 & 2, began in May 2012 (Unit 1) and June 2013 (Unit 2), with Unit 1 expected to be completed in April 2017. Two more APR-1400s at Shin Hanul were approved in 2014, with construction to start in 2017.After the election of President Moon Jae-in in May 2017, Korea Hydro & Nuclear Power (KHNP) suspended design work on Shin Hanul-3 and -4, and construction work was suspended on Shin Kori-5 and -6 in July 2017 for a three-month period while a government-appointed committee met to discuss the country's future nuclear power policy. President Moon had signed an agreement in March 2017 calling for the phase-out of nuclear energy while campaigning for president. In October 2017, the committee recommended proceeding with the construction of Shin Kori-5 and -6. President Moon announced he supported the committee's decision, but added that no new construction would be allowed, throwing doubt on the fate of Shin Hanul-3 and -4.
+As of April 2020, Shin-Kori 1 and 2  and Shin-Hanul 1 are operational while Shin-Hanul 2 being loaded with fuel.
+
+United Arab Emirates
+In December 2009, a KEPCO-led consortium was awarded the contract to build four APR-1400 reactors at Barakah, United Arab Emirates. Construction of Barakah Unit 1 started in July 2012, Unit 2 started construction in May 2013, Unit 3 started construction in September 2014 and Unit 4 started construction in September 2015. Block 1 started to produce energy on 1 August 2020 and went into commercial operation on 6 April 2021. several research projects were performed at Khalifa University to ensure the safe operation for the APR1400 nuclear power plant
+
+United Kingdom
+NuGeneration (NuGen) was formed as the joint venture between Engie, Iberdrola, and Scottish and Southern Energy (SSE) to develop the Moorside Nuclear Power Station in Cumbria; the initial plans called for three Westinghouse AP1000 units. SSE was bought out by Engie and Iberdrola in 2011, and Iberdrola's share, in turn, was purchased by Toshiba in 2013. Following the bankruptcy of Toshiba's subsidiary Westinghouse Electric Corporation in March 2017, Engie pulled out of NuGen in July, leaving Toshiba as the sole owner of NuGen. In December 2017, NuGen announced that KEPCO was named the preferred bidder to acquire NuGen from Toshiba. In July 2018 Kepco’s preferred bidder status was terminated, in response to difficulties financing the development.
+
+Poland
+In October 2022, Polish utilities PGE and ZE PAK announced an agreement with KHNP to build a number of APR-1400 reactors near ZE PAK's coal-fired plant at Pątnów.
+
+Summary
+Notes
+
+Design
+The APR-1400 is an evolutionary Advanced Light Water Reactor which is based on the previous OPR-1000 design. Under Korean conditions, the reactor produced 1455 MW gross electrical power with a thermal power capacity of 3983 MW (4000 MW nominal).The design was developed to meet 43 design requirements, with the main developments being evolution in capacity, increased lifetime and enhanced safety. The design improvements also focus on meeting economic objectives and licensing requirements. Compared to the OPR-1000, the key features are:
+
+Net Electric power: 1400 MW (40% increase)
+Design Life: 60 years (50% increase)
+Seismic Design Basis: 0.3g (50% increase)
+Core Damage Frequency: less than 10−5/yr (10x decrease)
+Core fuel assemblies: 241 (36% increase)Several other changes were incorporated such as moving to complete digital I/C and implementation of new systems in the Safety Injection System (SIT).
+
+Core
+The reactor core of the APR-1400 consists of 241 fuel assemblies, 93 control element assemblies, and 61 in-core instrumentation assemblies. Each fuel assembly has 236 fuel rods in a 16 x 16 array (some space is taken up by guide tubes for control elements) containing Uranium dioxide (average enrichment of 2.6 w/o), which is capable of producing an average volumetric power density of 100.9 W/cm^3. Up to 30% of the core can also be loaded with Mixed Oxide fuel with minor modifications. The core is designed for an 18-month operating cycle with a discharge burnup up to 60,000 MWD/MTU, with a thermal margin of 10%. For the control element assemblies, 76 Boron carbide pellets rods are used in the full strength control rods, while 17 Inconel-625 is used in the part strength control rods.
+
+Primary
+Like the OPR-1000 and preceding C-E designs, the APR-1400 has two reactor coolant loops. In each loop, heated primary coolant leaves the reactor pressure vessel (RPV) through one hot leg, passing through one steam generator (SG), returning to the reactor vessel through two cold legs, each equipped with a reactor coolant pump (RCP). In loop 2, there is one pressurizer (PZR) on the hot leg, where a steam bubble is maintained during operation. The loops are arranged symmetrically, so the hot legs are diametrically opposed on the RPV's circumference. Because the steam generators are elevated relative to the RPV, natural convection will circulate reactor coolant in the event of RCP malfunction. The pressurizer is equipped with a pilot-operated relief valve which not only protects against Reactor Coolant System over-pressure, it also allows manual depressurization in the case of a total loss of feedwater.
+
+Secondary
+Each steam generator has 13,102 Inconel 690 tubes; this material improves resistance to stress corrosion cracking compared to the Inconel 600 used in prior designs. Like the late-evolution System 80+ design, the steam generator design incorporates an integral feedwater economizer, which pre-heats feedwater before it is introduced into the SG. Compared with the OPR-1000 design, the steam generator features a larger secondary feedwater inventory, extending the dry-out time and affording more time for manual operator intervention, should it be needed. The design tube plugging margin is 10%, meaning the unit can operate at full power with up to 10% of the SG tubes plugged. Each of the two main steam lines from the steam generator contain five safety valves, a main steam relief valve and one isolation valve.
+
+APR+
+The APR-1400 has been further developed into the APR+ design, which received its official type certification on 14 August 2014 after seven years in development. The reactor design features improved safety and among others "a core damage frequency an entire order of magnitude lower than that calculated for the APR1400 design that it supplants". The APR+ core uses 257 fuel assemblies (16 more than APR-1400) to increase output to 1550 MW gross electricity. Certain safety features, such as backup generators, have been increased from two to four independent, redundant systems.
+
+See also
+APR1000
+Nuclear power in South Korea
+Nuclear power in the United Arab Emirates
+Nuclear power in Poland
+
+References
+External links
+Kim, Han-Gon (28 October 2009). The Design Characteristics of Advanced Power Reactor 1400 (PDF). Korea Hydro & Nuclear Power Co (Report). IAEA. Retrieved 13 August 2017.
+"Advanced Nuclear Power Reactors". World Nuclear Association. December 2014. Archived from the original on 13 April 2014. Retrieved 4 March 2015.
+"Status report 83 - Advanced Power Reactor 1400 MWe (APR1400)" (PDF). International Atomic Energy Association. 11 April 2011. Retrieved 4 March 2015.
+"APR + (Advanced Power Reactor Plus)" (PDF). International Atomic Energy Association. 6 November 2013. Retrieved 4 March 2015.
+Euan Mearns, Andy Dawson (18 December 2017). "An Overview of the KEPCO APR1400". Energy Matters. Retrieved 18 December 2017.

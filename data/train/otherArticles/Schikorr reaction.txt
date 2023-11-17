@@ -1,0 +1,218 @@
+The Schikorr reaction formally describes the conversion of the iron(II) hydroxide (Fe(OH)2) into iron(II,III) oxide (Fe3O4). This transformation reaction was first studied by Gerhard Schikorr. The global reaction follows:
+
+  
+    
+      
+        
+          
+            
+              
+                3
+                
+                Fe
+                
+                  
+                    (
+                    OH
+                    )
+                  
+                  
+                    2
+                  
+                  
+                    
+                  
+                
+              
+              
+                ferrous
+                 
+                hydroxide
+              
+            
+          
+          ⟶
+          
+            
+              
+                
+                  Fe
+                  
+                    3
+                  
+                  
+                    
+                  
+                
+                
+                  O
+                  
+                    4
+                  
+                  
+                    
+                  
+                
+              
+              magnetite
+            
+          
+          +
+          
+            
+              
+                H
+                
+                  2
+                
+                
+                  
+                
+              
+              hydrogen
+            
+          
+          +
+          
+            
+              
+                2
+                
+                
+                  H
+                  
+                    2
+                  
+                  
+                    
+                  
+                
+                O
+              
+              water
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {{\underset {ferrous\ hydroxide}{3Fe(OH)2}}->{\underset {magnetite}{Fe3O4}}+{\underset {hydrogen}{H2}}+{\underset {water}{2H2O}}}}}
+  It is of special interest in the context of the serpentinization, the formation of hydrogen by the action of water on a common mineral.
+
+Reaction mechanism
+The Schikorr reaction can be viewed as two distinct processes:
+
+the anaerobic oxidation of two Fe(II) (Fe2+) into Fe(III) (Fe3+) by the protons of water. The reduction of two water protons is accompanied by the production of molecular hydrogen (H2), and;
+the loss of two water molecules from the iron(II) and iron(III) hydroxides giving rise to its dehydration and to the formation of a thermodynamically more stable phase iron(II,III) oxide.The global reaction can thus be decomposed in half redox reactions as follows:
+
+2 (Fe2+ → Fe3+ + e−) (oxidation of 2 iron(II) ions)2 (H2O + e− → ½ H2 + OH−) (reduction of 2 water protons)to give:
+
+2 Fe2+ + 2 H2O → 2 Fe3+ + H2 + 2 OH−Adding to this reaction one intact iron(II) ion for each two oxidized iron(II) ions leads to:
+
+3 Fe2+ + 2 H2O → Fe2+ + 2 Fe3+ + H2 + 2 OH−Electroneutrality requires the iron cations on both sides of the equation to be counterbalanced by 6 hydroxyl anions (OH−):
+
+3 Fe2+ + 6 OH− + 2 H2O → Fe2+ + 2 Fe3+ + H2 + 8 OH−3 Fe(OH)2 + 2 H2O → Fe(OH)2 + 2 Fe(OH)3 + H2For completing the main reaction, two companion reactions have still to be taken into account:
+The autoprotolysis of the hydroxyl anions; a proton exchange between two OH−, like in a classical acid–base reaction:
+
+OH− + OH− → O2− + H2O
+acid 1 + base 2 → base 1 + acid 2, or also,
+2 OH− → O2− + H2Oit is then possible to reorganize the global reaction as:
+
+3 Fe(OH)2 + 2 H2O → (FeO + H2O) + (Fe2O3 + 3 H2O) + H23 Fe(OH)2 + 2 H2O → FeO + Fe2O3 + 4 H2O + H23 Fe(OH)2 → FeO + Fe2O3 + 2 H2O + H2Considering then the formation reaction of iron(II,III) oxide:
+
+  
+    
+      
+        
+          
+            Fe
+            
+              II
+            
+          
+          O
+          +
+          
+            Fe
+            
+              2
+            
+            
+              III
+            
+          
+          
+            O
+            
+              3
+            
+            
+              
+            
+          
+          ⟶
+          
+            Fe
+            
+              3
+            
+            
+              
+            
+          
+          
+            O
+            
+              4
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {Fe^{II}O + Fe^{III}2O3 -> Fe3O4}}}
+  it is possible to write the balanced global reaction:
+
+3 Fe(OH)2 → (FeO·Fe2O3) + 2 H2O + H2in its final form, known as the Schikorr reaction:
+
+3 Fe(OH)2 → Fe3O4 + 2 H2O + H2
+
+Occurrences
+The Schikorr reaction can occur in the process of anaerobic corrosion of iron and carbon steel in various conditions.
+Anaerobic corrosion of metallic iron to give iron(II) hydroxide and hydrogen:
+
+3 (Fe + 2 H2O → Fe(OH)2 + H2)followed by the Schikorr reaction:
+
+3 Fe(OH)2 → Fe3O4 + 2 H2O + H2give the following global reaction:
+
+3 Fe + 6 H2O → Fe3O4 + 2 H2O + 4 H23 Fe + 4 H2O → Fe3O4 + 4 H2At low temperature, the anaerobic corrosion of iron can give rise to the formation of "green rust" (fougerite) an unstable layered double hydroxide (LDH). In function of the geochemical conditions prevailing in the environment of the corroding steel, iron(II) hydroxide and green rust can progressively transform in iron(II,III) oxide, or if bicarbonate ions are present in solution, they can also evolve towards more stable carbonate phases such as iron carbonate (FeCO3), or iron(II) hydroxycarbonate (Fe2(OH)2(CO3), chukanovite) isomorphic to copper(II) hydroxycarbonate (Cu2(OH)2(CO3), malachite) in the copper system.
+
+Application fields
+Anaerobic oxidation of iron and steel commonly finds place in oxygen-depleted environments, such as in permanently water-saturated soils, peat bogs or wetlands in which archaeological iron artefacts are often found.
+Anaerobic oxidation of carbon steel of canisters and overpacks is also expected to occur in deep geological formations in which high-level radioactive waste and spent fuels should be ultimately disposed. Nowadays, in the frame of the corrosion studies related to HLW disposal, anaerobic corrosion of steel is receiving a renewed and continued attention. Indeed, it is essential to understand this process to guarantee the total containment of HLW waste in an engineered barrier during the first centuries or millennia when the radiotoxicity of the waste is high and when it emits a significant quantity of heat.
+The question is also relevant for the corrosion of the reinforcement bars (rebars) in concrete (Aligizaki et al., 2000). This deals then with the service life of concrete structures, amongst others the near-surface vaults intended for hosting low-level radioactive waste.
+
+Hydrogen evolution
+The slow but continuous production of hydrogen in deep low-permeability argillaceous formations could represent a problem for the long-term disposal of radioactive waste (Ortiz et al., 2001; Nagra, 2008; recent Nagra NTB reports). Indeed, a gas pressure build-up could occur if the rate of hydrogen production by the anaerobic corrosion of carbon-steel and by the subsequent transformation of green rust into magnetite should exceed the rate of diffusion of dissolved H2 in the pore water of the formation. The question is presently the object of many studies (King, 2008; King and Kolar, 2009; Nagra Technical Reports 2000–2009) in the countries (Belgium, Switzerland, France, Canada) envisaging the option of disposal in clay formation.
+
+Hydrogen embrittlement of steel alloys
+When nascent hydrogen is produced by anaerobic corrosion of iron by the protons of water, the atomic hydrogen can diffuse into the metal crystal lattice because of the existing concentration gradient. After diffusion, hydrogen atoms can recombine into molecular hydrogen giving rise to the formation of high-pressure micro-bubbles of H2 in the metallic lattice. The trends to expansion of H2 bubbles and the resulting tensile stress can generate cracks in the metallic alloys sensitive to this effect also known as hydrogen embrittlement. Several recent studies (Turnbull, 2009; King, 2008; King and Kolar, 2009) address this question in the frame of the radioactive waste disposal in Switzerland and Canada.
+
+See also
+Anaerobic corrosion of steel
+Anoxic waters
+Iron hydroxides, and their rare mineral analogue in nature: amakinite, (Fe,Mg)(OH)2
+Fougerite
+Iron(II) oxide
+Redox reaction
+Serpentinization reaction, involving also the transformation of fayalite (Fe-end member of olivine) into magnetite, quartz  and hydrogen:3 Fe2SiO4 + 2 H2O → 2 Fe3O4 + 3 SiO2 + 3 H2
+
+References
+Further reading
+External links
+For detailed reports on iron corrosion issues related to high-level waste disposal, see the following links:
+
+Nagra website
+SKB web site
+NWMO web site

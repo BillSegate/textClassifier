@@ -1,0 +1,26 @@
+New York v. United States, 505 U.S. 144 (1992), was a decision of the United States Supreme Court. Justice Sandra Day O'Connor, writing for the majority, found that the federal government may not require states to “take title” to radioactive waste through the "Take Title" provision of the Low-Level Radioactive Waste Policy Amendments Act, which the Court found to exceeded Congress's power under the Commerce Clause. The Court permitted the federal government to induce shifts in state waste policy through other means.
+
+Background
+The Low-Level Radioactive Waste Policy Amendments Act was an attempt to imbue a negotiated agreement of states with federal incentives for compliance. The problem of what to do with radioactive waste was a national issue complicated by the political reluctance of the states to deal with the problem individually. New York was a willing participant in the compromise, and after the Act was passed, it announced locations in the counties of Allegany and Cortland, as potential places for waste storage. Public opposition in both counties was immediate and very determined and eventually helped motivate New York to challenge the law.
+
+Decision
+The Act provided three "incentives" for states to comply with the agreement.
+The first two incentives were held constitutional. The first incentive allowed states to collect gradually increasing surcharges for waste that was received from other states. The Secretary of Energy would then collect a portion of the income and redistribute it to reward states that achieved a series of milestones in waste disposal. That was held to be within Congress's power under the Taxing and Spending Clause, an "unexceptionable" exercise of that power.
+The second incentive, the "access" incentive, allowed states to reprimand other states that missed certain deadlines by raising surcharges or eventually denying access to disposal at their facilities completely. That was held to be a permitted exercise of Congress's power, under the Commerce Clause.
+The third incentive, requiring states to "take title" and assume liability for waste generated within their borders if they failed to comply, was held to be impermissibly coercive and a threat to state sovereignty, thereby violating the Tenth Amendment.
+After noting the constitutionality of the first two incentives, Justice O'Connor characterized the "take title" incentive as an attempt to "commandeer" the state governments by directly compelling them to participate in the federal regulatory program. The federal government "crossed the line distinguishing encouragement from coercion." The distinction was that with respect to the "take title" provision, states had to choose between conforming to federal regulations or taking title to the waste. Since Congress cannot directly force states to legislate according to their scheme, and since Congress likewise cannot force them to take title to radioactive waste, O'Connor reasoned that Congress cannot force States to choose between the two. Such coercion would be counter to the federalist structure of government in which a "core of state sovereignty" is enshrined in the Tenth Amendment.
+The Court found the "take title" provision to be severable and, noting the seriousness of the "pressing national problem" being addressed, allowed the remainder of the Act to survive.
+
+Dissenting opinion
+Justice White wrote a dissenting opinion that was joined by Justices Blackmun and Stevens. White stressed that the Act was a product of "cooperative federalism," as the states "bargained among themselves to achieve compromises for Congress to sanction." Noting that Congress can directly regulate radioactive waste, as opposed to "compelling state legislatures" to regulate according to their scheme, he said that the "ultimate irony of the decision today is that in its formalistically rigid obeisance to 'federalism,' the Court gives Congress fewer incentives to defer to the wishes of state officials in achieving local solutions to local problems."
+
+See also
+List of United States Supreme Court cases, volume 505
+List of United States Supreme Court cases
+Lists of United States Supreme Court cases by volume
+List of United States Supreme Court cases by the Rehnquist Court
+
+References
+External links
+Text of New York v. United States, 505 U.S. 144 (1992) is available from: CourtListener  Findlaw  Justia  Library of Congress  Oyez (oral argument audio) 
+Full Text of Volume 505 of the United States Reports at www.supremecourt.gov

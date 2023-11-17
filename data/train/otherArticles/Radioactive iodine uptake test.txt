@@ -1,0 +1,14 @@
+The radioactive iodine uptake test is a type of scan used in the diagnosis of thyroid problems, particularly hyperthyroidism. It is entirely different from radioactive iodine therapy (RAI therapy), which uses much higher doses to destroy cancerous cells. The RAIU test is also used as a follow-up to RAI therapy to verify that no thyroid cells survived, which could still be cancerous.The patient swallows a radioisotope of iodine in the form of capsule or fluid, and the absorption (uptake) of this radiotracer by the thyroid is studied after 4–6 hours and after 24 hours with the aid of a scintillation counter. The dose is typically 0.15–0.37 MBq (4–10 μCi) of 131I iodide, or 3.7–7.4 MBq (100–200 μCi) of 123I iodide. The RAIU test is a reliable measurement when using a dedicated probe with a reproducibility of 1 percent and a 95%-least-significant-change of 3 percent.The normal uptake is between 15 and 25 percent, but this may be forced down if, in the meantime, the patient has eaten foods high in iodine, such as dairy products and seafood. Low uptake suggests thyroiditis, high uptake suggests Graves' disease, and unevenness in uptake suggests the presence of a nodule.123I has a shorter half-life than 131I (a half day vs. 8.1 days), so use of 123I exposes the body to less radiation, at the expense of less time to evaluate delayed scan images. Furthermore, 123I emits gamma radiation, while 131I emits gamma and beta radiation.
+
+Contraindications
+The test is inappropriate for patients who are pregnant or breastfeeding.
+
+Additional images
+
+			
+			
+		
+LMP BNUKSEA 4000+60000
+
+
+== References ==

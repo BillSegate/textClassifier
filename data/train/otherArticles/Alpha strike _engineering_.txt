@@ -1,0 +1,16 @@
+Alpha strike is a term referring to the event when an alpha particle, a composite charged particle composed of two protons and two neutrons, enters a computer and modifies the data or operation of a component in the computer.Alpha strikes can disturb the silicon substrate of the transistors in a computer through their electronic stopping power, causing the transistor to flip states if the charge imparted by the strike crosses a critical threshold (QCrit). This, in turn, can corrupt the information stored by that transistor and create a cascading effect on the operation of the component that encases it.
+
+History
+The first widely recognized radiation-generated error in a computer was the appearance of random errors in the Intel 4k 2107 DRAM in the late 1970s. This problem was investigated by Timothy C. Mays and Murray H. Woods, who (in 1979) reported that the errors were caused by alpha decay from trace amounts of uranium and thorium induced in the seminal paper surrounding the chip.Since then, there have been multiple incidents of computer errors due to radiation, including error reports from computers onboard spacecraft, corrupted data from voting machines, and crashes on computers onboard aircraft.According to a study from Hughes Aircraft Company, anomalies in satellite communication attributed to galactic cosmic radiation is on the order of (3.1×10−3) transistors per year. This rate is an estimate of the number of noticeable cascading errors in communication between satellites per satellite.
+
+Modern Impact
+Alpha strikes are limiting the computing capabilities of computers onboard high-altitude vehicles as the energy an alpha particle imparts on the transistors of a computer is far more consequential for smaller transistors. As a result, computers with smaller transistors and higher computing capability are more prone to errors and crashes than computers with larger transistors.One potential solution for optimizing the performance of computers onboard spacecraft while limiting the number of errors in the computer is the use of radiation protection. There a numerous materials under consideration as radiation shields, each with its own tradeoff between cost, weight, thermal diffusivity, and signal permittivity. One potential solution being explored by scientists and engineers is hydrogenated carbon nanofibers, a material that is light and can absorb alpha strikes through its internal structure.
+
+See also
+Alpha decay
+Cosmic ray
+Satellite
+Radiation protection
+
+
+== References ==

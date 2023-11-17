@@ -1,0 +1,13 @@
+The FUJI molten salt reactor is a proposed molten-salt-fueled thorium fuel cycle thermal breeder reactor, using technology similar to the Oak Ridge National Laboratory's Molten Salt Reactor Experiment – liquid fluoride thorium reactor. It was being developed by the Japanese company International Thorium Energy & Molten-Salt Technology (IThEMS), together with partners from the Czech Republic. As a breeder reactor, it converts thorium into the nuclear fuel uranium-233. To achieve reasonable neutron economy, the chosen single-salt design results in significantly larger feasible size than a two-salt reactor (where blanket is separated from core, which involves graphite-tube manufacturing/sealing complications). Like all molten salt reactors, its core is chemically inert and under low pressure, helping to prevent explosions and toxic releases. The proposed design is rated at 200 MWe output. The IThEMS consortium planned to first build a much smaller MiniFUJI 10 MWe reactor of the same design once it had secured an additional $300 million in funding.IThEMS closed in 2011 after it was unable to secure adequate funding. A new company, Thorium Tech Solution (TTS), was founded in 2011 by Kazuo Furukawa, the chief scientist from IThEMS, and Masaaki Furukawa. TTS acquired the FUJI design and some related patents.
+
+See also
+Toshiba 4S reactor
+Liquid Fluoride Thorium Salt Reactors
+
+References
+External links
+Nuclear Green (weblog): Information about the IThEMS business plan
+Yoihiro Shimazu – PDF presentation
+MSR-FUJI General Information, Technical Features, and Operating Characteristics
+Popular blog with summary of potential
+Encyclopedia of Earth

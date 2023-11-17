@@ -1,0 +1,34 @@
+Deep horizontal drillhole disposal is the concept of disposing of high-level radioactive waste from a nuclear reactor in deep horizontal boreholes instead of in more traditional deep geological repositories that are excavated like mines. The design concept is intended to improve upon the vertical borehole concept developed by Sandia National Laboratories, by utilizing modern advancements in directional drilling technology as well as using isotopic methods to measure the affinity a host rock has for isolation.
+
+American demonstration
+A series of tests of the disposal technology were carried out privately in November 2018 and then publicly in January 2019. The test demonstrated emplacement of a test-canister in a horizontal drillhole, and retrieval of the same canister. There was no actual high-level waste used in this test.
+
+Horizontal drillhole details
+Horizontal drillhole disposal describes proposals to drill over one kilometer vertically, and two kilometers horizontally in the Earth's crust, for the purpose of disposing of high-level waste forms such as spent nuclear fuel, Caesium-137 or Strontium-90.
+This system consists of a drilllhole which is bored from a rig on the surface into a suitable isolated sedimentary, igneous or metamorphic host rock. Drilling is imposed vertically to a depth as much as 5 kilometers (3.1 miles) and then gradually changes direction by 90 degrees to the horizontal section where the waste is destined to be disposed. After emplacement, the drillhole is backfilled and sealed.This concept seeks to be applied to multiple waste streams from spent nuclear fuel to weapon's waste, therefore canister diameter and length vary upon waste form. Canisters are made of a nickel-chromium-molybdenum alloy, and are designed to be retrieved for a period of up to 50 years prior to permanent closure.
+
+Location of appropriate sites
+United States
+Every state in the U.S. has deep rocks suitable for its own borehole repository. Suitable host rocks include isolated sedimentary, igneous or metamorphic host rocks.
+
+Speed of construction
+Scientists at the University of Sheffield in England say that deep boreholes for nuclear waste disposal can be built faster than a traditional deep geological repository that is excavated like an underground mine for waste disposal. The University of Sheffield engineers say that a borehole could be drilled, filled and sealed in no more than five years, in contrast to the decades required for a mined repository.
+
+History
+United States
+Beginning in 2016, the U.S. Department of Energy funded an experimental borehole extending over 3 miles (4.8 km)  deep, in Rugby, North Dakota. The plans for this five-year project in Rugby did not involve nuclear waste, and instead would have tested other aspects of the borehole concept. However, following protests in North Dakota, a site was proposed in Spink County, South Dakota. After protests in South Dakota prevented the project from moving forward, the Department of Energy scrapped it.Due to public opposition to the first experimental borehole, in late 2016 the Department of Energy announced a second project which would have involved four sites; two in New Mexico, one in Texas and one in South Dakota. The early stages of the project required gaining public support before the Department of Energy would have selected a final site for an experimental borehole. On May 23, 2017, the Department of Energy announced that funding priorities had changed and that the deep borehole project was defunded.In 2018 and 2019, a private company did a series of tests in Cameron, Texas, that demonstrated the use of boreholes via a horizontal drillhole disposal system. This was done privately in November 2018, and then publicly in January 2019. The tests included emplacement of a mock-up canister, and its retrieval. There was no actual high-level waste used in this test.
+
+Malaysia
+On January 6, 2023, Malaysia was in its final stages of preparatory work for the start of its borehole facility with construction taking up to six weeks and the facility will be operational very soon.
+
+See also
+Deep borehole disposal
+Ocean disposal of radioactive waste
+Ocean floor disposal
+Nuclear fuel cycle
+Radioactive waste
+Yucca Mountain nuclear waste repository
+Waste Isolation Pilot Plant
+
+
+== References ==

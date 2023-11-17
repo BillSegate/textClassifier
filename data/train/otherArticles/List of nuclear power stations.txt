@@ -1,0 +1,24 @@
+The following page lists operating nuclear power stations. The list is based on figures from PRIS (Power Reactor Information System) maintained by International Atomic Energy Agency.
+
+In service
+This table lists all currently operational power stations. Some of these may have reactors under construction, but only current net capacity is listed. Capacity of permanently shut-down reactors is not included, but capacity of long-term shut-down reactors (today mainly in Japan) is included.
+
+Under construction
+This table lists stations under construction stations without any reactor in service. Planned connection column indicates the connection of the first reactor, not thus whole capacity.
+
+Permanently shut down
+This table lists stations that are permanently shut down. Listed on 1985, 2005-2022 ongoing.
+
+Gallery of power plants
+See also
+List of nuclear reactors — shows individual reactors and dates
+List of boiling water reactors
+List of small modular reactor designs
+Lists of nuclear disasters and radioactive incidents
+Nuclear power by country
+
+Notes
+References
+External links
+PRIS (Power Reactor Information System) database maintained by International Atomic Energy Agency
+World Nuclear Power Reactors database maintained by World Nuclear Association

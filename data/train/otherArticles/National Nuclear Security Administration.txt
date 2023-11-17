@@ -1,0 +1,84 @@
+The National Nuclear Security Administration (NNSA) is a United States federal agency responsible for safeguarding national security through the military application of nuclear science. NNSA maintains and enhances the safety, security, and effectiveness of the U.S. nuclear weapons stockpile; works to reduce the global danger from weapons of mass destruction; provides the United States Navy with safe and effective nuclear propulsion; and responds to nuclear and radiological emergencies in the United States and abroad.
+Established by the United States Congress in 2000, NNSA is a semiautonomous agency within the United States Department of Energy. The current Administrator is Jill Hruby.
+
+History
+The National Nuclear Security Administration was created by Congressional action in 1999, in the wake of the Wen Ho Lee spy scandal and other allegations that lax administration by the Department of Energy had resulted in the loss of U.S. nuclear secrets to China. Originally proposed to be an independent agency, it was instead chartered as a semiautonomous agency within the Department of Energy to be headed by an administrator reporting to the Secretary of Energy. The first Under Secretary for Nuclear Security and NNSA administrator appointed was Air Force General (and CIA Deputy Director) John A. Gordon.The agency created the Global Threat Reduction Initiative in 2004 to expand efforts similar to the Cooperative Threat Reduction program beyond the former Soviet Union.
+
+2005 cyberattack and response
+In 2006, Energy Department officials testified that a hacker stole information on more than 1,000 NNSA employees. An inspector general's report criticized the Department's response as dysfunctional. The NNSA Administrator took responsibility.
+
+Mission and operations
+NNSA has the following missions with regard to national security:
+To manage the U.S. nuclear weapons stockpile.
+To reduce global danger from weapons of mass destruction and to promote international nuclear safety and nonproliferation.
+To provide the United States Navy with safe, militarily effective nuclear propulsion plants and to ensure the safe and reliable operation of those plants.
+
+Defense programs
+One of NNSA's primary missions is to maintain the safety, security and effectiveness of the United States' nuclear weapons stockpile. After the Cold War, the U.S. stopped production of new nuclear warheads and voluntarily ended underground nuclear testing. NNSA maintains the existing nuclear deterrent through the use of science experiments, engineering audits and high-tech simulations at its three national laboratories: Los Alamos National Laboratory, Lawrence Livermore National Laboratory, and Sandia National Laboratories. NNSA assets used to maintain and ensure the effectiveness of the American nuclear weapons stockpile include the Dual-Axis Radiographic Hydrodynamic Test Facility and the Z Machine. NNSA also uses powerful supercomputers to run simulations and validate experimental data; these computers often appear on the Top500 list.
+
+National Ignition Facility
+Another important asset used to test the stockpile is the National Ignition Facility (NIF) at LLNL, a laser-based inertial confinement fusion research device. NIF achieved the first scientific breakeven controlled fusion experiment on December 5, 2022, with an energy gain factor of 1.5.
+
+Office of Secure Transportation
+The Office of Secure Transportation, operated by the Office of Defense Programs, provides safe and secure transportation of nuclear weapons and components and special nuclear materials, and conducts other missions supporting national security. OST shipments are moved in specially designed equipment and escorted by armed and specially trained federal agents.
+
+Nonproliferation
+NNSA's Office of Defense Nuclear Nonproliferation in conjunction with international partners, federal agencies, U.S. national laboratories, and the private sector works around the clock to discover, protect, and or dispose of radiological and nuclear materials.The office strives to:
+Extract, dispose, and reduce the materials used in the proliferation of nuclear arms
+Protect technology, materials, and the facilities used to store such materials and technology
+Track the spread of nuclear materials, expertise, and the technological knowledge associated with the creation of nuclear weapons
+Conduct research and development for solutions to mitigate the spread of nuclear materials, and the application of protective measures
+Develop policy solutions and develop programs to reduce nuclear and radiological dangers.
+
+Removals
+NNSA has successfully led the recovery efforts of nuclear materials from dozens of countries. The Department of Energy/NNSA has removed or confirmed the disposition of 507 MT of highly enriched uranium and plutonium from 48 countries.
+For example, in 2017, it removed all the highly enriched uranium from Ghana and repatriated it to China. The Ghanaian reactor now uses low-enriched uranium.
+
+Counterterrorism and counterproliferation
+NNSA's Office of Counterterrorism and Counterproliferation focuses on:
+Radiological search – searching for radiological materials as well as identifying them.
+Rendering safe – comprehensive evaluation of radioactive materials and or nuclear device if such a device is found, to ensure safety.
+Consequence management – analysis of the spread of radioactive materials if such an incident were to occur.The office oversees the capabilities of the Nuclear Emergency Support Team.
+NNSA deploys response teams around 100 times each year, primarily to check for radioactive materials. The missions are driven by safety concerns with regard to reports, support to other agencies, and large public events such as presidential inaugurations and the Super Bowl.
+NNSA provides expertise, tools and technically informed policy recommendations to advance U.S. nuclear counterterrorism and counterproliferation objectives. It is responsible for understanding nuclear threat devices and foreign activities that cause proliferation concerns. To accomplish these goals, members of the counterproliferation office confer with their international counterparts on nuclear security and counterterrorism; conduct scientific research to characterize, detect and defeat nuclear threat devices; develop and conduct WMD counterterrorism exercises; and promote nuclear information security policy and practices.
+
+Naval Reactors
+NNSA's Nuclear Propulsion Program – working with Naval Nuclear Laboratories – is responsible for providing efficient nuclear propulsion plants to the United States Navy. It is also known as Naval Reactors. It conducts the design, development and operational support required to power all the U.S. Navy's aircraft carriers and nuclear submarines. The program consists of both civilian and military personnel who maintain, design, build, and manage the reactors. 
+The following are the elements of the program:
+Research and development to support currently operational laboratories
+Skilled contractors who design and build propulsion plant equipment
+Shipyards that service, repair and build nuclear powered ships
+Facilities to support the U.S. Navy
+Training facilities for Naval Reactors and Nuclear Power schools
+Various field offices and the Naval Nuclear Propulsion Program Headquarters
+
+Mission support offices
+NNSA has several offices that support its primary missions. Among them are:
+
+Emergency operations
+NNSA's Office of Emergency Operations has the obligation of responding to emergencies on behalf of the entire Department of Energy. Its high level of alertness allows the United States to respond to incidents in a rapid manner.
+
+Defense Nuclear Security
+NNSA's Office of Defense Nuclear Security is responsible for the overall security of facilities housing nuclear weapons as well as the components and materials required to develop them—this includes Federal Protective Forces at NNSA's labs, plants, and sites. The office also safeguards personnel and produces threat assessments.
+
+NNSA-owned facilities
+Kansas City National Security Campus
+Lawrence Livermore National Laboratory
+Los Alamos National Laboratory
+Nevada National Security Site
+Pantex Plant
+Sandia National Laboratories
+Y-12 National Security Complex
+
+Facilities not directly operated by the NNSA
+Pacific Northwest National Laboratory
+Savannah River Site
+
+References
+Further reading
+"U.S.-China mission rushes bomb-grade nuclear fuel out of Africa" by Richard Stone, Science, August 31, 2017
+"Exclusive: Inside U.S. Mission to Secure Weapons-Grade Nuclear Material: Chile is 18th Country to be Cleared of Highly Enriched Uranium" by Cynthia McFadden, Melia Patria and Teri Whitcraft, ABC News Nightline, April 8, 2010 "Video: Nightline Cameras Watch Teams Safeguard Nuclear Materials in Chile"
+
+External links
+Official website 
+National Nuclear Security Administration in the Federal Register

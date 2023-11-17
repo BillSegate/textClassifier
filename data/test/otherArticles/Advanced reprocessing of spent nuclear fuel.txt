@@ -1,0 +1,627 @@
+The advanced reprocessing of spent nuclear fuel is a potential key to achieve a sustainable nuclear fuel cycle and to tackle the heavy burden of nuclear waste management. In particular, the development of such advanced reprocessing systems may save natural resources, reduce waste inventory and enhance the public acceptance of nuclear energy. This strategy relies on the recycling of major actinides (Uranium and Plutonium, and also Thorium in the breeder fuel cycle) and the transmutation of minor actinides (Neptunium, Americium and Curium) in appropriate reactors. In order to fulfill this objective, selective extracting agents need to be designed and developed by investigating their complexation mechanism.
+
+Managing spent nuclear fuel
+The estimated inventory of spent nuclear fuel discharged from nuclear power reactors worldwide up to the end of 2013 is about 370,000 
+  
+    
+      
+        
+          t
+          
+            H
+            M
+          
+        
+      
+    
+    {\displaystyle t_{HM}}
+  . To date, about 250,000 
+  
+    
+      
+        
+          t
+          
+            H
+            M
+          
+        
+      
+    
+    {\displaystyle t_{HM}}
+   of this inventory is being stored. At the back-end step of the nuclear fuel cycle, two spent fuel management options could be potentially adopted:
+
+Open fuel cycle: the cycle starts with the mining of uranium, goes through the fuel fabrication and ends with the direct disposal of the spent fuel.
+Closed fuel cycle: the spent fuel stored for a long time can be safely handled and it undergoes reprocessing in order to recover and recycle a large amount of it.According to the first option, the spent nuclear fuel is considered complete waste. After an interim storage (wet and dry), all the used fuel is directly disposed of in a deep geological repository. Several geological media and repository designs are being studied according to different natures of fuel and their burnup, radioactive inventory and decay heat generation. The assessment of a geological disposal is based on the multi-barrier approach, which combines multiple effects of engineered and natural barriers in order to delay potential long-lived radionuclide migrations to the biosphere over time.Reprocessing is the alternative option for the spent fuel after a long interim storage. The used fuel is not considered waste anymore but a future energy resource. A large amount of fertile uranium (
+  
+    
+      
+        
+          
+            U
+            
+            
+            
+            
+            238
+          
+        
+      
+    
+    {\displaystyle {\ce {^{238}U}}}
+  ) is discharged along with a small quantity of fissile (
+  
+    
+      
+        
+          
+            U
+            
+            
+            
+            
+            235
+          
+        
+      
+    
+    {\displaystyle {\ce {^{235}U}}}
+  ) and a non-negligible portion of high level waste products and transuranic elements, which strongly contribute to the long-term radiotoxicity of the spent nuclear fuel. The recovery and recycling of uranium and plutonium were the first steps in developing a closed fuel cycle. Furthermore, a strong reduction of the volume, radiotoxicity and heat load of the spent nuclear fuel can be efficiently achieved.
+Despite the benefits of this first reprocessing approach, an amount of waste must be treated, stored and disposed of in a deep geological repository over a long period of time. Waste from reprocessing and spent nuclear fuel are classified as High Level Waste (HLW) according to the IAEA guidance due to the high emission of radioactivity and decay heat.The first reprocessing approach is based on the PUREX (Plutonium Uranium Reduction EXtraction) process, which is the standard and mature technology applied worldwide to recover uranium and plutonium from spent nuclear fuel at industrial scale. Following the dissolution of the spent fuel in nitric acid and the removal of uranium and plutonium, the generated secondary waste still contains fission and activation products along with transuranic elements that must be isolated from biosphere. Uranium and plutonium are recovered by the well-known tributylphosphate (TBP) ligand in a liquid-liquid extraction process.
+Reprocessing allows the recycling of the uranium and plutonium into fresh fuel (RepU and MOX) and a strong reduction of volume, decay heat and radiotoxicity of the HLW. A measure of the HLW hazard is provided by radiotoxicity coming from the different nature of radionuclides. The SNF radiotoxicity is usually evaluated as a function of time and compared to the natural uranium ore. The spent nuclear fuel without reprocessing has a long-term toxicity that is mainly dominated by transuranic elements. Mainly due to plutonium, SNF without reprocessing reaches the reference radiotoxicity level after about 300,000 years. After uranium and plutonium removal, HLW is less radioactive and it decays to the reference level within 10,000 years. Since minor actinides (MAs) also contribute to the long-term decay heat and radiotoxicity of the spent fuel, an advanced reprocessing could further reduce the radiotoxic inventory with a decay to the reference level of about 300 years.
+
+Partitioning & Transmutation strategy
+Many efforts are being devoted to develop an advanced reprocessing approach with the aim to further reduce the radiotoxicity inventory of the spent nuclear fuel by removing all minor actinides (Neptunium, Americium and Curium) and the long-lived fission products (LLFP) from the high active raffinate downstream of the PUREX process. Before the conditioning process, the long-lived radionuclides undergo a transmutation into short-lived or stable nuclides by nuclear reactions. This coupled approach is known as Partitioning and Transmutation strategy (P&T), which inclusion in an advanced closed fuel cycle could lead to strongly reduce long-term radiotoxicity, volume and decay heat of the final waste thus simplifying a performance assessment of a future nuclear waste repository and enhancing proliferation resistance criteria.Two potential process options for the partitioning of spent nuclear fuel are being developed: hydrometallurgical and pyrometallurgical processes. The hydrometallurgical partitioning, also known as solvent extraction process, was born and developed in Europe thereby becoming the reference technology for future SNF reprocessing at industrial level, whereas the pyrometallurgical option started in the United States and Russia as an alternative to the aqueous processes. Unlike plutonium, americium and curium show a very low affinity towards TBP ligand, thus needing further advanced separation processes and different extracting agents such as nitrogen-bearing ligands, also known as soft donors, which have been showing a very good affinity towards actinides. An efficient and selective separation of actinides from lanthanides (Ln) is crucial to meet the Closed Fuel Cycle goal. Lanthanide ions, present in a large mass ratio with respect to actinides in the PUREX raffinate, have a high neutron-capture cross section that would not lead to an efficient minor actinide transmutation. The presence of uranium isotopes and other impurities in the transmutation target could generate further radiotoxic transuranic isotopes by neutron capture, instead of more stable nuclides. Most of the radiotoxic nuclides could be transmuted by thermal neutrons in conventional reactors, but the process would take a lot of time due to the low transmutation efficiency. Recent research is focusing on innovative nuclear transmuters such as Gen IV fast reactors and hybrid reactors (Accelerator-driven Systems). The final product left by the P&T process will be a dense vitrified waste to be disposed of for a smaller period of time. All the benefits coming from the management of nuclear waste by this advanced approach will be a small step towards a sustainable energy source and an increased public acceptance of the nuclear energy.
+
+Overview of European experience in nuclear partitioning
+A lot of research funded by the European Commission is being devoted to hydrometallurgical processes for the partitioning and transmutation of trivalent actinides (An). These research programs have first led to multicycle processes, secondly to the development of simplified and innovative processes. The hydrometallurgical partitioning consists of two relevant steps: extraction and stripping. In the first step the organic phase, containing the extracting ligand dissolved in a suitable solvent, is contacted with the aqueous phase coming from the dissolution of the irradiated fuel. The solutes present in the aqueous phase are extracted by a complexation reaction with the extracting agent and transferred into the organic phase in which the formed complexes are soluble. The second step, known as stripping, is obtained by reversing the complexation reaction, where the solutes are back-extracted into another aqueous solution usually different in acidity compared to the previous one. The main goal is to develop reliable and affordable industrial separation processes by lipophilic and hydrophilic ligands to selectively extract minor actinides from the (3–4) M acidic target waste downstream of the PUREX process, but with the more challenging goal to minimize the amount of solid secondary waste. The CHON principle was born to meet this further process requirement, according to which all extractants and molecular reagents used in the developed processes have only to contain atoms of carbon (C), hydrogen (H), oxygen (O) and nitrogen (N), thus incinerable waste to easily release into the environment.
+ The industrial separation processes will be implemented stepwise by annular centrifugal contactors, developed for the first time at Argonne National Laboratory in the 1970s. The countercurrent process consists of the aqueous and organic phases moving continuously in opposite directions stage by stage. The two immiscible liquids enter each contactor unit, first contacted in the annular region between the housing and the spinning rotor and then centrifuged in the inner part of the unit. Two main ways are currently followed within the partitioning strategy: the heterogeneous and homogeneous recycling. All the first European research projects on hydrometallurgical partitioning started within the heterogeneous recycling, since none of the developed extracting agents were able to selectively extract actinides directly downstream of the PUREX process. This led research to develop first multi-stage and multi-cycle processes. A two-cycle process (DIAMide EXtraction + Selective ActiNide EXtraction) was developed for a selective actinide extraction downstream of a first co-extraction (DIAMEX) of actinides and lanthanides. The recent joint research projects point to develop innovative processes with a reduced number of cycles to directly extract minor actinides (americium and curium) from the PUREX raffinate in one cycle, either by a lipophilic extractant (1cycle-SANEX) or by a hydrophilic ligand (innovative-SANEX). Recent research efforts are being devoted to the homogeneous recycling by Grouped Actinides Extraction (GANEX), which consists in a previous uranium recovery (GANEX 1) and a successive group separation of plutonium, neptunium, americium and curium actinide ions (GANEX 2).
+
+Industrial requirements for an extracting agent
+The European experience in nuclear partitioning led to advanced hydrometallurgical separation processes. However, the feasibility of these advanced partitioning processes at industrial level relies on the use of reliable and affordable extracting agents, which have to meet these relevant industrial requirements:
+
+Affinity towards An(III) over Ln(III)
+Good An(III) back-extraction to enable solvent recycling
+Good solubility in a proper diluent
+CHON compliance to reduce secondary waste
+Fast complexation kinetics
+Hydrodynamic stability to prevent third phase and precipitates formation during extraction process
+Chemical and radiolytic stability to prevent solvent degradationResearch on advanced reprocessing of spent nuclear fuel moves on by developing process optimization studies and designing new potential lipophilic and hydrophilic extracting agents that fulfill these industrial requirements.
+
+Actinide partitioning: complexation mechanism
+The selective separation of actinides from the PUREX raffinate by advanced processes needs new extracting agents, which must possess a more pronounced affinity towards actinides over lanthanides and other products mostly present in the acidic fuel dissolution. The design and the synthesis of efficient extracting agents rely on a deep knowledge of the complexation mechanism involved in the extraction process. Moreover, the structure and the stability of the ligand complexes with An(III) and Ln(III) upon extraction process, and the ligand selectivity need to be investigated. Research is being devoted to design more N-donor extracting agents, which show promising selectivity towards actinides.
+
+Solvent extraction and complexation chemistry
+The liquid-liquid extraction for the selective actinide partitioning (SANEX-like processes) consists of an organic phase, containing an extracting agent dissolved in a suitable solvent mixture, and an aqueous phase, containing the irradiated fuel dissolution in hot nitric acid. The two phases are vigorously mixed to promote the extraction kinetics. The centrifugation process is performed to favour the phase separation and the transfer of the formed complexes from the depleted aqueous phase (raffinate) into the organic phase (extract) where they result more soluble. This solvent separation can be performed by neutral extracting agents dissolved in the solvent. As can be seen in the equation, the solvating ligand (L) extracts the interested metal cation (M) together with its anion (A). The products of this reaction represent all the potential complexes that can form during an extraction process such as 
+  
+    
+      
+        M
+        
+          A
+          
+            n
+          
+        
+        
+          L
+          
+            m
+          
+        
+      
+    
+    {\displaystyle MA_{n}L_{m}}
+   with 
+  
+    
+      
+        (
+        n
+        ,
+        m
+        =
+        1
+        −
+        3
+        )
+      
+    
+    {\displaystyle (n,m=1-3)}
+  .
+
+  
+    
+      
+        
+          
+            M
+          
+          
+            a
+            q
+          
+          
+            n
+            +
+          
+        
+        +
+        n
+        
+          
+            A
+          
+          
+            a
+            q
+          
+          
+            −
+          
+        
+        +
+        m
+        
+          
+            L
+          
+          
+            o
+            r
+            g
+          
+        
+        ⇌
+        
+          
+            [
+            M
+            
+              A
+              
+                n
+              
+            
+            
+              L
+              
+                m
+              
+            
+            ]
+          
+          
+            o
+            r
+            g
+          
+        
+      
+    
+    {\displaystyle {M}_{aq}^{n+}+n{A}_{aq}^{-}+m{L}_{org}\rightleftharpoons {[MA_{n}L_{m}]}_{org}}
+  
+The efficiency and the selectivity of the extraction and separation processes can be evaluated by the Distribution coefficients (
+  
+    
+      
+        
+          
+            D
+          
+          
+            M
+          
+        
+      
+    
+    {\displaystyle {D}_{M}}
+  ) and the Separation Factors (
+  
+    
+      
+        S
+        F
+      
+    
+    {\displaystyle SF}
+  ), as shown by the equations. The distribution coefficient is calculated as the ratio between the concentration of the metal cations in the organic and aqueous phase, whereas the separation factor is calculated as the ratio between the two distribution coefficients.
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    D
+                  
+                  
+                    M
+                  
+                
+                =
+                
+                  
+                    
+                      [
+                      M
+                      
+                        ]
+                        
+                          o
+                          r
+                          g
+                        
+                        
+                          3
+                          +
+                        
+                      
+                    
+                    
+                      [
+                      M
+                      
+                        ]
+                        
+                          a
+                          q
+                        
+                        
+                          3
+                          +
+                        
+                      
+                    
+                  
+                
+                
+                
+                  
+                    S
+                    F
+                  
+                  
+                    
+                      M
+                      
+                        1
+                      
+                    
+                    
+                      /
+                    
+                    
+                      M
+                      
+                        2
+                      
+                    
+                  
+                
+                =
+                
+                  
+                    
+                      D
+                      
+                        
+                          M
+                          
+                            1
+                          
+                        
+                      
+                    
+                    
+                      D
+                      
+                        
+                          M
+                          
+                            2
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{D}_{M}={\frac {[M]_{org}^{3+}}{[M]_{aq}^{3+}}}\qquad {SF}_{M_{1}/M_{2}}={\frac {D_{M_{1}}}{D_{M_{2}}}}\end{aligned}}}
+  
+To perform a selective separation, the distribution ratio of the solute to be extracted must be greater than one, whereas that belonging to the solutes which remain in the aqueous feed must be lower than one. This always yields a separation factor SF > 1. Generally, the effects of acidity and temperature on distribution ratios and the separation factor are investigated because the main species with actinides and lanthanides could be prone to decomplexation upon increasing acidity due to protonation of the ligand or due to increasing temperature. The thermodynamic effects are usually investigated by performing extraction tests at increasing temperature. Furthermore, thermodynamics studies can assess the several alkyl chains of a ligand on its complexation properties towards minor actinides than lanthanides. The extraction processes are based on the complexation of metal ions with lipophilic or hydrophilic ligands. The extracting agent forms a coordination complex with the metal ion as a product of a Lewis acid-base reaction. Ligands are named bases (donors) and contain at least one electron lone pair to donate to metal ions named acids (acceptors). Metal cations in the aqueous feed raffinate are generally solvated by coordinating water molecules through the donor oxygen atoms to form aquo ions 
+  
+    
+      
+        
+          
+            
+              [
+              M
+              
+                
+                  (
+                  
+                    H
+                    
+                      2
+                    
+                    
+                      
+                    
+                  
+                  O
+                  )
+                
+                
+                  n
+                
+                
+                  
+                
+              
+              ]
+            
+            
+              3
+              
+              +
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {[M(H2O)_{n}]^{3+}}}}
+   
+  
+    
+      
+        (
+        n
+        =
+        4
+        −
+        9
+        )
+      
+    
+    {\displaystyle (n=4-9)}
+  . The complexation of a metal ion implies therefore the replacement of the coordinated water molecules with the respective ligands. The speed of this substitution plays a crucial role in the complexation kinetics and the following extraction processes. The replacement can be slow for an inert complex or rapid for a labile complex. The ligand could replace all the coordinated water molecules to form an inner sphere complex or just some of them for an outer-sphere complex. The complexation reaction is theoretically based on the Pearson’s theory of hard and soft acids and bases, according to which hard acids form strong complexes with hard bases and likewise soft acids form strong complexes with soft bases. In aqueous solutions, hard-hard interactions are electrostatic, while soft-soft interactions usually show a covalent character.
+The formation of strong complexes always implies either a large gain of entropy or a large decrease of enthalpy thereby obtaining a large negative value of the complexation free energy. According to Pearson’s theory, lanthanide and actinide ions are considered hard acids, thus they bind especially with ligands bearing hard donors such as oxygen atoms by electrostatic interactions. The charge of actinide and lanthanide ions in solution is substantially +3 and the difference in size of these cations is very small. Thus, an efficient separation of minor actinides from lanthanides is very challenging. Actinides seem to be a little less hard than lanthanides, probably due to a longer spatial extent of 5f atomic orbitals with respect to 4f ones, then a selective separation is possible thanks to ligands bearing soft donors such as nitrogen and sulfur atoms, by a different bonding nature compared to hard donors. Despite the potential separation of actinides, a direct extraction from the PUREX raffinate is very hard, due to the presence of many other interfering species in the feed such as activation and fission products. In this perspective, advanced separation processes involving very selective extracting agents are required to achieve an efficient partitioning for the following transmutation process. To sum up, knowledge of hydration, acid-base interactions, kinetics and thermodynamic stabilities and speciation of actinide and lanthanide ions with ligands is of great value to understand a solvent extraction process and to design new and promising extracting agents.
+
+Insight into complexation by spectroscopic techniques
+The main objective is to elucidate the complexation and extraction mechanisms of a ligand in order to develop a reliable and affordable extraction process at industrial scale. In this perspective, the formation and the stability of different metal-ligand complexes are first investigated by different spectroscopic techniques on a laboratory scale. Preliminary studies can be performed by Electrospray ionization mass spectrometry (ESI-MS) to qualitatively explore the ligand complexes with lanthanides or actinides. Moreover, quantitative information about speciation and complexation of the ligand with some metal ions representatives of actinides and lanthanides can be obtained by Time-resolved fluorescence spectroscopy (TRLFS) experiments.
+
+Electrospray ionization mass spectrometry
+Electrospray ionization mass spectrometry is a very versatile technique, consisting in a transfer of the formed complexes from the injected solution to the gas phase by a soft ionization process without strongly perturbing the complex stability. In addition, a small amount of the prepared solution needs to be injected to obtain the speciation spectra. Speciation of several metal ions can be investigated in monophasic solutions at increasing ligand concentration in order to explore all potential complexes. Collision Induced Dissociation (CID) analysis can be also performed to assess the kinetic stability of the formed complexes by discovering the main fragmentation pathway of the ligand. Besides, the protonation effect on the complexation mechanism can be observed by performing analysis on monophasic solutions at increasing nitric acid concentration. Corroboration of the major complexes involved into the extraction process is generally found by performing experiments on biphasic solutions upon extraction tests. Despite versatility of this spectroscopic technique that directly provides information by changing the ligand to metal ratios, its qualitative nature due to instrumental set-up and potential changes in solution chemistry could partially affect species distribution and its ion abundance. For these reasons, corroboration for the speciation results needs to be found by other spectroscopic techniques.
+
+Time Resolved Laser Fluorescence spectroscopy
+Time-resolved laser fluorescence spectroscopy is a sensitive spectroscopic method able to investigate the formation of different complex species in sub-micro molar concentrations. Thanks to the great spectroscopic properties of some metal cations representatives of actinides and lanthanides, fluorescence analyses by laser excitation of ion energy levels can be carried out on monophasic and biphasic solutions. The fluorescence evolution resulting from the ion energy transitions is generally followed as a function of ligand concentration in monophasic titration experiments. The bathochromic shift of the fluorescence spectra are due to the ligand complexation. According to the postulated complexation model and the Slope Analysis on the experimental data, the stoichiometry of the major complexes can be determined. Moreover, the cumulative stability constants 
+  
+    
+      
+        
+          
+            β
+          
+          
+            n
+          
+        
+        (
+        n
+        =
+        1
+        −
+        3
+        )
+      
+    
+    {\displaystyle {\beta }_{n}(n=1-3)}
+   and the Separation Factor 
+  
+    
+      
+        
+          
+            S
+            F
+          
+          
+            
+              M
+              
+                1
+              
+            
+            
+              /
+            
+            
+              M
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {SF}_{M_{1}/M_{2}}}
+   can be calculated, thus pointing out the potential ligand affinity towards actinides.
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    β
+                  
+                  
+                    n
+                  
+                
+                =
+                
+                  
+                    
+                      [
+                      M
+                      (
+                      L
+                      
+                        )
+                        
+                          n
+                        
+                      
+                      
+                        ]
+                        
+                          3
+                          +
+                        
+                      
+                    
+                    
+                      [
+                      
+                        M
+                        
+                          s
+                          o
+                          l
+                          v
+                          .
+                        
+                      
+                      
+                        ]
+                        
+                          3
+                          +
+                        
+                      
+                      [
+                      L
+                      
+                        ]
+                        
+                          f
+                          r
+                          e
+                          e
+                        
+                        
+                          n
+                        
+                      
+                    
+                  
+                
+                
+                
+                  
+                    S
+                    F
+                  
+                  
+                    
+                      M
+                      
+                        1
+                      
+                    
+                    
+                      /
+                    
+                    
+                      M
+                      
+                        2
+                      
+                    
+                  
+                
+                =
+                
+                  10
+                  
+                    
+                      
+                        [
+                        l
+                        o
+                        g
+                        (
+                        
+                          β
+                          
+                            n
+                          
+                        
+                        )
+                        
+                          ]
+                          
+                            
+                              M
+                              
+                                1
+                              
+                            
+                          
+                        
+                      
+                      
+                        [
+                        l
+                        o
+                        g
+                        (
+                        
+                          β
+                          
+                            n
+                          
+                        
+                        )
+                        
+                          ]
+                          
+                            
+                              M
+                              
+                                2
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\beta }_{n}={\frac {[M(L)_{n}]^{3+}}{[M_{solv.}]^{3+}[L]_{free}^{n}}}\qquad {SF}_{M_{1}/M_{2}}=10^{\frac {[log(\beta _{n})]_{M_{1}}}{[log(\beta _{n})]_{M_{2}}}}\end{aligned}}}
+   
+The fluorescence lifetime measurement is an additional way to follow the evolution of the metal-ion complexation with the ligand, starting from the initial solvent species up to the more stable complexes. Each species can be identified by a typical lifetime related to the decay of the emission intensity. The fluorescence lifetime measurements on the monophasic and biphasic solutions can confirm the formation of the major complexes, thanks to the correlation between the fluorescence lifetime and the number of water molecules potentially present in the inner coordination sphere of the metal ions. Fluorescence spectra can be also obtained at increasing temperature to study complexation thermodynamics and investigate complex stability at experimental conditions closer to industrial applications.
+
+References
+External links
+Partitioning and Transmutation for waste management
+The sustainability of used nuclear fuel management

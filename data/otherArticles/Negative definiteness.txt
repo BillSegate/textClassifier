@@ -1,6 +1,0 @@
-In mathematics, negative definiteness is a property of any object to which a bilinear form may be naturally associated, which is negative-definite. See, in particular:
-
-Negative-definite bilinear form
-Negative-definite quadratic form
-Negative-definite matrix
-Negative-definite function

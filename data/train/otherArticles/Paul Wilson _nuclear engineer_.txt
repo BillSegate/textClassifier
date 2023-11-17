@@ -1,0 +1,32 @@
+Paul Philip Hood Wilson (born October 13, 1971) is the Grainger Professor of Nuclear Engineering in Nuclear Engineering and Engineering Physics at the University of Wisconsin–Madison. He is a prominent nuclear energy communicator, and advocate of modern computational science practices. He is well known for leading the production of the computational nuclear engineering toolkits ALARA, Cyclus, and DAGMC. He is also the founding president of the North American Young Generation in Nuclear and is the Faculty Director of the Advanced Computing Initiative (ACI) at the University of Wisconsin–Madison.
+
+Education
+Wilson was born in Edinburgh, Scotland, and was raised in Fort Saskatchewan, Alberta, Canada. He obtained a Bachelor of Applied Science in engineering science in the Nuclear Power option of the Engineering Science program at the University of Toronto. He then obtained a Doktoringenieur degree in mechanical engineering from the Institute for Neutron Physics and Reactor Engineering of the Karlsruhe Institute of Technology. He subsequently earned a Ph.D. in nuclear engineering from the University of Wisconsin–Madison in 1999. There, Wilson became an assistant professor in August 2001, associate professor in July 2008, and full professor in January 2013.
+At the University of Wisconsin–Madison, Wilson serves on the Executive Committee of the Wisconsin Energy Institute, the Steering Committee of the Holtz Center for Science and Technology Studies, and as Faculty Director of the Advanced Computing Initiative. He also served as Chair of the Energy Analysis & Policy Program (2008–2013).
+
+Honors
+1996 Presidential Citation from the American Nuclear Society
+1996–1998 Marie Curie Research Fellow
+2013 elected chair of the Fuel Cycle and Waste Management Division of the American Nuclear Society.
+2014 Vilas Mid-Career Investigator Award
+2018 Arthur Holly Compton Award In Education (ETWDD) from the American Nuclear Society
+2019 Young Members Advancement Award from the American Nuclear Society
+
+Work
+Wilson has contributed an array of computational advances to nuclear engineering:
+
+Lead developer of the Analytic and Laplacian Adaptive Radioactive Analysis (ALARA) neutron activation package
+Principal investigator of Cyclus, the next generation fuel cycle simulator
+Lead developer of the Direct Accelerated Geometry Monte Carlo Toolkit (DAGMC) CAD-based radiation transport toolkit
+Contributor to PyNE, The Nuclear Engineering Toolkit
+Research contributed to new methods in widely used radiation transport software such as the Monte Carlo N-Particle Transport Code.
+
+References
+External links
+Wilson's website at the University of Wisconsin
+List of publications at Google Scholar
+Wilson's Computational Nuclear Engineering Research Group
+ALARA
+Cyclus
+DAGMC
+PyNE

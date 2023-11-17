@@ -1,0 +1,18 @@
+A swimming pool reactor, also called an open pool reactor, is a type of nuclear reactor that has a core (consisting of the fuel elements and the control rods) immersed in an open pool usually of water.The water acts as neutron moderator, cooling agent and radiation shield. The layer of water directly above the reactor core shields the radiation so completely that operators may work above the reactor safely. This design has two major advantages: the reactor is easily accessible and the whole primary cooling system, i.e. the pool water, is under normal pressure. This avoids the high temperatures and great pressures of nuclear power plants. Pool reactors are used as a source of neutrons and for training, and in rare instances for processing heat but not for electrical generation.
+
+Description
+Open pools range in height from 6m to 9m (20' to 30') and diameter from 1.8m to 3.6m (6' to 12'). Some pools, like the one at the Canadian MAPLE reactor, are rectangular instead of cylindrical and often contain as much as 416,000 litres (110,000 gallons) of water. Most pools are built above floor level but some are completely or partially below ground. Ordinary (light) water- and heavy water-only types exist as well as so-called "tank in pool" designs that use heavy water moderation in a small tank situated in a larger light water pool for cooling.  Life preservers are sometimes located around the facility to rescue personnel that may fall into the pool, further adding to the appearance of a swimming pool-like environment.
+Normally the reactor is charged with low enriched uranium (LEU) fuel consisting of less than 20% U-235 alloyed with a matrix such as aluminium or zirconium. Highly enriched uranium (HEU) was the fuel of choice since it had a longer lifetime, but these have been largely phased out of non-military reactors to avoid proliferation issues. However most often 19.75% enrichment is used, falling just under the 20% level that would make it highly enriched. Fuel elements may be plates or rods with 8.5% to 45% uranium. Beryllium and graphite blocks or plates may be added to the core as neutron reflectors and neutron absorbing rods pierce the core for control. General Atomics of La Jolla, CA manufactures TRIGA reactor fuel elements in France for the majority of these types of reactors around the world. Core cooling is accomplished either by convection induced by the hot core or in larger reactors by forced coolant flow and heat exchangers.
+Various stations for holding items to be irradiated are located inside the core or directly adjacent to the core. Samples may be lowered into the core from above or delivered pneumatically via horizontal tubes from outside the tank at core level. Evacuated, or helium filled horizontal tubes may also be installed to direct a beam of neutrons to targets situated at a distance from the reactor hall.
+
+Applications
+Most research reactors are of the pool type. These tend to be low power, low maintenance designs. For example AECL's SLOWPOKE is licensed to run unattended for up to 18 hours. Boron neutron capture therapy is another, medical use.
+
+See also
+Pressurized water reactor
+CANDU reactor
+NRX
+TRIGA
+
+
+== References ==

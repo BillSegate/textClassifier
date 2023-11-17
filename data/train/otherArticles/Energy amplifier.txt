@@ -1,0 +1,48 @@
+In nuclear physics, an energy amplifier is a novel type of nuclear power reactor, a subcritical reactor, in which an energetic particle beam is used to stimulate a reaction, which in turn releases enough energy to power the particle accelerator and leave an energy profit for power generation. The concept has more recently been referred to as an accelerator-driven system (ADS) or accelerator-driven sub-critical reactor.
+None have ever been built.
+
+History
+The concept is credited  to Italian scientist Carlo Rubbia, a Nobel Prize particle physicist and former director of Europe's CERN international nuclear physics lab. He published a proposal for a power reactor (nicknamed "Rubbiatron") based on a proton cyclotron accelerator with a beam energy of 800 MeV to 1 GeV, and a target with thorium as fuel and lead as a coolant. Rubbia's scheme also borrows from ideas developed by a group led by nuclear physicist Charles Bowman of the Los Alamos National Laboratory
+
+Principle and feasibility
+The energy amplifier first uses a particle accelerator (e.g. linac, synchrotron, cyclotron or  FFAG) to produce a beam of high-energy (relativistic) protons. The beam is directed to smash into the nucleus of a heavy metal target, such as lead, thorium or uranium.  Inelastic collisions between the proton beam and the target results in spallation, which produces twenty to thirty neutrons per event. It might be possible to increase the neutron flux through the use of a neutron amplifier, a thin film of fissile material surrounding the spallation source; the use of neutron amplification in CANDU reactors has been proposed. While CANDU is a critical design, many of the concepts can be applied to a sub-critical system. Thorium nuclei absorb neutrons, thus breeding fissile uranium-233, an isotope of uranium which is not found in nature. Moderated neutrons produce U-233 fission, releasing energy.
+This design is entirely plausible with currently available technology, but requires more study before it can be declared both practical and economical.
+OMEGA project (option making of extra gain from actinides and fission products (オメガ計画)) is being studied as one of methodology of accelerator-driven system (ADS) in Japan.Richard Garwin and Georges Charpak describe the energy amplifier in detail in their book "Megawatts and Megatons: A Turning Point in the Nuclear Age?" (2001) on pages 153-163.
+Earlier, the general concept of the energy amplifier, namely an accelerator-driven sub-critical reactor, was covered in "The Second Nuclear Era" (1985) pages 62–64, by Alvin M. Weinberg and others.
+
+Advantages
+The concept has several potential advantages over conventional nuclear fission reactors:
+
+Subcritical design means that the reaction could not run away — if anything went wrong, the reaction would stop and the reactor would cool down. A meltdown could however occur if the ability to cool the core was lost.
+Thorium is an abundant element — much more so than uranium — reducing strategic and political supply issues and eliminating costly and energy-intensive isotope separation. There is enough thorium to generate energy for at least several thousand years at current consumption rates.
+The energy amplifier would produce very little plutonium, so the design is believed to be more proliferation-resistant than conventional nuclear power (although the question of uranium-233 as nuclear weapon material must be assessed carefully).
+The possibility exists of using the reactor to consume plutonium, reducing the world stockpile of the very-long-lived element.
+Less long-lived radioactive waste is produced — the waste material would decay after 500 years to the radioactive level of coal ash.
+No new science is required; the technologies to build the energy amplifier have all been demonstrated. Building an energy amplifier requires only engineering effort, not fundamental research (unlike nuclear fusion proposals).
+Power generation might be economical compared to current nuclear reactor designs if the total fuel cycle and decommissioning costs are considered.
+The design could work on a relatively small scale, and has the potential to load-follow by modulating the proton beam, making it more suitable for countries without a well-developed power grid system.
+Inherent safety and safe fuel transport could make the technology more suitable for developing countries as well as in densely populated areas.
+Desired nuclear transmutation could be employed deliberately (rather than as an unavoidable consequence of nuclear fission and neutron irradiation) either to transmute high level waste (such as long-lived fission products or minor actinides) into less harmful substances, for producing radionuclides for use in nuclear medicine or to produce precious metals from low-priced feedstocks.
+The lower fraction of delayed neutrons in the fission of 239Pu compared to 235U, which hampers the use of plutonium-containing fuels in critical reactors (which need to operate in the narrow band of neutron flux between prompt critical and delayed critical), is of no concern as no criticality of any kind is achieved or needed
+While nuclear reprocessing runs into the problem that MOX-fuel can not be further recycled for use in current Light Water Reactors as the reactor grade plutonium concentration of fissile isotopes is not achieved due to 240Pu impurities exceeding acceptable levels, all fissile and fertile isotopes of Actinoids can be "burned" in a subcritical reactor, thus closing the nuclear fuel cycle without the need for fast breeder reactors
+
+Disadvantages
+Each reactor needs its own facility (particle accelerator) to generate the high energy proton beam, which is very costly. Apart from linear particle accelerators, which are very expensive, no proton accelerator of sufficient power and energy (> ~12 MW at 1 GeV) has ever been built.  Currently, the Spallation Neutron Source utilizes a 1.44 MW proton beam to produce its neutrons, with upgrades envisioned to 5 MW.  Its 1.1 billion USD cost included research equipment not needed for a commercial reactor. Economies of scale might come into play if particle accelerators (which are currently only rarely built to the above mentioned strengths and then only for research purposes) become a more "mundane" technology. A similar effect can be observed when comparing the cost of the Manhattan Project up to the construction of Chicago Pile-1 to the costs of subsequent research or power reactors.
+The fuel material needs to be chosen carefully to avoid unwanted nuclear reactions. This implies a full-scale nuclear reprocessing plant associated with the energy amplifier.
+If, for whatever reason, neutron flux exceeds design specifications enough for the assembly to reach criticality, a criticality accident or power excursion can occur. Unlike a "normal" reactor, the scram mechanism only calls for the "switching off" of the neutron source, which wouldn't help if more neutrons are constantly produced than consumed (i.e. Criticality), as there is no provision to rapidly increase neutron consumption e.g. via the introduction of a neutron poison.
+Using lead as a coolant has similar disadvantages to those described in the article on lead cooled fast reactors
+Many of the current spallation-based neutron sources used for research are "pulsed" i.e. they deliver very high neutron fluxes for very short durations of time. For a power reactor a smaller but more constant neutron flux is desired. The European Spallation Source will be the strongest neutron source in the world (measured by peak neutron flux) but will only be capable of very short (on the order of milliseconds) pulses.
+
+See also
+Accelerator-driven sub-critical reactor
+Alternative energy
+Thorium fuel cycle
+Breeder reactor, another type of nuclear reactor that aims for an energy profit by creating more fissile material than it consumes.
+Thorium-based nuclear power
+Muon capture
+Nuclear transmutation
+
+References
+External links
+
+New Age Nuclear: article on energy amplifiers | Cosmos Magazine

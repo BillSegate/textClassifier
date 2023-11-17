@@ -1,9 +1,0 @@
-Cabri Geometry is a commercial interactive geometry software produced by the French company Cabrilog for teaching and learning geometry and trigonometry. It was designed with ease-of-use in mind.  The program allows the user to animate geometric figures, proving a significant advantage over those drawn on a blackboard. Relationships between points on a geometric object may easily be demonstrated, which can be useful in the learning process.  There are also graphing and display functions which allow exploration of the connections between geometry and algebra. The program can be run under Windows or the Mac OS.
-
-See also
-Interactive geometry software – alternatives to Cabri Geometry
-
-References
-External links
-Cabri Geometry
-Cabri belongs to the Inter2Geo European project aiming at interoperability between interactive geometry software.

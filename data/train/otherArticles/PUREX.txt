@@ -1,0 +1,53 @@
+PUREX (plutonium uranium reduction extraction) is a chemical method used to purify fuel for nuclear reactors or nuclear weapons.  PUREX is the de facto standard aqueous nuclear reprocessing method for the recovery of uranium and plutonium from used nuclear fuel (spent nuclear fuel, or irradiated nuclear fuel). It is based on liquid–liquid extraction ion-exchange.PUREX is applied to spent nuclear fuel, which consists primarily of very high atomic-weight (actinoid or "actinide") elements (e.g. uranium, plutonium, americium) along with smaller amounts of material composed of lighter atoms, notably the fission products produced by reactor operation.
+
+The actinoid elements in this case consist primarily of the unconsumed remains of the original fuel (typically U-235, U-238, and/or Pu-239).
+
+Chemical process
+The fuel is first dissolved in nitric acid at a concentration around 7 M. Solids are removed by filtration to avoid the formation of emulsions, referred to as third phases in the solvent extraction community.
+The organic solvent consists of 30% tributyl phosphate (TBP) in a hydrocarbon such as kerosene. Uranyl(VI) UO2+2 ions are extracted in the organic phase as UO2(NO3)2·2TBP complexes; plutonium is extracted as similar complexes. The heavier actinides, primarily americium and curium, and the fission products remain in the aqueous phase. The nature of uranyl nitrate complexes with trialkyl phosphates has been characterized.Plutonium is separated from uranium by treating the TBP-kerosene solution with reducing agents to convert the plutonium to its +3 oxidation state, which will pass into the aqueous phase. Typical reducing agents include N,N-diethyl-hydroxylamine, ferrous sulphamate, and hydrazine. Uranium is then stripped from the kerosene solution by back-extraction into nitric acid at a concentration around 0.2 M.
+
+PUREX raffinate
+The term PUREX raffinate describes the mixture of metals in nitric acid which are left behind when the uranium and plutonium have been removed by the PUREX process from a nuclear fuel dissolution liquor. This mixture is often known as high level nuclear waste.
+Two PUREX raffinates exist.  The most highly active raffinate from the first cycle is the one which is most commonly known as PUREX raffinate. The other is from the medium-active cycle in which the uranium and plutonium are refined by a second extraction with tributyl phosphate.
+
+Deep blue is the bulk ions, light blue is the fission products (group I is Rb/Cs) (group II is Sr/Ba) (group III is Y and the lanthanides), orange is the corrosion products (from stainless steel pipework), green are the major actinides, violet are the minor actinides and magenta is the neutron poison)
+Currently PUREX raffinate is stored in stainless steel tanks before being converted into glass. The first cycle PUREX raffinate is very radioactive.  It has almost all of the fission products, corrosion products such as iron/nickel, traces of uranium, plutonium and the minor actinides.
+
+Pollution
+The PUREX plant at the Hanford Site was responsible for producing 'copious volumes of liquid wastes', resulting in the radioactive contamination of groundwater.Greenpeace measurements in La Hague and Sellafield indicated that radioactive pollutants are steadily released into the sea, and the air. Therefore, people living near these processing plants are exposed to higher radiation levels than the naturally occurring background radiation. According to Greenpeace, this additional radiation is small but not negligible.
+
+History
+The PUREX process was invented by Herbert H. Anderson and Larned B. Asprey at the Metallurgical Laboratory at the University of Chicago, as part of the Manhattan Project under Glenn T. Seaborg; their patent "Solvent Extraction Process for Plutonium" filed in 1947, mentions tributyl phosphate as the major reactant which accomplishes the bulk of the chemical extraction.
+
+List of nuclear reprocessing sites
+COGEMA La Hague site
+Mayak
+Thermal Oxide Reprocessing Plant and B205 at Sellafield
+Tokai, Ibaraki
+West Valley Reprocessing Plant
+Savannah River Site
+Hanford Site
+Idaho Chemical Processing Plant, (now Idaho National Laboratory)
+Radiochemical Engineering Development Center, Oak Ridge National Laboratory
+
+See also
+Nuclear fuel cycle
+Nuclear breeder reactor
+Spent nuclear fuel shipping cask
+Global Nuclear Energy Partnership announced February, 2006
+
+References & notes
+Further reading
+OECD Nuclear Energy Agency, The Economics of the Nuclear Fuel Cycle, Paris, 1994
+I. Hensing and W Schultz, Economic Comparison of Nuclear Fuel Cycle Options, Energiewirtschaftlichen Instituts, Cologne, 1995.
+Cogema, Reprocessing-Recycling: the Industrial Stakes, presentation to the Konrad-Adenauer-Stiftung, Bonn, 9 May 1995.
+OECD Nuclear Energy Agency, Plutonium Fuel: An Assessment, Paris, 1989.
+National Research Council, "Nuclear Wastes: Technologies for Separation and Transmutation", National Academy Press, Washington D.C. 1996.
+
+External links
+Processing of Used Nuclear Fuel Archived 2007-02-04 at the Wayback Machine, World Nuclear Association
+Reactor-Grade Plutonium and Development of Nuclear Weapons, Analytical Center for Non-proliferation
+PUREX Process, European Nuclear Society
+Mixed Oxide Fuel (MOX) Archived 2013-03-01 at the Wayback Machine – World Nuclear Association
+Disposal Options for Surplus Weapons-Usable Plutonium – Congressional Research Service Report for Congress
+Brief History of Fuel Reprocessing

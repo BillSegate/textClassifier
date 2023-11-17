@@ -1,0 +1,7073 @@
+Transient kinetic isotope effects (or fractionation) occur when the reaction leading to isotope fractionation does not follow pure first-order kinetics and therefore isotopic effects cannot be described with the classical equilibrium fractionation equations or with steady-state kinetic fractionation equations (also known as the Rayleigh equation). In these instances, the general equations for biochemical isotope kinetics (GEBIK) and the general equations for biochemical isotope fractionation (GEBIF) can be used.
+The GEBIK and GEBIF equations are the most generalized approach to describe isotopic effects in any chemical, catalytic reaction and biochemical reactions because they can describe isotopic effects in equilibrium reactions, kinetic chemical reactions and kinetic biochemical reactions. In the latter two cases, they can describe both stationary and non-stationary fractionation (i.e., variable and inverse fractionation). In general, isotopic effects depend on the number of reactants and on the number of combinations resulting from the number of substitutions in all reactants and products. Describing with accuracy isotopic effects, however, depends also on the specific rate law used to describe the chemical or biochemical reaction that produces isotopic effects. Normally, regardless of whether a reaction is purely chemical or whether it involves some enzyme of biological nature, the equations used to describe isotopic effects base on first-order kinetics. This approach systematically leads to isotopic effects that can be described by means of the Rayleigh equation. In this case, isotopic effects will always be expressed as a constant, hence will not be able to describe isotopic effects in reactions where fractionation and enrichment are variable or inverse during the course of a reaction. Most chemical reactions do not follow first-order kinetics; neither biochemical reactions can normally be described with first-order kinetics. To properly describe isotopic effects in chemical or biochemical reactions, different approaches must be employed such as the use of Michaelis–Menten reaction order (for chemical reactions) or coupled Michaelis–Menten and Monod reaction orders (for biochemical reactions). However, conversely to Michaelis–Menten kinetics, GEBIK and GEBIF equations are solved under the hypothesis of non-steady state. This characteristic allows GEBIK and GEBIF to capture transient isotopic effects.
+
+Mathematical description of transient kinetic isotope effects
+The GEBIK and GEBIF equations are introduced here below.
+
+Notation
+The GEBIK and GEBIF equations describe the dynamics of the following state variables
+
+S
+substrate concentration
+P
+product concentration
+E
+enzyme concentration
+C
+complex concentration
+B
+biomass concentrationBoth S and P contain at least one isotopic expression of a tracer atom. For instance, if the carbon element is used as a tracer, both S and P contain at least one C atom, which may appear as 
+  
+    
+      
+        
+          
+            C
+            
+            
+            
+            
+            12
+          
+        
+      
+    
+    {\displaystyle {\ce {^{12}C}}}
+   and 
+  
+    
+      
+        
+          
+            C
+            
+            
+            
+            
+            13
+          
+        
+      
+    
+    {\displaystyle {\ce {^{13}C}}}
+  . The isotopic expression within a molecule is
+
+  
+    
+      
+        
+          
+          
+            a
+          
+          
+            b
+          
+        
+        
+          S
+        
+      
+    
+    {\displaystyle _{a}^{b}{\ce {S}}}
+  where 
+  
+    
+      
+        
+          
+          
+            a
+          
+        
+      
+    
+    {\displaystyle _{a}}
+   is the number of tracer atoms within S, while 
+  
+    
+      
+        
+          
+          
+            b
+          
+        
+      
+    
+    {\displaystyle ^{b}}
+   is the number of isotopic substitutions in the same molecule. The condition 
+  
+    
+      
+        0
+        ≤
+        b
+        ≤
+        a
+      
+    
+    {\displaystyle 0\leq b\leq a}
+   must be satisfied. For example, the 
+  
+    
+      
+        
+          
+            N
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {N2}}}
+   product in which 1 isotopic substitution occurs (e.g., 
+  
+    
+      
+        
+          
+            N
+            
+            14
+            
+            
+            15
+          
+          N
+        
+      
+    
+    {\displaystyle {\ce {^{15}N^{14}N}}}
+  ) will be described by 
+  
+    
+      
+        
+          
+            P
+            
+            
+            
+            2
+            1
+          
+        
+      
+    
+    {\displaystyle {\ce {^1_2P}}}
+  .
+Substrates and products appear in a chemical reaction with specific stoichiometric coefficients. When chemical reactions comprise combinations of reactants and products with various isotopic expressions, the stoichiometric coefficients are functions of the isotope substitution number. If 
+  
+    
+      
+        
+          x
+          
+            b
+          
+        
+      
+    
+    {\displaystyle x_{b}}
+   and 
+  
+    
+      
+        
+          y
+          
+            d
+          
+        
+      
+    
+    {\displaystyle y_{d}}
+   are the stoichiometric coefficient for 
+  
+    
+      
+        
+          
+          
+            a
+          
+          
+            b
+          
+        
+        
+          S
+        
+      
+    
+    {\displaystyle _{a}^{b}{\ce {S}}}
+   substrate and 
+  
+    
+      
+        
+          
+          
+            c
+          
+          
+            d
+          
+        
+        
+          P
+        
+      
+    
+    {\displaystyle _{c}^{d}{\ce {P}}}
+   product, a reaction takes the form
+
+  
+    
+      
+        
+          ∑
+          
+            b
+            =
+            0
+          
+          
+            a
+          
+        
+        
+          x
+          
+            b
+          
+        
+        
+          
+
+          
+          
+            a
+          
+          
+            b
+          
+        
+        
+          S
+          ⟶
+        
+        
+          ∑
+          
+            d
+            =
+            0
+          
+          
+            c
+          
+        
+        
+          y
+          
+            d
+          
+        
+        
+          
+
+          
+          
+            c
+          
+          
+            d
+          
+        
+        
+          P
+        
+        .
+      
+    
+    {\displaystyle \sum _{b=0}^{a}x_{b}{}_{a}^{b}{\ce {S ->}}\sum _{d=0}^{c}y_{d}{}_{c}^{d}{\ce {P}}.}
+  For example, in the reaction 
+  
+    
+      
+        
+          
+            
+              NO
+              3
+              −
+              
+              
+              14
+            
+          
+          
+            +
+            
+              15
+            
+          
+          
+            NO
+            
+              3
+            
+            
+              −
+            
+          
+          ⟶
+          
+            
+              
+                N
+                
+                
+                
+                
+                14
+              
+            
+          
+          
+            
+              
+                NO
+                
+                
+                
+                
+                15
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {{^{14}NO3^{-}}+^{15}NO3^{-}->{^{14}{N}}{^{15}{NO}}}}}
+  , the notation is 
+  
+    
+      
+        
+          
+            
+              S
+              
+              
+              
+              1
+              0
+            
+          
+          +
+          
+            
+              S
+              
+              
+              
+              1
+              1
+            
+          
+          ⟶
+          
+            
+              P
+              
+              
+              
+              2
+              1
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {{^{0}_{1}S}+{^{1}_{1}S}->{^{1}_{2}P}}}}
+   with 
+  
+    
+      
+        
+          x
+          
+            0
+          
+        
+        =
+        
+          x
+          
+            1
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle x_{0}=x_{1}=1}
+   for both isotopologue reactants of the same substrate with substitution number 
+  
+    
+      
+        b
+        =
+        0
+      
+    
+    {\displaystyle b=0}
+   and 
+  
+    
+      
+        b
+        =
+        1
+      
+    
+    {\displaystyle b=1}
+  , and with 
+  
+    
+      
+        
+          y
+          
+            1
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle y_{1}=1}
+   for 
+  
+    
+      
+        
+          
+            P
+            
+            
+            
+            2
+            1
+          
+        
+      
+    
+    {\displaystyle {\ce {^1_2P}}}
+   and 
+  
+    
+      
+        
+          y
+          
+            0
+          
+        
+        =
+        
+          y
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle y_{0}=y_{2}=0}
+   because the reaction does not comprise production of 
+  
+    
+      
+        
+          
+            P
+            
+            
+            
+            2
+            0
+          
+          
+            =
+          
+          
+            
+              N
+              2
+              
+              
+              
+              14
+            
+            O
+          
+        
+      
+    
+    {\displaystyle {\ce {^{0}_{2}P={^{14}N2O}}}}
+   and 
+  
+    
+      
+        
+          
+            P
+            
+            
+            
+            2
+            2
+          
+          
+            =
+          
+          
+            
+              N
+              2
+              
+              
+              
+              15
+            
+            O
+          
+        
+      
+    
+    {\displaystyle {\ce {^{2}_{2}P={^{15}N2O}}}}
+  .
+For isotopomers, the substitution location is taken into account as 
+  
+    
+      
+        
+          
+          
+            a
+          
+          
+            b
+          
+        
+        
+          
+            S
+          
+          
+            β
+          
+        
+      
+    
+    {\displaystyle _{a}^{b}{\ce {S}}^{\beta }}
+   and 
+  
+    
+      
+        
+          
+          
+            a
+          
+          
+            b
+          
+        
+        
+          
+            S
+          
+          
+            γ
+          
+        
+      
+    
+    {\displaystyle _{a}^{b}{\ce {S}}^{\gamma }}
+  , where 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+   and 
+  
+    
+      
+        γ
+      
+    
+    {\displaystyle \gamma }
+   indicate a different expressions of the same isotopologue 
+  
+    
+      
+        
+          
+          
+            a
+          
+          
+            b
+          
+        
+        
+          S
+        
+      
+    
+    {\displaystyle _{a}^{b}{\ce {S}}}
+  . Isotopomers only exist when 
+  
+    
+      
+        1
+        ≤
+        b
+        <
+        a
+      
+    
+    {\displaystyle 1\leq b<a}
+   and 
+  
+    
+      
+        a
+        ≥
+        2
+      
+    
+    {\displaystyle a\geq 2}
+  . The substitution location has to be specifically defined depending on the number of tracer atoms a, number of substitutions b, and molecule structure. For multiatomic molecules that are symmetric with respect to tracer position, there is no need to specify the substitution position when 
+  
+    
+      
+        b
+        =
+        1
+      
+    
+    {\displaystyle b=1}
+  . For example, one substitution of deuterium 
+  
+    
+      
+        
+          D
+           
+          
+            =
+          
+           
+          
+            
+              H
+              
+              
+              
+              
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {D\ =\ {^{2}H}}}}
+   in the symmetric methane molecule 
+  
+    
+      
+        
+          
+            CDH
+            
+              3
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {CDH3}}}
+   does not require the use of the right superscript. In the case that 
+  
+    
+      
+        b
+        =
+        2
+      
+    
+    {\displaystyle b=2}
+  , the substitution location has to be specified, while for 
+  
+    
+      
+        
+          
+            CHD
+            
+              3
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {CHD3}}}
+   and 
+  
+    
+      
+        
+          
+            CD
+            
+              4
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {CD4}}}
+   it is not required. For example, two D substitutions in 
+  
+    
+      
+        
+          
+            CD
+            
+              2
+            
+            
+              
+            
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {CD2H2}}}
+   can occur in adjacent or non-adjacent locations. Using this notation, the reaction 
+  
+    
+      
+        
+          
+            
+              CD
+              
+                2
+              
+              
+                
+              
+            
+            
+              H
+              
+                2
+              
+              
+                
+              
+            
+          
+          +
+          
+            2
+            
+            
+              O
+              
+                2
+              
+              
+                
+              
+            
+          
+          ⟶
+          
+            
+              H
+              
+                2
+              
+              
+                
+              
+            
+            O
+          
+          +
+          
+            
+              D
+              
+                2
+              
+              
+                
+              
+            
+            O
+          
+          +
+          
+            
+              CO
+              
+                2
+              
+              
+                
+              
+            
+          
+          ,
+        
+      
+    
+    {\displaystyle {\ce {{CD2H2}+ {2O2}-> {H2O}+ {D2O}+ {CO2},}}}
+   can be written as
+
+  
+    
+      
+        
+          
+            
+              
+                S
+                
+                
+                
+                4
+                2
+              
+            
+            
+              β
+            
+          
+          ⟶
+          
+            
+              P
+              
+              
+              
+              2
+              0
+            
+          
+          +
+          
+            
+              P
+              
+              
+              
+              2
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {{^{2}_{4}S}^{\beta }->{^{0}_{2}P}+{^{2}_{2}P}}}}
+  where 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+   in 
+  
+    
+      
+        
+          
+            
+              
+                S
+                
+                
+                
+                4
+                2
+              
+            
+            
+              β
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {{^{2}_{4}S}^{\beta }}}}
+   defines only one of the two methane forms (either with adjacent or non-adjacent D atoms). The location of D in the two isotopologue water molecules produced on the right-hand side of the reaction has not been indicated because D is present in only one water molecule at saturation, and because the water molecule is symmetric. For asymmetric and multiatomic molecules with 
+  
+    
+      
+        1
+        ≤
+        b
+        <
+        a
+      
+    
+    {\displaystyle 1\leq b<a}
+   and 
+  
+    
+      
+        a
+        ≥
+        2
+      
+    
+    {\displaystyle a\geq 2}
+  , definition of the substitution location is always required. For instance, the isotopomers of the (asymmetric) nitrous oxide molecule 
+  
+    
+      
+        
+          
+            N
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {N2O}}}
+   are 
+  
+    
+      
+        
+          
+            S
+            
+            β
+            
+            2
+            1
+          
+          
+            =
+          
+          
+            
+              N
+              
+              
+              
+              
+              15
+            
+          
+          
+            
+              NO
+              
+              
+              
+              
+              14
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {^{1}_{2}S^{\beta }={^{15}N}{^{14}NO}}}}
+   and 
+  
+    
+      
+        
+          
+            S
+            
+            γ
+            
+            2
+            1
+          
+          
+            =
+          
+          
+            
+              N
+              
+              
+              
+              
+              14
+            
+          
+          
+            
+              NO
+              
+              
+              
+              
+              15
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {^{1}_{2}S^{\gamma }={^{14}N}{^{15}NO}}}}
+  .
+Reactions of asymmetric isotopomers can be written using the partitioning coefficient u as
+
+  
+    
+      
+        
+          ∑
+          
+            b
+            =
+            0
+          
+          
+            a
+          
+        
+        
+          ∑
+          
+            β
+          
+        
+        
+          x
+          
+            b
+          
+        
+         
+        
+          
+            
+            
+              a
+            
+            
+              b
+            
+          
+        
+        
+          
+            S
+          
+          
+            β
+          
+        
+        
+          ⟶
+        
+        
+          ∑
+          
+            d
+            =
+            0
+          
+          
+            c
+          
+        
+        
+          ∑
+          
+            γ
+          
+        
+        
+          u
+          
+            γ
+          
+        
+        
+          y
+          
+            d
+          
+        
+         
+        
+          
+            
+            
+              c
+            
+            
+              d
+            
+          
+        
+        
+          
+            P
+          
+          
+            γ
+          
+        
+        ,
+      
+    
+    {\displaystyle \sum _{b=0}^{a}\sum _{\beta }x_{b}\ {_{a}^{b}}{\ce {S}}^{\beta }{\ce {->}}\sum _{d=0}^{c}\sum _{\gamma }u_{\gamma }y_{d}\ {_{c}^{d}}{\ce {P}}^{\gamma },}
+  where 
+  
+    
+      
+        
+          u
+          
+            γ
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle u_{\gamma }=1}
+  . For example, using N isotope tracers, the isotopomer reactions
+
+  
+    
+      
+        
+          
+            
+              NO
+              3
+              −
+              
+              
+              14
+            
+          
+          +
+          
+            
+              NO
+              3
+              −
+              
+              
+              15
+            
+          
+          ⟶
+          
+            
+              N
+              
+              
+              
+              
+              14
+            
+          
+          
+            
+              NO
+              
+              
+              
+              
+              15
+            
+          
+          ,
+        
+      
+    
+    {\displaystyle {\ce {{^{14}NO3^{-}}+{^{15}NO3^{-}}->{^{14}N}{^{15}NO},}}}
+  
+
+  
+    
+      
+        
+          
+            
+              NO
+              3
+              −
+              
+              
+              14
+            
+          
+          +
+          
+            
+              NO
+              3
+              −
+              
+              
+              15
+            
+          
+          ⟶
+          
+            
+              N
+              
+              
+              
+              
+              15
+            
+          
+          
+            
+              NO
+              
+              
+              
+              
+              14
+            
+          
+          ,
+        
+      
+    
+    {\displaystyle {\ce {{^{14}NO3^{-}}+{^{15}NO3^{-}}->{^{15}N}{^{14}NO},}}}
+  can be written as one reaction in which each isotopomer product is multiplied by its partition coefficient as
+
+  
+    
+      
+        
+          
+            
+              S
+              
+              
+              
+              1
+              0
+            
+          
+          +
+          
+            
+              S
+              
+              
+              
+              1
+              1
+            
+          
+          ⟶
+          
+            
+              
+                u
+              
+            
+            
+              β
+            
+            
+              
+            
+          
+          
+            
+              
+                P
+                
+                
+                
+                2
+                1
+              
+            
+            
+              β
+            
+          
+          +
+          
+            
+              
+                u
+              
+            
+            
+              γ
+            
+            
+              
+            
+          
+          
+            
+              
+                P
+                
+                
+                
+                2
+                1
+              
+            
+            
+              γ
+            
+          
+          ,
+        
+      
+    
+    {\displaystyle {\ce {{^{0}_{1}S}+{^{1}_{1}S}->{\mathit {u}}_{\beta }{^{1}_{2}P}^{\beta }+{\mathit {u}}_{\gamma }{^{1}_{2}P}^{\gamma },}}}
+  with 
+  
+    
+      
+        
+          u
+          
+            γ
+          
+        
+        =
+        1
+        −
+        
+          u
+          
+            β
+          
+        
+      
+    
+    {\displaystyle u_{\gamma }=1-u_{\beta }}
+  . More generally, the tracer element does not necessarily occur in only one substrate and one product. If 
+  
+    
+      
+        
+          n
+          
+            
+              S
+            
+          
+        
+      
+    
+    {\displaystyle n_{{\ce {S}}}}
+   substrates react releasing 
+  
+    
+      
+        
+          n
+          
+            
+              P
+            
+          
+        
+      
+    
+    {\displaystyle n_{{\ce {P}}}}
+   products, each having an isotopic expression of the tracer element, then the generalized reaction notation is
+
+For instance, consider the 
+  
+    
+      
+        
+          
+            O
+            
+            
+            
+            
+            16
+          
+        
+      
+    
+    {\displaystyle {\ce {^{16}O}}}
+   and 
+  
+    
+      
+        
+          
+            O
+            
+            
+            
+            
+            18
+          
+        
+      
+    
+    {\displaystyle {\ce {^{18}O}}}
+   tracers in the reaction
+
+  
+    
+      
+        
+          
+            
+              CH
+              
+                2
+              
+              
+                18
+              
+            
+            O
+          
+          +
+          
+            
+              O
+              2
+              
+              
+              
+              16
+            
+          
+          ⟶
+          
+            
+              H
+              
+                2
+              
+              
+                16
+              
+            
+            O
+          
+          +
+          
+            C
+            
+              18
+            
+          
+          
+            O
+            
+              16
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {{CH2^{18}O}+{^{16}O2}->{H2^{16}O}+C^{18}O^{16}O}}}
+  In this case the reaction can be written as
+
+  
+    
+      
+        
+          
+            
+              S
+              1
+              
+              
+              1
+              1
+            
+          
+          +
+          
+            
+              S
+              2
+              
+              
+              2
+              0
+            
+          
+          ⟶
+          
+            
+              P
+              1
+              
+              
+              1
+              0
+            
+          
+          +
+          
+            
+              P
+              2
+              
+              
+              2
+              1
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {{^{1}_{1}S1}+{^{0}_{2}S2}->{^{0}_{1}P1}+{^{1}_{2}P2}}}}
+  with two substrates and two products without indication of the substitution location because all molecules are symmetric.
+Biochemical kinetic reactions of type (1) are often catalytic reactions in which one or more substrates, 
+  
+    
+      
+        
+          
+            S
+          
+          
+            j
+          
+        
+      
+    
+    {\displaystyle {\ce {S}}_{j}}
+  , bind to an enzyme, E, to form a reversible activated complex, C, which releases one or more
+products, 
+  
+    
+      
+        
+          
+            P
+          
+          
+            h
+          
+        
+      
+    
+    {\displaystyle {\ce {P}}_{h}}
+  , and free, unchanged enzyme. These reactions belong to the type of reactions that can be described by Michaelis–Menten kinetics. Using this approach for substrate and product isotopologue and isotopomer expressions, and under the prescribed stoichiometric relationships among them, leads to the general reactions of the Michaelis–Menten type
+
+with the index 
+  
+    
+      
+        i
+        =
+        1
+        ,
+        .
+        .
+        .
+        ,
+        m
+      
+    
+    {\displaystyle i=1,...,m}
+  , where m depends on the number of possible atomic combinations among all isotopologues and isotopomers. Here, 
+  
+    
+      
+        
+          k
+          
+            1
+            (
+            i
+            )
+          
+        
+      
+    
+    {\displaystyle k_{1(i)}}
+  , 
+  
+    
+      
+        
+          k
+          
+            2
+            (
+            i
+            )
+          
+        
+      
+    
+    {\displaystyle k_{2(i)}}
+  , and 
+  
+    
+      
+        
+          k
+          
+            3
+            (
+            i
+            )
+          
+        
+      
+    
+    {\displaystyle k_{3(i)}}
+   are the rate constants indexed for each of the m reactions.
+
+Example
+The reactions
+
+  
+    
+      
+        
+          2
+          
+            
+            
+              14
+            
+          
+          
+            NO
+            
+              3
+            
+            
+              −
+            
+          
+          ⟶
+          
+            
+              N
+              2
+              
+              
+              
+              14
+            
+            O
+          
+        
+      
+    
+    {\displaystyle {\ce {2^{14}NO3^{-}->{^{14}N2O}}}}
+  
+
+  
+    
+      
+        
+          
+            
+              NO
+              3
+              −
+              
+              
+              14
+            
+          
+          +
+          
+            
+              NO
+              3
+              −
+              
+              
+              15
+            
+          
+          ⟶
+          
+            
+              N
+              
+              
+              
+              
+              14
+            
+          
+          
+            
+              NO
+              
+              
+              
+              
+              15
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {{^{14}NO3^{-}}+{^{15}NO3^{-}}->{^{14}N}{^{15}NO}}}}
+  
+
+  
+    
+      
+        
+          
+            
+              NO
+              3
+              −
+              
+              
+              14
+            
+          
+          +
+          
+            
+              NO
+              3
+              −
+              
+              
+              15
+            
+          
+          ⟶
+          
+            
+              N
+              
+              
+              
+              
+              15
+            
+          
+          
+            
+              NO
+              
+              
+              
+              
+              14
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {{^{14}NO3^{-}}+{^{15}NO3^{-}}->{^{15}N}{^{14}NO}}}}
+  
+
+  
+    
+      
+        
+          2
+          
+            
+            
+              15
+            
+          
+          
+            NO
+            
+              3
+            
+            
+              −
+            
+          
+          ⟶
+          
+            
+              N
+              2
+              
+              
+              
+              15
+            
+            O
+          
+        
+      
+    
+    {\displaystyle {\ce {2^{15}NO3^{-}->{^{15}N2O}}}}
+  can be written as
+
+  
+    
+      
+        
+          
+            2
+            
+              
+              
+                1
+              
+              
+                0
+              
+            
+            S
+          
+          +
+          
+            E
+          
+          
+            
+              ⇌
+              
+                
+                  
+                    k
+                  
+                  
+                    2
+                    (
+                    1
+                    )
+                  
+                
+              
+              
+                
+                  
+                    k
+                  
+                  
+                    1
+                    (
+                    1
+                    )
+                  
+                
+              
+            
+          
+          
+            
+              C
+              
+                1
+              
+              
+                
+              
+            
+          
+          
+            
+              →
+              
+                
+                  
+                    k
+                  
+                  
+                    3
+                    (
+                    1
+                    )
+                  
+                
+              
+            
+          
+          
+            
+              P
+              
+              
+              
+              2
+              0
+            
+          
+          +
+          
+            E
+          
+        
+      
+    
+    {\displaystyle {\ce {{2_{1}^{0}S}+{E}<=>[{k}_{1(1)}][{k}_{2(1)}]{C1}->[{k}_{3(1)}]{^{0}_{2}P}+{E}}}}
+  
+
+  
+    
+      
+        
+          
+            
+              S
+              
+              
+              
+              1
+              0
+            
+          
+          +
+          
+            
+              S
+              
+              
+              
+              1
+              1
+            
+          
+          +
+          
+            E
+          
+          
+            
+              ⇌
+              
+                
+                  
+                    k
+                  
+                  
+                    2
+                    (
+                    2
+                    )
+                  
+                
+              
+              
+                
+                  
+                    k
+                  
+                  
+                    1
+                    (
+                    2
+                    )
+                  
+                
+              
+            
+          
+          
+            
+              C
+              
+                2
+              
+              
+                
+              
+            
+          
+          
+            
+              →
+              
+                
+                  
+                    k
+                  
+                  
+                    3
+                    (
+                    2
+                    )
+                  
+                
+              
+            
+          
+          
+            
+              
+                u
+              
+            
+            
+              β
+            
+            
+              
+            
+          
+          
+            
+              
+                P
+                
+                
+                
+                2
+                1
+              
+            
+            
+              β
+            
+          
+          +
+          
+            
+              
+                u
+              
+            
+            
+              γ
+            
+            
+              
+            
+          
+          
+            
+              
+                P
+                
+                
+                
+                2
+                1
+              
+            
+            
+              γ
+            
+          
+          +
+          
+            E
+          
+        
+      
+    
+    {\displaystyle {\ce {{^{0}_{1}S}+{^{1}_{1}S}+{E}<=>[{k}_{1(2)}][{k}_{2(2)}]{C2}->[{k}_{3(2)}]{\mathit {u}}_{\beta }{^{1}_{2}P}^{\beta }+{\mathit {u}}_{\gamma }{^{1}_{2}P}^{\gamma }+{E}}}}
+  
+
+  
+    
+      
+        
+          
+            2
+            
+              
+              
+                1
+              
+              
+                1
+              
+            
+            S
+          
+          +
+          
+            E
+          
+          
+            
+              ⇌
+              
+                
+                  
+                    k
+                  
+                  
+                    2
+                    (
+                    3
+                    )
+                  
+                
+              
+              
+                
+                  
+                    k
+                  
+                  
+                    1
+                    (
+                    3
+                    )
+                  
+                
+              
+            
+          
+          
+            
+              C
+              
+                3
+              
+              
+                
+              
+            
+          
+          
+            
+              →
+              
+                
+                  
+                    k
+                  
+                  
+                    3
+                    (
+                    3
+                    )
+                  
+                
+              
+            
+          
+          
+            
+              P
+              
+              
+              
+              2
+              2
+            
+          
+          +
+          
+            E
+          
+        
+      
+    
+    {\displaystyle {\ce {{2_{1}^{1}S}+{E}<=>[{k}_{1(3)}][{k}_{2(3)}]{C3}->[{k}_{3(3)}]{^{2}_{2}P}+{E}}}}
+
+Isotope mass balance
+The following isotope mass balances must hold
+
+  
+    
+      
+        
+          ∑
+          
+            j
+            =
+            1
+          
+          
+            
+              n
+              
+                S
+              
+            
+          
+        
+        
+          ∑
+          
+            
+              b
+              
+                j
+              
+            
+            =
+            0
+          
+          
+            
+              a
+              
+                j
+              
+            
+          
+        
+        
+          ∑
+          
+            
+              β
+              
+                j
+              
+            
+          
+        
+        
+          x
+          
+            
+              b
+              
+                j
+              
+            
+          
+        
+         
+        
+          a
+          
+            j
+          
+        
+        =
+        
+          ∑
+          
+            h
+            =
+            1
+          
+          
+            
+              n
+              
+                P
+              
+            
+          
+        
+        
+          ∑
+          
+            
+              d
+              
+                h
+              
+            
+            =
+            0
+          
+          
+            
+              c
+              
+                h
+              
+            
+          
+        
+        
+          ∑
+          
+            
+              γ
+              
+                h
+              
+            
+          
+        
+        
+          u
+          
+            
+              γ
+              
+                h
+              
+            
+          
+        
+         
+        
+          y
+          
+            
+              d
+              
+                h
+              
+            
+          
+        
+         
+        
+          c
+          
+            h
+          
+        
+        ,
+      
+    
+    {\displaystyle \sum _{j=1}^{n_{S}}\sum _{b_{j}=0}^{a_{j}}\sum _{\beta _{j}}x_{b_{j}}\ a_{j}=\sum _{h=1}^{n_{P}}\sum _{d_{h}=0}^{c_{h}}\sum _{\gamma _{h}}u_{\gamma _{h}}\ y_{d_{h}}\ c_{h},}
+  
+
+  
+    
+      
+        
+          ∑
+          
+            j
+            =
+            1
+          
+          
+            
+              n
+              
+                S
+              
+            
+          
+        
+        
+          ∑
+          
+            
+              b
+              
+                j
+              
+            
+            =
+            0
+          
+          
+            
+              a
+              
+                j
+              
+            
+          
+        
+        
+          ∑
+          
+            
+              β
+              
+                j
+              
+            
+          
+        
+        
+          x
+          
+            
+              b
+              
+                j
+              
+            
+          
+        
+         
+        
+          b
+          
+            j
+          
+        
+        =
+        
+          ∑
+          
+            h
+            =
+            1
+          
+          
+            
+              n
+              
+                P
+              
+            
+          
+        
+        
+          ∑
+          
+            
+              d
+              
+                h
+              
+            
+            =
+            0
+          
+          
+            
+              c
+              
+                h
+              
+            
+          
+        
+        
+          ∑
+          
+            
+              γ
+              
+                h
+              
+            
+          
+        
+        
+          u
+          
+            
+              γ
+              
+                h
+              
+            
+          
+        
+         
+        
+          y
+          
+            
+              d
+              
+                h
+              
+            
+          
+        
+         
+        
+          d
+          
+            h
+          
+        
+        .
+      
+    
+    {\displaystyle \sum _{j=1}^{n_{S}}\sum _{b_{j}=0}^{a_{j}}\sum _{\beta _{j}}x_{b_{j}}\ b_{j}=\sum _{h=1}^{n_{P}}\sum _{d_{h}=0}^{c_{h}}\sum _{\gamma _{h}}u_{\gamma _{h}}\ y_{d_{h}}\ d_{h}.}
+
+General equations for biochemical isotope kinetics (GEBIK)
+To solve for the concentration of all components appearing in any general biochemical reaction as in (2), the Michaelis–Menten kinetics for an enzymatic reaction are coupled with the Monod kinetics for biomass dynamics. The most general case is to assume that the enzyme concentration is proportional to the biomass concentration and that the reaction is not in quasi-steady state. These hypotheses lead to the following system of equations
+
+with 
+  
+    
+      
+        i
+        =
+        1
+        ,
+        .
+        .
+        .
+        ,
+        m
+      
+    
+    {\displaystyle i=1,...,m}
+  , and where 
+  
+    
+      
+        
+          
+            
+              S
+              ¯
+            
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle {\overline {S}}_{i}}
+   is the concentration of the most limiting substrate in each reaction i, z is the enzyme yield coefficient, Y is the yield coefficient expressing the biomass gain per unit of released product and 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+   is the biomass mortality rate.
+
+General equations for biochemical isotope fractionation (GEBIF)
+The isotopic composition of the components in a biochemical system can be defined in different ways depending on the definition of isotopic ratio. Three definitions are described here:
+
+Isotopic ratio – definition 1
+Isotopic ratio relative to each component in the system, each with its isotopic expression, with respect to the concentration of its most abundant isotopologue
+
+  
+    
+      
+        
+          R
+          
+            
+              S
+              
+                
+                  b
+                  
+                    j
+                  
+                
+                ,
+                
+                  β
+                  
+                    j
+                  
+                
+              
+            
+          
+          
+            ∗
+            ∗
+          
+        
+        (
+        t
+        )
+        =
+        
+          
+            
+              
+                
+                  
+                  
+                    
+                      a
+                      
+                        j
+                      
+                    
+                  
+                  
+                    
+                      b
+                      
+                        j
+                      
+                    
+                  
+                
+              
+              
+                S
+                
+                  j
+                
+                
+                  
+                    β
+                    
+                      j
+                    
+                  
+                
+              
+              (
+              t
+              )
+            
+            
+              
+                
+                
+                  
+                    a
+                    
+                      j
+                    
+                  
+                
+                
+                  0
+                
+              
+              
+                S
+                
+                  j
+                
+              
+              (
+              t
+              )
+            
+          
+        
+      
+    
+    {\displaystyle R_{S_{b_{j},\beta _{j}}}^{**}(t)={\frac {{^{b_{j}}_{a_{j}}}S_{j}^{\beta _{j}}(t)}{^{0}_{a_{j}}S_{j}(t)}}}
+  
+  
+    
+      
+        
+          R
+          
+            
+              P
+              
+                
+                  d
+                  
+                    h
+                  
+                
+                ,
+                
+                  γ
+                  
+                    h
+                  
+                
+              
+            
+          
+          
+            ∗
+            ∗
+          
+        
+        (
+        t
+        )
+        =
+        
+          
+            
+              
+                
+                  
+                  
+                    
+                      c
+                      
+                        h
+                      
+                    
+                  
+                  
+                    
+                      d
+                      
+                        h
+                      
+                    
+                  
+                
+              
+              
+                P
+                
+                  h
+                
+                
+                  
+                    γ
+                    
+                      h
+                    
+                  
+                
+              
+              (
+              t
+              )
+            
+            
+              
+                
+                
+                  
+                    c
+                    
+                      h
+                    
+                  
+                
+                
+                  0
+                
+              
+              
+                P
+                
+                  h
+                
+              
+              (
+              t
+              )
+            
+          
+        
+      
+    
+    {\displaystyle R_{P_{d_{h},\gamma _{h}}}^{**}(t)={\frac {{^{d_{h}}_{c_{h}}}P_{h}^{\gamma _{h}}(t)}{^{0}_{c_{h}}P_{h}(t)}}}
+
+Isotopic ratio – definition 2
+Isotopic ratio relative to the mass of the tracer element in each component;
+
+  
+    
+      
+        
+          R
+          
+            
+              S
+              
+                j
+              
+            
+          
+          
+            ∗
+          
+        
+        (
+        t
+        )
+        =
+        
+          
+            
+              
+                ∑
+                
+                  
+                    b
+                    
+                      j
+                    
+                  
+                  ≠
+                  0
+                
+              
+              
+                ∑
+                
+                  
+                    β
+                    
+                      j
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      b
+                      
+                        j
+                      
+                    
+                    q
+                  
+                  
+                    
+                      
+                      
+                        
+                          b
+                          
+                            j
+                          
+                        
+                      
+                    
+                    
+                      M
+                      
+                        
+                          S
+                          
+                            j
+                          
+                        
+                      
+                    
+                  
+                
+              
+               
+              
+                
+                  
+                  
+                    
+                      a
+                      
+                        j
+                      
+                    
+                  
+                  
+                    
+                      b
+                      
+                        j
+                      
+                    
+                  
+                
+              
+              
+                S
+                
+                  j
+                
+                
+                  
+                    β
+                    
+                      j
+                    
+                  
+                
+              
+              (
+              t
+              )
+            
+            
+              
+                ∑
+                
+                  
+                    b
+                    
+                      j
+                    
+                  
+                  ≠
+                  
+                    a
+                    
+                      j
+                    
+                  
+                
+              
+              
+                ∑
+                
+                  
+                    β
+                    
+                      j
+                    
+                  
+                
+              
+              
+                
+                  
+                    (
+                    
+                      a
+                      
+                        j
+                      
+                    
+                    −
+                    
+                      b
+                      
+                        j
+                      
+                    
+                    )
+                    p
+                  
+                  
+                    
+                      
+                      
+                        
+                          b
+                          
+                            j
+                          
+                        
+                      
+                    
+                    
+                      M
+                      
+                        
+                          S
+                          
+                            j
+                          
+                        
+                      
+                    
+                  
+                
+              
+               
+              
+                
+                  
+                  
+                    
+                      a
+                      
+                        j
+                      
+                    
+                  
+                  
+                    
+                      b
+                      
+                        j
+                      
+                    
+                  
+                
+              
+              
+                S
+                
+                  j
+                
+                
+                  
+                    β
+                    
+                      j
+                    
+                  
+                
+              
+              (
+              t
+              )
+            
+          
+        
+      
+    
+    {\displaystyle R_{S_{j}}^{*}(t)={\frac {\displaystyle \sum _{b_{j}\neq 0}\sum _{\beta _{j}}{\frac {b_{j}q}{^{b_{j}}M_{S_{j}}}}\ {^{b_{j}}_{a_{j}}}S_{j}^{\beta _{j}}(t)}{\displaystyle \sum _{b_{j}\neq a_{j}}\sum _{\beta _{j}}{\frac {(a_{j}-b_{j})p}{^{b_{j}}M_{S_{j}}}}\ {^{b_{j}}_{a_{j}}}S_{j}^{\beta _{j}}(t)}}}
+  
+  
+    
+      
+        
+          R
+          
+            
+              P
+              
+                h
+              
+            
+          
+          
+            ∗
+          
+        
+        (
+        t
+        )
+        =
+        
+          
+            
+              
+                ∑
+                
+                  
+                    d
+                    
+                      h
+                    
+                  
+                  ≠
+                  0
+                
+              
+              
+                ∑
+                
+                  
+                    γ
+                    
+                      h
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      d
+                      
+                        h
+                      
+                    
+                    q
+                  
+                  
+                    
+                      
+                      
+                        
+                          d
+                          
+                            h
+                          
+                        
+                      
+                    
+                    
+                      M
+                      
+                        
+                          P
+                          
+                            h
+                          
+                        
+                      
+                    
+                  
+                
+              
+               
+              
+                
+                  
+                  
+                    
+                      c
+                      
+                        h
+                      
+                    
+                  
+                  
+                    
+                      d
+                      
+                        h
+                      
+                    
+                  
+                
+              
+              
+                P
+                
+                  h
+                
+                
+                  
+                    γ
+                    
+                      h
+                    
+                  
+                
+              
+              (
+              t
+              )
+            
+            
+              
+                ∑
+                
+                  
+                    d
+                    
+                      h
+                    
+                  
+                  ≠
+                  
+                    c
+                    
+                      h
+                    
+                  
+                
+              
+              
+                ∑
+                
+                  
+                    γ
+                    
+                      h
+                    
+                  
+                
+              
+              
+                
+                  
+                    (
+                    
+                      c
+                      
+                        h
+                      
+                    
+                    −
+                    
+                      d
+                      
+                        h
+                      
+                    
+                    )
+                    p
+                  
+                  
+                    
+                      
+                      
+                        
+                          d
+                          
+                            h
+                          
+                        
+                      
+                    
+                    
+                      M
+                      
+                        
+                          P
+                          
+                            h
+                          
+                        
+                      
+                    
+                  
+                
+              
+               
+              
+                
+                  
+                  
+                    
+                      c
+                      
+                        h
+                      
+                    
+                  
+                  
+                    
+                      d
+                      
+                        h
+                      
+                    
+                  
+                
+              
+              
+                P
+                
+                  h
+                
+                
+                  
+                    γ
+                    
+                      h
+                    
+                  
+                
+              
+              (
+              t
+              )
+            
+          
+        
+      
+    
+    {\displaystyle R_{P_{h}}^{*}(t)={\frac {\displaystyle \sum _{d_{h}\neq 0}\sum _{\gamma _{h}}{\frac {d_{h}q}{^{d_{h}}M_{P_{h}}}}\ {^{d_{h}}_{c_{h}}}P_{h}^{\gamma _{h}}(t)}{\displaystyle \sum _{d_{h}\neq c_{h}}\sum _{\gamma _{h}}{\frac {(c_{h}-d_{h})p}{^{d_{h}}M_{P_{h}}}}\ {^{d_{h}}_{c_{h}}}P_{h}^{\gamma _{h}}(t)}}}
+  where, 
+  
+    
+      
+        
+          
+          
+            
+              b
+              
+                j
+              
+            
+          
+        
+        
+          M
+          
+            
+              S
+              
+                j
+              
+            
+          
+        
+      
+    
+    {\displaystyle ^{b_{j}}M_{S_{j}}}
+   and 
+  
+    
+      
+        
+          
+          
+            
+              d
+              
+                h
+              
+            
+          
+        
+        
+          M
+          
+            
+              P
+              
+                h
+              
+            
+          
+        
+      
+    
+    {\displaystyle ^{d_{h}}M_{P_{h}}}
+   are the molecular weight of each isotopic expression of the substrate and product.
+
+Isotopic ratio – definition 3
+Isotopic ratio relative to the mass of the tracer element in the accumulated substrates and products
+
+  
+    
+      
+        
+          R
+          
+            S
+          
+        
+        (
+        t
+        )
+        =
+        
+          
+            
+              
+                ∑
+                
+                  j
+                
+              
+              
+                ∑
+                
+                  
+                    b
+                    
+                      j
+                    
+                  
+                  ≠
+                  0
+                
+              
+              
+                ∑
+                
+                  
+                    β
+                    
+                      j
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      b
+                      
+                        j
+                      
+                    
+                    q
+                  
+                  
+                    
+                      
+                      
+                        
+                          b
+                          
+                            j
+                          
+                        
+                      
+                    
+                    
+                      M
+                      
+                        
+                          S
+                          
+                            j
+                          
+                        
+                      
+                    
+                  
+                
+              
+               
+              
+                
+                  
+                  
+                    
+                      a
+                      
+                        j
+                      
+                    
+                  
+                  
+                    
+                      b
+                      
+                        j
+                      
+                    
+                  
+                
+              
+              
+                S
+                
+                  j
+                
+                
+                  
+                    β
+                    
+                      j
+                    
+                  
+                
+              
+              (
+              t
+              )
+            
+            
+              
+                ∑
+                
+                  j
+                
+              
+              
+                ∑
+                
+                  
+                    b
+                    
+                      j
+                    
+                  
+                  ≠
+                  
+                    a
+                    
+                      j
+                    
+                  
+                
+              
+              
+                ∑
+                
+                  
+                    β
+                    
+                      j
+                    
+                  
+                
+              
+              
+                
+                  
+                    (
+                    
+                      a
+                      
+                        j
+                      
+                    
+                    −
+                    
+                      b
+                      
+                        j
+                      
+                    
+                    )
+                    p
+                  
+                  
+                    
+                      
+                      
+                        
+                          b
+                          
+                            j
+                          
+                        
+                      
+                    
+                    
+                      M
+                      
+                        
+                          S
+                          
+                            j
+                          
+                        
+                      
+                    
+                  
+                
+              
+               
+              
+                
+                  
+                  
+                    
+                      a
+                      
+                        j
+                      
+                    
+                  
+                  
+                    
+                      b
+                      
+                        j
+                      
+                    
+                  
+                
+              
+              
+                S
+                
+                  j
+                
+                
+                  
+                    β
+                    
+                      j
+                    
+                  
+                
+              
+              (
+              t
+              )
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle R_{S}(t)={\frac {\displaystyle \sum _{j}\sum _{b_{j}\neq 0}\sum _{\beta _{j}}{\frac {b_{j}q}{^{b_{j}}M_{S_{j}}}}\ {^{b_{j}}_{a_{j}}}S_{j}^{\beta _{j}}(t)}{\displaystyle \sum _{j}\sum _{b_{j}\neq a_{j}}\sum _{\beta _{j}}{\frac {(a_{j}-b_{j})p}{^{b_{j}}M_{S_{j}}}}\ {^{b_{j}}_{a_{j}}}S_{j}^{\beta _{j}}(t)}},}
+  
+  
+    
+      
+        
+          R
+          
+            P
+          
+        
+        (
+        t
+        )
+        =
+        
+          
+            
+              
+                ∑
+                
+                  h
+                
+              
+              
+                ∑
+                
+                  
+                    d
+                    
+                      h
+                    
+                  
+                  ≠
+                  0
+                
+              
+              
+                ∑
+                
+                  
+                    γ
+                    
+                      h
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      d
+                      
+                        h
+                      
+                    
+                    q
+                  
+                  
+                    
+                      
+                      
+                        
+                          d
+                          
+                            h
+                          
+                        
+                      
+                    
+                    
+                      M
+                      
+                        
+                          P
+                          
+                            h
+                          
+                        
+                      
+                    
+                  
+                
+              
+               
+              
+                
+                  
+                  
+                    
+                      c
+                      
+                        h
+                      
+                    
+                  
+                  
+                    
+                      d
+                      
+                        h
+                      
+                    
+                  
+                
+              
+              
+                P
+                
+                  h
+                
+                
+                  
+                    γ
+                    
+                      h
+                    
+                  
+                
+              
+              (
+              t
+              )
+            
+            
+              
+                ∑
+                
+                  h
+                
+              
+              
+                ∑
+                
+                  
+                    d
+                    
+                      h
+                    
+                  
+                  ≠
+                  
+                    c
+                    
+                      h
+                    
+                  
+                
+              
+              
+                ∑
+                
+                  
+                    γ
+                    
+                      h
+                    
+                  
+                
+              
+              
+                
+                  
+                    (
+                    
+                      c
+                      
+                        h
+                      
+                    
+                    −
+                    
+                      d
+                      
+                        h
+                      
+                    
+                    )
+                    p
+                  
+                  
+                    
+                      
+                      
+                        
+                          d
+                          
+                            h
+                          
+                        
+                      
+                    
+                    
+                      M
+                      
+                        
+                          P
+                          
+                            h
+                          
+                        
+                      
+                    
+                  
+                
+              
+               
+              
+                
+                  
+                  
+                    
+                      c
+                      
+                        h
+                      
+                    
+                  
+                  
+                    
+                      d
+                      
+                        h
+                      
+                    
+                  
+                
+              
+              
+                P
+                
+                  h
+                
+                
+                  
+                    γ
+                    
+                      h
+                    
+                  
+                
+              
+              (
+              t
+              )
+            
+          
+        
+        .
+      
+    
+    {\displaystyle R_{P}(t)={\frac {\displaystyle \sum _{h}\sum _{d_{h}\neq 0}\sum _{\gamma _{h}}{\frac {d_{h}q}{^{d_{h}}M_{P_{h}}}}\ {^{d_{h}}_{c_{h}}}P_{h}^{\gamma _{h}}(t)}{\displaystyle \sum _{h}\sum _{d_{h}\neq c_{h}}\sum _{\gamma _{h}}{\frac {(c_{h}-d_{h})p}{^{d_{h}}M_{P_{h}}}}\ {^{d_{h}}_{c_{h}}}P_{h}^{\gamma _{h}}(t)}}.}
+
+Isotopic composition
+Regardless of the definition of the isotopic ratio, the isotopic composition of substrate and product are expressed as
+
+where 
+  
+    
+      
+        
+          R
+          
+            s
+            t
+            d
+          
+        
+      
+    
+    {\displaystyle R_{std}}
+   is a standard isotopic ration. Here, definition 3 of isotopic ratio has been used, however, any of the three definitions of isotopic ratio can equally be used.
+
+Fractionation factor
+The isotopic ratio of the product can be used to define the instantaneous isotopic ratio
+
+and the time-dependent fractionation factor
+
+Isotopic enrichment
+The time-dependent isotopic enrichment is simply defined as
+
+Simplified forms of GEBIK and GEBIF
+Under specific assumptions, the GEBIK and GEBIF equations become equivalent to the equation for steady-state kinetic isotope fractionation in both chemical and biochemical reactions. Here two mathematical treatments are proposed: (i) under biomass-free and enzyme-invariant (BFEI) hypothesis and (ii) under quasi-steady-state (QSS) hypothesis.
+
+BFEI hypothesis
+In instances where the biomass and enzyme concentrations are not appreciably changing in time, we can assume that biomass dynamics is negligible and that the total enzyme concentration is constant, and the GEBIK equations become
+
+Eqs. (4) for isotopic compositions, Eq. (6) for the fractionation factor and Eq. (7) for the enrichment factor equally applies to the GEBIK equations under the BFEI hypothesis.
+
+QSS hypothesis
+If the quasi-steady-state hypothesis is assumed in addition to BFEI hypothesis, then the complex concentration can be assumed to be in a stationary (steady) state according to the Briggs–Haldane hypothesis, and the GEBIK equations become
+
+which are written in a form similar to the classical Micaelis-Menten equations for any substrate and product. Here, the equations also show that the various isotopologue and isotopomer substrates appear as competing species. Eqs. (4) for isotopic compositions, Eq. (6) for the fractionation factor and Eq. (7) for the enrichment factor equally applies to the GEBIK equations under the BFEI and QSS hypothesis.
+
+Example of application of GEBIK and GEBIF
+An example is shown where GEBIK and GEBIF equations are used to describe the isotopic reactions of 
+  
+    
+      
+        
+          
+            N
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {N2O}}}
+   consumption into 
+  
+    
+      
+        
+          
+            N
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {N2}}}
+   according to the simultaneous set of reactions
+
+  
+    
+      
+        
+          
+            N
+            2
+            
+            
+            
+            14
+          
+          O
+          ⟶
+          
+            
+              N
+              2
+              
+              
+              
+              14
+            
+          
+          ,
+        
+      
+    
+    {\displaystyle {\ce {^{14}N2O->{^{14}N2},}}}
+  
+
+  
+    
+      
+        
+          
+            
+              N
+              
+              
+              
+              
+              14
+            
+          
+          
+            
+              NO
+              
+              
+              
+              
+              15
+            
+          
+          ⟶
+          
+            
+              N
+              
+              
+              
+              
+              14
+            
+          
+          
+            
+              N
+              
+              
+              
+              
+              15
+            
+          
+          ,
+        
+      
+    
+    {\displaystyle {\ce {{^{14}N}{^{15}NO}->{^{14}N}{^{15}N},}}}
+  
+
+  
+    
+      
+        
+          
+            
+              N
+              
+              
+              
+              
+              15
+            
+          
+          
+            
+              NO
+              
+              
+              
+              
+              14
+            
+          
+          ⟶
+          
+            
+              N
+              
+              
+              
+              
+              14
+            
+          
+          
+            
+              N
+              
+              
+              
+              
+              15
+            
+          
+          ,
+        
+      
+    
+    {\displaystyle {\ce {{^{15}N}{^{14}NO}->{^{14}N}{^{15}N},}}}
+  These can be rewritten using the notation introduced before as.
+
+  
+    
+      
+        
+          
+            
+              S
+              
+              
+              
+              2
+              0
+            
+          
+          +
+          
+            E
+          
+          
+            
+              ⇌
+              
+                
+                  
+                    k
+                  
+                  
+                    1
+                    (
+                    1
+                    )
+                  
+                
+              
+              
+                
+                  
+                    k
+                  
+                  
+                    2
+                    (
+                    1
+                    )
+                  
+                
+              
+            
+          
+          
+            C
+            
+              1
+            
+            
+              
+            
+          
+          
+            
+              →
+              
+                
+                  
+                    k
+                  
+                  
+                    3
+                    (
+                    1
+                    )
+                  
+                
+              
+            
+          
+          
+            
+              P
+              
+              
+              
+              2
+              0
+            
+          
+          +
+          
+            E
+          
+          ,
+        
+      
+    
+    {\displaystyle {\ce {{^{0}_{2}S}+{E}<=>[{k}_{2(1)}][{k}_{1(1)}]C1->[{k}_{3(1)}]{^{0}_{2}P}+{E},}}}
+  
+
+  
+    
+      
+        
+          
+            
+              
+                S
+                
+                
+                
+                2
+                1
+              
+            
+            
+              β
+            
+          
+          +
+          
+            E
+          
+          
+            
+              ⇌
+              
+                
+                  
+                    k
+                  
+                  
+                    1
+                    (
+                    2
+                    )
+                  
+                
+              
+              
+                
+                  
+                    k
+                  
+                  
+                    2
+                    (
+                    2
+                    )
+                  
+                
+              
+            
+          
+          
+            C
+            
+              2
+            
+            
+              
+            
+          
+          
+            
+              →
+              
+                
+                  
+                    k
+                  
+                  
+                    3
+                    (
+                    2
+                    )
+                  
+                
+              
+            
+          
+          
+            
+              P
+              
+              
+              
+              2
+              1
+            
+          
+          +
+          
+            E
+          
+          ,
+        
+      
+    
+    {\displaystyle {\ce {{^{1}_{2}S}^{\beta }+{E}<=>[{k}_{2(2)}][{k}_{1(2)}]C2->[{k}_{3(2)}]{^{1}_{2}P}+{E},}}}
+  
+
+  
+    
+      
+        
+          
+            
+              
+                S
+                
+                
+                
+                2
+                1
+              
+            
+            
+              γ
+            
+          
+          +
+          
+            E
+          
+          
+            
+              ⇌
+              
+                
+                  
+                    k
+                  
+                  
+                    1
+                    (
+                    3
+                    )
+                  
+                
+              
+              
+                
+                  
+                    k
+                  
+                  
+                    2
+                    (
+                    3
+                    )
+                  
+                
+              
+            
+          
+          
+            C
+            
+              3
+            
+            
+              
+            
+          
+          
+            
+              →
+              
+                
+                  
+                    k
+                  
+                  
+                    3
+                    (
+                    3
+                    )
+                  
+                
+              
+            
+          
+          
+            
+              P
+              
+              
+              
+              2
+              1
+            
+          
+          +
+          
+            E
+          
+          ,
+        
+      
+    
+    {\displaystyle {\ce {{^{1}_{2}S}^{\gamma }+{E}<=>[{k}_{2(3)}][{k}_{1(3)}]C3->[{k}_{3(3)}]{^{1}_{2}P}+{E},}}}
+  The substrate 
+  
+    
+      
+        
+          
+            S
+            
+            
+            
+            2
+            2
+          
+           
+          
+            =
+          
+           
+          
+            
+              N
+              2
+              
+              
+              
+              15
+            
+            O
+          
+        
+      
+    
+    {\displaystyle {\ce {^{2}_{2}S\ =\ {^{15}N2O}}}}
+   has not been included due to its scarcity. In addition, we have not specified the isotopic substitution in the 
+  
+    
+      
+        
+          
+            N
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {N2}}}
+   product of the second and third reactions because 
+  
+    
+      
+        
+          
+            N
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {N2}}}
+   is symmetric. Assuming that the second and third reactions have identical reaction rates 
+  
+    
+      
+        (
+        
+          k
+          
+            1
+            (
+            3
+            )
+          
+        
+        ≡
+        
+          k
+          
+            1
+            (
+            2
+            )
+          
+        
+      
+    
+    {\displaystyle (k_{1(3)}\equiv k_{1(2)}}
+  , 
+  
+    
+      
+        
+          k
+          
+            2
+            (
+            3
+            )
+          
+        
+        ≡
+        
+          k
+          
+            2
+            (
+            2
+            )
+          
+        
+      
+    
+    {\displaystyle k_{2(3)}\equiv k_{2(2)}}
+  , and 
+  
+    
+      
+        
+          k
+          
+            3
+            (
+            3
+            )
+          
+        
+        ≡
+        
+          k
+          
+            3
+            (
+            2
+            )
+          
+        
+        )
+      
+    
+    {\displaystyle k_{3(3)}\equiv k_{3(2)})}
+  , the full GEBIK and GEBIF equations are
+
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              [
+              
+                
+                  S
+                  
+                  
+                  
+                  2
+                  0
+                
+              
+              ]
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        
+          
+            k
+          
+          
+            2
+            (
+            1
+            )
+          
+        
+        
+          
+            C
+            
+              1
+            
+            
+              
+            
+          
+        
+        −
+        
+          
+            k
+          
+          
+            1
+            (
+            1
+            )
+          
+        
+        
+          
+            S
+            
+            
+            
+            2
+            0
+          
+          E
+        
+      
+    
+    {\displaystyle {\frac {{\ce {d}}[{\ce {^0_2S}}]}{{\ce {d}}t}}={k}_{2(1)}{\ce {C1}}-{k}_{1(1)}{\ce {^0_2S E}}}
+  
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              [
+              
+                
+                  S
+                  
+                  β
+                  
+                  2
+                  1
+                
+              
+              ]
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        
+          
+            k
+          
+          
+            2
+            (
+            2
+            )
+          
+        
+        
+          
+            C
+            
+              2
+            
+            
+              
+            
+          
+        
+        −
+        
+          
+            k
+          
+          
+            1
+            (
+            2
+            )
+          
+        
+        
+          
+            S
+            
+            β
+            
+            2
+            1
+          
+          E
+        
+      
+    
+    {\displaystyle {\frac {{\ce {d}}[{\ce {^{1}_{2}S^{\beta }}}]}{{\ce {d}}t}}={k}_{2(2)}{\ce {C2}}-{k}_{1(2)}{\ce {^{1}_{2}S^{\beta }E}}}
+  
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              [
+              
+                
+                  S
+                  
+                  γ
+                  
+                  2
+                  1
+                
+              
+              ]
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        
+          
+            k
+          
+          
+            2
+            (
+            2
+            )
+          
+        
+        
+          
+            C
+            
+              3
+            
+            
+              
+            
+          
+        
+        −
+        
+          
+            k
+          
+          
+            1
+            (
+            2
+            )
+          
+        
+        
+          
+            S
+            
+            γ
+            
+            2
+            1
+          
+          E
+        
+      
+    
+    {\displaystyle {\frac {{\ce {d}}[{\ce {^{1}_{2}S^{\gamma }}}]}{{\ce {d}}t}}={k}_{2(2)}{\ce {C3}}-{k}_{1(2)}{\ce {^{1}_{2}S^{\gamma }E}}}
+  
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              
+                
+                  C
+                  
+                    1
+                  
+                  
+                    
+                  
+                
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        
+          
+            k
+          
+          
+            1
+            (
+            1
+            )
+          
+        
+        
+          
+            S
+            
+            
+            
+            2
+            0
+          
+          E
+        
+        −
+        (
+        
+          
+            k
+          
+          
+            2
+            (
+            1
+            )
+          
+        
+        +
+        
+          
+            k
+          
+          
+            3
+            (
+            1
+            )
+          
+        
+        )
+        
+          
+            C
+            
+              1
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {{\ce {d}}{\ce {C1}}}{{\ce {d}}t}}={k}_{1(1)}{\ce {^0_2S E}}-({k}_{2(1)}+{k}_{3(1)}){\ce {C1}}}
+  
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              
+                
+                  C
+                  
+                    2
+                  
+                  
+                    
+                  
+                
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        
+          
+            k
+          
+          
+            1
+            (
+            2
+            )
+          
+        
+        
+          
+            S
+            
+            β
+            
+            2
+            1
+          
+          E
+        
+        −
+        (
+        
+          
+            k
+          
+          
+            2
+            (
+            2
+            )
+          
+        
+        +
+        
+          
+            k
+          
+          
+            3
+            (
+            2
+            )
+          
+        
+        )
+        
+          
+            C
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {{\ce {d}}{\ce {C2}}}{{\ce {d}}t}}={k}_{1(2)}{\ce {^{1}_{2}S^{\beta }E}}-({k}_{2(2)}+{k}_{3(2)}){\ce {C2}}}
+  
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              
+                
+                  C
+                  
+                    3
+                  
+                  
+                    
+                  
+                
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        
+          
+            k
+          
+          
+            1
+            (
+            2
+            )
+          
+        
+        
+          
+            S
+            
+            γ
+            
+            2
+            1
+          
+          E
+        
+        −
+        (
+        
+          
+            k
+          
+          
+            2
+            (
+            2
+            )
+          
+        
+        +
+        
+          
+            k
+          
+          
+            3
+            (
+            2
+            )
+          
+        
+        )
+        
+          
+            C
+            
+              3
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {{\ce {d}}{\ce {C3}}}{{\ce {d}}t}}={k}_{1(2)}{\ce {^{1}_{2}S^{\gamma }E}}-({k}_{2(2)}+{k}_{3(2)}){\ce {C3}}}
+  
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              [
+              
+                
+                  P
+                  
+                  
+                  
+                  2
+                  0
+                
+              
+              ]
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        
+          
+            k
+          
+          
+            3
+            (
+            1
+            )
+          
+        
+        
+          
+            C
+            
+              1
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {{\ce {d}}[{\ce {^0_2P}}]}{{\ce {d}}t}}={k}_{3(1)}{\ce {C1}}}
+  
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              [
+              
+                
+                  P
+                  
+                  
+                  
+                  2
+                  1
+                
+              
+              ]
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        
+          
+            k
+          
+          
+            3
+            (
+            2
+            )
+          
+        
+        (
+        
+          
+            C
+            
+              2
+            
+            
+              
+            
+          
+        
+        +
+        
+          
+            C
+            
+              3
+            
+            
+              
+            
+          
+        
+        )
+      
+    
+    {\displaystyle {\frac {{\ce {d}}[{\ce {^1_2P}}]}{{\ce {d}}t}}={k}_{3(2)}({\ce {C2}}+{\ce {C3}})}
+  
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              
+                E
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        z
+        
+          
+            
+              
+                d
+              
+              B
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        −
+        
+          
+            
+              
+                d
+              
+              
+                
+                  C
+                  
+                    1
+                  
+                  
+                    
+                  
+                
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        −
+        
+          
+            
+              
+                d
+              
+              
+                
+                  C
+                  
+                    2
+                  
+                  
+                    
+                  
+                
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        −
+        
+          
+            
+              
+                d
+              
+              
+                
+                  C
+                  
+                    3
+                  
+                  
+                    
+                  
+                
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {{\ce {d}}{\ce {E}}}{{\ce {d}}t}}=z{\frac {{\ce {d}}B}{{\ce {d}}t}}-{\frac {{\ce {d}}{\ce {C1}}}{{\ce {d}}t}}-{\frac {{\ce {d}}{\ce {C2}}}{{\ce {d}}t}}-{\frac {{\ce {d}}{\ce {C3}}}{{\ce {d}}t}}}
+  
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              B
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        Y
+        
+          (
+          
+            
+              
+                
+                  
+                    d
+                  
+                  [
+                  
+                    
+                      P
+                      
+                      
+                      
+                      2
+                      0
+                    
+                  
+                  ]
+                
+                
+                  
+                    d
+                  
+                  t
+                
+              
+            
+            +
+            
+              
+                
+                  
+                    d
+                  
+                  [
+                  
+                    
+                      P
+                      
+                      
+                      
+                      2
+                      1
+                    
+                  
+                  ]
+                
+                
+                  
+                    d
+                  
+                  t
+                
+              
+            
+          
+          )
+        
+        −
+        μ
+        B
+      
+    
+    {\displaystyle {\frac {{\ce {d}}B}{{\ce {d}}t}}=Y\left({\frac {{\ce {d}}[{\ce {^0_2P}}]}{{\ce {d}}t}}+{\frac {{\ce {d}}[{\ce {^1_2P}}]}{{\ce {d}}t}}\right)-\mu B}
+  
+  
+    
+      
+        
+          R
+          
+            P
+          
+        
+        (
+        t
+        )
+        =
+        
+          
+            
+              15
+               
+              
+                
+                  P
+                  
+                  
+                  
+                  2
+                  1
+                
+              
+              (
+              t
+              )
+            
+            
+              14
+               
+              
+                
+                  P
+                  
+                  
+                  
+                  2
+                  1
+                
+              
+              (
+              t
+              )
+              +
+              29
+               
+              
+                
+                  P
+                  
+                  
+                  
+                  2
+                  0
+                
+              
+              (
+              t
+              )
+            
+          
+        
+      
+    
+    {\displaystyle R_{P}(t)={\frac {15\ {\ce {^1_2P}}(t)}{14\ {\ce {^1_2P}}(t)+29\ {\ce {^0_2P}}(t)}}}
+  
+  
+    
+      
+        
+          IR
+          P
+        
+        (
+        t
+        )
+        =
+        
+          
+            
+              
+                15
+                 
+                (
+                
+                  
+                    C
+                    
+                      2
+                    
+                    
+                      
+                    
+                  
+                
+                +
+                
+                  
+                    C
+                    
+                      3
+                    
+                    
+                      
+                    
+                  
+                
+                )
+                
+                  
+                    k
+                  
+                  
+                    3
+                    (
+                    2
+                    )
+                  
+                
+              
+              
+                29
+                 
+                
+                  
+                    C
+                    
+                      1
+                    
+                    
+                      
+                    
+                  
+                
+                
+                  
+                    k
+                  
+                  
+                    3
+                    (
+                    1
+                    )
+                  
+                
+                +
+                14
+                 
+                (
+                
+                  
+                    C
+                    
+                      2
+                    
+                    
+                      
+                    
+                  
+                
+                +
+                
+                  
+                    C
+                    
+                      3
+                    
+                    
+                      
+                    
+                  
+                
+                )
+                
+                  
+                    k
+                  
+                  
+                    3
+                    (
+                    2
+                    )
+                  
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\ce {IR_P}}(t)={\dfrac {15\ ({\ce {C2}}+{\ce {C3}}){k}_{3(2)}}{29\ {\ce {C1}}{k}_{3(1)}+14\ ({\ce {C2}}+{\ce {C3}}){k}_{3(2)}}},}
+  
+  
+    
+      
+        
+          R
+          
+            S
+          
+        
+        (
+        t
+        )
+        =
+        
+          
+            
+              165
+               
+              
+                
+                  S
+                  
+                  
+                  
+                  2
+                  1
+                
+              
+            
+            
+              154
+               
+              
+                
+                  S
+                  
+                  
+                  
+                  2
+                  1
+                
+              
+              +
+              315
+               
+              
+                
+                  S
+                  
+                  
+                  
+                  2
+                  0
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle R_{S}(t)={\frac {165\ {\ce {^1_2S}}}{154\ {\ce {^1_2S}}+315\ {\ce {^0_2S}}}}}
+  
+  
+    
+      
+        α
+        (
+        t
+        )
+        =
+        
+          
+            
+              7
+               
+              (
+              
+                
+                  C
+                  
+                    2
+                  
+                  
+                    
+                  
+                
+              
+              +
+              
+                
+                  C
+                  
+                    3
+                  
+                  
+                    
+                  
+                
+              
+              )
+              
+                
+                  k
+                
+                
+                  3
+                  (
+                  2
+                  )
+                
+              
+              [
+              45
+               
+              
+                
+                  S
+                  
+                  
+                  
+                  2
+                  0
+                
+              
+              +
+              22
+               
+              
+                
+                  S
+                  
+                  
+                  
+                  2
+                  1
+                
+              
+              ]
+            
+            
+              11
+               
+              [
+              29
+               
+              
+                
+                  C
+                  
+                    1
+                  
+                  
+                    
+                  
+                
+              
+              
+                
+                  k
+                
+                
+                  3
+                  (
+                  1
+                  )
+                
+              
+              +
+              14
+               
+              (
+              
+                
+                  C
+                  
+                    2
+                  
+                  
+                    
+                  
+                
+              
+              +
+              
+                
+                  C
+                  
+                    3
+                  
+                  
+                    
+                  
+                
+              
+              )
+              
+                
+                  k
+                
+                
+                  3
+                  (
+                  2
+                  )
+                
+              
+              ]
+               
+              
+                
+                  
+                  
+                    2
+                  
+                  
+                    1
+                  
+                
+              
+              
+                S
+              
+            
+          
+        
+      
+    
+    {\displaystyle \alpha (t)={\frac {7\ ({\ce {C2}}+{\ce {C3}}){k}_{3(2)}[45\ {\ce {^{0}_{2}S}}+22\ {\ce {^{1}_{2}S}}]}{11\ [29\ {\ce {C1}}{k}_{3(1)}+14\ ({\ce {C2}}+{\ce {C3}}){k}_{3(2)}]\ {_{2}^{1}}{\ce {S}}}}}
+
+Example of application of GEBIK and GEBIF under BFEI and QSS hypotheses
+The same reaction can be described with the GEBIK and GEBIF equations under the BFEI and QSS approximations as
+
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              [
+              
+                
+                  
+                  
+                    2
+                  
+                  
+                    0
+                  
+                
+              
+              
+                S
+              
+              ]
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        ≃
+        −
+        
+          
+            
+              
+                
+                  k
+                
+                
+                  3
+                  (
+                  1
+                  )
+                
+              
+              
+                E
+                
+                  0
+                
+              
+              
+                
+                  
+                  
+                    2
+                  
+                  
+                    0
+                  
+                
+              
+              
+                S
+              
+            
+            
+              
+                
+                
+                  2
+                
+                
+                  0
+                
+              
+              
+                S
+              
+              +
+              
+                
+                  K
+                  
+                    1
+                  
+                  
+                    
+                  
+                
+              
+              
+                (
+                
+                  1
+                  +
+                  
+                    
+                      
+                        
+                          
+                            
+                              
+                              
+                                2
+                              
+                              
+                                1
+                              
+                            
+                          
+                          
+                            
+                              S
+                            
+                            
+                              β
+                            
+                          
+                        
+                        
+                          K
+                          
+                            2
+                          
+                          
+                            
+                          
+                        
+                      
+                    
+                  
+                  +
+                  
+                    
+                      
+                        
+                          
+                            
+                              
+                              
+                                2
+                              
+                              
+                                1
+                              
+                            
+                          
+                          
+                            
+                              S
+                            
+                            
+                              γ
+                            
+                          
+                        
+                        
+                          K
+                          
+                            2
+                          
+                          
+                            
+                          
+                        
+                      
+                    
+                  
+                
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {{\ce {d}}[{^{0}_{2}}{\ce {S}}]}{{\ce {d}}t}}\simeq -{\frac {{k}_{3(1)}E_{0}{^{0}_{2}}{\ce {S}}}{^{0}_{2}{\ce {S}}+{\ce {K1}}\left(1+{\dfrac {{^{1}_{2}}{\ce {S}}^{\beta }}{\ce {K2}}}+{\dfrac {{^{1}_{2}}{\ce {S}}^{\gamma }}{\ce {K2}}}\right)}}}
+  
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              [
+              
+                
+                  
+                  
+                    2
+                  
+                  
+                    1
+                  
+                
+              
+              
+                
+                  S
+                
+                
+                  β
+                
+              
+              ]
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        ≃
+        −
+        
+          
+            
+              
+                
+                  k
+                
+                
+                  3
+                  (
+                  2
+                  )
+                
+              
+              
+                E
+                
+                  0
+                
+              
+              
+                
+                  
+                  
+                    2
+                  
+                  
+                    1
+                  
+                
+              
+              
+                
+                  S
+                
+                
+                  β
+                
+              
+            
+            
+              
+                
+                
+                  2
+                
+                
+                  1
+                
+              
+              
+                
+                  S
+                
+                
+                  β
+                
+              
+              +
+              
+                
+                  K
+                  
+                    2
+                  
+                  
+                    
+                  
+                
+              
+              
+                (
+                
+                  1
+                  +
+                  
+                    
+                      
+                        
+                          
+                            
+                              
+                              
+                                2
+                              
+                              
+                                0
+                              
+                            
+                          
+                          
+                            S
+                          
+                        
+                        
+                          K
+                          
+                            1
+                          
+                          
+                            
+                          
+                        
+                      
+                    
+                  
+                  +
+                  
+                    
+                      
+                        
+                          
+                            
+                              
+                              
+                                2
+                              
+                              
+                                1
+                              
+                            
+                          
+                          
+                            
+                              S
+                            
+                            
+                              γ
+                            
+                          
+                        
+                        
+                          K
+                          
+                            2
+                          
+                          
+                            
+                          
+                        
+                      
+                    
+                  
+                
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {{\ce {d}}[{^{1}_{2}}{\ce {S}}^{\beta }]}{{\ce {d}}t}}\simeq -{\frac {{k}_{3(2)}E_{0}{^{1}_{2}}{\ce {S}}^{\beta }}{^{1}_{2}{\ce {S}}^{\beta }+{\ce {K2}}\left(1+{\dfrac {{^{0}_{2}}{\ce {S}}}{\ce {K1}}}+{\dfrac {{^{1}_{2}}{\ce {S}}^{\gamma }}{\ce {K2}}}\right)}}}
+  
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              [
+              
+                
+                  
+                  
+                    2
+                  
+                  
+                    1
+                  
+                
+              
+              
+                
+                  S
+                
+                
+                  γ
+                
+              
+              ]
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        ≃
+        −
+        
+          
+            
+              
+                
+                  k
+                
+                
+                  3
+                  (
+                  2
+                  )
+                
+              
+              
+                E
+                
+                  0
+                
+              
+              
+                
+                  
+                  
+                    2
+                  
+                  
+                    1
+                  
+                
+              
+              
+                
+                  S
+                
+                
+                  γ
+                
+              
+            
+            
+              
+                
+                
+                  2
+                
+                
+                  1
+                
+              
+              
+                
+                  S
+                
+                
+                  γ
+                
+              
+              +
+              
+                
+                  K
+                  
+                    2
+                  
+                  
+                    
+                  
+                
+              
+              
+                (
+                
+                  1
+                  +
+                  
+                    
+                      
+                        
+                          
+                            
+                              
+                              
+                                2
+                              
+                              
+                                0
+                              
+                            
+                          
+                          
+                            S
+                          
+                        
+                        
+                          K
+                          
+                            1
+                          
+                          
+                            
+                          
+                        
+                      
+                    
+                  
+                  +
+                  
+                    
+                      
+                        
+                          
+                            
+                              
+                              
+                                2
+                              
+                              
+                                1
+                              
+                            
+                          
+                          
+                            
+                              S
+                            
+                            
+                              β
+                            
+                          
+                        
+                        
+                          K
+                          
+                            2
+                          
+                          
+                            
+                          
+                        
+                      
+                    
+                  
+                
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {{\ce {d}}[{^{1}_{2}}{\ce {S}}^{\gamma }]}{{\ce {d}}t}}\simeq -{\frac {{k}_{3(2)}E_{0}{^{1}_{2}}{\ce {S}}^{\gamma }}{^{1}_{2}{\ce {S}}^{\gamma }+{\ce {K2}}\left(1+{\dfrac {{^{0}_{2}}{\ce {S}}}{\ce {K1}}}+{\dfrac {{^{1}_{2}}{\ce {S}}^{\beta }}{\ce {K2}}}\right)}}}
+  
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              
+                
+                  
+                  
+                    2
+                  
+                  
+                    0
+                  
+                
+              
+              
+                P
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        −
+        
+          
+            
+              
+                d
+              
+              [
+              
+                
+                  
+                  
+                    2
+                  
+                  
+                    0
+                  
+                
+              
+              
+                S
+              
+              ]
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {{\ce {d}}{_{2}^{0}}{\ce {P}}}{{\ce {d}}t}}=-{\frac {{\ce {d}}[{^{0}_{2}}{\ce {S}}]}{{\ce {d}}t}}}
+  
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              
+                
+                  
+                  
+                    2
+                  
+                  
+                    1
+                  
+                
+              
+              
+                P
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        −
+        
+          
+            
+              
+                d
+              
+              [
+              
+                
+                  
+                  
+                    2
+                  
+                  
+                    1
+                  
+                
+              
+              
+                
+                  S
+                
+                
+                  β
+                
+              
+              ]
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        −
+        
+          
+            
+              
+                d
+              
+              [
+              
+                
+                  
+                  
+                    2
+                  
+                  
+                    1
+                  
+                
+              
+              
+                
+                  S
+                
+                
+                  γ
+                
+              
+              ]
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {{\ce {d}}{_{2}^{1}}{\ce {P}}}{{\ce {d}}t}}=-{\frac {{\ce {d}}[{^{1}_{2}}{\ce {S}}^{\beta }]}{{\ce {d}}t}}-{\frac {{\ce {d}}[{^{1}_{2}}{\ce {S}}^{\gamma }]}{{\ce {d}}t}}}
+  
+  
+    
+      
+        
+          R
+          
+            P
+          
+        
+        (
+        t
+        )
+        =
+        
+          
+            
+              15
+              
+                
+                  
+                  
+                    2
+                  
+                  
+                    1
+                  
+                
+              
+              
+                P
+              
+            
+            
+              14
+              
+                
+                  
+                  
+                    2
+                  
+                  
+                    1
+                  
+                
+              
+              
+                P
+              
+              +
+              29
+               
+              
+                
+                  
+                  
+                    2
+                  
+                  
+                    0
+                  
+                
+              
+              
+                P
+              
+            
+          
+        
+      
+    
+    {\displaystyle R_{P}(t)={\frac {15{_{2}^{1}}{\ce {P}}}{14{_{2}^{1}}{\ce {P}}+29\ {_{2}^{0}}{\ce {P}}}}}
+  
+  
+    
+      
+        
+          
+            IR
+            
+              P
+            
+            
+              
+            
+          
+        
+        (
+        t
+        )
+        =
+        
+          
+            
+              
+                15
+                
+                  
+                    K
+                    
+                      1
+                    
+                    
+                      
+                    
+                  
+                
+                
+                  
+                    k
+                  
+                  
+                    3
+                    (
+                    2
+                    )
+                  
+                
+                
+                  
+                    
+                    
+                      2
+                    
+                    
+                      1
+                    
+                  
+                
+                
+                  S
+                
+              
+              
+                29
+                
+                  
+                    K
+                    
+                      2
+                    
+                    
+                      
+                    
+                  
+                
+                
+                  
+                    k
+                  
+                  
+                    3
+                    (
+                    1
+                    )
+                  
+                
+                
+                  
+                    
+                    
+                      2
+                    
+                    
+                      0
+                    
+                  
+                
+                
+                  S
+                
+                +
+                14
+                
+                  
+                    K
+                    
+                      1
+                    
+                    
+                      
+                    
+                  
+                
+                
+                  
+                    k
+                  
+                  
+                    3
+                    (
+                    2
+                    )
+                  
+                
+                
+                  
+                    
+                    
+                      2
+                    
+                    
+                      1
+                    
+                  
+                
+                
+                  S
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {IR_{P}}}(t)={\dfrac {15{\ce {K1}}{k}_{3(2)}{_{2}^{1}}{\ce {S}}}{29{\ce {K2}}{k}_{3(1)}{_{2}^{0}}{\ce {S}}+14{\ce {K1}}{k}_{3(2)}{_{2}^{1}}{\ce {S}}}}}
+  
+  
+    
+      
+        
+          R
+          
+            S
+          
+        
+        (
+        t
+        )
+        =
+        
+          
+            
+              465
+               
+              
+                
+                  
+                  
+                    2
+                  
+                  
+                    1
+                  
+                
+              
+              
+                S
+              
+            
+            
+              14
+              [
+              63
+               
+              
+                
+                  
+                  
+                    2
+                  
+                  
+                    0
+                  
+                
+              
+              
+                S
+              
+              +
+              31
+               
+              
+                
+                  
+                  
+                    2
+                  
+                  
+                    1
+                  
+                
+              
+              
+                S
+              
+              ]
+            
+          
+        
+      
+    
+    {\displaystyle R_{S}(t)={\frac {465\ {_{2}^{1}}{\ce {S}}}{14[63\ {_{2}^{0}}{\ce {S}}+31\ {_{2}^{1}}{\ce {S}}]}}}
+  
+  
+    
+      
+        α
+        (
+        t
+        )
+        =
+        
+          
+            
+              14
+              
+                
+                  K
+                  
+                    1
+                  
+                  
+                    
+                  
+                
+              
+              
+                
+                  k
+                
+                
+                  3
+                  (
+                  2
+                  )
+                
+              
+              [
+              63
+               
+              
+                
+                  
+                  
+                    2
+                  
+                  
+                    0
+                  
+                
+              
+              
+                S
+              
+              +
+              31
+               
+              
+                
+                  
+                  
+                    2
+                  
+                  
+                    1
+                  
+                
+              
+              
+                S
+              
+              ]
+            
+            
+              31
+              [
+              29
+              
+                
+                  K
+                  
+                    2
+                  
+                  
+                    
+                  
+                
+              
+              
+                
+                  k
+                
+                
+                  3
+                  (
+                  1
+                  )
+                
+              
+               
+              
+                
+                  
+                  
+                    2
+                  
+                  
+                    0
+                  
+                
+              
+              
+                S
+              
+              +
+              14
+              
+                
+                  K
+                  
+                    1
+                  
+                  
+                    
+                  
+                
+              
+              
+                
+                  k
+                
+                
+                  3
+                  (
+                  2
+                  )
+                
+              
+               
+              
+                
+                  
+                  
+                    2
+                  
+                  
+                    0
+                  
+                
+              
+              
+                S
+              
+              ]
+            
+          
+        
+      
+    
+    {\displaystyle \alpha (t)={\frac {14{\ce {K1}}{k}_{3(2)}[63\ {_{2}^{0}}{\ce {S}}+31\ {_{2}^{1}}{\ce {S}}]}{31[29{\ce {K2}}{k}_{3(1)}\ {_{2}^{0}}{\ce {S}}+14{\ce {K1}}{k}_{3(2)}\ {_{2}^{0}}{\ce {S}}]}}}
+  where 
+  
+    
+      
+        
+          
+            K
+            
+              3
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {K3}}}
+   has been substituted with 
+  
+    
+      
+        
+          
+            K
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {K2}}}
+   because the rate
+constants in the third reaction have been assumed to equal those
+of the second reaction.
+
+See also
+Equilibrium fractionation
+Isotope electrochemistry
+
+
+== References ==

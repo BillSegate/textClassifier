@@ -1,0 +1,22 @@
+Obrigheim Nuclear Power Plant (KWO) is a nuclear power plant currently in the decommissioning phase. The plant is located in Obrigheim, Neckar-Odenwald-Kreis, on the banks of the Neckar and owned by EnBW. It operated a pressurized water reactor unit from 1969 to 2005. The defuelling process was completed in 2007, with spent fuel rods awaiting transport to an interim storage facility. In March 2017, EnBW tested the shipment of numerous castors by a barge on the Neckar to Neckarwestheim Nuclear Power Plant.
+
+History 1959-2005
+On May 5, 1955, the Federal Republic of Germany, with the French occupation force, started to work in earnest towards peaceful use of nuclear energy. The district of Bavaria and Baden-Württemberg were particularly interested in this development. In 1957 the Arbeitsgemeinschaft Kernkraft Stuttgart (AKS) group was created in Baden-Württemberg. The minister-president and minister of the economics of Baden-Württemberg at the time, Hermann Veit took over the project of establishing a nuclear power plant, and looked towards the Calder Hall Gas cooled reactor in England for a design.In the spring of 1959, AKS chose an unusual reactor design: the organically moderated and cooled reactor (OMR). When the much smaller AEC demonstration facility at Piqua, Ohio suffered severe problems, they switched to a light water reactor in 1962.The reactor was built with a US license and public funding, and went online in 1969.During the 2003 European heat wave, Obrigheim was shut down due to high water temperature in the river.It was permanently shut down in 2005, having produced 90 billion kWh.
+
+Decommissioning, 2005-present
+Since 2005 the EnBW owned nuclear power in Obrigheim has been in the process of decommissioning; the spent fuel rods have been in wet storage since 2007. The salient barrier is a missing final repository for the 342 highly radioactive fuel rods. Obrigheim had an interim storage facility between 1998 and 2007. For EnBW not to have to build one, the fuel rods needed to be shipped to the Neckarwestheim Nuclear Power Plant, which is about 40 kilometers away and still had space in its temporary storage. EnBW had considered transport by road, by rail and by barge. The former two options did not apply absent a nearby train connection, and road transport is complicated by single-lane roads through a densely populated area, where large-scale barriers would have to be made.Since both nuclear plants were built on the banks of the Neckar, barge transport appeared to be the preferred way in spite of the 23 bridges and six locks it must pass. Even the green environment ministry in Baden-Württemberg saw the waterway as the best solution, but the Bundesministerium für Umwelt had critics. For the first time in Germany´s history, highly radioactive waste was transported on a river.Protests against the castor transports on the river had been arising. About 650 people followed a call for the "Neckar castorfrei" campaign to protest and march as "a sign before the anniversary of the Fukushima disaster of March 11, 2011".The remaining waste water was evaporated.
+
+Hardware features
+The electric power was transported by a single power line to Hüffenhardt substation. The power line carried four circuits, two for 220 kV and two for 110 kV. The circuits for 110  kV were mounted on the lowest of the three crossbars of the pylons, and the circuits for 220 kV on the middle and the upper crossbar of the pylons.An unusual feature of the power line between the pylons is that insulators are mounted between the conductors to prevent short circuits by too close a conductor clearance with strong winds.To monitor radioactivity there were two meteorological towers, built as lattice steel masts. One of them was built in 1977/78 between the village of Asbach and Kirstätter Hof at 49 20 30 N and 9 02 47 E. In 2001, the 169 metres tall mast was demolished by explosives. A free-standing mobile phone transmission tower made of prefabricated concrete was built on its site. The other meteorological tower erected in 1962 is 99 metres tall, located close to the power plant, and still in use.
+
+See also
+Anti-nuclear movement in Germany
+
+References
+Bibliography
+Shirvan, Koroush; Forrest, Eric (August 2016). "Design of an Organic Simplified Nuclear Reactor". Nuclear Engineering and Technology. 48 (4): 893–905. doi:10.1016/j.net.2016.02.019.
+
+External links
+Performance numbers
+List of science articles
+List of events

@@ -1,0 +1,25 @@
+Copenhagen Atomics is a Danish molten salt technology company developing mass manufacturable molten salt reactors. The company is pursuing small modular, molten fuel salt, thorium fuel cycle, thermal spectrum, breeder reactors using separated plutonium from spent nuclear fuel as the initial fissile load for the first generation of reactors.Copenhagen Atomics' headquarters and production facility is located in Kastrup close to Copenhagen Airport.
+
+History
+Copenhagen Atomics was founded in 2014 by a group of scientists and engineers meeting at Technical University of Denmark and around the greater Copenhagen area for discussions on thorium and molten salt reactors, who later incorporated in 2015.
+In 2016, Copenhagen Atomics was part of MIMOSA, a European nuclear molten salt research consortium.Copenhagen Atomics became the first private company in 2017, to offer a commercial molten salt loop.By the end of 2022, Copenhagen Atomics finished a full-size prototype reactor. The prototype is a full-scale test platform, to test the system in its entirety, with water as its medium. In 2023 a full-scale prototype molten salt reactor will be built to test the entire system with non-radioactive molten salts.In May 2023, Copenhagen Atomics signed a memorandum of understanding with the Scandinavian companies Topsoe, Alfa Laval and Aalborg CSP, and Indonesian companies Pupuk Kalimantan Timur and Pertamina New and Renewable Energy, with the prospect of establishing a green ammonia plant in Bontang, Indonesia. The plant will be capable of producing 1 million tonnes of ultra-low emission ammonia annually, which will save the emission of 1.7 million tonnes of carbon dioxide per year.In 2023, Copenhagen Atomics moved out of the Alfa Laval Innovation House, to new headquaters and production facilities in Kastrup.
+
+Research and development
+Copenhagen Atomics is pursuing a hardware-driven iterative component-by-component approach to reactor development, instead of a full design license and approval approach. Copenhagen Atomics is actively developing and testing valves, pumps, heat exchangers, measurement systems, salt chemistry and purification systems, and control systems and software for molten salt applications.
+The company has also developed the world's only canned molten salt pump and are developing an active electromagnetic bearing canned molten salt pump.Copenhagen Atomics offers many of their technologies commercially available to the market. This includes pumped molten salt loops for use in molten salt reactor research, as well as highly purified salts for high temperature concentrated solar power, molten salt energy storage, and molten salt chemistry research.
+
+Environmental Impact
+According to the website Thorium Energy World: "The CAWB [ed. Copenhagen Atomics Waste Burner] will use thorium to burn out actinides from spent nuclear fuel in order to convert long-lived radioactive waste into short-lived radioactive waste, while producing large amounts of energy and jobs in present time."
+
+See also
+Molten Salt Reactor
+Molten Salt Reactor Experiment
+Liquid fluoride thorium reactor
+Thorium
+
+References
+External links
+Official website
+Linkedin
+YouTube
+GitHub

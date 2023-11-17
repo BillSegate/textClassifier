@@ -1,8 +1,0 @@
-In mathematics, Lehrbuch der Topologie (German for "textbook of topology") is a book by Herbert Seifert and William Threlfall, first published in 1934 and published in an English translation in 1980. It was one of the earliest textbooks on algebraic topology, and was the standard reference on this topic for many years.
-Albert W. Tucker wrote a review.
-
-Notes
-References
-Herreman, Alain (2005), "Chapter 76. H. Seifert and W. Threlfall (1934) and P. S. Alexandroff and H. Hopf (1935) Books on Topology", in Grattan-Guinness, Ivor (ed.), Landmark writings in western mathematics 1640--1940, Elsevier B. V., Amsterdam, p. 970, ISBN 978-0-444-50871-3, MR 2169816
-Seifert, Herbert; Threlfall, William (1934), Lehrbuch der Topologie, vol. 89, Leipzig: Teubner, ISBN 9780821835951, MR 0575168 Reprinted by Chelsea Publishing Company 1947 and AMS 2004.
-Seifert, Herbert; Threlfall, William (1980), Goldman, Michael A.; Birman, Joan S. (eds.), Seifert and Threlfall: a textbook of topology, Pure and Applied Mathematics, vol. 89, London: Academic Press Inc. [Harcourt Brace Jovanovich Publishers], ISBN 978-0-12-634850-7, MR 0575168

@@ -1,0 +1,16 @@
+A gamma probe is a handheld device containing a scintillation counter, for intraoperative use following injection of a radionuclide, to locate sentinel lymph nodes by their radioactivity. It is used primarily for sentinel lymph node mapping and parathyroid surgery. Gamma probes are also used for RSL (radioactive seed localization), to locate small and non-palpable breast lesions.: 243
+
+History
+The sentinel node market experienced high growth in the early and mid 1990s starting with melanoma sentinel node surgical search and breast cancer sentinel node staging; both are currently considered standards of care. The use of a radioactive tracer, rather than a coloured dye, was proposed in 1984.
+
+Clinical use
+To locate the draining lymph nodes or sentinel lymph node from a breast cancer tumour a Technetium-99m based radiopharmaceutical is common. This may be a nanocolloid or sestamibi. Although imaging with a gamma camera may also take place, the idea of a small gamma probe is that it can be used to identify lymph nodes (or other sites) with uptake at a much higher resolution, during an operation. The probe may be collimated to further restrict the field of detection.
+
+See also
+Nuclear medicine
+Molecular Imaging
+
+References
+External links
+Video on SLN Archived 2009-05-10 at the Wayback Machine
+Video on Sentinel Node Mapping in Melanoma

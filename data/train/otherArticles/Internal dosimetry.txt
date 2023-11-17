@@ -1,0 +1,42 @@
+Internal dosimetry is the science and art of internal ionising radiation dose assessment due to radionuclides incorporated inside the human body.Radionuclides deposited within a body will irradiate tissues and organs and give rise to committed dose until they are excreted from the body or the radionuclide is completely decayed.
+The internal doses for workers or members of the public exposed to the intake of radioactive particulates can be estimated using bioassay data such as lung and body counter measurements, urine or faecal radioisotope concentration, etc. The International Commission on Radiological Protection (ICRP) biokinetic models are applied to establish a relationship between the individual intake and the bioassay measurements, and then to infer the internal dose.
+
+Committed dose
+The internal radiation dose due to injection, ingestion or inhalation radioactive substances is known as committed dose.
+The ICRP defines Committed effective dose, E(t) as the sum of the products of the committed organ or tissue equivalent doses and the appropriate tissue weighting factors WT, where t is the integration time in years following the intake. The commitment period is taken to be 50 years for adults, and to age 70 years for children. The ICRP further states "For internal exposure, committed effective doses are generally determined from an assessment of the intakes of radionuclides from bioassay measurements or other quantities (e.g., activity retained in the body or in daily excreta). The radiation dose is determined from the intake using recommended dose coefficients".
+
+Routes of intake
+There are a few routes of intake (of radionuclide) namely,
+
+Inhalation
+Ingestion
+Injection
+AbsorptionIn a radioactive area, radionuclide particulate may be suspended in the air and can enter the body by inhalation. These particulates may be deposited in different parts of the respiratory tract depending upon their aerodynamic diameter.
+
+Monitoring techniques
+In-vivo monitoring 
+Internal dose monitoring of the radionuclides which emit radiation which can penetrate out of the body. For example X-rays, gamma rays of sufficient energy. It can be measured by devices such as a whole body counter.
+A whole body counter has a low background arrangement with counting systems
+
+NaI(Tl) detectors for high energy photon detection
+Phoswich detectors with Be window and thin NaI(Tl)crystal and thick CsI(Tl)or CsI(Na), for low energy (<100 keV) photon detectionHPGe detectors are replacing detectors for measuring the low energy and high energy photons with appropriate electronic systems.
+Calibration of these systems is carried out with different type of physical and mathematical phantoms. Physical phantoms include BOMAB, LLNL, JAERI, thyroid and the knee phantoms. Some of the renowned mathematical phantoms are MIRD, CRISTY and nowadays voxel phantoms also known as Computational human phantoms.
+In-vitro monitoringMonitoring of the radionuclides present in the body using the bio-assay sample taken out of the body; this includes samples of urine, sweat, feces, etc.
+
+Biokinetic modelling
+The ICRP models are used to simulate the distribution of the isotopes inside the human being. All current ICRP models, compiled in the OIR (ICRP134/137) data viewer, can be represented by compartmental systems with constant coefficients. The conceptual model used by ICRP can be summarized as it follows.
+The human body can be divided into three systems: 
+a) The human respiratory tract model (HRTM).  This model is applied for modeling the intake of radioactive aerosols by inhalation. The detailed description is given in ICRP 130 (2016) updating the ICRP 66 (1994). If a person inhales instantaneously a quantity I, it is deposited directly in some compartments of the HRTM. The fraction deposited in each compartment is called Initial Deposition Fraction or IDF. It is a function of Activity Median Aerodynamic Diameter (AMAD), which includes size, shape, density, anatomical and physiological parameters as well as various conditions of exposure. The IDF values may be calculated either following the procedure described in ICRP 130/66  or obtaining it from their Annex. The general model of the HRTM is common to any element except the absorption rates {fr, ss, sr} which are related to the chemical form of the element. ICRP gives default values of absorption rates according to types F, M or S, but specific value for some compounds are available in ICRP 134 and ICRP 137.  
+b) The Human Alimentary Tract Model (HATM). This is applied for modeling the intake of particles in the GI tract following the model provided ICRP 105 (ICRP 2005). Particles can be introduced in the GI Tract directly by ingestion, or from the RT. Deposition is in the stomach (ST). Part or all the flow is transferred, through SI, to the blood (B). The rate transfer from SI to B, is given by fA. The value of fA is associated to the element and their chemical form.
+c) Systemic compartments.  They are specific compartments to be applied for an element. Current models are described in ICRP 134 and ICRP 137. A few computer codes have been developed to estimate intake and calculate internal dose using biassay data.
+
+Bioassay evaluations
+Biokinetic modeling is widely used in internal dosimetry and to evaluate bioassay data. Computer programs can be used for bioassay evaluations. The bioassay measurement values can be used to estimate unknown intake.
+
+See also
+Committed dose
+Sievert - the measure of health effect due to low radiation doses. Also contains a description of the various dose quantities.
+
+References
+External links
+ICRP website

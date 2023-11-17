@@ -1,0 +1,26 @@
+PET response criteria in solid tumors (PERCIST) is a set of rules that define when tumors in cancer patients improve ("respond"), stay the same ("stabilize"), or worsen ("progress") during treatment, using positron emission tomography (PET). The criteria were published in May 2009 in the Journal of Nuclear Medicine (JNM). A pooled analysis from 2016 concluded that its application may give rather different results from RECIST, and might be a more suitable tool for understanding tumor response to treatment.
+
+Details
+Complete metabolic response (CMR)
+
+Complete resolution of 18F-FDG uptake within the measurable target lesion so that it is less than mean liver activity and at the level of surrounding background blood pool activity.
+Disappearance of all other lesions to background blood pool levels.
+No new suspicious 18F-FDG avid lesions.
+If progression by RECIST must verify with follow upPartial metabolic response (PMR)
+
+Reduction of a minimum of 30% in target measurable tumor 18F-FDG SUL peak, with absolute drop in SUL of at least 0.8 SUL units.
+No increase >30% of SUL or size in all other lesions
+No new lesionsStable metabolic disease (SMD)
+
+Not CMR, PMR, or Progressive metabolic disease (PMD)
+No new lesionsProgressive metabolic disease (PMD)
+
+>30% increase in 18F-FDG SUL peak, with >0.8 SUL units increase in tumor SUV peak from the baseline scan in pattern typical of tumor and not of infection/treatment effect.
+or Visible increase in the extent of 18F-FDG tumor uptake.
+or New 18F-FDG avid lesions which are typical of cancer and not related to treatment effect or infection.
+
+See also
+Response evaluation criteria in solid tumors
+
+
+== References ==

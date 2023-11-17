@@ -1,0 +1,340 @@
+In fluid thermodynamics, nucleate boiling is a type of boiling that takes place when the surface temperature is hotter than the saturated fluid temperature by a certain amount but where the heat flux is below the critical heat flux. For water, as shown in the graph below, nucleate boiling occurs when the surface temperature is higher than the saturation temperature (TS) by between 10 and 30 °C (18 and 54 °F). The critical heat flux is the peak on the curve between nucleate boiling and transition boiling. The heat transfer from surface to liquid is greater than that in film boiling.
+Nucleate boiling is common in electric kettles and is responsible for the noise that occurs before boiling occurs. It also occurs in water boilers where water is rapidly heated.
+
+Mechanism
+Two different regimes may be distinguished in the nucleate boiling range. When the temperature difference is between approximately 4 to 10 °C (7.2 to 18.0 °F) above TS, isolated bubbles form at nucleation sites and separate from the surface. This separation induces considerable fluid mixing near the surface, substantially increasing the convective heat transfer coefficient and the heat flux. In this regime, most of the heat transfer is through direct transfer from the surface to the liquid in motion at the surface and not through the vapor bubbles rising from the surface.
+Between 10 and 30 °C (18 and 54 °F) above TS, a second flow regime may be observed. As more nucleation sites become active, increased bubble formation causes bubble interference and coalescence. In this region the vapor escapes as jets or columns which subsequently merge into slugs of vapor.
+Interference between the densely populated bubbles inhibits the motion of liquid near the surface. This is observed on the graph as a change in the direction of the gradient of the curve or an inflection in the boiling curve. After this point, the heat transfer coefficient starts to reduce as the surface temperature is further increased although the product of the heat transfer coefficient and the temperature difference (the heat flux) is still increasing.
+When the relative increase in the temperature difference is balanced by the relative reduction in the heat transfer coefficient, a maximum heat flux is achieved as observed by the peak in the graph. This is the critical heat flux. At this point in the maximum, considerable vapor is being formed, making it difficult for the liquid to continuously wet the surface to receive heat from the surface. This causes the heat flux to reduce after this point. At extremes, film boiling commonly known as the Leidenfrost effect is observed.
+
+The process of forming steam bubbles within liquid in micro cavities adjacent to the wall if the wall temperature at the heat transfer surface rises above the saturation temperature while the bulk of the liquid (heat exchanger) is subcooled. The bubbles grow until they reach some critical size, at which point they separate from the wall and are carried into the main fluid stream. There the bubbles collapse because the temperature of bulk fluid is not as high as at the heat transfer surface, where the bubbles were created. This collapsing is also responsible for the sound a water kettle produces during heat up but before the temperature at which bulk boiling is reached.
+Heat transfer and mass transfer during nucleate boiling has a significant effect on the heat transfer rate. This heat transfer process helps quickly and efficiently to carry away the energy created at the heat transfer surface and is therefore sometimes desirable—for example in nuclear power plants, where liquid is used as a coolant.
+The effects of nucleate boiling take place at two locations:
+
+the liquid-wall interface
+the bubble-liquid interfaceThe nucleate boiling process has a complex nature. A limited number of experimental studies provided valuable insights into the boiling phenomena, however these studies provided often contradictory data due to internal recalculation (state of chaos in the fluid not applying to classical thermodynamic methods of calculation, therefore giving wrong return values) and have not provided conclusive findings yet to develop models and correlations. Nucleate boiling phenomenon still requires more understanding.
+
+Boiling heat transfer correlations
+The nucleate boiling regime is important to engineers because of the high heat fluxes possible with moderate temperature differences. The data can be correlated by an equation of the form
+  
+    
+      
+        
+          
+            N
+            u
+          
+          
+            b
+          
+        
+        =
+        
+          C
+          
+            f
+            c
+          
+        
+        (
+        
+          
+            R
+            e
+          
+          
+            b
+          
+        
+        ,
+        
+          
+            P
+            r
+          
+          
+            L
+          
+        
+        )
+      
+    
+    {\displaystyle \mathrm {Nu} _{b}=C_{fc}(\mathrm {Re} _{b},\mathrm {Pr} _{L})}
+  
+Where Nu is the Nusselt number, defined as:
+
+  
+    
+      
+        
+          
+            N
+            u
+          
+          
+            b
+          
+        
+        =
+        
+          
+            
+              (
+              q
+              
+                /
+              
+              A
+              )
+              
+                D
+                
+                  b
+                
+              
+            
+            
+              (
+              
+                T
+                
+                  s
+                
+              
+              −
+              
+                T
+                
+                  
+                    s
+                    a
+                    t
+                  
+                
+              
+              )
+              
+                k
+                
+                  L
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Nu} _{b}={\frac {(q/A)D_{b}}{(T_{s}-T_{\mathrm {sat} })k_{L}}}}
+  
+where: 
+
+q/A is the total heat flux,
+Db is the maximum bubble diameter as it leaves the surface,
+Ts – Tsat is the excess temperature,
+kL is the thermal conductivity of the liquid,
+PrL is the Prandtl number of the liquid,
+Reb is the bubble Reynolds number, 
+  
+    
+      
+        
+          
+            R
+            e
+          
+          
+            b
+          
+        
+        =
+        
+          
+            
+              
+                
+                  D
+                  
+                    b
+                  
+                
+                
+                  G
+                  
+                    b
+                  
+                
+              
+              
+                μ
+                
+                  L
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \mathrm {Re} _{b}={\tfrac {D_{b}G_{b}}{\mu _{L}}},}
+   where:
+Gb is the average mass velocity of the vapor leaving the surface
+μL is the liquid viscosity.Rohsenow has developed the first and most widely used correlation for nucleate boiling,
+  
+    
+      
+        
+          
+            q
+            A
+          
+        
+        =
+        
+          μ
+          
+            L
+          
+        
+        
+          h
+          
+            f
+            g
+          
+        
+        
+          
+            [
+            
+              
+                
+                  g
+                  (
+                  
+                    ρ
+                    
+                      L
+                    
+                  
+                  −
+                  
+                    ρ
+                    
+                      v
+                    
+                  
+                  )
+                
+                σ
+              
+            
+            ]
+          
+          
+            
+              1
+              2
+            
+          
+        
+        
+          
+            [
+            
+              
+                
+                  
+                    c
+                    
+                      p
+                      L
+                    
+                  
+                  
+                    (
+                    
+                      
+                        T
+                        
+                          s
+                        
+                      
+                      −
+                      
+                        T
+                        
+                          
+                            s
+                            a
+                            t
+                          
+                        
+                      
+                    
+                    )
+                  
+                
+                
+                  
+                    C
+                    
+                      s
+                      f
+                    
+                  
+                  
+                    h
+                    
+                      f
+                      g
+                    
+                  
+                  
+                    
+                      P
+                      r
+                    
+                    
+                      L
+                    
+                    
+                      n
+                    
+                  
+                
+              
+            
+            ]
+          
+          
+            3
+          
+        
+      
+    
+    {\displaystyle {\frac {q}{A}}=\mu _{L}h_{fg}\left[{\frac {g(\rho _{L}-\rho _{v})}{\sigma }}\right]^{\frac {1}{2}}\left[{\frac {c_{pL}\left(T_{s}-T_{\mathrm {sat} }\right)}{C_{sf}h_{fg}\mathrm {Pr} _{L}^{n}}}\right]^{3}}
+  
+where:
+
+cpL is the specific heat of the liquid,
+Csf is the surface fluid combination and vary for various combinations of fluid and surface,
+σ is the surface tension of the liquid-vapor interface.The variable n depends on the surface fluid combination and typically has a value of 1.0 or 1.7. For example, water and nickel have a Csf of 0.006 and n of 1.0.
+
+Departure from nucleate boiling
+If the heat flux of a boiling system is higher than the critical heat flux (CHF) of the system, the bulk fluid may boil, or in some cases, regions of the bulk fluid may boil where the fluid travels in small channels. Thus large bubbles form, sometimes blocking the passage of the fluid. This results in a departure from nucleate boiling (DNB) in which steam bubbles no longer break away from the solid surface of the channel, bubbles dominate the channel or surface, and the heat flux dramatically decreases. Vapor essentially insulates the bulk liquid from the hot surface.
+During DNB, the surface temperature must therefore increase substantially above the bulk fluid temperature in order to maintain a high heat flux. Avoiding the CHF is an engineering problem in heat transfer applications, such as nuclear reactors, where fuel plates must not be allowed to overheat. DNB may be avoided in practice by increasing the pressure of the fluid, increasing its flow rate, or by utilizing a lower temperature bulk fluid which has a higher CHF. If the bulk fluid temperature is too low or the pressure of the fluid is too high, nucleate boiling is however not possible.
+DNB is also known as transition boiling, unstable film boiling, and partial film boiling. For water boiling as shown on the graph, transition boiling occurs when the temperature difference between the surface and the boiling water is approximately 30 to 130 °C (54 to 234 °F) above the TS. This corresponds to the high peak and the low peak on the boiling curve. The low point between transition boiling and film boiling is the Leidenfrost point.
+During transition boiling of water, the bubble formation is so rapid that a vapor film or blanket begins to form at the surface. However, at any point on the surface, the conditions may oscillate between film and nucleate boiling, but the fraction of the total surface covered by the film increases with increasing temperature difference. As the thermal conductivity of the vapor is much less than that of the liquid, the convective heat transfer coefficient and the heat flux reduces with increasing temperature difference.
+
+See also
+Boiling
+Cavitation
+Chemical engineering
+Fluid physics
+Heat transfer
+Leidenfrost effect
+Sonoluminescence
+
+
+== References ==

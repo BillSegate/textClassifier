@@ -1,0 +1,4 @@
+In the field of nuclear engineering, absorption hardening is the increase in average energy of neutrons in a population by preferential absorption of lower-energy neutrons. This occurs because absorption cross-sections typically increase for lower neutron energies.
+
+References
+Weston M. Stacey, Nuclear Reactor Physics, 2nd ed. (Wiley-VCH, 2007)

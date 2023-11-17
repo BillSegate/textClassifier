@@ -1,0 +1,31 @@
+Non-exhaust emissions come from wearing down motor vehicle brake pads, tires, roads themselves, and unsettling of particles on the road.  This particulate matter is made up of micrometre-sized particles and causes negative health effects, including respiratory disease and cancer.  Very fine particulate matter has been linked to cardiovascular disease. Multiple epidemiological studies have demonstrates that particulate matter exposure is associated with acute respiratory infections, lung cancer, and chronic respiratory and cardiovascular disease.  Researchers have also found correlations between exposure to fine particulate matter and fatality rates in previous coronavirus epidemics. Studies have shown that non-exhaust emissions of particles from vehicles can be greater than particles due to exhaust.
+
+Types of emissions
+Brake wear gets released into the air as particulate matter.Standard frictional brakes on a vehicle function by virtue of the friction between a brake pad and a rotating disc or drum when the two are forced together by application of pressure to the braking system. The frictional process causes abrasion both of the brake pad and of the surface of the disc or drum leading to the release of particles, a substantial fraction of which become airborne.
+Particles on the road get thrown or blown into the air.Emissions from road dust suspension depend on a vehicles speed, size and shape, the porosity and amount of dust on road surfaces, as well as weather conditions. Considerable uncertainty remains regarding the amount of PM that is emitted by non-exhaust sources in real world driving conditions and how this amount varies with changes in the factors identified above. 
+Rubber pollution gets released into the air.The surface of a tire when in contact with the road is steadily abraded by contact with the road surface. This leads to release of large quantities of small rubber particles which cover a wide ranges of sizes. 
+The road itself wears and releases particulate matter into the air.The friction between the tire surface and the road surface which leads to tire abrasion is also liable to abrade the road surface, especially where this is already fragmenting. Hence, road surface wear particles are also released to the atmosphere.
+
+Ways of reducing emissions
+More comprehensive regulation of tires has been suggested. Lighter vehicles pollute less  and reducing vehicle kilometers traveled is another method of mitigating non-exhaust emissions. Reducing demand for private vehicle travel can be accomplished by a variety of measures that increase the relative attractiveness of public transport and non-motorized modes relative to private vehicles. These measures can consist of disincentives for private vehicle ownership and use, i.e. measures that raise their costs and/or inconvenience, as well as incentives for alternative modes (e.g. public transit, walking, and biking).
+
+Electric and hybrid vehicles
+Electric vehicles and hybrid vehicles with regenerative braking do not emit the same level of brake wear, but as of 2022 were heavier than ICE vehicles so still give off more coarse (PM10) particles from re-suspended road particles, road wear, and tire wear.
+
+Regulatory agencies and policies that target exhaust emissions
+Very few agencies are charged with implementing exhaust emission standards for non-exhaust emissions.  Most policies target exhaust emissions and do not regulate non-exhaust particulate matter emissions. As of 2023 Euro 7 standards are still being argued about.
+
+See also
+Air quality law
+European emission standards
+Exhaust gas
+Ontario's Drive Clean
+Partial zero-emissions vehicle
+Phase-out of fossil fuel vehicles
+Roadway air dispersion modeling
+United States vehicle emission standards
+Vehicle emission standard
+Vehicle inspection
+
+
+== References ==

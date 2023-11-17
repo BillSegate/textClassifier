@@ -1,0 +1,18 @@
+Tributyl phosphate, known commonly as TBP, is an organophosphorus compound with the chemical formula (CH3CH2CH2CH2O)3PO.  This colourless, odorless liquid finds some applications as an extractant and a plasticizer.  It is an ester of phosphoric acid with n-butanol.
+
+Production
+Tributyl phosphate is manufactured by reaction of phosphoryl chloride with n-butanol.
+POCl3  +  3 C4H9OH  →   PO(OC4H9)3  +  3 HClProduction is estimated at 3,000–5,000 tonnes worldwide.
+
+Use
+TBP is a solvent and plasticizer for cellulose esters such as nitrocellulose and cellulose acetate. It is also used as a flame retardant for cellulose fabrics such as cotton. It forms stable hydrophobic complexes with some metals; these complexes are soluble in organic solvents as well as supercritical CO2.  The major uses of TBP in industry are as a component of aircraft hydraulic fluid, brake fluid, and as a solvent for extraction and purification of rare-earth metals from their ores.TBP finds its use as a solvent in inks, synthetic resins, gums, adhesives (namely for veneer plywood), and herbicide and fungicide concentrates.
+As it has no odour, it is used as an anti-foaming agent in detergent solutions, and in various emulsions, paints, and adhesives. It is also found as a de-foamer in ethylene glycol-borax antifreeze solutions.  In oil-based lubricants addition of TBP increases the oil film strength. It is used also in mercerizing liquids, where it improves their wetting properties.  It can be used as a heat-exchange medium. TBP is used in some consumer products such as herbicides and water-thinned paints and tinting bases.
+
+Nuclear chemistry
+Tributyl phosphate is used in combination with di(2-ethylhexyl)phosphoric acid for the solvent extraction of uranium, as part of the purification of natural ores. It is also used in nuclear reprocessing as part of the PUREX process. A 15–40% (usually about 30%) solution of tributyl phosphate in kerosene or dodecane is used in the liquid–liquid extraction (solvent extraction) of uranium, plutonium, and thorium from spent uranium nuclear fuel rods dissolved in nitric acid.
+
+Hazards
+In contact with concentrated nitric acid the TBP-kerosene solution forms hazardous and explosive red oil.
+
+
+== References ==

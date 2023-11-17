@@ -1,0 +1,19 @@
+A Gravel Gertie is a type of bunker designed to provide containment during the nuclear weapons assembly process, when the plutonium or highly enriched uranium "pit" is mated with the high explosive components and wired into the electronics (the "physics package") of the warhead.
+
+Design
+The Gravel Gertie was developed for the Atomic Energy Commission in 1957 by Sandia National Laboratories. It was named after the character of the same name from the Dick Tracy comics; the compressed mass of gravel forming the ceiling of the bunker reportedly reminded researchers of Gertie's grey, curly hair. A modification of existing domed munitions bunkers, the Gravel Gertie was designed specifically to contain nuclear materials in the event of a catastrophic "low order" detonation of a bomb being serviced. A full nuclear detonation was highly unlikely and impossible to design against, but high-ton/low-kiloton level "fizzles" were a very real risk during assembly, disassembly and maintenance, especially when servicing older designs with fewer redundant failsafes and more room for error.
+A Gravel Gertie has thick reinforced concrete walls and roof, but a large vent in the top to prevent the shell from rupturing in an explosion. Below the roof, however, is approximately 7 metres of loosely compressed porous gravel suspended from steel cables above a false ceiling over the work area. In the event of an explosion, the mass of gravel is designed to compress and move upward with the initial blast, sealing the hole in the roof while allowing some of the gas pressure to escape by passing through the gravel. This "filters" the escaping gases and prevents the building from rupturing. The mass of gravel then falls down into the room when the gases cool, trapping large amounts of radioactive particles under and within the gravel, further minimizing leakage. The design specification called for an ability to "sufficiently contain" a 1 kiloton fizzle.
+
+Effects
+According to tests at Sandia, the Gravel Gertie successfully reduced the expected level of external airborne contamination by a factor of 10, which was considered satisfactory to limit exposure to the immediate area. The bunkers were installed at all US and British facilities that performed warhead arming and de-arming.
+The distinctive shape of the Gertie also makes it impossible to conceal its purpose from outside observers, however.
+
+Retirement
+Since all Gravel Gerties currently in service were built during the 1950s and 60s, they have begun to break down from years of wear. In July 1994 the Dallas Morning News reported that the 13 Gerties at Pantex were showing gaps as large as 3/4" around their entry doors due to repetitive wear and were unable to be sealed, thus negating their likely value in an explosion. These gaps were first noted as far back as 1983, and had continued getting worse with use. A follow-up inspection in 2005 also found peeling door sealant, structural cracks and faulty welding. The four Gerties at the Atomic Weapons Establishment's assembly plant at Burghfield (UK) were also reported to be in bad condition in 2008, and were slated for replacement as soon as possible.
+
+External links
+http://wiki.worldflicks.org/gravel_gertie_bunkers,_rof_burghfield.html Archived 2014-01-03 at the Wayback Machine - Aerial photograph of Gravel Gerties at AWE Burghfield, Burghfield, UK.
+Where Nuclear Weapons Go to Die - article in Foreign Policy
+
+
+== References ==

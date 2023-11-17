@@ -1,0 +1,37 @@
+Atomic vapor laser isotope separation, or AVLIS, is a method by which specially tuned lasers are used to separate isotopes of uranium using selective ionization of hyperfine transitions. A similar technology, using molecules instead of atoms, is molecular laser isotope separation (MLIS).
+Natural uranium consists of a large mass of 238U and a much smaller mass of fissile 235U. Traditionally, the 235U is separated from the mass by dissolving it in acid to produce uranium hexafluoride and then using gas centrifuges to separate the isotopes. Each trip through the centrifuge "enriches" the amount of 235U and leaves behind depleted uranium. In contrast, AVLIS produces much higher enrichment in a single step without the need to mix it with acid. The technology could, in principle, also be used for isotope separation of other elements, which is uneconomic outside specialist applications with current non-laser-based technologies for most elements.
+As the process does not require the feedstock to be chemically processed before enrichment, it is also suitable for use with used nuclear fuel from light water reactors and other nuclear waste. At present, extracting 235U from those sources is only economical up to a degree, leaving tons of 235U still contained in waste products. AVLIS may offer an economic way to reprocess even the fuel that has undergone one cycle of reprocessing using existing methods.Due to the possibility of achieving much higher enrichment with much lower energy needs than conventional centrifuge based methods of uranium enrichment, AVLIS is a concern for nuclear proliferation. To date, no commercial-scale AVLIS production line is known to be in use.
+
+Principle
+The basic concept behind the AVLIS system is to selectively ionize the desired atoms in a vaporized source material. As the energy levels of the electrons are affected by the nuclear structure, causing the hyperfine structure, different isotopes have different energy levels. The designers pick a particular electron energy where the difference between isotopes is maximized and the energy level can be practically produced with a laser. The laser light causes the chosen electron to be photoexcited and thus ionize the atom, leaving it electrically charged. The ion can then be manipulated with electrostatic or magnetic fields. Other isotopes, which subtly different energy levels, will not be ionized and remain in the original mix.
+The choice of target electron has changed during the development of AVLIS as newer laser technologies have been developed. Early work generally focused on electrons in the 16 micron band, which could be efficiently produced using CO2 lasers which were emerging in the late 1960s. However, the transitions in this area were closely spaced which made it difficult to select due to Doppler broadening, requiring the vapor to be cooled with a complex expansion system. The introduction of lasers working at tunable frequencies, typically dye lasers, allowed the selection of more convenient excitations. Modern systems typically use the 238U absorption peak of 502.74 nanometers shifts to 502.73 nm in 235U.
+The AVLIS system consists of a vaporizer and a collector, forming the separation system, and the laser system. The vaporizer produces a stream of pure gaseous uranium.
+
+Laser excitation
+The laser commonly used is a two-stage tunable pulsed dye laser usually pumped by a copper vapor laser; the master oscillator is tunable, narrow-linewidth, low noise, and highly precise. Its power is significantly increased by a dye laser amplifier acting as optical amplifier. Three frequencies ("colors") of lasers are used for full ionization of uranium-235.For AVLIS in other elements, such as lithium, tunable narrow-linewidth diode lasers are used.
+
+Commercialization and international significance
+In the largest technology transfer in U.S. government history, in 1994 the AVLIS process was transferred to the United States Enrichment Corporation for commercialization. However, on 9 June 1999 after a $100 million investment, USEC cancelled its AVLIS program.
+AVLIS continues to be developed by some countries and it presents some specific challenges to international monitoring. Iran is now known to have had a secret AVLIS program. However, since it was uncovered in 2003, Iran has claimed to have dismantled it.
+
+Brief history
+The history of AVLIS, as recorded in the open refereed literature, began in the early-mid 1970s in the former Soviet Union and the United States.  In the US, AVLIS research was mainly carried out at the Lawrence Livermore National Laboratory although some industrial laboratories were early players.  Tunable laser development for AVLIS, applicable to uranium,  has also been reported from several countries including Pakistan (1974), Australia (1982-1984), France (1984), India (1994), and Japan (1996).
+
+See also
+Australian Atomic Energy Commission
+Calutron
+Chemical reaction by isotope selective laser (CRISLA)
+Gaseous diffusion
+List of laser articles
+Separation of isotopes by laser excitation (SILEX)
+Nuclear fuel cycle
+Nuclear power
+
+References
+External links
+USEC News Release Cancelling AVLIS
+Report on Iranian AVLIS program
+Oxford Research Group report on Iran's nuclear activities.
+Laser isotope separation uranium enrichment
+Overview of Uranium Atomic Vapor Laser Isotope Separation R.M. Feinburg and R.S. Hargrove.  UCRL-ID-114671 August 1993.
+Laser Isotope Separation page at LLNL

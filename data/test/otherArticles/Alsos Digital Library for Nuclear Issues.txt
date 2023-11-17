@@ -1,0 +1,20 @@
+The Alsos Digital Library for Nuclear Issues is a searchable collection of vetted annotations and bibliographic information for resources including books, articles, films, CD-ROMs, and websites pertaining to nuclear topics. Part of the United States' National Science Digital Library (NSDL) and located at Washington and Lee University, the digital library provides a balanced selection of high quality resources across many disciplines to a broad audience including students, scholars, professionals, and the general public. Originally focused on the history of the Manhattan Project, the library has expanded to include the far-reaching consequences of the discovery of atomic energy, including topics such as nuclear power, and nuclear proliferation.
+
+History
+Publicly available since 2001, the Alsos library has been headed since its inception by chemist Dr. Frank Settle. The name Alsos honors the Allied Alsos Mission during World War II to discover the extent to which Germany had progressed with its atomic bomb project. Funding has been provided by the National Science Foundation and H. F. Lenfest. Undergraduate students have built and provided the content for the library, supervised by a computer science professor and an editor.
+
+Features
+The Alsos Digital Library for Nuclear Issues contains over 3,500 annotations, which have been reviewed by members of its National Advisory Board of experts in many disciplines. Its entries are both searchable as full-text and hierarchically browsable in six major categories: issues, science, warfare, people, places, and disciplines. Bibliographic resources that are available on the Internet have links provided; library locations of non-electronic resources nearest to the user are also available via WorldCat.
+
+Partnerships
+In order to integrate its extensive bibliographic information with web-based content on nuclear issues, the Alsos team has worked in partnership with other high quality websites to create a gateway to nuclear resources online, Nuclear Pathways. That website provides federated searches of the Alsos Digital Library for Nuclear Issues, Atomic Archive, Nuclear Files, and the nuclear chemistry component of ChemCases; resources include bibliographies, biographies, time lines, policy analyses, explanations of the history and science of nuclear weapons, nuclear chemistry lessons, study guides, syllabi, and extensive collections of historical primary source documents, photographs, audio, and film clips.
+
+References
+External links
+Official website
+Washington and Lee University
+Atomic Archive
+ChemCases: Nuclear Chemistry and the Community
+National Science Digital Library
+Nuclear Files
+Nuclear Pathways

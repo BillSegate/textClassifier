@@ -1,4 +1,0 @@
-In mathematics, a quadratic-linear algebra is an algebra over a field with a presentation such that all relations are sums of monomials of degrees 1 or 2 in the generators. They were introduced by Polishchuk and Positselski (2005, p.101). An example is the universal enveloping algebra of a Lie algebra, with generators a basis of the Lie algebra and relations of the form XY – YX – [X, Y] = 0.
-
-References
-Polishchuk, Alexander; Positselski, Leonid (2005), Quadratic algebras, University Lecture Series, vol. 37, Providence, R.I.: American Mathematical Society, ISBN 978-0-8218-3834-1, MR 2177131

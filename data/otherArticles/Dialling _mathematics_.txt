@@ -1,9 +1,0 @@
-In somewhat archaic applied mathematics, dialling is the mathematics required to create a sundial face to determine solar time based on the position of the sun. Those skilled in the art were referred to as dialists or gnomonists, the latter derived from the word gnomon, which was a device that used a shadow as an indicator.
-The mathematician William Oughtred published a book, Easy Method of Mathematical Dialling, around 1600. Samuel Walker (1716–1782) was a Yorkshire mathematician and diallist. In his later years, Thomas Jefferson was known to practice dialling as a mental exercise. Professor of astronomy at Gresham College (London, UK), Samuel Foster (d. 1652), developed reflex dialling, which describes a device of his own invention: a sundial capable of reflecting a spot of light onto the ceiling of a room.
-
-Etymology
-The word dial derives from the Latin term dialis (daily), and comes from the fact that a sundial throws a shadow related to the time of day. It was also used to describe the gear in a medieval clock which turned once per day.
-
-Notes
-References
-Fale, Thomas (1593). Horologiographia: The Art of Dialling. F. Kingston.

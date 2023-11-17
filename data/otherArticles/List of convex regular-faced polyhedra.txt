@@ -1,1 +1,0 @@
-This is a list of convex, regular-faced polyhedra.  Since there are an infinite number of prisms and antiprisms, only a few have been listed.

@@ -1,0 +1,35 @@
+High-level waste (HLW) is a type of nuclear waste created by the reprocessing of spent nuclear fuel. It exists in two main forms:
+
+First and second cycle raffinate and other waste streams created by nuclear reprocessing.
+Waste formed by vitrification of liquid high-level waste.Liquid high-level waste is typically held temporarily in underground tanks pending vitrification. Most of the high-level waste created by the Manhattan Project and the weapons programs of the cold war exists in this form because funding for further processing was typically not part of the original weapons programs. Both spent nuclear fuel and vitrified waste are considered  as suitable forms for long term disposal, after a period of temporary storage in the case of spent nuclear fuel.
+HLW contains many of the fission products and transuranic elements generated in the reactor core and is the type of nuclear waste with the highest activity. HLW accounts for over 95% of the total radioactivity produced in the nuclear power process. In other words, while most nuclear waste is low-level and intermediate-level waste, such as protective clothing and equipment that have been contaminated with radiation, the majority of the radioactivity produced from the nuclear power generation process comes from high-level waste.
+Some countries, particularly France, reprocess commercial spent fuel.
+High-level waste is very radioactive and, therefore, requires special shielding during handling and transport. Initially it also needs cooling, because it generates a great deal of heat. Most of the heat, at least after short-lived nuclides have decayed, is from the medium-lived fission products caesium-137 and strontium-90, which have half-lives on the order of 30 years.
+A typical large 1000 MWe nuclear reactor produces 25–30 tons of spent fuel per year. If the fuel were reprocessed and vitrified, the waste volume would be only about three cubic meters per year, but the decay heat would be almost the same.
+It is generally accepted that the final waste will be disposed of in a deep geological repository, and many countries have developed plans for such a site, including Finland, France, Japan, United States and Sweden.
+
+Definitions
+High-level waste is the highly radioactive waste material resulting from the reprocessing of spent nuclear fuel, including liquid waste produced directly in reprocessing and any solid material derived from such liquid waste that contains fission products in sufficient concentrations; and other highly radioactive material that is determined, consistent with existing law, to require permanent isolation.Spent (used) reactor fuel.
+
+Spent nuclear fuel is used reactor fuel that is no longer efficient in creating electricity, because its fission process has slowed due to a build-up of reaction poisons. However, it is still thermally hot, highly radioactive, and potentially harmful.Waste materials from reprocessing.
+
+Materials for nuclear weapons are acquired by reprocessing spent nuclear fuel from breeder reactors. Reprocessing is a method of chemically treating spent fuel to separate out uranium and plutonium. The byproduct of reprocessing is a highly radioactive sludge residue.
+
+Storage
+High-level radioactive waste is stored for 10 or 20 years in spent fuel pools, and then can be put in dry cask storage facilities.
+In 1997, in the 20 countries which account for most of the world's nuclear power generation, spent fuel storage capacity at the reactors was 148,000 tonnes, with 59% of this utilized. Away-from-reactor storage capacity was 78,000 tonnes, with 44% utilized.
+
+See also
+Radioactive waste
+Low-level waste
+Transuranic waste
+Mixed waste
+Into Eternity (film)
+
+Notes
+References
+Fentiman, Audeen W. and James H. Saling.  Radioactive Waste Management.  New York: Taylor & Francis, 2002. Second ed.
+Large, John H. Risks and Hazards arising the Transportation of Irradiated Fuel and Nuclear Materials in the United Kingdom R3144-A1, March 2006 [1]
+
+External links
+NRC Backgrounder on Radioactive Waste

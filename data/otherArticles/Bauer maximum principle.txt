@@ -1,9 +1,0 @@
-Bauer's maximum principle is the following theorem in mathematical optimization:
-
-Any function that is convex and continuous, and defined on a set that is convex and compact, attains its maximum at some extreme point of that set.It is attributed to the German mathematician Heinz Bauer.Bauer's maximum principle immediately implies the analogue minimum principle:
-
-Any function that is concave and continuous, and defined on a set that is convex and compact, attains its minimum at some extreme point of that set.Since a linear function is simultaneously convex and concave, it satisfies both principles, i.e., it attains both its maximum and its minimum at extreme points.
-Bauer's maximization principle has applications in various fields, for example, differential equations and economics.
-
-
-== References ==

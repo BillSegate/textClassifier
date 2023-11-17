@@ -1,0 +1,7 @@
+A californium neutron flux multiplier (CFX) is a source of neutrons for research purposes. It contains a small amount of californium-252 and several plates of highly enriched uranium (uranium-235) in a subcritical configuration. As the californium undergoes spontaneous nuclear decay, it emits neutrons, which bombard the uranium and cause it to decay as well, emitting still more neutrons. This induced fission cascade generates a beam of neutrons that can be used for a variety of imaging and analytical techniques. Rather than relying solely on a large amount of californium for neutrons, the multiplier effect of 3.5 pounds of uranium initiated by only a few milligrams of 252Cf provided a higher ultimate neutron flux at a lower cost.
+The CFX was designed by IRT Corporation, with two devices manufactured. The first was installed at the Eastman Kodak facility in Rochester, New York in 1975 and decommissioned in 2006–2007. The second was installed at the US Department of Energy's Mound Laboratories in Ohio, eventually being decommissioned in the 1990s.Kodak used their device for neutron activation analysis and neutron radiography.
+
+References
+
+Orr, Steve (May 11, 2012). "Did you know? Kodak Park had a nuclear reactor". Democrat & Chronicle.
+"Final Status Survey Plan—Californium Neutron Flux Multiplier (CFX)" (PDF). Kodak. May 2008.

@@ -1,4 +1,0 @@
-The concept of a liquid vector space is part of condensed mathematics. Liquid vector spaces are an alternative to topological vector spaces.
-
-
-== References ==

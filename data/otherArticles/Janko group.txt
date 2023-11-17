@@ -1,9 +1,0 @@
-In the area of modern algebra known as group theory, the Janko groups are the four sporadic simple groups  J1,  J2,  J3 and  J4 introduced by Zvonimir Janko.   Unlike the Mathieu groups, Conway groups, or Fischer groups, the Janko groups do not form a series, and the relation among the four groups is mainly historical rather than mathematical.
-
-History
-Janko constructed the first of these groups, J1, in 1965 and predicted the existence of J2 and J3.  In 1976, he suggested the existence of J4.  Later, J2, J3 and J4 were all shown to exist.
-J1 was the first sporadic simple group discovered in nearly a century: until then only the Mathieu groups were known, M11 and M12 having been found in 1861, and M22, M23 and M24 in 1873. The discovery of J1 caused a great "sensation" and "surprise" among group theory specialists. This began the modern theory of sporadic groups. 
-And in a sense, J4 ended it. It would be the last sporadic group (and, since the non-sporadic families had already been found, the last finite simple group) predicted and discovered, though this could only be said in hindsight when the Classification theorem was completed. 
-
-
-== References ==

@@ -1,0 +1,21 @@
+Diorit was an experimental nuclear research reactor at the Swiss Federal Institute for Reactor Research (EIR) in Würenlingen (Canton of Aargau, Switzerland)
+This nuclear reactor was operated by EIR from 1960 to 1977. Heavy water (D2O) was used as the moderator, as well as the coolant. The initially commissioned reactor had a thermal power of 20 MW. Natural uranium was initially used as fuel, which was later changed to enriched uranium. The 2 m (6.6 ft) long, aluminium and nickel cased fuel rods were produced by AMF Atomics Canada Ltd.
+
+Military background
+Heavy water (deuterium) has a particularly good neutron economy, which in turn makes for good production of high-quality weapons-grade plutonium. However, Diorit was only ever used for civil research purposes and weapons-grade plutonium was never extracted from it. This didn't stop the Swiss Army from thinking of itself as an emerging nuclear power during the Cold War, as historian Jürg Stüssi-Lauterburg found in a study about previously-classified meeting notes. The army's aspirations for nuclear armament during some phases of the Cold War were at least somewhat public. For example, a major from Solothurn wrote the following in an anniversary publication, in 1957: "... military considerations therefore compel the procurement of nuclear weapons, even for a state whose army limits itself to defence only."
+
+1967 incident
+In 1967 the reactor produced a partially melted fuel rod, which contaminated the reactor hall. Considerably raised levels of radioactivity were also measured in the River Aare. Subsequently, the complete primary heavy water cooling system had to be decontaminated by chemical milling.
+
+Conversion to Diorit II
+Following the Incident of 1967, the decision was made to swap out the reactor vessel. The conversion also served to transition from natural uranium fuel to enriched uranium oxide. Some workers were exposed to raised radiation levels during construction. Single doses were up to 1020 mrem, while the highest accumulated dose was 2600 mrem (26 mSv).
+
+Decommissioning
+Operation of Diorit ceased in 1977. First plans for dismantling were made in the early 80s, while the actual decision was made in 1994. During decommissioning of the reactor the following amounts of radioactive waste accrued: 250 t steel, 120 t concrete, 5.4 t aluminium and alloys, as well as 45 t graphite.The burnt out fuel rods were stored in a CASTOR 1c Diorit dry cask storage container until they were transported to the central interim storage site (ZZL) of Zwilag.
+
+See also
+Nuclear power in Switzerland
+List of civilian nuclear accidents
+
+
+== References ==

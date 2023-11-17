@@ -1,6 +1,8 @@
 import wikipediaapi
 import re
 import time
+import random
+import math
 from logger import log
 
 
@@ -9,7 +11,7 @@ userAgent = 'textClassifier (NLP project)'
 WIKI = wikipediaapi.Wikipedia(language='en', user_agent=userAgent)
 # categories
 MEDICAL_CATEGORY = 'Medicine'
-OTHER_CATEGORIES = ['Physics', 'Mathematics', 'Human impact on the environment']
+OTHER_CATEGORIES = ['Physics', 'Nuclear technology', 'Human impact on the environment']
 
 
 # Utils function
@@ -37,6 +39,7 @@ def retrieveTitles(categoryMembers: dict, level: int=0, max_level: int=1) -> lis
 # given a list of titles retrieve each articles
 def retrieveArticles(titles: list, isMedical: bool) -> None:
     numTitle = len(titles)
+    trainLen = math.ceil(numTitle / 100 * 80)
     k = 1
     for title in titles:
         # retrieve the article based on title
@@ -44,13 +47,18 @@ def retrieveArticles(titles: list, isMedical: bool) -> None:
         # since the title could have non valid chars, remove them
         filename = makeValidFilename(title)
 
+        if trainLen > k:
+            trainTestFolder = 'data/train/'
+        else:
+            trainTestFolder = 'data/test/'
+
         # different path for medical articles
         if isMedical:
-            filepath = 'data/medicalArticles/'
+            folder = 'medicalArticles/'
         else:
-            filepath = 'data/otherArticles/'
+            folder = '/otherArticles/'
 
-        filepath = filepath + filename + '.txt'
+        filepath = trainTestFolder + folder + filename + '.txt'
 
         # save the article in a file
         with open(filepath, 'w', encoding='utf-8') as file:
@@ -66,6 +74,9 @@ def retrieve(category: str, isMedical: bool) -> None:
     categoryResult = WIKI.page('Category:' + category)
     # retrieve all titles
     titles = retrieveTitles(categoryResult.categorymembers)
+    
+    # shuffles the list of titles in order to subdivide it in 80% train and 20% test
+    random.shuffle(titles)
 
     log(f'articles found: {len(titles)}')
     # retrieve all articles

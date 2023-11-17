@@ -1,0 +1,38 @@
+Dose area product (DAP) is a quantity used in assessing the radiation risk from diagnostic X-ray examinations and interventional procedures. It is defined as the absorbed dose multiplied by the area irradiated, expressed in gray-centimetres squared (Gy·cm2 – sometimes the prefixed units mGy·cm2 or cGy·cm2 are also used). Manufacturers of DAP meters usually calibrate them in terms of absorbed dose to air. DAP reflects not only the dose within the radiation field but also the area of tissue irradiated. Therefore, it may be a better indicator of the overall risk of inducing cancer than the dose within the field. It also has the advantages of being easily measured, with the permanent installation of a DAP meter on the X-ray set.
+Due to the divergence of a beam emitted from a "point source", the area irradiated (A) increases with the square of distance from the source (A ∝ d2), while radiation intensity (I) decreases according to the inverse square of distance (I ∝ 1/d2). Consequently, the product of intensity and area, and therefore DAP, is independent of distance from the source.
+
+How DAP is measured
+An ionization chamber is placed beyond the X-ray collimators and must intercept the entire X-ray field for an accurate reading. Different parameters of the X-ray set, such as peak voltage (kVp), tube current (mA), exposure time, or the area of the field, can also be changed. 
+
+For example, a 5 cm × 5 cm X-ray field with an entrance dose of 1 mGy will yield a 25 mGy·cm2 DAP value. When the field is increased to 10 cm × 10 cm with the same entrance dose, the DAP increases to 100 mGy·cm2, which is four times the previous value.
+
+Kerma Area Product
+Kerma area product (KAP) is a related quantity, which for all practical radiation protection purposes is equal to dose area product. However, strictly speaking 
+  
+    
+      
+        
+          D
+          A
+          P
+        
+        =
+        
+          K
+          A
+          P
+        
+        ×
+        (
+        1
+        −
+        g
+        )
+      
+    
+    {\displaystyle \mathrm {DAP} =\mathrm {KAP} \times (1-g)}
+  , where g is the fraction of energy of liberated charged particles that is lost in radiative processes in the material and the dose is expressed in absorbed dose to air. The value of g for diagnostic X-rays is only a fraction of a percent.
+Adult coronary angiography and PCI procedures expose patients to an average DAP in the range of 20 to 106 Gy·cm2 and 44 to 143 Gy·cm2 respectively.
+
+
+== References ==

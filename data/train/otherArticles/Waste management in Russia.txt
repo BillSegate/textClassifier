@@ -1,0 +1,84 @@
+Waste management in Russia refers to the legislation, actions and processes pertaining to the management of the various waste types encountered throughout the Russian Federation. The basis of legal governance for waste management in Russia at the federal level is outlined through Federal Law No. 89-FZ, which defines waste as “the remains of raw materials, materials, semi-finished products, other articles or products that have been formed in the process of production or consumption as well as the goods (products) that have lost their consumer properties”.Throughout its existence, the government of the Soviet Union introduced state-wide legislative frameworks and recycling programs for effective waste management in the pursuit of a circular economy to reduce new material production. However, the dissolution of the Soviet Union consequently erased these initiatives, yielding the onset of a Post-Soviet Russia largely dependent upon landfills for waste management.In 2019, almost 70 million tons of municipal solid waste was produced in Russia, with over 90% of this amount being deposited in landfills. The Federal Service for Supervision of Natural Resource Usage stated in the same year that landfills in Russia occupied an area roughly equivalent to the size of the Netherlands.In line with growing political and social pressures attributed primarily to the inadequate management of municipal solid waste across the country in the past two decades, the Government of Russia introduced widespread rubbish reforms in 2018 under the National Project on Ecology, which contains the country's roadmap for achieving a municipal solid waste recycling rate of 36% by 2024.
+
+History
+Soviet Union (1922 – 1991)
+Enacting large-scale industrial production was a central focus of the government of the Soviet Union. To maximally preserve the supply of raw materials, the reuse of new products was heavily emphasized through the establishment of state-run organizations that provided collection services. Widescale recycling programs were introduced by the Soviet government in the 1970s, whereby recyclable materials were sorted into five distinct categories: “waste paper, polymeric materials, tires, textiles, and broken glass”. Consequently, it is estimated that almost 30% of total paper and 45% of all glass bottles produced were recycled throughout the 1980s. Consumer goods did not feature materials as plastic, aluminum and tin throughout the vast majority of the Soviet Union's existence, although these were common in other global markets.In 1986, the government of the Soviet Union introduced the concept of extended producer responsibility within the state to hold organizations accountable for their waste production through a legislative framework. The legislative framework mandated that organizations must provide adequate processing facilities and recycling operations to accommodate the output of any new materials or products.Due to the widespread philosophy of waste material repurposing and stringent legislative frameworks witnessed across the state, municipal waste management was generally not observed as a significant issue throughout the existence of the Soviet Union. The dissolution of the Soviet Union saw the collapse of the various waste management systems that contributed to the state's efforts in developing a circular economy.
+
+Russian Federation (1991 – Present)
+The newly formed Russian Federation sought to instigate mass reform in the waste management sector to revive the success witnessed under the Soviet government. In 1996, a federal waste reform program called “Waste” was launched by the Russian government, which sought to “create a regulatory and technological framework to conduct a unified government policy regarding waste management at every administrative level”.  Additional goals of the program included a structured national recycling initiative and the pilot testing of emerging technologies for improved recycling and decontamination efficiency for both municipal and industrial waste. 80% of the required funding was projected to come from budgetary funds, whilst secondary raw material sales would yield the remaining 20%.  The objectives of the program were not realized primarily due to an ensuing lack of financial and political support.  
+Subsequently, a new law administered by the Ministry of Natural Resources and Ecology was introduced in June 1998, known as Federal Law No. 89-FZ “On the Production and Consumption Waste”. The law defined waste as “the remains of raw materials, materials, semi-finished products, other articles or products that have been formed in the process of production or consumption as well as the goods (products) that have lost their consumer properties”. Additionally, the law provides general guidelines for the governance of waste management across various levels of government as follows:
+
+Federal: design and enactment of unified waste management policies across the nation. The Ministry for Natural Resources and Ecology is directly responsible for the implementation of these policies.
+Regional: environmental reporting to assist the federal government in the effective implementation of waste management policies, in addition to designing and enacting separate regional waste management policies in consonance with federal policy.
+Local: design and enactment of waste collection and removal services at the community level.Federal Law No. 89-FZ currently receives periodic amendments in line with the evolving waste management requirements of the country, which are vetted and evaluated by the Federation Council.
+
+Waste classification
+Waste is classified in accordance with Order No. 786 of the Ministry of Natural Resources and Ecology, which details the 2002 Federal Classification Catalogue of Waste that provides a regulatory framework pertaining to the systematic categorization of waste in Russia.  Waste products are evaluated by the "origin, physical and aggregative state, hazardous properties and environmental risk" inherent to the waste type.  Operators and personnel seeking to handle hazard classes between 1 and 4 require waste management licenses administered by the Ministry of Natural Resources and Ecology.
+
+Waste production
+Russia generated approximately 7.3 billion tons of waste in 2019. Industrial waste and municipal solid waste are the main constituent waste types of this figure, exhibiting annual production values of over 6.6 billion and 65 million tons respectively in 2019.
+
+Industrial waste
+Industrial activities are responsible for the predominant majority of all waste emissions in Russia. Over 94% of total waste in 2018 was attributed to the nation's mining sector alone. The main pollutants were derived from the extraction of fuel and raw materials utilized for energy generation, such as coal. Additionally, 1.9% of the country's total waste volume was produced from nonferrous metallurgy and 0.6% from the chemical industry.
+
+Municipal solid waste
+Municipal solid waste accounts for approximately 1-2% of all waste generated, which is equivalent to 65 million tons in 2019 for Russia. More than 90% of all municipal solid waste is disposed into landfill sites, with only 5-7% being recycled. Food is the main source of waste composition in landfills, comprising over 34%.Other sources of municipal solid waste include:
+
+Paper
+Polymers
+Glass
+Wood
+Street waste
+Metal
+Textiles.
+
+Nuclear waste
+An estimated total of 500 million tons of nuclear waste was reporting in 2020 to have accumulated throughout Russia. In June 2011, the State Duma of the Federal Assembly of Russia passed the Federal Law on "Radioactive Waste Management", which was ratified by the State Council the following month. The law provided a legal framework for the management of nuclear waste across Russia and has since been bolstered by the "Ensuring Nuclear Radiation Safety" federal target program, which seeks to neutralize nuclear waste generation with an equal level of disposal by 2025.Nuclear power
+38 nuclear reactors were in operation throughout Russia in 2021, which collectively produced approximately 20.7% of the country's electricity. In the Soviet era, nuclear power generation was developed cognizant of a closed nuclear fuel cycle desired by the government. This philosophy was centered around the goal of repurposing spent fuel products and recycling uranium and plutonium that were recovered from fuel products, ultimately reducing nuclear waste and maximizing reusable fissile material. In 2016, Russia's state-owned Rosatom State Nuclear Energy Corporation developed the BN-800 fast breeder reactor, which is projected in 2022 to transition to exclusively utilize mixed uranium-plutonium fuel in continued efforts to close the nuclear fuel cycle.
+
+Waste management initiatives
+Early waste management reform
+In addition to the "Waste" federal target program launched in 1996 by the Russian government, the responsibility of solid waste management was redelegated to municipal authorities in 2004 as part of a broader waste reform strategy. This shift encouraged local communities to develop solutions for the efficient collection and disposal of municipal solid waste, however this ultimately failed due to insufficient financial resources, a lack of supporting waste management infrastructure and inadequate experience at the community level.Similarly, the federal government issued an official decree in 2011 ordering regional and local authorities to devise and implement sustainable waste management programs. The envisioned programs did not come to fruition primarily due to the lack of private investments within the solid waste disposal sector.
+
+National Project on Ecology
+In 2018, the National Project on Ecology was approved by Russian President Vladimir Putin. The federal project, which is directed by the Ministry of Natural Resources and Ecology, is underpinned by ten key outcomes to maximize environmental protection and rejuvenation in Russia:
+
+Clean country
+Integrated system for municipal waste management
+Infrastructure for handling especially hazardous waste
+Fresh air
+Clean water
+Improvement of Volga River
+Preservation of Lake Baikal
+Preservation of unique water objects
+Conservation of biological diversity and ecological tourism development
+Forests preservation.The country's roadmap to achieving a municipal solid waste recycling rate of 36% by 2024 is outlined under outcome no.2 of the project. On January 14, 2019, Russian President Vladimir Putin signed an executive order to establish the public nonprofit entity "Russian Environmental Operator". The company's primary purpose is to reinforce municipal solid waste management legislation through the acquisition of land, plant and other assets deemed necessary for the treatment and processing of waste for recycling and/or disposal.The municipal solid waste recycling rate target of 36% was criticized by Greenpeace Russia in December 2019 when official documents from the government of Moscow (and later the federal government) were released, detailing that waste incineration would be deemed as a form of recycling.
+
+Impacts of waste mismanagement
+Landfills
+In 2019, almost 70 million tonnes of municipal solid waste was produced in Russia, with over 90% of this amount being deposited in landfills. The Federal Service for Supervision of Natural Resource Usage stated in 2019 that landfills in Russia occupied an area roughly equivalent to the size of the Netherlands.Outcome no.1 of the National Project on Ecology is “Clean Country”, which represents the objective of removing all 191 of the illegal landfills identified by the Russian government in 2018. Across several oblasts of Russia, leachates from landfills have been observed to contaminate groundwater with hazardous constituents such as heavy metals and toxic chemicals, reducing biodiversity and soil fertility.The solid waste disposal sector represents the second-largest source of methane gas emissions in Russia, predominately through the form of landfill gas. In addition to other waste-to-energy technologies, landfill gas recovery is not commonly exhibited across Russia.Mass protests erupted in Russia in 2018 when over 200 schoolchildren were hospitalized from inhaling poisonous gas emissions originating from a landfill in the town of Volokolamsk in Moscow Oblast. The protests proliferated across other localities in 2019, including Krasnoyarsk, Omsk, Arkhangelsk, and Nizhny Novgorod, where protesters demanded the closure of waste incineration plants, halting of landfill construction and for general reform within the Russian solid waste sector.
+
+Nuclear waste
+In the concluding months of World War II, the Soviet government designated the islands of Novaya Zemlya as testing grounds for the development and trial of nuclear weapons. Between September 21, 1955, and October 24, 1990, over 130 nuclear detonations were tested on the archipelago, including the detonation of Tsar Bomba in October 1961 above Severny Island. However, the Soviet government began exclusively conducting underground nuclear tests following Andrei Gromyko's signing of the Partial Nuclear Test Ban Treaty on August 5, 1963, in Moscow.
+As a result, the adjacent Barents and Kara Seas were frequently polluted throughout this period with nuclear waste and spent nuclear fuel, contributing to a radioactive environment that has threatened the Russian and Norwegian fishing industries (which rely heavily upon the Barents Sea) and livelihoods of the surrounding indigenous population. The Kara Sea has been reported to contain more nuclear waste along its seafloor than any other location across the world's oceans. The long-term effects of nuclear fallout in this region have not been epidemiologically tested as of 2020.
+
+See also
+Notable waste disposal sites in Russia
+Aleksinsky Quarry
+Lake Karachay
+
+Russian Wikipedia articles
+Waste
+Garbage in Russia
+Garbage crisis in Russia
+Reform of production and consumption waste management in the Russian Federation
+
+Other related articles
+Environmental racism in Russia
+Environmental issues in Russia
+Environment of Russia
+Climate change in Russia
+Greenhouse gas emissions by Russia
+
+
+== References ==

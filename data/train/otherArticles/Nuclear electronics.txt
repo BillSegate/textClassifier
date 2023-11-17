@@ -1,0 +1,24 @@
+Nuclear electronics is a subfield of electronics concerned with the design and use of high-speed electronic systems for nuclear physics and elementary particle physics research, and for industrial and medical use.
+Essential elements of such systems include fast detectors for charged particles, discriminators for separating them by energy, counters for counting the pulses produced by individual particles, fast logic circuits (including coincidence and veto gates), for identification of particular types of complex particle events, and pulse height analyzers (PHAs) for sorting and counting gamma rays or particle interactions by energy, for spectral analysis.
+
+Elementary components
+Some of the essential components that make up the elements of a nuclear electronic analysis system include:
+
+Detectors
+Bias voltage supplies
+Preamplifiers
+Discriminators
+Coincidence and veto logic gates.
+Counters
+Pulse height analyzersThese elements were originally developed and built in the laboratories of the scientists doing the pioneering work in the field, but are nowadays designed, developed, and manufactured by a variety of specialized vendors:
+
+EG&G Ortec
+Oxford Instruments
+Stanford Research Systems
+Tennelec
+
+See also
+Nuclear Instrumentation Module
+
+External links
+[1]  Nuclear electronics college class.

@@ -1,0 +1,79 @@
+A criticality accident is an accidental uncontrolled nuclear fission chain reaction. It is sometimes referred to as a critical excursion, critical power excursion, or divergent chain reaction. Any such event involves the unintended accumulation or arrangement of a critical mass of fissile material, for example enriched uranium or plutonium. Criticality accidents can release potentially fatal radiation doses, if they occur in an unprotected environment.
+Under normal circumstances, a critical or supercritical fission reaction (one that is self-sustaining in power or increasing in power) should only occur inside a safely shielded location, such as a reactor core or a suitable test environment. A criticality accident occurs if the same reaction is achieved unintentionally, for example in an unsafe environment or during reactor maintenance.
+Though dangerous and frequently lethal to humans within the immediate area, the critical mass formed would not be capable of producing a massive nuclear explosion of the type that fission bombs are designed to produce. This is because all the design features needed to make a nuclear warhead cannot arise by chance. In some cases, the heat released by the chain reaction will cause the fissile (and other nearby) materials to expand. In such cases, the chain reaction can either settle into a low power steady state or may even become either temporarily or permanently shut down (subcritical).
+In the history of atomic power development, at least 60 criticality accidents have occurred, including 22 in process environments, outside nuclear reactor cores or experimental assemblies, and 38 in small experimental reactors and other test assemblies. Although process accidents occurring outside reactors are characterized by large releases of radiation, the releases are localized. Nonetheless, fatal radiation exposures have occurred to persons close to these events, resulting in more than 20 fatalities. In a few reactor and critical experiment assembly accidents, the energy released has caused significant mechanical damage or steam explosions.
+
+Physical basis
+Criticality occurs when sufficient fissile material (a critical mass) accumulates in a small volume such that each fission, on average, produces a neutron that in turn strikes another fissile atom causing another fission; this causes the chain reaction to become self-sustaining within the mass of material. In other words, in a critical mass the number of neutrons emitted, over time, exactly equals the number of neutrons captured by another nucleus or lost to the environment. If the mass is supercritical, the number of neutrons emitted per unit time exceeds those absorbed or lost, resulting in a cascade of nuclear fissions at increasing rate.
+Criticality can be achieved by using metallic uranium or plutonium, liquid solutions, or powder slurries. The chain reaction is influenced by range of parameters noted by the acronyms MAGIC MERV (for mass, absorption, geometry, interaction, concentration, moderation, enrichment, reflection, and volume) and MERMAIDS (for mass, enrichment, reflection, moderation, absorption, interaction, density, and shape). Temperature is also a factor.
+Calculations can be performed to determine the conditions needed for a critical state, mass, geometry, concentration etc. Where fissile materials are handled in civil and military installations, specially trained personnel are employed to carry out such calculations, and to ensure that all reasonably practicable measures are used to prevent criticality accidents, during both planned normal operations and any potential process upset conditions that cannot be dismissed on the basis of negligible likelihoods (reasonably foreseeable accidents).
+The assembly of a critical mass establishes a nuclear chain reaction, resulting in an exponential rate of change in the neutron population over space and time leading to an increase in neutron flux. This increased flux and attendant fission rate produces radiation that contains both a neutron and gamma ray component and is extremely dangerous to any unprotected nearby life-form. The rate of change of neutron population depends on the neutron generation time, which is characteristic of the neutron population, the state of "criticality", and the fissile medium.
+A nuclear fission creates approximately 2.5 neutrons per fission event on average. Hence, to maintain a stable, exactly critical chain reaction, 1.5 neutrons per fission event must either leak from the system or be absorbed without causing further fissions.
+For every 1,000 neutrons released by fission, a small number, typically no more than about 7, are delayed neutrons which are emitted from the fission product precursors, called delayed neutron emitters. This delayed neutron fraction, on the order of 0.007 for uranium, is crucial for the control of the neutron chain reaction in reactors. It is called one dollar of reactivity. The lifetime of delayed neutrons ranges from fractions of seconds to almost 100 seconds after fission. The neutrons are usually classified in 6 delayed neutron groups. The average neutron lifetime considering delayed neutrons is approximately 0.1 sec, which makes the chain reaction relatively easy to control over time. The remaining 993 prompt neutrons are released very quickly, approximately 1 μs after the fission event.
+In steady-state operation, nuclear reactors operate at exact criticality. When at least one dollar of reactivity is added above the exact critical point (where the neutron production rate balances the rate of neutron losses, from both absorption and leakage) then the chain reaction does not rely on delayed neutrons. In such cases, the neutron population can rapidly increase exponentially, with a very small time constant, known as the prompt neutron lifetime. Thus there is a very large increase in neutron population over a very short time frame. Since each fission event contributes approximately 200 MeV per fission, this results in a very large energy burst as a "prompt-critical spike". This spike can be easily detected by radiation dosimetry instrumentation and "criticality accident alarm system" detectors that are properly deployed.
+
+Accident types
+Criticality accidents are divided into one of two categories:
+
+Process accidents, where controls in place to prevent any criticality are breached;
+Reactor accidents, which occur due to operator errors or other unintended events (e.g., during maintenance or fuel loading) in locations intended to achieve or approach criticality, such as nuclear power plants, nuclear reactors, and nuclear experiments.Excursion types can be classified into four categories depicting the nature of the evolution over time:
+
+Prompt criticality excursion
+Transient criticality excursion
+Exponential excursion
+Steady-state excursionThe prompt-critical excursion is characterized by a power history with an initial prompt-critical spike as previously noted, which either self-terminates or continues with a tail region that decreases over an extended period of time. The transient critical excursion is characterized by a continuing or repeating spike pattern (sometimes known as "chugging") after the initial prompt-critical excursion. The longest of the 22 process accidents occurred at Hanford Works in 1962 and lasted for 37.5 hours. The 1999 Tokaimura nuclear accident remained critical for about 20 hours, until it was shut down by active intervention. The exponential excursion is characterized by a reactivity of less than one dollar added, where the neutron population rises as an exponential over time, until either feedback effects or intervention reduce the reactivity. The exponential excursion can reach a peak power level, then decrease over time, or reach a steady-state power level, where the critical state is exactly achieved for a "steady-state" excursion.
+The steady-state excursion is also a state which the heat generated by fission is balanced by the heat losses to the ambient environment. This excursion has been characterized by the Oklo natural reactor that was naturally produced within uranium deposits in Gabon, Africa about 1.7 billion years ago.
+
+Known incidents
+A Los Alamos report (McLaughlin et al.) recorded 60  criticality accidents between 1945 and 1999. These caused 21 deaths: seven in the United States, ten in the Soviet Union, two in Japan, one in Argentina, and one in Yugoslavia. Nine have been due to process accidents, and the others from research reactor accidents. Criticality accidents have occurred in the context of production and testing of fissile material for both nuclear weapons and nuclear reactors.
+The table below gives a selection of well documented incidents, including some not included in the report by McLaughlin et al.
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+There was speculation although not confirmed within criticality accident experts, that Fukushima 3 suffered a criticality accident. Based on incomplete information about the 2011 Fukushima I nuclear accidents, Dr. Ferenc Dalnoki-Veress speculates that transient criticalities may have occurred there. Noting that limited, uncontrolled chain reactions might occur at Fukushima I, a spokesman for the International Atomic Energy Agency (IAEA) "emphasized that the nuclear reactors won't explode." By 23 March 2011, neutron beams had already been observed 13 times at the crippled Fukushima nuclear power plant. While a criticality accident was not believed to account for these beams, the beams could indicate nuclear fission is occurring. On 15 April, TEPCO reported that nuclear fuel had melted and fallen to the lower containment sections of three of the Fukushima I reactors, including reactor three. The melted material was not expected to breach one of the lower containers, which could cause a massive radioactivity release. Instead, the melted fuel is thought to have dispersed uniformly across the lower portions of the containers of reactors No. 1, No. 2 and No. 3, making the resumption of the fission process, known as a "recriticality", most unlikely.
+
+Observed effects
+Blue glow
+It has been observed that many criticality accidents emit a blue flash of light.The blue glow of a criticality accident results from the fluorescence of the excited ions, atoms and molecules of the surrounding medium falling back to unexcited states. This is also the reason electric sparks in air, including lightning, appear electric blue. The smell of ozone was said to be a sign of high ambient radioactivity by Chernobyl liquidators.
+This blue flash or "blue glow" can also be attributed to Cherenkov radiation, if either water is involved in the critical system or when the blue flash is experienced by the human eye. Additionally, if ionizing radiation directly transects the vitreous humor of the eye, Cherenkov radiation can be generated and perceived as a visual blue glow/spark sensation.It is a coincidence that the color of Cherenkov light and light emitted by ionized air are a very similar blue; their methods of production are different. Cherenkov radiation does occur in air for high-energy particles (such as particle showers from cosmic rays) but not for the lower energy charged particles emitted from nuclear decay.
+
+Heat effects
+Some people reported feeling a "heat wave" during a criticality event. It is not known whether this may be a psychosomatic reaction to the realization of what has just occurred (i.e. the high probability of inevitable impending death from a fatal radiation dose), or if it is a physical effect of heating (or non-thermal stimulation of heat sensing nerves in the skin) due to radiation emitted by the criticality event.
+A review of all of the criticality accidents with eyewitness accounts indicates that the heat waves were only observed when the fluorescent blue glow (the non-Cherenkov light, see above) was also observed. This would suggest a possible relationship between the two, and indeed, one can be potentially identified. In dense air, over 30% of the emission lines from nitrogen and oxygen are in the ultraviolet range, and about 45% are in the infrared range. Only about 25% are in the visible range. Since the skin feels light (visible or otherwise) through its heating of the skin surface, it is possible that this phenomenon can explain the heat wave perceptions. However, this explanation has not been confirmed and may be inconsistent with the intensity of light reported by witnesses compared to the intensity of heat perceived. Further research is hindered by the small amount of data available from the few instances where humans have witnessed these incidents and survived long enough to provide a detailed account of their experiences and observations.
+
+See also
+Criticality (status)
+Nuclear and radiation accidents and incidents
+Nuclear criticality safety
+
+In popular culture
+List of films about nuclear issues
+The Beginning or the End
+Day One (1989 film)
+Edge of Darkness
+Fat Man and Little Boy
+Infinity (1996 film)
+"Meridian" (Stargate SG-1)
+1000 Ways to Die
+
+Notes
+References
+Johnston, Wm. Robert. List of radiation accidents
+McLaughlin et al. "A Review of Criticality Accidents" by Los Alamos National Laboratory (Report LA-13638), May 2000. Coverage includes United States, Russia, United Kingdom, and Japan. Also available at this page, which also tries to track down documents referenced in the report.
+
+External links
+Press release on a report on criticality accidents from Los Alamos National Laboratory
+U.S. report from 1971 on criticality accidents to date

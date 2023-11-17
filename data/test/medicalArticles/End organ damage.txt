@@ -1,0 +1,80 @@
+End organ damage is severe impairment of major body organs due to high blood pressure or states of low blood pressure or low blood volume. This can present as a heart attack or heart failure, pulmonary edema, neurologic deficits including a stroke, or acute kidney failure.
+
+Pathophysiology
+End organ damage typically occurs in either states of very high blood pressure or states of shock where there is very low blood pressure or low circulating blood volume.
+
+Hypertensive
+When blood pressures are critically high (>180/120 mm Hg) or the rate of rise in blood pressure is rapid, a large volume of blood circulating in a small space creates turbulence and can damage the inner lining of blood vessels. The body’s repair systems are activated by damage and circulating blood components, like platelets, work on repair. The deposition of platelets can clutter the vessel space and impair the body’s natural ability to produce nitrous oxide, which would dilate blood vessels and help lower blood pressure. When high pressure is pushing on the walls of narrowed blood vessels, fluid leaves the inside of blood vessels and moves to the space just outside. This impairs necessary blood flow and cuts off circulating oxygen, which can lead to tissue death and permanent damage to the brain, heart, arteries, and kidneys. This may occur as a result of chronic or poorly controlled hypertension, illicit drug use, or as a complication of pregnancy. Recent studies have shown that activation of the immune system may also be closely involved with the development of end organ damage in hypertensive states.
+
+Shock
+Shock is when the body does not have adequate circulation to provide oxygen to body tissues. Hypovolemic shock occurs due to low circulating volume of fluids in the blood vessels. Distributive shock, which can occur due to anaphylaxis or sepsis, results in widespread dilation of blood vessels in the body resulting in lower blood pressure. In cases of extremely low circulating volume or inability to maintain an adequate blood pressure, body tissues do not receive enough oxygen and nutrients. When tissues lack oxygen and adequate circulation, organs can fail.
+
+Clinical Presentation
+Hypertensive
+Important Definitions
+Hypertensive Crisis - blood pressure >180/120 mm Hg with or without signs of end organ damage
+Hypertensive Urgency - blood pressure >180/120 mm Hg without signs of end organ damage
+Hypertensive Emergency - blood pressure >180/120 mm Hg with signs of end organ damage
+
+Presentation
+Altered mental status
+Shortness of breath
+Chest pain
+Lower extremity swelling
+New heart murmur
+Unequal blood pressures - may be sign of aortic dissection
+Headache or dizziness
+Neurologic deficits - may be due to a stroke or transient ischemic attack
+Vision changes
+
+Shock
+Important Definitions
+Systemic Inflammatory Response Syndrome (SIRS) meets any two criteria :
+Body temperature >38 or <36 degrees Celsius
+Heart rate >90 beats per minute
+Respiratory rate >20 breaths per minute or partial pressure CO2 <32 mm Hg
+White blood cell count >12000 or <4000 per microliter or >10% immature forms or bands
+qSOFA score helps predict organ dysfunction outside of the intensive care unit by assessing 3 components :
+Systolic blood pressure <100 mm Hg
+Maximum respiratory rate >21 breaths per minute
+Lowest Glasgow coma score <15
+
+Presentation
+Altered mental status - person may not be oriented to person, place, or time
+Delayed capillary refill - skin may be pale or mottled, limbs may be cool
+Little or no urine output - poor urine output
+Absent bowel sounds
+
+Evaluation and Work-Up
+Physical Examination
+Heart  - evaluate for new-onset heart failure (leg swelling, new murmur)
+Lungs - fluid overload or infection can cause shortness of breath
+Neurologic - a detailed neurologic exam should be performed to evaluate for stroke and peripheral vascular disease
+Fundoscopy - exam of the eye that can show signs of hypertension including papilledema and retinal hemorrhages
+
+Labs
+Complete Blood Count - check for low red blood cell count, elevated white blood cell count
+Basic Metabolic Panel - evaluate kidney function with creatinine and blood urea nitrogen
+Urinalysis - may show excess protein (hypertensive) or bacteria or white blood cells in urine (infection)
+Urine Drug Screen - illicit drugs like cocaine and PCP can increase blood pressure rapidly
+Cardiac Enzymes - elevated troponin and brain natriuretic peptide may indicate stress on the heart
+Pregnancy Test - pre-eclampsia in pregnancy can cause dangerously high blood pressure
+Lactate - rising lactate in the blood indicates that areas of the body are not getting enough oxygen
+Cultures - blood cultures and source-specific cultures (urine, sputum, etc.) should be collected when septic shock is suspected in order to identify and source and target treatment
+
+Imaging
+Chest X-Ray - may show signs of infection or fluid build-up or enlarged heart
+Electrocardiogram - check for heart dysfunction
+Echocardiogram - may show signs of left ventricular muscle thickening due to heart failure
+CT Head - may show signs of stroke
+CT-Angiogram - evaluate for signs of aortic dissection
+
+Management
+Hypertensive
+When there is concern for the presence or development of end organ damage, blood pressure should be lowered emergently with intravenous antihypertensive medications. Patients should be admitted to the hospital to be closely monitored for complications of end organ damage, notably strokes. Blood pressure should be lowered a maximum of 10% over the first hour and 25% over the first two hours as rapid lowering of blood pressure can lead to decreased blood flow in the brain and cause the development of an ischemic stroke. Once blood pressure is stabilized, patients can be changed from intravenous medications to oral.For patients with long-standing hypertension, patient education on the importance of consistently taking prescribed medications and keeping blood pressure well-controlled is critical. Additionally, future treatments may focus not only on blood pressure control but also the reduction of local inflammation that can lead to end organ damage.In pregnant patients where there is concern for pre-eclampsia, patients should be given magnesium sulfate and admitted. Urine output, breathing, and reflexes should be monitored closely with concern for the development of worsening kidney function and magnesium toxicity. Systolic blood pressure should be treated with antihypertensive medications only if it is higher than 160 mm Hg.
+
+Shock
+When a patient is in shock, the development of end organ damage is typically due to circulating blood volume or blood pressure that is not high enough to maintain oxygen and nutrient supply to vital organs. Initial treatment is focused on stabilizing the patient. Fluids are given to increase circulating blood volume. Vasopressors, medications that constrict blood vessels, can also be given in order to maintain a higher blood pressure and help vital organs receive enough oxygen and nutrients. High-dose steroids, like hydrocortisone, may also help maintain blood pressures in patients. Close monitoring in the critical care unit is often necessary to measure blood pressures.The next step in treating end organ damage due to septic shock is to identify the source of the infection and treat it. Broad-spectrum antibiotics can be started that will treat many potential bacteria before cultures grow the specific bacteria that is causing the infection. Once cultures identify the culprit of the infection, the antibiotic therapy can be changed so that it is only covering what needs to be treated. Treatment of the source of infection should resolve low blood pressures that compromise vital organ function. Complications, including acute respiratory distress syndrome, acute kidney injury, and electrolyte abnormalities, can be treated proactively and managed on an individual basis.
+
+
+== References ==

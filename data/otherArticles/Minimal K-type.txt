@@ -1,4 +1,0 @@
-In mathematics, a minimal K-type is a representation of a maximal compact subgroup K of a semisimple Lie group G that is in some sense the smallest representation of K occurring in a Harish-Chandra module of G. Minimal K-types were introduced by Vogan (1979) as part of an algebraic description of the Langlands classification.
-
-References
-Vogan, David A. Jr. (1979), "The algebraic structure of the representation of semisimple Lie groups. I", Annals of Mathematics, Second Series, 109 (1): 1–60, doi:10.2307/1971266, ISSN 0003-486X, JSTOR 1971266, MR 0519352

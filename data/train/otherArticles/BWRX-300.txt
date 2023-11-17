@@ -1,0 +1,17 @@
+The BWRX-300 is a design for a small modular nuclear reactor proposed by GE Hitachi Nuclear Energy (GEH). The BWRX-300 would feature passive safety, in that neither external power nor operator action would be required to maintain a safe state, even in extreme circumstances.
+
+Technology
+The BWRX-300 is an evolution of an earlier GE Hitachi reactor design,note the Economic Simplified Boiling Water Reactor, but individually smaller. Boiling water reactors are tried and tested nuclear technology that use ordinary light water as a nuclear reactor coolant. Like most boiling water reactors, the BWRX-300 will use low pressure water to remove heat from the core. A distinct feature of this reactor design is that water is circulated within the core by natural circulation. This is in contrast to most nuclear reactors which require electrical pumps to provide active cooling of the fuel. This system has advantages in terms of both simplicity and economics.
+
+Decay heat removal
+Immediately after a nuclear reactor shuts down, almost 7% of its previous operating power continues to be generated, from the decay of short half-life fission products. In conventional reactors, removing this decay heat passively is challenging because of their low temperatures. The BWRX-300 reactor would be cooled by the natural circulation of water, making it distinct from most nuclear plants which require active cooling with electrical pumps.
+
+New build proposals
+On December 1, 2021 Ontario Power Generation (OPG) has selected the BWRX-300 SMR for use at the Darlington Nuclear Generating Station. In October 2022, OPG applied for a construction license for the reactor. The company expects to make a construction decision by the end of 2024 and has set a preliminary target date of 2028 for plant operations.On December 16, 2021 Synthos Green Energy (SGE), GE Hitachi Nuclear Energy and BWXT Canada announced their intention to deploy at least 10 BWRX-300 reactors in Poland in the early 2030s. On July 8, 2022 Orlen Synthos Green - a joint venture between SGE  and PKN Orlen - applied to the National Atomic Energy Agency for a general opinion on the BWRX-300 SMR technology.  In August same year a date of delivery of the reactor was announced: 2029. Construction of the reactor will begin in 2024, in Darlington, Ontario.On March 14, 2022 Kärnfull Future AB signed a Memorandum of Understanding with GEH to deploy the BWRX-300 in Sweden.On June 27, 2022 Saskatchewan Power Corporation selected the BWRX-300 SMR for potential deployment in Saskatchewan in the mid-2030sOn February 8, 2023 Fermi Energia AS chose the BWRX-300 SMR for potential deployment in Lääne-Viru County of Estonia in the early-2030sOn July 7, 2023 Ontario Power Generation chose three additional BWRX-300 SMR for construction at the  Darlington New Nuclear Project in Ontario, Canada, joining the first already planned.
+
+Notes
+^ GEH describes the BWRX as the tenth version of their Boiling Water Reactors., following BWR 1-6, ABWR, SBWR, and ESBWR.
+
+References
+External links
+The BWRX-300 Small Modular Reactor

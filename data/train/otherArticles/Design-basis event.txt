@@ -1,0 +1,16 @@
+A design-basis event (DBE) is a postulated event used to establish the acceptable performance requirements of the structures, systems, and components, such that a nuclear power plant can withstand the event and not endanger the health or safety of the plant operators or the wider public.  Similar terms are design-basis accident (DBA) and maximum credible accident.Subtypes of DBEs are:
+design-basis criticality: "A criticality accident that is the most severe design-basis accident of that type applicable to the area under consideration."
+design-basis earthquake (DBE): "That earthquake for which the safety systems are designed to remain functional both during and after the event, thus assuring the ability to shut down and maintain a safe configuration."
+design-basis explosion: "An explosion that is the most severe design-basis accident of that type applicable to the area under consideration."
+design-basis fire: "A fire that is the most severe design-basis accident of this type. In postulating such a fire, failure of automatic and manual fire-suppression provisions shall be assumed except for those safety class items or systems that are specifically designed to remain available (structurally or functionally) through the event."
+design-basis flood: "A flood that is the most severe design-basis accident of that type applicable to the area under consideration."
+design-basis tornado (DBT): "A tornado that is the most severe design-basis accident of that type applicable to the area under consideration."Circumstances like the 2011 Tōhoku earthquake and tsunami were not considered within the design basis of the plant, and so the resulting Fukushima I nuclear accidents were described using this terminology as "beyond design basis" or "non-design-basis". However, some have claimed that the design basis for tsunami events at Fukushima was incorrect.Accidents caused by poor design, failure to follow listed safety procedures, or other forms of human error are not considered to be beyond-design-basis accidents. The terminology can be unclear, however, because a poorly handled design-basis accident can result in conditions beyond what was considered likely, causing a beyond-design-basis accident. For this reason, some industry experts have criticized the use of design-basis terminology. The Three Mile Island accident and the Chernobyl disaster are examples of design-basis accidents becoming non-design-basis accidents because of design deficiencies, inadequate training, procedures inadequate for the conditions (TMI), failure to follow operating procedures (Chernobyl), and control room design shortfalls.
+
+Beyond-design-basis events
+Beyond-design-basis events can reduce or eliminate the margin of safety of the structures, systems and components, possibly resulting in a catastrophic failure.The Fukushima Daiichi nuclear disaster was caused by a "beyond-design-basis event": the tsunami and associated earthquakes were more powerful than the plant was designed to accommodate.  The plant withstood the earthquake but the tsunami overflowed the seawall. Since then, the possibility of unforeseen beyond design basis events has been a major concern for plant operators.
+
+See also
+Lists of nuclear disasters and radioactive incidents
+
+
+== References ==

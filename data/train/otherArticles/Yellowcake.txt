@@ -1,0 +1,25 @@
+Yellowcake (also called urania) is a type of uranium concentrate powder obtained from leach solutions, in an intermediate step in the processing of uranium ores. It is a step in the processing of uranium after it has been mined but before fuel fabrication or uranium enrichment. Yellowcake concentrates are prepared by various extraction and refining methods, depending on the types of ores. Typically, yellowcakes are obtained through the milling and chemical processing of uranium ore, forming a coarse powder that has a pungent odor, is insoluble in water, and contains about 80% uranium oxide, which melts at approximately 2880 °C.
+
+Overview
+Originally raw uranium ore was extracted by traditional mining and this is still the case in many mines.  It is first crushed to a fine powder by passing it through crushers and grinders to produce "pulped" ore. This is further processed with concentrated acid, alkaline, or peroxide solutions to leach out the uranium.  However, nearly half of yellowcake production is now produced by in situ leaching in which the solution is pumped through the uranium deposit without disturbing the ground.  Yellowcake is what remains after drying and filtering. The yellowcake produced by most modern mills is actually brown or black, not yellow; the name comes from the color and texture of the concentrates produced by early mining operations.
+Initially, the compounds formed in yellowcakes were not identified; in 1970, the U.S. Bureau of Mines still referred to yellowcakes as the final precipitate formed in the milling process and considered it to be ammonium diuranate or sodium diuranate. The compositions were variable and depended upon the leachant and subsequent precipitating conditions. The compounds identified in yellowcakes include uranyl hydroxide, uranyl sulfate, sodium para-uranate, and uranyl peroxide, along with various uranium oxides.  Modern yellowcake typically contains 70% to 90% triuranium octoxide (U3O8) by weight. Other oxides such as uranium dioxide (UO2) and uranium trioxide (UO3) exist.Yellowcake is produced by all countries in which uranium ore is mined.
+
+Further processing
+Yellowcake is used in the preparation of uranium fuel for nuclear reactors, for which it is smelted into purified UO2 for use in fuel rods for pressurized heavy-water reactors and other systems that use natural unenriched uranium.
+Purified uranium can also be enriched into the isotope U-235. In this process, the uranium oxides are combined with fluorine to form uranium hexafluoride gas (UF6). Next, the gas undergoes isotope separation through the process of gaseous diffusion, or in a gas centrifuge. This can produce low-enriched uranium containing up to 20% U-235 that is suitable for use in most large civilian electric-power reactors. With further processing, one obtains highly enriched uranium, containing 20% or more U-235, that is suitable for use in compact nuclear reactors—usually used to power naval warships and submarines. Further processing can yield weapons-grade uranium with U-235 levels usually above 90%, suitable for nuclear weapons.
+
+Radioactivity and safety
+The uranium in yellowcake is almost exclusively (>99%)  U-238, with very low radioactivity. U-238 has an extremely long half-life, over 4 billion years, meaning that it emits radiation at a slow rate. This stage of processing is before the more radioactive U-235 is concentrated, so by definition, this stage of uranium has the same radioactivity as it did in nature when it was underground, as the proportions of isotopes are at their native relative concentration. Yellowcake is hazardous when inhaled.
+
+See also
+Uranium ore deposits
+Uranium mining
+Uraninite, an ore that is mostly uranium dioxide (UO2)
+Yellowcake forgery, fraudulently depicted Saddam Hussein trying to buy uranium powder
+Sequoyah Fuels Corporation, an American company involved in yellowcake processing
+COMINAK, a Niger uranium mining and processing company
+SOMAIR, a Niger uranium mining and processing company
+Vanadium(V) oxide, hydrous precipitates of which are known as "redcake"
+
+
+== References ==

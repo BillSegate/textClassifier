@@ -1,0 +1,12 @@
+Triuranium octoxide (U3O8) is a compound of uranium. It is present as an olive green to black, odorless solid. It is one of the more popular forms of yellowcake and is shipped between mills and refineries in this form.
+U3O8 has potential long-term stability in a geologic environment. In the presence of oxygen (O2), uranium dioxide (UO2) is oxidized to U3O8, whereas uranium trioxide (UO3) loses oxygen at temperatures above 500 °C and is reduced to U3O8. The compound can be produced by any one of three primary chemical conversion processes, involving either uranium tetrafluoride (UF4) or uranyl fluoride (UO2F2) as intermediates. It is generally considered to be the more attractive form for disposal purposes because, under normal environmental conditions, U3O8 is one of the most kinetically and thermodynamically stable forms of uranium. Its particle density is 8.3 g cm−3.
+Triuranium octoxide is converted to uranium hexafluoride for the purpose of uranium enrichment.
+
+Solid state structure
+The solid is a layered structure where the layers are bridged by oxygen atoms, each layer contains uranium atoms which are in different coordination environments.
+
+Bond valence study
+Using a 6Å × 6Å × 6Å box with the uranium atom in the centre, the bond valence calculation was performed for both U1 and U2 in solid. It was found, using the parameters for U(VI), that the calculated oxidation states for U1 and U2 are 5.11 and 5.10. Using the parameters for U(IV), the calculated oxidation states are 5.78 and 5.77 for U1 and U2, respectively. These studies suggests that all the uranium atoms have the same oxidation state, so that the oxidation states are disordered through the lattice.
+
+
+== References ==

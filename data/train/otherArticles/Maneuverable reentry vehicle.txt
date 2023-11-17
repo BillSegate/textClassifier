@@ -1,0 +1,30 @@
+The maneuverable reentry vehicle (abbreviated MARV or MaRV) is a type of warhead for ballistic missiles that is capable of maneuvering and changing its trajectory. 
+MaRV can be capable of autonomously tracking ground targets to make sure the missile does not miss the target, because of the frequent trajectory shifts. This often requires some terminal active homing guidance (like Pershing II active radar homing).
+
+Advanced Maneuverable Reentry Vehicle
+The Advanced Maneuverable Reentry Vehicle (AMaRV) was a prototype MARV built by McDonnell Douglas. Four AMaRVs were made and represented a significant leap in reentry vehicle sophistication. Three of the AMaRVs were launched by Minuteman-1 ICBMs on 20 December 1979, 8 October 1980 and 4 October 1981. AMaRV had an entry mass of approximately 470 kg, a nose radius of 2.34 cm, a forward frustum half-angle of 10.4°, an inter-frustum radius of 14.6 cm, aft frustum half angle of 6°, and an axial length of 2.079 meters. No accurate diagram or picture of AMaRV has ever appeared in the open literature. However, a schematic sketch of an AMaRV-like vehicle along with trajectory plots showing hairpin turns has been published.AMaRV's altitude was controlled through a split body flap (also called a "split-windward flap") along with two yaw flaps mounted on the vehicle's sides. Hydraulic actuation was used for controlling the flaps. AMaRV was guided by a fully autonomous navigation system designed for evading anti-ballistic missile (ABM) interception.
+
+MARV-capable missiles
+China
+DF-15B (active)
+DF-21D (active) India
+Agni-II (active)
+Agni-P (tested) IranEmad (active)
+Kheibar Shekan (tested)
+Fattah (tested) North Korea
+KN-18 (tested, status unknown) South Korea
+Hyunmoo-2C (active) Soviet Union
+R-27K (retired) United States
+Pershing II (retired)
+
+See also
+Atmospheric reentry
+Avangard (hypersonic glide vehicle)
+Boost-glide
+Multiple independently targetable reentry vehicle
+Re-entry vehicle
+
+References
+External links
+
+SAO/NASA ADS Physics Abstract Service - Design of maneuverable trajectories of re-entry vehicle

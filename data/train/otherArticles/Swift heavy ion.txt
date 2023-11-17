@@ -1,0 +1,17 @@
+Swift heavy ions are the components of a type of particle beam with high enough energy that electronic stopping dominates over nuclear stopping.
+They are accelerated in particle accelerators to very high energies, typically in the MeV or GeV range and have sufficient energy and mass to penetrate solids on a straight line. In many solids swift heavy ions release sufficient energy to induce permanently modified cylindrical zones, so-called ion tracks. If the irradiation is carried out in an initially crystalline material, ion tracks consist of an amorphous cylinder. Ion tracks can be produced in many amorphizing materials, but not in pure metals, where the high electronic heat conductivity dissipates away the electronic heating before the ion track has time to form.
+
+Definition
+Heavy ion beams are generally described in terms of their energy in Mega electron volts (MeV) divided by the mass of the atomic nucleus, written "MeV/u".  In order for an ion beam to be considered "swift", the constituent ions should be carbon or heavier, and the energy such that the beam particles have a velocity comparable to the Bohr velocity.
+
+Ion track formation
+The mechanisms by which ion tracks are produced are subject to some debate. They can be considered to produce thermal spikes
+in the sense that they lead to strong lattice heating and a transient disordered atom zone.  However, at least the initial stage of the damage might be better understood in terms of a Coulomb explosion mechanism. Regardless of what the heating mechanism is, it is well established that swift heavy ions typically produce a long nearly cylindrical track of damage in insulators, which has been shown to be underdense in the middle, at least in SiO2.
+
+Applications
+Swift heavy ion tracks have several established and potential practical applications. Ion tracks in polymers can be etched to form a nanometer-thin channel through a polymer foil, so called track etch membranes. These are in industrial use.Irradiation of polyimide resists have potential to be used as templates for nanowire growth.
+Tracks can also be used to sputter materials.
+They can also be used to elongate nanocrystals embedded in materials. SHI irradiation can also be used for structural modification of nanomaterials.
+
+
+== References ==

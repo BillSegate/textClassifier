@@ -1,0 +1,15 @@
+AVIATR (Aerial Vehicle for In situ and Airborne Titan Reconnaissance) was a proposed airplane mission concept to Titan, a moon of Saturn. The concept was developed in 2011 by a team of scientists led by Jason W. Barnes at the University of Idaho. Compared to Earth, Titan has about one-seventh the gravity but four times the atmospheric density. These conditions make it easier to fly there.
+
+Summary
+The Aerial Vehicle for In-situ and Airborne Titan Reconnaissance (AVIATR) is a proposed unmanned plane (or drone) which if approved, will take high-definition images of the surface of Saturn's moon Titan to help scientists understand the moon's geology. It is planned that at the end of the mission, the unmanned plane will attempt a landing on Titan's dunes.
+
+Overview
+The design called for a 120 kg (260 lb) airplane powered by an advanced Stirling radioisotope generator that would have allowed it to fly uninterrupted for about one year. However, the National Research Council's "Decadal Survey" did not prioritize the moon Titan for exploration, and the development of the advanced Stirling radioisotope generator was suspended indefinitely.
+
+See also
+Nuclear power in space
+Dragonfly (spacecraft) (NF4 finalist)
+
+References
+External links
+AVIATR proposal presentation

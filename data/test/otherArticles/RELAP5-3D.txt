@@ -1,0 +1,108 @@
+RELAP5-3D is a simulation tool that allows users to model the coupled behavior of the reactor coolant system and the core for various operational transients and postulated accidents that might occur in a nuclear reactor. RELAP5-3D (Reactor Excursion and Leak Analysis Program) can be used for reactor safety analysis, reactor design, simulator training of operators, and as an educational tool by universities. RELAP5-3D was developed at Idaho National Laboratory to address the pressing need for reactor safety analysis and continues to be developed through the United States Department of Energy and the International RELAP5 Users Group (IRUG) with over $3 million invested annually. The code is distributed through INL's Technology Deployment Office and is licensed to numerous universities, governments, and corporations worldwide.
+
+Background
+RELAP5-3D is an outgrowth of the one-dimensional RELAP5/MOD3 code developed at Idaho National Laboratory (INL) for the U.S. Nuclear Regulatory Commission (NRC). The U.S. Department of Energy (DOE) began sponsoring additional RELAP5 development in the early 1980s to meet its own reactor safety assessment needs. Following the Chernobyl disaster, DOE undertook a re-assessment of the safety of all its test and production reactors throughout the United States. The RELAP5 code was chosen as the thermal-hydraulic analysis tool because of its widespread acceptance.
+The application of RELAP5 to various reactor designs created the need for new modeling capabilities. In particular, the analysis of the Savannah River reactors necessitated a three-dimensional flow model. Later, under laboratory-discretionary funding, multi-dimensional reactor kinetics were added.
+Up until the end of 1995, INL maintained NRC and DOE versions of the code in a single source code that could be partitioned before compilation. It became clear by then, however, that the efficiencies realized by the maintenance of a single source were being overcome by the extra effort required to accommodate sometimes conflicting requirements. The code was therefore "split" into two versions—one for NRC and the other for DOE. The DOE version maintained all of the capabilities and validation history of the predecessor code, plus the added capabilities that had been sponsored by the DOE before and after the split.
+The most prominent attribute that distinguishes the DOE code from the NRC code is the fully integrated, multi-dimensional thermal-hydraulic and kinetic modeling capability in the DOE code. This removes any restrictions on the applicability of the code to the full range of postulated reactor accidents. Other enhancements include a new matrix solver, additional water properties, and improved time advancement for greater robustness.
+
+Features
+Modeling Capability
+RELAP5-3D has multidimensional thermal hydraulics and neutron kinetic modeling capabilities. The multidimensional component in RELAP5-3D was developed to allow the user to accurately model the multidimensional flow behavior that can be exhibited in any component or region of a nuclear reactor coolant system. There is also two dimensional conductive and radiative heat transfer capability and modeling of plant trips and control systems. RELAP5-3D allows for the simulation of the full range of reactor transients and postulated accidents, including:
+Trips and controls
+Component models (pumps, valves, separators, branches, etc.)
+Operational transients
+Startup and shutdown
+Maneuvers (e.g. change in power level, starting/tripping pump)
+Small and large break Loss Of Coolant Accidents (LOCA)
+Anticipated Transient Without Scram (ATWS)
+Loss of offsite power
+Loss of feedwater
+Loss of flow
+Light Water Reactors (PWR, BWR, APWR, ABWR, etc.)
+Heavy Water Reactors (e.g. CANDU reactor)
+Gas-cooled Reactors (VHTGR, NGNP)
+Liquid metal cooled reactors
+Molten-salt cooled reactors
+
+Hydrodynamic Model
+RELAP5-3D  is a transient, two-fluid model for flow of a two-phase vapor/gas-liquid mixture that can contain non-condensable components in the vapor/gas phase and/or a soluble component in the liquid phase. The multi-dimensional component in RELAP5-3D was developed to allow the user to more accurately model the multi-dimensional flow behavior that can be exhibited in any component or region of an LWR system. Typically, this will be the lower plenum, core, upper plenum and downcomer regions of an LWR. However, the model is general, and is not restricted to use in the reactor vessel. The component defines a one, two, or three-dimensional array of volumes and the internal junctions connecting them. The geometry can be either Cartesian (x, y, z) or cylindrical (r, q, z). An orthogonal, three-dimensional grid is defined by mesh interval input data in each of the three coordinate directions.The functionality of the multi-dimensional component has been under testing and refinement since it was first applied to study the K reactor at Savannah River in the early 1990s. A set of ten verification test cases with closed form solutions are used to demonstrate the correctness of the numerical formulation for the conservation equations.Recent developments have updated the programming language to FORTRAN 95 and  incorporated viscous effects in multi-dimensional hydrodynamic models. Currently, RELAP5-3D contains 27 different working fluids including:
+
+Light water (e.g. 1967, 1984, and 1995 steam tables)
+Heavy water
+Gases (e.g. helium and carbon dioxide)
+Molten salts (e.g. FLiBe and FLiNaK)
+Liquid metals (e.g. sodium and lead-bismuth eutectic)
+Alternative fluids (e.g. glycerin and ammonia)
+Refrigerants (e.g. R-134a)Working fluids allow single-phase, two-phase, and supercritical applications.
+
+Thermal Model
+Heat structures provided in RELAP5-3D permit calculation of heat transferred across solid boundaries of hydrodynamic volumes. Modeling capabilities of heat structures are general and include fuel pins or plates with nuclear or electrical heating, heat transfer across steam generator tubes, and heat transfer from pipe and vessel walls. Temperature-dependent and space-dependent thermal conductivities and volumetric heat capacities are provided in tabular or functional form either from built-in or user-supplied data. There is also a radiative/conductive enclosure model, for which the user may supply/view conductance factors.
+
+Control System
+RELAP5-3D allows the user to model a control system typically used in hydrodynamic systems, including other phenomena described by algebraic and ordinary differential equations. Each control system component defines a variable as a specific function of time-advanced quantities; this permits control variables to be developed from components that perform simple, basic operations.
+
+Reactor Kinetics
+There are two options that include a point reactor kinetics model and a  multidimensional neutron kinetics model. A flexible neutron cross section model and a control rod model have been implemented to allow for the complete modeling of the reactor core. The decay heat model developed as part of the point reactor kinetics model has been modified to compute decay power for point reactor kinetics and multi-dimensional neutron kinetics models.
+
+Recent Major Upgrades
+Accurate Verification Capability
+Verification ensures the program is built right by: (1) showing it meets its design specifications, (2) comparing its calculations against analytical solutions and method of manufactured solutions. RELAP5-3D Sequential Verification writes a file of extremely accurate representations of primary variables for comparing calculations between code versions to reveal any changes. The test suite of input models exercise code capabilities important for modeling nuclear plants. This verification capability also provides means to test that important code functions such as restart and backup work properly.
+
+Moving System Modeling Capability
+The ability to simulate movement, such as could be encountered in ships, airplanes, or a terrestrial reactor during an earthquake becomes available in the 2013 release of RELAP5-3D. This capability allows the user to simulate motion through input, including translational displacement and rotation about the origin implied by the position of the reference volume. The transient rotation can be input using either Euler or pitch-yaw-roll angles. The movement is simulated using a combination of sine functions and tables of rotational angles and translational displacement. Since the gravitational constant is also an input quantity, this capability is not limited to the surface of the Earth. It allows RELAP5-3D to model reactor systems on space craft, a space station, the moon, or other extraterrestrial bodies.
+
+International RELAP5 Users Group
+There are five different levels of membership available in the International RELAP5 Users Group (IRUG). Each has a different level of benefits, services, and membership fee.
+
+Members
+A full member organization is the highest level of participation possible in the IRUG. Members receive the RELAP5-3D software in source code form. Multiple copy use is allowed. Two levels of membership are available: Regular and "Super User". Regular Member organizations receive up to 40 hours of on-call assistance in areas such as model noding, code usage recommendations, debugging, and interpretations of results from INL RELAP5 technical experts. Super Users receive up to 100 hours of staff assistance.
+
+Multi-Use Participants
+Multi-use participants are organizations that require use of the code but do not need or desire all the benefits of a full member. Participants receive the RELAP5-3D software in executable form only. Multiple copy use is allowed. Participants receive up to 20 hours of staff assistance.
+
+Single-Use Participants
+Single-use participants are restricted to use RELAP5-3D on a single computer, one user at a time. They receive the RELAP5-3D executable code and may receive up to 5 hours of staff assistance.
+
+University Participants
+University Participants may acquire a license to RELAP5-3D for educational purposes.
+
+Training Participants
+Training participants have two main options available: they can receive a 3-month single-use license for the RELAP5-3D code and up to 10 hours of staff assistance, or a 3-month multiple-use license and up to 40 hours of on-call technical assistance. Alternative arrangements can be made based on customers' needs. These levels of participation are designed for those interested in participating in training courses. One set of RELAP5-3D training videos is included.
+
+Major RELAP5-3D Releases
+Notes
+References
+J. A. Findley and G. L. Sozzi, "BWR Refill-Reflood Program – Model Qualification Task Plan," EPRI NP-1527, NUREG/CR-1899, GEAP-24898, October 1981.
+T. M. Anklam, R. J. Miller, M. D. White, "Experimental Investigation of Uncovered-Bundle Heat Transfer and Two-Phase Mixture Level Swell Under High-Pressure and Low Heat Flux Conditions," NUREG/CR-2456, ORNL-5848, Oak Ridge National Laboratory, March 1982.
+K. Carlson, R. Riemke, R. Wagner, J. Trapp, "Addition of Three-Dimensional Modeling," RELAP5/TRAC-B International Users Seminar, Baton Rouge, LA, November 4–8, 1991.
+R. Riemke, "RELAP5 Multi-Dimensional Constitutive Models," RELAP5/TRAC-B International Users Seminar, Baton Rouge, LA, November 4–8, 1991.
+H. Finnemann and A. Galati, "NEACRP 3-D LWR Core Transient Benchmark – Final Specifications," NEACRP-L-335 (Revision 1), January, 1992.
+K. Carlson, R. Riemke, R. Wagner, "Theory and Input Requirements for the Multi-Dimensional Component in RELAP5 for Savannah River Site Thermal-Hydraulic Analysis," EGG-EAST-9878, Idaho National Engineering Laboratory, July, 1992.
+K. Carlson, C. Chou, C. Davis, R. Martin, R. Riemke, R. Wagner, "Developmental Assessment of the Multi-Dimensional Component in RELAP5 for Savannah River Site Thermal-Hydraulic Analysis," EGG-EAST-9803, Idaho National Engineering Laboratory, July, 1992.
+K. Carlson, C. Chou, C. Davis, R. Martin, R. Riemke, R. Wagner, R. Dimenna, G. Taylor, V. Ransom, J. Trapp, "Assessment of the Multi-Dimensional Component in RELAP5/MOD2.5", Proceedings of the 5th International Topical Meeting on Nuclear Reactor Thermal-Hydraulics, Salt Lake City, Utah, USA, September 21–24, 1992.
+P. Murray, R. Dimenna, C. Davis, "A Numerical Study of the Three Dimensional Hydrodynamic Component in RELAP5/MOD3", RELAP5 International Users Seminar, Boston, MA, USA, July, 1993.
+G. Johnsen, "Status and Details of the 3-D Fluid Modeling of RELAP5," Code Application and Maintenance Program Meeting, Santa Fe, NM, October, 1993.
+H. Finnemann, et al., "Results of LWR Core Transient Benchmarks," Proceedings of the Joint International Conference on Mathematical Methods and Supercomputing in Nuclear Applications, Vol. 2, pg. 243, Kernforschungszentrum, Karlsruhe, Germany, April, 1993.
+A. S. Shieh, V. H. Ransom, R Krishnamurthy, RELAP5/MOD3 Code Manual Volume 6: Validation of Numerical Techniques in RELAP5/MOD3, NUREG/CR-5535, EGG-2596, October, 1994.
+C. Davis, "Assessment of the RELAP5 Multi-Dimensional Component Model Using Data from LOFT Test L2-5," INEEL-EXT-97-01325, Idaho National Engineering Laboratory, January, 1998.
+R. M. Al-Chalabi, et al., "NESTLE: A Nodal Kinetics Code," Transactions of the American Nuclear Society, Volume 68, June, 1993.
+J. L. Judd, W. L. Weaver, T. Downar, J. G. Joo, "A Three Dimensional Nodal Neutron Kinetics Capability for RELAP5," Proceedings of the 1994 Topical Meeting on Advances in Reactor Physics, Knoxville, TN, April 11–15, 1994, Vol. II, pp 269–280.
+E. Tomlinson, T. Rens, R. Coffield, "Evaluation of the RELAP5/MOD3 Multidimensional Component Model", RELAP5 International Users Seminar, Baltimore, MD, August 29 – September 1, 1994.
+K. Carlson, "1D to 3D Connection for the Semi-Implicit Scheme," R5M3BET-001, Idaho National Engineering Laboratory, June, 1997.
+A. Shieh, "1D to 3D Connection for the Nearly-Implicit Scheme," R5M3BET-002, Idaho National Engineering Laboratory, June, 1997.
+J. A. Galbraith, G. L. Mesina, "RELAP5/RGUI Architectural Framework", Proceedings of the 8th International Conference on Nuclear Energy (ICONE-8), Baltimore, MD, USA, April 2–6, 2000.
+G. L. Mesina and P. P. Cebull, "Extreme Vectorization in RELAP5-3D," Proceedings of the Cray User Group 2004, Knoxville, TN, USA, May 16–21, 2004.
+D. P. Guillen, G. L. Mesina, J. M. Hykes, "Restructuring RELAP5-3D for Next Generation Nuclear Plant Analysis," 2006 Transactions of the American Nuclear Society, Vol. 94, June 2006.
+G. L. Mesina, "Reformulation RELAP5-3D in FORTRAN 95 and Results," Proceedings of the ASME 2010 Joint US-European Fluids Engineering Summer Meeting and 8th International Conference on Nanochannels Microchannels, and Minichannels, FEDSM2010-ICNMM2010, Montreal, Quebec, Canada, Aug 1-5, 2010.
+The RELAP5-3D Code Development Team, RELAP5-3D Code Manual Volume I: Code Structure, System Models and Solution Methods, INL-EXT-98-00834-V1, Revision 4.2, Idaho National Laboratory, June, 2014.
+The RELAP5-3D Code Development Team, RELAP5-3D Code Manual Volume II: User’s Guide and Input Requirements, INEEL-EXT-98-00834, Revision 4.2, Section 8.7, Idaho National Laboratory, PO Box 1625, Idaho Falls, Idaho 83415, June, 2014.
+The RELAP5-3D Code Development Team, RELAP5-3D Code Manual Volume II: User’s Guide and Input Requirements, Appendix A, INEEL-EXT-98-00834, Revision 4.2, Idaho National Laboratory, PO Box 1625, Idaho Falls, Idaho 83415, June, 2014.
+The RELAP5-3D Code Development Team, RELAP5-3D Code Manual Volume III: Developmental Assessment, INL-EXT-98-00834, Revision 4.2, June, 2014.
+The RELAP5-3D Code Development Team, RELAP5-3D Code Manual Volume IV: Models and Correlations, INL-EXT-98-00834, Revision 4.2, June, 2014.
+The RELAP5-3D Code Development Team, RELAP5-3D Code Manual Volume V: User's Guidelines, INL-EXT-98-00834, Revision 4.2, June, 2014.
+G. L. Mesina, D. L. Aumiller, F. X. Buschman, "Automated, Highly Accurate Verification of RELAP5-3D," ICONE22-31153, Proceedings of the 22nd International Conference on Nuclear Engineering, Prague, Czech Republic, July 7–11, 2014.
+
+External links
+RELAP5-3D Homepage
+International RELAP5 Users Group

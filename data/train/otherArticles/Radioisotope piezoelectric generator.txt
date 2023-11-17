@@ -1,0 +1,18 @@
+A radioisotope piezoelectric generator (RPG) is a type of radioisotope generator that converts energy stored in radioactive materials into motion, which is used to generate electricity using the repeated deformation of a piezoelectric material. This approach creates a high-impedance source and, unlike chemical batteries, the devices will work at a very wide range of temperatures.
+
+History
+In 2002 researchers at Cornell University published and patented the first design.
+
+Mechanism
+A piezoelectric cantilever is mounted directly above a base of the radioactive isotope nickel-63. All of the radiation emitted as the millicurie-level nickel-63 thin film decays is in the form of beta radiation, which consists of electrons. As the cantilever accumulates the emitted electrons, it builds up a negative charge at the same time that the isotope film becomes positively charged. The beta particles essentially transfer electronic charge from the thin film to the cantilever. The opposite charges cause the cantilever to bend toward the isotope film. Just as the cantilever touches the thin-film isotope, the charge jumps the gap. That permits current to flow back onto the isotope, equalizing the charge and resetting the cantilever. As long as the isotope is decaying - a process that can last for decades - the tiny cantilever will continue its up-and-down motion. As the cantilever directly generates electricity when deformed, a charge pulse is released each time the cantilever cycles.
+Radioactive isotopes can continue to release energy over periods ranging from weeks to decades. The half-life of nickel-63, for example, is over 100 years. Thus, a battery using this isotope might continue to supply useful energy for at least half that time. Researchers have demonstrated devices with about 7% efficiency with high frequencies of 120 Hz to low-frequency (every three hours) self-reciprocating actuators.
+
+See also
+Atomic battery
+Betavoltaics
+Thermionic converter
+Optoelectric nuclear battery
+
+References
+External links
+Generator Installation

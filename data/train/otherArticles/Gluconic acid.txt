@@ -1,0 +1,29 @@
+Gluconic acid is an organic compound with molecular formula C6H12O7 and condensed structural formula HOCH2(CHOH)4CO2H.  A white solid, it is forms the gluconate anion in neutral aqueous solution. The salts of gluconic acid are known as "gluconates".  Gluconic acid, gluconate salts, and gluconate esters occur widely in nature because such species arise from the oxidation of glucose.  Some drugs are injected in the form of gluconates.
+
+Chemical structure
+The chemical structure of gluconic acid consists of a six-carbon chain, with five hydroxyl groups positioned in the same way as in the open-chained form of glucose, terminating in a carboxylic acid group. It one of the 16 stereoisomers of 2,3,4,5,6-pentahydroxyhexanoic acid.
+
+Production
+Gluconic acid is typically produced by the aerobic oxidation of glucose in the presence of the enzyme glucose oxidase.  The conversion affords gluconolactone and hydrogen peroxide.  The lactone spontaneously hydrolyzes to gluconic acid in water.
+C6H12O6 +  O2   →   C6H10O6  +  H2O2
+C6H10O6 +  H2O   →   C6H12O7Variations of glucose (or other carbohydrate-containing substrate) oxidation using fermentation. or noble metal catalysis.Gluconic acid was first prepared by Hlasiwetz and Habermann in 1870 and involved the chemical oxidation of glucose. In 1880, Boutroux prepared and isolated gluconic acid using the glucose fermentation.
+
+Occurrence and uses
+Gluconic acid occurs naturally in fruit, honey, and wine. As a food additive (E574), it is now known as an acidity regulator.
+The gluconate anion chelates Ca2+, Fe2+, K+, Al3+, and other metals, including lanthanides and actinides. It is also used in cleaning products, where it dissolves mineral deposits, especially in alkaline solution.
+Zinc gluconate injections are used to neuter male dogs.Gluconate is also used in building and construction as a concrete admixture (retarder) to slow down the cement hydration reactions, and to delay the cement setting time. It allows for a longer time to lay the concrete, or to spread the cement hydration heat over a longer period of time to avoid too high a temperature and the resulting cracking. Retarders are mixed in to concrete when the weather temperature is high or to cast large and thick concrete slabs in successive and sufficiently well-mixed layers.
+Gluconic acid aqueous solution finds application as a medium for organic synthesis.
+
+Medicine
+In medicine, gluconate is used most commonly as a biologically neutral carrier of Zn2+, Ca2+, Cu2+, Fe2+, and K+ to treat electrolyte imbalance.Calcium gluconate, in the form of a gel, is used to treat burns from hydrofluoric acid; calcium gluconate injections may be used for more severe cases to avoid necrosis of deep tissues, as well as to treat hypocalcemia in hospitalized patients. Gluconate is also an electrolyte present in certain solutions, such as "plasmalyte a", used for intravenous fluid resuscitation. Quinine gluconate is a salt of gluconic acid and quinine, which is used for intramuscular injection in the treatment of malaria.
+Ferrous gluconate injections have been proposed in the past to treat anemia.
+
+See also
+Uronic acid
+Glucuronic acid
+Isosaccharinic acid (ISA)
+
+References
+External links
+Gluconic acid on NIST.gov
+ChemSub Online: D-Gluconic acid.

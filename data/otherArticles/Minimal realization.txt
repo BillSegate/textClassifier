@@ -1,7 +1,0 @@
-In control theory, given any transfer function, any state-space model that is both controllable and observable and has the same input-output behaviour as the transfer function is said to be a minimal realization of the transfer function.  The realization is called "minimal" because it describes the system with the minimum number of states.The minimum number of state variables required to describe a system equals the order of the differential equation; more state variables than the minimum can be defined. For example, a second order system can be defined by two or more state variables, with two being the minimal realization.
-
-Gilbert's realization
-Given a matrix transfer function, it is possible to directly construct a minimal state-space realization by using Gilbert's method (also known as Gilbert's realization).
-
-
-== References ==

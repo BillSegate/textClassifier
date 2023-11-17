@@ -1,0 +1,4 @@
+Radiation sensitivity is the susceptibility of a material to physical or chemical changes induced by radiation. Examples of radiation sensitive materials are silver chloride, photoresists and biomaterials. Pine trees are more radiation susceptible than birch due to the complexity of the pine DNA in comparison to the birch. Examples of radiation insensitive materials are metals and ionic crystals such as quartz and sapphire. The radiation effect depends on the type of the irradiating particles, their energy, and the number of incident particles per unit volume. Radiation effects can be transient or permanent. The persistence of the radiation effect depends on the stability of the induced physical and chemical change. Physical radiation effects depending on diffusion properties can be thermally annealed whereby the original structure of the material is recovered. Chemical radiation effects usually cannot be recovered.
+
+
+== References ==

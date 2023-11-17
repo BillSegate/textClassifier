@@ -1,0 +1,98 @@
+Uranium dioxide or uranium(IV) oxide (UO2), also known as urania or uranous oxide, is an oxide of uranium, and is a black, radioactive, crystalline powder that naturally occurs in the mineral uraninite. It is used in nuclear fuel rods in nuclear reactors. A mixture of uranium and plutonium dioxides is used as MOX fuel. Prior to 1960, it was used as yellow and black color in ceramic glazes and glass.
+
+Production
+Uranium dioxide is produced by reducing uranium trioxide with hydrogen.
+
+UO3 + H2 → UO2 + H2O at 700 °C (973 K)This reaction plays an important part in the creation of nuclear fuel through nuclear reprocessing and uranium enrichment.
+
+Chemistry
+Structure
+The solid is isostructural with (has the same structure as) fluorite (calcium fluoride), where each U is surrounded by eight O nearest neighbors in a cubic arrangement. In addition, the dioxides of cerium, thorium, and the transuranic elements from neptunium through californium have the same structures.  No other elemental dioxides have the fluorite structure. Upon melting, the measured average U-O coordination reduces from 8 in the crystalline solid (UO8 cubes), down to 6.7±0.5 (at 3270 K) in the melt. Models consistent with these measurements show the melt to consist mainly of UO6 and UO7 polyhedral units, where roughly 2⁄3 of the connections between polyhedra are corner sharing and 1⁄3 are edge sharing.
+
+Oxidation
+Uranium dioxide is oxidized in contact with oxygen to the triuranium octaoxide.
+
+3 UO2 + O2 → U3O8 at 700 °C (970 K)The electrochemistry of uranium dioxide has been investigated in detail as the galvanic corrosion of uranium dioxide controls the rate at which used nuclear fuel dissolves. See spent nuclear fuel for further details. Water increases the oxidation rate of plutonium and uranium metals.
+
+Carbonization
+Uranium dioxide is carbonized in contact with carbon, forming uranium carbide and carbon monoxide.
+
+  
+    
+      
+        
+          
+            UO
+            
+              2
+            
+            
+              
+            
+          
+           
+          +
+           
+          4
+          
+          C
+          ⟶
+          
+            UC
+            
+              2
+            
+            
+              
+            
+          
+           
+          +
+           
+          2
+          
+          CO
+        
+      
+    
+    {\displaystyle {\ce {UO2 \ + \ 4C -> UC2 \ + \ 2CO}}}
+  .This process must be done under an inert gas as uranium carbide is easily oxidized back into uranium oxide.
+
+Uses
+Nuclear fuel
+UO2 is used mainly as nuclear fuel, specifically as UO2 or as a mixture of UO2 and PuO2 (plutonium dioxide) called a mixed oxide (MOX fuel), in the form of fuel rods in nuclear reactors.
+Note that the thermal conductivity of uranium dioxide is very low when compared with uranium, uranium nitride, uranium carbide and zirconium cladding material. This low thermal conductivity can result in localised overheating in the centres of fuel pellets. The graph below shows the different temperature gradients in different fuel compounds. For these fuels, the thermal power density is the same and the diameter of all the pellets are the same.
+
+Color for glass ceramic glaze
+Uranium oxide (urania) was used to color glass and ceramics prior to World War II, and until the applications of radioactivity were discovered this was its main use. In 1958 the military in both the US and Europe allowed its commercial use again as depleted uranium, and its use began again on a more limited scale. Urania-based ceramic glazes are dark green or black when fired in a reduction or when  UO2 is used; more commonly it is used in oxidation to produce bright yellow, orange and red glazes. Orange-colored Fiestaware is a well-known example of a product with a urania-colored glaze.  Uranium glass is pale green to yellow and often has strong fluorescent properties. Urania has also been used in formulations of enamel and porcelain. It is possible to determine with a Geiger counter if a glaze or glass produced before 1958 contains urania.
+
+Other uses
+Prior to the realisation of the harmfulness of radiation, uranium was included in false teeth and dentures, as its slight fluorescence made the dentures appear more like real teeth in a variety of lighting conditions.
+Depleted UO2 (DUO2) can be used as a material for radiation shielding. For example, DUCRETE is a "heavy concrete" material where gravel is replaced with uranium dioxide aggregate; this material is investigated for use for casks for radioactive waste. Casks can be also made of DUO2-steel cermet, a composite material made of an aggregate of uranium dioxide serving as radiation shielding, graphite and/or silicon carbide serving as neutron radiation absorber and moderator, and steel as the matrix, whose high thermal conductivity allows easy removal of decay heat.Depleted uranium dioxide can be also used as a catalyst, e.g. for degradation of volatile organic compounds in gaseous phase, oxidation of methane to methanol, and removal of sulfur from petroleum. It has high efficiency and long-term stability when used to destroy VOCs when compared with some of the commercial catalysts, such as precious metals, TiO2, and Co3O4 catalysts. Much research is being done in this area, DU being favoured for the uranium component due to its low radioactivity.The use of uranium dioxide as a material for rechargeable batteries is being investigated. The batteries could have high power density and potential of 4.7 V per cell. Another investigated application is in photoelectrochemical cells for solar-assisted hydrogen production where UO2 is used as a photoanode. In earlier times, uranium dioxide was also used as heat conductor for current limitation (URDOX-resistor), which was the first use of its semiconductor properties.Uranium dioxide displays strong piezomagnetism in the antiferromagnetic state, observed at cryogenic temperatures below 30 kelvins. Accordingly, the linear magnetostriction found in UO2 changes sign with the applied magnetic field and exhibits magnetoelastic memory switching phenomena at record high switch-fields of 180,000 Oe. The microscopic origin of the material magnetic properties lays in the face-centered-cubic crystal lattice symmetry of uranium atoms, and its response to applied magnetic fields.
+
+Semiconductor properties
+The band gap of uranium dioxide is comparable to those of silicon and gallium arsenide, near the optimum for efficiency vs band gap curve for absorption of solar radiation, suggesting its possible use for very efficient solar cells based on Schottky diode structure; it also absorbs at five different wavelengths, including infrared, further enhancing its efficiency. Its intrinsic conductivity at room temperature is about the same as of single crystal silicon.The dielectric constant of uranium dioxide is about 22, which is almost twice as high as of silicon (11.2) and GaAs (14.1). This is an advantage over Si and GaAs in the construction of integrated circuits, as it may allow higher density integration with higher breakdown voltages and with lower susceptibility to the CMOS tunnelling breakdown.
+The Seebeck coefficient of uranium dioxide at room temperature is about 750 µV/K, a value significantly higher than the 270 µV/K of thallium tin telluride (Tl2SnTe5) and thallium germanium telluride (Tl2GeTe5) and of bismuth-tellurium alloys, other materials promising for thermoelectric power generation applications and Peltier elements.
+The radioactive decay impact of the 235U and 238U on its semiconducting properties was not measured as of 2005. Due to the slow decay rate of these isotopes, it should not meaningfully influence the properties of uranium dioxide solar cells and thermoelectric devices, but it may become an important factor for VLSI chips. Use of depleted uranium oxide is necessary for this reason. The capture of alpha particles emitted during radioactive decay as helium atoms in the crystal lattice may also cause gradual long-term changes in its properties.The stoichiometry of the material dramatically influences its electrical properties. For example, the electrical conductivity of UO1.994 is orders of magnitude lower at higher temperatures than the conductivity of UO2.001.
+Uranium dioxide, like U3O8, is a ceramic material capable of withstanding high temperatures (about 2300 °C, in comparison with at most 200 °C for silicon or GaAs), making it suitable for high-temperature applications like thermophotovoltaic devices.
+Uranium dioxide is also resistant to radiation damage, making it useful for rad-hard devices for special military and aerospace applications.
+A Schottky diode of U3O8 and a p-n-p transistor of UO2 were successfully manufactured in a laboratory.
+
+Toxicity
+Uranium dioxide is known to be absorbed by phagocytosis in the lungs.
+
+See also
+Cleveite
+Ducrete
+Uranium oxide
+Uranium glass
+Uranium tile
+
+References
+Further reading
+Barrett, S. A.; Jacobson, A. J.; Tofield, B. C.; Fender, B. E. F. (1982). "The preparation and structure of barium uranium oxide BaUO3+x". Acta Crystallographica Section B. 38 (11): 2775. doi:10.1107/S0567740882009935.
+
+External links
+Semiconducting properties of uranium oxides Archived 2012-09-01 at the Wayback Machine
+Free Dictionary Listing for Uranium Dioxide
+The Uranium dioxide Archived 2013-09-16 at the Wayback Machine International Bio-Analytical Industries, Inc.

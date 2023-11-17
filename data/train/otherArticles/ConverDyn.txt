@@ -1,0 +1,27 @@
+ConverDyn is a general partnership between American multinational firms General Atomics and Honeywell that provides uranium hexafluoride (UF6) conversion and related services to utilities operating nuclear power plants in North America, Europe, and Asia.  The company is the sole marketing agent of UF6 produced at the Honeywell Uranium Hexafluoride Processing Facility in Metropolis, Illinois.
+
+History
+From 1970 to 1992, there were two operating uranium hexafluoride conversion facilities in the United States.  These included Allied Signal's Metropolis Works Facility and General Atomics' Sequoyah Fuels Facility in Gore, Oklahoma.  Facing low conversion prices and the implementation of the Megatons to Megawatts Program, both companies recognized the forthcoming struggles surrounding excess market supply of conversion services.  In 1992, Allied Signal and General Atomics agreed to close the Gore, Oklahoma facility and take joint and equal ownership of profits from Allied Signal's plant in Metropolis, Illinois.  ConverDyn was formed as a general partnership between the two companies as the sole marketing organization of uranium hexafluoride produced at the Metropolis plant.  As a result, any and all uranium hexafluoride produced at Metropolis Works is marketed and sold by ConverDyn.  In 1999, Honeywell and Allied Signal merged resulting in the partnership structure that exists currently.
+
+Honeywell Metropolis Works
+Built in 1958, the Honeywell Metropolis Works Facility is the only uranium hexafluoride conversion facility in the United States.  The plant has an annual conversion capacity of approximately 15,000 tU as UF6 accounting for approximately 20% of worldwide production capacity.   The plant feeds U3O8 yellowcake received from uranium mines and produces uranium hexafluoride gas for enrichment at one of the primary enrichment sites around the world.  After being enriched, product is fabricated into nuclear fuel that ends up generating electricity at a nuclear power plant.
+
+Conversion Process
+Honeywell Metropolis Works deploys a unique technology and process by which it converts yellowcake to uranium hexafluoride gas.  The other Western conversion facilities, Areva and Cameco, each utilize a process that requires two different facilities, one to convert yellowcake to either uranium tetrafluoride or uranium trioxide and another to convert to uranium hexafluoride.  Honeywell developed a process known as the dry fluoride volatility conversion process that allows for complete yellowcake to UF6 at a single facility and also yielding a greater level of UF6 purity at 99.99% or higher.The dry fluoride volatility conversion process at Metropolis works goes through five basic steps: feed preparation, reduction, hydrofluorination, fluorination, and distillation.
+Feed PreparationThe aim of this initial step it to ensure that uranium concentrates have the optimum particle size and density necessary to move forward in the process of conversion.
+
+ReductionDuring this stage, uranium ore concentrates are converted to uranium dioxide and impurities are removed from the system into a waste gas stream.  The sized yellowcake is reacted with hydrogen in a fluidizing medium to form uranium dioxide
+
+2U3O8+H2 → 3UO2 + 2H2OHydrofluorinationThe UO2 resulting from the previous reduction stage is then converted into uranium tetrafluoride intermediate (Green Salt) and additional impurities are removed from the system.
+
+UO2+4HF → UF4 + 2H2OFluorinationThe Metropolis Works Plant operates the largest gaseous fluorine capacity in the world.  Fluorine is produced in this process by the electrolysis of HF in a Potassium Bifluoride substrate.  The fluorine is pulled to the fluorination process under vacuum so as to increase the safety of this step.  The result of this step is crude uranium hexafluoride gas.
+
+UF4+F2 → UF6DistillationFinally, uranium hexafluoride from the previous step is purified in a two-stage distillation system.  The crude UF6 is vaporized and transferred through a boiling system into cold traps.  After cooling, the final product is filled into cylinders for transport.  This stage is proprietary Honeywell technology which allows output of 99.99% or greater UF6.
+
+2012 Required Plant Upgrades
+After the Fukushima Daiichi nuclear disaster in 2011, the United States Nuclear Regulatory Commission conducted inspections at all US nuclear facilities for seismic deficiencies and general resistance to natural disasters.  Although initial inspections confirmed that the Metropolis Works Facility was in full compliance with its operating license, the NRC shutdown the plant in May 2012 and required a series of upgrades to improve resilience to natural disasters including earthquakes and tornadoes.  Honeywell elected to complete required upgrades and the plant restarted production of uranium hexafluoride in July 2013, after more than a year offline.
+
+Gallery
+
+
+== References ==

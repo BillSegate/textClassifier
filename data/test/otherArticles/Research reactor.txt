@@ -1,0 +1,40 @@
+Research reactors are nuclear fission-based nuclear reactors that serve primarily as a neutron source. They are also called non-power reactors, in contrast to power reactors that are used for electricity production, heat generation, or maritime propulsion.
+
+Purpose
+The neutrons produced by a research reactor are used for neutron scattering, non-destructive testing, analysis and testing of materials, production of radioisotopes, research and public outreach and education. Research reactors that produce radioisotopes for medical or industrial use are sometimes called isotope reactors. Reactors that are optimised for beamline experiments nowadays compete with spallation sources.
+
+Technical aspects
+Research reactors are simpler than power reactors and operate at lower temperatures. They need far less fuel, and far less fission products build up as the fuel is used. On the other hand, their fuel requires more highly enriched uranium, typically up to 20% U-235, although some use 93% U-235; while 20% enrichment is not generally considered usable in nuclear weapons, 93% is commonly referred to as "weapons-grade". They also have a very high power density in the core, which requires special design features. Like power reactors, the core needs cooling, typically natural or forced convection with water, and a moderator is required to slow the neutron velocities and enhance fission. As neutron production is their main function, most research reactors benefit from reflectors to reduce neutron loss from the core.
+
+Conversion to low enriched uranium
+The International Atomic Energy Agency and the U.S. Department of Energy initiated a program in 1978 to develop the means to convert research reactors from using highly enriched uranium (HEU) to the use of low enriched uranium (LEU), in support of its nonproliferation policy. By that time, the U.S. had supplied research reactors and highly enriched uranium to 41 countries as part of its Atoms for Peace program. In 2004, the U.S. Department of Energy extended its Foreign Research Reactor Spent Nuclear Fuel Acceptance program until 2019.As of 2016, a National Academies of Sciences, Engineering, and Medicine report concluded converting all research reactors to LEU cannot be completed until 2035 at the earliest.  In part this is because the development of reliable LEU fuel for high neutron flux research reactors, that does not fail through swelling, has been slower than expected. As of 2020, 72 HEU research reactors remain.
+
+Designers and constructors
+While in the 1950s, 1960s and 1970s there were a number of companies that specialized in the design and construction of research reactors, the activity of this market cooled down afterwards, and many companies withdrew.
+The market has consolidated today into a few companies that concentrate the key projects on a worldwide basis.
+The most recent international tender (1999) for a research reactor was that organized by the Australian Nuclear Science and Technology Organisation for the design, construction and commissioning of the Open-pool Australian lightwater reactor (OPAL). Four companies were prequalified: Atomic Energy of Canada Limited (AECL), INVAP, Siemens and Technicatom. The project was awarded to INVAP that built the reactor. In recent years, AECL withdrew from this market, and Siemens and Technicatom activities were merged into Areva.
+
+Classes of research reactors
+Aqueous homogeneous reactor
+Argonaut class reactor
+DIDO class, six high-flux reactors worldwide
+TRIGA, a highly successful class with >50 installations worldwide
+SLOWPOKE reactor class, developed by AECL, Canada
+OPAL reactor class, developed by INVAP, Argentina
+Miniature neutron source reactor, based on the SLOWPOKE design, developed by AECL, currently exported by China
+Aerojet General Nucleonics, 201 Models. Developed by Aerojet General in the United States. 3 current reactors in operation at Idaho State University, The University of New Mexico, and Texas A&M University.
+
+Research centers
+A complete list can be found at the List of nuclear research reactors.
+Research centers that operate a reactor:
+
+Decommissioned research reactors:
+
+References
+WNA Information Paper # 61: Research Reactors Archived 2013-02-28 at the Wayback Machine
+Nuclear Nonproliferation: DOE Needs to Take Action to Further Reduce the Use of Weapons-Usable Uranium in Civilian Research Reactors, GAO, July 2004, GAO-04-807
+
+External links
+IAEA searchable list of Nuclear Research Reactors in the world
+The National Organization of Test, Research, and Training Reactors, Inc.
+NMI3 - EU-FP7 Integrated Infrastructure Initiative for Neutron Scattering and Muon Spectroscopy

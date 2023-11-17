@@ -1,0 +1,13 @@
+Median aerodynamic diameter (MAD) is one of two parameters influencing the deposition of inhaled particles, the other being the geometric standard deviation of the particle size distribution. The MAD is the value of aerodynamic diameter for which 50% of some quantity in a given aerosol is associated with particles smaller than the MAD, and 50% of the quantity is associated with particles larger than the MAD. It simplifies the true distribution of aerodynamic diameters of a given aerosol as a single value. It is also used to describe those particle sizes for which deposition depends chiefly on inertial impaction and sedimentation.
+
+Activity median aerodynamic diameter
+In the context of radiation protection, activity median aerodynamic diameter (AMAD) is the MAD for the airborne activity in a given aerosol. Internal dosimetry uses it as a means of simplifying the true distribution of aerodynamic diameters of a given aerosol.
+
+Count median aerodynamic diameter
+Count median aerodynamic diameter (CMAD) is only used rarely. Half of the particles (by count) of a given aerosol have the aerodynamic diameter smaller than the CMAD, and the other half larger. A similar quantity, count median (geometric) diameter (CMD) is more common.
+
+Mass median aerodynamic diameter
+Mass median aerodynamic diameter (MMAD) is the MAD for mass.
+
+
+== References ==

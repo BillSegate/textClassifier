@@ -1,0 +1,10 @@
+Depleted zinc oxide (DZO) is a zinc oxide depleted in the zinc isotope with the atomic mass 64, and used as a corrosion inhibitor in nuclear pressurized water reactors.
+The depletion of 64Zn is necessary, because this isotope is transformed into 65Zn by neutron capture. 65Zn with a half-life of 244.26 days emits gamma radiation with 1.115 MeV.   64Zn has a natural abundance of 48.6%, but in DZO it is reduced below 1%. Adding zinc oxide to the primary water loop of a boiling water reactor or pressurized water nuclear reactor reduces corrosion and therefore minimizes the amount of dissolved materials, especially 60Co.
+The isotope separation of zinc is done by gas centrifugation of diethylzinc.
+
+References
+Cowan, R. L. (2001). "BWR water chemistry—a delicate balance". Nuclear Energy. 40 (4): 245–252. doi:10.1680/nuen.40.4.245.39338.
+
+External links
+"Depleted Zinc Isotopes". tracesciences.com. Archived from the original on 2009-07-10. Retrieved 2008-12-13.
+"Depleted Zinc for the Nuclear Industry" (PDF). Nukem. Retrieved 2008-12-13.

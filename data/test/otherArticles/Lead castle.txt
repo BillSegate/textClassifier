@@ -1,0 +1,18 @@
+A lead castle, also called a lead cave or a lead housing, is a structure composed  of lead to provide   shielding against gamma radiation in a variety of applications in the nuclear industry and other activities which use ionizing radiation.
+
+Applications
+Shielding of radioactive materials
+Castles are widely used to shield radioactive "sources" (see notes)  and radioactive materials, either in the laboratory or plant environment.  The purpose of the castle is to shield people from gamma radiation. Lead will not efficiently attenuate neutrons. If an experiment or pilot plant is to be observed, a viewing window of lead glass may be used to give gamma shielding but allow visibility.
+
+Shielding of radiation detectors
+Plant radiation detectors that are operating in a high ambient gamma background are sometimes shielded to prevent the background swamping the detector. Such a detector may be looking for alpha and beta particles, and gamma radiation will affect this. 
+Laboratory or health physics detectors, even if remote from nuclear operations, may require shielding if very low levels of radiation are to be detected. This is the case with, for instance, a scintillation counter measuring low levels of contamination on a swab or sample.
+
+Construction
+The castle can be made from individual bricks; usually with interlocking chevron edges to prevent "shine paths" of direct radiation through the gaps. They can also be made from lead produced in bespoke shapes by machining or casting. Such an example would be the annular ring castle commonly used for shielding scintillation counters.
+A typical lead brick weighs about ten kilograms. Lead castles can be made of hundreds of bricks and weigh thousands of kilograms, so the floor must be able to withstand a heavy load. It is best to set up on a floor designed to carry the weight, or in the basement of a building built on a concrete slab. If the castle is not put directly on such a floor, it will require a suitably strong structure to safely support it.
+
+Notes and references
+External links
+ Media related to Lead radiation shielding at Wikimedia Commons
+Lead castle pictures

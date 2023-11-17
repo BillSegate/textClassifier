@@ -1,0 +1,21 @@
+Project Pele is a project of the US Department of Defense to build a deployable nuclear power reactor for use in United States Armed Forces remote operating bases.
+In 2020 the project was listed as relevant to lunar and Mars missions.: 15  presumably for surface operations rather than rocket propulsion.
+
+Initial contracts
+On 9 March 2020, the Department awarded three development contracts, to:
+
+BWX Technologies, of Virginia, for $13.5 million;
+Westinghouse Government Services of Washington, D.C. for $11.95 million; and
+X-energy of Maryland, for $14.3 million.The two-year engineering design competition is for a small nuclear micro-reactor in the 1-5 megawatt (MWe) power range.
+
+Development
+Out of the initial three contracts - BWX Technologies, Westinghouse Government Services and X-energy - only BWX Technologies and X-energy were selected in 2021 to develop a final design for a prototype mobile microreactor under the Project Pele initiative, and then in June 2022 BWXT was awarded a contract by the US Department of Defense (DOD) Strategic Capabilities Office (SCO) to build the prototype and deliver it by 2024. The estimated cost of this prototype is approximately 300 million USD. In December 2022, BWXT started the TRISO fuel production at BWX Technologies Inc's Lynchburg facility in Virginia.The envisaged reactor is intended to be deployable by road, rail, aircraft, or sea. It will be capable of quickly being brought on load, and be inherently safe. Information from: US Army Futures Command
+
+See also
+Akademik Lomonosov, a Russian floating power plant with two 32 MWe reactors
+Army Nuclear Power Program, a similar US project in the 1960's
+
+Notes
+
+
+== References ==

@@ -1,0 +1,26 @@
+A radioisotope heater unit (RHU) is a small device that provides heat through radioactive decay. They are similar to tiny radioisotope thermoelectric generators (RTG) and normally provide about one watt of heat each, derived from the decay of a few grams of plutonium-238—although other radioactive isotopes could be used. The heat produced by these RHUs is given off continuously for several decades and, theoretically, for up to a century or more.In spacecraft, RHUs are used to keep other components at their operational temperatures, which may be very different to the temperature of other parts of the spacecraft. In the vacuum of space any part of the spacecraft which doesn't receive direct sunlight will cool down so much that electronics or delicate scientific instruments break down. They are simpler and more reliable than other ways of keeping components warm, such as electric heaters.
+
+Spacecraft use
+Most lunar and Martian surface probes use RHUs for heat, including many probes that use solar panels rather than RTGs to generate electricity. Examples include the seismometer deployed on the Moon by Apollo 11 in 1969, which contained 1.2 ounces (34 grams) of plutonium-238; Mars Pathfinder; and the Mars Exploration Rovers Spirit and Opportunity. RHUs are especially useful on the Moon because of its lengthy and cold two-week night.
+Virtually every deep space mission beyond Mars uses both RHUs and RTGs. Solar insolation decreases with the square of the distance from the Sun, so additional heat is needed to keep spacecraft components at nominal operating temperature. Some of this heat is produced electrically because it is easier to control, but electrical heaters are far less efficient than a RHU because RTGs convert only a few percent of their heat to electricity and reject the rest to space.
+The Cassini–Huygens spacecraft sent to Saturn contained eighty-two of these units (in addition to three main RTGs for power generation). The associated Huygens probe contained thirty-five.
+
+Isotope
+Radioisotope heater units for NASA missions have used Plutonium-238 as the isotope for heat sources, since the radioactive half-life of 87.7 years means that the decay of the isotope will not limit the mission lifetime. The isotope produces 0.57 watts of thermal power per gram of 238Pu.Soviet missions have used other isotopes, such as the Polonium-210 heat source used in the Lunokhod lunar rovers. With a half-life of about 4 1⁄2 months, Po-210 produces more thermal power per unit mass, but is suitable only for shorter duration missions. Strontium-90 has also been proposed.
+
+Comparison of RHU with RTG
+While both RHUs and Radioisotope Thermoelectric Generators (RTGs) use the decay heat of a radioactive isotope, RHUs are generally much smaller as a result of omitting the thermocouples and heat sinks/radiators required to generate electricity from heat. Both RHUs and RTGs feature rugged, heat-resistant casings to safely contain the radioisotope in the event of a launch or re-entry vehicle failure. The total mass of a single one-watt RHU (including shielding) is about 40 grams. Similar schemes, such as thermionic generators, have also been used.
+
+GPHS
+The United States Department of Energy has developed the general-purpose heat source (GPHS) primarily for space use. These GPHSs can be used individually or in groups of up to eighteen for component heating, but are primarily used as the heat source for RTGs. Each GPHS contains four iridium-clad Pu-238 fuel pellets, standing 5 cm tall, 10 cm square and weighs 1.44 kg.
+
+See also
+Nuclear fuel
+Radioisotope generator
+Stirling radioisotope generator
+Radioisotope thermoelectric generator
+
+References
+External links
+NASA Radioisotope Power Systems website – RHU page
+Radioisotope heater unit fact sheet from NASA's Cassini mission website

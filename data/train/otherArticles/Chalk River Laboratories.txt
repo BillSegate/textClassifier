@@ -1,0 +1,66 @@
+Chalk River Laboratories (French: Laboratoires de Chalk River; also known as CRL, Chalk River Labs and formerly Chalk River Nuclear Laboratories, CRNL) is a Canadian nuclear research facility in Deep River, about 180 km (110 mi) north-west of Ottawa.
+CRL is a site of major research and development to support and advance nuclear technology, particularly CANDU reactor technology. CRL has expertise in physics, metallurgy, chemistry, biology, and engineering, and hosts unique research facilities. For example, Bertram Brockhouse, a professor at McMaster University, received the 1994 Nobel Prize in Physics for his pioneering work in neutron spectroscopy while at CRL from 1950 to 1962.  Sir John Cockcroft was an early director of CRL and also a Nobel laureate. Until the shutdown of its nuclear reactor in 2018, CRL produced a large share of the world's supply of medical radioisotopes. It is owned by the Canadian Nuclear Laboratories subsidiary of Atomic Energy of Canada Limited and operated under contract by the Canadian National Energy Alliance, a private-sector consortium led by AtkinsRéalis.
+
+History
+The facility arose out of a 1942 collaboration between British and Canadian nuclear researchers which saw the Montreal Laboratory established under the National Research Council (NRC).  By 1944, the Chalk River Laboratories (known as “Petawawa Works” of Defence Industries Limited during the early stages) were opened and, in September 1945, the facility saw the first nuclear reactor outside of the United States, ZEEP, become operational (see Lew Kowarski).  In 1946, NRC closed the Montreal laboratory and focused its resources on Chalk River.In 1952, Atomic Energy of Canada Limited (AECL) was created by the government to promote peaceful use of nuclear energy.  AECL also took over operation of Chalk River from the NRC.  Since the 1950s, various nuclear research reactors have been operated by AECL for production of nuclear material for medical and scientific applications. At one point in time, the Chalk River Laboratories produced about one-third of the world's medical isotopes, and about half of the North American supply. Despite the declaration of peaceful use, from 1955 to 1985, Chalk River facilities supplied about 254.2 kilograms (560 lb) of plutonium, in the form of spent reactor fuel, to the U.S. Department of Energy to be used in the production of nuclear weapons. (The bomb dropped on Nagasaki, Japan, used about 6.4 kilograms (14 lb) of plutonium.)
+Canada's first nuclear power plant, a partnership between AECL and Hydro-Electric Power Commission of Ontario, went online in 1962 near the site of Chalk River Laboratories. This reactor, Nuclear Power Demonstration (NPD), was a demonstration of the CANDU reactor design, one of the world's safest and most successful nuclear reactors.
+The Deep River neutron monitor operated once in Chalk river.
+
+1952 NRX incident
+Chalk River was also the site of two nuclear accidents in the 1950s. The first incident occurred on December 12, 1952, when there was a power excursion and partial loss of coolant in the NRX reactor, which resulted in significant damage to the core. The control rods could not be lowered into the core because of mechanical problems and human errors. Three rods did not reach their destination and were taken out again by accident. The fuel rods were overheated, resulting in a meltdown. The reactor and the reactor building were seriously damaged by hydrogen explosions. The seal of the reactor vessel was blown up four feet, and 4,500 cubic metres (1,200,000 US gal) of radioactive water were found in the cellar of the building. This water was dumped in ditches around 1,600 metres (5,200 ft) from the border of the Ottawa River. During this accident some 10 kilocuries (400 TBq) of radioactive material was released. Future U.S. president Jimmy Carter, then a U.S. Navy officer in Schenectady, New York, was part of a team of 26 men, including 13 U.S. Navy volunteers, involved in the hazardous cleanup. Two years later the reactor was in use again.
+
+1958 NRU incident
+The second accident, in 1958, involved a fuel rupture and fire in the National Research Universal reactor (NRU) reactor building. Some fuel rods were overheated. With a robotic crane, one of the rods with metallic uranium was pulled out of the reactor vessel. When the arm of the crane moved away from the vessel, the uranium caught fire and the rod broke. The largest part of the rod fell down into the containment vessel, still burning. The whole building was contaminated. The valves of the ventilation system were opened, and a large area outside the building was contaminated. The fire was extinguished by scientists and maintenance men in protective clothing running along the hole in the containment vessel with buckets of wet sand, throwing the sand down at the moment they passed the smoking entrance.Both accidents required a major cleanup effort involving many civilian and military personnel.  Follow-up health monitoring of these workers has not revealed any adverse impacts from the two accidents. However, the Canadian Coalition for Nuclear Responsibility, an anti-nuclear watchdog group, notes that some cleanup workers who were part of the military contingent assigned to the NRU reactor building unsuccessfully applied for a military disability pension due to health damages.Chalk River Laboratories remain an AECL facility to this day and is used as both a research (in partnership with the NRC) and production facility (on behalf of AECL) in support of other Canadian electrical utilities.
+
+2007 shutdown
+On November 18, 2007, the NRU, which made medical radioisotopes, was shut down for routine maintenance. This shutdown was extended when AECL, in consultation with the Canadian Nuclear Safety Commission (CNSC), decided to connect seismically-qualified emergency power supplies (EPS) to two of the reactor's cooling pumps (in addition to the AC and DC backup power systems already in place), which had been required as part of its August 2006 operating licence issued by the CNSC.  This resulted in a worldwide shortage of radioisotopes for medical treatments because Chalk River made the majority of the world's supply of medical radioisotopes, including two-thirds of the world's technetium-99m.On December 11, 2007, the House of Commons of Canada, acting on independent expert advice, passed emergency legislation authorizing the restarting of the NRU reactor and its operation for 120 days (counter to the decision of the CNSC), which was passed by the Senate and received Royal Assent on December 12. Prime Minister Stephen Harper criticized the CNSC for this shutdown which "jeopardized the health and safety of tens of thousands of Canadians", insisting that there was no risk, contrary to the testimony of then CNSC President & CEO Linda Keen. She would later be fired for ignoring a decision by Parliament to restart the reactor, reflecting its policy that the safety of citizens requiring essential nuclear medicine should be taken into account in assessing the overall safety concerns of the reactor's operation.
+The NRU reactor was restarted on December 16, 2007.
+
+2008 radioactive leakage
+On December 5, 2008, heavy water containing tritium leaked from the NRU.  The leaked water was contained within the facility, and the Canadian Nuclear Safety Commission (CNSC) was notified immediately, as required.In its formal report to the CNSC, filed on December 9, 2008 (when the volume of leakage was determined to meet the requirement for such a report) AECL mentioned that 47 litres (10 imp gal; 12 US gal) of heavy water were released from the reactor, about 10% of which evaporated and the rest contained, but affirmed that the spill was not serious and did not present a threat to public health. The amount that evaporated to the atmosphere is considered to be minor, accounting for less than a thousandth of the regulatory limit.  The public was informed of the shutdown at the reactor, but not the details of the leakage, since it was not deemed to pose a risk to the public or environment.  The leak stopped before the source could be identified, and the reactor was restarted on December 11, 2008 with the approval of the CNSC, after a strategy for dealing with the leak (should it reappear) was put in place.In an unrelated incident, the same reactor had been leaking 7,001 litres (1,540 imp gal; 1,849 US gal) of light water per day from a crack in a weld of the reactor's reflector system.  This water was being systematically collected, purified in an on-site Waste Treatment Centre, and eventually released to the Ottawa River in accordance with CNSC, Health Canada, and Ministry of the Environment regulations.  Although the leakage was not a concern to the CNSC from a health, safety or environmental perspective, AECL made plans for a repair to reduce the current leakage rate for operational reasons.
+
+2009 NRU reactor shutdown
+In mid-May 2009, the heavy water leak at the base of the NRU reactor vessel, first detected in 2008 (see above), returned at a greater rate and prompted another temporary shutdown that lasted until August 2010.  The lengthy shutdown was necessary to first completely defuel the entire reactor, then ascertain the full extent of the corrosion to the vessel, and finally to effect the repairs - all with remote and restricted access from a minimum distance of 8 metres (26 ft) due to the residual radioactivity in the reactor vessel. The 2009 shutdown occurred at a time when only one of the other four worldwide regular medical isotope sourcing reactors was producing, resulting in a worldwide shortage.
+
+NRU shutdown in March 2018
+The NRU reactor licence expired in 2016.  However, the licence was extended to March 31, 2018. The reactor was shut down for the last time at 7 p.m. on March 31, 2018, and has entered a "state of storage" prior to decommissioning operations which will continue for many years within the scope of future operating or decommissioning licences issued by the CNSC.
+
+Modernization and decommissioning
+The site remains in active use as of 2022. In 2016, 1.2 billion CAD was allotted over ten years to decommission 120 old buildings and build new ones. The new buildings were completed starting in 2020, as the Canadian Nuclear Laboratories Research Facilities.In May 2023, it was announced that the world's first micro-modular reactor, from Global First Power (GFP), is to be built at Chalk River Laboratories and will be used to power the CNL campus as a demonstration unit. It is then expected that multiple microreactors, each the size of a shipping container, will be built at CNL and transported to remote northern communities where they will replace the existing diesel generator infrastructure, saving some 200 million litres of fuel.
+
+Major facilities
+ZEEP – Zero Energy Experimental Pile Reactor (1945–1973).
+NRX – NRX Reactor (1947–1992).
+NRU – National Research Universal 135 MW (thermal) Reactor (1957–2018).
+CNBC – Canadian Neutron Beam Centre (ended operation along with NRU in 2018).
+PTR – Pool Test 10 kW Reactor (1957–1990).
+ZED-2 – Zero Energy Deuterium 200W Reactor (1960–present).
+NPD – Nuclear Power Demonstration 20MW(e) reactor; located north of CRL in Rolphton, Ontario (1960–1987).
+SLOWPOKE – Safe Low-Power Kritical Experiment 5 kW Reactor (1970–1976); moved to the University of Toronto in 1971.
+TASCC – Tandem Accelerator Superconducting Cyclotron (1986–1996).
+MAPLE-1 – Multipurpose Applied Physics Lattice Experiment Reactor (2000–2008; cancelled).
+MAPLE-2 – Multipurpose Applied Physics Lattice Experiment Reactor (2003–2008; cancelled).
+CRIPT – Cosmic Ray Inspection and Passive Tomography
+
+See also
+Atomic Energy of Canada Limited
+CANDU reactor
+Lew Kowarski
+George Laurence
+Manhattan Project
+Nuclear power in Canada
+Petten nuclear reactor, a nuclear reactor in the Netherlands that produces Europe's supply of isotopes for nuclear medicine
+Science and technology in Canada
+
+References
+Further reading
+Robert Bothwell, "Nucleus. The History of Atomic Energy of Canada Limited", University of Toronto Press, 1988.
+http://www.cnl.ca/en/home/default.aspx Archived 2015-11-30 at the Wayback Machine
+
+External links
+NRC Archives Photographs - Physics- Atomic Energy Project collection
+Radioisotopes produced at Chalk River
+Nuclear Accidents at Chalk River: The Human Fallout
+What are the details of the accident at Chalk River's NRX reactor in 1952? (Canadian Nuclear FAQ, Dr. Jeremy Whitlock)
+What are the details of the accident at Chalk River's NRU reactor in 1958? (Canadian Nuclear FAQ, Dr. Jeremy Whitlock)
+AM 530 kHz CKML (see article) Emergency Broadcast Information Only (CRTC Approval November 25, 1998)

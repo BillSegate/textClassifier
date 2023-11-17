@@ -1,0 +1,6 @@
+Code scaling, applicability, and uncertainty (CSAU) methodology is a systematic approach proposed by the US Nuclear Regulatory Commission that can be used to identify and quantify overall nuclear reactor uncertainties, and this estimate methods for reactor safety analysis is in lieu of the earlier licensing practice that used deterministic methods with conservative assumptions to address uncertainties. Since the methodology was proposed about two decades ago, it has been widely used for new reactor designs and existing light water reactor power uprates.
+
+References
+External links
+Young, M.Y.; Bajorek, S.M.; Nissley, M.E.; Hochreiter, L.E. (1998). "Application of code scaling applicability and uncertainty methodology to the large break loss of coolant". Nuclear Engineering and Design. 186 (1–2): 39–52. doi:10.1016/S0029-5493(98)00217-9.
+Boyack, B.E.; Catton, I.; Duffey, R.B.; Griffith, P.; Katsma, K.R.; Lellouche, G.S.; Levy, S.; Rohatgi, U.S.; Wilson, G.E.; Wulff, W.; Zuber, N. (1990). "Quantifying reactor safety margins part 1: An overview of the code scaling, applicability, and uncertainty evaluation methodology". Nuclear Engineering and Design. 119: 1–15. doi:10.1016/0029-5493(90)90071-5.

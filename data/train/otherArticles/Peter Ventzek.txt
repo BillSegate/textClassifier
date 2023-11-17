@@ -1,0 +1,14 @@
+Peter Ventzek (1964–) is an American chemical engineer. He specializes in plasma etching for semiconductor fabrication.
+
+Early life and education
+Ventzek was born in Columbus, Georgia in 1964. He received B.S. in chemical engineering from the University of New Brunswick and his PhD in nuclear engineering from the University of Michigan. His graduate research with Professor Ronald Gilgenbach dealt with the dynamics of laser ablation plasmas for materials processing.
+
+Career and research
+As a post-doctoral researcher at the University of Illinois at Urbana-Champaign, Ventzek developed a multi-dimensional computer platform for plasma sources for material processing. This work led to the publication of an influential article on modeling plasma reactors, co-authored by his post-doctoral advisor Mark Kushner and Robert Hoekstra. In 1994, Ventzek joined Hokkaido University in Japan as associate professor in the department of electrical engineering. His research dealt with plasma process control, laser ablation, neutral beam sources and atmospheric pressure discharges. 
+In 1997, Ventzek joined Motorola/Freescale Semiconductor to direct the development of integrated computational platforms for plasma etching and deposition. Ventzek was chair of the American Vacuum Society's Plasma Science and Technology Division, Chair of the GEC, and a professor at Keio University. In 2006, he joined Tokyo Electron America where he continues to hold a position.Ventzek has published over 100 journal articles. Ventzek is a named inventor on at least 74 patents.
+
+Awards and recognition
+In 1994, Ventzek, together with Kushner, Hoekstra, and Seung Choi, received the SRC Technical Excellence Award for research at the University of Illinois at Urbana-Champaign on "computer modeling of plasma reactors." This award "recognizes key contributors of innovative technology that significantly enhance the productivity and competitiveness of the semiconductor industry."In 2006, Ventzek received NOGLSTP GLBT Engineer Award, which recognizes a GLBT Engineer who has made outstanding contributions in their field. This award honors Ventzek's contributions to improvements in the semiconductor industry as well as his support of GLBT employees at Freescale.In 2013, Ventzek received the plasma science and technology award for outstanding contributions to the field granted by the American Vacuum Society.
+
+
+== References ==

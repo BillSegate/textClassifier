@@ -1,0 +1,110 @@
+Photosynthesis converts carbon dioxide to carbohydrates via several metabolic pathways that provide energy to an organism and preferentially react with certain stable isotopes of carbon. The selective enrichment of one stable isotope over another creates distinct isotopic fractionations that can be measured and correlated among oxygenic phototrophs. The degree of carbon isotope fractionation is influenced by several factors, including the metabolism, anatomy, growth rate, and environmental conditions of the organism. Understanding these variations in carbon fractionation across species is useful for biogeochemical studies, including the reconstruction of paleoecology, plant evolution, and the characterization of food chains.
+Oxygenic photosynthesis is a metabolic pathway facilitated by autotrophs, including plants, algae, and cyanobacteria. This pathway converts inorganic carbon dioxide from the atmosphere or aquatic environment into carbohydrates, using water and energy from light, then releases molecular oxygen as a product.  Organic carbon contains less of the stable isotope Carbon-13, or 13C, relative to the initial inorganic carbon from the atmosphere or water because photosynthetic carbon fixation involves several fractionating reactions with kinetic isotope effects. These reactions undergo a kinetic isotope effect because they are limited by overcoming an activation energy barrier. The lighter isotope has a higher energy state in the quantum well of a chemical bond, allowing it to be preferentially formed into products. Different organisms fix carbon through different mechanisms, which are reflected in the varying isotope compositions across photosynthetic pathways (see table below, and explanation of notation in "Carbon Isotope Measurement" section). The following sections will outline the different oxygenic photosynthetic pathways and what contributes to their associated delta values.
+
+Carbon isotope measurement
+Carbon on Earth naturally occurs in two stable isotopes, with 98.9% in the form of 12C and 1.1% in 13C. The ratio between these isotopes varies in biological organisms due to metabolic processes that selectively use one carbon isotope over the other, or "fractionate" carbon through kinetic or thermodynamic effects. Oxygenic photosynthesis takes place in plants and microorganisms through different chemical pathways, so various forms of organic material reflect different ratios of 13C isotopes. Understanding these variations in carbon fractionation across species is applied in isotope geochemistry and ecological isotope studies to understand biochemical processes, establish food chains, or model the carbon cycle through geological time.Carbon isotope fractionations are expressed in using delta notation of δ13C ("delta thirteen C"), which is reported in parts per thousand (per mille, ‰).  δ13C is defined in relation to the Vienna Pee Dee Belemnite (VPDB, 13C/12C = 0.01118) as an established reference standard. This is called a "delta value" and can be calculated from the formula below:
+
+Photosynthesis reactions
+The chemical pathway of oxygenic photosynthesis fixes carbon in two stages: the light-dependent reactions and the light-independent reactions.
+
+The light-dependent reactions capture light energy to transfer electrons from water and convert NADP+, ADP, and inorganic phosphate into the energy-storage molecules NADPH and ATP. The overall equation for the light-dependent reactions is generally:2 H2O + 2 NADP+ + 3 ADP + 3 Pi + light → 2 NADPH + 2 H+ + 3 ATP + O2The light-independent reactions undergo the Calvin-Benson cycle, in which the energy from NADPH and ATP is used to convert carbon dioxide and water into organic compounds via the enzyme RuBisCO.
+The overall general equation for the light-independent reactions is the following:3 CO2 + 9 ATP + 6 NADPH + 6 H+ → C3H6O3-phosphate + 9 ADP + 8 Pi + 6 NADP+ + 3 H2OThe 3-carbon products (C3H6O3-phosphate) of the Calvin cycle are later converted to glucose or other carbohydrates such as starch, sucrose, and cellulose.
+
+Fractionation via RuBisCO
+The large fractionation of 13C in photosynthesis is due to the carboxylation reaction, which is carried out by the enzyme ribulose-1,5-bisphosphate carboxylase oxygenase, or RuBisCO. RuBisCO catalyzes the reaction between a five-carbon molecule, ribulose-1,5-bisphosphate (abbreviated as RuBP) and CO2  to form two molecules of 3-phosphoglyceric acid (abbreviated as PGA). PGA reacts with NADPH to produce 3-phosphoglyceraldehyde.Isotope fractionation due to Rubisco (form I) carboxylation alone is predicted to be a 28‰ depletion, on average. However, fractionation values vary between organisms, ranging from an 11‰ depletion observed in coccolithophorid algae to a 29‰ depletion observed in spinach. RuBisCO causes a kinetic isotope effect because 12CO2 and 13CO2 compete for the same active site and 13C has an intrinsically lower reaction rate.
+
+13C fractionation model
+In addition to the discriminating effects of enzymatic reactions, the diffusion of CO2 gas to the carboxylation site within a plant cell also influences isotopic fractionation. Depending on the type of plant (see sections below), external CO2 must be transported through the boundary layer and stomata and into the internal gas space of a plant cell, where it dissolves and diffuses to the chloroplast. The diffusivity of a gas is inversely proportional to the square root of its molecular reduced mass (relatively to air), causing 13CO2 to be 4.4‰ less diffusive than 12CO2.
+A prevailing model for fractionation of atmospheric CO2 in plants combines the isotope effects of the carboxylation reaction with the isotope effects from gas diffusion into the plant in the following equation:
+Where:
+
+δ13Csample is the delta-value of the organism for 13C composition
+δ13Catm is the delta-value of atmospheric CO2, which is = -7.8‰
+the discrimination due to diffusion a = 4.4‰
+the carboxylation discrimination b = 30‰
+ca is the partial pressure of CO2 in the external atmosphere, and
+ci is the partial pressure of CO2 in the intercellular spaces.This model, derived ab initio, generally describes fractionation of carbon in the majority of plants, which facilitate C3 carbon fixation. Modifications have been made to this model with empirical findings. However, several additional factors, not included in this general model, will increase or decrease 13C fractionation across species. Such factors include the competing oxygenation reaction of RuBisCO, anatomical and temporal adaptations to enzyme activity, and variations in cell growth and geometry. The isotopic fractionations of different photosynthetic pathways are uniquely characterized by these factors, as described below.
+
+In C3 plants
+A C3 plant uses C3 carbon fixation, one of the three metabolic photosynthesis pathways which also include C4 and CAM (described below). These plants are called "C3" due to the three-carbon compound (3-Phosphoglyceric acid, or 3-PGA) produced by the CO2 fixation mechanism in these plants. This C3 mechanism is the first step of the Calvin-Benson cycle, which converts CO2 and RuBP into 3-PGA.
+C3 plants are the most common type of plant, and typically thrive under moderate sunlight intensity and temperatures, CO2 concentrations above 200 ppm, and abundant groundwater. C3 plants do not grow well in very hot or arid regions, in which C4 and CAM plants are better adapted.
+The isotope fractionations in C3 carbon fixation arise from the combined effects of CO2 gas diffusion through the stomata of the plant, and the carboxylation via RuBisCO. Stomatal conductance discriminates against the heavier 13C by 4.4‰. RuBisCO carboxylation contributes a larger discrimination of 27‰.RuBisCO enzyme catalyzes the carboxylation of CO2 and the 5-carbon sugar, RuBP, into 3-phosphoglycerate, a 3-carbon compound through the following reaction:
+
+  
+    
+      
+        C
+        
+          O
+          
+            2
+          
+        
+        +
+        
+          H
+          
+            2
+          
+        
+        O
+        +
+        R
+        u
+        B
+        P
+        
+          
+            →
+            
+              
+                R
+                u
+                B
+                i
+                s
+                C
+                O
+              
+            
+            
+          
+        
+        2
+        (
+        3
+        
+          
+            -
+          
+        
+        
+          phosphoglycerate
+        
+        )
+      
+    
+    {\displaystyle CO_{2}+H_{2}O+RuBP{\xrightarrow[{RuBisCO}]{}}2(3{\mbox{-}}{\text{phosphoglycerate}})}
+  
+The product 3-phosphoglycerate is depleted in 13C due to the kinetic isotope effect of the above reaction. The overall 13C fractionation for C3 photosynthesis ranges between -20 and -37‰.The wide range of variation in delta values expressed in C3 plants is modulated by the stomatal conductance, or the rate of CO2 entering, or water vapor exiting, the small pores in the epidermis of a leaf. The δ13C of C3 plants depends on the relationship between stomatal conductance and photosynthetic rate, which is a good proxy of water use efficiency in the leaf. C3 plants with high water-use efficiency tend to be less fractionated in 13C  (i.e., δ13C is relatively less negative) compared to C3 plants with low water-use efficiency.
+
+In C4 plants
+C4 plants have developed the C4 carbon fixation pathway to conserve water loss, thus are more prevalent in hot, sunny, and dry climates. These plants differ from C3 plants because CO2 is initially converted to a four-carbon molecule, malate, which is shuttled to bundle sheath cells, released back as CO2 and only then enters the Calvin Cycle. In contrast, C3 plants directly perform the Calvin Cycle in mesophyll cells, without making use of a CO2 concentration method. Malate, the four-carbon compound is the namesake of "C4" photosynthesis. This pathway allows C4 photosynthesis to efficiently shuttle CO2 to the RuBisCO enzyme and maintain high concentrations of CO2 within bundle sheath cells. These cells are part of the characteristic kranz leaf anatomy, which spatially separates photosynthetic cell-types in a concentric arrangement to accumulate CO2 near RuBisCO.These chemical and anatomical mechanisms improve the ability of RuBisCO to fix carbon, rather than perform its wasteful oxygenase activity. The RuBisCO oxygenase activity, called photorespiration, causes the RuBP substrate to be lost to oxygenation, and consumes energy in doing so. The adaptations of C4 plants provide an advantage over the C3 pathway, which loses efficiency due to photorespiration. The ratio of photorespiration to photosynthesis in a plant varies with environmental conditions, since decreased CO2 and elevated O2 concentrations would increase the efficiency of photorespiration. Atmospheric CO2 on Earth decreased abruptly at a point between 32 and 25 million years ago. This gave a selective advantage to the evolution of the C4 pathway, which can limit photorespiration rate despite the reduced ambient CO2. Today, C4 plants represent roughly 5% of plant biomass on Earth, but about 23% of terrestrial carbon fixation. Types of plants which use C4 photosynthesis include grasses and economically important crops, such as maize, sugar cane, millet, and sorghum.Isotopic fractionation differs between C4 carbon fixation and C3, due to the spatial separation in C4 plants of CO2 capture (in the mesophyll cells) and the Calvin cycle (in the bundle sheath cells). In C4 plants, carbon is converted to bicarbonate, fixed into oxaloacetate via the enzyme phosphoenolpyruvate (PEP) carboxylase, and is then converted to malate. The malate is transported from the mesophyll to bundle sheath cells, which are impermeable to CO2. The internal CO2 is concentrated in these cells as malate is reoxidized then decarboxylated back into CO2 and pyruvate. This enables RuBisCO to perform catalysis while internal CO2 is sufficiently high to avoid the competing photorespiration reaction. The delta value in the C4 pathway is -12 to -16‰ depleted in 13C due to the combined effects of PEP carboxylase and RuBisCO.
+The isotopic discrimination in the C4 pathway varies relative to the C3 pathway due to the additional chemical conversion steps and activity of PEP carboxylase. After diffusion into the stomata, the conversion of CO2 to bicarbonate concentrates the heavier 13C. The subsequent fixation via PEP carboxylase is thereby less depleted in 13C than that from Rubisco: about 2‰ depleted in PEP carboxylase, versus 29‰ in RuBisCO. However, a portion of the isotopically heavy carbon that is fixed by PEP carboxylase leaks out of the bundle sheath cells. This limits the carbon available to RuBisCO, which in turn lowers its fractionation effect. This accounts for the overall delta value in C4 plants to be -12 to -16 ‰.
+
+In CAM plants
+Plants that use Crassulacean acid metabolism, also known as CAM photosynthesis, temporally separate their chemical reactions between day and night. This strategy modulates stomatal conductance to increase water-use efficiency, so is well-adapted for arid climates. During the night, CAM plants open stomata to allow CO2 to enter the cell and undergo fixation into organic acids that are stored in vacuoles. This carbon is released to the Calvin cycle during the day, when stomata are closed to prevent water loss, and the light reactions can drive the necessary ATP and NADPH production. This pathway differs from C4 photosynthesis because CAM plants separate carbon by storing fixed CO2 in vesicles at night, then transporting it for use during the day. Thus, CAM plants temporally concentrate CO2 to improve RuBisCO efficiency, whereas C4 plants spatially concentrate CO2 in bundle sheath cells. The distribution of plants which use CAM photosynthesis includes epiphytes (e.g., orchids, bromeliads) and xerophytes (e.g., succulents, cacti).In Crassulacean acid metabolism, isotopic fractionation combines the effects of the C3 pathway in the daytime and the C4 pathway in the nighttime. At night, when temperature and water loss are lower, the CO2 diffuses through the stomata and produce malate via phosphenolpyruvate carboxylase. During the following day, stomata are closed, malate is decarboxylated, and CO2 is fixed by RuBisCO. This process alone is similar to that of C4 plants and yields characteristic C4 fractionation values of approximately -11‰. However, in the afternoon, CAM plants may open their stomata and perform C3 photosynthesis. In daytime alone, CAM plants have approximately -28‰ fractionation, characteristic of C3 plants. These combined effects provide δ13C values for CAM plants in the range of -10 to -20‰.
+The 13C to 12C ratio in CAM plants can indicate the temporal separation of CO2 fixation, which is the extent of biomass derived from nocturnal CO2  fixation relative to diurnal CO2 fixation. This distinction can be made because PEP carboxylase, the enzyme responsible for net CO2 uptake at night, discriminates 13C less than RuBisCO, which is responsible to daytime CO2 uptake.  CAM plants which fix CO2 primarily at night would be predicted to show δ13C values more similar to C4 plants, whereas daytime CO2 fixation would show δ13C values more similar to C3 plants.
+
+In phytoplankton
+In contrast to terrestrial plants, where CO2 diffusion in air is relatively fast and typically not limiting, diffusion of dissolved CO2 in water is considerably slower and can often limit carbon fixation in phytoplankton. As gaseous CO2(g) is dissolved into aqueous CO2(aq), it is fractionated by both kinetic and equilibrium effects that are temperature-dependent. Relative to plants, the dissolved CO2 source for phytoplankton can be enriched in 13C by about 8‰ from atmospheric CO2.Isotope fractionation of 13C by phytoplankton photosynthesis is affected by the diffusion of extracellular aqueous CO2 into the cell, the RuBisCO-dependent cell growth rate, and the cell geometry and surface area. The use of bicarbonate and carbon-concentrating mechanisms in phytoplankton distinguishes the isotopic fractionation from plant photosynthetic pathways.
+The difference between intracellular and extracellular CO2 concentrations reflects the CO2 demand of a phytoplankton cell, which is dependent on its growth rate. The ratio of carbon demand to supply governs the diffusion of CO2 into the cell, and is negatively correlated with the magnitude of the carbon fractionation by phytoplankton. Combined, these relationships allow the fractionation between CO2(aq) and phytoplankton biomass to be used to estimate the phytoplankton growth rates.However, growth rate alone does not account for observed fractionation. The flux of CO2(aq) into and out of a cell is roughly proportional to the cell surface area, and the cell carbon biomass varies as a function of cell volume. Phytoplankton geometry that maximizes surface area to volume should have larger isotopic fractionation from photosynthesis.The biochemical characteristics of phytoplankton are similar to C3 plants, whereas the gas exchange characteristics more closely resemble the C4 strategy. More specifically, phytoplankton improve the efficiency of their primary carbon-fixing enzyme, RuBisCO, with carbon concentrating mechanisms (CCM), just as C4 plants accumulate CO2 in the bundle sheath cells. Different forms of CCM in phytoplankton include the active uptake of bicarbonate and CO2 through the cell membrane, the active transport of inorganic carbon from the cellular membrane to the chloroplasts, and active, unidirectional conversion of CO2 to bicarbonate. The parameters affecting 13C fractionation in phytoplankton contribute to δ13C values between -18 and -25‰.
+
+See also
+RuBisCO
+Isotope geochemistry
+Intrinsic KIE of RuBisCO
+Paleoclimatology
+
+
+== References ==

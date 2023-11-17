@@ -1,0 +1,61 @@
+A nuclear navy, or nuclear-powered navy, refers to the portion of a navy consisting of naval ships powered by nuclear marine propulsion. The concept was revolutionary for naval warfare when first proposed. Prior to nuclear power, submarines were powered by diesel engines and could only submerge through the use of batteries. In order for these submarines to run their diesel engines and charge their batteries they would have to surface or snorkel. The use of nuclear power allowed these submarines to become true submersibles and unlike their conventional counterparts, they became limited only by crew endurance and supplies.
+
+Nuclear-powered aircraft carriers
+Currently, only the United States and France possess nuclear-powered aircraft-carriers.The United States Navy has by far the most nuclear-powered aircraft carriers, with ten Nimitz-class carriers and one Gerald R. Ford-class carrier in service. The last conventionally-powered aircraft carrier left the U.S. fleet as of 12 May 2009, when the USS Kitty Hawk was deactivated. France's latest aircraft carrier, the Charles de Gaulle, is nuclear-powered. The United Kingdom rejected nuclear power early in the development of its Queen Elizabeth-class aircraft carriers on cost grounds, as even several decades of fuel use costs less than a nuclear reactor. Since 1949 the Bettis Atomic Power Laboratory near Pittsburgh, Pennsylvania has been one of the lead laboratories in the development of the nuclear navy. The planned indigenous Chinese carriers also feature nuclear propulsion.
+
+Nuclear-powered submarines
+The United States Navy operates the largest fleet of nuclear submarines. Only the United States Navy, the Royal Navy of the United Kingdom, and France's Marine Nationale field an all-nuclear submarine force. By 1989, there were over 400 nuclear-powered submarines operational or being built. Some 250 of these submarines have now been scrapped and some on order cancelled, due to weapons reduction programs. Russia and the United States had over one hundred each, with the United Kingdom and France fewer than twenty each and China six. The Indian Navy launched their first indigenous Arihant-class nuclear-powered submarines on 26 July 2009. India is also operating one nuclear attack submarine with talks of leasing one more nuclear submarine from Russia. India plans to build six nuclear attack submarines and follow on to the Arihant class of ballistic missile submarines.
+
+Nuclear-powered cruisers
+The US had several nuclear cruisers. The cruisers were the USS Bainbridge, USS California, USS Long Beach, USS Truxtun, USS South Carolina, USS Virginia, USS Texas, USS Mississippi, and USS Arkansas. The Long Beach was deemed too expensive and was decommissioned in 1995 instead of receiving its third nuclear refueling and proposed upgrade. It was sold for scrap in 2012 at Puget Sound Naval Shipyard. Currently the United States does not have any nuclear cruisers.Russia has four Kirov-class battlecruisers, though only one is active, the other three being laid up. The command ship SSV-33 Ural, based on the Kirov class, is also laid up. Seven civilian nuclear icebreakers remain in service: four of six Arktika-class icebreakers, the two Taymyr-class icebreakers Taymyr and Vaygach, and the LASH carrier and container ship Sevmorput.
+
+United States Navy
+By 2003 the U.S. Navy had accumulated over 5,400 "reactor years" of accident-free experience, and operated more than 80 nuclear-powered ships.
+
+Admiral Hyman G. Rickover
+Admiral Hyman G. Rickover, (1900–1986), of the United States Navy, known as "father of the nuclear navy"
+was an electrical engineer by training, and was the primary architect who implemented this daring concept, and believed that it was the natural next phase for the way military vessels could be propelled and powered. The challenge was to reduce the size of a nuclear reactor to fit on board a ship or submarine, as well as to encase it sufficiently so that radiation hazards would not be a safety concern.Soon after World War II, Rickover was assigned to the Bureau of Ships in September 1947 and received training in nuclear power at Oak Ridge, Tennessee. In February 1949 he received an assignment to the Division of Reactor Development, U.S. Atomic Energy Commission and then assumed control of the United States Navy's effort as Director of the Naval Reactors Branch in the Bureau of Ships. This dual role allowed him to lead the efforts to develop the world's first nuclear-powered submarine, USS Nautilus, which was launched in 1954. As Vice Admiral, from 1958, for three decades Rickover exercised tight control over the ships, technology, and personnel of the nuclear navy, even interviewing every prospective officer for new nuclear-powered navy vessels.
+
+Philip Abelson
+Leading nuclear physicist Philip Abelson (1913–2004) turned his attention under the guidance of Ross Gunn to applying nuclear power to naval propulsion. Their early efforts at Naval Research Laboratory (NRL) provided an early glimpse at what was to become the nuclear Navy.
+
+United States Naval reactors
+At the present time, many important vessels in the United States Navy are powered by nuclear reactors. All submarines and aircraft carriers are nuclear-powered. Several cruisers were nuclear-powered but these have all been retired.United States naval reactors are given three-character designations consisting of a letter representing the ship type the reactor is designed for, a consecutive generation number, and a letter indicating the reactor's designer. The ship types are "A" for aircraft carrier, "C" for cruiser, "D" for destroyer, and "S" for submarine. The designers are "W" for Westinghouse, "G" for General Electric, "C" for Combustion Engineering, and "B" for Bechtel. Examples are S5W, D1G, A4W, and D2W.Most information concerning United States naval reactors is not secret—see Naval Nuclear Propulsion Information.
+
+Accidents involving naval nuclear-powered vessels
+United StatesUSS Thresher (SSN-593) (1963; Thresher/Permit-class; sank, 129 killed)
+USS Scorpion (SSN-589) (1968; Skipjack-class; sank, 99 killed)Both sank for reasons unrelated to their reactor plants and still lie on the Atlantic sea floor.
+
+Russian or SovietK-8 (1960; November-class submarine; loss of coolant)
+K-19 (1961; Hotel-class submarine; two loss of coolant accidents, 27 killed due to one accident)
+K-11 (1965; November-class submarine; two refueling criticalities)
+K-159 (1965; November-class submarine; radioactive discharge)
+Lenin (1965; Lenin-class icebreaker; loss of coolant)
+Lenin (1967; Lenin-class icebreaker; loss of coolant)
+K-140 (1968; Yankee-class submarine; power excursion)
+K-8 (loss of coolant) (1970; November-class submarine; sank after fire, 52 killed)
+K-320 (1970; Charlie I-class submarine; uncontrolled startup)
+K-116 (1979; Echo II-class submarine; reactor accident)
+K-122 (1980; Echo I-class submarine; fire, 14 killed)
+K-222 (1980; Papa-class submarine; uncontrolled startup)
+K-27 (1982; Modified November-class submarine; scuttled)
+K-123 (1982; Alfa-class submarine; loss of coolant)
+K-429 (1983; Charlie I-class submarine; sank due to improper work at shipyard, 16 killed)
+K-431 (1985; Echo II-class submarine; refueling criticality, 10 killed)
+K-429 (1985; Charlie I-class submarine; sank at moorings)
+K-219 (1986; Yankee I-class submarine; sank, 6 killed)
+K-278 Komsomolets (1989; Mike-class submarine; sank, 42 killed)
+K-192 (1989; Echo II-class submarine; loss of coolant)
+K-141 Kursk (2000; Oscar II-class submarine; sank, 118 killed)
+K-159 (2003; November-class submarine; sank under tow, 9 killed)While not all of these were reactor accidents, they have a major impact on nuclear marine propulsion and the global politics because they happened to nuclear vessels. Only four Soviet nuclear submarines accidentally sank with nuclear weapons on board and remain on the sea floor to this day.
+
+Operator Timeline
+See also
+JASON reactor
+List of United States Naval reactors
+Naval Reactors
+Decommissioning of Russian nuclear-powered vessels
+
+References
+External links
+http://www.nukestrat.com/pubs/nep7.pdf - 1994 paper highlighting limited, public-relations only value of all-nuclear task groups given continued dependence on conventionally fuelled escorts and continuous replenishment of supplies

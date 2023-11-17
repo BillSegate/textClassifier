@@ -1,0 +1,93 @@
+In nuclear engineering, a delayed neutron is a neutron emitted after a nuclear fission event, by one of the fission products (or actually, a fission product daughter after beta decay), any time from a few milliseconds to a few minutes after the fission event. Neutrons born within 10−14 seconds of the fission are termed "prompt neutrons".
+In a nuclear reactor large nuclides fission into two neutron-rich fission products (i.e. unstable nuclides) and free neutrons (prompt neutrons). Many of these fission products then undergo radioactive decay (usually beta decay) and the resulting nuclides are unstable with respect to beta decay. A small fraction of them are excited enough to be able to beta-decay by emitting a delayed neutron in addition to the beta. The moment of beta decay of the precursor nuclides - which are the precursors of the delayed neutrons - happens orders of magnitude later compared to the emission of the prompt neutrons. Hence the neutron that originates from the precursor's decay is termed a delayed neutron. The "delay" in the neutron emission is due to the delay in beta decay (which is slower since controlled by the weak force), since neutron emission, like gamma emission, is controlled by the strong nuclear force and thus either happens at fission, or nearly simultaneously with the beta decay, immediately after it. The various half lives of these decays that finally result in neutron emission, are thus the beta decay half lives of the precursor radionuclides.
+Delayed neutrons play an important role in nuclear reactor control and safety analysis.
+
+Principle
+Delayed neutrons are associated with the beta decay of the fission products. After prompt fission neutron emission the residual fragments are still neutron rich and undergo a beta decay chain. The more neutron rich the fragment, the more energetic and faster the beta decay. In some cases the available energy in the beta decay is high enough to leave the residual nucleus in such a highly excited state that neutron emission instead of gamma emission occurs.
+Using U-235 as an example, this nucleus absorbs thermal neutrons, and the immediate mass products of a fission event are two large fission fragments, which are remnants of the formed U-236 nucleus. These fragments emit, on average, two or three free neutrons (in average 2.47), called "prompt" neutrons. A subsequent fission fragment occasionally undergoes a stage of radioactive decay (which is a beta minus decay) that yields a new nucleus (the emitter nucleus) in an excited state that emits an additional neutron, called a "delayed" neutron, to get to ground state. These neutron-emitting fission fragments are called delayed neutron precursor atoms.
+Delayed Neutron Data for Thermal Fission in U-235
+
+Importance in nuclear reactors
+If a nuclear reactor happened to be prompt critical - even very slightly - the number of neutrons would increase exponentially at a high rate, and very quickly the reactor would become uncontrollable by means of external mechanisms. The control of the power rise would then be left to its intrinsic physical stability factors, like the thermal dilatation of the core, or the increased resonance absorptions of neutrons, that usually tend to decrease the reactor's reactivity when temperature rises; but the reactor would run the risk of being damaged or destroyed by heat.
+However, thanks to the delayed neutrons, it is possible to leave the reactor in a subcritical state as far as only prompt neutrons are concerned: the delayed neutrons come a moment later, just in time to sustain the chain reaction when it is going to die out. In that regime, neutron production overall still grows exponentially, but on a time scale that is governed by the delayed neutron production, which is slow enough to be controlled (just as an otherwise unstable bicycle can be balanced because human reflexes are quick enough on the time scale of its instability). Thus, by widening the margins of non-operation and supercriticality and allowing more time to regulate the reactor, the delayed neutrons are essential to inherent reactor safety, even in reactors requiring active control.
+The lower percentage of delayed neutrons makes the use of large percentages of plutonium in nuclear reactors more challenging.
+
+Fraction definitions
+The precursor yield fraction β is defined as:
+
+  
+    
+      
+        β
+        =
+        
+          
+            
+              precursor atoms
+            
+            
+              
+                
+                  prompt neutrons
+                
+              
+              +
+              
+                
+                  precursor atoms
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \beta ={\frac {\mbox{precursor atoms}}{{\mbox{prompt neutrons}}+{\mbox{precursor atoms}}}}.}
+  and it is equal to 0.0064 for U-235.
+The delayed neutron fraction (DNF) is defined as:
+
+  
+    
+      
+        D
+        N
+        F
+        =
+        
+          
+            
+              delayed neutrons
+            
+            
+              
+                
+                  prompt neutrons
+                
+              
+              +
+              
+                
+                  delayed neutrons
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle DNF={\frac {\mbox{delayed neutrons}}{{\mbox{prompt neutrons}}+{\mbox{delayed neutrons}}}}.}
+  These two factors, β and DNF, are almost the same thing, but not quite; they differ in the case a rapid (faster than the decay time of the precursor atoms) change in the number of neutrons in the reactor.
+Another concept, is the effective fraction of delayed neutrons βeff, which is the fraction of delayed neutrons weighted (over space, energy, and angle) on the adjoint neutron flux. This concept arises because delayed neutrons are emitted with an energy spectrum more thermalized relative to prompt neutrons. For low enriched uranium fuel working on a thermal neutron spectrum, the difference between the average and effective delayed neutron fractions can reach 50 pcm.
+
+See also
+Prompt critical
+Critical mass
+Nuclear chain reaction
+Dollar (reactivity)
+
+References
+External links
+Hybrid nuclear reactors:delayed neutrons
+Beta is not the delayed neutron (population) fraction Archived 2005-09-03 at the Wayback Machine

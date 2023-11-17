@@ -1,0 +1,15 @@
+Prompt-launch status and delayed launch status are generic classifications of combat readiness applied to describe nuclear-armed missiles.
+
+Prompt-launch vs delayed launch
+Prompt-launch, colloquially known as "hair trigger alert", is a state of combat readiness during which nuclear-armed missiles can be launched immediately upon receipt of a firing order, with no or minimal preparations.Keeping weapons systems at a prompt-launch status allows a nation-state to launch on warning, thereby increasing the likelihood it could successfully retaliate against an attack, or initiate a nuclear first strike without alerting an enemy. Even for states that have proscribed launch on warning or first strike, prompt launch may help guarantee that nuclear-armed missiles which themselves have survived a first strike could actually be fired in a timely manner before being destroyed in follow-on, "mop-up" attacks.During delayed launch status, nuclear-armed missiles require some type of preparation prior to firing, such as fueling, warhead mounting, or the manual removal of static launch barriers.In nuclear warfighting strategy, weapons kept at delayed launch status are at risk of being destroyed in their silos in the event of a nuclear first strike by an adversary. Even if weapons survive a first strike, a nation's command and control system may collapse by the time they are readied for firing. A 1993 analysis of future improvements in U.S. command and control predicted the United States government might only be able to continue operating for a few hours after an initial attack and would be unable to manage a "protracted" nuclear war, rendering surviving weapons kept in delayed launch status useless.Proponents of keeping some or all of a nation's nuclear deterrent at delayed alert status note several benefits, including decreased risk of accidental launch and minimized cost of crewing.
+
+SLBMs
+Submarine-launched ballistic missiles (SLBMs), when deployed aboard ballistic missile submarines, are generally not vulnerable to an enemy's own weapons and may be kept at delayed launch status without risking their future launch potential. However, methods for keeping ICBMs at a delayed launch status, such as warhead-missile separation or placing static launch barriers on silo doors, may not be possible in the case of SLBMs due to the nature of submarine-deployment. Several methods have been proposed by which SLBMs could be kept at a delayed launch status, such as deploying ballistic missile submarines in remote oceanic locations out-of-range of the nation's primary adversary.
+
+Status by operator
+See also
+De-alerting
+Nuclear football
+
+
+== References ==

@@ -1,0 +1,76 @@
+The Aircraft Reactor Experiment (ARE) was an experimental nuclear reactor designed to test the feasibility of fluid-fuel, high-temperature, high-power-density reactors for the propulsion of supersonic aircraft. It operated between November 8-12, 1954 at the Oak Ridge National Laboratory (ORNL) with a maximum sustained power of 2.5 megawatts (MW), and generated a total of 96 MW-hours of energy.The ARE was the first reactor to use circulating molten salt fuel. The hundreds of engineers and scientists working on ARE provided technical data, facilities, equipment, and experience that enabled the broader development of molten salt reactors as well as liquid metal cooled reactors.
+
+Background
+The concept of nuclear-powered aircraft was first formally studied in May 1946 by the US Army Air Forces. It was supposed that the unique characteristics of nuclear power could be applied to long-range supersonic flight, which was considered highly valuable in terms of military strategy. Challenges in the proposal were understood immediately, and by 1950 the Atomic Energy Commission joined with the Air Force to study the possibilities via technology development in the Aircraft Nuclear Propulsion (ANP) program.
+The ORNL staff of the ANP project decided that technical information and experience needed to support the objective of nuclear-powered flight could most economically be obtained from building and operating the ARE. They considered the task of flying a supersonic airplane on nuclear energy exceedingly complex, and thought more than one experimental reactor may be necessary before sufficient information was obtained to design and construct a reactor for flight. 
+Originally, the ARE was conceived as a liquid sodium metal-cooled Beryllium oxide (BeO)-moderated solid-fuel reactor. The BeO moderator blocks were purchased with the solid-fuel design in mind. However, concerns regarding chain reaction stability related to xenon in solid fuel at very high temperatures were serious enough to warrant abandoning solid fuel and replacing it with circulating fluid fuel. A fluid-fueled option with molten fluoride salt was worked into the original design.
+
+Reactor
+The ARE was designed to be a prototype of a 350-megawatt, BeO-moderated, circulating-fuel aircraft reactor. It used a fuel composed of 53.09 mole % NaF, 40.73 mole % ZrF4, and 6.18 mole % UF4. The reactor was a BeO cylinder with bent tubes directing flowing fuel through the core in both directions. It was surrounded by an Inconel shell.: 44  The ARE operational life targeted 1000 hours, with as much time as possible at the full power level of 3 megawatts. The design fuel temperature was 1,500 °F (820 °C), with a 350 °F (180 °C) temperature rise across the core, though the peak temperature reached 1,580 °F (860 °C) in steady operation and peaked at 1,620 °F (882 °C) in transients. 46 US gal (170 L) of fuel flowed through the reactor per minute at a core pressure of about 40 psi (2.8 bar). Sodium was pumped through the reactor at a rate of 150 US gal (570 L) per minute with about 50 psi (3.4 bar) of pressure.The fuel salt transferred heat to a helium loop, which then transferred the heat to water. Additionally, the reflector and moderator blocks were cooled with a liquid sodium metal cooling loop, which also transferred heat to helium and then water.
+The reactor contained one neutron source (15 curies of polonium-beryllium), one regulating rod, and three helium-cooled boron carbide shim rods. The experiment was instrumented with two fission chambers, two compensated ionization chambers, and 800 thermocouples.
+The ARE control system could automatically scram the reactor based on high neutron flux, fast reactor period, high reactor exit fuel temperature, low heat exchanger fuel temperature, low fuel flow rate, and loss of offsite power.
+
+Development program
+The heat exchanger chamber took up significantly more space than the reactor and dump tank chambers. 
+The ambitious goals and military importance of the ANP catalyzed a significant amount of research and development of complex systems in challenging high-temperature, high-radiation environments. 
+Corrosion and hot sodium handing studies began in 1950. 
+Investigations of the engineering and fabrication problems involved in handling molten fluoride salts began in 1951 and continued through 1954. Natural-convection corrosion test loops were operated to down-select suitable material and fuel combinations. Subsequent studies in forced-circulation test loops established means to minimize corrosion and mass transfer.
+Development of pumps, heat exchangers, valves, pressure instrumentation, and cold traps spanned from late 1951 to summer 1954. Much of the work was based on extensive experience at lower temperature from Argonne National Laboratory and the Knolls Atomic Power Laboratory. 
+Techniques had to be developed concerning the construction, preheating, instrumentation, and insulation of reliable leak-tight high-temperature circuits made of Inconel. They found that all-welded construction was necessary. 
+In all, equipment development in support of high-temperature leak-tight operation lasted about four years.The ARE Hazards Summary Report was issued on November 24, 1952. 
+A low-temperature critical mockup of the reactor was assembled to verify the calculation models. The BeO moderator blocks were fitted with straight tubes filled with a powder mixture to simulate the fuel. Critical mass, regulating rod worth, safety rod worth, neutron flux distributions, and reactivity coefficients of a wide variety of materials were measured.Construction of the test facility building began on July 6, 1951.: 125
+
+Operation and experiments
+The ARE was operated successfully. It became critical with a mass of 32.8 lb (14.9 kg) uranium-235. It was very stable as a result of its strong negative fuel temperature coefficient (measured at -9.8e-5 dk/k/°F). 
+The assembly was first sufficiently assembled on August 1, 1954, at which point a three-shift operation commenced for tests. Hot sodium metal was flowed through the system beginning on September 26 to test the process equipment and instrumentation. Problems with the sodium vent and sodium purification systems required lengthy repairs. After several sodium dumps and recharges, carrier salt was introduced to the system on October 25. Fuel was first added to the reactor on October 30, 1954. Initial criticality was reached at 3:45 p.m. on November 3, after a painstaking and careful process of adding the enriched fuel. Much of the four days was spent removing plugs and repairing leaks in the enrichment line. 
+
+A series of fuel samples were taken periodically. Most notably, they showed an increase in chromium content at a rate of 50 ppm/day, indicating rapid corrosion of the fuel pipes. 
+
+A series of experiments were performed in the ARE supporting its mission.
+Critical experiment
+Subcritical measurement of reactor temperature coefficient
+Power determination at 1 watt (nominal)
+Regulating rod calibration vs. fuel addition
+Fuel system characteristics
+Power determination at 10 watts
+Regulating rod calibration vs. reactor period
+Calibration of shim rod vs. regulating rod
+Effect of fuel flow on reactivity
+Low-power measurement of reactor temperature coefficient
+Adjustment of chamber position
+Approach to power: 10-kW run
+Test of off-gas system
+Approach to power: 100-kW to 1-MW runs
+High-power measurement of the fuel temperature coefficient
+High-power measurement of the reactor temperature coefficient
+Reactor startup on temperature coefficient
+Sodium temperature coefficient
+Effect of a dollar of reactivity
+High-power measurement of reactor temperature coefficient
+Moderator temperature coefficient
+Xenon run at full power
+Reactivity effects of sodium flow
+Xenon buildup at one-tenth full power
+Operation at maximum powerAt 4:19 p.m. on November 8, during the ascent to high power, the reactor was shut down due to high airborne radioactivity measurements in the basement. It appeared that the gas fittings to the main fuel pump were leaking fission-product gases and vapors into the pits, and the pits were leaking into the basement through defective seals in some electrical junction panels. A 2 in (5 cm) pipeline was run from the pits 1,000 ft (300 m) south into an uninhabited valley. Portable compressors and a jet were used to bring the pits to sub-atmospheric pressure for the rest of the experiment. The safety radiation detectors shut down the reactor a few times during restart and were withdrawn to be further away from the reactor. Eventually, the reactor started back up and reached high power. 
+On November 12, operation of the reactor was demonstrated to Air Force and ANP personnel who had gathered at ORNL for a quarterly information meeting. Load following was demonstrated by turning the blowers on and off. With all operational objectives attained, the decision to cease operation was made. Colonel Clyde D. Gasser was visiting the lab at this time and was invited to officiate the termination of the experiment. At 8:04 p.m., he scrammed the reactor for the last time. 
+
+Much information was published about the operation of the reactor, including detailed experimental logs, power traces, and a total of 33 lessons learned.
+
+Decommissioning
+Between shutdown and fuel dumping, the operating personnel were required to wear gas masks due to the high level of airborne radioactivity, which was due to a offgas leak, which was never exactly located. On November 13, the fuel was transferred to the fuel dump tank. Pressurized carrier salt flushed the pipes and diluted the dump tank. Flush salt was heated to 100 °F (38 °C) above the system temperature and pumped through the fuel channels. Operators observed the thermocouples to ensure flush salt flowed in all channels. 
+
+Two flat 6 ft (1.8 m) by 4 ft (1.2 m) lead shields with 2 in (5.1 cm) thickness were suspended in the heat exchanger cell to protect decommissioning personnel from radiation from the fuel systems. 
+Water lines were cut first. Then, sodium lines were cut with hack saws and immediately sealed with several layers of masking tape. The sodium pump was cleaned and the impeller was removed for examination. When the sodium pump and heat exchanger were removed, the radiation field in the room increased to 600 mrem/hr. The equipment had been shielding the area from the fuel system radiation.
+The fuel system was carefully dismantled starting in February, 1955. The main fuel pump bowl surveyed at 900 mrem/hr at 5 ft (2 m). A portable grinder that could be operated from within a lead box was built to cut the fuel lines near the reactor can. Once it was free, the reactor was moved to storage and later to a burial ground. The fuel in the dump tank was slated to be reprocessed.
+About 60 samples of equipment and material were taken for detailed analysis and examination. Metallographic, activation, visual, stereophotographic, and leak tests were performed.
+
+Follow-up
+After the ARE operated, the ANP project moved on with plans to build a larger experiment, the 60 MW Aircraft Reactor Test (ART). The ART was to be a NaF-ZrF4-UF4-fueled, Be-moderated, Be-reflected core with sodium metal as the reflector coolant and NaK as the secondary coolant. Its shield was made of lead and borated water. 
+Building 7503 at ORNL was significantly re-excavated in an extension project including new deep excavations to accommodate the ART, but the program was cancelled before the new experiment was performed. The building and facilities later went on to house the Molten Salt Reactor Experiment.
+
+See also
+Aircraft Nuclear Propulsion
+Nuclear-powered aircraft
+
+
+== References ==

@@ -1,0 +1,113 @@
+Small modular reactors (SMR) are much smaller than the current nuclear reactors (300 MWe or less) and have compact and scalable designs which propose to offer safety, construction and economic benefits, and offering potential for lower initial capital investment and scalability.
+
+Summary table
+Design   Licensing   Under construction   Operational   Cancelled   Retired
+The stated power refers to the capacity of one reactor unless specified otherwise.
+
+Reactor designs
+ACP100
+In 2021, construction of the ACP100 was started at the Changjiang Nuclear Power Plant site in Hainan province. Previously, in July 2019 CNNC announced it would start building a demonstration ACP100 SMR by the end of the year. Design of the ACP100 started in 2010 and it became the first SMR project of its kind to be approved by the International Atomic Energy Agency in 2016.  It is a fully integrated reactor module with an internal coolant system, with a two-year refuelling interval, producing 385 MWt and about 125 MWe. The 125 MWe pressurised water reactor (PWR) is also referred to as the Linglong One and is designed for multiple purposes including electricity production, heating, steam production or seawater desalination.
+
+ARC-100
+The ARC-100 is a 100 MWe sodium cooled, fast-flux, pool-type reactor with metallic fuel based on the 30-year successful operation of the Experimental Breeder Reactor II in Idaho. ARC Nuclear is developing this reactor in Canada, in partnership with GE Hitachi Nuclear Energy, with the intent of complementing existing CANDU facilities.
+
+BWRX-300: United States
+A scaled-down version of the ESBWR, that eliminates the possibility of large loss-of-coolant accidents, allowing for simpler safety mechanisms. In January 2020, GE Hitachi Nuclear Energy started the regulatory licensing process for the BWRX-300 with the U.S. Nuclear Regulatory Commission.
+
+CAREM: Argentina
+Developed by the Argentine National Atomic Energy Commission (CNEA) & INVAP, CAREM is a simplified pressurized water reactor (PWR) designed to have electrical output of 100 MW or 25 MW. It is an integral reactor – the primary system coolant circuit is fully contained within the reactor vessel.
+The fuel is uranium oxide with an enrichment of 3.4%. The primary coolant system uses natural circulation, so there are no pumps required, which provides inherent safety against core meltdown, even in accident situations. The integral design also minimizes the risk of loss-of-coolant accidents (LOCA). Annual refueling is required. Currently, the first reactor of the type is being built near the city of Zárate, in the northern part of Buenos Aires province.
+
+Copenhagen Atomics: Denmark
+The Copenhagen Atomics Waste Burner is developed by Copenhagen Atomics, a Danish molten salt technology company. The Copenhagen Atomics Waste Burner is a single-fluid, heavy water moderated, fluoride-based, thermal spectrum and autonomously controlled molten salt reactor. This is designed to fit inside of a leak-tight, 40-foot, stainless steel shipping container. The heavy water moderator is thermally insulated from the salt and continuously drained and cooled to below 50 °C. A molten lithium-7 deuteroxide (7LiOD) moderator version is also being researched. The reactor utilizes the thorium fuel cycle using separated plutonium from spent nuclear fuel as the initial fissile load for the first generation of reactors, eventually transitioning to a thorium breeder.
+
+Elysium Industries
+Elysium's design, called the Molten Chloride Salt, Fast Reactor (MCSFR), is a fast-spectrum reactor meaning the majority of fissions are caused by high-energy (fast) neutrons. This enables conversion of fertile isotopes into energy-producing fuel, efficiently using nuclear fuel, and closing the fuel cycle. In addition, this can enable the reactor to be fuelled with spent nuclear fuel from water reactors.
+
+Encapsulated Nuclear Heat Source (ENHS): United States
+ENHS is a liquid metal reactor (LMR) that uses lead (Pb) or lead–bismuth (Pb–Bi) coolant. Pb has a higher boiling point than the other commonly used coolant metal, sodium, and is chemically inert with air and water. The difficulty is finding structural materials that will be compatible with the Pb or Pb–Bi coolant, especially at high temperatures.
+The ENHS uses natural circulation for the coolant and the turbine steam, eliminating the need for pumps. It is also designed with autonomous control, with a load-following power generation design, and a thermal-to-electrical efficiency of more than 42%. The fuel is either U–Zr or U–Pu–Zr, and can keep the reactor at full power for 15 years before needing to be refueled, with either 239Pu at 11% or 235U at 13%
+It requires on-site storage, at least until it cools enough that the coolant solidifies, making it very resistant to proliferation. However, the reactor vessel weighs 300 tons with the coolant inside, and that can pose some transportation difficulties.
+
+Flibe Energy: United States
+Flibe Energy is a US-based company established to design, construct and operate small modular reactors based on liquid fluoride thorium reactor (LFTR) technology (a type of molten salt reactor). The name "Flibe" comes from FLiBe, a Fluoride salt of Lithium and Beryllium, used in LFTRs. Initially 20–50 MW (electric) version will be developed, to be followed by 100 MWe "utility-class reactors" at a later time. Assembly line construction is planned, producing "mobile units that can be dispersed throughout the country where they need to go to generate the power." Initially the company is focusing on producing SMRs to power remote military bases. Flibe has also been proposed for use in a fusion reactor both as a primary coolant and to breed Tritium fuel for D-T reactors.
+
+HTR-PM: China
+The HTR-PM is a high-temperature gas-cooled (HTGR) pebble-bed generation IV reactor partly based on the earlier HTR-10 prototype reactor.
+The reactor unit has a thermal capacity of 250 MW, and two reactors are connected to a single steam turbine to generate 210 MW of electricity. Its potential applications include direct replacement of supercritical coal-fired power plants, while its heat could be used for seawater desalination, hydrogen production, or a wide range of other high temperature uses in industry.
+
+Hyperion Power Module (HPM): United States
+A commercial version of a Los Alamos National Laboratory project, the Hyperion Power Module (HPM) is a LMR that uses a Pb–Bi coolant. It has an output of 25 MWe, and less than 20% 235U enrichment. The reactor is a sealed vessel, which is brought to the site intact and removed intact for refueling at the factory, reducing proliferation dangers. Each module weighs less than 50 tons. It has both active and passive safety features.
+
+Integral Molten Salt Reactor (IMSR): Canada
+The IMSR Plant is a 2x195 MWe / 2x442 MWt SMR plant design being developed by Terrestrial Energy  based in Oakville, Canada. 
+The reactor is proprietary molten salt reactor design that builds on two existing designs: the Denatured Molten Salt Reactor (DMSR) and Small Modular Advanced High Temperature Reactor (smAHRT).  Both designs are from Oak Ridge National Laboratory.  The key technology of the IMSR® is the integration of the primary reactor components, the moderator, primary heat exchangers and pump into a sealed and replaceable vessel, the IMSR® Core-unit, which is replaced every 7 years.  This solves the material lifetime challenges commonly associated with graphite moderators and molten salt use.  
+The thermal spectrum, graphite moderated, fluoride molten salt reactor, is fueled with Standard Assay (<5% U235) low-enriched uranium (LEU) dissolved in molten fluoride-based salt. It is the only reactor in the Generation IV class that uses Standard Assay LEU fuel. Use of standard fuel simplifies licensability and international acceptance. The Canadian Nuclear Safety Commission (CNSC) completed its Pre-Licensing Vendor Design Review (VDR) of the IMSR Plant design in April 2023.
+
+International Reactor Innovative & Secure (IRIS): United States
+Developed by an international consortium led by Westinghouse and the nuclear energy research initiative (NERI), IRIS-50 is a modular PWR with a generation capacity of 50 MWe. It uses natural circulation for the coolant. The fuel is a uranium oxide with 5% enrichment of 235U that can run for five years between refueling. Higher enrichment might lengthen the refueling period, but could pose some licensing problems.
+Iris is an integral reactor, with a high-pressure containment design.
+
+Modified KLT-40: Russia
+Based on the design of nuclear power supplies for Russian icebreakers, the modified KLT-40 uses a proven, commercially available PWR system. The coolant system relies on forced circulation of pressurized water during regular operation, although natural convection is usable in emergencies. The fuel may be enriched to above 20%, the limit for low-enriched uranium, which may pose non-proliferation problems. The reactor has an active (requires action and electrical power) safety system with an emergency feedwater system. Refueling is required every two to three years. The first example is a 21,500 tonne ship, the Akademik Lomonosov launched July 2010. The construction of the Akademik Lomonosov was completed at the St. Petersburg shipyards in April 2018. On 14 September 2019, it arrived to its permanent location in the Chukotka region where it provides heat and electricity, replacing Bilibino Nuclear Power Plant, which also use SMR, of old EGP-6 design, to be shut down. Akademik Lomonosov started operation in December 2019.
+
+Last Energy: United States
+Last Energy is a full-service developer of small modular nuclear power projects with a goal of transforming the nuclear power industry by dramatically reducing the time and cost of construction.
+The company’s first product, the PWR-20 is a fully-modular SMR with all modules fitting inside of a standard shipping container. It uses pressurized water reactor (PWR) technology providing 20 MWe and is air-cooled. With its ability to be sited away from a water source and a footprint approximately the size of a football field it is targeted towards distributed energy users.The company says it will cost under $100 million and be deployed in approximately 24 months. Recently Last Energy announced $19 Billion worth of deals in Europe after constructing their demonstration unit in Texas.
+
+mPower: United States
+The mPower from Babcock & Wilcox (B&W) is an integrated PWR SMR. The nuclear steam supply systems (NSSS) for the reactor arrive at the site already assembled, and so require very little construction. Each reactor module would produce around 180 MWe, and could be linked together to form the equivalent of one large nuclear power plant. B&W has submitted a letter of intent for design approval to the Nuclear Regulatory Commission (NRC). Babcock & Wilcox announced on February 20, 2013 that they had contracted with the Tennessee Valley Authority to apply for permits to build an mPower small modular reactor at TVA's Clinch River site in Oak Ridge, Tennessee.In March 2017 the development project was terminated, with Bechtel citing the inability to find a utility company that would provide a site for a first reactor and an investor.
+
+NuScale: United States
+Originally a Department of Energy and Oregon State University project, the NuScale module reactors have been taken over by NuScale Power, Inc. The NuScale is a light water reactor (LWR), with 235U fuel enrichment of less than 5%. It has a two-year refueling period. The modules, however, are exceptionally heavy, each weighing approximately 500 tons.
+Each module has an electrical output of 77 MWe (gross), and a single NuScale power plant can be scaled from one to 12 modules for a site output of 884 MWe (net). The company originally hoped to have a plant up and running by 2018. The Nuclear Regulatory Commission issued a final safety evaluation report on the earlier 50 MWe NuScale SMR design in August 2020, approving of the safety measures and permitting NuScale to continue the next phase of their design process.
+
+OPEN100: United States
+OPEN100 is an SMR project developed by the Energy Impact Center that has published the first open-source blueprints for a 100 MWe pressurized water reactor. The project is intended to standardize the construction of nuclear power plants to cut down on cost and duration. According to the design, power plants could be built in as little as two years for $300 million. It is also a template, allowing for site-specific alterations with a plus or minus 20% cost predictability. The reactor could be developed by either a utility or private company. Transcorp Energy of Nigeria agreed to use the OPEN100 model to build the country's first nuclear reactors in July 2021.
+
+Pebble Bed Modular Reactor (PBMR): South Africa
+The Pebble Bed Modular Reactor (PBMR) is a modernized version of a design first proposed in the 1950s and deployed in the 1960s in Germany. It uses spherical fuel elements coated with graphite and silicon carbide filled with up to 10,000 TRISO particles, which contain uranium dioxide (UO2) and appropriate passivation and safety layers. The pebbles are then placed into a reactor core, comprising around 450,000 "pebbles". The core's output is 165 MWe. It runs at very high temperatures (900 °C) and uses helium, a noble gas as the primary coolant; helium is used as it does not interact with structural or nuclear materials. Heat can be transferred to steam generators or gas turbines, which can use either Rankine (steam) or Brayton (gas turbine) cycles. South Africa terminated funding for the development of the PBMR in 2010 and postponed the project indefinitely); most engineers and scientists working on the project have moved abroad to nations such as the United States, Australia, and Canada.
+
+Purdue Novel Modular Reactor (NMR): United States
+Based on the Economic Simplified Boiling Water Reactor designs by General Electric (GE), the NMR is a natural circulation SMR with an electric output of 50 MWe. The NMR has a much shorter Reactor Pressure Vessel compared to conventional BWRs. The coolant steam drives the turbines directly, eliminating the need for a steam generator. It uses natural circulation, so there are no coolant pumps. The reactor has both negative void and negative temperature coefficients. It uses a uranium oxide fuel with 235U enrichment of 5%, which doesn't need to be refueled for ten years. The double passive safety systems include gravity-driven water injection and containment cavity cooling system to withstand prolonged station blackout in case of severe accidents. The NMR would require temporary on-site storage of spent fuel, and even with the modular design would need significant assembly.
+
+Gas Turbine Modular Helium Reactor (GTMHR): United States
+The Gas Turbine Modular Helium Reactor (GTMHR) is a General Atomics project. It is a helium gas cooled reactor. The reactor is contained in one vessel, with all of the coolant and heat transfer equipment enclosed in a second vessel, attached to the reactor by a single coaxial line for coolant flow. The plant is a four-story, entirely above-ground building with a 10–25 MWelectrical output. The helium coolant doesn't interact with the structural metals or the reaction, and simply removes the heat, even at extremely high temperatures, which allow around 50% efficiency, whereas water-cooled and fossil fuel plants average 30–35%.
+The fuel is a uranium oxide coated particle fuel with 19.9% enrichment. The particles are pressed into cylindrical fuel elements and inserted into graphite blocks. For a 10 MWe plant, there are 57 of these graphite blocks in the reactor. The refueling period is six to eight years. Temporary on-site storage of spent fuel is required. Proliferation risks are fairly low, since there are few graphite blocks and it would be very noticeable if some went missing.
+
+Rolls-Royce SMR
+Rolls-Royce is preparing a close-coupled three-loop PWR design, sometimes called the UK SMR.
+The power output was originally planned to be 440 MWe, later increased to 470 MWe, which is above the usual range considered to be a SMR. A modular forced draft cooling tower will be used. The design targets a 500 day construction time, on a 10 acres (4 ha) site. Overall build time is expected to be four years, two years for site preparation and two years for construction and commissioning. The target cost is £1.8 billion for the fifth unit built.The consortium developing the design is seeking UK government finance to support further development.
+In 2017, the UK government provided funding of up to £56 million over three years to support SMR research and development. In 2019 the government committed a further £18 million to the development from its Industrial Strategy Challenge Fund.
+In November 2021, the UK government provided funding of £210 million to further develop the design, partly matched by £195 million of investment by Rolls-Royce Group, BNF Resources UK Limited and Exelon Generation Limited. They expect the first unit will be completed in the early 2030s.
+
+Super Safe, Small & Simple (4S): Japan
+Designed by the Central Research Institute of Electric Power Industry (CRIEPI), the 4S is an extremely modular design, fabricated in a factory and requiring very little construction on-site. It is a sodium (Na) cooled reactor, using a U–Zr or U–Pu–Zr fuel. The design relies on a moveable neutron reflector to maintain a steady state power level for anywhere from 10 to 30 years. The liquid metal coolant allows the use of electro-magnetic (EM) pumps, with natural circulation used in emergencies.
+
+Stable Salt Reactor (SSR): United Kingdom
+The stable salt reactor (SSR) is a nuclear reactor design proposed by Moltex Energy. It represents a breakthrough in molten salt reactor technology, with the potential to make nuclear power safer, cheaper and cleaner. The modular nature of the design, including reactor core and non-nuclear buildings, allows rapid deployment on a large scale. The design uses static fuel salt in conventional fuel assemblies thus avoiding many of the challenges associated with pumping a highly radioactive fluid and simultaneously complies with many pre-existing international standards. Materials challenges are also greatly reduced through the use of standard nuclear certified steel, with minimal risk of corrosion.
+The SSR wasteburning variant SSR-W, rated at 300 MWe, is currently progressing through the Vendor Design Review (VDR) with the Canadian Nuclear Safety Commission (CNSC).
+
+Traveling Wave Reactor (TWR): United States
+The TWR from Intellectual Ventures' TerraPower team is another innovative reactor design. It is based on the idea of a fission chain reaction moving through a core in a "wave". The idea is that the slow breeding and burning of fuel would move through the core for 50 to 100 years without needing to be stopped, so long as plenty of fertile 238U is supplied. The only enriched 235U required would be a thin layer to start the chain reaction. So far, the reactor only exists in theory, the only testing done with computer simulations. A large reactor concept has been designed, but the small modular design is still being conceptualized.
+
+Westinghouse SMR and AP300
+The Westinghouse SMR design is a scaled down version of the AP1000 reactor, designed to generate 225 MWe. After losing a second time in December 2013 for funding through the U.S. Department of Energy's SMR commercialization program, and citing "no customers" for SMR technology, Westinghouse announced in January 2014 that it is backing off from further development of the company's SMR. Westinghouse staff devoted to SMR development was "reprioritized" to the company's AP1000.On 4 May 2023 Westinghouse announced the AP300, which is a 300 MWe, single-loop pressurized water reactor based on the AP1000. Design certification is anticipated by 2027, followed by site specific licensing and construction on the first unit toward the end of the decade.
+
+See also
+List of nuclear reactors
+List of United States Naval reactors
+List of Soviet Naval reactors
+List of Russian small nuclear reactors
+
+References
+Works cited
+Office of Nuclear Energy, Science and Technology (May 2001). "Report to Congress on Small Modular Nuclear Reactors" (PDF). U.S. Department of Energy. Archived from the original (PDF) on 16 July 2011.
+
+External links
+List of Small Nuclear Reactors
+Publications on Small Nuclear Reactors Archived 2012-05-28 at the Wayback Machine
+Small Nuclear Power Reactors Archived 2013-02-12 at the Wayback Machine
+The encyclopedia of Earth – Small nuclear power reactors
+Nuclear Regulatory Commission´s advanced reactors
+World's Smallest Nuclear Reactors

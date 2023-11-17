@@ -1,5 +1,0 @@
-A quasiperiodic tiling is a tiling of the plane that exhibits local periodicity under some transformations: every finite subset of its tiles reappears infinitely often throughout the tiling, but there is no nontrivial way of superimposing the whole tiling onto itself so that all tiles overlap perfectly.
-See
-
-Aperiodic tiling and Penrose tiling for a mathematical viewpoint.
-Quasicrystal for a physics viewpoint.

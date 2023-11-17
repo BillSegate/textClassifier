@@ -1,6 +1,0 @@
-In mathematics, a Jacobian, named for Carl Gustav Jacob Jacobi, may refer to:
-
-Jacobian matrix and determinant
-Jacobian elliptic functions
-Jacobian variety
-Intermediate Jacobian

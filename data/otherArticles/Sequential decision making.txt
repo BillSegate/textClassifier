@@ -1,4 +1,0 @@
-In artificial intelligence, sequential decision making refers to algorithms that take the dynamics of the world into consideration, thus delaying parts of the problem until it must be solved. It can be described as a procedural approach to decision-making, or as a step by step decision theory. Sequential decision making has as a consequence the intertemporal choice problem, where earlier decisions influences the later available choices.
-
-
-== References ==

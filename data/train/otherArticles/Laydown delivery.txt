@@ -1,0 +1,19 @@
+Laydown delivery is a mode of delivery found in some nuclear gravity bombs: the bomb's descent to the target is slowed by parachute so that it lands on the ground without detonating. The bomb then detonates by timer some time later. Laydown delivery requires the weapon to be reinforced so that it can survive the force of impact.Laydown modes are used to make weapon delivery survivable by aircraft flying at low level. Low-altitude delivery helps hide the aircraft from surface-to-air missiles. The ground burst detonation of a laydown delivered weapon is used to increase the effect of the weapon's blast on built-up targets such as submarine pens, or to transmit a shock wave through the ground to attack deeply-buried targets. An attack of this type produces large amounts of radioactive fallout.
+
+Weapons with laydown delivery options
+United Kingdom
+The issue of aircraft survivability led to laydown being selected for the Vickers Valiant bomber of the Royal Air Force, as the design became increasingly vulnerable to Soviet weapons, especially the SA-2 missile. The low-level laydown delivery was referred to as "Equipment 2 Foxtrot" in RAF parlance; alternatives included "2 Echo" toss bombing and "2 Hotel", a particular climbing delivery method used by the Avro Vulcan.
+
+United States
+B28 bomb — Only in the RE (retarded external), RI (retarded internal) and FI (full-fuzing internal) versions of the weapon. The RE and RI versions of the weapon used the W28 mod 1 warhead and were an interim weapon only capable of laydown delivery at 2,000 feet (610 m) altitude, while the FI version using W28 Mod 2 and later warheads was capable of 500 feet (150 m) delivery.
+B53 bomb — Full-fuzing option (FUFO) weapon with laydown. The weapon later lost FUFO in its B53-1 upgrade in 1988, having only laydown fuzing.
+B61 bomb — Full-fuzing option (FUFO) weapon with laydown. Capable of laydown delivery at 50 feet (15 m) altitude.
+B83 bomb — Full-fuzing option (FUFO) weapon with laydown.
+
+See also
+Air burst
+Toss bombing
+Nuclear bunker buster
+
+
+== References ==

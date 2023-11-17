@@ -1,0 +1,62 @@
+Spontaneous fission (SF) is a form of radioactive decay in which a heavy atomic nucleus splits into two or more lighter nuclei. In comparison to induced fission, there is no inciting particle to trigger the decay, it is a purely probabilistic process.
+Spontaneous fission is a dominant decay mode for superheavy elements, with nuclear stability generally falling as nuclear mass increases.	It thus forms a practical limit to heavy element nucleon number. Heavier nuclides may be created instantaneously by physical processes, both natural (via the r-process) and artificial, though rapidly decay to more stable nuclides. As such, apart from minor decay branches in primordial radionuclides, spontaneous fission is not observed in nature.
+Observed fission half-lives range from 4.1 microseconds (250102No) to greater than the current age of the universe (23290Th).: 16
+
+History
+Following the discovery of induced fission by Otto Hahn and Fritz Strassmann in 1938, Soviet physicists Georgy Flyorov and Konstantin Petrzhak began conducting experiments to explore the effects of incident neutron energy on uranium nuclei. Their equipment recorded fission fragments even when no neutrons were present to induce the decay, and the effect persisted even after the equipment was moved 60m underground into the tunnels of the Moscow Metro's Dinamo station in an effort to insulate it from the effects of cosmic rays. The discovery of induced fission itself had come as a surprise, and no other mechanism was known that could account for the observed decays. Such an effect could only be explained by spontaneous fission of the uranium nuclei without external influence.
+
+Mechanism
+Spontaneous fission arises as a result of competition between the attractive properties of the strong nuclear force and the mutual coulombic repulsion of the constituent protons. Nuclear binding energy increases in proportion to atomic mass number (A), however coulombic repulsion increases with proton number (Z) squared. Thus, at high mass and proton numbers, coulombic repulsion overpowers the nuclear binding forces, and the nucleus is energetically more stable as two separate fragments than as a single bound system.: 478–9 Spontaneous fission is usually a slow process, as the nucleus cannot simply jump to the lower energy (divided) state. Instead it must tunnel through a potential barrier, with a probability determined by the height of the barrier. Such a barrier is energetically possible for all A>100, though its height generally decreases with increasing Z,: 433  and fission is only practically observed for A>232.The stability of a nuclide against fission is expressed as the ratio of the Coulomb energy to the surface energy, which can be empirically estimated as the fissility parameter, x: 
+   
+with 
+  
+    
+      
+        I
+        =
+        
+          
+            
+              
+                N
+                −
+                Z
+              
+              A
+            
+          
+        
+      
+    
+    {\displaystyle I={\tfrac {N-Z}{A}}}
+   and 
+  
+    
+      
+        η
+        ≈
+        1.78
+      
+    
+    {\displaystyle \eta \approx 1.78}
+  : 3 . For light nuclei, x is small and a sizeable fission barrier exists. As nuclear mass increases, so too does the fissility parameter, eventually approaching and exceeding unity, where stability against fission is lost altogether.: 4 Shell effects may further affect observed half-lives — decays of odd-A nuclides are hindered by 3-5 orders of magnitude compared to even-even nuclides.: 4  The barrier to fission is expected to be zero at A=300, though an island of stability may exist centred around Z=114, N=184.: 481–2 To date, true ab initio models describing the complete fission process are not possible.: 3  Computational theories based on Hartree-Fock or density-functional theory approaches have been developed, however computational complexity makes it difficult to reproduce the full behaviour.: 35  The semi-classical liquid drop model provides a primarily qualitative description of the phenomenology by treating the nucleus as a classical drop of liquid to which quantum corrections can be applied, which provides a useful conceptual picture that matches in part with experimental data, but ignores much of the quantum nature of the system and fails at more rigorous predictions.
+In this model, as with a classical liquid drop, a "surface tension" term is introduced which promotes the spherical shape of the nucleus. Acting in opposition is coulombic repulsion term, which acts to increase the distance between repelling proton pairs and thus promotes elongation of the nucleus into an oval shape.: 3  As the deformation of the nucleus increases, and particularly for large nuclei due to their stronger coulombic repulsion, the nucleus may find itself in a state where a thin 'neck' develops, forming a bridge between two clusters of nuclear matter which may exceed the ability of the surface tension to restore the undeformed shape, eventually breaking into two fragments at the "scission point".: 15  Introducing the effects of quantum tunnelling, the nucleus always has a chance to scission which increases with increasing deformation, and may do so even if the deformation is insufficient to trigger rupture of the neck. After separation, both fragments are highly positively charged and therefore gain significant kinetic energy via their mutual repulsion as they accelerate away from each other.
+Shape isomers (also called fission isomers) are excited nuclear states existing before scission which may deviate from the spherical geometry, increasing nuclear deformation compared to the ground state without undergoing full fission. These states are 'metastable' — a nucleus is this state may, on timescales between nanoseconds and microseconds, either decay back to the ground state via gamma-emission, or tunnel through the scission barrier and break apart. Should the nucleus find itself in this state, either through quantum tunnelling or via random statistical fluctuation, the barrier for fission is much reduced, as shape isomers are always at a higher energy level than the ground sate and therefore are no longer required to tunnel through the entire barrier. The resulting increased probability for fission reduces the effective half-life of the nuclide.: 494–7  Triple-humped barriers have been suggested for some nuclear species such as 22890Th, further reducing its observed half-life.
+
+Products
+Fission fragments are usually neutron-rich and always generated in excited states.: 3  Thus, daughter decays occur rapidly after scission. Decays occurring within 10-13s of scission are termed "prompt" and are initially dominated by a series of neutron emissions which remain the dominant decay mode until the fragment energy is reduced to the same order of magnitude as the neutron separation energy (approximately 7 MeV), when photon emission becomes competitive. Below the neutron separation energy, gamma emission is dominant, characterised by a disordered spectrum of gamma energies with characteristic low-energy peaks corresponding to specific decays as the daughter descends the yrast line,: 53–4  each decay carrying away excess angular momentum.: 8  Average total prompt gamma emission is 30% higher from the lighter fragment compared to the heavier, implying the heavier fragment is created with higher initial angular momentum.: 19  Finally, internal conversion and x-ray emission complete the prompt emissions.: 53–4  Daughter products created by prompt decays are often unstable against beta-decay, and further photon and neutron emissions are also expected. Such emissions are termed 'delayed emissions' and take place with half-lives ranging from picoseconds to years.: 3 As a result of the large number of decay pathways presented to a fissioning nucleus, there is a large variation in the final products. Fragment masses are normally distributed about two peaks centred at A≈95 and A≈140,: 484 . Spontaneous fission favours against equal-mass fragments, and no convincing explanation has been found to explain this.: 484  In rare instances (0.3%), three or more fission fragments may be created. Ternary products are usually alpha-particles, though can be as massive as oxygen nuclei.: 46 Total energy release across all products is approximately 200 MeV,: 4  mostly observed as kinetic energy of the fission fragments, with the lighter fragment receiving the larger proportion of energy.: 491–2  For a given decay path, the number of emitted neutrons is not consistent, and instead follows a gaussian distribution. The distribution about the average, however, is consistent across all decay paths.: 486  Prompt neutrons are emitted with energies approximated by (but not precisely fitting) a Maxwell distribution,: 17–8  peaking between 0.5 and 1 MeV, with an average energy of 2 MeV and maximum energy of approximately 10 MeV.: 4–5  Prompt gamma emission constitutes a further 8 MeV, while beta decay and delayed-gammas contribute a further 19 MeV and 7 MeV respectively.: 492  Less than 1% of emitted neutrons are emitted as delayed neutrons.
+
+Applications
+The most common application for spontaneous fission is as neutron source for further use. These neutrons may be used for applications such as neutron imaging, or may drive additional nuclear reactions, including initiating induced fission of a target as is common in nuclear reactors and nuclear weapons.
+In crystals containing high proportions of uranium, fission products generated via spontaneous fission produce damage trails as the fragments recoil through the crystal structure. The number of trails, or fission tracks, may be used to estimate the age of a sample via fission track dating.
+
+Spontaneous fission rates
+See also
+Nuclear fission
+Natural nuclear fission reactor
+Alpha decay
+Cluster decay
+
+Notes
+External links
+ The LIVEChart of Nuclides - IAEA  with filter on spontaneous fission decay

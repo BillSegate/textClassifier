@@ -1,0 +1,17 @@
+Tritiated water is a radioactive form of water in which the usual protium atoms are replaced with tritium. In its pure form it may be called tritium oxide (T2O or 3H2O) or super-heavy water. Pure T2O is a colorless liquid, and it is corrosive due to self-radiolysis. Diluted, tritiated water is mainly H2O plus some HTO (3HOH).  It is also used as a tracer for water transport studies in life-science research.  Furthermore, since it naturally occurs in minute quantities, it can be used to determine the age of various water-based liquids, such as vintage wines.
+The name super-heavy water helps distinguish the tritiated material from heavy water, which contains deuterium instead.
+
+Applications
+Tritiated water can be used to measure the total volume of water in one's body. Tritiated water distributes itself into all body compartments relatively quickly. The concentration of tritiated water in urine is assumed to be similar to the concentration of tritiated water in the body. Knowing the original amount of tritiated water that was ingested and the concentration, one can calculate the volume of water in the body.
+
+Amount of tritiated water (mg) = Concentration of tritiated water (mg/ml) × Volume of body water (ml)
+Volume of body water (ml) = [Amount of tritiated water (mg) − Amount excreted (mg)] / Concentration of tritiated water (mg/ml)
+
+Health risks
+The tritium contained in tritiated water (HTO) is radioactive and a low energy beta emitter. It is not dangerous externally as its beta particles are unable to penetrate the skin. It can be a radiation hazard if inhaled, ingested via food or water, or absorbed through the skin.
+While HTO is produced naturally by cosmic ray interactions in the stratosphere, it is also produced by human activities and can increase local concentrations and be considered an air and water pollutant. Anthropogenic sources of tritiated water include nuclear weapons testing, nuclear power plants, nuclear fuel reprocessing plants and consumer products such as self-illuminating watches and signs.
+HTO has a short biological half-life in the human body of 7 to 14 days, which both reduces the total effects of single-incident ingestion and precludes long-term bioaccumulation of HTO from the environment. The biological half life of tritiated water in the human body, which is a measure of body water turn-over, varies with the season. Studies on the biological half life of occupational radiation workers for free water tritium in a coastal region of Karnataka, India, show that the biological half life in the winter season is twice that of the summer season. 
+If tritium exposure is suspected or known, drinking uncontaminated water will help replace the tritium from the body. Increasing sweating, urination or breathing can help the body expel water and thereby the tritium contained in it. However, care should be taken that neither dehydration nor a depletion of the body's electrolytes results as the health consequences of those things (particularly in the short term) can be more severe than those of tritium exposure.
+
+
+== References ==

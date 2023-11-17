@@ -1,0 +1,11 @@
+The Combined Construction and Operating License (Regulatory Guide 1.206, COL) replaced the previous Draft Regulatory Guide 1145 as the licensing process for new nuclear power plants in the United States.  It is a part of a newer "streamlined" process that encourages standard plant designs, and prevents delays in operation that contributed to the mothballing of many plants since the 1980s.  "A combined license authorizes construction and conditional operation of a nuclear power plant.   The application for a combined license must contain essentially the same information required in an application for an operating license issued under 10 CFR Part 50, including financial and antitrust information and an assessment of the need for power. The application must also describe the inspections, tests, analyses, and acceptance criteria (ITAAC) that are necessary to ensure that the plant has been properly constructed and will operate safely."Previously, the licensing process had two steps, a construction permit and an operating license, each of which required a different application to be filed and reviewed.  Oppositions raised before a plant started operation versus before it started construction could thus be extremely financially damaging to a utility.
+A COL may reference an Early Site Permit (ESP), a standard Design Certification (DC), both, or neither.  An ESP addresses the site that plant will be built on while a DC describes the reactor design.  A COL application must address the information contained in an ESP or a DC if it does not reference them.
+Seven COLs  have been issued and one application is currently under active review. Five ESPs have been granted and one application is currently under active review. Six Design Certification have been granted, one is under renewal review, and three applications are under active review.
+
+See also
+Nuclear licensing
+Nuclear power in the United States
+
+References
+Bibliography
+NRC Combined License (COL) Application Guidance - containing 10 CFR Part 52 in its entirety

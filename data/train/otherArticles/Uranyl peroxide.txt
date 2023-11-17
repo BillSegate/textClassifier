@@ -1,0 +1,20 @@
+Uranyl peroxide or uranium peroxide hydrate (UO4·nH2O) is a pale-yellow, soluble peroxide of uranium. It is found to be present at one stage of the enriched uranium fuel cycle and in yellowcake prepared via the in situ leaching and resin ion exchange system. This compound, also expressed as UO3·(H2O2)·(H2O), is very similar to uranium trioxide hydrate UO3·nH2O. The dissolution behaviour of both compounds are very sensitive to the hydration state (n can vary between 0 and 4). One main characteristic of uranium peroxide is that it consists of small needles with an average AMAD of about 1.1 μm.
+The uranyl minerals studtite, UO4·4H2O, and metastudtite, UO4·2H2O, are the only minerals discovered to date found to contain peroxide. The product is a light yellow powder.
+
+Synthesis
+In general, uranyl peroxide can be obtained from a solution of uranium (VI) by adding a peroxide, usually hydrogen peroxide solution. The dihydrate is obtained from a boiling solution of uranyl nitrate with the addition of hydrogen peroxide and drying of the precipitate, while the trihydrate is precipitated from a solution of ammonium uranyl oxalate.
+
+Crystal structure
+The unit cell consists of uranyl cations coordinated to two water molecules and two peroxide anions. The latter are μ2-coordinated to the cation—that is, end-on. Additional water molecules are bound in the crystal by hydrogen bonding.  Only the tetrahydrate has been characterized by X-ray crystallography, but density functional theory offers a good approximation to the dihydrate.
+
+Poly­peroxo­uranylate allotrope
+When uranyl nitrate is dissolved in an aqueous solution of hydrogen peroxide and an alkali metal hydroxide, it forms cage clusters akin to polyoxometalates or fullerenes.  Syntheses also typically add organic materials, such as amines, to serve as templates, akin to zeolites.
+
+Applications
+Radiolysis of uranium salts dissolved in water produces peroxides; uranyl peroxide has been studied as a possible end component of spent radioactive waste.
+
+References
+
+Some Chemistry of Uranium
+Freeman, Marvin D.; Stover, Dennis E. (1999). "The Smith Ranch Project: a 1990s In-situ Uranium Mine". The Uranium Institute Twenty Fourth Annual International Symposium. The Uranium Institute. Archived from the original on 16 July 2012. Retrieved 22 November 2011.
+Kubatko, K. -A. H.; Helean, K. B.; Navrotsky, A.; Burns, P. C. (2003). "Stability of Peroxide-Containing Uranyl Minerals". Science. 302 (5648): 1191–1193. doi:10.1126/science.1090259. PMID 14615533. S2CID 44415700.

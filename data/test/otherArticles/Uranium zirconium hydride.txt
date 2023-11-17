@@ -1,0 +1,7 @@
+Uranium zirconium hydride (UZrH), a combination of uranium hydride and zirconium(II) hydride, is used as the fuel in TRIGA reactors. UZrH fuel is used in most research reactors at universities and has a large, prompt negative fuel temperature coefficient of reactivity, meaning that as the temperature of the core increases, the reactivity rapidly decreases.Franco-Belge de Fabrication du Combustible, in Romans-sur-Isère, France, is the only manufacturer of this fuel.
+
+References
+External links
+Technical Foundations of TRIGA: Thermalization In Zirconium Hydride
+[1]
+TRIGA

@@ -1,0 +1,19 @@
+The Helikon vortex separation process is an aerodynamic uranium enrichment process designed around a device called a vortex tube. Paul Dirac thought of the idea  for isotope separation and tried creating such a device in 1934 in the lab of Peter Kapitza at Cambridge. Other methods of separation were more practical at that time, but this method was designed and used in South Africa for producing reactor fuel with a uranium-235 content of around 3–5%, and 80–93% enriched uranium for use in nuclear weapons. The Uranium Enrichment Corporation of South Africa, Ltd. (UCOR) developed the process, operating a facility at Pelindaba (known as the 'Y' plant) to produce hundreds of kilograms of HEU. Aerodynamic enrichment processes require large amounts of electricity and are not generally considered economically competitive because of high energy consumption and substantial requirements for removal of waste heat. There are other ways in which it is advantageous, e.g. In simplicity, lack of precision required, even if more expensive.  The South African enrichment plant was closed on 1 February 1990.: 103
+
+Process
+In the vortex separation process a mixture of uranium hexafluoride gas and hydrogen is injected tangentially into a tube at one end through nozzles or holes, at velocities close to the speed of sound. The tube tapers to a small exit aperture at one or both ends. This tangential injection of gas results in a spiral or vortex motion within the tube, and two gas streams are withdrawn at opposite ends of the vortex tube; centrifugal force providing the isotopic separation. The spiral swirling flow decays downstream of the feed inlet due to friction at the tube wall. Consequently, the inside diameter of the tube is typically tapered to reduce decay in the swirling flow velocity. This process is characterized by a separating element with a very small stage cut (the ratio of product flow to feed flow) of about 1/20, and high process-operating pressures.
+Due to the extremely difficult plumbing required to link stages together, the design was developed into a cascade design technique (dubbed Helikon), in which 20 separation stages are combined into one module, and all 20 stages share a common pair of axial-flow compressors. A basic requirement for the success of this method is that the axial-flow compressors successfully transmit parallel streams of different isotopic compositions without significant mixing. A typical Helikon module consists of a large cylindrical steel vessel housing the 20 separator assemblies, along with two compressors (one mounted on each end), and two water-cooled heat exchangers.
+Advantages of this process are a lack of criticality concerns due to the highly diluted feedstock and suitability for batch processing. This means Helikon-type plants can be relatively small, making the technology a nuclear proliferation concern.
+
+See also
+South Africa and weapons of mass destruction
+Nuclear reprocessing
+Nuclear fuel cycle
+Nuclear power
+
+References
+External links
+Aerodynamic Process for Uranium Enrichment
+Uranium Enrichment Technologies: Proliferation Implications
+South Africa's Nuclear Weapons Program at the Library of Congress Web Archives (archived 2001-09-27)
+Sa Companies currently enrichment

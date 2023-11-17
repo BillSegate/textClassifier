@@ -1,0 +1,556 @@
+The Inhour equation used in nuclear reactor kinetics to relate reactivity and the reactor period. Inhour is short for "inverse hour" and is defined as the reactivity which will make the stable reactor period equal to 1 hour (3,600 seconds).  Reactivity is more commonly expressed as per cent millie (pcm) of Δk/k or dollars.The Inhour equation is obtained by dividing the reactivity equation, Equation 1, by the corresponding value of the inhour unit, shown by Equation 2.
+  
+    
+      
+        ρ
+        (
+        r
+        e
+        a
+        c
+        t
+        i
+        v
+        i
+        t
+        y
+        )
+        =
+        
+          
+            
+              l
+              
+                ∗
+              
+            
+            
+              T
+              
+                p
+              
+            
+          
+        
+        +
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            6
+          
+        
+        
+          
+            
+              β
+              
+                i
+              
+            
+            
+              1
+              +
+              
+                λ
+                
+                  i
+                
+              
+              
+                T
+                
+                  p
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \rho (reactivity)={\frac {l^{*}}{T_{p}}}+\sum _{i=1}^{6}{\frac {\beta _{i}}{1+\lambda _{i}T_{p}}}}
+   [Equation 1]
+
+  
+    
+      
+        I
+        n
+        =
+        
+          
+            
+              
+                
+                  
+                    l
+                    
+                      ∗
+                    
+                  
+                  
+                    T
+                    
+                      p
+                    
+                  
+                
+              
+              +
+              
+                ∑
+                
+                  i
+                  =
+                  1
+                
+                
+                  6
+                
+              
+              
+                
+                  
+                    β
+                    
+                      i
+                    
+                  
+                  
+                    1
+                    +
+                    
+                      λ
+                      
+                        i
+                      
+                    
+                    
+                      T
+                      
+                        p
+                      
+                    
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    l
+                    
+                      ∗
+                    
+                  
+                  3600
+                
+              
+              +
+              
+                ∑
+                
+                  i
+                  =
+                  1
+                
+                
+                  6
+                
+              
+              
+                
+                  
+                    β
+                    
+                      i
+                    
+                  
+                  
+                    1
+                    +
+                    
+                      λ
+                      
+                        i
+                      
+                    
+                    3600
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle In={\frac {{\frac {l^{*}}{T_{p}}}+\sum _{i=1}^{6}{\frac {\beta _{i}}{1+\lambda _{i}T_{p}}}}{{\frac {l^{*}}{3600}}+\sum _{i=1}^{6}{\frac {\beta _{i}}{1+\lambda _{i}3600}}}}}
+   [Equation 2]
+
+       ρ = reactivity
+
+       l*= neutron generation time
+
+       Tp= reactor period
+
+       βi= fraction of delayed neutrons of ith kind
+
+       λi= precursor decay constant of ith kind
+
+For small reactivity or large reactor periods, unity may be neglected in comparison with λiTp and λi3600 and the Inhour equation can be simplified to Equation 3.
+  
+    
+      
+        I
+        n
+        =
+        
+          
+            3600
+            
+              T
+              
+                p
+              
+            
+          
+        
+      
+    
+    {\displaystyle In={\frac {3600}{T_{p}}}}
+   [Equation 3]
+The inhour equation is initially derived from the point kinetics equations. The point reactor kinetics model assumes that the spatial flux shape does not change with time.  This removes spatial dependencies and looks at only changes with times in the neutron population. The point kinetics equation for neutron population is shown in Equation 4.
+
+  
+    
+      
+        
+          
+            
+              d
+              n
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        
+          
+            
+              k
+              (
+              1
+              −
+              β
+              )
+              −
+              1
+            
+            l
+          
+        
+        n
+        (
+        t
+        )
+        +
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            I
+          
+        
+        
+          λ
+          
+            i
+          
+        
+        
+          C
+          
+            i
+          
+        
+        (
+        t
+        )
+      
+    
+    {\displaystyle {\frac {dn}{dt}}={\frac {k(1-\beta )-1}{l}}n(t)+\sum _{i=1}^{I}\lambda _{i}C_{i}(t)}
+   [Equation 4]
+where k = multiplication factor (neutrons created/neutrons destroyed)
+The delayed neutrons (produced from fission products in the reactor) contribute to reactor time behavior and reactivity. The prompt neutron lifetime in a modern thermal reactor is about 10−4 seconds, thus it is not feasible to control reactor behavior with prompt neutrons alone. Reactor time behavior can be characterized by weighing the prompt and delayed neutron yield fractions to obtain the average neutron lifetime, Λ=l/k, or the mean generation time between the birth of a neutron and the subsequent absorption inducing fission.  Reactivity, ρ, is the change in k effective or (k-1)/k.For one effective delayed group with an average decay constant, C, the point kinetics equation can be simplified to Equation 5 and Equation 6 with general solutions Equation 7 and 8, respectively.
+
+  
+    
+      
+        
+          
+            
+              d
+              P
+            
+            
+              d
+              T
+            
+          
+        
+        =
+        
+          
+            
+              
+                ρ
+                
+                  o
+                
+              
+              −
+              β
+            
+            Λ
+          
+        
+        P
+        (
+        t
+        )
+        +
+        λ
+        C
+        (
+        t
+        )
+      
+    
+    {\displaystyle {\frac {dP}{dT}}={\frac {\rho _{o}-\beta }{\Lambda }}P(t)+\lambda C(t)}
+   [Equation 5]
+
+  
+    
+      
+        
+          
+            
+              d
+              C
+            
+            
+              d
+              T
+            
+          
+        
+        =
+        
+          
+            β
+            Λ
+          
+        
+        P
+        (
+        t
+        )
+        −
+        λ
+        C
+        (
+        t
+        )
+      
+    
+    {\displaystyle {\frac {dC}{dT}}={\frac {\beta }{\Lambda }}P(t)-\lambda C(t)}
+   [Equation 6]
+General Solutions
+
+  
+    
+      
+        P
+        (
+        t
+        )
+        =
+        
+          P
+          
+            1
+          
+        
+        
+          e
+          
+            
+              s
+              
+                1
+              
+            
+            t
+          
+        
+        +
+        
+          P
+          
+            2
+          
+        
+        
+          e
+          
+            
+              s
+              
+                2
+              
+            
+            t
+          
+        
+      
+    
+    {\displaystyle P(t)=P_{1}e^{s_{1}t}+P_{2}e^{s_{2}t}}
+   [Equation 7]
+
+  
+    
+      
+        C
+        (
+        t
+        )
+        =
+        
+          C
+          
+            1
+          
+        
+        
+          e
+          
+            
+              s
+              
+                1
+              
+            
+            t
+          
+        
+        +
+        
+          C
+          
+            2
+          
+        
+        
+          e
+          
+            
+              s
+              
+                2
+              
+            
+            t
+          
+        
+      
+    
+    {\displaystyle C(t)=C_{1}e^{s_{1}t}+C_{2}e^{s_{2}t}}
+   [Equation 8]
+where
+
+  
+    
+      
+        
+          s
+          
+            1
+          
+        
+        =
+        
+          
+            
+              λ
+              
+                ρ
+                
+                  o
+                
+              
+            
+            
+              β
+              −
+              
+                ρ
+                
+                  o
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle s_{1}={\frac {\lambda \rho _{o}}{\beta -\rho _{o}}}}
+  
+
+  
+    
+      
+        
+          s
+          
+            2
+          
+        
+        =
+        −
+        (
+        
+          
+            
+              β
+              −
+              
+                ρ
+                
+                  o
+                
+              
+            
+            Λ
+          
+        
+        )
+      
+    
+    {\displaystyle s_{2}=-({\frac {\beta -\rho _{o}}{\Lambda }})}
+  
+The time constant expressing the more slowly varying asymptotic behavior is referred to as the stable reactor period.
+
+
+== References ==

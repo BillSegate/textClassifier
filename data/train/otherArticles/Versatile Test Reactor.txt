@@ -1,0 +1,33 @@
+The Versatile Test Reactor (VTR) was a project by the U.S. Department of Energy to build a fast-neutron test reactor by 2026. Funding for the project was scrapped in 2022
+
+History
+After the Fast Flux Test Facility and the Experimental Breeder Reactor-II (EBR-II) were decommissioned in 1992 and 1994, respectively, the United States was left with no fast-neutron reactor in its fleet.  Fast-neutron research was limited to a few restricted reactors located in Russia, including the Bor-60.  To address this problem Nuclear Energy Innovation Capabilities Act of 2017 included a provision directing the Department of Energy to begin planning for a fast-neutron source. Congress included $35 million in 2018 and $65 million in 2019 in the budget in support of this.  In February 2019, VTR cleared Critical Decision 0, demonstrating a mission need requiring investment, the first in a series of project approvals. At that time, Secretary of Energy Rick Perry announced the start of the Versatile Test Reactor Project.  In November 2019, Battelle Energy Alliance, the organization that manages Idaho National Laboratory, announced an Expression of Interest (EOI) seeking an industry partner to design and construct the VTR.  In January 2020, a collaboration between GE Hitachi Nuclear Energy (GEH) and TerraPower supported by Energy Northwest was announced.The potential building sites of the VTR being considered were Oak Ridge National Laboratory and Idaho National Laboratory.Funding for the project was scrapped in 2022
+
+Conceptual Design
+Four national laboratories, Idaho National Laboratory, Argonne National Lab, Los Alamos National Lab, and Oak Ridge National Laboratory worked with universities and commercial industry to come up with conceptual designs, costs and schedule estimates, and support.The likely design will be a sodium-cooled 300 megawatt reactor based on GE-Hitachi’s PRISM reactor.  The proposed first fuel will utilize a uranium-plutonium-zirconium alloy fuel. Such an alloy fuel was tested previously in the EBR-II reactor. Later reactor fuel could consist of other mixtures and varying enrichments of uranium and plutonium and could use other alloying metals in place of zirconium.  There are no power generating facilities planned for the VTR.
+
+Planned Capabilities
+The Department of Energy Office of Nuclear Energy (NE), Nuclear Energy Advisory Committee (NEAC) report, "Assessment of Missions and Requirements for a New U.S. Test Reactor" recommended the need for a US domestic fast-neutron test capability.  The considerations for such a capability include
+An intense, neutron-irradiation environment with prototypic spectrum to determine irradiation tolerance and chemical compatibility with other reactor materials, particularly the coolant.
+Testing that provides a fundamental understanding of materials performance, validation of models for more rapid future development, and engineering-scale validation of materials performance in support of licensing efforts.
+A versatile testing capability to address diverse technology options as well as sustained and adaptable testing environments.
+Focused irradiations, either long- or short-term, with heavily instrumented experimental devices, and the possibility to do in-situ measurements and quick extraction of samples.
+An accelerated schedule to regain and sustain U.S. technology leadership and to enable the competitiveness of U.S-based industry entities in the advanced reactor markets. This can be achieved through use of mature technologies for the reactor design (e.g., sodium coolant in a pool-type, metallic-alloy-fueled fast reactor) while enabling innovative experimentation.These planned capabilities are roughly similar to the capabilities of the sodium-cooled fast neutron 400MWth test reactor Fast Flux Test Facility, located at the Hanford Site in the state of Washington, which was decommissioned in 1992.
+The preliminary requirements that meet these considerations include:
+
+Provide a high peak neutron flux (neutron energy greater than 0.1 MeV) with a prototypic fast-reactor-neutron-energy spectrum; the target flux is 4 × 1015 neutrons per square centimeter per second (neutrons/cm2-sec) or greater.
+Provide high neutron dose rate for materials testing [quantified as displacements per atom]; the target is 30 displacements per atom per year or greater.
+Provide an irradiation length that is appropriate for fast reactor fuel testing; the target is 0.6 to 1 meter.
+Provide a large irradiation volume within the core region; the target is 7 liters.
+Provide innovative testing capabilities through flexibility in testing configuration and testing environment (coolants) in closed loops.
+Provide the ability to test advanced sensors and instrumentation for the core and test positions.
+Expedite experiment life cycle by enabling easy access to support facilities for experiments fabrication and post-irradiation examination.
+Provide life-cycle management (spent nuclear fuel storage pending ultimate disposal) for the reactor driver fuel (fuel needed to run the reactor) while minimizing cost and schedule impacts.
+Make the facility available for testing as soon as possible by using proven technologies with a high technology readiness level.
+
+Opposition
+Edwin Lyman, senior scientist and acting director of the Nuclear Safety Project at the non-profit Union of Concerned Scientists, questioned the need for a fast-neutron reactor, stating that existing facilities could be utilized to produce fast neutrons.The breeder design of the reactor produces more fissile material in the form of plutonium, resulting in proliferation fears.  
+“There is nothing good about these reactors,” he said. “I think there is a love of plutonium in the [Energy] Department that is irrational.”
+
+
+== References ==

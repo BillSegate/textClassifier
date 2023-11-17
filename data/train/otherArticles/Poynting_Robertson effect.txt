@@ -1,0 +1,345 @@
+The Poynting–Robertson effect, also known as Poynting–Robertson drag, named after John Henry Poynting and Howard P. Robertson, is a process by which solar radiation causes a dust grain orbiting a star to lose angular momentum relative to its orbit around the star.  This is related to radiation pressure tangential to the grain's motion.
+This causes dust that is small enough to be affected by this drag, but too large to be blown away from the star by radiation pressure, to spiral slowly into the star.  In the case of the Solar System, this can be thought of as affecting dust grains from 1 μm to 1 mm in diameter.  Larger dust is likely to collide with another object long before such drag can have an effect.
+Poynting initially gave a description of the effect in 1903 based on the luminiferous aether theory, which was superseded by the theories of relativity in 1905–1915. In 1937 Robertson described the effect in terms of general relativity.
+
+History
+Robertson considered dust motion in a beam of radiation emanating from a point source. A. W. Guess later considered the problem for a spherical source of radiation and found that for particles far from the source the resultant forces are in agreement with those concluded by Poynting.
+
+Source of the effect
+The effect can be understood in two ways, depending on the reference frame chosen.
+
+From the perspective of the grain of dust circling a star (panel (a) of the figure), the star's radiation appears to be coming from a slightly forward direction (aberration of light). Therefore the absorption of this radiation leads to a force with a component against the direction of movement. The angle of aberration is extremely small since the radiation is moving at the speed of light while the dust grain is moving many orders of magnitude slower than that.
+From the perspective of the star (panel (b) of the figure), the dust grain absorbs sunlight entirely in a radial direction, thus the grain's angular momentum is not affected by it.  But the re-emission of photons, which is isotropic in the frame of the grain (a), is no longer isotropic in the frame of the star (b).  This anisotropic emission causes the photons to carry away angular momentum from the dust grain.
+Note that this anisotropic emission does not imply that an isolated radiating body in motion would decelerate (which would violate the principle of relativity). In this case, there would still be a net deceleration force (i.e. a decrease in momentum over time), but since the body's mass decreases as energy is radiated away, its velocity can remain constant.
+The Poynting–Robertson drag can be understood as an effective force opposite the direction of the dust grain's orbital motion, leading to a drop in the grain's angular momentum. While the dust grain thus spirals slowly into the star, its orbital speed increases continuously.
+The Poynting–Robertson force is equal to:
+
+  
+    
+      
+        
+          F
+          
+            
+              P
+              R
+            
+          
+        
+        =
+        
+          
+            v
+            
+              c
+              
+                2
+              
+            
+          
+        
+        W
+        =
+        
+          
+            
+              
+                r
+                
+                  2
+                
+              
+              
+                L
+                
+                  
+                    s
+                  
+                
+              
+            
+            
+              4
+              
+                c
+                
+                  2
+                
+              
+            
+          
+        
+        
+          
+            
+              
+                G
+                
+                  M
+                  
+                    
+                      s
+                    
+                  
+                
+              
+              
+                R
+                
+                  5
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle F_{\rm {PR}}={\frac {v}{c^{2}}}W={\frac {r^{2}L_{\rm {s}}}{4c^{2}}}{\sqrt {\frac {GM_{\rm {s}}}{R^{5}}}}}
+  where v is the grain's velocity, c is the speed of light, W is the power of the incoming radiation, r the grain's radius, G is the universal gravitational constant, Ms the Sun's mass, Ls is the solar luminosity and R the grain's orbital radius.
+
+Relation to other forces
+The Poynting–Robertson effect is more pronounced for smaller objects.  Gravitational force varies with mass, which is 
+  
+    
+      
+        ∝
+        
+          r
+          
+            3
+          
+        
+      
+    
+    {\displaystyle \propto r^{3}}
+   (where 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   is the radius of the dust), while the power it receives and radiates varies with surface area (
+  
+    
+      
+        ∝
+        
+          r
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \propto r^{2}}
+  ).  So for large objects the effect is negligible.
+The effect is also stronger closer to the Sun.  Gravity varies as 
+  
+    
+      
+        
+          
+            1
+            
+              R
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {1}{R^{2}}}}
+   (where R is the radius of the orbit) whereas the Poynting–Robertson force varies as 
+  
+    
+      
+        
+          
+            1
+            
+              R
+              
+                2.5
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {1}{R^{2.5}}}}
+  , so the effect also gets relatively stronger as the object approaches the Sun.  This tends to reduce the eccentricity of the object's orbit in addition to dragging it in.
+In addition, as the size of the particle increases, the surface temperature is no longer approximately constant, and the radiation pressure is no longer isotropic in the particle's reference frame.  If the particle rotates slowly, the radiation pressure may contribute to the change in angular momentum, either positively or negatively.
+Radiation pressure affects the effective force of gravity on the particle: it is felt more strongly by smaller particles, and blows very small particles away from the Sun.  It is characterized by the dimensionless dust parameter 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+  , the ratio of the force due to radiation pressure to the force of gravity on the particle:
+
+  
+    
+      
+        β
+        =
+        
+          
+            
+              F
+              
+                
+                  r
+                
+              
+            
+            
+              F
+              
+                
+                  g
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              3
+              L
+              
+                Q
+                
+                  
+                    P
+                    R
+                  
+                
+              
+            
+            
+              16
+              π
+              G
+              M
+              c
+              ρ
+              s
+            
+          
+        
+      
+    
+    {\displaystyle \beta ={F_{\rm {r}} \over F_{\rm {g}}}={3LQ_{\rm {PR}} \over {16\pi GMc\rho s}}}
+  where 
+  
+    
+      
+        
+          Q
+          
+            
+              P
+              R
+            
+          
+        
+      
+    
+    {\displaystyle Q_{\rm {PR}}}
+   is the Mie scattering coefficient, and 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   is the density and 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   is the size (the radius) of the dust grain.
+
+Impact of the effect on dust orbits
+Particles with 
+  
+    
+      
+        β
+        ≥
+        0.5
+      
+    
+    {\displaystyle \beta \geq 0.5}
+   have radiation pressure at least half as strong as gravity, and will pass out of the Solar System on hyperbolic orbits if their initial velocities were Keplerian. 
+For rocky dust particles, this corresponds to a diameter of less than 1 μm.Particles with 
+  
+    
+      
+        0.1
+        <
+        β
+        <
+        0.5
+      
+    
+    {\displaystyle 0.1<\beta <0.5}
+   may spiral inwards or outwards depending on their size and initial velocity vector; they tend to stay in eccentric orbits.
+Particles with 
+  
+    
+      
+        β
+        ≈
+        0.1
+      
+    
+    {\displaystyle \beta \approx 0.1}
+   take around 10,000 years to spiral into the Sun from a circular orbit at 1 AU.  In this regime, inspiraling time and particle diameter are both roughly 
+  
+    
+      
+        ∝
+        
+          
+            1
+            β
+          
+        
+      
+    
+    {\displaystyle \propto {1 \over \beta }}
+  .Note that, if the initial grain velocity was not Keplerian, then circular or any confined orbit is possible for 
+  
+    
+      
+        β
+        <
+        1
+      
+    
+    {\displaystyle \beta <1}
+  .
+It has been theorized that the slowing down of the rotation of Sun's outer layer may be caused by a similar effect.
+
+See also
+Differential Doppler effect
+Radiation pressure
+Yarkovsky effect
+Speed of gravity
+
+References
+Additional sources
+Poynting, J. H. (1904). "Radiation in the Solar System: its Effect on Temperature and its Pressure on Small Bodies". Philosophical Transactions of the Royal Society of London A. Royal Society of London. 202 (346–358): 525–552. Bibcode:1904RSPTA.202..525P. doi:10.1098/rsta.1904.0012.Poynting, J. H. (November 1903). "Radiation in the solar system: its Effect on Temperature and its Pressure on Small Bodies". Monthly Notices of the Royal Astronomical Society. Royal Astronomical Society. 64 (Appendix): 1a–5a. Bibcode:1903MNRAS..64A...1P. doi:10.1093/mnras/64.1.1a. (Abstract of Philosophical Transactions paper)Robertson, H. P. (April 1937). "Dynamical effects of radiation in the solar system". Monthly Notices of the Royal Astronomical Society. Royal Astronomical Society. 97 (6): 423–438. Bibcode:1937MNRAS..97..423R. doi:10.1093/mnras/97.6.423.

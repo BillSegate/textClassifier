@@ -1,0 +1,43 @@
+Shpack Landfill is a hazardous waste site in Norton, Massachusetts. After assessment by the United States Environmental Protection Agency (EPA) it was added to the National Priorities List in October 1986 for long-term remedial action. The site cleanup is directed by the federal Superfund program. The Superfund site covers 9.4 acres, mostly within Norton, with 3.4 acres in the adjoining city of Attleboro. The Norton site was operated as a landfill dump accepting domestic and industrial wastes, including low-level radioactive waste, between 1946 and 1965. The source of most of the radioactive waste, consisting of uranium and radium, was Metals and Controls Inc. which made enriched uranium fuel
+elements for the U.S. Navy under contract with the U.S. Atomic Energy Commission. Metals and Controls merged with Texas Instruments in 1959. The Shpack landfill operation was shut down by a court order in 1965.
+
+Geology
+The site's geology broadly comprises glacial deposits 4.5–7.6 m (15–25 ft) deep overlying bedrock, with some areas overlain with peat to a depth of 1.5–9.2 m (4.9–30.2 ft). The bedrock was formed during the Triassic-Jurassic period and consists mainly of sandstone, greywacke, shale and conglomerate. Groundwater in the area is produced from both the bedrock and shallow aquifers. The water table is at or near the surface for most of the year, and the area is generally low and swampy.
+
+Geography
+The Superfund site consists of 9.4 acres and straddles the border between Norton and Attleboro. Approximately 6.0 acres in Norton were owned by the Shpack family who operated it as a landfill. This land was purchased by the town's Norton Conservation Commission in 1981 in order to facilitate remediation. The adjoining 3.4 acres are located in Attleboro and are part of a separate landfill operation owned by Attleboro Landfill Inc (ALI). The site is mostly level and was formerly a flat wetlands area. The site is bounded in the north by Peckham Street/Union Road, by Chartley Swamp in the south and east, and by the ALI landfill in the west.
+
+History
+The Shpack landfill was situated on land owned by Isadore and Lea Shpack. Isadore Shpack, a Russian Jewish immigrant and retired New York City municipal employee, began allowing dumping on the property in an effort to fill in its swamp. He then planned to raise an orchard and cultivate vegetables on the reclaimed land. Shpack allowed completely unregulated dumping and is reported locally to have accepted any type of waste which was refused by the neighbouring municipal landfill.The ALI landfill was originally Attleboro's municipal dump from the 1940s until 1975. In 1975 it was purchased by Attleboro Landfill Inc. which continued to use it as a landfill until 1995.
+
+Discovery of contamination
+In 1978 John Sullivan, a 20-year-old local resident who was also a student at the Florida Institute of Technology, became curious about why snails in the area were losing their shells. He visited the Shpack site with a Geiger counter which detected a high level of radiation emissions. Initially "ridiculed" about his claim of discovering radioactivity at the dump, Sullivan contacted the Nuclear Regulatory Commission (NRC) which then carried out its own investigation and confirmed the presence of radioactivity. The site was found to contain radium-226, radium-228, uranium-235, uranium-236 and uranium-238. The presence of Uranium-236 was indicative of reprocessed reactor fuel being dumped at the site, and testing of Uranium-235 samples demonstrated enrichment as high as 76%. A second survey was conducted in 1980 by Oak Ridge National Laboratory as a result of which the site was designated for remedial action under the U.S. Department of Energy's Formerly Utilized Sites Remedial Action Program (FUSRAP). FUSRAP is used to remediate or control sites "where radioactive contamination remains from the early years of the nation's atomic energy program."Further surveys of the site uncovered extensive contamination with chemical wastes which had been dumped "in both bulk and containerized forms." The metal drums which originally contained the wastes had been emptied, burned and left on the surface of the site. Contaminants included volatile organic compounds (VOCs), heavy metals (e.g. nickel, cadmium, copper, lead and mercury), dioxins, polychlorinated biphenyls (PCBs) and polycyclic aromatic hydrocarbons (PAHs).
+
+Cleanup action
+In 1980 the Department Of Energy conducted an emergency cleanup of the site and removed approximately 900 lb of radioactive waste. In 1986 the site was listed as a Superfund site by the EPA. Further studies of the site were carried out during 1992-1993 although no remediation action took place. During 2000-2002 the U.S. Army Corps of Engineers - which had taken over the FUSRAP program in 1998 - performed "fieldwork" to prepare for a radiological survey and in 2004 the EPA put forward a cleanup plan. The project, estimated to cost $43 million, proposed the removal and disposal of 35,000 yd³ (26,759 m3) of radioactive soil by the Army Corps of Engineers, with a second phase during which the EPA would remove the chemical wastes. Work was expected to begin in early 2005 and be completed by 2006.Remediation eventually commenced in August 2005 but ceased in July 2006 due to lack of funds. During this time, the Army Corps of Engineers removed 2,700 yd (2,500 m)3) of contaminated soil.
+
+Potentially Responsible Parties
+On August 15, 2006, the EPA issued special notice letters to fourteen Potentially Responsible Parties (PRP). A PRP is "any individual or company potentially responsible for, or contributing to a spill or other contamination at a Superfund site." In 2009, the following parties signed a consent decree to undertake remediation at the site:
+City of Attleboro
+Avnet
+Bank of America (as trustee of the Lloyd G. Balfour Foundation)
+BASF Catalysts (formerly known as Engelhard)
+Chevron Environmental Management (for itself and on behalf of Kewanee Industries)
+ConocoPhillips
+Handy & Harman
+International Paper
+KIK Custom Products (formerly known as CCL Custom Manufacturing Inc.)
+Town of Norton
+Swank Inc.
+Teknor Apex (formerly known as Thompson Chemical Co.)
+Texas Instruments
+Waste Management of Massachusetts Inc.Under the terms of the decree the PRPs would be responsible for funding the remainder of the cleanup at an estimated cost of $29 million. The Town of Norton would not be held financially liable for cleanup costs, but would instead provide access to the site.Texas Instruments (TI) subsequently filed a complaint alleging that liability for the disposal of radioactive materials relating to its work for the Atomic Energy Commission was subject to indemnity by the Department of Energy. The U.S. Department of Justice then commenced a lawsuit against TI on behalf of the Corps of Engineers, which TI settled in November 2012. TI agreed to pay $15 million towards remediation of the site, without acknowledging liability. The payment went to the Corps of Engineers.
+
+See also
+Agriculture Street Landfill
+Landfills in the United States
+Love Canal
+
+References
+External media
+Shpack Landfill Update (September 13, 2012) – Locally produced video from Norton Community Television studios.

@@ -1,0 +1,42 @@
+International Atomic Energy Agency (IAEA) Safeguards are a system of inspection and verification of the peaceful uses of nuclear materials as part of the Nuclear Non-Proliferation Treaty (NPT) [1], supervised by the International Atomic Energy Agency.
+
+Department of Safeguards
+Safeguards activities are undertaken and by the Department of Safeguards, a separate department within the International Atomic Energy Agency. The Department is headed by Deputy Director General and Head of the Department of Safeguards Massimo Aparo. The mission statement of the Department of Safeguards is: "The primary role of the {Safeguard} Department is to administer and implement IAEA safeguards. It also contributes to nuclear arms control and disarmament, by responding to requests for verification and technical assistance associated with related agreements and arrangements." The Department is organized into operations divisions, which include the inspectors that conduct safeguards inspections in the IAEA's member states to confirm that they are living up to their NPT commitments, and support divisions, that provide the tools and services for the safeguards inspectors to complete their mission.  Safeguards inspections compare a state's nuclear program, as declared to the IAEA, to observed nuclear activities in the country. The Divisions of Operations are organized as follows:
+• Operations A: conducting safeguards inspections in East Asia and Australasia
+• Operations B: conducting safeguards inspections in the Middle East (Southwest Asia), South Asia, Africa and the Americas; this geographic region also includes non-EU European states
+• Operations C: conducting safeguards inspection in the European Union states, Russia and Central Asia
+• Operations for verification in Iran (as stated in the 2015 Joint Comprehensive Plan of Action, known commonly as the Iranian Nuclear Deal)
+
+History
+The history of the IAEA safeguards begins at the foreground of the nuclear regime to which debate over the disposal of leftover fissile material was the primary concern. Dwight Eisenhower's Atoms for Peace speech in 1953 was the first step towards establishing regulation of nuclear activity to ensure only peaceful purposes were driving scientific development. It proposed that states with leftover fissile material contribute to an international fuel bank. The IAEA was proposed in 1954 with the mission to control the distribution and disposal of used nuclear material. Negotiations of safeguards were controversial due to the idea that they would inhibit the promotion of nuclear energy. However, safeguards help solidify the line between using nuclear energy for peaceful purposes and creating weapons-grade material that could serve militant purposes. Though safeguards are only one part of the nuclear non-proliferation regime, they underpin inspection and verification, and provide assurance that proliferation is not occurring in states declared to be nuclear weaponized, as well as non-nuclear weapons states.
+
+Treaties and agreements
+Legal framework
+International Atomic Energy Agency (IAEA) Safeguards are a system of inspection and verification of the peaceful uses of nuclear materials as part of the Nuclear Non-Proliferation Treaty (NPT), supervised by the International Atomic Energy Agency.
+Information Circular 66 (INFCIRC 66) is an agreement between the IAEA and member states that provides for the conduct of limited safeguards within the member state.  The member states identifies facilities that are made available for inspection.The Treaty on the Nonproliferation of Nuclear Weapons (NPT) opened for signature in 1968 and entered into force in 1970.  The NPT defines nuclear weapons states as the United States of America, the United Kingdom of Great Britain and Northern Ireland, the People's Republic of China, the Russian Federation, and France. The treaty requires signatories to become members of the IAEA.  Nuclear weapons states are responsible for working toward disarmament and non-nuclear weapons states must submit to IAEA safeguards. The treaty requires that non-nuclear weapons states conclude comprehensive safeguards agreements under INFCIRC 153. The NPT is the centerpiece of global efforts to prevent the further spread of nuclear weapons.
+
+Safeguards in practice
+Job of a Safeguards Inspector
+Safeguards inspectors are first appointed by the IAEA's Director General, then approved by the Board of Governors, designated by the State, and granted privileges and immunities by the member states in which they designated to perform inspections. Inspectors are responsible for conducting in-field verification activities at nuclear facilities or locations outside facilities. The general objective of an inspection is to verify that the nuclear material declared and safeguarded at the facility is used only for peaceful nuclear activities and that it is accounted for. Verification activities are performed in different types of inspector access: design information verification (DIV), ad hoc inspections, routine inspections, and complementary access (CA) [2].
+
+DIV entails confirmation of design features of a facility and verification of the design features to be accurate and still valid. This activity is performed under a comprehensive safeguards agreement [3], by which all signatories adhere to the provision and regulation of safeguards.
+The second inspector access provided for by comprehensive safeguards agreements is the inspection, including ad hoc and routine inspections, the objectives of which typically are to verify that nuclear material is not diverted and facilities are not misused to make undeclared nuclear material, including through physical inventory verification (PIV) and interim inventory verification (IIV).
+Complementary access is performed only if an Additional Protocol [4] to the safeguards agreement is in place. The objectives of CA may be to confirm the absence of undeclared nuclear activities/material, answer questions, resolve inconsistencies, or to confirm decommissioned status.
+
+Implementation
+Safeguards are implemented on an annual cycle and include four fundamental processes:
+collection and evaluation of all safeguards-relevant information,
+development of a State-specific safeguards approach,
+planning, conduct, and evaluation of safeguards activities, and
+drawing of safeguards conclusions.The IAEA prepares a Safeguards Implementation Report (SIR) for each country and draws safeguards conclusions based on the information collected during inspections and through remote monitoring and information collection. Safeguards conclusions provide the international community assurance that States are complying with their agreements by following the safeguards obligations.  In some cases, the conclusion is that safeguards were not conclusive. Safeguards conclusions are documented in the annual Safeguards Implementation Report which is presented to the Board of Governors at its June meeting.
+
+Assistance for states
+The IAEA offers several useful services to member states including aide for officiating required documentation and assistance with safeguards measures.
+
+Timeline
+References
+External links
+"IAEA Safeguards". IAEA Department of Safeguards. International Atomic Energy Agency. 8 June 2016.
+"IAEA Safeguards Factsheet" (PDF). IAEA Publications. International Atomic Energy Agency.
+"IAEA Safeguards Glossary" (PDF). IAEA Scientific and Technical Publications. International Atomic Energy Agency.
+"The Safeguards System of the International Atomic Energy Agency" (PDF). IAEA Department of Safeguards. International Atomic Energy Agency.

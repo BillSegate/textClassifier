@@ -1,0 +1,46 @@
+Dry cask storage is a method of storing high-level radioactive waste, such as spent nuclear fuel that has already been cooled in the spent fuel pool for at least one year and often as much as ten years. Casks are typically steel cylinders that are either welded or bolted closed. The fuel rods inside are surrounded by inert gas. Ideally, the steel cylinder provides leak-tight containment of the spent fuel. Each cylinder is surrounded by additional steel, concrete, or other material to provide radiation shielding to workers and members of the public.
+There are various dry storage cask system designs. With some designs, the steel cylinders containing the fuel are placed vertically in a concrete vault; other designs orient the cylinders horizontally. The concrete vaults provide the radiation shielding. Other cask designs orient the steel cylinder vertically on a concrete pad at a dry cask storage site and use both metal and concrete outer cylinders for radiation shielding. As of 2021 there is no long term permanent storage facility anywhere in the world; dry cask storage is designed as an interim safer solution than spent fuel pool storage.
+ Some of the cask designs can be used for both storage and transportation. Three companies – Holtec International, NAC International and Areva-Transnuclear NUHOMS – are marketing Independent Spent Fuel Storage Installations (ISFSI) based upon an unshielded multi-purpose canister which is transported and stored in on-site vertical or horizontal shielded storage modules constructed of steel and concrete.
+
+Usage
+During the 2000s, dry cask storage was used in the United States, Canada, Germany, Switzerland, Spain, Belgium, the United Kingdom, Japan, Armenia, Argentina, Bulgaria, Czech Republic, Hungary, South Korea, Romania, Slovakia, Ukraine and Lithuania.A similar system is also being implemented in Russia. However, it is based on 'storage compartments' in a single structure, rather than individual casks.
+In 2017 France's Areva launched the NUHOMS Matrix advanced used nuclear fuel storage overpack, a high-density system for storing multiple spent fuel rods in canisters.
+
+United States
+In the late 1970s and early 1980s, the need for alternative storage in the United States began to grow when pools at many nuclear reactors began to fill up with stored spent fuel. As there was not a national nuclear storage facility in operation at the time, utilities began looking at options for storing spent fuel. Dry cask storage was determined to be a practical option for storage of spent fuel and preferable to leaving large concentrations of spent fuel in cooling tanks.
+The first dry storage installation in the US was licensed by the Nuclear Regulatory Commission (NRC) in 1986 at the Surry Nuclear Power Plant in Virginia. Spent fuel is currently stored in dry cask systems at a growing number of power plant sites, and at an interim facility located at the Idaho National Laboratory near Idaho Falls, Idaho. The Nuclear Regulatory Commission estimates that many of the nuclear power plants in the United States will be out of room in their spent fuel pools by 2015, most likely requiring the use of temporary storage of some kind. Yucca Mountain was expected to open in 2017. However, on March 5, 2009, Energy Secretary Steven Chu reiterated in a Senate hearing that the Yucca Mountain site was no longer considered an option for storing reactor waste.The 2008 NRC guideline calls for fuels to have spent at least five years in a storage pool before being moved to dry casks. The industry norm is about 10 years. The NRC describes the dry casks used in the US as "designed to resist floods, tornadoes, projectiles, temperature extremes, and other unusual scenarios."As of the end of 2009, 13,856 metric tons of commercial spent fuel – or about 22 percent – were stored in dry casks.In the 1990s, the NRC had to “take repeated actions to address defective welds on dry casks that led to cracks and quality assurance problems; helium had leaked into some casks, increasing temperatures and causing accelerated fuel corrosion”.With the zeroing of the budget for Yucca Mountain nuclear waste repository in Nevada, more nuclear waste is being loaded into sealed metal casks filled with inert gas. Many of these casks will be stored in coastal or lakeside regions where a salt air environment exists, and the Massachusetts Institute of Technology is studying how such dry casks perform in salt environments. Some hope that the casks can be used for 100 years, but cracking related to corrosion could occur in 30 years or less.According to the NRC's website in 2023, spent fuel placed in dry cask storage from the Diablo Canyon power plant in Califorinia shows no sign of corrosion after more than a decade of storage and appears to be capable of lasting for 1800 years before succumbing to corrosion. 
+Company videos, covering the processes and remote handling, from the initial fuel loading to the removal and eventual dry-cask storage, are viewable on various video hosting domains.
+
+Canada
+In Canada, above-ground dry storage has been used. Ontario Power Generation is in the process of constructing a Dry Storage Cask storage facility on its Darlington site, which will be similar in many respects to existing facilities at Pickering Nuclear Generating Station and Bruce Nuclear Generating Station. NB Power's Point Lepreau Nuclear Generating Station and Hydro-Québec's Gentilly Nuclear Generating Station also both operate dry storage facilities.
+
+Germany
+A centralized storage facility using dry casks is located at Ahaus. As of 2011, it housed 311 casks: 305 from the Thorium High Temperature Reactor, 3 from the Neckarwestheim Nuclear Power Plant, and 3 from the Gundremmingen Nuclear Power Plant. The transport from Gundremmingen to the Ahaus site met with considerable public protest and the power plant operators and the government later agreed to locate such casks at the powerplants.CASTOR (cask for storage and transport of radioactive material) is a trademarked brand of dry casks used to store spent nuclear fuel (a type of nuclear waste). CASTORs are manufactured by Gesellschaft für Nuklear-Service (GNS), a German provider of nuclear services.
+CONSTOR is a cask used for transport and long-term storage of spent fuel and high-level waste also manufactured by GNS. Its inner and outer layers are steel, enclosing a layer of concrete.
+A 9-meter drop test of the V/TC model was conducted in 2004; the results conformed to expectations.
+
+Bulgaria
+In 2008, officials at the Kozloduy Nuclear Power Plant announced their intention to use 34 CONSTOR casks at the Kozloduy NPP site before the end of 2010.
+
+Lithuania
+Spent fuel from the now-closed Ignalina Nuclear Power Plant was placed in CASTOR and CONSTOR storage casks during the 2000s.
+
+Russia
+The Russian dry storage facility for spent nuclear fuel, the HOT-2 at Mining Chemical Combine in Zheleznogorsk, Krasnoyarsk Krai in Siberia, is not a 'cask' facility per se, as it is designed to accommodate the spent nuclear fuel (both VVER and RBMK) in a series of compartments. The structure of the facility is made up of monolithic reinforced concrete walls and top and bottom slabs, with the actual storage compartments formed by reinforced concrete partitions. The fuel is to be cooled by natural convection of air. The design capacity of the facility is 37,785 tonnes of uranium. It is now under construction and commissioning.
+
+Ukraine
+In Ukraine, a dry storage facility has been accepting spent fuel from the six-unit Zaporizhzhia Nuclear Power Plant (VVER-1000 reactors) since 2001, making it the longest-serving such facility in the former Soviet Union. The system was designed by the now-defunct Duke Engineering of the United States, with the storage casks being manufactured locally.Another project is underway with Holtec International (again of the USA) to build a dry spent fuel storage facility at the 1986-accident-infamous Chernobyl Nuclear Power Plant (RBMK-1000 reactors). The project was initially started with Framatome (currently AREVA) of France, later suspended and terminated due to technical difficulties. Holtec was originally brought on board as a subcontractor to dehydrate the spent fuel, eventually taking over the entire project.
+
+See also
+Deep geological repository
+Ducrete
+Lists of nuclear disasters and radioactive incidents
+Nuclear decommissioning
+Nuclear flask
+Private Fuel Storage, proposed storage in Utah
+
+References
+External links
+NRC: Dry Cask Storage
+United States Nuclear Waste Technical Review Board, Evaluation of the Technical Basis for Extended Dry Storage and Transportation of Used Nuclear Fuel  2010
+Locations of Independent Spent Fuel Storage Installations

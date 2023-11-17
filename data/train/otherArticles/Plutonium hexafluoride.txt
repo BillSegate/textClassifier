@@ -1,0 +1,38 @@
+Plutonium hexafluoride is the highest fluoride of plutonium, and is of interest for laser enrichment of plutonium, in particular for the production of pure plutonium-239 from irradiated uranium.  This pure plutonium is needed to avoid premature ignition of low-mass nuclear weapon designs by neutrons produced by spontaneous fission of plutonium-240.
+
+Preparation
+Plutonium hexafluoride is prepared by fluorination of plutonium tetrafluoride (PuF4) by powerful fluorinating agents such as elemental fluorine.
+PuF4 + F2 → PuF6This reaction is endothermic. The product forms relatively quickly at temperatures of 750 °C, and high yields may be obtained by quickly condensing the product and removing it from equilibrium.It can also be obtained by fluorination of plutonium(III) fluoride, plutonium(IV) oxide, or plutonium(IV) oxalate at approximately 700 °C:
+2 PuF3 + 3 F2 → 2 PuF6
+PuO2 + 3 F2 → PuF6 + O2
+Pu(C2O4)2 + 3 F2 → PuF6 + 4 CO2Alternatively, plutonium(IV) fluoride oxidizes in an 800-°C oxygen atmosphere to plutonium hexafluoride and plutonium(IV) oxide:
+3 PuF4 + O2 → 2 PuF6 + PuO2In 1984, the synthesis of plutonium hexafluoride at near–room-temperatures was achieved through the use of dioxygen difluoride. Hydrogen fluoride is not sufficient: 42  even though it is a powerful fluorinating agent. Room temperature syntheses are also possible by using krypton difluoride or irradiation with UV light.
+
+Properties
+Physical properties
+Plutonium hexafluoride is a red-brown volatile solid, crystallizing in the orthorhombic crystal system with space group Pnma and lattice parameters a = 995 pm, b = 902 pm, and c = 526 pm.  It sublimes around 60 °C with heat 12.1 kcal/mol to a gas of octahedral molecules with plutonium-fluorine bond lengths of 197.1 pm.  At high pressure, the gas condenses, with a triple point at 51.58 °C and 710 hPa (530 Torr); the heat of vaporization is 7.4 kcal/mol.  At temperatures below -180 °C, plutonium hexafluoride is colorless.Plutonium hexafluoride is paramagnetic, with molar magnetic susceptibility 0.173 mm3/mol.
+
+Spectroscopic properties
+Plutonium hexafluoride admits six different oscillation modes: stretching modes v1, v2, and v3 and rotational modes v4, v5, and v6.  The PuF6 Raman spectrum cannot be observed, because irradiation at 564.1 nm induces photochemical decomposition.  Irradation at 532 nm induces fluorescence at 1900 nm and 4800 nm; irradiation at 1064 nm induces fluorescence about 2300 nm.
+
+Chemical properties
+Plutonium hexafluoride is relatively hard to handle, being very corrosive, poisonous, and prone to auto-radiolysis.
+
+Reactions with other compounds
+PuF6 is stable in dry air, but reacts vigorously with water, including atmospheric moisture, to form plutonium(VI) oxyfluoride and hydrofluoric acid.
+PuF6 + 2 H2O → PuO2F2 + 4 HFIt can be stored for a long time in a quartz or pyrex ampoule, provided there are no traces of moisture, the glass has been thoroughly outgassed, and any traces of hydrogen fluoride have been removed from the compound.An important reaction involving PuF6 is the reduction to plutonium dioxide. Carbon monoxide generated from an oxygen-methane flame can perform the reduction.
+
+Decomposition reactions
+Plutonium hexafluoride typically decomposes to plutonium tetrafluoride and fluorine gas.  Thermal decomposition does not occur at room temperature, but proceeds very quickly at 280 °C.  In the absence of any external cause for decomposition, the alpha-particle current from plutonium decay will generate auto-radiolysis, at a rate of 1.5%/day (half-time 1.5 months) in solid phase.  Storage in gas phase at pressures 50–100 torr (70–130 mbar) appears to minimize auto-radiolysis, and long-term recombination with freed fluorine does occur.Likewise, the compound is photosensitive, decomposing (possibly to plutonium pentafluoride and fluorine) under laser irradiation at a wavelength of less than 520 nm.Exposure to laser radiation at 564.1 nm or gamma rays will also induce rapid dissolution.
+
+Uses
+Plutonium hexafluoride plays a role in the enrichment of plutonium, in particular for the isolation of the fissile isotope 239Pu from irradiated uranium. For use in nuclear weaponry, the 241Pu present must be removed for two reasons:
+
+It generates enough neutrons by spontaneous fission to cause an uncontrollable reaction.
+It undergoes beta decay to form 241Am, leading to the accumulation of americium over long periods of storage which must be removed.The separation between plutonium and the americium contained proceeds through reaction with dioxygen difluoride. Aged PuF4 is fluorinated at room temperature to gaseous PuF6, which is separated and reduced back to PuF4, whereas any AmF4 present does not undergo the same conversion. The product thus contains very little amounts of americium, which becomes concentrated in the unreacted solid.Separation of the hexafluorides of uranium and plutonium is also important in the reprocessing of nuclear waste. From a molten salt mixture containing both elements, uranium can largely be removed by fluorination to UF6, which is stable at higher temperatures, with only small amounts of plutonium escaping as PuF6.
+
+History
+Shortly after plutonium's discovery and isolation in 1940, chemists began to postulate the existence of plutonium hexafluoride.  Early experiments, which sought to mimic methods for the construction of uranium hexafluoride, had conflicting results; and definitive proof only appeared in 1942.  The Second World War then interrupted the publication of further research.Initial experiments, undertaken with extremely small quantities of plutonium, showed that a volatile plutonium compound would developed in a stream of fluorine gas only at temperatures exceeding 700 °C.   Subsequent experiments showed that plutonium on a copper plate volatilized in a 500-°C fluorine stream, and that the reaction rate decreased with atomic number in the series uranium > neptunium > plutonium.  Brown and Hill, using milligram-scale samples of plutonium, completed in 1942 a distillation experiment with uranium hexafluoride, suggesting that higher fluorides of plutonium ought be unstable, and decompose to plutonium tetrafluoride at room temperature.  Nevertheless, the vapor pressure of the compound appeared to correspond to that of uranium hexafluoride.  Davidson, Katz, and Orlemann showed in 1943 that plutonium in a nickel vessel volatilized under a fluorine atmosphere, and that the reaction product precipitated on a platinum surface.Fisher, Vaslow, and Tevebaugh conjectured that the higher fluorides exhibited a positive enthalpy of formation, that their formation would be endothermic, and consequently only stabilized at high temperatures.In 1944, Alan E. Florin prepared a volatile compound of plutonium believed to be the elusive plutonium hexafluoride, but the product decomposed prior to identification.  The fluid substance would collect onto cooled glass and liquify, but then the fluoride atoms would react with the glass.By comparison between uranium and plutonium compounds, Brewer, Bromley, Gilles, and Lofgren computed the thermodynamic characteristics of plutonium hexafluoride.In 1950, Florin's efforts finally yielded the synthesis, and improved thermodynamic data and a new apparatus for its production soon followed.  Around the same time, British workers also developed a method for the production of PuF6.
+
+
+== References ==

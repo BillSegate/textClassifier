@@ -1,0 +1,27 @@
+Lead shielding refers to the use of lead as a form of radiation protection to  shield people or objects from radiation so as to reduce the effective dose. Lead can effectively attenuate certain kinds of radiation because of its high density and high atomic number; principally, it is effective at stopping gamma rays and x-rays.
+
+Operation
+Lead's high density is caused by the combination of its high atomic number and the relatively short bond lengths and atomic radius. The high atomic number means that more electrons are needed to maintain a neutral charge and the short bond length and a small atomic radius means that many atoms can be packed into a particular lead structure.  
+Because of lead's density and large number of electrons, it is well suited to scattering x-rays and gamma-rays. These rays form photons, a type of boson, which impart energy onto electrons when they come into contact. Without a lead shield, the electrons within a person's body would be affected, which could damage their DNA. When the radiation attempts to pass through lead, its electrons absorb and scatter the energy. Eventually though, the lead will degrade from the energy to which it is exposed. However, lead is not effective against all types of radiation.  High energy electrons (including beta radiation) incident on lead may create bremsstrahlung radiation, which is potentially more dangerous to tissue than the original radiation. Furthermore, lead is not a particularly effective absorber of neutron radiation.
+
+Types
+Lead is used for shielding in x-ray machines, nuclear power plants, labs, medical facilities, military equipment, and other places where radiation may be encountered. There is great variety in the types of shielding available both to protect people and to shield equipment and experiments. In gamma-spectroscopy for example, lead castles are constructed to shield the probe from environmental radiation. Personal shielding includes lead aprons (such as the familiar garment used during dental x-rays), thyroid shields, and lead gloves.  There are also a variety of shielding devices available for laboratory equipment, including lead castles, structures composed of lead bricks, and lead pigs, made of solid lead or lead-lined containers for storing and transporting radioactive samples.  In many facilities where radiation is produced, regulations require construction with lead-lined plywood or drywall to protect adjoining rooms from scatter radiation.
+
+Wear
+A lead apron or leaded apron is a type of protective clothing that acts as a radiation shield.  It is  constructed of a thin rubber exterior and an interior of lead in the shape of a hospital apron.  The purpose of the lead apron is to reduce exposure of a hospital patient to x-rays to vital organs that are potentially exposed to ionizing radiation during medical imaging that uses x-rays (radiography, fluoroscopy, computed tomography).
+Protection of the reproductive organs with a lead rubber apron is considered important because DNA changes to sperm or egg cells of the patient may pass on genetic defects to the offspring of the patient, causing serious and unnecessary hardship for child and parents.The thyroid gland is especially vulnerable to x-ray exposure. Care should be taken to place a lead apron over the thyroid gland before taking dental radiographs. Aprons used for dental imaging should include thyroid collars. However, in poorer or loosely regulated countries, possibly due to the cost of such equipment (approx. 40 USD), no such lead protection is given to the patients themselves, though the operators do get out of the x-ray room for their own safety.
+The correct thickness of lead-equivalent (Pbeq) wear will depend on how long and how often the person is working in an exposed environment. The minimum requirement is to wear 0.25 mm Pbeq when not behind lead shielding. In a theatre using fluoroscopy (e.g. orthopaedics, cardiology or interventional radiology) 0.35 or 0.5 mm lead may be appropriate because of the higher KV employed, and on proximity to the primary beam.
+
+See also
+Instruments used in radiology
+Radiation shielding
+Nuclear safety
+ALARA
+Fallout shelter
+Demron
+Stopping power
+
+References
+External links
+
+lead protection from radiation

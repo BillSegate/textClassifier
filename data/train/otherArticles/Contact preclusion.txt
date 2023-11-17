@@ -1,0 +1,15 @@
+Contact preclusion is a fuzing feature found in some nuclear weapons in which backup contact fuzes in a nuclear weapon can be disabled when the weapon is set to air burst fuzing.
+When a nuclear attack is planned, the planner has the option of deciding if either air burst or ground burst fuzing will be used. Air burst has a larger damage radius against soft targets such as personnel or non-hardened buildings than ground bursts due to the Mach stem effect, however in the event the air burst fuze fails to actuate a contact fuze as backup is often included in the weapon. Though the damage radius will be reduced in this event, it is possible the target will still be destroyed.Ground bursts produce significant fallout that has the potential to be hazardous to civilians and friendly personnel. Therefore, in some weapons exists the option for contact preclusion in the weapon's fuzing options. When enabled the weapon's contact fuze will not act as a backup fuze if the air burst fuze fails to actuate, precluding detonation, hence the name contact preclusion.
+
+Weapons with contact preclusion
+B28 nuclear bomb - Only in EX (external), IN (internal) and RE (retarded external) weapons. Preclusion must be set before takeoff.
+B61 nuclear bomb - Selectable in flight.
+MGM-29 Sergeant missile - W52 warhead.
+MGM-31 Pershing missile - W50 warhead
+
+See also
+Air burst
+Ground burst
+
+
+== References ==

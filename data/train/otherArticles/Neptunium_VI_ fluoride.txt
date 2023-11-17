@@ -1,0 +1,39 @@
+Neptunium(VI) fluoride (NpF6) is the highest fluoride of neptunium, it is also one of seventeen known binary hexafluorides. It is an orange volatile crystalline solid. It is relatively hard to handle, being very corrosive, volatile and radioactive. Neptunium hexafluoride is stable in dry air but reacts vigorously with water. 
+At normal pressure, it melts at 54.4 °C and boils at 55.18 °C. It is the only neptunium compound that boils at a low temperature. Due to these properties, it is possible to easily separate neptunium from spent fuel.
+
+Preparation
+Neptunium hexafluoride was first prepared in 1943 by American chemist Alan E. Florin, who heated a sample of neptunium(III) fluoride on a nickel filament in a stream of fluorine and condensed the product in a glass capillary tube. Methods of preparation from both neptunium(III) fluoride and neptunium(IV) fluoride were later patented by Glenn T. Seaborg and Harrison S. Brown.
+
+Standard method
+The usual method of preparation is by fluorination of neptunium(IV) fluoride (NpF4) by elemental fluorine (F2) at 500 °C.
+NpF4 + F2 → NpF6In comparison, uranium hexafluoride (UF6) is formed relatively rapidly from uranium tetrafluoride (UF4) and F2 at 300 °C, while plutonium hexafluoride (PuF6) only begins forming from plutonium tetrafluoride (PuF4) and F2 at 750 °C. This difference allows uranium, neptunium and plutonium to be effectively separated.
+
+Other methods
+Using a different starting material
+Neptunium hexafluoride can also be obtained by fluorination of neptunium(III) fluoride or neptunium(IV) oxide.
+2 NpF3 + 3 F2 → 2 NpF6
+NpO2 + 3 F2 → NpF6 + O2
+
+Using a different fluorine source
+The preparation can also be done with the help of stronger fluorinating reagents like bromine trifluoride (BrF3) or bromine pentafluoride (BrF5). These reactions can be used to separate plutonium, since PuF4 does not undergo a similar reaction.Neptunium dioxide and neptunium tetrafluoride are practically completely converted to volatile neptunium hexafluoride by dioxygen difluoride (O2F2). This works as a gas-solid reaction at moderate temperatures, as well as in anhydrous liquid hydrogen fluoride at −78 °C.
+NpO2 + 3 O2F2 → NpF6 + 4 O2
+NpF4 + O2F2 → NpF6 + O2These reaction temperatures are markedly different from the high temperatures of over 200 °C previously required to synthesize neptunium hexafluoride with elemental fluorine or halogen fluorides. Neptunyl fluoride (NpO2F2) has been detected by Raman spectroscopy as a dominant intermediate in the reaction with NpO2. Direct reaction of NpF4 with liquid O2F2 led instead to vigorous decomposition of the O2F2 with no NpF6 generation.
+
+Properties
+Physical properties
+Neptunium hexafluoride forms orange orthorhombic crystals that melt at 54.4 °C and boil at 55.18 °C under standard pressure. The triple point is 55.10 °C and 1010 hPa (758 Torr).The volatility of NpF6 is similar to those of UF6 and PuF6, all three being actinide hexafluorides. The standard molar entropy is 229.1 ± 0.5 J·K−1·mol−1. Solid NpF6 is paramagnetic, with a magnetic susceptibility of 165·10−6 cm3·mol−1.
+
+Chemical properties
+Neptunium hexafluoride is stable in dry air. However, it reacts vigorously with water, including atmospheric moisture, to form the water-soluble neptunyl fluoride (NpO2F2) and hydrofluoric acid (HF).
+
+NpF6 + 2 H2O → NpO2F2 + 4 HFIt can be stored at room temperature in a quartz or pyrex glass ampoule, provided that there are no traces of moisture or gas inclusions in the glass and any remaining HF has been removed. NpF6 is light-sensitive, decomposing to NpF4 and fluorine.NpF6 forms complexes with alkali metal fluorides: with caesium fluoride (CsF) it forms CsNpF6 at 25 °C, and with sodium fluoride it reacts reversibly to form Na3NpF8. In either case, the neptunium is reduced to Np(V).
+
+NpF6 + CsF → CsNpF6 + 1/2 F2
+NpF6 + 3 NaF → Na3NpF8 + 1/2 F2In the presence of chlorine trifluoride (ClF3) as solvent and at low temperatures, there is some evidence of the formation of an unstable Np(IV) complex.Neptunium hexafluoride reacts with carbon monoxide (CO) and light to form a white powder, presumably containing neptunium pentafluoride (NpF5) and an unidentified substance.: 732
+
+Uses
+The irradiation of nuclear fuel inside nuclear reactors generates both fission products and transuranic elements, including neptunium and plutonium. The separation of these three elements is an essential component of nuclear reprocessing. Neptunium hexafluoride plays a role in the separation of neptunium from both uranium and plutonium.
+In order to separate the uranium (95% of the mass) from spent nuclear fuel, it is first powdered and reacted with elemental fluorine ("direct fluorination"). The resulting volatile fluorides (mainly UF6, small amounts of NpF6) are easily extracted from the non-volatile fluorides of other actinides, like plutonium(IV) fluoride (PuF4), americium(III) fluoride (AmF3), and curium(III) fluoride (CmF3).The mixture of UF6 and NpF6 is then selectively reduced by pelleted cobalt(II) fluoride, which converts the neptunium hexafluoride to the tetrafluoride but does not react with the uranium hexafluoride, using temperatures in the range of 93 to 204 °C. Another method is using magnesium fluoride, on which the neptunium fluoride is sorbed at 60-70% but not the uranium fluoride.
+
+
+== References ==

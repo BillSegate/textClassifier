@@ -1,0 +1,80 @@
+The Rolls-Royce pressurised water reactor (PWR) series has powered the Royal Navy's nuclear submarines since the Valiant class, commissioned in 1966.
+
+Background
+Nuclear reactor designs, operating methods and performance standards are highly classified.The United Kingdom's first nuclear-powered submarine HMS Dreadnought was commissioned in 1963 powered by a Westinghouse S5W reactor, provided to Britain under the 1958 US-UK Mutual Defence Agreement.
+
+PWR1
+The first British naval reactor was the PWR1. It was based on a core and reactor assembly of purely British design. The reactor first went critical in 1965, four years later than planned. Technology transfers under the US-UK Mutual Defence Agreement eventually made Rolls-Royce entirely self-sufficient in reactor design in exchange for a "considerable amount" of information regarding submarine design and quietening techniques being passed on to the United States.The reactor fuel was highly enriched uranium (HEU) enriched to between 93% and 97%. Each nuclear core had a life of about 10 years, so had to be refueled about twice during the lifetime of a submarine.Rolls-Royce Marine Power Operations at Derby was the centre for design and manufacture of the UK's submarine reactors, and remains so today. The Ministry of Defence's Vulcan Nuclear Reactor Testing Establishment (NRTE), at Dounreay, tested each reactor core design prior to its installation in nuclear submarines.
+
+SubmarinesPrototype
+Vulcan Naval Reactor Test Establishment, Dounreay
+Core AValiant-class SSN
+Valiant
+Warspite
+Resolution-class SSBN
+Resolution
+Repulse
+Renown
+Revenge
+Core BChurchill-class SSN
+Churchill
+Conqueror
+Courageous
+Core ZSwiftsure-class SSN
+Swiftsure
+Sovereign
+Superb
+Sceptre
+Spartan
+Splendid
+Trafalgar-class SSN
+Trafalgar
+Turbulent
+Tireless
+Torbay
+Trenchant
+Talent
+Triumph
+
+PWR2
+The PWR2 was developed for the Vanguard-class Trident missile submarines and is a development of the PWR1. The first PWR2 reactor was completed in 1985 with testing beginning in August 1987 at the Vulcan Naval Reactor Test Establishment.
+The reactor fuel is highly enriched uranium (HEU) enriched to between 93% and 97%. The latest PWR2 reactor core design is "Core H", which has a life of about 30 years removing the need for refueling, allowing a submarine to avoid two reactor refits in its service life. HMS Vanguard was fitted with the new core during its refit, followed by her three sister boats. The Astute-class submarines have this full-life core installed. As they were developed for SSBNs, the reactors are considerably larger than those of then-current British fleet submarines. The diameter of then-forthcoming Astute-class hulls was therefore increased to accommodate the PWR2.
+A safety assessment of the PWR2 design by the Defence Nuclear Safety Regulator in November 2009 was released under a Freedom of Information request in March 2011. The regulator identified two major areas where UK practice fell significantly short of comparable good practice: loss-of-coolant accident and control of submarine depth following emergency reactor shutdown. The regulator concluded that PWR2 was "potentially vulnerable to a structural failure of the primary circuit", which was a failure mode with significant safety hazards to crew and the public.In January 2012 radiation was detected in the PWR2 test reactor's coolant water, caused by a microscopic breach in fuel cladding. This discovery led to HMS Vanguard being refueled early and contingency measures being applied to other Vanguard  and Astute-class submarines, at a cost of £270 million. This was not revealed to the public until 2014.In February 2013, the Ministry of Defence (MoD) awarded Rolls-Royce a £800 million ten year "foundation" contract to "deliver and maintain" the reactors of the Astute-class and the Vanguard-class replacement the Successor. In February 2019, the MoD awarded Rolls-Royce a £235 million three year contract for Nuclear Propulsion Lifetime Management for the Trafalgar, Vanguard and Astute classes.
+SubmarinesCore HVanguard-class SSBN
+Vanguard
+Victorious
+Vigilant
+Vengeance
+Astute-class SSN
+Astute
+Ambush
+Artful
+Audacious
+Anson
+Agamemnon (under construction)
+Agincourt (under construction)
+
+PWR3
+Three propulsion options were considered for the replacement of the Vanguard-class, the Successor: PWR2, PWR2b (derivative with improved performance) and PWR3. PWR3 was a new system "based on a US design but using UK reactor technology". The Royal Institution of Naval Architects reported that it was likely that the UK was given access to the  US Navy S9G reactor design used in their Virginia-class submarines. The PWR3 was a simpler and safer design with a longer life and lower maintenance requirements than the PWR2 variants and cost roughly the same as the PWR2b. The PWR3 has 30% fewer parts compared to the PWR2.In March 2011, Defence Secretary Liam Fox said the PWR3 was the preferred option "because those reactors give us a better safety outlook". In May 2011, the Ministry of Defence announced that PWR3 had been selected for the Successor (later named the Dreadnought-class in 2016). The PWR3 cost about £50 million more per boat to purchase and operate compared to PWR2 designs. This is offset by the PWR3's longer life over the 25-year life PWR2 designs. The PWR3 does not require reactor core prototype tests; instead computational modelling is used. Consequently, the Vulcan Nuclear Reactor Testing Establishment operated by Rolls-Royce closed in 2015.In June 2012, the MoD awarded Rolls-Royce a £600 million contract to produce reactors for the Dreadnought-class and also for the final boat of the Astute-class HMS Agincourt. The MoD also awarded Rolls-Royce a further £500 million to refurbish their Rolls-Royce Marine Power Operations reactor core manufacturing plant at Derby to manufacture the PWR3 and to extend the plant's operational life to 2056. In January 2020, the National Audit Office reported that the construction of the plant was five years behind schedule and was now forecast to be in service in 2026.
+SubmarinesDreadnought-class SSBNHMS Dreadnought (under construction)
+HMS Valiant (under construction)
+HMS Warspite (under construction)
+HMS King George VI (on order)
+
+Future
+Rolls Royce is building the reactor for SSN-AUKUS, which may be the PWR3, or a derivative.
+
+See also
+Allied technological cooperation during World War II
+AUKUS
+List of commercial nuclear reactors
+List of United States Naval reactors
+Nuclear marine propulsion
+Soviet naval reactors
+Tizard Mission
+United States naval reactors
+
+References
+Further reading
+External links
+Rolls-Royce Marine Products - Nuclear Plant
