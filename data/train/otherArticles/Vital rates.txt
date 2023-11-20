@@ -1,0 +1,9 @@
+Vital rates refer to how fast vital statistics change in a population (usually measured per 1000 individuals). There are 2 categories within vital rates: crude rates and refined rates.
+Crude rates measure vital statistics in a general population (overall change in births and deaths per 1000).
+Refined rates measure the change in vital statistics in a specific demographic (such as age, sex, race, etc.).
+
+Marriage rates
+The national marriage rates since 1972,in the US have fallen by almost 50% at six people per 1000. According to Iran Index and National Organization for Civil Registration of Iran Iranian divorce rate is in the red at its record highest level since 1979, divorce quotas were introduced to curb enthuitasim.
+
+
+== References ==

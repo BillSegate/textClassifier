@@ -1,0 +1,10 @@
+The stresses, one of the physical hallmarks of cancer, is exerted by the solid components of a tissue and accumulated within solid structural components (i.e., cells, collagen, and hyaluronan) during growth and progression.
+Solid stress in tumors is a residual stress that is elevated because of abnormal tumor growth and resistance to growth from the surrounding normal tissues or from within the tumors. Solid stress, independent of the interstitial fluid pressure, induces hypoxia and impedes drug delivery by compressing blood vessels in tumors. Solid stress is heterogeneous in tumors with tensile stresses distributed more at the periphery of the tumor, and compressive stresses more at the tumor core.
+
+References
+
+Jain R.K., "An indirect way to tame cancer", Sci Am 310(2): 46–53, 2014
+Jain R.K., J. D. Martin and T. Stylianopoulos, "The role of mechanical forces in tumor progression and therapy", Annual Review of Biomedical Engineering, 16:321-46, 2014.
+Jain R.K., "Normalizing tumor microenvironment to treat cancer: bench to bedside to biomarkers", J Clin Oncol, 31(17):2205-18, 2013.
+Stylianopoulos T., J.D. Martin, M. Snuderl, F. Mpekris, S. Jain and R.K. Jain, "Coevolution of solid stress and interstitial fluid pressure in tumor during progression: Implications for vascular collapse", Cancer Research, 73(13): 3833–3841, 2013.
+Helmlinger G., P.A. Netti, H. C. Lichtenbeld, R. J. Melder, R. K. Jain, "Solid stress inhibits the growth of multicellular tumor spheroids", Nat Biotechnol 15:778-783, 1997.

@@ -1,0 +1,105 @@
+Secondary metabolites, also called specialised metabolites, toxins, secondary products, or natural products, are organic compounds produced by any lifeform, e.g. bacteria, fungi, animals, or plants, which are not directly involved in the normal growth, development, or reproduction of the organism. Instead, they generally mediate ecological interactions, which may produce a selective advantage for the organism by increasing its survivability or fecundity. Specific secondary metabolites are often restricted to a narrow set of species within a phylogenetic group. Secondary metabolites often play an important role in plant defense against herbivory and other interspecies defenses. Humans use secondary metabolites as medicines, flavourings, pigments, and recreational drugs.The term secondary metabolite was first coined by Albrecht Kossel, the 1910 Nobel Prize laureate for medicine and physiology. 30 years later a Polish botanist Friedrich Czapek described secondary metabolites as end products of nitrogen metabolism.Secondary metabolites commonly mediate antagonistic interactions, such as competition and predation, as well as mutualistic ones such as pollination and resource mutualisms. Usually, secondary metabolites are confined to a specific lineage or even species, though there is considerable evidence that horizontal transfer across species or genera of entire pathways plays an important role in bacterial (and, likely, fungal) evolution. Research also shows that secondary metabolism can affect different species in varying ways. In the same forest, four separate species of arboreal marsupial folivores reacted differently to a secondary metabolite in eucalypts. This shows that differing types of secondary metabolites can be the split between two herbivore ecological niches. Additionally, certain species evolve to resist secondary metabolites and even use them for their own benefit. For example, monarch butterflies have evolved to be able to eat milkweed (Asclepias) despite the presence of toxic cardiac glycosides. The butterflies are not only resistant to the toxins, but are actually able to benefit by actively sequestering them, which can lead to the deterrence of predators.
+
+Plant secondary metabolites
+Plants are capable of producing and synthesizing diverse groups of organic compounds and are divided into two major groups: primary and secondary metabolites. Secondary metabolites are metabolic intermediates or products which are not essential to growth and life of the producing plants but rather required for interaction of plants with their environment and produced in response to stress. Their antibiotic, antifungal and antiviral properties protect the plant from pathogens. Some secondary metabolites such as phenylpropanoids protect plants from UV damage. The biological effects of plant secondary metabolites on humans have been known since ancient times. The herb Artemisia annua which contains Artemisinin, has been widely used in Chinese traditional medicine more than two thousand years ago. Plant secondary metabolites are classified by their chemical structure and can be divided into four major classes: terpenes, phenylpropanoids (i.e. phenolics), polyketides, and alkaloids.
+
+Chemical classes
+Terpenoids
+Terpenes constitute a large class of natural products which are composed of isoprene units. Terpenes are only hydrocarbons and terpenoids are oxygenated hydrocarbons. The general molecular formula of terpenes are multiples of (C5H8)n,  where 'n' is number of linked isoprene units. Hence, terpenes are also termed as isoprenoid compounds.  Classification is based on the number of isoprene units present in their structure. Some terpenoids (i.e. many sterols) are primary metabolites. Some terpenoids that may have originated as secondary metabolites have subsequently been recruited as plant hormones, such as gibberellins, brassinosteroids, and strigolactones.
+
+Examples of terpenoids built from hemiterpene oligomerization are:
+
+Azadirachtin, present in Azadirachta indica, the (Neem tree)
+Artemisinin, present in Artemisia annua, Chinese wormwood
+Tetrahydrocannabinol, present in Cannabis sativa, cannabis
+Saponins, glycosylated triterpenes present in e.g. Chenopodium quinoa, quinoa.
+
+Phenolic compounds
+Phenolics are a chemical compound characterized by the presence of aromatic ring structure bearing one or more hydroxyl groups. Phenolics are the most abundant secondary metabolites of plants ranging from simple molecules such as phenolic acid to highly polymerized substances such as tannins. Classes of phenolics have been characterized on the basis of their basic skeleton.
+
+An example of a plant phenol is:
+
+Resveratrol, a C14 stilbenoid produced by e.g. grapes.
+
+Alkaloids
+Alkaloids are a diverse group of nitrogen-containing basic compounds. They are typically derived from plant sources and contain one or more nitrogen atoms. Chemically they are very heterogeneous. Based on chemical structures, they may be classified into two broad categories:
+
+Non heterocyclic or atypical alkaloids, for example hordenine or N-methyltyramine, colchicine, and taxol
+Heterocyclic or typical alkaloids, for example quinine, caffeine, and nicotineExamples of alkaloids produced by plants are:
+
+Hyoscyamine, present in Datura stramonium
+Atropine, present in Atropa belladonna, deadly nightshade
+Cocaine, present in Erythroxylum coca the Coca plant
+Scopolamine, present in the Solanaceae (nightshade) plant family
+Codeine and morphine, present in Papaver somniferum, the opium poppy
+Vincristine and vinblastine, mitotic inhibitors found in Catharanthus roseus, the rosy periwinkleMany alkaloids affect the central nervous system of animals by binding to neurotransmitter receptors.
+
+Glucosinolates
+Glucosinolates are secondary metabolites that include both sulfur and nitrogen atoms, and are derived from glucose, an amino acid and sulfate.
+An example of a glucosinolate in plants is Glucoraphanin, from broccoli (Brassica oleracea var. italica).
+
+Plant secondary metabolites in medicine
+Many drugs used in modern medicine are derived from plant secondary metabolites.
+
+The two most commonly known terpenoids are artemisinin and paclitaxel. Artemisinin was widely used in Traditional Chinese medicine and later rediscovered as a powerful antimalarial by a Chinese scientist Tu Youyou. She was later awarded the Nobel Prize for the discovery in 2015. Currently, the malaria parasite, Plasmodium falciparum, has become resistant to artemisinin alone and the World Health Organization recommends its use with other antimalarial drugs for a successful therapy. Paclitaxel the active compound found in Taxol is a chemotherapy drug used to treat many forms of cancers including ovarian cancer, breast cancer, lung cancer, Kaposi sarcoma, cervical cancer, and pancreatic cancer.  Taxol was first isolated in 1973 from barks of a coniferous tree, the Pacific Yew.Morphine and codeine both belong to the class of alkaloids and are derived from opium poppies. Morphine was discovered in 1804 by a German pharmacist Friedrich Sertürnert. It was the first active alkaloid extracted from the opium poppy. It is mostly known for its strong analgesic effects, however, morphine is also used to treat shortness of breath and treatment of addiction to stronger opiates such as heroin. Despite its positive effects on humans, morphine has very strong adverse effects, such as addiction, hormone imbalance or constipation. Due to its highly addictive nature morphine is a strictly controlled substance around the world, used only in very severe cases with some countries underusing it compared to the global average due to the social stigma around it.
+Codeine, also an alkaloid derived from the opium poppy, is considered the most widely used drug in the world according to World Health Organization. It was first isolated in 1832 by a French chemist Pierre Jean Robiquet, also known for the discovery of caffeine and a widely used red dye alizarin. Primarily codeine is used to treat mild pain and relief coughing although in some cases it is used to treat diarrhea and some forms of irritable bowel syndrome. Codeine has the strength of 0.1-0.15 compared to morphine ingested orally, hence it is much safer to use. Although codeine can be extracted from the opium poppy, the process is not feasible economically due to the low abundance of pure codeine in the plant. A chemical process of methylation of the much more abundant morphine is the main method of production.Atropine is an alkaloid first found in Atropa belladonna, a member of the nightshade family. While atropine was first isolated in the 19th century, its medical use dates back to at least the fourth century B.C. where it was used for wounds, gout, and sleeplessness. Currently atropine is administered intravenously to treat bradycardia and as an antidote to organophosphate poisoning. Overdosing of atropine may lead to atropine poisoning which results in side effects such as blurred vision, nausea, lack of sweating, dry mouth and tachycardia.Resveratrol is a phenolic compound of the flavonoid class. It is highly abundant in grapes, blueberries, raspberries and peanuts. It is commonly taken as a dietary supplement for extending life and reducing the risk of cancer and heart disease, however there is no strong evidence supporting its efficacy. Nevertheless, flavonoids are in general thought to have beneficial effects for humans. Certain studies shown that flavonoids have direct antibiotic activity. A number of in vitro and limited in vivo studies shown that flavonoids such as quercetin have synergistic activity with antibiotics and are able to suppress bacterial loads.Digoxin is a cardiac glycoside first derived by William Withering in 1785 from the foxglove (Digitalis) plant. It is typically used to treat heart conditions such as atrial fibrillation, atrial flutter or heart failure. Digoxin can, however, have side effects such as nausea, bradycardia, diarrhea or even life-threatening arrhythmia.
+
+Fungal secondary metabolites
+The three main classes of fungal secondary metabolites are: polyketides, nonribosomal peptides and terpenes. Although fungal secondary metabolites are not required for growth they play an essential role in survival of fungi in their ecological niche. The most known fungal secondary metabolite is penicillin discovered by Alexander Fleming in 1928. Later in 1945, Fleming, alongside Ernst Chain and Howard Florey, received a Nobel Prize for its discovery which was pivotal in reducing the number of deaths in World War II by over 100,000.Examples of other fungal secondary metabolites are:
+
+Lovastatin, a polyketide from e.g. Pleurotus ostreatus, oyster mushrooms.
+Aflatoxin B1, a polyketide from Aspergillus flavus.
+Ciclosporin, a non-ribosomal cyclic peptide from Tolypocladium inflatum.Lovastatin was the first FDA approved secondary metabolite to lower cholesterol levels. Lovastatin occurs naturally in low concentrations in oyster mushrooms, red yeast rice, and Pu-erh. Lovastatin's mode of action is competitive inhibition of HMG-CoA reductase, and a rate-limiting enzyme responsible for converting HMG-CoA to mevalonate.
+Fungal secondary metabolites can also be dangerous to humans. Claviceps purpurea, a member of the ergot group of fungi typically growing on rye, results in death when ingested. The build-up of poisonous alkaloids found in C. purpurea lead to symptoms such as seizures and spasms, diarrhea, paresthesias, Itching, psychosis or gangrene. Currently, removal of ergot bodies requires putting the rye in brine solution with healthy grains sinking and infected floating.
+
+Bacterial secondary metabolites
+Bacterial production of secondary metabolites starts in the stationary phase as a consequence of lack of nutrients or in response to environmental stress. Secondary metabolite synthesis in bacteria is not essential for their growth, however, they allow them to better interact with their ecological niche. The main synthetic pathways of secondary metabolite production in bacteria are; b-lactam, oligosaccharide, shikimate, polyketide and non-ribosomal pathways. Many bacterial secondary metabolites are toxic to mammals. When secreted those poisonous compounds are known as exotoxins whereas those found in the prokaryotic cell wall are endotoxins.
+An example of a bacterial secondary metabolite with a positive and negative effect on humans is botulinum toxin synthesised by Clostridium botulinum. This exotoxin often builds up in incorrectly canned foods and when ingested blocks cholinergic neurotransmission leading to muscle paralysis or death. However, botulinum toxin also has multiple medical uses such as treatment of muscle spasticity, migraine and cosmetics use.
+Examples of other bacterial secondary metabolites are:
+
+Phenazine
+Pyocyanin, from Pseudomonas aeruginosa.
+Other phenazines from Pseudomonas ssp. and Streptomyces ssp.
+
+Polyketides
+Avermectin, from Streptomyces avermitilis.
+Epothilones, macrolactones from the soil-dwelling myxobacterium Sorangium cellulosum.
+Erythromycin, Saccharopolyspora erythraea.
+Nystatin, from Streptomyces noursei.
+Rifamycin, from Amycolatopsis rifamycinica.
+
+Nonribosomal peptides
+Bacitracin, from Bacillus subtilis (Tracy strain).
+Gramicidin, from Brevibacillus brevis.
+Polymyxin, from Paenibacillus polymyxa.
+Ramoplanin, from Actinoplanes strain ATCC 33076.
+Teicoplanins, from Actinoplanes teicomyceticus.
+Vancomycin, from the soil bacterium Amycolatopsis orientalis.
+
+Ribosomal peptides
+Microcins, bacteriocins such as microcin V from Escherichia coli.
+Thiostrepton, from several strains of streptomycetes, e.g. Streptomyces azureus.
+
+Glucosides
+Nojirimycin, an iminosugar from a class of Streptomyces species.
+
+Alkaloids
+Tetrodotoxin, a neurotoxin produced by Pseudoalteromonas and other bacteria living in symbiosis with animals such as e.g. pufferfish.
+
+Biotechnological approaches
+Selective breeding was used as one of the first biotechnological techniques used to reduce the unwanted secondary metabolites in food, such as naringin causing bitterness in grapefruit. In some cases increasing the content of secondary metabolites in a plant is the desired outcome. Traditionally this was done using in-vitro plant tissue culture techniques which allow for: control of growth conditions, mitigate seasonality of plants or protect them from parasites and harmful-microbes. Synthesis of secondary metabolites can be further enhanced by introducing elicitors into a tissue plant culture, such as jasmonic acid, UV-B or ozone. These compounds induce stress onto a plant leading to increased production of secondary metabolites.
+To further increase the yield of SMs new approaches have been developed. A novel approach used by Evolva uses recombinant yeast S. cerevisiae strains to produce secondary metabolites normally found in plants. The first successful chemical compound synthesised with Evolva was vanillin, widely used in the food beverage industry as flavouring.  The process involves inserting the desired secondary metabolite gene into an artificial chromosome in the recombinant yeast leading to synthesis of vanillin. Currently Evolva produces a wide array of chemicals such as stevia, resveratrol or nootkatone.
+
+Nagoya protocol
+With the development of recombinant technologies the Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization to the Convention on Biological Diversity was signed in 2010. The protocol regulates the conservation and protection of genetic resources to prevent the exploitation of smaller and poorer countries. If genetic, protein or small molecule resources sourced from biodiverse countries become profitable a compensation scheme was put in place for the countries of origin.
+
+See also
+Chemical ecology
+Hairy root culture, a strategy used in plant tissue culture to produce commercially viable quantities of valuable secondary metabolites
+Plant physiology
+Volatile Organic Compounds
+Cetoniacytone A
+
+References
+External links
+ Media related to Secondary metabolites at Wikimedia Commons

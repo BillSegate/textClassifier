@@ -1,0 +1,4 @@
+Photothermal time (PTT) is a product between growing degree-days (GDD) and day length (hours) for each day. PTT = GDD × DL It can be used to quantify environment, as well as the timing of developmental stages of plants.
+
+
+== References ==

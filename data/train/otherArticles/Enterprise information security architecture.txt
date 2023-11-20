@@ -1,0 +1,36 @@
+Enterprise information security architecture is the practice of designing, constructing and maintaining information security strategies and policies in enterprise organisations. A subset of enterprise architecture, information security frameworks are often given their own dedicated resources in larger organisations and are therefore significantly more complex and robust than in small and medium sized enterprises.
+
+Overview
+Enterprise information security architecture is becoming a common practice within financial institutions around the globe. The primary purpose of creating an enterprise information security architecture is to ensure that business strategy and IT security are aligned. Enterprise Security involves processes, strategies, and techniques for securing IT assets and information against risks and unauthorized access that may violate and affect the integrity and confidentiality of these systems. It also encompasses the processes, technology, and people involved in sustaining a secure environment for protecting digital assets.
+
+Enterprise information security architecture topics
+Enterprise information security architecture was first formally positioned by Gartner in their whitepaper called “Incorporating Security into the Enterprise Architecture Process”.
+
+High-level security architecture framework
+Whilst security architecture frameworks are often custom designed in enterprise organisations, several models are commonly used and adapted to the individual requirements of the organisation
+Commonly used frameworks include:
+
+SABSA framework and methodology
+The U.S. Department of Defense (DoD) Architecture Framework (DoDAF)
+Extended Enterprise Architecture Framework (E2AF) from the Institute For Enterprise Architecture Developments.
+Federal Enterprise Architecture of the United States Government (FEA)
+The UK Ministry of Defence (MOD) Architecture Framework (MODAF)
+Service-Oriented Modeling Framework (SOMF)
+The Open Group Architecture Framework (TOGAF)
+Zachman Framework
+
+See also
+Enterprise architecture
+Enterprise architecture planning
+Information security
+Information assurance
+
+References
+Further reading
+Carbone, J. A. (2004). IT architecture toolkit. Enterprise computing series. Upper Saddle River, NJ, Prentice Hall PTR.
+Cook, M. A. (1996). Building enterprise information architectures : reengineering information systems. Hewlett-Packard professional books. Upper Saddle River, NJ, Prentice Hall.
+Fowler, M. (2003). Patterns of enterprise application architecture. The Addison-Wesley signature series. Boston, Addison-Wesley.
+SABSA integration with TOGAF.
+Groot, R., M. Smits and H. Kuipers (2005). "A Method to Redesign the IS Portfolios in Large Organisations", Proceedings of the 38th Annual Hawaii International Conference on System Sciences (HICSS'05). Track 8, p. 223a. IEEE.
+Steven Spewak and S. C. Hill (1993). Enterprise architecture planning : developing a blueprint for data, applications, and technology. Boston, QED Pub. Group.
+Woody, Aaron (2013). Enterprise Security: A Data-Centric Approach to Securing the Enterprise. Birmingham, UK. Packt Publishing Ltd.

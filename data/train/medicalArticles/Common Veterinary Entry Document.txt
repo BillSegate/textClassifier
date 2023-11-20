@@ -1,7 +1,0 @@
-The Common Veterinary Entry Document (CVED) is the official document used in all member states of the European Union (EU) to pre-notify the arrival of each consignment of live animals (pets not included), live animal products and products of animal origin intended for import to or transit through the EU from third countries.
-The first part of the CVED contains relevant information about the consignment and is intended for the notifying part to report to the competent veterinary authority in the Border Inspection Post (BIP).
-The second part of the CVED shows the results of the conducted checks, and is used by the competent authority at the BIP to communicate to the notifying part the decision regarding the consignment.A CVED can be submitted on paper or by electronic means using the application TRACES (TRAde Control and Expert System).
-
-References
-External links
-General guidance on EU import and transit rules for live animals and animal products from third countries

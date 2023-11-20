@@ -1,0 +1,391 @@
+Thermionic emission (also known as thermal electron emission or the Edison effect) is the liberation of electrons from an electrode by virtue of its temperature (releasing of energy supplied by heat). This occurs because the thermal energy given to the charge carrier overcomes the work function of the material. The charge carriers can be electrons or ions, and in older literature are sometimes referred to as thermions. After emission, a charge that is equal in magnitude and opposite in sign to the total charge emitted is initially left behind in the emitting region. But if the emitter is connected to a battery, the charge left behind is neutralized by charge supplied by the battery as the emitted charge carriers move away from the emitter, and finally the emitter will be in the same state as it was before emission.
+The classical example of thermionic emission is that of electrons from a hot cathode into a vacuum in a vacuum tube. The hot cathode can be a metal filament, a coated metal filament, or a separate structure of metal or carbides or borides of transition metals. Vacuum emission from metals tends to become significant only for temperatures over 1,000 K (730 °C; 1,340 °F).
+This process is crucially important in the operation of a variety of electronic devices and can be used for electricity generation (such as thermionic converters and electrodynamic tethers) or cooling. The magnitude of the charge flow increases dramatically with increasing temperature.
+The term 'thermionic emission' is now also used to refer to any thermally-excited charge emission process, even when the charge is emitted from one solid-state region into another.
+
+History
+Because the electron was not identified as a separate physical particle until the work of J. J. Thomson in 1897, the word "electron" was not used when discussing experiments that took place before this date.
+The phenomenon was initially reported in 1853 by Edmond Becquerel. It was rediscovered in 1873 by Frederick Guthrie in Britain. While doing work on charged objects, Guthrie discovered that a red-hot iron sphere with a negative charge would lose its charge (by somehow discharging it into air). He also found that this did not happen if the sphere had a positive charge. Other early contributors included Johann Wilhelm Hittorf (1869–1883), Eugen Goldstein (1885), and Julius Elster and Hans Friedrich Geitel (1882–1889).The effect was rediscovered again by Thomas Edison on February 13, 1880, while he was trying to discover the reason for breakage of lamp filaments and uneven blackening (darkest near the positive terminal of the filament) of the bulbs in his incandescent lamps.
+Edison built several experimental lamp bulbs with an extra wire, metal plate, or foil inside the bulb that was separate from the filament and thus could serve as an electrode. He connected a galvanometer, a device used to measure current (the flow of charge), to the output of the extra metal electrode. If the foil was put at a negative potential relative to the filament, there was no measurable current between the filament and the foil. When the foil was raised to a positive potential relative to the filament, there could be a significant current between the filament through the vacuum to the foil if the filament was heated sufficiently (by its own external power source).
+We now know that the filament was emitting electrons, which were attracted to a positively charged foil, but not to a negatively charged one. This one-way current was called the Edison effect (although the term is occasionally used to refer to thermionic emission itself). He found that the current emitted by the hot filament increased rapidly with increasing voltage, and filed a patent application for a voltage-regulating device using the effect on November 15, 1883 (U.S. patent 307,031, the first US patent for an electronic device). He found that sufficient current would pass through the device to operate a telegraph sounder. This was exhibited at the International Electrical Exposition in Philadelphia in September 1884. William Preece, a British scientist, took back with him several of the Edison effect bulbs. He presented a paper on them in 1885, where he referred to thermionic emission as the "Edison effect." The British physicist John Ambrose Fleming, working for the British "Wireless Telegraphy" Company, discovered that the Edison effect could be used to detect radio waves. Fleming went on to develop the two-element vacuum tube known as the diode, which he patented on November 16, 1904.The thermionic diode can also be configured as a device that converts a heat difference to electric power directly without moving parts (a thermionic converter, a type of heat engine).
+
+Richardson's law
+Following J. J. Thomson's identification of the electron in 1897, the British physicist Owen Willans Richardson began work on the topic that he later called "thermionic emission". He received a Nobel Prize in Physics in 1928 "for his work on the thermionic phenomenon and especially for the discovery of the law named after him".
+From band theory, there are one or two electrons per atom in a solid that are free to move from atom to atom. This is sometimes collectively referred to as a "sea of electrons". Their velocities follow a statistical distribution, rather than being uniform, and occasionally an electron will have enough velocity to exit the metal without being pulled back in. The minimum amount of energy needed for an electron to leave a surface is called the work function. The work function is characteristic of the material and for most metals is on the order of several electronvolts. Thermionic currents can be increased by decreasing the work function. This often-desired goal can be achieved by applying various oxide coatings to the wire.
+In 1901 Richardson published the results of his experiments: the current from a heated wire seemed to depend exponentially on the temperature of the wire with a mathematical form similar to the Arrhenius equation. Later, he proposed that the emission law should have the mathematical form
+
+  
+    
+      
+        J
+        =
+        
+          A
+          
+            
+              G
+            
+          
+        
+        
+          T
+          
+            2
+          
+        
+        
+          
+            e
+          
+          
+            
+              
+                −
+                W
+              
+              
+                k
+                T
+              
+            
+          
+        
+      
+    
+    {\displaystyle J=A_{\mathrm {G} }T^{2}\mathrm {e} ^{-W \over kT}}
+  where J is the emission current density, T is the temperature of the metal, W is the work function of the metal, k is the Boltzmann constant, and AG is a parameter discussed next.
+In the period 1911 to 1930, as physical understanding of the behaviour of electrons in metals increased, various theoretical expressions (based on different physical assumptions) were put forward for AG, by Richardson, Saul Dushman, Ralph H. Fowler, Arnold Sommerfeld and Lothar Wolfgang Nordheim. Over 60 years later, there is still no consensus among interested theoreticians as to the exact expression of AG, but there is agreement that AG must be written in the form:
+
+  
+    
+      
+        
+          A
+          
+            
+              G
+            
+          
+        
+        =
+        
+        
+          λ
+          
+            
+              R
+            
+          
+        
+        
+          A
+          
+            0
+          
+        
+      
+    
+    {\displaystyle A_{\mathrm {G} }=\;\lambda _{\mathrm {R} }A_{0}}
+  where λR is a material-specific correction factor that is typically of order 0.5, and A0 is a universal constant given by
+
+  
+    
+      
+        
+          A
+          
+            0
+          
+        
+        =
+        
+          
+            
+              4
+              π
+              m
+              
+                k
+                
+                  2
+                
+              
+              
+                q
+                
+                  e
+                
+              
+            
+            
+              h
+              
+                3
+              
+            
+          
+        
+        =
+        1.20173
+        ×
+        
+          10
+          
+            6
+          
+        
+        
+        
+          A
+          
+          
+            m
+            
+              −
+              2
+            
+          
+          
+          
+            K
+            
+              −
+              2
+            
+          
+        
+      
+    
+    {\displaystyle A_{0}={4\pi mk^{2}q_{e} \over h^{3}}=1.20173\times 10^{6}\,\mathrm {A\,m^{-2}\,K^{-2}} }
+  where m and 
+  
+    
+      
+        −
+        
+          q
+          
+            e
+          
+        
+      
+    
+    {\displaystyle -q_{e}}
+   are the mass and charge of an electron, respectively, and h is Planck's constant.
+In fact, by about 1930 there was agreement that, due to the wave-like nature of electrons, some proportion rav of the outgoing electrons would be reflected as they reached the emitter surface, so the emission current density would be reduced, and λR would have the value (1-rav). Thus, one sometimes sees the thermionic emission equation written in the form:
+
+  
+    
+      
+        J
+        =
+        (
+        1
+        −
+        
+          r
+          
+            
+              a
+              v
+            
+          
+        
+        )
+        
+          λ
+          
+            B
+          
+        
+        
+          A
+          
+            0
+          
+        
+        
+          T
+          
+            2
+          
+        
+        
+          
+            e
+          
+          
+            
+              
+                −
+                W
+              
+              
+                k
+                T
+              
+            
+          
+        
+      
+    
+    {\displaystyle J=(1-r_{\mathrm {av} })\lambda _{B}A_{0}T^{2}\mathrm {e} ^{-W \over kT}}
+  .However, a modern theoretical treatment by Modinos assumes that the band-structure of the emitting material must also be taken into account. This would introduce a second correction factor λB into λR, giving 
+  
+    
+      
+        
+          A
+          
+            
+              G
+            
+          
+        
+        =
+        
+          λ
+          
+            
+              B
+            
+          
+        
+        (
+        1
+        −
+        
+          r
+          
+            
+              a
+              v
+            
+          
+        
+        )
+        
+          A
+          
+            0
+          
+        
+      
+    
+    {\displaystyle A_{\mathrm {G} }=\lambda _{\mathrm {B} }(1-r_{\mathrm {av} })A_{0}}
+  . Experimental values for the "generalized" coefficient AG are generally of the order of magnitude of A0, but do differ significantly as between different emitting materials, and can differ as between different crystallographic faces of the same material. At least qualitatively, these experimental differences can be explained as due to differences in the value of λR.
+Considerable confusion exists in the literature of this area because: (1) many sources do not distinguish between AG and A0, but just use the symbol A (and sometimes the name "Richardson constant") indiscriminately; (2) equations with and without the correction factor here denoted by λR are both given the same name; and (3) a variety of names exist for these equations, including "Richardson equation", "Dushman's equation", "Richardson–Dushman equation" and "Richardson–Laue–Dushman equation". In the literature, the elementary equation is sometimes given in circumstances where the generalized equation would be more appropriate, and this in itself can cause confusion. To avoid misunderstandings, the meaning of any "A-like" symbol should always be explicitly defined in terms of the more fundamental quantities involved.
+Because of the exponential function, the current increases rapidly with temperature when kT is less than W. (For essentially every material, melting occurs well before kT = W.)
+The thermionic emission law has been recently revised for 2D materials in various models.
+
+Schottky emission
+In electron emission devices, especially electron guns, the thermionic electron emitter will be biased negative relative to its surroundings. This creates an electric field of magnitude E at the emitter surface. Without the field, the surface barrier seen by an escaping Fermi-level electron has height W equal to the local work-function. The electric field lowers the surface barrier by an amount ΔW, and increases the emission current. This is known as the Schottky effect (named for Walter H. Schottky) or field enhanced thermionic emission. It can be modeled by a simple modification of the Richardson equation, by replacing W by (W − ΔW). This gives the equation
+
+  
+    
+      
+        J
+        (
+        E
+        ,
+        T
+        ,
+        W
+        )
+        =
+        
+          A
+          
+            
+              G
+            
+          
+        
+        
+          T
+          
+            2
+          
+        
+        
+          e
+          
+            
+              
+                −
+                (
+                W
+                −
+                Δ
+                W
+                )
+              
+              
+                k
+                T
+              
+            
+          
+        
+      
+    
+    {\displaystyle J(E,T,W)=A_{\mathrm {G} }T^{2}e^{-(W-\Delta W) \over kT}}
+  
+
+  
+    
+      
+        Δ
+        W
+        =
+        
+          
+            
+              
+                
+                  
+                    
+                      q
+                      
+                        e
+                      
+                    
+                  
+                  
+                    3
+                  
+                
+                E
+              
+              
+                4
+                π
+                
+                  ϵ
+                  
+                    0
+                  
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \Delta W={\sqrt {{q_{e}}^{3}E \over 4\pi \epsilon _{0}}},}
+  where ε0 is the electric constant (also, formerly, called the vacuum permittivity).
+Electron emission that takes place in the field-and-temperature-regime where this modified equation applies is often called Schottky emission. This equation is relatively accurate for electric field strengths lower than about 108 V  m−1. For electric field strengths higher than 108 V m−1, so-called Fowler-Nordheim (FN) tunneling begins to contribute significant emission current. In this regime, the combined effects of field-enhanced thermionic and field emission can be modeled by the Murphy-Good equation for thermo-field (T-F) emission. At even higher fields, FN tunneling becomes the dominant electron emission mechanism, and the emitter operates in the so-called "cold field electron emission (CFE)" regime.
+Thermionic emission can also be enhanced by interaction with other forms of excitation such as light. For example, excited Cs-vapours in thermionic converters form clusters of Cs-Rydberg matter which yield a decrease of collector emitting work function from 1.5 eV to 1.0–0.7 eV. Due to long-lived nature of Rydberg matter this low work function remains low which essentially increases the low-temperature converter's efficiency.
+
+Photon-enhanced thermionic emission
+Photon-enhanced thermionic emission (PETE) is a process developed by scientists at Stanford University that harnesses both the light and heat of the sun to generate electricity and increases the efficiency of solar power production by more than twice the current levels. The device developed for the process reaches peak efficiency above 200 °C, while most silicon solar cells become inert after reaching 100 °C. Such devices work best in parabolic dish collectors, which reach temperatures up to 800 °C. Although the team used a gallium nitride semiconductor in its proof-of-concept device, it claims that the use of gallium arsenide can increase the device's efficiency to 55–60 percent, nearly triple that of existing systems, and 12–17 percent more than existing 43 percent multi-junction solar cells.
+
+See also
+Space charge
+
+References
+External links
+How vacuum tubes really work with a section on thermionic emission, with equations, john-a-harper.com.
+Thermionic Phenomena and the Laws which Govern Them, Owen Richardson's Nobel lecture on thermionics. nobelprize.org. December 12, 1929. (PDF)
+Derivations of thermionic emission equations from an undergraduate lab Archived 2012-02-05 at the Wayback Machine, csbsju.edu.

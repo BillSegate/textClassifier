@@ -1,5 +1,0 @@
-DISCERN is an instrument designed to provide users with a reliable way to measure the quality of written health information. It was originally developed by Deborah Charnock, Sasha Shepperd, Gill Needham, and Robert Gann, who reported on its development and validation in a February 1999 paper.DISCERN is designed for use by individual consumers, health information providers, and health professionals. The instrument contains 15 questions that may be rated on a scale of 1–5. Questions are intended to draw user attention to issues of potential bias, content currency, relevance, clarity, evidence, and balance.The DISCERN website was launched in May 1999. Despite originally being developed using printed materials, the tool has been shown to be effective at evaluating the quality of health information on the internet, as well as for printed information.
-
-References
-External links
-DISCERN Online

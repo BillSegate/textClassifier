@@ -1,0 +1,13 @@
+Myocarditis-myositis-myasthenia gravis overlap syndrome (IM3OS) is a rare immune-related adverse event primarily associated with the use of immune checkpoint inhibitors (ICIs). These ICIs, which have been incorporated into the treatment of various malignancies, function by activating the immune system to detect and attack cancer cells. However, a side effect can involve the immune system inadvertently attacking normal tissues and organs.
+
+Clinical presentation
+The most commonly reported symptoms in patients with IM3OS include fatigue and muscle weakness. Other symptoms can be specific to the organs affected, such as cardiac arrhythmias and depressed ejection fraction in cases where the heart is involved.
+
+Diagnosis and management
+A high index of clinical suspicion is necessary for diagnosis. Prompt comprehensive investigations are required to ascertain the presence of IM3OS, especially in patients who have recently received ICIs. The median number of ICI doses before the onset of IM3OS symptoms has been reported to be one. Immediate initiation of immunosuppressive therapy and supportive therapies, such as high-dose steroids, is paramount upon suspicion or diagnosis of IM3OS. Early multidisciplinary team involvement is also essential.
+
+Prognosis
+IM3OS is associated with significant mortality and morbidity. In a systematic review, 60% of patients diagnosed with IM3OS succumbed to acute complications in the hospital.
+
+
+== References ==

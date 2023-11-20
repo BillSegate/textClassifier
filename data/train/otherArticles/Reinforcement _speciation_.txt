@@ -1,0 +1,267 @@
+Reinforcement is a process of speciation where natural selection increases the reproductive isolation (further divided to pre-zygotic isolation and post-zygotic isolation) between two populations of species. This occurs as a result of selection acting against the production of hybrid individuals of low fitness. The idea was originally developed by Alfred Russel Wallace and is sometimes referred to as the Wallace effect. The modern concept of reinforcement originates from Theodosius Dobzhansky. He envisioned a species separated allopatrically, where during  secondary contact the two populations mate, producing hybrids with lower fitness. Natural selection results from the hybrid's inability to produce viable offspring; thus members of one species who do not mate with members of the other have greater reproductive success. This favors the evolution of greater prezygotic isolation (differences in behavior or biology that inhibit formation of hybrid zygotes). Reinforcement is one of the few cases in which selection can favor an increase in prezygotic isolation, influencing the process of speciation directly. This aspect has been particularly appealing among evolutionary biologists.The support for reinforcement has fluctuated since its inception, and  terminological confusion and differences in usage over history have led to multiple meanings and complications. Various objections have been raised by evolutionary biologists as to the plausibility of its occurrence. Since the 1990s, data from theory, experiments, and nature have overcome many of the past objections, rendering reinforcement widely accepted,: 354  though its prevalence in nature remains unknown.Numerous models have been developed to understand its operation in nature, most relying on several facets: genetics, population structures, influences of selection, and mating behaviors. Empirical support for reinforcement exists, both in the laboratory and in nature. Documented examples are found in a wide range of organisms: both vertebrates and invertebrates, fungi, and plants. The secondary contact of originally separated incipient species (the initial stage of speciation) is increasing due to human activities such as the introduction of invasive species or the modification of natural habitats. This has implications for measures of biodiversity and may become more relevant in the future.
+
+History
+Reinforcement has had a complex history in that its popularity among scholars has changed over time. Jerry Coyne and H. Allen Orr contend that the theory of reinforcement went through three phases of historical development:: 366 
+plausibility based on unfit hybrids
+implausibility based on hybrids having some fitness
+plausibility based on empirical studies and biologically complex and realistic modelsSometimes called the Wallace effect, reinforcement was originally proposed by Alfred Russel Wallace in 1889.: 353  His hypothesis differed markedly from the modern conception in that it focused on post-zygotic isolation, strengthened by group selection.: 353  Theodosius Dobzhansky was the first to provide a thorough description of the process in 1937,: 353  though the term itself was not coined until 1955 by W. Frank Blair. In 1930, Ronald Fisher laid out the first genetic description of the process of reinforcement in The Genetical Theory of Natural Selection, and in 1965 and 1970 the first computer simulations were run to test for its plausibility.: 367  Later population genetic and quantitative genetic studies were conducted showing that completely unfit hybrids lead unequivocally to an increase in prezygotic isolation.: 367 Dobzhansky's idea gained significant support; he suggested that it illustrated the final step in speciation, for example after an allopatric population comes into secondary contact.: 353  In the 1980s, many evolutionary biologists began to doubt the plausibility of the idea,: 353  based not on empirical evidence, but largely on the growth of theory that deemed it an unlikely mechanism of reproductive isolation. A number of theoretical objections arose at the time and are addressed in the Arguments against reinforcement section below.
+By the early 1990s, reinforcement saw a revival in popularity among evolutionary biologists; due primarily from a sudden increase in data—empirical evidence from studies in labs and largely by examples found in nature.: 354  Further, computer simulations of the genetics and migration patterns of populations found, "something looking like reinforcement".: 372  The most recent theoretical work on speciation has come from several studies (notably from Liou and Price, Kelly and Noor, and Kirkpatrick and Servedio) using highly complex computer simulations; all of which came to similar conclusions: that reinforcement is plausible under several conditions, and in many cases, is easier than previously thought.: 374
+
+Terminology
+Confusion exists around the meaning of the term reinforcement. It was first used to describe the observed mating call differences in Gastrophryne frogs within a secondary contact hybrid zone. The term secondary contact has also been used to describe reinforcement in the context of an allopatrically separated population experiencing contact after the loss of a geographic barrier. The Wallace effect is similar to reinforcement, but is rarely used. Roger Butlin demarcated incomplete post-zygotic isolation from complete isolation, referring to incomplete isolation as reinforcement and completely isolated populations as experiencing reproductive character displacement. Daniel J. Howard considered reproductive character displacement to represent either assortive mating or the divergence of traits for mate recognition (specifically between sympatric populations). Reinforcement, under his definition, included prezygotic divergence and complete post-zygotic isolation. Servedio and Noor include any detected increase in prezygotic isolation as reinforcement, as long as it is a response to selection against mating between two different species. Coyne and Orr contend that, "true reinforcement is restricted to cases in which isolation is enhanced between taxa that can still exchange genes".: 352
+
+Models
+One of the strongest forms of reproductive isolation in nature is sexual isolation: traits in organisms involving mating. This pattern has led to the idea that, because selection acts so strongly on mating traits, it may be involved in the process of speciation. This process of speciation influenced by natural selection is reinforcement, and can happen under any mode of speciation: 355  (e.g. geographic modes of speciation or ecological speciation). It necessitates two forces of evolution that act on mate choice: natural selection and gene flow. Selection acts as the main driver of reinforcement as it selects against hybrid genotypes that are of low-fitness, regardless if individual preferences have no effect on survival and reproduction. Gene flow acts as the primary opposing force against reinforcement, as the exchange of genes between individuals leading to hybrids cause the genotypes to homogenize.Butlin laid out four primary criteria for reinforcement to be detected in natural or laboratory populations:
+Gene flow between two taxa exists or can be established to have existed at some point.
+There is divergence of mating-associated traits between two taxa.
+Patterns of mating are modified, limiting the production of low fitness hybrids.
+Other selection pressures leading to divergence of the mate-recognition system have not occurred.After speciation by reinforcement occurs, changes after complete reproductive isolation (and further isolation thereafter) are a form of reproductive character displacement. A common signature of reinforcement's occurrence in nature is that of reproductive character displacement; characteristics of a population diverge in sympatry but not allopatry. One difficulty in detection is that ecological character displacement can result in the same patterns. Further, gene flow can diminish the isolation found in sympatric populations. Two important factors in the outcome of the process rely on: 1) the specific mechanisms that causes prezygotic isolation, and 2) the number of alleles altered by mutations affecting mate choice.In instances of peripatric speciation, reinforcement is unlikely to complete speciation in the case that the peripherally isolated population comes into secondary contact with the main population. In sympatric speciation, selection against hybrids is required; therefore reinforcement can play a role, given the evolution of some form of fitness trade-offs. In sympatry, patterns of strong mating discrimination are often observed—being attributed to reinforcement. Reinforcement is thought to be the agent of gametic isolation.
+
+Genetics
+The underlying genetics of reinforcement can be understood by an ideal model of two haploid populations experiencing an increase in linkage disequilibrium. Here, selection rejects low fitness 
+  
+    
+      
+        B
+        c
+      
+    
+    {\displaystyle Bc}
+   or 
+  
+    
+      
+        b
+        C
+      
+    
+    {\displaystyle bC}
+   allele combinations while favoring combinations of 
+  
+    
+      
+        B
+        C
+      
+    
+    {\displaystyle BC}
+   alleles (in the first subpopulation) and 
+  
+    
+      
+        b
+        c
+      
+    
+    {\displaystyle bc}
+   alleles (in the second subpopulation). The third locus 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   or 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   (the assortive mating alleles) have an effect on mating pattern but is not under direct selection. If selection at 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   and 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   cause changes in the frequency of allele 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  , assortive mating is promoted, resulting in reinforcement. Both selection and assortive mating are necessary, that is, that matings of 
+  
+    
+      
+        A
+        ×
+        A
+      
+    
+    {\displaystyle A\times A}
+   and 
+  
+    
+      
+        a
+        ×
+        a
+      
+    
+    {\displaystyle a\times a}
+   are more common than matings of 
+  
+    
+      
+        a
+        ×
+        A
+      
+    
+    {\displaystyle a\times A}
+   and 
+  
+    
+      
+        A
+        ×
+        a
+      
+    
+    {\displaystyle A\times a}
+  . A restriction of migration between populations can further increase the chance of reinforcement, as it decreases the probability of the differing genotypes to exchange.An alternative model exists to address the antagonism of recombination, as it can reduce the association between the alleles that involve fitness and the assortive mating alleles that do not. Genetic models often differ in terms of the number of traits associated with loci; with some relying on one locus per trait and others on polygenic traits.
+
+Population structures
+The structure and migration patterns of a population can affect the process of speciation by reinforcement. It has been shown to occur under an island model, harboring conditions with infrequent migrations occurring in one direction, and in symmetric migration models where species migrate evenly back and forth between populations.
+Reinforcement can also occur in single populations, mosaic hybrid zones (patchy distributions of parental forms and subpopulations), and in parapatric populations with narrow contact zones.Population densities are an important factor in reinforcement, often in conjunction with extinction. It is possible that, when two species come into secondary contact, one population can become extinct—primarily due to low hybrid fitness accompanied by high population growth rates. Extinction is less likely if the hybrids are inviable instead of infertile, as fertile individuals can still survive long enough to reproduce.
+
+Selection
+Speciation by reinforcement relies directly on selection to favor an increase in prezygotic isolation, and the nature of selection's role in reinforcement has been widely discussed, with models applying varying approaches. Selection acting on hybrids can occur in several different ways. All hybrids produced may be equality low-fitness, conferring a broad disadvantage. In other cases, selection may favor multiple and varying phenotypes such as in the case of a mosaic hybrid zone. Natural selection can act on specific alleles both directly or indirectly. In direct selection, the frequency of the selected allele is favored to the extreme. In cases where an allele is indirectly selected, its frequency increases due to a different linked allele experiencing selection (linkage disequilibrium).The condition of the hybrids under selection can play a role in post-zygotic isolation, as hybrid inviability (a hybrid unable to mature into a fit adult) and sterility (the inability to produce offspring entirely) prohibit gene flow between populations. Selection against the hybrids can even be driven by any failure to obtain a mate, as it is effectively indistinguishable from sterility—each circumstance results in no offspring.
+
+Mating and mate preference
+Some initial divergence in mate preference must be present for reinforcement to occur. Any traits that promote isolation may be subjected to reinforcement such as mating signals (e.g. courtship display), signal responses, the location of breeding grounds, the timing of mating (e.g. seasonal breeding such as in allochronic speciation), or even egg receptivity. Individuals may also discriminate against mates that differ in various traits such as mating call or morphology. Many of these examples are described below.
+
+Evidence
+The evidence for reinforcement comes from observations in nature, comparative studies, and laboratory experiments.: 354
+
+Nature
+Reinforcement can be shown to be occurring (or to have occurred in the past) by measuring the strength of prezygotic isolation in a sympatric population in comparison to an allopatric population of the same species.: 357  Comparative studies of this allow for determining large-scale patterns in nature across various taxa.: 362  Mating patterns in hybrid zones can also be used to detect reinforcement. Reproductive character displacement is seen as a result of reinforcement, so many of the cases in nature express this pattern in sympatry. Reinforcement's ubiquity is unknown, but the patterns of reproductive character displacement are found across numerous taxa and is considered to be a common occurrence in nature. Studies of reinforcement in nature often prove difficult, as alternative explanations for the detected patterns can be asserted.: 358  Nevertheless, empirical evidence exists for reinforcement occurring across various taxa and its role in precipitating speciation is conclusive.
+
+Comparative studies
+Assortive mating is expected to increase among sympatric populations experiencing reinforcement. This fact allows for the direct comparison of the strength of prezygotic isolation in sympatry and allopatry between different experiments and studies.: 362  Coyne and Orr surveyed 171 species pairs, collecting data on their geographic mode, genetic distance, and strength of both prezygotic and postzygotic isolation; finding that prezygotic isolation was significantly stronger in sympatric pairs, correlating with the ages of the species.: 362  Additionally, the strength of post-zygotic isolation was not different between sympatric and allopatric pairs. This finding supports the predictions of speciation by reinforcement and correlates well with a later study that found 33 studies expressing patterns of strong prezygotic isolation in sympatry.: 363  A survey of the rates of speciation in fish and their associated hybrid zones found similar patterns in sympatry, supporting the occurrence of reinforcement.
+
+Laboratory experiments
+Laboratory studies that explicitly test for reinforcement are limited,: 357  with many of the experiments having been conducted on Drosophila fruit flies. In general, two types of experiments have been conducted: using artificial selection to mimic natural selection that eliminates the hybrids (often called "destroy-the-hybrids"), and using disruptive selection to select for a trait (regardless  of its function in sexual reproduction).: 355–357  Many experiments using the destroy-the-hybrids technique are generally cited as supportive of reinforcement; however, some researchers such as Coyne and Orr and William R. Rice and Ellen E. Hostert contend that they do not truly model reinforcement, as gene flow is completely restricted between two populations.: 356
+
+Alternative hypotheses
+Various alternative explanations for the patterns observed in nature have been proposed.: 375  There is no single, overarching signature of reinforcement; however, there are two proposed possibilities:: 379  that of sex asymmetry (where females in sympatric populations are forced to become choosy in the face of two differing males) and that of allelic dominance: any of the alleles experiencing selection for isolation should be dominate. Though this signature does not fully account for fixation probabilities or ecological character displacement.: 380  Coyne and Orr extend the sex asymmetry signature and contend that, regardless of the change seen in females and males in sympatry, isolation is driven more by females.: 380
+
+Ecological or ethological influences
+Ecology can also play a role in the observed patterns—called ecological character displacement. Natural selection may drive the reduction of an overlap of niches between species instead of acting to reduce hybridization: 377  Though one experiment in stickleback fish that explicitly tested this hypotheses found no evidence.Species interactions can also result in reproductive character displacement (in both mate preference or mating signal). Examples include predation and competition pressures, parasites, deceptive pollination, and mimicry. Because these and other factors can result in reproductive character displacement, Conrad J. Hoskin and Megan Higgie give five criteria for reinforcement to be distinguished between ecological and ethological influences:
+
+(1) mating traits are identified in the focal species; (2) mating traits are affected by a species interaction, such that selection on mating traits is likely; (3) species interactions differ among populations (present vs. absent, or different species interactions affecting mating traits in each population); (4) mating traits (signal and/or preference) differ among populations due to differences in species interactions; (5) speciation requires showing that mating trait divergence results in complete or near complete sexual isolation among populations. Results will be most informative in a well-resolved biogeographic setting where the relationship and history among populations is known.
+
+Fusion
+It is possible that the pattern of enhanced isolation could simply be a temporary outcome of secondary contact where two allopatric species already have a varying range of prezygotic isolation: with some exhibiting more than others. Those that have weaker prezygotic isolation will eventually fuse, losing their distinctiveness. This hypothesis does not explain the fact that individual species in allopatry, experiencing consistent gene flow, would not differ in levels of gene flow upon secondary contact. Furthermore, patterns detected in Drosophila find high levels of prezygotic isolation in sympatry but not in allopatry. The fusion hypothesis predicts that strong isolation should be found in both allopatry and sympatry. This fusion process is thought to occur in nature, but does not fully explain the patterns found with reinforcement.: 376
+
+Sympatry
+It is possible that the process of sympatric speciation itself may result in the observed patterns of reinforcement.: 378  One method of distinguishing between the two is to construct a phylogenetic history of the species, as the strength of prezygotic isolation between a group of related species should differ according to how they speciated in the past. Two other ways to determine if reinforcement occurs (as opposed to sympatric speciation) are:
+
+if two recently speciated taxa do not show signs of post-zygotic isolation of both sympatric and allopatric populations (in sympatric speciation, post-zygotic isolation is not a prerequisite);
+if a cline exists between two species over a range of traits (sympatric speciation does not require a cline to exist at all).
+
+Sexual selection
+In a runaway process (not unlike Fisherian runaway selection), selection against the low-fitness hybrids favors assortive mating, increasing mate discrimination rapidly. Additionally, when there is a low cost to female mate preferences, changes in male phenotypes can result, expressing a pattern identical to that of reproductive character displacement. Post-zygotic isolation is not needed, initiated simply by the fact that unfit hybrids cannot get mates.
+
+Arguments against reinforcement
+A number of objections were put forth, mainly during the 1980s, arguing that reinforcement is implausible.: 369  Most rely on theoretical work which suggested that the antagonism between the forces of natural selection and gene flow were the largest barriers to its feasibility.: 369–372  These objections have since been largely contradicted by evidence from nature.: 372
+
+Gene flow
+Concerns about hybrid fitness playing a role in reinforcement has led to objections based on the relationship between selection and recombination.: 369  That is, if gene flow is not zero (if hybrids aren't completely unfit), selection cannot drive the fixation of alleles for prezygotic isolation. For example: If population 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   has the prezygotic isolating allele 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   and the high fitness, post-zygotic alleles 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   and 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+  ; and population 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+   has the prezygotic allele a and the high fitness, post-zygotic alleles 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   and 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  , both 
+  
+    
+      
+        A
+        B
+        C
+      
+    
+    {\displaystyle ABC}
+   and 
+  
+    
+      
+        a
+        b
+        c
+      
+    
+    {\displaystyle abc}
+   genotypes will experience recombination in the face of gene flow. Somehow, the populations must be maintained.: 369 In addition, specific alleles that have the selective advantage within the overlapped populations are only useful within that population. However, if they are selectively advantageous, gene flow should allow the alleles to spread throughout both populations. To prevent this, the alleles would have to be deleterious or neutral.: 371  This is not without problems, as gene flow from the presumably large allopatric regions could overwhelm the area when two populations overlap.: 371  For reinforcement to work, gene flow must be present, but very limited.Recent studies suggest reinforcement can occur under a wider range of conditions than previously thought: 372–373  and that the effect of gene flow can be overcome by selection. For example, the two species Drosophila santomea and D. yakuba on the African island São Tomé occasionally hybridize with one another, resulting in fertile female offspring and sterile male offspring. This natural setting was reproduced in the laboratory, directly modeling reinforcement: the removal of some hybrids and the allowance of varying levels of gene flow. The results of the experiment strongly suggested that reinforcement works under a variety of conditions, with the evolution of sexual isolation arising in 5–10 fruit fly generations.
+
+Rapid requirements
+In conjunction with the fusion hypothesis, reinforcement can be thought of as a race against both fusion and extinction. The production of unfit hybrids is effectively the same as a heterozygote disadvantage; whereby a deviation from genetic equilibrium causes the loss of the unfit allele. This effect would result in the extinction of one of the populations. This objection is overcome by when both populations are not subject to the same ecological conditions.: 370  Though, it is still possible for extinction of one population to occur, and has been shown in population simulations. For reinforcement to occur, prezygotic isolation must happen quickly.: 370 
+
+
+== References ==

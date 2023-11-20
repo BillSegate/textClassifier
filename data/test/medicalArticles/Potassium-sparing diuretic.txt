@@ -1,0 +1,25 @@
+Potassium-sparing diuretics refers to drugs that cause diuresis without causing potassium loss in the urine. They are typically used as an adjunct in management of hypertension, cirrhosis, and congestive heart failure. The steroidal aldosterone antagonists can also be used for treatment of primary hyperaldosteronism. Spironolactone, a steroidal aldosterone antagonist, is also used in management of female hirsutism and acne from PCOS or other causes.
+
+Types of potassium-sparing diuretics
+Epithelial sodium channel blockers:Amiloride –  better tolerated than triamterene
+Triamterene –  increased renal side-effects
+Aldosterone antagonists, also known as mineralocorticoid receptor antagonists:Spironolactone –  most widespread use, inexpensive
+Eplerenone –  more selective so reduced side-effects but more expensive and less potent
+Finerenone –  non-steroidal, more selective and potent than spironolactone and eplerenone
+Canrenone –  very limited use
+
+Mechanism of action
+Normally, sodium is reabsorbed in the collecting tubules of a renal nephron. This occurs via epithelial sodium channels or ENaCs, located on the luminal surface of principal cells that line the collecting tubules. Positively-charged Na+ entering the cells during reabsorption leads to an electronegative luminal environment causing the secretion of potassium (K+) into the lumen/ urine in exchange. Sodium reabsorption also causes water retention.When the kidneys detect low blood pressure, the renin–angiotensin–aldosterone system (RAAS) is activated and eventually, aldosterone is secreted. Aldosterone binds to aldosterone receptors (mineralocorticoid receptors) increasing sodium reabsorption in an effort to increase blood pressure and improve fluid status in the body. When excessive sodium reabsorption occurs, there is an increasing loss of K+ in the urine and can lead to clinically significant decreases, termed hypokalemia. Increased sodium reabsorption also increases water retention.Potassium-sparing diuretics act to prevent sodium reabsorption in the collecting tubule by either binding ENaCs (amiloride, triamterene) or by inhibiting aldosterone receptors (spironolactone, eplerenone). This prevents excessive excretion of K+ in urine and decreased retention of water, preventing hypokalemia.Because these diuretics are weakly natriuretic, they do not cause clinically significant blood pressure changes and thus, are not used as primary therapy for hypertension. They can be used in combination with other anti-hypertensives or drugs that cause hypokalemia to help maintain a normal range for potassium. For example, they are often used as an adjunct to loop diuretics (usually furosemide) to treat fluid retention in congestive heart failure and ascites in cirrhosis.
+
+Adverse effects
+On their own this group of drugs may raise potassium levels beyond the normal range, termed hyperkalemia, which risks potentially fatal arrhythmias. Triamterene, specifically, is a potential nephrotoxin and up to half of the patients on it can have crystalluria or urinary casts. Spironolactone can cause gynecomastia, menstrual abnormalities, impotence, and decreased libido by binding non-selective estrogen and progesterone receptors.
+
+Other diuretics
+While not classically considered potassium-sparing diuretics, ACE inhibitors (ACEis) and angiotensin receptor blockers (ARBs) are anti-hypertensive drugs with diuretic effects that decrease renal excretion of potassium. They work by inhibiting either the production (ACEis) or effects (ARBs) of angiotensin 2. This results in a decrease in aldosterone release, which causes potassium-sparing-diuretic-like effects similar to those of the aldosterone antagonists, spironolactone, and eplerenone.
+
+See also
+C03D Potassium-sparing agents
+
+References
+External links
+Potassium+Sparing+Diuretics at the U.S. National Library of Medicine Medical Subject Headings (MeSH)

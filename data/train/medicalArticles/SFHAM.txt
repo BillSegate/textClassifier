@@ -1,0 +1,20 @@
+SFHAM (single fibre based heart activity model) is a physical model describing the electric activity of the left ventricle of the heart during its depolarisation. It facilitates a precise analysis of electric potentials of different parts of the ventricle.
+
+Main principles of the model
+The SFHAM model is based on the following principles:
+Each part of the cardiac muscle (interventricular septum, anterior wall, inferior wall, lateral wall, posterior wall) is the source of independent instantaneous potential.
+Electric potential coming from a particular part of the myocardium is the result of variation in electric charge density including endocardium, M cells and epicardium.
+QRS unit is the result of  the sum of all instantaneous potentials generated during depolarization of particular parts of myocardium.
+The value of instantaneous potential depends on the quality and activity of particular parts of the ventricle walls.
+Time changes in the value of the potentials distribution occurring on the surface of the chest depend on physiological and pathological factors.
+Electrical activity of each part of the myocardium of a healthy individual forms a constant contribution expressed in percentage into the entire activity of the myocardium.The model constitutes a theoretical basis for SATRO-ECG being a system to non-invasive diagnosing facilitating early detection ischemic changes in the heart.
+
+References
+Bibliography
+Janicki JS, Leoński W,  Jagielski J. Partial potentials of selected cardiac muscle regions and heart activity model based on single fibres. Medical Engineering & Physics, 31 (2009) 1276-1282 [1]
+Janicki JS, Leoński W, Jagielski J, Sobieszczańska M, Chąpiński M, Janicki Ł. Single Fibre Based Heart Activity Model (SFHAM) Based Qrs-Waves Synthesis. W: Sobieszczańska M, Jagielski J, Macfarlane PW, editors. Electrocardiology 2009. JAKS Publishing Company; 2010. p. 81-86, ISBN 978-83-928209-5-6 [2]
+Janicki JS, Leoński W, Jagielski J, Sobieszczańska M, Leońska JG. Implementation of SFHAM in Coronary Heart Disease Diagnosis. W: Sobieszczańska M, Jagielski J, Macfarlane PW, editors. Electrocardiology 2009. JAKS Publishing Company; 2010. p. 197-201, ISBN 978-83-928209-5-6 [3]
+
+External links
+SFHAM model and SATRO-ECG method web page  (english)
+Instytut Badań Fizykomedycznych The Institute for Physico-Medical Research web page (polish)

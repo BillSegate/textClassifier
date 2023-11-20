@@ -1,0 +1,56 @@
+An obligate parasite or holoparasite is a parasitic organism that cannot complete its life-cycle without exploiting a suitable host. If an obligate parasite cannot obtain a host it will fail to reproduce. This is opposed to a facultative parasite, which can act as a parasite but does not rely on its host to continue its life-cycle. Obligate parasites have evolved a variety of parasitic strategies to exploit their hosts. Holoparasites and some hemiparasites are obligate.
+It is advantageous for the parasite to preserve the health of their host when this is compatible with their nutritional and reproductive requirements, except when the death of the host is necessary for transmission.
+
+Species
+Obligate parasitism is exhibited in a range of organisms, with examples in viruses, bacteria, fungi, plants, and animals. They are unable to complete their development without passing through at least one parasitic stage which is necessary to their life-cycle.
+Whether one regards viruses as living organisms or not, they cannot reproduce except by means of resources within living cells.  Accordingly, it is convenient and customary to regard them as obligate intracellular parasites.
+Among the Vespidae family, Vespula austriaca is an example of an obligate reproductive parasite; its common host is Vespula acadica. In the genus Bombus, B. bohemicus is an obligate parasite of  B. locurum, B. cryptarum, and B. terrestris.
+
+Host-parasite interaction
+Life-cycle
+Parasitic life cycles involve the exploitation of at least one host. Parasites that infect a single species are said to have direct life-cycles. For example, the hookworm species Necator americanus. Parasites that infect more than one host are said to have a complex or indirect life-cycle. For example, the malaria plasmodium.
+
+Intermediate or final host
+An intermediate or secondary host is exploited by the parasite only for a short transition period. A final or primary host is exploited by the parasite and is the only location in which the parasite is able to reach maturity and if possible, reproduce sexually.
+For example, Ribeiroia ondatrae uses ramshorn snails as its first intermediate host, amphibians and fish as second intermediate hosts and birds as definitive hosts.
+
+Parasitic permanence
+Obligate parasites may not necessarily spend all of their time behaving as parasites. When a parasite is permanent, a number of generations occur in or on the host of an infested individual. Head lice are an example of this. Temporary parasites are organisms whose parasitic mode of life is limited to a few or even one stage of development. An example of this is the larval stage of harvest mites, while the adult stage is non-parasitic.
+
+Location on host
+The parasite may live outside of the host ectoparasite; for example, a tick. Alternatively, the parasite may live within the host  endoparasite; for example, the fluke. 
+An obligate parasite that does not live directly in or on the host, but rather acts at a distance – for example, a cuckoo which hatches and is raised by non-relatives – is known as a brood parasite.
+
+Invasion strategies
+In order to establish infestation in a susceptible host, obligate parasites must evade defences before, during and after entry into the host.
+Due to the wide range of obligate parasite types, it is impossible to identify a general invasion strategy.   Intracellular parasites use various strategies to invade cells and subvert cellular signalling pathways. Most bacteria and viruses undergo passive uptake, where they rely on the host cell for uptake. However, apicomplexans engage in active entry. One obligate wasp parasite, Polistes atrimandibularis, infiltrates their hosts' colony by modifying their chemical signature to match that of the hosts'.  This tricks the host wasps into thinking the parasite is one of their own.
+
+Evasion of host defences
+A number of obligate intracellular parasites have evolved mechanisms for evading their hosts' cellular defences, including the ability to survive in distinct cellular compartments.
+One of the mechanisms that hosts employ in their attempt to reduce the replication and spread of pathogens is apoptosis (programmed cell death). Some obligate parasites have developed ways to suppress this phenomenon, for example Toxoplasma gondii, although the mechanism is not yet fully understood.
+
+Manipulation of host behaviour
+Changes in a host’s behaviour following infection with obligate parasites are extremely common. Unusual behaviour observed in infected individuals is noted, and if its complexity suggests that this behaviour will benefit the transmission of the parasite, then this is said to be an example of adaptive manipulation. However, there is a difficulty in demonstrating changes in behaviour are the result of a selective process favouring transmission of the parasite. It has been suggested that these changes may merely be a side-effect of infection.  Most behaviour changes have not been demonstrated to lead to fitness gains in either the host or the parasite. An example of this behaviour is the attraction of rats to cat urine after infection with Toxoplasma gondii. However, the "scientific metaphors, including anthropomorphisms" sometimes used in "popular media and the scientific literature" to describe the manipulation of host behavior have been described as "catchy, yet misleading".
+
+Extended phenotype
+In some cases the behaviour we observe in an organism is not due to the expression of their genes, but rather to the genes of parasites infecting them. This behaviour is an extended phenotype.
+
+Evolution of host behaviour manipulation
+Three main evolutionary routes have been suggested for the appearance of host behaviour manipulation by parasites. The first is a parasite driven scenario of manipulation, while the second and third are host driven scenarios of manipulation.
+
+Manipulation sensu stricto (extended phenotype- abhorrent behaviour displayed by parasitised hosts results from the expression of the parasites genes) this capacity could have been the product of natural selection in an ancestral parasite with the trait.
+The mafia-like strategy- retaliation for non-compliance (eg.great spotted cuckoo and magpie) magpies that eject the cuckoos eggs from their nest suffer a much greater rate of cuckoo predation.
+The exploitation of compensatory responses induce host compensatory responses since these may at least partially match with the transmission routes of parasites. E.g. the sexually transmitted ectoparasite Chrysomelobia labidomerae, parasitizing the leaf beetle host Labidomera clivicollis~ infected males exhibit increased sexual behaviour and as a result enhance inter- and intra- sexual contacts (copulation and competition) which provide more opportunities for parasite transmission.It has been suggested that  extended phenotype behaviours are not adaptive, but are Exaptative. While they may have a benefit for the parasitic organism, they did not arise with the intention of this benefit.
+
+Parasitic mimicry in brood parasites
+The cowbird and cuckoo require the nests and parental care of other passerines in order for their young to fledge. These are known as brood parasites. The parasitic bird species mimics egg patterns and colours of the host species, which reduces egg rejection. The chicks of some species are able to manipulate host behaviour by making rapid calls that mimic the sound made by up to four of the host chicks. Mimicry of the host species also occurs in the paper wasp species Polistes semenowi and Polistes sulcifer and the bumblebee species Bombus bohemicus, with the parasite changing its proportions of cuticular hydrocarbons, species- and colony-specific identifying chemicals, to match that of the usurped host species.Several butterfly species will also exhibit brood parasitic behavior. An example is Niphanda fusca, a butterfly that will release cuticular hydrocarbons (CHCs) to trick the host ant, C. japonicus, into adopting the larva as their own in their own nest. The ant will then raise the larva of the butterfly, feeding it directly from mouth-to-mouth, until it pupates.It is proposed that this mimicry has evolved through two processes: either as coevolutionary responses to host defences against brood parasites or modifying pre-existing host provisioning strategies. Competition between the parasite and host young for parental resources might lead to exaggeration of the aspects of the signal that most effectively exploit host parents. The parasitic young are likely to experience stronger selection for exaggerated signals than host young, because they are unrelated to the other chicks in the nest and therefore under selection to behave more selfishly.
+
+Evolution of obligate parasitism
+Current theory in evolutionary biology indicates that host-parasite relationships may evolve towards equilibrial states of severe disease.  This differs from the conventional belief that commensalism is the ideal equilibrium for both the host and parasite.
+
+See also
+Obligate intracellular parasite
+Parasitoid
+
+
+== References ==

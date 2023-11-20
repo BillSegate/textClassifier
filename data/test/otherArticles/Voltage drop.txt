@@ -1,0 +1,22 @@
+In electronics, voltage drop is the decrease of electric potential along the path of a current flowing in a circuit. Voltage drops in the internal resistance of the source, across conductors, across contacts, and across connectors are undesirable because some of the energy supplied is dissipated. The voltage drop across the load is proportional to the power available to be converted in that load to some other useful form of energy. 
+For example, an electric space heater may have a resistance of ten ohms, and the wires that supply it may have a resistance of 0.2 ohms, about 2% of the total circuit resistance. This means that approximately 2% of the supplied voltage is lost in the wire itself. An excessive voltage drop may result in the unsatisfactory performance of a space heater and overheating of the wires and connections.
+National and local electrical codes may set guidelines for the maximum voltage drop allowed in electrical wiring to ensure efficiency of distribution and proper operation of electrical equipment. The maximum permitted voltage drop varies from one country to another. In electronic design and  power transmission, various techniques are employed to compensate for the effect of voltage drop on long circuits or where voltage levels must be accurately maintained. The simplest way to reduce voltage drop is to increase the diameter of the conductor between the source and the load, which lowers the overall resistance. In power distribution systems, a given amount of power can be transmitted with less voltage drop if a higher voltage is used. More sophisticated techniques use active elements to compensate for excessive voltage drop.
+
+Resistive DC voltage drop
+Ohm's law can be used to determine the DC voltage drop by multiplying current times resistance: V = I R. Also, Kirchhoff's circuit laws state that in any DC circuit, the sum of the voltage drops across each component of the circuit is equal to the supply voltage.
+Consider a direct-current circuit with a nine-volt DC source; three resistors of 67 ohms, 100 ohms, and 470 ohms; and a light bulb—all connected in series. The DC source, the conductors (wires), the resistors, and the light bulb (the load) all have resistance; all use and dissipate supplied energy to some degree. Their physical characteristics determine how much energy. For example, the DC resistance of a conductor depends upon the conductor's length, cross-sectional area, type of material, and temperature.
+If the voltage between the DC source and the first resistor (67 ohms) is measured, the voltage potential at the first resistor will be slightly less than nine volts. The current passes through the conductor (wire) from the DC source to the first resistor; as this occurs, some of the supplied energy is "lost" (unavailable to the load), due to the resistance of the conductor. Voltage drop exists in both the supply and return wires of a circuit. If the voltage drop across each resistor is measured, the measurement will be a significant number. That represents the energy used by the resistor. The larger the resistor, the more energy used by that resistor, and the bigger the voltage drop across that resistor.
+
+Reactive AC voltage drop
+AC voltages additionally have a second kind of opposition to current flow: reactance. The sum of resistance and reactance is called impedance.
+Electrical impedance is commonly represented by the variable Z and measured in ohms at a specific frequency. Electrical impedance is computed as the vector sum of electrical resistance, capacitive reactance, and inductive reactance.
+The amount of impedance in an alternating-current circuit depends on the frequency of the alternating current and the magnetic permeability of electrical conductors and electrically isolated elements (including surrounding elements), which varies with their size and spacing.
+Analogous to Ohm's law for direct-current circuits, electrical impedance may be expressed by the formula E = I Z. So, the voltage drop in an AC circuit is the product of the current and the impedance of the circuit.
+
+Diode voltage drop
+P–n junctions in diodes and transistors experience a characteristic voltage drop when forward-biased (see Diode § Forward threshold voltage for various semiconductors for a list of values). The energy is dissipated through photons, which for the case of light-emitting diodes are emitted and visible.
+
+See also
+References
+
+Electrical Principles for the Electrical Trades (Jim Jennesson) 5th edition

@@ -1,0 +1,46 @@
+Primary juvenile glaucoma is a subtype of primary congenital glaucoma that develops due to ocular hypertension and is diagnosed between three years of age and early adulthood. It is caused due to abnormalities in the anterior chamber angle development that obstruct aqueous outflow in the absence of systemic anomalies or other ocular malformation.Juvenile glaucoma becomes clinically apparent after three years of age and before age 40, according to certain authors.   Infantile glaucoma presents between one month and three years, while true congenital glaucoma causes signs of increased intraocular pressure within the first month of life.  True congenital glaucoma, infantile glaucoma and juvenile glaucoma together constitute the primary congenital glaucomas.
+
+Presentation
+The typical infant who has congenital glaucoma usually is initially referred to an ophthalmologist because of apparent corneal edema. The commonly described triad of epiphora (excessive tearing), blepharospasm and photophobia may be missed until the corneal edema becomes apparent.
+
+Systemic associations
+Two of the more commonly encountered disorders that may be associated with congenital glaucoma are Aniridia and Sturge–Weber syndrome.
+
+Genetics
+Primary congenital glaucomas most commonly occur sporadically.  Juvenile open-angle glaucoma is typically an autosomal dominant, inherited condition.  A primary cause is myocilin protein dysfunction.  Myocilin gene mutations are identified in approximately 10% of patients affected by juvenile glaucoma.
+
+Diagnosis
+The diagnosis is clinical. The intraocular pressure (IOP) can be measured in the office in a conscious swaddled infant using a Tonopen or hand-held Goldmann tonometer. Usually, the IOP in normal infants is in the range of 11-14 mmHg. Buphthalmos and Haab's striae can often be seen in case of congenital glaucoma.
+
+Differential diagnosis
+Corneal cloudiness may have myriad of causes. Corneal opacity that results from hereditary dystrophies is usually symmetric.
+Corneal enlargement may result from megalocornea, a condition in which the diameter of the cornea is larger than usual and the eye is otherwise normal.
+
+Treatment
+The preferred treatment of congenital glaucoma is surgical, not medical. The initial procedures of choice are goniotomy or trabeculotomy if the cornea is clear, and trabeculectomy ab externo if the cornea is hazy. The success rates are similar for both procedures in patients with clear corneas. Trabeculectomy and shunt procedures should be reserved for those cases in which goniotomy or trabeculotomy has failed. Cyclophotocoagulation is necessary in some intractable cases but should be avoided whenever possible because of its potential adverse
+effects on the lens and the retina.
+
+Epidemiology
+In the United States, the incidence of primary congenital glaucoma is about one in 10,000 live births. Worldwide, the incidence ranges from a low of 1:22,000 in Northern Ireland to a high of 1:2,500 in Saudi Arabia and 1:1,250 in Romania. In about two-thirds of cases, it is bilateral. The distribution between males and females varies with geography. In North America and Europe, it is more common in boys, whereas in Japan it is more common in girls.
+Congenital glaucomaIncidence: one in every 10000-15000 live births.
+Bilateral in up to 80% of cases.
+Most cases are sporadic (90%). However, in the remaining 10% there appears to be a strong familial component.
+
+See also
+Axenfeld syndrome
+Peters-plus syndrome
+Weill–Marchesani syndrome
+
+References
+Further reading
+Lively GD, Alward, WL, Fingert JH. Juvenile open-angle glaucoma: 22-year-old Caucasian female referred in 1990 for evaluation of elevated intraocular pressure (IOP). EyeRounds.org. September 17, 2008.
+
+External links
+231300
+137750; MYOC
+137750; CYP1B1
+Juvenile Glaucoma at eMedicine on eMedicine
+Glaucoma for Children on AAPOS.
+Congenital Primary Glaucoma on patient.info
+GeneReview/NCBI/NIH/UW entry on Primary Congenital Glaucoma
+Glaucoma entry on PGCFA

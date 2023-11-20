@@ -1,4 +1,5 @@
 from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 from logger import log
 import os
@@ -26,14 +27,17 @@ def readFile(filepath: str) -> str:
 
     return text
 
-# perform the stopwords elimination
-def deleteStopwords(article: str) -> str:
-    return [word.lower() for word in article.split() if word.lower() not in stoplist]
-
 def removeNonAlphanumeric(article: str) -> str:
     # whenever a non alphanumeric character is found, replace it with a space
     # exception: apostrophes and spaces
     return re.sub(r'[^a-zA-Z0-9\s\']', ' ', article)
+
+# perform the stopwords elimination
+def deleteStopwords(article: str) -> str:
+    return [word.lower() for word in article if word.lower() not in stoplist]
+
+def performTokenization(text: str) -> list:
+    return word_tokenize(text)
 
 # perform the lemmatization of the article
 def lemmatizeArticle(article: list) -> list:
@@ -58,7 +62,9 @@ def calculateDocFrequency(occurrencesDict: dict) -> dict:
 
 def performPreProcessing(article: str) -> list:
     # remove non alphanumeric 
-    text = removeNonAlphanumeric(article)
+    #text = removeNonAlphanumeric(article)
+    # 
+    text = performTokenization(article)
     # perform the stopwords elimination
     text = deleteStopwords(text)
     # perform lemmatization

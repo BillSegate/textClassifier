@@ -1,0 +1,11 @@
+The 2021 Air India cyberattack was a cyberattack that affected more than 4.5 million customers of Air India airlines.
+
+Cyberattack
+On 21 May 2021, it was reported that Air India was subjected to a cyberattack whereas the personal details of about 4.5 million customers around the world were compromised including passport, credit card details, birth dates, name and ticket information.Air India's data processor, SITA which is a Swiss technology company known for offering passenger processing and reservation system services reported the data breach to Air India in around February 2021. The data breach involved all information which was registered in the SITA data processor between 26 August 2011 and 20 February 2021. It was also revealed that the cyberattackers gained access to the systems for a period of 22 days.It was reported that the compromised servers by the hackers were later secured and Air India took steps by engaging external data security specialists. Air India also guaranteed its passengers that there was no conclusive evidence on whether any misuse of the personal data has been reported. The airlines also urged and encouraged the passengers to immediately change their passwords.
+
+References
+See also
+EasyJet hack
+2018 British Airways cyberattack
+List of security hacking incidents
+List of data breaches

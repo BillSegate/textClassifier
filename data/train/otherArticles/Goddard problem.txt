@@ -1,4 +1,0 @@
-In rocketry, the Goddard problem is to optimize the peak altitude of a rocket, ascending vertically, and taking into account atmospheric drag and the gravitational field. This was first posed by Robert H. Goddard in his 1919 publication, "A Method of Reaching Extreme Altitudes".
-
-
-== References ==

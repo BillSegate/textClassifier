@@ -1,7 +1,0 @@
-The Tool for Influenza Pandemic Risk Assessment (TIPRA), is a tool developed by the World Health Organization’s Global Influenza Program. It was created with the purpose to obtain and improved approach to support the risk assessment of influenza viruses with potential to result in pandemics. TIPRA was modelled after the Influenza Risk Assessment Tool (IRAT), an evaluation tool developed by the U.S. Centers for Disease Control and Prevention.
-
-See also
-Global Influenza Surveillance and Response System
-
-
-== References ==

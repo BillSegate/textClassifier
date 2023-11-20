@@ -1,8 +1,0 @@
-Endoluminal capsule monitoring is a non-invasive medical diagnostic procedure which uses a miniaturized wireless radio transmitter embedded into an ingestible water-tight capsule. The patient ingests the capsule and while it transits through the gastrointestinal system, it sends signals to the outside, which are captured by a radio receiver, processed, displayed and stored in a computer. 
-According to the type or type(s) of biomedical sensors which are built into the capsule, several physiological parameters can be measured and transmitted by the capsule:
-
-intraluminal pH in the esophagus, stomach and duodenum
-intestinal motility
-intraluminal pressure
-OtherModern capsules, called video pills or endoscopic capsules can also transmit endoscopic images from a miniature video camera.
-The system is normally used for research purposes or for diagnosing long term changes in gastrointestinal physiological parameters. The capsule is recovered in the feces, sterilized and can be used again.

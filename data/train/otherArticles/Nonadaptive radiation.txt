@@ -1,0 +1,9 @@
+Nonadaptive radiations are a subset of evolutionary radiations (or species flocks) that are characterized by diversification that is not driven by resource partitioning. The species that are a part of a nonadaptive radiation will tend to have very similar niches, and in many (though not all) cases will be morphologically similar. Nonadaptive radiations are driven by nonecological speciation. In many cases, this nonecological speciation is allopatric, and the organisms are dispersal-limited such that populations can be geographically isolated within a landscape with relatively similar ecological conditions.  For example, Albinaria land snails on islands in the Mediterranean and Batrachoseps salamanders from California each include relatively dispersal-limited, and closely related, ecologically similar species often have minimal range overlap, a pattern consistent with allopatric, nonecological speciation. In other cases, such as certain damselflies and crickets from Hawaii, there can be range overlap in closely related species, and it is likely that sexual selection (and species recognition) plays a role in maintaining (and perhaps giving rise to) species boundaries.
+
+See also
+Adaptive radiation
+Species complex
+Ecological speciation
+
+
+== References ==

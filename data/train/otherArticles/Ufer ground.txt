@@ -1,0 +1,20 @@
+The Ufer ground is an electrical earth grounding method developed during World War II. It uses a concrete-encased electrode to improve grounding in dry areas.  The technique is used in construction of concrete foundations.
+
+History
+During World War II, the U.S. Army required a grounding system for bomb storage vaults near Tucson and Flagstaff, Arizona. Conventional grounding systems did not work well in this location since the desert terrain had no water table and very little rainfall. The extremely dry soil conditions would have required hundreds of feet of rods to be driven into the earth to create a low impedance ground to protect the buildings from lightning strikes.
+In 1942, Herbert G. Ufer was a consultant working for the U.S. Army. Ufer was given the task of finding a lower cost and more practical alternative to traditional copper rod grounds for these dry locations. Ufer discovered that concrete had better conductivity than most types of soil. Ufer then developed a grounding scheme based on encasing the grounding conductors in concrete. This method proved to be very effective, and was implemented throughout the Arizona test site.
+After the war, Ufer continued to test his grounding method, and his results were published in a paper presented at the IEEE Western Appliance Technical Conference in 1963. The use of concrete enclosed grounding conductors was added to the U.S. National Electrical Code (NEC) in 1968. It was not required to be used if a water pipe or other grounding electrode was present. In 1978, the NEC allowed 1/2 inch rebar to be used as a grounding electrode [NEC 250.52(A)(3)]. The NEC refers to this type of ground as a "Concrete Encased Electrode" (CEE) instead of using the name Ufer ground.
+Over the years, the term "Ufer ground" has become synonymous with the use of any type of concrete enclosed grounding conductor, whether it conforms to Ufer's original grounding scheme or not.
+
+Construction
+Concrete is naturally basic (has high pH). Ufer observed this meant that it had a ready supply of ions and so provides a better electrical ground than almost any type of soil. Ufer also found that the soil around the concrete became "doped", and its subsequent rise in pH caused the overall impedance of the soil itself to be reduced. The concrete enclosure also increases the surface area of the connection between the grounding conductor and the surrounding soil, which also helps to reduce the overall impedance of the connection.
+Ufer's original grounding scheme used copper encased in concrete. However, the high pH of concrete often causes the copper to chip and flake. For this reason, steel is often used instead of copper.
+When homes are built on concrete slabs, it is common practice to bring one end of the rebar up out of the concrete at a convenient location to make an easy connection point for the grounding electrode.Ufer grounds, when present, are preferred over the use of grounding rods. In some areas (like Des Moines, Iowa) Ufer grounds are required for all residential and commercial buildings. The conductivity of the soil usually determines if Ufer grounds are required in any particular area.
+An Ufer ground of specified minimum dimensions is recognized by the U.S. National Electrical Code as a grounding electrode. The grounding conductors must have sufficient cover by the concrete to prevent damage when dissipating high-current lightning strikes.A disadvantage of Ufer grounds is that the moisture in the concrete can flash into steam during a lightning strike or similar high energy fault condition. This can crack the surrounding concrete and damage the building foundation.
+
+External links
+"The Ufer Ground". 1995. Archived from the original on 2022-03-04. Retrieved September 13, 2022.
+A new look at the Ufer ground system
+
+
+== References ==

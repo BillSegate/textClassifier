@@ -1,8 +1,0 @@
-The Japanese Adverse Drug Event Report (JADER) database is a spontaneous reporting system of drug adverse events which is managed by the Pharmaceuticals and Medical Devices Agency (PMDA) in Japan. It has been available since 2012.
-
-See also
-Pharmacovigilance
-FDA Adverse Event Reporting System (FAERS)
-
-
-== References ==

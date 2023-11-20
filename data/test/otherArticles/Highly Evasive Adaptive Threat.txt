@@ -1,0 +1,18 @@
+A Highly Evasive Adaptive Threat (HEAT) is a cybersecurity attack type designed to bypass traditional network security defenses.:.  HEAT attacks are designed to find ways around protections that have been in place for years.   HEAT attacks are able to bypass typical cybersecurity controls like Secure Web Gateways (SWG) and anti-malware capabilities through malicious links disguised as common URLs that victims assume to be safe. HEAT attacks go beyond traditional phishing methods, which have historically been launched by way of email, by inserting themselves into links that are not flagged by anti-phishing software.   Similar to most cybersecurity threats, the drivers of HEAT attacks are primarily monetary and political.  HEAT attacks focus on technical limitations of commonly deployed security tools with the primary target being web browsers.  Nation-states and cybercriminals typically use HEAT attacks for phishing attempts or ransomware initial access.Highly Adaptive Evasive Threats (HEAT) require adaptive threat analysis technology to catch threats missed by other approaches.
+
+Definition
+HEAT attacks demonstrate four primary characteristics
+Evades offline categorization and threat detection  - HEAT attacks bypass URL filtering by using ephemeral and/or compromised malicious sites with benign categorization.
+Evades malicious link analysis  - HEAT attacks bypass Email Security Tools by expanding from email phishing links to other sources such as web, social media, sms, and file sharing platforms.
+Evades static and dynamic content inspection  - HEAT attacks bypass file based inspection by using dynamic file downloads (ie. HTML smuggling).
+Evades HTTP traffic inspection  - HEAT attacks bypass HTTP Content/Page Inspection by using dynamically generated and/or obfuscated content (javascript code and images).
+
+History and Notable HEAT Attacks
+Though some of the techniques used in HEAT attacks have been in the industry for several years, the increasing trends towards remote work, increasing use of SaaS and browser based applications, and ransomware attacks have accelerated adoption of HEAT techniques by attackers.  
+
+DURI  - the DURI HEAT attack was discovered in 2020.  Duri's payload was malware that had been previously detected.  However the delivery method evolved to use a HEAT attack technique,  HTML smuggling, to increase its infection rate of targeted endpoints :.
+Qakbot  - Qakbot is a banking trojan that has been in use since at least 2007.  Qakbot is actively maintained and recent modifications include the use of HEAT attacks such as password protected zip files.
+Nobelium  - Nobelium malware is typically used in attacks focused on financial services and other highly targeted victims.  The smuggling technique encoded a script within a web page or HTML attachment.  The user's web browser decodes the script which subsequently creates the malware payload on the host computer.  :.
+
+
+== References ==

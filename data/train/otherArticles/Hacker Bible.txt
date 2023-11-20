@@ -1,0 +1,15 @@
+The Hacker Bible is a publication of the German hacker organization Chaos Computer Club (CCC). It has been published in two editions to date, 1985 and 1988. Both were edited by Wau Holland and published on the Grüne Kraft press.
+
+Information
+The Hacker Bible is a compendium of documents and stories from the hacker scene, for example the instruction guide to the acoustic coupler named “Data-loo”(Germ.:Datenklo). Furthermore, it offers manuals and other technical explanations. The first edition appeared in 1985 with the subtitle “Cable salad is good for you" ("Kabelsalat ist gesund”) and had sold 25,000 copies by mid-1988. The second edition in 1988 was given the additional name “The New Testament”.The comic images on the cover sleeve are a creation of German comic artists Mali Beinhorn and Werner Büsch from the comic workshop Büsch-Beinhorn. The production and distribution of the Hacker Bible was discontinued by 1990. Since 1999, the CCC has offered a scanned and full-text version online (in German) with further materials such as texts from Peter Glaser, a documentation on Karl Koch and works from Tron from the Chaos-CD.
+
+Bibliography
+Holland, Wau (1985), Die Hackerbibel – "Kabelsalat ist gesund", Werner Pieper, ISBN 3922708986.
+Holland, Wau (1985), Die Hackerbibel – "Das neue Testament", Werner Pieper, ISBN 3925817247.
+
+References
+External links
+Hackerbibel Archive 1
+Hackerbibel Archive 2
+Hacking Technology
+Ethical Hacking

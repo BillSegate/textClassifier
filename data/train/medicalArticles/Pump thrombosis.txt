@@ -1,0 +1,52 @@
+Pump thrombosis (PT) is considered a specific case of a major device malfunction, and is classified as either suspected or confirmed pump thrombus. Typically, the device is an implanted blood pump such as a Left ventricular assist device. The malfunction is a blockage in the flow of blood anywhere along a vessel (upstream or downstream) and it is mainly due to the bio-incompatible presence of a fairly complex mechanical apparatus. Pump thrombus is dreaded complication of CF LVAD technology  that can require repeat surgery to replace the pump or lead to death.In suspected pump thrombus, the clinical patient condition or pump parameters suggest thrombus on any of the blood-contacting surfaces of the pump (inflow cannula, pump itself, or outflow graft).
+Confirmed pump thrombus is done by visual inspection (during device exchange, transplantation, autopsy), irrefutable radiographic evidence, or absence of Doppler inflow or outflow signals.
+
+Introduction
+Not all ventricular assist devices (VADs) are fully biocompatible, thus device thrombosis has always been a significant complication. Older generation pulsatile VADs were relatively large and it was practically impossible to thrombose the entire pump and cause hemodynamic consequences.Instead, any thrombus created in the pump could be dislodged, possibly resulting in an embolic stroke. In contrast, the newer continuous flow left ventricular assist devices (CF LVAD) are much smaller and have smaller gaps between the various components of the pump. These characteristics predispose CF LVAD to thrombosis of the entire pump where the clot stays in the device, leading to increased hemolysis and device dysfunction.Thrombosis of CF LVADSs can occur as a result of various factors, which can be divided into three categories: the pump, the patient, and the clinician. Management protocols for VADs are usually institution-dependent and there is a large variability in clinician-related factors. A decrease in anticoagulation thresholds  has been postulated to have resulted in an increase in CF LVAD thrombosis.A complex balance exists between over-anticoagulation and under-anticoagulation, in a patient population where the coagulation system response to the CF LVAD device varies greatly between individuals. Common adverse events precipitated by over-anticoagulation include bleeding problems such as gastrointestinal bleeding and intracranial hemorrhage, while common complications due to under-anticoagulation include hemolysis, pump thrombosis and ischemic/embolic strokes.
+Unfortunately, robust and individually-tailored anticoagulation therapy protocols do not exist in most institutions, which usually utilize a “one size fits all” approach. One anticoagulation protocol example targets the therapeutic window of coumadin of an International Normalized Ratio (INR) goal of 2-3 and full-dose aspirin for antiplatelet activity. In the complex dynamics of the interaction of patients’ systems, there is no completely safe zone between thrombosis or bleeding, or both.
+
+Definition
+Pump thrombosis is defined as a specific case of a major device malfunction. In turn, device malfunction is as defined by Interagency Registry for Mechanically Assisted Circulatory Support (INTERMACS) as a failure of one or more of the components of the mechanical circulatory support systems which either directly causes or could potentially induce a state of inadequate circulatory support (low cardiac output state) or death. A failure that was iatrogenic or recipient-induced will be classified as an Iatrogenic/Recipient-Induced failure.
+Device failure should be classified according to which component fails as follows:
+1. Pump failure (blood containing components of pump and any motor or other pump actuating mechanism that is housed with the blood contacting components). In the special situation of pump thrombosis, thrombus is documented to be present within the device or its conduits that result in or could potentially induce circulatory failure.
+2. Non-pump failure (e.g., external pneumatic device unit, electric power supply unit, batteries, controller, interconnect cable, compliance chamber).
+
+Problems
+The FDA is aware of serious adverse events associated with LVADs. It has received reports and information from a variety of sources indicating an increase in the rate of pump thrombosis events in patients implanted with LVADs. Information also shows that patients are experiencing pump thrombosis events earlier than observed during the clinical trials conducted to support product approvals in 2008 Bridge To Transplant (BTT) and 2010 Destination Therapy (DT).Two analyses in scientific literature reported the confirmed (after explant) pump thrombosis rate as high as 8.4% of implanted devices at 3 months (Starling et al, 2013) and 6% of implanted devices at 6 months (Kirklin et al, 2014). This is compared to 1.6% of implanted devices at one year during the BTT clinical trial and 3.8% of implanted devices at 2 years during the DT clinical trial.
+
+Cause
+The cause for PT are classified as either pump-related, patient-related, or management-related. But of particular concern is the emergence in some reports of HIT syndrome as an etiologic factor in some cases of PT.
+
+Pump related
+Inherent to the technology itself. Examples: Heat generated by pump rotor; Outflow graft kink.
+
+Patient Related
+Individual conditions that render patient more likely to have thrombotic complications. Examples: Atrial fibrillation; Infection.
+
+Management Related
+1. Implantation technique. Example: Inflow cannula malposition.
+2. Inadequate anticoagulation. Examples: No heparin bridging; subtherapeutic INR.
+3. Low pump flow due to low speed setting to manage AI, GIB or assess/induce recovery.
+
+Diagnosis
+Criteria should include the presence of hemolysis, presence of heart failure not explained by structural disease, and/or abnormal pump parameters. Imaging and functional studies (ramp) can confirm diagnosis. Elevated lactate dehydrogenase (LDH) levels.
+
+Management
+No standardized protocol exist regarding the management of LVAD pump thrombosis.No standardized protocol exist regarding therapy of pump thrombosis.
+
+Prevention
+The complication itself, its prevention, or its treatment may lead to PT. Prevention of GI bleeding in VAD patients often includes keeping pump speeds lower to potentially minimize the proliferation of AV malformations.
+In addition, bleeding, once it occurs, is managed at least temporarily by a halting or decrease in AC. Efforts to decrease the development of AI in LVAD patients include keeping pump speeds on the lower side as well.
+Right ventricular dysfunction, particularly in the early postoperative period, is likewise managed with lower pump speeds. Finally, infections and sepsis are known to be associated with a more hypercoagulable state in VAD patients. In the end, the occurrence of any of these complications may thus prove to be a surrogate for a higher risk of PT.
+While the issue of biocompatibility is always be at the forefront of critical issues of new pumps, the field of mechanical circulatory support is first focusing on adopting a standardized approach to this therapy so that valid analyses and comparisons can be made.
+
+History
+Beginning in 2011, centers and collaborative groups began to observe a significant increase in the
+incidence of pump thrombosis, which led to pump modifications and the appreciation of more strict control of blood pressure and anticoagulation with this pump design.The unexpected abrupt increase in LVAD thrombosis was accompanied by elevated lactate dehydrogenase (LDH) levels with outcomes of different management strategies in a multi-institutional study.,, Elevation of lactate dehydrogenase during the first month offers an opportunity for early intervention strategies.Starting in approximately March 2011, the occurrence of confirmed pump thrombosis at 3 months after implantation increased from 2.2% to 8.4% by January 1, 2013.Before March 1, 2011, the median time from implantation to thrombosis was 18.6 months, and from March 2011 onward, it was 2.7 months. The occurrence of elevated LDH levels within 3 months after implantation mirrored that of thrombosis. Thrombosis was presaged by LDH levels that more than doubled, from 540 IU per liter to 1490 IU per liter, within the weeks before diagnosis.
+While starting in 2011 device failures due to clots forming inside the pumps appeared to rise dramatically, there is some indication that these failures may now be declining, but data analysis and interpretation are complex.>
+
+Research
+Computational fluid dynamics (CFD) is an invaluable tool in the development of VADs, enabling new designs to be tested rapidly and undesirable flow characteristics eliminated in successive versions before prototypes are manufactured. CFD is used for predicting pressure-flow characteristics and efficiency curves, revealing the detailed flow field to help eliminate regions of recirculation or stagnation and for calculating fluid dynamic forces. When combined with models of blood damage CFD has been used for predicting haemolysis and platelet activation by VADs. When combined with shape optimization algorithms it can be used in design optimization.
+
+
+== References ==

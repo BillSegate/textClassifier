@@ -1,0 +1,26 @@
+Migration, in ecology, is the large-scale movement of members of a species to a different environment. Migration is a natural behavior and component of the life cycle of many species of mobile organisms, not limited to animals, though animal migration is the best known type. Migration is often cyclical, frequently occurring on a seasonal basis, and in some cases on a daily basis. Species migrate to take advantage of more favorable conditions with respect to food availability, safety from predation, mating opportunity, or other environmental factors.Migration is most commonly seen as animal migration, the physical movement by animals from one area to another. That includes bird, fish, and insect migration. However, plants can be said to migrate, as seed dispersal enables plants to grow in new areas, under environmental constraints such as temperature and rainfall, resulting in changes such as forest migration.
+
+Mechanisms
+While members of some species learn a migratory route on their first journey with older members of their group, other species genetically pass on information regarding their migratory paths.: 71–72  Despite many differences in organisms’ migratory cues and behaviors, “considerable similarities appear to exist in the cues involved in the different phases of migration.”: 84  Migratory organisms use environmental cues like photoperiod and weather conditions as well as internal cues like hormone levels to determine when it is time to begin a migration. Migratory species use senses such as magnetoreception or olfaction to orient themselves or navigate their route, respectively.: 69–70
+
+Factors
+The factors that determine migration methods are variable due to the inconsistency of major seasonal changes and events. When an organism migrates from one location to another, its energy use and rate of migration are directly related to each other and to the safety of the organism. If an ecological barrier presents itself along a migrant's route, the migrant can either choose to use its energy to cross the barrier directly or use it to move around the barrier. If an organism is migrating to a place where there is high competition for food or habitat, its rate of migration should be higher. This indirectly helps determine an organism's fitness by increasing the likelihood of its survival and reproductive success.: 38–41
+
+Taxonomic distribution
+In animals
+Animal migration is the relatively long-distance movement of individual animals, usually on a seasonal basis. It is the most common form of migration in ecology. It is found in all major animal groups, including birds, mammals, fish, reptiles, amphibians, insects, and crustaceans. The cause of migration may be local climate, local availability of food, the season of the year or for mating.
+To be counted as a true migration, and not just a local dispersal or irruption, the movement of the animals should be an annual or seasonal occurrence, or a major habitat change as part of their life. An annual event could include Northern Hemisphere birds migrating south for the winter, or wildebeest migrating annually for seasonal grazing. A major habitat change could include young Atlantic salmon or sea lamprey leaving the river of their birth when they have reached a few inches in size. Some traditional forms of human migration fit this pattern.
+Migrations can be studied using traditional identification tags such as bird rings, or tracked directly with electronic tracking devices. Before animal migration was understood, folklore explanations were formulated for the appearance and disappearance of some species, such as that barnacle geese grew from goose barnacles.
+
+In plants
+Plants can be said to migrate, as seed dispersal enables plants to grow in new areas, under environmental constraints such as temperature and rainfall. When those constraints change, the border of a plant species's distribution may move, so the plant may be said to migrate, as for example in forest migration.
+
+Effects
+A species migrating to a new community can affect the outcome of local competitive interactions. A species that migrates to a new community can cause a top-down effect within the community. If the migratory species is abundant in the new community, it can become a main prey for a resident predator, leaving other resident species as only an alternate prey. This new source of food (migrants) can increase the predatory species’ population size, impacting population sizes of its other prey when the migratory species return to their original location.: 136  If a resident species experiences a scarcity of food due to seasonal variation, the species can decrease in population, creating an opportunity for a new species to migrate to that location as the decrease in the population of the resident species leaves an abundance of food.: 135  Migratory species can also transport diseases long-distance from their original habitat.: 137
+
+See also
+Great American Interchange, an event in which fauna migrated between North America and South America once the continents were bridged by the Isthmus of Panama
+Human migration, physical movement by humans from one area to another
+
+
+== References ==

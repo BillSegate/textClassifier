@@ -1,0 +1,11 @@
+SCP-ECG, which stands for Standard communications protocol for computer assisted electrocardiography, is a standard for ECG traces, annotations, and metadata, that specifies the interchange format and a messaging procedure for ECG cart-to-host communication and for retrieval of SCP-ECG records from the host to the ECG cart.   It is defined in the joint ANSI/AAMI standard EC71:2001  and in the CEN standard EN 1064:2005.
+
+History
+The SCP Standard was first developed between 1989 and 1991 during a European AIM R&D project.
+
+Other ECG data formats
+DICOM, HL7 aECG, MFER (ISO 22077)
+
+References
+External links
+OpenECG Software Tools Repository (WebArchive) — The OpenECG Group supports SCP-ECG by providing and supporting open source implementations and consistent application of the standard.

@@ -1,0 +1,22 @@
+Cowrie is a medium interaction SSH and Telnet honeypot designed to log brute force attacks and shell interaction performed by an attacker. Cowrie also functions as an SSH and telnet proxy to observe attacker behavior to another system. Cowrie was developed from Kippo.
+
+Reception
+Cowrie has been referenced in published papers. The Book "Hands-On Ethical Hacking and Network Defense" includes Cowrie in a list of 5 commercial honeypots.
+
+Prior uses
+Discussing a honeypot effort called the Project Heisenberg Cloud by Rapid7, Bob Rudis, the company's chief data scientist, told eWEEK, "There are custom Rapid7-developed low- and medium-interaction honeypots used within the framework, along with open-source ones, such as Cowrie."
+Doug Rickert has experimented with the open-source Cowrie SSH honeypot and wrote about it on Medium. Putting up a simple honeypot isn't difficult, and there are many open-source products besides Cowrie, including the original Honeyd to MongoDB and NoSQL honeypots, to ones that emulate web servers. Some appear to be SCADA or other more advanced applications.
+
+Best practices
+Researchers at the SysAdmin, Audit, Network and Security (SANS) institute urged administrators and security researchers to run the latest version of Cowrie on a honeypot to monitor shifts in the type of passwords being scanned for and pattern of attacks on IoT devices.
+
+Discussion and further resources
+Attack Detection and Forensics Using Honeypot in an IoT Environment calls Cowrie a "medium interaction honeypot" and describes results from using it for 40 days to capture "all communicated sessions in log files."
+The book Advances on Data Science also devotes chapter two to "Cowrie Honeypot Dataset and Logging."
+ICCWS 2018 13th International Conference on Cyber Warfare and Security describes using Cowrie.
+On the Move to Meaningful Internet Systems: OTM 2019 Conferences includes details of using Cowrie.
+Splunk, a security tool that can receive information from honeypots, outlines how to set up a honeypot using the open-source Cowrie package.
+
+References
+External links
+Official website

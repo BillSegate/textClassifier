@@ -1,0 +1,24 @@
+Western Aphasia Battery (WAB) is an instrument for assessing the language function of adults with suspected neurological disorders as a result of a stroke, head injury, or dementia. There is an updated version, the Western Aphasia Battery-Revised (WAB-R). It helps discern the presence, degree, and type of aphasia. It also measures how the patient performed on the test to provide a baseline so they can detect changes throughout their time in therapy. This also allows to see the patient's language strengths and weaknesses so that they can figure out what to treat, and lastly, it can infer the location of the lesion that caused aphasia. Another such test is the Boston Diagnostic Aphasia Examination. The WAB targets English speaking adults and teens with a neurological disorder between the ages of 18 and 89 years old. The WAB tests both linguistic and non linguistic skills. The linguistic skills assessed include, speech, fluency, auditory comprehension, reading and writing. The non-linguistic skills tested include drawing, calculation, block design and apraxia.
+The aphasia quotient (AQ) is the summary score that indicates overall severity of language impairment. The WAB–R, a full battery of 8 subtests (32 short tasks), maintains the structure and overall content and clinical value of the current measure while creating these improvements:
+Two new supplementary tasks (reading and writing of irregular and non-words) will aid the clinician in distinguishing between surface, deep (phonological), and visual dyslexia.
+Revision of approximately 15 items
+Bedside WAB–R – provides a quick look at patient's functioning
+Examiner's manual with technical/psychometric properties information, test interpretation relevant to aphasic populations, historical evidence of reliability and validity, and information about the unique aspects of assessing the language ability of individuals with dementia
+Spiral-bound stimulus book replacing loose stimulus cards
+Revised administration directions – more user-friendly with directions to the examinee for all subtests
+Expanded scoring guidelines for clarity
+It helps classification of aphasia into different types.
+
+Scoring
+Criterion cut scores:
+
+Aphasia Quotient
+Cortical Quotient
+Auditory Comprehension Quotient
+Oral Expression Quotient
+Reading Quotient
+Writing Quotient
+Bedside WAB–R scoresThe Western Aphasia Battery (Shewan & Kertesz, 1980) was designed to provide a means of evaluating the major clinical aspects of language function: content, fluency, auditory comprehension, repetition and naming plus reading, writing and calculation. In addition to the nonverbal skills of drawing, block design and praxis are evaluated and Raven's Colored Progressive Matrices test is usually administered as well. The scoring provides two main totals, in addition to the subscale scores. These are the Aphasia Quotient (AQ) score and Cortical Quotient (CQ) score. AQ can essentially be thought of as a measure of language ability, whilst CQ is a more general measure of intellectual ability and includes all the subscales. Administration of the WAB yields a total score termed the Aphasia Quotient (AQ), which is said to reflect the severity of the spoken language deficit in aphasia. This score is a weighted composite of performance on 10 separate WAB subtests. Scores rate severity as follows: 0-25 is very severe, 26-50 is severe, 51-75 is moderate, and 76–above is mild.The Western Aphasia Battery has high validity and reliability.  These measures include high test-retest reliability, inter and intra-judge reliability, face and content validity, and construct validity. High scores correlate with good functional communication skills in stroke patients with aphasia.
+
+
+== References ==

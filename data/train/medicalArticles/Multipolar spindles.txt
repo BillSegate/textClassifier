@@ -1,0 +1,13 @@
+Multipolar spindles are spindle formations characteristic of cancer cells. Spindle formation is mostly conducted by the aster of the centrosome which it forms around itself. In a mitotic cell wherever two asters convene the formation of a spindle occurs.
+Mitosis  consists of two independent processes: the intra-chromosomal and the extra-chromosomal (formation of spindle) changes both of these being in total coordination of each other. In cancer cells, it has been observed that the formation of the spindles comes before when compared to the chromosomes.  Because the prophase stage is brief, metaphase begins earlier than in normal cells. Chromosomes unable to reach the metaphase plate are stranded behind.  These chromosomes still have asters attached to them and when met with other asters, form multiple spindles.
+
+Characteristics
+Cells with multipolar spindles are characterized by more than two centrosomes, usually four, and sometimes have a second metaphase plate. The multiple centrosomes segregate to opposite ends of the cell and the spindles attach to the chromosomes haphazardly. When anaphase occurs in these cells, the chromosomes are separated abnormally and results in aneuploidy of both daughter cells. This can lead to loss of cell viability and chromosomal instability.
+
+Presence in cancer cells
+The presence of multipolar spindles in cancer cells is one of many differences from normal cells which can be seen under a microscope. Cancer is defined by uncontrolled cell growth and malignant cells can undergo cell division with multipolar spindles because they can group multiple centrosomes  into two spindles. These multipolar spindles are often assembled early in mitosis and rarely seen towards the later stages.
+
+Research has shown possible causes of formation of multipolar spindles. A possible causes of multipolar spindle formation involve regulation of protein kinase family known as Aurora kinase. Aurora kinase has two forms which are designated Aurora kinase A and Aurora kinase B. These proteins play a key role in mitosis and are regulated by phosphorylation and degradation. Deregulation of these proteins can lead to multiple centrosome formation and aneuploidy. In some human cancers, the expression and kinase activity of Aurora kinases have been up-regulated and has been looked into as a possible target for anti-cancer drugs.
+
+
+== References ==

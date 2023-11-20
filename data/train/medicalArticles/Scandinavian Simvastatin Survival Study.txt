@@ -1,0 +1,26 @@
+The Scandinavian Simvastatin Survival Study (also known as the 4S study), was a multicentre, randomized, double-blind, placebo-controlled clinical trial, which provided the initial data that supported the use of the cholesterol-lowering drug, simvastatin, in people with a moderately raised cholesterol and coronary heart disease (CHD); that is people who had previously had a heart attack or angina. The study was sponsored by the pharmaceutical company Merck and enrolled 4,444 people from 94 centres in Scandinavia.Before the 4S study, it was not proven that lowering cholesterol could prolong life in people who had CHD. The study concluded that secondary prevention with simvastatin in a high risk group with CHD reduced overall mortality by 30%. Published in The Lancet in 1994, it is considered a "landmark paper".
+
+Objective
+The 4S multicentre, randomized, double-blind, placebo-controlled clinical trial enrolled 4,444 people chosen from 7,027 people who had been followed up for two months after being given dietary advice. The objective of the study was to assess the effect of a cholesterol-lowering drug called simvastatin on mortality and morbidity in people with a history of a previous heart attack or angina, who also had a moderately raised cholesterol; between 5.5 and 8.0 mmol/L.A second objective was to investigate whether the incidence of major coronary artery disease events (fatal and nonfatal myocardial infarction and sudden death) could be reduced with simvastatin.
+
+Study details
+The participants, all at high risk of death from CHD and death in general, were selected from 94 clinical centers in Denmark, Finland, Iceland, Norway, and Sweden from 1988 to 1989, and were aged between 35 and 70 years, with the average age being 59. Of the 4,444 people enrolled in the study, 3,617 were men and 827 women, 2,223 were randomly assigned a placebo and 2,221 were given 20 to 40 mg of simvastatin daily. The plan was to follow the participants for a minimum of three years or until such a time as total mortality reached 440 deaths. In practice, the study carried for a median period of 5.4 years.
+
+Results
+After 5.4 years, compared to the group that were given placebo, the simvastatin group demonstrated a 35% reduction in LDL-C and 30% reduction in overall mortality. The risk of hospital-verified non-fatal myocardial infarction reduced by 37% and fatal and non-fatal cerebrovascular events (stroke and TIA) lessened by 28%. 30 people would need to be treated with simvastatin to prevent one death; number needed to treat around 30. There were no extra deaths from other non-cardiac causes such as cancer or trauma. The trial also showed benefits in diabetes, women and older people.A follow-up of treatment with simvastatin for up to eight years was published in 2000. Ten years after the start of the 4S trial, a follow-up study published on 28 August 2004 in The Lancet, revealed that of those 2,221 people who continued to take simvastatin, there was a further reduction in number of deaths from CHD when compared to those who had switched from placebo to statin at the five year mark. The overall mortality also reduced by 15% at the 10 year mark.
+
+Conclusion
+The study concluded that secondary prevention with simvastatin in a high risk group with CHD reduced overall mortality by 30%. Non-fatal CHD events and fatal and non-fatal cerebrovascular events were reduced without an increase in risk of cancer.
+
+Response
+Published in The Lancet in 1994, the 4S trial, had an immediate influence on medical opinion, and is considered a "landmark paper". Several other large multicenter clinical trials followed, leading to widespread use of simvastatin.Data from the 4S trial has frequently been used to analyse the cost-effectiveness of simvastatin in secondary prevention.
+
+See also
+Heart Protection Study
+HDL-Atherosclerosis Treatment Study
+West of Scotland Coronary Prevention Study
+Pravastatin or atorvastatin evaluation and infection therapy - thrombolysis in myocardial infarction 22
+
+References
+Further reading
+Baigent C, Blackwell L, Emberson J, Holland LE, Reith C, Bhala N, Peto R, Barnes EH, Keech A, Simes J, Collins R (2010). "Efficacy and safety of more intensive lowering of LDL cholesterol: a meta-analysis of data from 170,000 participants in 26 randomised trials". Lancet. 376 (9753): 1670–81. doi:10.1016/S0140-6736(10)61350-5. PMC 2988224. PMID 21067804.{{cite journal}}:  CS1 maint: multiple names: authors list (link)

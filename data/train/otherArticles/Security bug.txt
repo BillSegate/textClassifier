@@ -1,0 +1,42 @@
+A security bug or security defect is a software bug that can be exploited to gain unauthorized access or privileges on a computer system. Security bugs introduce security vulnerabilities by compromising one or more of:
+
+Authentication of users and other entities
+Authorization of access rights and privileges
+Data confidentiality
+Data integritySecurity bugs do not need be identified nor exploited to be qualified as such and are assumed to be much more common than known vulnerabilities in almost any system.
+
+Causes
+Security bugs, like all other software bugs, stem from root causes that can generally be traced to either absent or inadequate:
+Software developer training
+Use case analysis
+Software engineering methodology
+Quality assurance testing
+and other best practices
+
+Taxonomy
+Security bugs generally fall into a fairly small number of broad categories that include:
+Memory safety (e.g. buffer overflow and dangling pointer bugs)
+Race condition
+Secure input and output handling
+Faulty use of an API
+Improper use case handling
+Improper exception handling
+Resource leaks, often but not always due to improper exception handling
+Preprocessing input strings before they are checked for being acceptable
+
+Mitigation
+See software security assurance.
+
+See also
+Computer security
+Hacking: The Art of Exploitation
+IT risk
+Threat (computer)
+Vulnerability (computing)
+Hardware bug
+Secure coding
+
+References
+Further reading
+Open Web Application Security Project (21 August 2015). "2013 Top 10 List".
+"CWE/SANS TOP 25 Most Dangerous Software Errors". SANS. Retrieved 13 July 2012.

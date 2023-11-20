@@ -1,0 +1,54 @@
+SCADA Strangelove is an independent group of information security researchers founded in 2012, focused on security assessment of industrial control systems (ICS) and SCADA.
+
+Activities
+Main fields of research include:
+
+Discovery of 0-day vulnerabilities in cyber physical systems and coordinated vulnerability disclosure;
+Security assessment of ICS protocols and development suites;
+Identification of publicly Internet-connected ICS components and secure it with help of proper authorities;
+Development of security hardening guides for ICS software;
+Mapping cybersecurity on to functional safety;
+Awareness control and delivery of information regarding the actual security state of ICS systems.SCADA Strangelove's interests expand further than classic ICS components and covers various embedded systems, however, and encompass smart home components, solar panels, wind turbines, SmartGrid as well as other areas.
+
+Projects
+Group members have and continue to develop and publish numerous open source tools for scanning, fingerprinting, security evaluation and password bruteforcing for ICS devices. These devices work over industrial protocols such as modbus, Siemens S7, MMS, ISO EC 60870, ProfiNet.In 2014 Shodan used some of the published tools for building a map of ICS devices which is publicly available on the Internet.Open source security assessment frameworks, such as THC Hydra, Metasploit, and DigitalBond Redpoint have used Shodan-developed tools and techniques.
+The group has published security-hardening guidelines for industrial solutions based on Siemens SIMATIC WinCC and WinCC Flexible. The guidelines contain detailed security configuration walk-throughs, descriptions of internal security features and appropriate best practices.
+Among the group’s more noticeable projects is Choo Choo PWN (CCP) also named the Critical Infrastructure Attack (CIA). This is an interactive laboratory built upon ICS software and hardware used in real world. Every system is connected to a toy city infrastructure, which includes factories, railroads and other facilities. The laboratory has been demonstrated at various conferences including PHDays, Power of Community, and 30C3.
+Primarily the laboratory is used for the discovery of new vulnerabilities and for evaluation of security mechanisms, however it is also used for workshops and other educational activities. At Positive Hack Days IV, contestants found several 0-day vulnerabilities in Indusoft Web Studio 7.1 by Schneider Electric, and in specific ICS hardware RTU PET-7000 during the ICS vulnerability discovery challenge.
+The group supports Secure Open SmartGrid (SCADASOS) project to find and fix vulnerabilities in intellectual power grid components such as photovoltaic power station, wind turbine, power inverter. More than 80 000 industrial devices were discovered and isolated from the Internet in 2015.
+
+Appearances
+Group members are frequently seen presenting at conferences like CCC , SCADA Security Scientific Symposium, Positive Hack Days.
+Most notable talks are:
+
+29C3
+An overview of vulnerabilities discovered in the widely distributed Siemens SIMATIC WinCC software and tools that are implemented for searching ICS on the Internet.
+
+PHDays
+This talk consisted of an overview of vulnerabilities discovered in various systems produced by ABB, Emerson, Honeywell and Siemens and was presented at PHDays III and PHDays IV.
+
+Confidence 2014
+Implications of security research aimed at realization of various industrial network protocols Profinet, Modbus, DNP3, IEC 61850-8-1 (MMS), IEC (International Electrotechnical Commission) 61870-5-101/104, FTE (Fault Tolerant Ethernet), Siemens S7.
+
+PacSec 2014
+Presentations of security research showing the impact of radio and 3G/4G networks on the security of mobile devices as well as on industrial equipment.
+
+31C3
+Analysis of security architecture and implementation of the most wide spread platforms for wind and solar energy generation which produce many gigawatts of it.
+
+32C3
+Cybersecurity assessment of railway signaling systems such as Automatic Train Control (ATC), Computer-based interlocking (CBI) and European Train Control System (ETCS).
+
+China Internet Security Conference 2016
+In "Greater China Cyber Threat Landscape" keynote by Sergey Gordeychik an overview of vulnerabilities, attacks and cyber-security incidents in Greater China region was presented.
+
+Recon 2017
+In talk "Hopeless: Relay Protection for Substation Automation" by Kirill Nesterov and Alexander Tlyapov security analysis results of key Digital Substation component -  Relay Protection Terminals was presented. Vulnerabilities, including remote code execution in Siemens SIPROTEC, General Electric Line Distance Relay, NARI and ABB protective relays was presented.
+
+Philosophy
+All names, catchwords and graphical elements refer to Stanley Kubrick’s film, Dr. Strangelove.  In their talks, group members often refer to Cold War events such as the Caribbean Crisis, and draw parallels between nuclear arms race and the current escalation of cyberwar.
+Group members follow the approach of “responsible disclosure” and “ready to wait for years, while vendor is patching the vulnerability”. Public exploits for discovered vulnerabilities are not published. This is on account of the longevity of ICS and by implication the long process of patching ICS.
+However, conflicts still happen, notably in 2012 when the talk at DEF CON was called off due to a dispute of persistent weaknesses in Siemens industrial software.
+
+
+== References ==

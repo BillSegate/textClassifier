@@ -1,0 +1,287 @@
+Oxygen cycle refers to the movement of oxygen through the atmosphere (air), biosphere (plants and animals) and the lithosphere (the Earth’s crust). The oxygen cycle demonstrates how free oxygen is made available in each of these regions, as well as how it is used. The oxygen cycle is the biogeochemical cycle of oxygen atoms between different oxidation states in ions, oxides, and molecules through redox reactions within and between the spheres/reservoirs of the planet Earth. The word oxygen in the literature typically refers to the most common oxygen allotrope, elemental/diatomic oxygen (O2), as it is a common product or reactant of many biogeochemical redox reactions within the cycle. Processes within the oxygen cycle are considered to be biological or geological and are evaluated as either a source (O2 production) or sink (O2 consumption).Oxygen is one of the most common elements on Earth and represents a large portion of each main reservoir. By far the largest reservoir of Earth's oxygen is within the silicate and oxide minerals of the crust and mantle (99.5% by weight). The Earth's atmosphere, hydrosphere, and biosphere together hold less than 0.05% of the Earth's total mass of oxygen. Besides O2, additional oxygen atoms are present in various forms spread throughout the surface reservoirs in the molecules of biomass, H2O, CO2, HNO3, NO, NO2, CO, H2O2, O3, SO2, H2SO4, MgO, CaO, Al2O3, SiO2, and PO4.
+
+Atmosphere
+The atmosphere is 21% oxygen by volume, which equates to a total of roughly 34 × 1018 mol of oxygen. Other oxygen-containing molecules in the atmosphere include ozone (O3), carbon dioxide (CO2), water vapor (H2O), and sulphur and nitrogen oxides (SO2, NO, N2O, etc.).
+
+Biosphere
+The biosphere is 22% oxygen by volume, present mainly as a component of organic molecules (CxHxNxOx) and water.
+
+Hydrosphere
+The hydrosphere is 33% oxygen by volume present mainly as a component of water molecules, with dissolved molecules including free oxygen and carbolic acids (HxCO3).
+
+Lithosphere
+The lithosphere is 46.6% oxygen by volume, present mainly as silica minerals (SiO2) and other oxide minerals.
+
+Sources and sinks
+While there are many abiotic sources and sinks for O2, the presence of the profuse concentration of free oxygen in modern Earth's atmosphere and ocean is attributed to O2 production from the biological process of oxygenic photosynthesis in conjunction with a biological sink known as the biological pump and a geologic process of carbon burial involving plate tectonics. Biology is the main driver of O2 flux on modern Earth, and the evolution of oxygenic photosynthesis by bacteria, which is discussed as part of the Great Oxygenation Event, is thought to be directly responsible for the conditions permitting the development and existence of all complex eukaryotic metabolism.
+
+Biological production
+The main source of atmospheric free oxygen is photosynthesis, which produces sugars and free oxygen from carbon dioxide and water:
+
+  
+    
+      
+        
+          6
+           
+          C
+          
+            O
+            
+              2
+            
+          
+          +
+          6
+          
+            H
+            
+              2
+            
+          
+          O
+          +
+          e
+          n
+          e
+          r
+          g
+          y
+          ⟶
+          
+            C
+            
+              6
+            
+          
+          
+            H
+            
+              12
+            
+          
+          
+            O
+            
+              6
+            
+          
+          +
+          6
+           
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {6\ CO_{2}+6H_{2}O+energy\longrightarrow C_{6}H_{12}O_{6}+6\ O_{2}} }
+  Photosynthesizing organisms include the plant life of the land areas, as well as the phytoplankton of the oceans. The tiny marine cyanobacterium Prochlorococcus was discovered in 1986 and accounts for up to half of the photosynthesis of the open oceans.
+
+Abiotic production
+An additional source of atmospheric free oxygen comes from photolysis, whereby high-energy ultraviolet radiation breaks down atmospheric water and nitrous oxide into component atoms. The free hydrogen and nitrogen atoms escape into space, leaving O2 in the atmosphere:   
+
+  
+    
+      
+        
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          O
+          +
+          e
+          n
+          e
+          r
+          g
+          y
+          ⟶
+          4
+           
+          H
+          +
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ H_{2}O+energy\longrightarrow 4\ H+O_{2}} }
+  
+
+  
+    
+      
+        
+          2
+           
+          
+            N
+            
+              2
+            
+          
+          O
+          +
+          e
+          n
+          e
+          r
+          g
+          y
+          ⟶
+          4
+           
+          N
+          +
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ N_{2}O+energy\longrightarrow 4\ N+O_{2}} }
+
+Biological consumption
+The main way free oxygen is lost from the atmosphere is via respiration and decay, mechanisms in which animal life and bacteria consume oxygen and release carbon dioxide.
+
+Capacities and fluxes
+The following tables offer estimates of oxygen cycle reservoir capacities and fluxes. 
+These numbers are based primarily on estimates from (Walker, J. C. G.): More recent research indicates that ocean life (marine primary production) is actually responsible for more than half the total oxygen production on Earth.
+Table 2: Annual gain and loss of atmospheric oxygen (Units of 1010 kg O2 per year)
+
+Ozone
+The presence of atmospheric oxygen has led to the formation of ozone (O3) and the ozone layer within the stratosphere:
+
+  
+    
+      
+        
+          
+            O
+            
+              2
+            
+          
+          +
+          u
+          v
+           
+          l
+          i
+          g
+          h
+          t
+          ⟶
+          2
+           
+          O
+        
+        
+        (
+        λ
+        ≲
+        200
+         
+        
+          nm
+        
+        )
+      
+    
+    {\displaystyle \mathrm {O_{2}+uv~light\longrightarrow 2~O} \qquad (\lambda \lesssim 200~{\text{nm}})}
+  
+
+  
+    
+      
+        
+          O
+          +
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {O+O_{2}\longrightarrow O_{3}} }
+  
+O + O2 :- O3The ozone layer is extremely important to modern life as it absorbs harmful ultraviolet radiation:
+
+  
+    
+      
+        
+          
+            O
+            
+              3
+            
+          
+          +
+          u
+          v
+           
+          l
+          i
+          g
+          h
+          t
+          ⟶
+          
+            O
+            
+              2
+            
+          
+          +
+          O
+        
+        
+        (
+        λ
+        ≲
+        300
+         
+        
+          nm
+        
+        )
+      
+    
+    {\displaystyle \mathrm {O_{3}+uv~light\longrightarrow O_{2}+O} \qquad (\lambda \lesssim 300~{\text{nm}})}
+
+See also
+Carbon cycle
+Nitrogen cycle
+Hydrogen Cycle
+
+References
+
+
+== Further reading ==

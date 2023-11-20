@@ -1,0 +1,64 @@
+Spongy degeneration of the central nervous system, also known as Canavan's disease, Van Bogaert-Bertrand type or Aspartoacylase (AspA) deficiency, is a rare autosomal recessive neurodegenerative disorder. It belongs to a group of genetic disorders known as leukodystrophies, where the growth and maintenance of myelin sheath in the central nervous system (CNS) are impaired. There are three types of spongy degeneration: infantile, congenital and juvenile, with juvenile being the most severe type. Common symptoms in infants include lack of motor skills, weak muscle tone, and macrocephaly. It may also be accompanied by difficulties in feeding and swallowing, seizures and sleep disturbances. Affected children typically die before the age of 10, but life expectancy can vary.The cause of spongy degeneration of the CNS is the mutation in a gene coding for aspartoacylase (AspA), an enzyme that hydrolyzes N-acetyl aspartic acid (NAA). In the absence of AspA, NAA accumulates and results in spongy degeneration. The exact pathophysiological causes of the disease are currently unclear, but there are developing theories. Spongy degeneration can be diagnosed with neuroimaging techniques and urine examination. There is no current treatment for spongy degeneration, but research utilising gene therapy to treat the disease is underway. Spongy degeneration is found to be more prevalent among Ashkenazi Jews, with an incidence of 1/6000 amongst this ethnic group.
+
+Clinical Symptoms
+Spongy Degeneration of the CNS is classified into three types: infantile, juvenile and congenital; based on the age of onset and severity of symptoms.
+
+Infantile Type
+The infantile type is the most common type of spongy degeneration of the CNS. Usually, affected infants appear normal for the first few months of life. The age of onset is around 6 months, where infants begin to develop noticeable psychomotor defects. Various motor skills such as turning over and stabilising head movements are affected. Hypotonia and macrocephaly are also observed in the first few months.During the latter part of the first year, most children's eyes fail to respond to visual stimuli, with episodic saccadic eye movements observed, rendering most children blind in the second year.
+The symptoms in the terminal stage of disease development are  sweating, emesis, hyperthermia, seizures, and hypotension, which usually results in the death of the child. Life expectancies of affected infants vary, but most infants do not live past the age of ten.
+
+Congenital Type
+The age of onset is typically a few days after birth in the congenital type. Pregnancy and delivery are not affected and the child is born with a normal appearance and no health issues. However, affected infants may become lethargic in the following days and find movements such as sucking and swallowing difficult. As the disease progresses, patients may have decreased muscle tone and inactivation of Moro reflex, also known as startle reflex. This may lead to the development of Cheyne Stokes respiration after a few weeks or even days after delivery, which may be fatal.
+
+Juvenile Type
+The age of onset of the juvenile type is around five years of age. Most patients with the juvenile type survive until late adolescence. Affected toddlers typically develop progressive cerebellar syndrome and mental deterioration, which is followed by vision loss, optic atrophy, and generalised spasticity. Unlike the infantile form, there is no macrocephaly exhibited.
+
+Pathophysiology
+Although the pathophysiological causes of CD symptoms are still unclear, there are developing theories on the causes of myelination issues, gelatinous cortical white matter and seizures.
+
+Issues in Myelination
+Molecular Water Pump (MWP) and Osmolyte Imbalance
+Increased cerebrospinal fluid (CSF) pressure and intramyelinic edema in CD patients suggest the existence of an efficient MWP in the brain. The MWP is a membrane protein responsible for pumping water molecules, along with dissolved NAA molecules, from the intraneuronal space to the interstitial space. In healthy individuals, NAA is first transported down the concentration gradient through the MWP from neurons to the interstitial space and subsequently hydrolyzed by AspA in neighbouring oligodendrocytes.In patients with CD, it is theorized that AspA deficiency causes accumulation of NAA in the interstitial space, inducing an osmolyte imbalance and accumulation of water in the interstitial space. This increases hydrostatic pressure between interlamellar spaces and extracellular periaxonal and parenchymatous space, loosening the tight junctions between them, thus causing intramyelinic edema. Subsequent demyelination possibly contributes to vacant spaces in the white matter or spongy degeneration.
+
+Dysmyelination
+NAA-derived acetates are involved in the synthesis of fatty acids, which are subsequently incorporated into myelin lipids.  It is hypothesized that in CD patients, AspA deficiency reduces NAA-derived acetates, and consequently decreases the synthesis of myelin-associated lipids. This leads to dysmyelination, which promotes the formation vacuoles in interstitial space and spongy degeneration. However, it has been shown that spongy degeneration is not directly caused by the disrupted synthesis of myelin. Animal models show that myelination may still occur in AspA lacking species, possibly due to parallel pathways for myelination during the initial stages of myelinogenesis.
+
+Protein Folding and Stabilization
+Deficiency of AspA lowers acetyl coenzyme A (CoA) expression in cells, which may be responsible for stabilization and correct folding of proteins. This leads to protein degradation, with a particularly large effect in oligodendrocytes. In animal studies of AspA deficient species, protein degradation in oligodendrocytes has been shown to cause severe loss in myelin proteins.
+
+Gelatinous Subcortical White Matter
+The deficiency in AspA, which is vital in oligodendrocytes to produce NAA derived acetate, leads to a lack of regulation in the genetic structure and expression in these cells. This results in the death of oligodendrocytes, hence induces neuronal injury and the formation of vacuoles in the subcortical matter. These vacuoles contribute to the formation of gelatinous-textured subcortical white matter found in many CD patients.
+
+Seizures and Neurodegeneration
+The pathophysiological causes of seizures and neurodegeneration in CD patients are likely due to oxidative stress generated by NAA accumulation. It is postulated that NAA promotes oxidative stress through promoting reactive oxygen species, as well as reducing non-enzymatic antioxidant defenses.  NAA also affects multiple antioxidant enzymes, such as catalase and glutathione peroxidase, impairing the detoxification of hydrogen peroxide. Recent animal studies have shown the chronic oxidative stress may cause dysfunction in mitochondria, rendering the brain more susceptible to epileptic seizures.
+
+Diagnosis
+Canavan's disease is initially recognized by the appearance of symptoms, yet further examinations are needed for definitive diagnosis. Neuroimaging techniques such as Computed Tomography (CT) scan or Magnetic Resonance imaging (MRI) are typically used to detect the presence of degenerative subcortical white matter. Microscopy of the cerebrospinal fluid can also be used for diagnosis, where swollen astrocytes with distorted and elongated mitochondria can be seen in patients.Urine examinations are used to differentiate CD patients from other neurodegenerative disorders with similar morphology, such as Alexander diseases and Tay-Sachs diseases (which similarly exhibit macrocephaly), as patients with CD uniquely display increased excretion of NAA.
+
+Prevention
+DNA analysis is generally used to determine if parents are carriers of the mutant gene. Prenatal diagnosis through either DNA analysis or determination of NAA in amniotic fluid (which would be increased in an affected pregnancy) can also be used when DNA analysis cannot be performed on parents. It has been observed that there is an abnormally high carrier rate in the Ashkenazi Jewish population. The risk of their offspring having spongy degeneration is one in four if both parents are carriers of the mutant gene.
+
+Treatment methods
+There are currently no specific forms of treatment known for spongy degeneration of the CNS. Certain treatment modules are under experimental trials and current patients are supported by palliative measures, all of which are described below.
+
+Current palliative measures
+Current patients are supported by the care guidelines for other paediatric neurodegenerative diseases. For patients with respiratory issues, suction machines are used to clear mucous from the upper airway of the lungs. Oxygen concentrators are also administered for airway clearance and continuous supply of air to aid breathing. As for infants with hypotonia, it is addressed by the provision of positioning equipment like specialized strollers, bath chairs and feeder seats.
+
+Possible treatment modules under development
+Intraperitoneal injections of lipoic acid
+Lipoic acid (which can cross the blood brain barrier), has recently been trialed in preclinical studies, where it has been injected into tremor rats intraperitoneally. Tremor rats are deemed as the naturally occurring model for spongy degeneration of the CNS as NAA induces oxidative stress. Positive results have emerged from these studies, suggesting that lipoic acid may be a possible approach for symptomatic treatments.
+
+Intraperitoneal lithium administration
+A possible treatment is to employ neuroprotective techniques to offset the neurological damage in the CNS caused by the accumulation of NAA. One potential treatment that has been identified is lithium, which has been observed to induce neuroprotective effects in dementia patients. Administration of intraperitoneal lithium has been tested in both tremor and wild-type rats, causing a decrease in NAA levels in both species. In human trials, NAA levels in patient's brain and urine was found to drop after one year of treatment. This is coupled with the elevation of alertness and visual tracking. However. CD symptoms including axial hypotonia and spastic diplegia remained.
+
+Gene therapy
+Since CD arises from a monogenic defect and is localized in the CNS, gene replacement therapy is a potential treatment. This therapy involves replacing the mutant gene of the disease with a fully functional gene using a vector, which transports therapeutic DNA into cells, allowing cells to produce AspA. Adeno-associated Viruses (AAVs) are widely used as vectors for gene therapy. They are adopted as they do not replicate themselves and are almost non-toxic. There are two serotypes used for the treatment: AAV2 and AAV9. The difference of the stereotypes is that AAV2 is limited by blood-brain-barrier (BBB), whilst AAV9 can cross the BBB, allowing for treatment even at the later stages of the disease. However, current research shows that AAVs may trigger unwanted immune responses in infants and have limited gene encapsulating capacity.
+
+Epidemiology
+Spongy degeneration of the CNS is pan-ethnic, due to its prevalence among Ashkenazi Jews. There are two common mutations found among them: missense mutation (Glu285AIa) and nonsense mutation (Tyr231X). In the missense mutation, there is a substitution of glutamic acid to alanine. As for the nonsense mutation, the tyrosine codon is replaced by a termination codon. Genetic screening reveals that around 1 in 40 healthy Jews are carriers and the incidence of this disease in this population is as high as 1 in 6000.
+
+History
+The first case of spongy degeneration of the CNS was reported in 1928 by Globus and Strauss, who designated the case as Schilder's disease, a term for diffuse myelinoclastic sclerosis. In 1931, Canavan reported a case where the megalencephaly of brain degeneration is different from that caused by a tumour. However, she failed to recognize the spongy alterations that suggest a unique pathological cause that distinguishes her case from Schilder's disease. Later in 1937, Eislebergl reported six cases from Jewish families and discovered the familial characteristics of spongy degeneration, but she classified these cases as Krabbe's sclerosis. It was not until 1949 when Van Bogaert and Bertrand reported five cases from Jewish families, whereupon further pathological analysis confirmed that spongy degeneration is the nosologic entity.
+
+
+== References ==

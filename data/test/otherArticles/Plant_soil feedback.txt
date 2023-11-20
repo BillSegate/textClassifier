@@ -1,0 +1,78 @@
+Plant–soil feedback is a process where plants alter the biotic and abiotic qualities of soil they grow in, which then alters the ability of plants to grow in that soil in the future.Negative plant–soil feedback occurs when plants are less able to grow in soil that was previously occupied by a member of the same species, and positive plant–soil feedback occurs when plants are more able to grow in soil that was previously occupied by a member of the same species.  Although it was originally assumed that negative plant–soil feedback was caused by plants depleting the soil of nutrients, recent work has suggested that a major cause of plant–soil feedback is a buildup of soil-borne pathogens.  Mutualism and allelopathy are also thought to cause plant–soil feedback.  Studies have shown that, on average, plant–soil feedback tends to be negative; however, there have been many notable exceptions, such as many invasive species.Negative plant–soil feedback is thought to be an important factor in helping plants to coexist.  If a plant is over-abundant, then soil pathogens and other negative factors will become common, hurting its growth.  Similarly, if a plant becomes overly rare, then so too will its soil pathogens and other negative factors, helping its growth.  This negative feedback will help populations to stay in the community.  Negative plant–soil feedback has been called a particular case of the Janzen–Connell hypothesis.
+
+Measuring plant–soil feedback
+Plant–soil feedback is best measured using Bever's interaction coefficient, Is.  This value quantifies how much each plant's growth is limited by its own soil community compared to how much it limits others.  It is for two-species comparisons.  To measure this quantity, one must measure the growth of two plants, both in soil conditioned by members of their own species (Gx(home) for species x), and in soil conditioned by members of the other species (Gx(away) for plant species x).  Then, the interaction coefficient is calculated as
+
+  
+    
+      
+        
+          I
+          
+            s
+          
+        
+        =
+        
+          G
+          
+            x
+          
+        
+        (
+        
+          
+            home
+          
+        
+        )
+        +
+        
+          G
+          
+            y
+          
+        
+        (
+        
+          
+            home
+          
+        
+        )
+        −
+        
+          G
+          
+            x
+          
+        
+        (
+        
+          
+            away
+          
+        
+        )
+        −
+        
+          G
+          
+            y
+          
+        
+        (
+        
+          
+            away
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle I_{s}=G_{x}({\mbox{home}})+G_{y}({\mbox{home}})-G_{x}({\mbox{away}})-G_{y}({\mbox{away}}).}
+  If Is is negative, it means that both species grow worse in their own site compared to their competitor's soil, and therefore plant–soil feedback helps these species to coexist.
+
+
+== References ==

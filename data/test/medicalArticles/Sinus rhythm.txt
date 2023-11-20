@@ -1,0 +1,24 @@
+A sinus rhythm is any cardiac rhythm in which depolarisation of the cardiac muscle begins at the sinus node.  It is necessary, but not sufficient, for normal electrical activity within the heart. On the electrocardiogram (ECG), a sinus rhythm is characterised by the presence of P waves that are normal in morphology.The term normal sinus rhythm (NSR) is sometimes used to denote a specific type of sinus rhythm where all other measurements on the ECG also fall within designated normal limits, giving rise to the characteristic appearance of the ECG when the electrical conduction system of the heart is functioning normally; however, other sinus rhythms can be entirely normal in particular patient groups and clinical contexts, so the term is sometimes considered a misnomer and its use is sometimes discouraged.
+Other types of sinus rhythm that can be normal include sinus tachycardia, sinus bradycardia, and sinus arrhythmia. Sinus rhythms may be present together with various other cardiac arrhythmias on the same ECG.
+
+Characteristics
+In humans, for an ECG to be described as showing a sinus rhythm, the shape of the P wave in each of the 12 standard ECG leads should be consistent with a "typical P vector" of +50° to +80°. This means that the P wave should be:
+
+always positive in lead I, lead II, and aVF
+always negative in lead aVR
+any of biphasic (-/+), positive or negative in lead aVL
+positive in all chest leads, except for V1 which may be biphasic (+/-)If the P waves do not meet these criteria, they must be originating from an abnormal site elsewhere in the atria and not from the sinus node; the ECG cannot, therefore, be classed as showing a sinus rhythm.In general, each P wave in a sinus rhythm is followed by a QRS complex, and the sinus rhythm therefore gives rise to the whole heart's depolarization. Exceptions to this include complete heart block and certain ventricular artificial pacemaker rhythms, where the P waves may be completely normal in shape, but ventricular depolarization bears no relation to them; in these cases, the speed of the "sinus rhythm of the atria" and the speed of the ventricular rhythm must be calculated separately.
+
+Characteristics of normal sinus rhythm
+By convention, the term "normal sinus rhythm" is taken to imply that not only are the P waves (reflecting activity of the sinus node itself) normal in morphology but that all other ECG measurements are also normal. Criteria therefore include:
+
+Normal heart rate (classically 60 to 100 beats per minute for an adult).
+Regular rhythm, with less than 0.16-second variation in the shortest and longest durations between successive P waves
+The sinus node should pace the heart – therefore, P waves must be round, all the same shape, and present before every QRS complex in a ratio of 1:1.
+Normal P wave axis (0 to +75 degrees)
+Normal PR interval, QRS complex and QT interval.
+QRS complex positive in leads I, II, aVF and V3–V6, and negative in lead aVR.
+
+References
+External links
+"Normal Sinus Rhythm". Archived from the original on 15 December 2012.

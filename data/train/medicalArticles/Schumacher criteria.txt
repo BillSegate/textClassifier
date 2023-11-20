@@ -1,0 +1,21 @@
+Schumacher criteria are diagnostic criteria that were previously used for identifying multiple sclerosis (MS). Multiple sclerosis, understood as a central nervous system (CNS) condition, can be difficult to diagnose since its signs and symptoms may be similar to other medical problems. Medical organizations have created diagnostic criteria to ease and standardize the diagnostic process especially in the first stages of the disease. Schumacher criteria were the first internationally recognized criteria for diagnosis, and introduced concepts still in use, as CDMS (clinically definite MS).
+Sometimes it has been stated that the only proved diagnosis of MS is autopsy, or occasionally  biopsy, where lesions typical of MS can be detected through histopathological techniques, and that sensitivity and specificity should be calculated for any given criteria
+
+Context
+Historically, the first widespread set of criteria were the Schumacher criteria (also spelled sometimes Schumacker). Currently, testing of cerebrospinal fluid obtained from a lumbar puncture can provide evidence of chronic inflammation of the central nervous system, looking for oligoclonal bands of IgG on electrophoresis, which are inflammation markers found in 75–85% of people with MS., but at the time of Schumacher criteria, oligoclonal bands tests were not available, and they also lacked MRI.
+The most commonly used diagnostic tools at that time were evoked potentials. The nervous system of a person with MS responds less actively to stimulation of the optic nerve and sensory nerves due to demyelination of such pathways. These brain responses can be examined using visual and sensory evoked potentials.Therefore, clinical data alone had to be used for a diagnosis of MS. Schumacher et al. proposed three classifications based in clinical observation: CDMS (clinically definite), PrMS(probable MS) and PsMS(possible MS).
+
+Summary
+To get a diagnosis of CDMS a patient must show the following:
+Clinical signs of a problem in the CNS
+Dissemination in space, shown by clinical evidence of damage in two or more areas of CNS.
+Evidence of white matter involvement
+Dissemination in time shown by one of these: Two or more relapses (each lasting ≥ 24 hr and separated by at least 1 month) or disability progression (slow or stepwise)
+Patient should be between 10 and 50 yr old at time of examination
+No better explanation for patient’s symptoms and signs should existThe last condition, no better explanation for symptoms, has been heavily criticised, but it has been preserved and it is currently included in the new McDonald criteria in the form that "no better explanation should exist for MRI observations"
+
+Influence
+These criteria were later substituted by Poser criteria and McDonald criteria. Poser criteria introduced the CNS oligoclonal bands into the diagnosis criteria, while McDonald criteria focus on a demonstration with clinical, laboratory and radiologic data of the dissemination of MS lesions in time and space for non-invasive MS diagnosis. All the later criteria were heavily influenced by the original Schumacher work.
+
+
+== References ==

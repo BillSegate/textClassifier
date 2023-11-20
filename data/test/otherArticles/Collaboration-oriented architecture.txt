@@ -1,0 +1,32 @@
+Collaboration Oriented Architecture (COA) is a computer system that is designed to collaborate, or use services, from systems that are outside of the operators control. Collaboration Oriented Architecture will often use Service Oriented Architecture to deliver the technical framework.
+Collaboration Oriented Architecture is the ability to collaborate between systems that are based on the Jericho Forum principles or "Commandments".Bill Gates and Craig Mundie (Microsoft)  clearly articulated the need for people to work outside of their organizations in a secure and collaborative manner in their opening keynote to the RSA Security Conference in February 2007.Successful implementation of a Collaboration Oriented Architecture implies the ability to successfully inter-work securely over the Internet and will typically mean the resolution of the problems that come with de-perimeterisation.
+
+Etymology
+The term Collaboration Oriented Architectures  was defined and developed in a meeting of the Jericho Forum at a meeting held at HSBC on 6 July 2007.
+
+Definition
+The key elements that qualify a security architecture as a Collaboration Oriented Architecture are as follows;
+
+Protocol: Systems use appropriately secure protocols to communicate.
+Authentication: The protocol is authenticated with user and/or system credentials.
+Federation: User and/or systems credentials are accepted and validated by systems that are not under your (locus of) control.
+Network Agnostic: The design does not rely on a secure network, thus it will operate securely from an Intranet to raw-Internet
+Trust: The collaborating system have the capacity to be able to confirm to a specified degree of confidence that the components in a transaction chain have.
+Risk: The collaborating systems can make a risk assessment on any transaction based on the communicated levels of required trust, based on the required degree of identity, confidentiality, integrity, availability.
+
+Authentication
+Working in a collaborative multi-sourced environment implies the need for authentication, authorization and accountability which must interoperate / exchange outside of your locus / area of control.
+People/systems must be able to manage permissions of resources and rights of users they don't control
+There must be capability of trusting an organization, which can authenticate individuals or groups, thus eliminating the need to create separate identities
+In principle, only one instance of person / system / identity may exist, but privacy necessitates the support for multiple instances, or one instance with multiple facets, often referred to as personas
+Systems must be able to pass on security credentials /assertions
+Multiple loci (areas) of control must be supported
+
+References
+External links
+http://www.jerichoforum.org
+Open SOA Collaboration
+Service Component Architecture Specifications
+A collaboration-oriented software architecture modeling system
+Enterprise collaboration with Service Oriented Architecture (SOA)
+Collaboration Services in a Services Oriented Architecture

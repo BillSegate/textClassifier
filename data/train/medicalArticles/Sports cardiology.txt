@@ -1,0 +1,55 @@
+Sports cardiology is an emerging subspecialty field of Cardiology. It may also be considered a subspecialty field of Sports medicine (or Sport & Exercise Medicine), or alternatively a hybrid subspecialty that spans cardiology and sports medicine. Emergency medicine is another medical specialty that has some overlap with Sports Cardiology. Sports cardiology is now considered to be a distinct subspecialty in Europe and the USA, with a core curriculum developed in both regions. In Europe it has traditionally been grouped under Preventive Cardiology, but the subspecialty of Sports Cardiology is now considered a distinct field. In the USA, it has developed from being a special interest area to a distinct subspecialty as well.
+Sports cardiology can be roughly divided into two areas itself:
+
+Prevention of cardiac arrest and sudden cardiac death in exercising individuals, including those with no known heart disease. The entails both primary prevention and acute response.
+Management of athletes and other exercising individuals with known heart disease.The preventive aspect of Sports Cardiology aligns slightly more with the speciality of Sports Medicine (doctors who look after athletes and exercising people), acute response with Emergency medicine, whereas the management of athletes with known heart disease is more aligned with the Cardiology side of Sports Cardiology.
+Sports Cardiology as a cardiology subspecialty overlaps with Electrophysiology, Cardiac Stress Testing, Echocardiography and other cardiac imaging, Genetic testing, and Cardiomyopathy.
+Formal education for doctors is now available in Sports Cardiology, such as a Masters Degree in Sports Cardiology at St George's, University of London.
+
+Sudden Cardiac Death in Athletes
+Sudden cardiac death (SCD) is a very rare event but particularly tragic affecting apparently healthy young or early middle-aged people. Sudden cardiac death occurs in approximately one per 100,000 young athletes per year, generally in matches or training, but also occasionally at rest.Common categories of sudden cardiac death causes are:
+Cardiomyopathies
+Conduction disorders
+Coronary artery disease
+Commotio cordis
+Unknown causes, thought to possibly be related most often to Myocarditis associated with viral illnessCardiomyopathies and conduction diseases are responsible for the majority of sudden cardiac death in young athletes (< 30 years old), whereas Coronary artery disease (often latent in a relatively young person) increases in risk with age and is by far the most common cause of sudden cardiac death in an athlete >35 years old. Commotio cordis is less common but caused by an external force rather than an intrinsic abnormality of the heart.
+
+Prevention of sudden cardiac death in athletes
+Classification of sports for risk of sudden cardiac death
+Sports have been classified into varying risks for Sudden Cardiac Death for competitive athletes. Sports with high static and dynamic forces are those that present the greatest risk, bearing in mind that for individual athletes playing in these sports the risks are still very small. Rowing, cycling and basketball are amongst the sports with the highest annual risk. Football (soccer) provides the highest number of young athletes who suffer cardiac arrest, being a medium risk sport that is played extensively worldwide. The risk is higher in male athletes than female athletes.
+
+Screening of athletes to prevent sudden cardiac death
+Screening of athletes to prevent SCD is a controversial area. Generally, medical screening is considered to be potentially valuable for conditions or diseases that are relatively common and not useful for conditions that are rare, due to the likely high number of false positives. SCD is rare and hence screening necessarily has a high rate of false positives (that is, athletes flagged as being potentially unsafe to participate in high-level sport but who would not die if they did continue to play sport). Nevertheless, because of the fear of SCD and occupational requirement to train and compete at extremely high intensity in professional and elite sport, screening is established as a standard of care in many countries of the world.
+The country with the most established program of screening for cardiac disease in athletes is Italy, which requires this to be done by law. Over many decades the rate of SCD in Italy has reduced, probably due to nationwide screening. Some experts question whether the rate may have been reduced through other means, and whether the disqualification of many young people from playing vigorous sport annually is worth it.International guidelines have been agreed to regarding what constitutes a normal and abnormal athletic ECG when screening asymptomatic athletes.In Europe, the UK and Australia, the standard of care is generally to include an ECG as part of the standard screening program. Whilst ECGs are done for many athletes in the USA, the standard of care is more likely to be an annual history & physical examination, with an ECG only performed if any item of concern with the clinical presentation.A major charity in the UK is Cardiac Risk in the Young (CRY) which performs regular screenings.
+
+Athletic event management to respond to cardiac arrest
+In theory, cardiac arrest at a sporting event whilst very rare can be predicted and hence the survival rate from arrest should be higher if a good emergency management plan has been implemented. Not all stadia and athletic fields have AEDs present, particularly at amateur level. And not all events have well-trained event staff (doctors, paramedics and staff qualified in basic life support). Finally, even with AEDs and staff present, because of the rarity of cardiac arrest in the community especially in young people, event staff may not be well or recently trained to respond, or may not be concentrating at the time of an arrest.Event planning is therefore a key component of Sports Cardiology, even though event planning would not normally be a concern of a medical speciality. Making sure that there are sufficiently trained medical, paramedical and other trained staff or volunteers at sporting events, ready availability of AEDs or ambulances or both, and that those qualified people are ready to respond to an arrest, probably leads to a greater lowering of the rates of sudden cardiac death in sport than any other measure. Hence, having an excellent understanding of the parameters of safe event planning is a core subject in Sports Cardiology.
+
+Management of known heart disease in athletes
+Hypertrophic cardiomyopathy
+Hypertrophic cardiomyopathy (HCM) or HOCM (O = obstructive) is considered the most common cause of sudden cardiac death in young athletes that may be preventable. However, the difficulty is that it overlaps with the more Athlete Heart syndrome and vast majority of discovered cases are mild, making it unclear about whether it is safe to continue playing intense sport.
+
+Arrhythmogenic right ventricular cardiomyopathy
+Arrhythmogenic right ventricular cardiomyopathy (ARVC) is less common than HCM but usually more clearly progressive, associated with intense activity and usually has more clear indication to avoid highly intense sporting activities. It is more common in certain genetic backgrounds. Much of the reduction in deaths in Italy since the advent of nationwide screening has been thought to be due to ARVC reduction.
+
+Long QT syndrome
+Long QT syndrome is a familial condition that is uncommon but is a known source of sudden death in young people. It can cause cardiac arrest during athletic activity but also when doing other activities that raise heart rate.
+
+Brugada syndrome
+Brugada syndrome is a familial condition that is also very uncommon, and also a known source of sudden death in young people. Many of the deaths occur when inactive and it is less commonly a cause of sudden death playing sport.
+
+Atrial fibrillation in athletes
+Atrial fibrillation (AF) is more common in the inactive, elderly population than the inactive young population. There is a reverse J-shaped curve, however, in that elite athletes doing very arduous sport have a higher rate of AF than moderately active people. Whereas the AF that occurs in the inactive elderly population is known to be associated with increased risk of stroke, it is unknown whether athletic AF increases the risk of sudden death or stroke. AF in athletes can be treated with a minimally-invasive procedure known as ablation.
+
+Wolff–Parkinson–White syndrome
+Wolff–Parkinson–White syndrome (WPW) syndrome is a known cause of arrhythmia in young people. It causes supraventricular tachycardia during exercise. Most of the time this causes cessation of exercise when the SVT occurs. It can lead to cardiac arrest but generally does not. It can also be successfully treated by a minimally-invasive procedure known as ablation.
+
+Implantable cardioverter-defibrillators in athletes
+An Implantable cardioverter-defibrillators (ICD device) can be used in an athlete who has either had a previous cardiac arrest or is known to be at very high risk for cardiac arrest to trigger an internal shock to cardiovert the heart in the event of a fatal rhythm occurring.
+
+References
+External links
+Wikibooks: Sudden cardiac death in athletes
+European Journal of Preventive Cardiology
+ESC Textbook of Sports Cardiology
+Textbook of Sports and Exercise Cardiology

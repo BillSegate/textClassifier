@@ -1,0 +1,277 @@
+This page features a list of biogeographic provinces that were developed by Miklos Udvardy in 1975, later modified by other authors. Biogeographic Province is a biotic subdivision of biogeographic realms subdivided into ecoregions, which are classified based on their biomes or habitat types and, on this page, correspond to the floristic kingdoms of botany.
+The provinces represent the large areas of Earth's surface within which organisms have been evolving in relative isolation over long periods of time, separated from one another by geographic features, such as oceans, broad deserts, or high mountain ranges, that constitute barriers to migration.
+Biomes are characterized by similar climax vegetation, though each realm may include a number of different biomes. A tropical moist broadleaf forest in Brazil, for example, may be similar to one in New Guinea in its vegetation type and structure, climate, soils, etc., but these forests are inhabited by plants with very different evolutionary histories.
+
+Afrotropical Realm
+Tropical humid forests
+Guinean Rainforest
+Congo Rainforest
+Malagasy Rainforest
+Tropical dry or deciduous forests (incl. Monsoon forests) or woodlands
+West African Woodland/Savanna
+East African Woodland/Savanna
+Congo Woodland/Savanna
+Miombo Woodland/Savanna
+South African Woodland/Savanna
+Malagasy Woodland/Savanna
+Malagasy Thorn Forest
+Evergreen sclerophyllous forests, scrubs or woodlands
+Cape Sclerophyll
+Warm deserts and semideserts
+Western Sahel
+Eastern Sahel
+Somalian
+Namib
+Kalahari
+Karroo
+Mixed mountain and highland systems with complex zonation
+Ethiopian Highlands
+Guinean Highlands
+Central African Highlands
+East African Highlands
+South African Highlands
+Mixed island systems
+Ascension and St. Helena Islands
+Comores Islands and Aldabra
+Mascarene Islands
+Lake systems
+Lake Rudolph
+Lake Ukerewe (Victoria)
+Lake Tanganyika
+Lake Malawi (Nyassa)
+
+Antarctic Realm
+Tundra communities and barren Antarctic desert
+Subtropical and temperate rain forests or woodlands
+
+Australasian Realm
+Tropical humid forests
+Queensland Coastal
+Subtropical and temperate rain forests or woodlands
+Tasmanian
+Tropical dry or deciduous forests (incl. Monsoon forests) or woodlands
+Northern Coastal
+Evergreen sclerophyllous forests, scrubs or woodlands
+Western Sclerophyll
+Eastern Sclerophyll
+Brigalow
+Warm deserts and semideserts
+Western Mulga
+Central Desert
+Southern Mulga/Saltbush
+Tropical grasslands and savannas
+Northern Savanna
+Northern Grasslands
+Temperate grasslands
+Eastern Grasslands and Savannas
+
+Indomalayan Realm
+Tropical humid forests
+Malabar Rainforest
+Ceylonese Rainforest
+Bengalian Rainforest
+Burman Rainforest
+Indochinese Rainforest
+South Chinese Rainforest
+Malayan Rainforest
+Tropical dry or deciduous forests (incl. Monsoon forests) or woodlands
+Indus-Ganges Monsoon Forest
+Burma Monsoon Forest
+Thailandian Monsoon Forest
+Mahanadian
+Coromandel
+Ceylonese Monsoon Forest
+Deccan Thorn Forest
+Warm deserts and semideserts
+Thar Desert
+Mixed island systems
+Seychelles and Amirantes Islands
+Laccadives Islands
+Maldives and Chagos Islands
+Cocos-Keeling and Christmas Islands
+Andaman and Nicobar Islands
+Sumatra
+Java
+Lesser Sunda Islands
+Celebes
+Borneo
+Philippines
+Taiwan
+
+Nearctic Realm
+Subtropical and temperate rain forests or woodlands
+Sitkan
+Oregonian
+Temperate needle-leaf forests or woodlands
+Yukon Taiga
+Canadian Taiga
+Temperate broad-leaf forests or woodlands, and subpolar deciduous thickets
+Eastern Forest
+Austroriparian
+Evergreen sclerophyllous forests, scrubs or woodlands
+Californian
+Warm deserts and semideserts
+Sonoran
+Chihuahuan
+Tamaulipan
+Cold-winter (continental) deserts and semideserts
+Great Basin
+Tundra communities and barren Arctic desert
+Aleutian Islands
+Alaskan Tundra
+Canadian Tundra
+Arctic Archipelago
+Greenland Tundra
+Arctic Desert and Icecap
+Temperate grasslands
+Grasslands
+Mixed mountain and highland systems with complex zonation
+Rocky Mountains
+Sierra-Cascade
+Madrean-Cordilleran
+Lake systems
+Great Lakes
+
+Neotropical Realm
+Tropical humid forests
+Campechean
+Panamanian
+Colombian Coastal
+Guayanan
+Amazon rainforest
+Madeiran
+Serra do Mar (Bahian coast)
+Subtropical and temperate rain forests or woodlands
+Brazilian Rainforest (Brazilian Deciduous Forest)
+Brazilian Planalto (Brazilian Araucaria Forest)
+Valdivian Forest (Chilean Temperate Rain Forest)
+Chilean Nothofagus
+Tropical dry or deciduous forests (incl. Monsoon forests) or woodlands
+Everglades
+Sinaloan
+Guerreran
+Yucatecan (Yucatán)
+Central American (Carib-Pacific)
+Venezuelan Dry Forest
+Venezuelan Deciduous Forest
+Ecuadoran Dry Forest
+Caatinga
+Gran Chaco
+Temperate broad-leaf forests or woodlands, and subpolar deciduous thickets
+Chilean Araucaria Forest
+Evergreen sclerophyllous forests, scrubs or woodlands
+Chilean Sclerophyll
+Warm deserts and semideserts
+Pacific Desert (Peruvian and Atacama Desert)
+Monte (Argentinian Thorn-scrub)
+Cold-winter (continental) deserts and semideserts
+Patagonian
+Tropical grasslands and savannas
+Llanos
+Campos Limpos (Guyana highlands)
+Babacu
+Campos Cerrados (Campos)
+Temperate grasslands
+Argentinian Pampas (Pampas)
+Uruguayan Pampas
+Mixed mountain and highland systems with complex zonation
+Northern Andean
+Colombian Montane
+Yungas (Andean cloud forest)
+Puna
+Southern Andean
+Mixed island systems
+Bahamas-Bermudan
+Cuban
+Greater Antillean (Jamaica, Hispaniola and Puerto Rico)
+Lesser Antillean
+Revillagigedo Archipelago
+Cocos Island
+Galapagos Islands
+Fernando de Noronha Island
+South Trindade Island
+Lake systems
+Lake Titicaca
+
+Oceanian Realm
+Mixed island systems
+Papuan
+Micronesian
+Hawaiian
+Southeastern Polynesian
+Central Polynesian
+New Caledonian
+East Melanesian
+
+Palearctic Realm
+Subtropical and temperate rain forests or woodlands
+Chinese Subtropical Forest
+Japanese Evergreen Forest (Japanese Subtropical Forest)
+Temperate needle-leaf forests or woodlands
+West Eurasian Taiga
+East Siberian Taiga
+Temperate broad-leaf forests or woodlands, and subpolar deciduous thickets
+Icelandic
+Subarctic Birchwoods
+Kamchatkan
+British Isles (British and Irish Forest)
+Atlantic (West European Forest)
+Boreonemoral (Baltic Lowland)
+Middle European Forest (East European Mixed Forest)
+Pannonian (Danubian Steppe)
+West Anatolian
+Manchu-Japanese Mixed Forest
+Oriental Deciduous Forest
+Evergreen sclerophyllous forests, scrubs or woodlands
+Iberian Highlands
+Mediterranean Sclerophyll
+Warm deserts and semideserts
+Sahara
+Arabian Desert (Arabia)
+Anatolian-Iranian Desert (Turkish-Iranian Scrub-steppe)
+Cold-winter (continental) deserts and semideserts
+Turanian (Kazakh Desert Scrub-steppe)
+Talka-Makan-Gobi Desert
+Tibetan
+Iranian Desert
+Tundra communities and barren Arctic desert
+Arctic Desert
+Higharctic Tundra
+Lowarctic Tundra
+Temperate grasslands
+Atlas Steppe (Atlas Highlands)
+Pontian Steppe (Ukraine-Kazakh Steppe)
+Mongolian-Manchurian Steppe (Gobi-Manchurian Steppe)
+Mixed mountain and highland systems with complex zonation
+Scottish Highlands
+Central European Highlands
+Balkan Highlands
+Caucaso-Iranian Highlands (Caucasus and Kurdistan-Iran Highlands)
+Altai Highlands
+Pamir-Tian Shan Highlands
+Hindu Kush Highlands
+Himalayan Highlands
+Szechwan Highlands
+Mixed island systems
+Macaronesian Islands
+Ryukyu Islands
+Lake systems
+Lake Ladoga
+Aral Sea
+Lake Baikal
+
+Region coding
+The hierarchy of the scheme is (with early replaced terms in parentheses):
+biogeographic realm (= biogeographic regions and subregions), with 8 categories
+biogeographic province (= biotic province), with 193 categories, each characterized by a major biome or biome-complex
+biome, with 14 types: tropical humid forests (1); subtropical and temperate rain forests or woodlands (2); temperate needle-leaf forests or woodlands (3); tropical dry of deciduous forests (including monsoon forests) or woodlands (4); temperate broad-lead forests or woodlands and subpolar deciduous thickets (5); evergreen sclerophyllous forests, scrubs or woodlands (6); warm deserts and semideserts (7); cold-winter (continental) deserts and semideserts (8); tundra communities and barren arctic desert (9); tropical grassland and savannas (10); temperate grasslands (11); mixed mountain and highland systems with complex zonation (12); mixed island systems (13); lake systems (14).So, for example, the Australian Central Desert province is in the Australasian realm (6), is the 9th biogeographic province in that realm, and its biome falls within "warm deserts and semideserts" (7), so it is coded 6.9.7.
+The realms and provinces of the scheme are hence coded as follows:
+
+See also
+Biogeographic provinces of hydrothermal vent systems
+Floristic province
+List of ecoregions
+
+References
+Bibliography
+Dassman, Raymond (1976). "Biogeographical Provinces". CoEvolution Quarterly, Number 11, Fall 1976.

@@ -1,0 +1,11 @@
+The San Francisco Syncope Rule (SFSR) is a rule for evaluating the risk of adverse outcomes in patients presenting with fainting or syncope.
+The mnemonic for features of the rule is CHESS:
+• C - History of congestive heart failure
+• H - Hematocrit < 30%
+• E - Abnormal ECG
+• S - Shortness of breath
+• S - Triage systolic blood pressure < 90
+A patient with any of the above measures is considered at high risk for a serious outcome such as death, myocardial infarction, arrhythmia, pulmonary embolism, stroke, subarachnoid hemorrhage, significant hemorrhage, or any condition causing a return Emergency Department visit and hospitalization for a related event.SFSR was retrospectively found to have 98% sensitivity and specificity of 56% for serious causes of syncope. However, external prospective validation of the criteria found sensitivity to be 74%, substantially lower than the initial study. This means that in patients with none of the above criteria, potentially serious causes of syncope were missed in over a quarter of patients. Syncope accounts for 1-2% emergency department visits. Half are hospitalized and of these, 50% have unclear diagnosis and 85% will be simply monitored.
+
+
+== References ==

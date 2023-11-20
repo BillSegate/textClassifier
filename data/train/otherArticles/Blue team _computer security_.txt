@@ -1,0 +1,49 @@
+A blue team is a group of individuals who perform an analysis of information systems to ensure security, identify security flaws, verify the effectiveness of each security measure, and to make certain all security measures will continue to be effective after implementation.
+
+History
+As part of the United States computer security defense initiative, red teams were developed to exploit other malicious entities that would do them harm. As a result, blue teams were developed to design defensive measures against such red team activities.
+
+Incident response
+If an incident does occur within the organization, the blue team will perform the following six steps to handle the situation:
+
+Preparation
+Identification
+Containment
+Eradication
+Recovery
+Lessons learned
+
+Operating system hardening
+In preparation for a computer security incident, the blue team will perform hardening techniques on all operating systems throughout the organization.
+
+Perimeter defense
+The blue team must always be mindful of the network perimeter, including traffic flow, packet filtering, proxy firewalls, and intrusion detection systems.
+
+Tools
+Blue teams employ a wide range of tools allowing them to detect an attack, collect forensic data, perform data analysis and make changes to threat future attacks and mitigate threats. The tools include:
+
+Log management and analysis
+AlienVault
+FortiSIEM (a.k.a. AccelOps)
+Graylog
+InTrust
+LogRhythm
+Microsoft Sentinel
+NetWitness
+Qradar (IBM)
+Rapid7
+SIEMonster
+SolarWinds
+Splunk
+
+Security information and event management (SIEM) technology
+SIEM software supports threat detection and security incident response by performing real-time data collection and analysis of security events. This type of software also uses data sources outside of the network including indicators of compromise (IoC) threat intelligence.
+
+See also
+List of digital forensics tools
+Vulnerability management
+White hat (computer security)
+Red team
+
+
+== References ==

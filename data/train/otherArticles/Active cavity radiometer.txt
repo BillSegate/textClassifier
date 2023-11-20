@@ -1,8 +1,0 @@
-An active cavity radiometer is an electrically self-calibrating cavity pyrheliometer that can measure total and spectral solar irradiance.
-
-See also
-Radiometry
-Radiation
-
-
-== References ==

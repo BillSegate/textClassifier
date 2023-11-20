@@ -1,0 +1,40 @@
+Post-acute infection syndromes (PAISs) or post-active phase of infection syndromes are a group of medical conditions characterized by chronic illness triggered by an infection. They are sometimes referred to as infection-associated chronic illnesses as well. While it is commonly assumed that people either recover or die from infections, illness is a possible outcome as well. Examples include long COVID (post-acute sequelae of SARS-CoV-2 infection, PASC), chronic fatigue syndrome (ME/CFS), and post-Ebola virus syndrome. Common symptoms include post-exertional malaise (PEM), severe fatigue, neurocognitive symptoms, flu-like symptoms, and pain. The pathology of most of these conditions is not understood and management is generally symptomatic.
+
+Classification
+PAIS is a broad term describing conditions triggered by various infections, including long COVID, ME/CFS, post-Ebola virus syndrome, post-dengue fatigue syndrome, post-polio syndrome, post-SARS syndrome, post-chikungunya disease, Q fever fatigue syndrome, post-treatment Lyme disease syndrome, and symptoms observed after other infections lacking a specific name. Other better-understood sequela of infections include multisystem inflammatory syndrome in children (MIS-C), delayed acute encephalitis (a rare sequela of measles), and subacute sclerosing panencephalitis. ME/CFS has similar symptoms, and usually, but not always, has an apparent infectious trigger.Many of these conditions, together with multiple sclerosis, are also sometimes categorized as infection-associated chronic illnesses.
+
+Causes
+Pathogens associated with PAISs include SARS-CoV-2 (causing COVID-19), Ebolavirus, Dengue virus, poliovirus, SARS-CoV-1 (causing SARS), Chikungunya virus, Epstein–Barr virus (EBV), West Nile virus (WNV), Ross River virus (RRV), Coxsackie B, influenza A virus subtype H1N1, varicella zoster virus (VZV), Coxiella burnetii, Borrelia, and Giardia. However, the strength of evidence associating these pathogens with chronic illness varies.
+
+Mechanism
+The pathology of post-acute infections syndromes is not understood. The commonality in symptoms between illnesses may point to a common pathology. Major hypotheses include persistence of the original pathogen or its remnants, autoimmunity, chronic inflammation, reactivation of other latent infections, microbiome dysbiosis, or damage to organs, which may include the lungs, brain, kidneys, heart, or blood vessels.
+
+Symptoms
+PAIS symptoms are broadly similar despite diverse triggers. Common symptoms include post-exertional malaise, severe fatigue, neurocognitive and sensory symptoms, flu-like symptoms, unrefreshing sleep, muscle pain, and joint pain. Other nonspecific symptoms may be present and vary among affected people. Some syndromes have specific symptoms. For example, eye problems are common in post-Ebola virus syndrome, and profound weakness is seen in post-polio syndrome and post-West Nile fevers.Symptoms can be severe and debilitating, resulting in lowered quality of life or inability to work.
+
+Diagnosis
+Diagnostic criteria vary among illnesses, and have at times been the subject of intense debate. For example, several definitions of ME/CFS have been in use.
+
+Management
+Treatment options are limited. In general, the focus is on managing symptoms.
+
+Prognosis
+Some people with PAISs recover over time, but others remain ill for years or decades. Many studies have shown that symptoms can continue for at least several years, after which the study concludes. Studies of PTLDS ran longer and found increased rates of symptoms for up to 27 years.
+
+Epidemiology
+Data on epidemiology is limited by the lack of large, rigorous studies; and rates vary by infection. Mononucleosis is among the best studied, and available studies found that 7-9% had persistent symptoms 12 months after infection, and 4% had serious symptoms after 2 years. The British Office of National Statistics data on long COVID say that about 10% of people who had COVID-19 self-reported long COVID 6 months after infection, and about 7% reported long COVID with activity limitations. An Australian study of EBV, C. burnetii, and Ross River Virus found that 11% of participants met the criteria for ME/CFS at 6 months. Around 10-20% of people with SARS also experienced long-term effects.
+
+History
+While PAISs are not new, the COVID-19 pandemic and the emergence of long COVID brought them increased attention.
+
+Society and culture
+PAISs cause a significant disease burden, but have received relatively little attention from scientists, potentially delaying the discovery of causes, diagnostic tests, and treatments. Many doctors are also unfamiliar with them, and may fail to take symptoms seriously.
+
+Research
+PAISs may have a common cause, and different hypotheses are being studied. Long COVID has increased the overall pace of research. Yale School of Medicine operates a research center, founded in 2023, that focuses on PAISs called the Center for Infection & Immunity.
+
+See also
+Postural orthostatic tachycardia syndrome, sometimes triggered by an infection
+
+
+== References ==

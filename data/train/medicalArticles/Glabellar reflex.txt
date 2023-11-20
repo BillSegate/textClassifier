@@ -1,8 +1,0 @@
-The glabellar reflex, also known as the "glabellar tap sign", is a primitive reflex elicited by repetitive tapping of the glabella — the smooth part of the forehead above the nose and between the eyebrows.  Subjects respond to the first several taps by blinking; if tapping were to then be made to persist, in cognitively intact individuals this would lead to habituation and consequent suppression of blinking. If instead the blinking were to persist along with the tapping, this is known as Myerson's sign, and is abnormal and a sign of frontal release; it is often seen in people who have Parkinson's disease.The afferent sensory signals are transmitted by the trigeminal nerve to the brain stem; the efferent signals go to the orbicularis oculi muscle via the facial nerve, causing the muscle to reflexively contract, yielding blinking.
-This reflex was first identified by Walker Overend.
-
-See also
-Glabella
-
-
-== References ==

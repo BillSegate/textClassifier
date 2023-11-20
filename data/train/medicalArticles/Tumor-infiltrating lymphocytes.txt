@@ -1,0 +1,34 @@
+Tumor-infiltrating lymphocytes (TIL) are white blood cells that have left the bloodstream and migrated towards a tumor. They include T cells and B cells and are part of the larger category of ‘tumor-infiltrating immune cells’ which consist of both mononuclear and polymorphonuclear immune cells, (i.e., T cells, B cells, natural killer cells, macrophages, neutrophils, dendritic cells, mast cells, eosinophils, basophils, etc.) in variable proportions. Their abundance varies with tumor type and stage and in some cases relates to disease prognosis.TILs can often be found in the tumor stroma and within the tumor itself. Their functions can dynamically change throughout tumor progression and in response to anticancer therapy
+TILs are implicated in killing tumor cells. The presence of lymphocytes in tumors is often associated with better clinical outcomes (after surgery or immunotherapy).
+
+Detection and characteristics
+TILs can be found between the tumor cells, as TILs in the stroma surrounding the tumor cells do not count.  TILs are often found floating around the tumor without actual penetration or action on the tumor cells. Histologic definitions for TILs vary.
+CD3 has been used to detect lymphocytes in tumor samples. Tumor immune infiltration can also be determined using gene expression methods like Microarray or RNA Sequencing through deconvolution methods such as CIBERSORT. Such methods allow for systematic TIL enumeration and characterization of the tumor microenvironment in diverse cancer types and across thousands of tumors, an approach largely led by Ash Alizadeh, Ajit Johnson among others. Detection of gene expression specific for different kind of immune cell populations can then be used to determine the degree of lymphocyte infiltration as has been shown in breast cancer. An active immune environment within the tumor often indicates a better prognosis as can be determined by the Immunological constant of rejection.
+
+Use in autologous cell therapy
+They are key to an experimental autologous cell therapy (Contego) for metastatic melanoma. Autologous TIL therapy for metastatic melanoma has broad T cell recognition of both defined and undefined tumor antigens against all human leukocyte antigen (HLA) restrictions. TILs can not only recognize over-expressed self/melanocyte differentiation antigens, such as Melan-A/MART-1 (melanoma-specific), gp100, tyrosinase, and survivin, but TILs can also recognize other unknown antigens specific to the tumor and individual patient.
+
+Use in adoptive T cell transfer therapy
+History
+The use of TILs as an adoptive cell transfer therapy to treat cancer was pioneered by Dr. Steven Rosenberg and colleagues at the Surgery Branch of the National Cancer Institute (NCI). Rosenberg and colleagues have conducted clinical trials for more than two decades using TIL adoptive cell therapy for melanoma. TIL adoptive cell therapy is now a routine regimen in centers across the world, including MD Anderson Cancer Center, where the objective response rates originally observed at the NCI have been reproduced. Several centers currently have established TIL therapy protocols for the treatment of melanoma, including the MD Anderson Cancer Center in Houston, Texas, Ella Institute in Sheba Hospital, Israel, and Copenhagen University Hospital in Herlev, Denmark.
+
+Process
+In Adoptive T cell transfer therapy, TILs are expanded ex vivo from surgically resected tumors that have been cut into small fragments or from single cell suspensions isolated from the tumor fragments. Multiple individual cultures are established, grown separately and assayed for specific tumor recognition. TILs are expanded over the course of a few weeks with a high dose of IL-2 in 24-well plates. Selected TIL lines that presented best tumor reactivity are then further expanded in a "rapid expansion protocol" (REP), which uses anti-CD3 activation for a typical period of two weeks. The final post-REP TIL is infused back into the patient. The process can also involve a preliminary chemotherapy regimen to deplete endogenous lymphocytes in order to provide the adoptively transferred TILs with enough access to surround the tumor sites. This chemotherapy regimen is given 7 days before the expanded TIL infusion. This involves pretreatment with a combination of fludarabine and cyclophosphamide. Lympho-depletion is thought to eliminate the negative effects of other lymphocytes that may compete for growth factors and decrease anti-tumor effects of the TILs, depleting regulatory or inhibitory lymphocyte populations.
+
+Clinical Success
+The combination of TILs with a high dose of IL-2 presents multiple clinical trials demonstrating rates near 50% or more patients effectively responding. In summary of TIL therapy clinical trials, TIL therapy was found to induce complete and durable regression of metastatic melanoma. Tumor reduction of 50% or more was observed in about half of patients. Some patients experienced complete responses with no detectable tumor remaining years after treatment. In one clinical trials, among the 93 patients treated with TILs, 19 patients had complete remissions that lasted greater than 3 years.In a randomized, phase III trial conducted between 2014 and 2022 in Denmark and The Netherlands, researchers found that treatment with TILs was superior to ipilimumab in metastatic melanoma. Clinical trials using TILs to treat digestive tract cancers, such as colorectal cancer, and cancers associated with the human papilloma virus (HPV), such as cervical cancer, are ongoing. In colorectal cancer, TILs are associated with microsatellite instability cancers, as may be seen in Lynch syndrome. Also, TILs are associated with most effective immune checkpoint inhibitor therapy in GI cancers. They are an important prognostic factor in melanoma and higher levels being associated with a better outcome. TILs are also associated with better outcomes in epithelial ovarian cancer.The use of TILs to treat other tumor types, including lung, ovarian, bladder, and breast, are under investigation.
+
+Associations with cancer treatments
+TIL therapy in combination with prior immunotherapy treatment, such as IL-2 and anti-CTLA4 (ipilimumab) had higher response rates and more durable responses in clinical trials. This suggests a synergistic effect of prior immunotherapy with TIL therapy. Current studies involve investigating the roles of chemotherapy drugs in combination with TIL therapy to assess improved response rates and synergistic efficacy.
+
+See also
+Lymphocyte
+Tumor-Infiltrating Dendritic Cell
+Cancer Immunotherapy
+CAR T-Cell therapy
+T-cells
+
+References
+External links
+Tumor infiltrating lymphocyte entry in the public domain NCI Dictionary of Cancer Terms
+Lion Biotechnologies, Inc. Archived 2016-07-16 at the Wayback Machine

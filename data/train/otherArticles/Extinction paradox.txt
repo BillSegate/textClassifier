@@ -1,8 +1,0 @@
-In the small wavelength limit, the total scattering cross-section of an impenetrable sphere is twice its geometrical cross-sectional area (which is the value obtained in classical mechanics).Several explanations for this phenomenon have been proposed:
-destructive interference inside particle shadow
-diffraction and shadowing of light by particle
-superposition of incident and scattered field
-cancellation of incident wave inside particle
-
-
-== References ==

@@ -1,4 +1,0 @@
-Self Powered Neutron Detector (SPND) is a neutron detector used in nuclear fission reactors. It is a compact device extensively used worldwide for mapping of neutron flux, helping the reactor-operators in maintaining the neutron economy. It gives a direct current signal proportional to the incident flux of neutrons, due to production of negative beta particles or Compton electrons in the heart of the device.
-
-
-== References ==

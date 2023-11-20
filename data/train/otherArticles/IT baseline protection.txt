@@ -1,0 +1,72 @@
+The IT baseline protection (German: IT-Grundschutz) approach from the German Federal Office for Information Security (BSI) is a methodology to identify and implement computer security measures in an organization. The aim is the achievement of an adequate and appropriate level of security for IT systems. To reach this goal the BSI recommends "well-proven technical, organizational, personnel, and infrastructural safeguards". Organizations and federal agencies show their systematic approach to secure their IT systems (e.g. Information Security Management System) by obtaining an ISO/IEC 27001 Certificate on the basis of IT-Grundschutz.
+
+Overview baseline security
+The term baseline security signifies standard security measures for typical IT systems. It is used in various contexts with somewhat different meanings. For example:
+
+Microsoft Baseline Security Analyzer: Software tool focused on Microsoft operating system and services security
+Cisco security baseline: Vendor recommendation focused on network and network device security controls
+Nortel baseline security: Set of requirements and best practices with a focus on network operators
+ISO/IEC 13335-3 defines a baseline approach to risk management. This standard has been replaced by ISO/IEC 27005, but the baseline approach was not taken over yet into the 2700x series.
+There are numerous internal baseline security policies for organizations,
+The German BSI has a comprehensive baseline security standard, that is compliant with the ISO/IEC 27000-series
+
+BSI IT baseline protection
+The foundation of an IT baseline protection concept is initially not a detailed risk analysis. It proceeds from overall hazards. Consequently, sophisticated classification according to damage extent and probability of occurrence is ignored. Three protection needs categories are established. With their help, the protection needs of the object under investigation can be determined. Based on these, appropriate personnel, technical, organizational and infrastructural security measures are selected from the IT Baseline Protection Catalogs.
+The Federal Office for Security in Information Technology's IT Baseline Protection Catalogs offer a "cookbook recipe" for a normal level of protection. Besides probability of occurrence and potential damage extents, implementation costs are also considered. By using the Baseline Protection Catalogs, costly security analyses requiring expert knowledge are dispensed with, since overall hazards are worked with in the beginning. It is possible for the relative layman to identify measures to be taken and to implement them in cooperation with professionals.
+The BSI grants a baseline protection certificate as confirmation for the successful implementation of baseline protection. In stages 1 and 2, this is based on self declaration. In stage 3, an independent, BSI-licensed auditor completes an audit. Certification process internationalization has been possible since 2006. ISO/IEC 27001 certification can occur simultaneously with IT baseline protection certification. (The ISO/IEC 27001 standard is the successor of BS 7799-2). This process is based on the new BSI security standards. This process carries a development price which has prevailed for some time. Corporations having themselves certified under the BS 7799-2 standard are obliged to carry out a risk assessment. To make it more comfortable, most deviate from the protection needs analysis pursuant to the IT Baseline Protection Catalogs. The advantage is not only conformity with the strict BSI, but also attainment of BS 7799-2 certification. Beyond this, the BSI offers a few help aids like the policy template and the GSTOOL.
+One data protection component is available, which was produced in cooperation with the German Federal Commissioner for Data Protection and Freedom of Information and the state data protection authorities and integrated into the IT Baseline Protection Catalog.  This component is not considered, however, in the certification process.
+
+Baseline protection process
+The following steps are taken pursuant to the baseline protection process during structure analysis and protection needs analysis:
+
+The IT network is defined.
+IT structure analysis is carried out.
+Protection needs determination is carried out.
+A baseline security check is carried out.
+IT baseline protection measures are implemented.Creation occurs in the following steps:
+
+IT structure analysis (survey)
+Assessment of  protection needs
+Selection of actions
+Running comparison of nominal and actual.
+
+IT structure analysis
+An IT network includes the totality of infrastructural, organizational, personnel, and technical components serving the fulfillment of a task in a particular information processing application area. An IT network can thereby encompass the entire IT character of an institution or individual division, which is partitioned by organizational structures as, for example, a departmental network, or as shared IT applications, for example, a personnel information system. It is necessary to analyze and document the information technological structure in question to generate an IT security concept and especially to apply the IT Baseline Protection Catalogs. Due to today's usually heavily networked IT systems, a network topology plan offers a starting point for the analysis. The following aspects must be taken into consideration:
+
+The available infrastructure,
+The organizational and personnel framework for the IT network,
+Networked and non-networked IT systems employed in the IT network.
+The communications connections between IT systems and externally,
+IT applications run within the IT network.
+
+Protection needs determination
+The purpose of the protection needs determination is to investigate what protection is sufficient and appropriate for the information and information technology in use.
+In this connection, the damage to each application and the processed information, which could result from a breach of confidentiality, integrity or availability, is considered. Important in this context is a realistic assessment of the possible follow-on damages. A division into the three protection needs categories "low to medium", "high" and "very high" has proved itself  of value. "Public", "internal" and "secret" are often used for confidentiality.
+
+Modelling
+Heavily networked IT systems typically characterize information technology in government and business these days. As a rule, therefore, it is advantageous to consider the entire IT system and not just individual systems within the scope of an IT security analysis and concept. To be able to manage this task, it makes sense to logically partition the entire IT system into parts and to separately consider each part or even an IT network. Detailed documentation about its structure is prerequisite for the use of the IT Baseline Protection Catalogs on an IT network. This can be achieved, for example, via the IT structure analysis described above. The IT Baseline Protection Catalogs' components must ultimately be mapped onto the components of the IT network in question in a modelling step.
+
+Baseline security check
+The baseline security check is an organisational instrument offering a quick overview of the prevailing IT security level. With the help of interviews, the status quo of an existing IT network (as modelled by IT baseline protection) relative to the number of security measures implemented from the IT Baseline Protection Catalogs are investigated. The result is a catalog in which the implementation status "dispensable", "yes", "partly", or "no" is entered for each relevant measure. By identifying not yet, or only partially, implemented measures, improvement options for the security of the information technology in question are highlighted.
+The baseline security check gives information about measures, which are still missing (nominal vs. actual comparison). From this follows what remains to be done to achieve baseline protection through security. Not all measures suggested by this baseline check need to be implemented. Peculiarities are to be taken into account!  It could be that several more or less unimportant applications are running on a server, which have lesser protection needs. In their totality, however, these applications are to be provided with a higher level of protection. This is called the (cumulation effect).
+The applications running on a server determine its need for protection. Several IT applications can run on an IT system. When this occurs, the application with the greatest need for protection determines the IT systems protection category.
+Conversely, it is conceivable that an IT application with great protection needs does not automatically transfer this to the IT system. This may happen because the IT system is configured redundantly, or because only an inconsequential part is running on it. This is called the (distribution effect). This is the case, for example, with clusters.
+The baseline security check maps baseline protection measures. This level suffices for low to medium protection needs. This comprises about 80% of all IT systems according to BSI estimates. For systems with high to very high protection needs, risk analysis-based information security concepts, like for example ISO/IEC 27000-series standards, are usually used.
+
+IT Baseline Protection Catalog and standards
+During its 2005 restructuring and expansion of the IT Baseline Protection Catalogs, the BSI separated methodology from the IT Baseline Protection Catalog. The BSI 100-1, BSI 100-2, and BSI 100-3 standards contain information about construction of an information security management system (ISMS), the methodology or basic protection approach, and the creation of a security analysis for elevated and very elevated protection needs building on a completed baseline protection investigation.
+BSI 100-4, the "Emergency management" standard, is currently in preparation. It contains elements from BS 25999, ITIL Service Continuity Management combined with the relevant IT Baseline Protection Catalog components, and essential aspects for appropriate  Business Continuity Management (BCM). Implementing these standards renders certification is possible pursuant to BS 25999-2. The BSI has submitted the BSI 100-4 standards design for online commentary under.The BSI brings its standards into line with international norms like the ISO/IEC 27001 this way.
+
+Literature
+BSI:IT Baseline Protection Guidelines (pdf, 420 kB)
+BSI: IT Baseline Protection Cataloge 2007 (pdf)
+BSI: BSI IT Security Management and IT Baseline Protection Standards
+Frederik Humpert: IT-Grundschutz umsetzen mit GSTOOL. Anleitungen und Praxistipps für den erfolgreichen Einsatz des BSI-Standards, Carl Hanser Verlag München, 2005. (ISBN 3-446-22984-1)
+Norbert Pohlmann, Hartmut Blumberg: Der IT-Sicherheitsleitfaden. Das Pflichtenheft zur Implementierung von IT-Sicherheitsstandards im Unternehmen, ISBN 3-8266-0940-9
+
+References
+External links
+Federal Office for Information Security
+IT Security Yellow Pages
+IT Baseline protection tools
+Open Security Architecture- Controls and patterns to secure IT systems

@@ -1,0 +1,14 @@
+Numerical manipulation of Doppler parameters obtain during routine Echocardiography has been extensively utilized to non-invasively estimate intra-cardiac pressures, in many cases removing the need for invasive cardiac catheterization.Echocardiography uses ultrasound to create real-time anatomic images of the heart and its structures.  Doppler echocardiography utilizes the Doppler principle to estimate intracardiac velocities. Via the modified Bernoulli equation, velocity is routinely converted to pressure gradient for use in clinical cardiology decision making.A broad discipline of mathematical modeling of intracardiac velocity parameters for pulmonary circulation and aortic Doppler for aortic stenosis have been investigated.  Diasatolic dysfunction algorithms use complex combinations of these numeric models to estimate intra-cardiac filling pressures. Shunt defects have been studied using the Relative Atrial Index.
+
+See also
+Medical ultrasonography section: Doppler sonography
+Echocardiography
+American Society of Echocardiography
+Christian Doppler
+
+References
+External links
+Echocardiography Textbook by Bonita Anderson
+Echocardiography (Ultrasound of the heart)
+Doppler Examination - Introduction
+The Doppler Principle and the Study of Cardiac Flows

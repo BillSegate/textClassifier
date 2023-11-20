@@ -1,0 +1,27 @@
+A Trademark in computer security is a contract between code that verifies security properties of an object and code that requires that an object have certain security properties. As such it is useful in ensuring secure information flow.  In object-oriented languages, trademarking is analogous to signing of data but can often be implemented without cryptography.
+
+Operations
+A trademark has two operations:
+
+ApplyTrademark!(object)
+This operation is analogous to the private key in a digital signature process, so must not be exposed to untrusted code.
+It should only be applied to immutable objects, and makes sure that when VerifyTrademark? is called on the same value that it returns true.
+
+VerifyTrademark?(object)
+This operation is analogous to the public key in a digital signature process, so can be exposed to untrusted code.
+Returns true if-and-only-if, ApplyTrademark! has been called with the given object.
+
+Relationship to taint checking
+Trademarking is the inverse of taint checking. Whereas taint checking is a black-listing approach that says that certain objects should not be trusted, trademarking is a white-listing approach that marks certain objects as having certain security properties.
+
+Relationship to memoization
+The apply trademark can be thought of as memoizing a verification process.
+
+Relationship to contract verification
+Sometimes a verification process does not need to be done because the fact that a value has a particular security property can be verified statically. In this case, the apply property is being used to assert that an object was produced by code that has been formally verified to only produce outputs with the particular security property.
+
+Example
+One way of applying a trademark in java:
+
+External links
+"Protection in Programming Languages" by James Morris Jr.

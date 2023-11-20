@@ -1,0 +1,9 @@
+The statmho is the unit of electrical conductance in the electrostatic system of units (ESU), an extension of the centimeter-gram-second (CGS) system to cover electrical units.
+
+Conversion
+In the ESU system, the permittivity of free space is set to unity by definition.  This results in unit conversions to the SI system containing a power of the speed of light, c, as well as a power of 10.  In the case of the statmho, the conversion from siemens (S) is given by:
+1 S ≘ c2 × 10−5 s2/m2 × 1 statmho.The value of c in the SI system is 299792458 metres per second exactly by definition. However, in the era in which the ESU system was in use, the speed of light was determined by measurement and was taken to be approximately 29973000000 centimetres per second.
+1 statmho ≘ 1.112650 pS.The sign ≘ denotes 'correspondence' between quantities.  Equality does not apply, since the systems of quantities underlying the two systems of units are mutually incompatible.
+
+
+== References ==

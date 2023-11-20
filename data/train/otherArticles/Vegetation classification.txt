@@ -1,0 +1,207 @@
+Vegetation classification is the process of classifying and mapping the vegetation over an area of the earth's surface. Vegetation classification is often performed by state based agencies as part of land use, resource and environmental management. Many different methods of vegetation classification have been used. In general, there has been a shift from structural classification used by forestry for the mapping of timber resources, to floristic community mapping for biodiversity management. Whereas older forestry-based schemes considered factors such as height, species and density of the woody canopy, floristic community mapping shifts the emphasis onto ecological factors such as climate, soil type and floristic associations. Classification mapping is usually now done using geographic information systems (GIS) software.
+
+Classification schemes
+Following, some important classification schemes.
+
+Köppen (1884)
+Although this scheme is in fact of a climate classification, it has a deep relationship with vegetation studies:
+
+Class A
+Tropical rainforest (Af)
+Tropical monsoon (Am)
+Tropical savanna (Aw, As)
+Class B
+Desert (BWh, BWk)
+Semi-arid (BSh, BSk)
+Class C
+Humid subtropical (Cfa, Cwa)
+Oceanic (Cfb, Cwb, Cfc, Cwc)
+Mediterranean (Csa, Csb, Csc)
+Class D
+Humid continental (Dfa, Dwa, Dfb, Dwb, Dsa, Dsb)
+Subarctic (Dfc, Dwc, Dfd, Dwd, Dsc, Dsd)
+Class E
+Tundra (ET)
+Ice cap (EF)
+Alpine (ET, EF)
+
+Wagner & von Sydow (1888)
+Wagner & von Sydow (1888) scheme: Vegetationsgürtel (vegetation belts):
+Tundren (tundra)
+Hochgebirgsflora (mountain flora)
+Vegetationsarme Gebiete (Wüsten) (vegetation poor areas [deserts])
+der gemässigten zone (the temperate zone)
+Grasland (prairie)
+Vorherrschend Nadelwald (mainly coniferous forest)
+Wald (Laub und Nadelwald) und Kulturland (forest [deciduous and coniferous forest] and cultivated land)
+in tropischen und subtropischen Gebieten (in tropical and subtropical areas)
+Grasland (prairie)
+Wald und Kulturland (forest and cultivated land)
+Urwald (jungle)
+
+Warming (1895, 1909)
+Warming (1895, 1909) oecological classes:
+A. The soil (in the widest sense) is very wet, and the abundant water is available to the plant (at least in Class 1), the formations are therefore more or less hydrophilous:
+Class 1. Hydrophytes (of formations in water).
+Class 2. Helophytes (of formations in marsh).
+B. The soil is physiologically dry, i. e. contains water which is available to the plant only to a slight extent; the formations are therefore essentially composed of xerophilous species:
+Class 3. Oxylophytes (of formations on sour (acid) soil).
+Class 4. Psychrophytes (of formations on cold soil).
+Class 5. Halophytes (of formations on saline soil).
+C. The soil is physically dry, and its slight power of retaining water determines the vegetation, the climate being of secondary import; the formations are therefore likewise xerophilous:
+Class 6. Lithophytes (of formations on rocks).
+Class 7. Psammophytes (of formations on sand and gravel).
+Class 8. Chersophytes (of formations on waste land).
+D. The climate is very dry and decides the character of the vegetation; the properties of the soil are dominated by climate; the formations are also xerophilous:
+Class 9. Eremophytes (of formations on desert and steppe).
+Class 10. Psilophytes (of formations on savannah).
+Class 11. Sclerophyllous formations (bush and forest).
+E. The soil is physically or physically dry:
+Class 12. Coniferous formations (forest).
+F. Soil and climate favour the development of mesophilous formations:
+Class 13. Mesophytes.Warming's types of formations:
+
+1. Microphyte-formation
+2. Moss-formation
+3. Herb-formation
+4. Dwarf-shrub formations and undershrub-formations
+5. Bush-wood or shrub-wood
+6. Forest
+High forest
+Underwood
+Forest-floor vegetation
+Other
+Simple formations
+Compound formations
+Mixed formations
+Secondary formations
+Sub-formations
+
+Schimper (1898, 1903)
+Schimper (1898, 1903) climatic chief formation types:
+Woodland, forest, bushwood, shrubwood
+Grassland, meadow (hygrophilous or tropophilous), steppe (xerophilous), savannah (xerophilous grassland containing isolated trees)
+Desert (dry or cold)Schimper formation types across the zones and regions
+
+Tropical zone formations
+Climatic formations
+Tropical districts constantly moist
+Rain-forest
+Tropical districts with pronounced dry seasons
+Woodland formations (monsoon-forest, savannah-forest, thorn-forest)
+Grassland formations
+Tropical deserts
+Edaphic formations
+In Tropical Inland Country
+In Tropical Sea-shore
+Temperate zone formations
+Climatic formations
+Warm temperate belts
+Subtropical districts
+Constantly moist districts (without a dry season)
+Moist summer districts
+Moist winter districts
+Cold temperate belts
+Temperate deserts
+Edaphic formations
+Littoral Formations
+Heath
+Moors
+Arctic zone formations
+Tundra, moss-tundra, lichen-tundra, moors, oases
+Mountain climate formations (basal region, montane region, alpine region)
+In the tropics
+In the temperate zones
+Aquatic vegetation
+Marine vegetation
+Freshwater vegetation
+
+Schimper & Faber (1935)
+Formation-types:
+1. Tropical rainforest
+2. Subtropical rainforest
+3. Monsoon forest
+4. Temperate rainforest
+5. Summer-green deciduous forest
+6. Needle-leaf forest
+7. Evergreen hardwood forest
+8. Savanna woodland
+9. Thorn forest and scrub
+10. Savanna
+11. Steppe and semidesert
+12. Heath
+13. Dry desert
+14. Tundra and cold woodland
+15. Cold desert
+
+Ellenberg & Mueller-Dombois (1967)
+Ellenberg and Mueller-Dombois (1967) scheme:
+
+Formation-class I. Closed forests
+Formation-class II. Woodlands
+Formation-class III. Fourrés (shrublands or thickets)
+Formation-class IV. Dwarf-scrub and related communities
+Formation-class V. Terrestrial herbaceous communities
+Formation-class VI. Deserts and other scarcely vegetated areas
+Formation-class VII. Aquatic plant formations
+
+Oliveira-Filho (2009, 2015)
+A vegetation classification with six main criteria ("hierarchical attributes", with exemplified categories applicable mainly to Neotropical region):
+A. Basic vegetation physiognomies
+1. Forest physiognomies
+2. Shrubland physiognomies
+3. Savanna physiognomies
+4. Grassland physiognomies
+5. Man-made physiognomies
+B. Climatic regime
+Maritime
+Semi-arid
+Seasonal
+Rain
+Cloud
+C. Leaf flush regime
+Evergreen
+Semideciduous
+Deciduous
+Alternate
+Ephemeral
+D. Thermal realm
+Tropical
+Subtropical, etc.
+E. Elevation range
+Coastal
+Lower plains
+Upper plains
+Lower highlands
+Upper highlands
+Montane
+F. Substrate
+Shallow soils
+Deep soils
+Soily
+Sandy
+Gravelly
+Rocky
+Dystrophic
+Mesotrophic
+Eutrophic
+Ridge
+Slope
+Thalweg
+Riverine
+Floodplain
+Marshy
+Swampy
+
+Other
+Other important schemes: Grisebach (1872), Tansley and Chipp (1926), Rübel (1930), Burtt Davy (1938), Beard (1944, 1955), André Aubréville (1956, 1957), Trochain (1955, 1957), Dansereau (1958), Küchler (1967),  Webb and  Tracey (1975).In the sixties, A. W. Kuchler coordinated an extensive review of vegetation maps from all the continents, compiling the terminology used for the types of vegetation.
+
+See also
+Biogeography
+Ecological classification
+List of national vegetation classification systems
+Phytogeography
+Plant community
+
+
+== References ==

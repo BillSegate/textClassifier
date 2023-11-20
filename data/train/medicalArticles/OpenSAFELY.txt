@@ -1,5 +1,0 @@
-OpenSAFELY is an interface to NHS patient records which enables statistical analysis of them by medical researchers.  Initially, it has been used to make an analysis of the risk factors associated with deaths from COVID-19 in hospital in the UK.  This is significant because the dataset is especially large – 20 billion rows of data for about 58 million patients.The platform interfaces with a secure database of pseudonymized primary care records, and only aggregated results are viewable by researchers. This allows researchers to access a large dataset necessary for identifying potential risk factors without the risks of exposing personal patient information.
-
-References
-External links
-OpenSAFELY – official website

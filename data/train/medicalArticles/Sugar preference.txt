@@ -1,0 +1,28 @@
+Sugar preference is a biological phenomena where sugar is favored over artificial sweeteners by both humans and animals.
+
+Neurological process
+All animals need sugar as their primary source of energy, hence the majority of species have developed specific neural circuits to look for, recognize, and encourage their use of it.
+As originally shown by Ivan De Araujo, animals who lack sweet taste receptors can still develop strong preferences for sugar, indicating a process unrelated to taste.The neurological underpinnings of sugar preference showed that the gut-brain axis activates a population of neurons in the brainstem and superior ganglion of vagus nerve  to produce a desire for sugar. Direct sugar supply to the gut activates these neurons, which are stimulated by sugar but not by artificial sweeteners .Specific taste receptor cells on the tongue and palate epithelium are able to detect sweet substances. Hardwired signals are sent to the brain by activated sweet taste receptor cells to trigger detection of sweet-tasting compounds. Researchers have investigated  the circuits that link the activation of sweet taste receptors on the tongue to the attraction that is elicited by sweetness. Remarkably, animals can still develop a desire for sugar even in the absence of a functional sweet-taste pathway. In addition, although activating the same sweet taste receptor as sugars and possibly doing so with far higher affinities , artificial sweeteners are unable to replace sugar in terms of eliciting a behavioral preference.
+
+Taste buds
+Shortly after the sweet taste receptor was discovered, researchers attempted to remove those taste buds . But scientists discovered that an animal who lacks taste receptors could nevertheless distinguish between natural sugar and artificial sweeteners and preferred the latter.When offered the option to choose between water and sugar, the animal virtually always chooses the sugar solution. However, when given the option to choose between sugar and an artificial sweetener (such as Acesulfame potassium ) at concentrations where both are equally desirable, it initially consumes the contents of both bottles at a similar pace. However, after being exposed to both options for 24 hours, its preference significantly changes, and after 48 hours, they nearly exclusively drink from the sugar-containing bottle. This behavioral change also occurs in the animal without the ability to taste sweet things. Thus, despite the fact that they are unable to taste sugar or sweetener, it is nevertheless able to identify and select sugar, most likely as a result of the sugar's post-ingestive effects .
+
+Caloric sugars and non-caloric sweeteners
+Caloric sugars are preferred by animals over non-caloric sweets by nature. The amount of sugar that enters the intestines determines this predilection. Although the brain becomes aware of the stimulation in a few seconds, it is unknown how the gut determines the caloric sugar to influence choice. A new cell was identified - a neuropod, an intestinal transducer. This cell synapses with the vagus to instantly alert the brain to the presence of glucose in the gut. The electrogenic sodium glucose co-transporter 1 (Sodium-glucose transport proteins  SGLT1) or sweet taste receptors are used by neuropod cells to differentiate between a caloric sugar and a non-caloric sweetener. Adenosine triphosphate (ATP) is released when non-caloric sucralose activates neuropod cells, but glutamate is released when caloric sucrose enters through SGLT1.A technique was created in order to record animal preferences in real time while utilizing optogenetics to quiet or excite neuropod cells in order to examine the role of the neuropod cell in sugar preference. It was found that mice cannot detect the caloric sugar when these cells are silenced or their glutamatergic transmission is blocked. Additionally, stimulating neuropod cells causes the animal to take the calorie-free sweetener as if it was a calorie. Neuropod cells direct an animal's internal predilection toward the caloric sugar by translating the particular identification of the stimuli entering the stomach
+
+References
+Bibliography
+Miller, N. E. & Kessen, M. L. Reward effects of food via stomach fistula compared with those of food via mouth. J. Comp. Physiol. Psychol. 45, 555–564 (1952).
+Sclafani, A. Post-ingestive positive controls of ingestive behavior. Appetite 36, 79–83 (2001)
+de Araujo, I. E. et al. Food Reward in the Absence of Taste Receptor Signaling. Neuron (2008) doi: 10.1016/j.neuron.2008.01.032
+Han, W. et al. Striatal Dopamine Links Gastrointestinal Rerouting to Altered Sweet Appetite. Cell Metab. 23, 103–112 (2016)
+Bohórquez, D. V. et al. Neuroepithelial circuit formed by innervation of sensory enteroendocrine cells. J. Clin. Invest. 125, 782–786 (2015)
+Williams, E. K. K. et al. Sensory Neurons that Detect Stretch and Nutrients in the Digestive System. Cell (2016) doi: 10.1016/j.cell.2016.05.011.
+Su, Z., Alhadeff, A. L. & Betley, J. N. Nutritive, Post-ingestive Signals Are the Primary Regulators of AgRP Neuron Activity. Cell Rep. (2017) doi: 10.1016/j.celrep.2017.11.036.
+Beutler, L. R. et al. Dynamics of Gut-Brain Communication Underlying Hunger. Neuron (2017) doi: 10.1016/j.neuron.2017.09.043.
+Bohórquez, D. V. et al. Neuroepithelial circuit formed by innervation of sensory enteroendocrine cells. J. Clin. Invest. 125, (2015)
+Kaelberer, M. M. et al. A gut-brain neural circuit for nutrient sensory transduction. Science (80-.). (2018) doi: 10.1126/science.aat5236.
+
+External links
+bioRxiv: A gut sensor for sugar preference
+Nature Journal: The gut – brain axis mediates sugar preference

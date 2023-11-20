@@ -1,0 +1,499 @@
+In population biology and demography, generation time is the average time between two consecutive generations in the lineages of a population. In human populations, generation time typically has ranged from 20 to 30 years, with wide variation based on gender and society. Historians sometimes use this to date events, by converting generations into years to obtain rough estimates of time.
+
+Definitions and corresponding formulas
+The existing definitions of generation time fall into two categories: those that treat generation time as a renewal time of the population, and those that focus on the distance between individuals of one generation and the next. Below are the three most commonly used definitions:
+
+The time it takes for the population to grow by a factor of its net reproductive rate
+The net reproductive rate 
+  
+    
+      
+        
+          
+            R
+            
+              0
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle R_{0}}
+   is the number of offspring an individual is expected to produce during its lifetime (a net reproductive rate of 1 means that the population is at its demographic equilibrium). This definition envisions the generation time as a renewal time of the population. It justifies the very simple definition used in microbiology ("the time it takes for the population to double", or doubling time) since one can consider that during the exponential phase of bacterial growth mortality is very low and as a result a bacterium is expected to be replaced by two bacteria in the next generation (the mother cell and the daughter cell). If the population dynamic is exponential with a growth rate 
+  
+    
+      
+        
+          r
+        
+      
+    
+    {\displaystyle \textstyle r}
+  , that is,
+
+  
+    
+      
+        n
+        (
+        t
+        )
+        =
+        α
+        
+        
+          e
+          
+            r
+            t
+          
+        
+      
+    
+    {\displaystyle n(t)=\alpha \,e^{rt}}
+  ,where 
+  
+    
+      
+        
+          n
+          (
+          t
+          )
+        
+      
+    
+    {\displaystyle \textstyle n(t)}
+   is the size of the population at time 
+  
+    
+      
+        
+          t
+        
+      
+    
+    {\displaystyle \textstyle t}
+  , then this measure of the generation time is given by
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              log
+              ⁡
+              
+                R
+                
+                  0
+                
+              
+            
+            r
+          
+        
+      
+    
+    {\displaystyle T={\frac {\log R_{0}}{r}}}
+  .Indeed, 
+  
+    
+      
+        
+          T
+        
+      
+    
+    {\displaystyle \textstyle T}
+   is such that 
+  
+    
+      
+        n
+        (
+        t
+        +
+        T
+        )
+        =
+        
+          R
+          
+            0
+          
+        
+        
+        n
+        (
+        t
+        )
+      
+    
+    {\displaystyle n(t+T)=R_{0}\,n(t)}
+  , i.e. 
+  
+    
+      
+        
+          e
+          
+            r
+            T
+          
+        
+        =
+        
+          R
+          
+            0
+          
+        
+      
+    
+    {\displaystyle e^{rT}=R_{0}}
+  .
+
+The average difference in age between parent and offspring
+This definition is a measure of the distance between generations rather than a renewal time of the population. Since many demographic models are female-based (that is, they only take females into account), this definition is often expressed as a mother-daughter distance (the "average age of mothers at birth of their daughters"). However, it is also possible to define a father-son distance (average age of fathers at the birth of their sons) or not to take sex into account at all in the definition. In age-structured population models, an expression is given by:
+
+  
+    
+      
+        T
+        =
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        x
+        
+          e
+          
+            −
+            r
+            x
+          
+        
+        ℓ
+        (
+        x
+        )
+        m
+        (
+        x
+        )
+        
+        
+          d
+        
+        x
+      
+    
+    {\displaystyle T=\int _{0}^{\infty }xe^{-rx}\ell (x)m(x)\,\mathrm {d} x}
+  ,where 
+  
+    
+      
+        
+          r
+        
+      
+    
+    {\displaystyle \textstyle r}
+   is the growth rate of the population, 
+  
+    
+      
+        
+          ℓ
+          (
+          x
+          )
+        
+      
+    
+    {\displaystyle \textstyle \ell (x)}
+   is the survivorship function (probability that an individual survives to age 
+  
+    
+      
+        
+          x
+        
+      
+    
+    {\displaystyle \textstyle x}
+  ) and 
+  
+    
+      
+        
+          m
+          (
+          x
+          )
+        
+      
+    
+    {\displaystyle \textstyle m(x)}
+   the maternity function (or birth function, or age-specific fertility). For matrix population models, there is a general formula:
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              λ
+              
+                v
+                w
+              
+            
+            
+              v
+              F
+              w
+            
+          
+        
+        =
+        
+          
+            1
+            
+              ∑
+              
+                e
+                
+                  λ
+                
+              
+              (
+              
+                f
+                
+                  i
+                  j
+                
+              
+              )
+            
+          
+        
+      
+    
+    {\displaystyle T={\frac {\lambda \mathbf {vw} }{\mathbf {vFw} }}={\frac {1}{\sum e_{\lambda }(f_{ij})}}}
+  ,where 
+  
+    
+      
+        
+          λ
+          =
+          
+            e
+            
+              r
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle \lambda =e^{r}}
+   is the discrete-time growth rate of the population, 
+  
+    
+      
+        
+          
+            F
+          
+          =
+          (
+          
+            f
+            
+              i
+              j
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \textstyle \mathbf {F} =(f_{ij})}
+   is its fertility matrix, 
+  
+    
+      
+        
+          
+            v
+          
+        
+      
+    
+    {\displaystyle \textstyle \mathbf {v} }
+   its reproductive value (row-vector) and 
+  
+    
+      
+        
+          
+            w
+          
+        
+      
+    
+    {\displaystyle \textstyle \mathbf {w} }
+   its stable stage distribution (column-vector); the 
+  
+    
+      
+        
+          
+            e
+            
+              λ
+            
+          
+          (
+          
+            f
+            
+              i
+              j
+            
+          
+          )
+          =
+          
+            
+              
+                f
+                
+                  i
+                  j
+                
+              
+              λ
+            
+          
+          
+            
+              
+                ∂
+                λ
+              
+              
+                ∂
+                
+                  f
+                  
+                    i
+                    j
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle e_{\lambda }(f_{ij})={\frac {f_{ij}}{\lambda }}{\frac {\partial \lambda }{\partial f_{ij}}}}
+   are the elasticities of 
+  
+    
+      
+        
+          λ
+        
+      
+    
+    {\displaystyle \textstyle \lambda }
+   to the fertilities.
+
+The age at which members of a given cohort are expected to reproduce
+This definition is very similar to the previous one but the population need not be at its stable age distribution. Moreover, it can be computed for different cohorts and thus provides more information about the generation time in the population. This measure is given by:
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              
+                ∫
+                
+                  x
+                  =
+                  0
+                
+                
+                  ∞
+                
+              
+              x
+              ℓ
+              (
+              x
+              )
+              m
+              (
+              x
+              )
+              
+              
+                d
+              
+              x
+            
+            
+              
+                ∫
+                
+                  x
+                  =
+                  0
+                
+                
+                  ∞
+                
+              
+              ℓ
+              (
+              x
+              )
+              m
+              (
+              x
+              )
+              
+              
+                d
+              
+              x
+            
+          
+        
+      
+    
+    {\displaystyle T={\frac {\int _{x=0}^{\infty }x\ell (x)m(x)\,\mathrm {d} x}{\int _{x=0}^{\infty }\ell (x)m(x)\,\mathrm {d} x}}}
+  .Indeed, the numerator is the sum of the ages at which a member of the cohort reproduces, and the denominator is  R0, the average number of offspring it produces.
+
+
+== References ==

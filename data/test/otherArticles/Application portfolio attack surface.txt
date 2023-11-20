@@ -1,0 +1,4 @@
+In the realm of application security, the term Application Portfolio Attack Surface or APAS, refers to the collective risk to an organization posed by the sum total of the security vulnerabilities found within the set of all mission critical systems or software run by the organization or enterprise.
+
+
+== References ==

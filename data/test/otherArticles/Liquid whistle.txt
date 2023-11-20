@@ -1,4 +1,0 @@
-A liquid whistle is a static mixer which passes fluid at high pressure through an orifice and over a blade. This subjects the fluid to high turbulence and may result in mixing or emulsification.
-
-
-== References ==

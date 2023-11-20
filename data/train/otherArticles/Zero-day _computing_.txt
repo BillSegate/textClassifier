@@ -1,0 +1,73 @@
+A zero-day (also known as a 0-day) is a vulnerability in a computer system that was previously unknown to its developers or anyone capable of mitigating it. Until the vulnerability is mitigated, threat actors can exploit it. An exploit taking advantage of a zero-day is called a zero-day exploit, or zero-day attack.
+The term "zero-day" originally referred to the number of days since a new piece of software was released to the public, so "zero-day software" was obtained by hacking into a developer's computer before release. Eventually the term was applied to the vulnerabilities that allowed this hacking, and to the number of days that the vendor has had to fix them. Vendors who discover the vulnerability may create patches or advise workarounds to mitigate it. Still users need to deploy the mitigation to eliminate the vulnerability in their systems. Zero-day attacks are severe threats.
+
+Attack vectors
+Potential attack vectors for a zero-day vulnerability are identical to known vulnerabilities and those that have available patches. For example, when a user visits a rogue website, malicious code on the site can exploit unpatched vulnerabilities in a Web browser. Web browsers are a particular target for criminals because of their widespread distribution and usage. Cybercriminals, as well as international vendors of spyware such as Israel’s NSO Group, can also send malicious e-mail attachments via SMTP, which exploit vulnerabilities in the application opening the attachment. Exploits that take advantage of common file types are numerous and frequent, as evidenced by their increasing appearances in databases such as US-CERT. Criminals can engineer malware to take advantage of these file type exploits to compromise attacked systems or steal confidential data.
+
+Window of vulnerability
+The time from when a software exploit first becomes active to the time when the number of vulnerable systems shrinks to insignificance is known as the window of vulnerability. The timeline for each software vulnerability is defined by the following main events: 
+
+t0: The vulnerability is discovered (by anyone).
+t1a: A security patch is published (e.g., by the software vendor).
+t1b: An exploit becomes active.
+t2: Most vulnerable systems have applied the patch.Thus the formula for the length of the window of vulnerability is: t2 − t1b.
+In this formulation, it is always true that t0 ≤ t1a, and t0 ≤ t1b. Note that t0 is not the same as day zero. For example, if a hacker is the first to discover (at t0) the vulnerability, the vendor might not learn of it until much later (on day zero).
+For normal vulnerabilities, t1b > t1a. This implies that the software vendor was aware of the vulnerability and had time to publish a security patch (t1a) before any hacker could craft a workable exploit (t1b). For zero-day exploits, t1b ≤ t1a, such that the exploit becomes active before a patch is made available.
+By not disclosing known vulnerabilities, a software vendor hopes to reach t2 before t1b is reached, thus avoiding any exploits. However, the vendor has no guarantees that hackers will not find vulnerabilities on their own. Furthermore, hackers can analyze the security patches themselves, and thereby discover the underlying vulnerabilities and automatically generate working exploits. These exploits can be used effectively up until time t2.
+In practice, the length of the window of vulnerability varies between systems, vendors, and individual vulnerabilities. It is often measured in days, with one report from 2006 estimating the average as 28 days.
+
+Protection
+Zero-day protection is the ability to provide protection against zero-day exploits. Since zero-day attacks are generally unknown to the public, it is often difficult to defend against them. Zero-day attacks are often effective against "secure" networks and can remain undetected even after they are launched. Thus, users of so-called secure systems must also exercise common sense and practice safe computing habits.Many techniques exist to limit the effectiveness of zero-day memory corruption vulnerabilities such as buffer overflows. These protection mechanisms exist in contemporary operating systems such as macOS, Windows Vista (see Security and safety features new to Windows Vista) and beyond, Solaris, Linux, Unix, and Unix-like environments; Windows XP Service Pack 2 includes limited protection against generic memory corruption vulnerabilities and previous versions include even less. Desktop and server protection software also exist to mitigate zero-day buffer overflow vulnerabilities. Typically, these technologies involve heuristic termination analysis in order to stop attacks before they cause any harm.It has been suggested that a solution of this kind may be out of reach because it is algorithmically impossible in the general case to analyze any arbitrary code to determine if it is malicious, as such an analysis reduces to the halting problem over a linear bounded automaton, which is unsolvable. It is, however, unnecessary to address the general case (that is, to sort all programs into the categories of malicious or non-malicious) under most circumstances in order to eliminate a wide range of malicious behaviors. It suffices to recognize the safety of a limited set of programs (e.g., those that can access or modify only a given subset of machine resources) while rejecting both some safe and all unsafe programs. This does require the integrity of those safe programs to be maintained, which may prove difficult in the face of a kernel-level exploit.The Zeroday Emergency Response Team (ZERT) was a group of software engineers who worked to release non-vendor patches for zero-day exploits.
+
+Worms
+Computer worms are intercepted using knowledge about how they infect their hosts. Zero-day worms take advantage of a surprise attack while they are still unknown to computer security professionals. Recent history shows an increasing rate of worm propagation. New worms are difficult to detect, because their infection signatures are unknown, and well-designed worms can spread very quickly throughout the Internet, sometimes with devastating consequences.
+
+Ethics
+Differing ideologies exist relating to the collection and use of zero-day vulnerability information. Many computer security vendors perform research on zero-day vulnerabilities in order to better understand the nature of vulnerabilities and their exploitation by individuals, computer worms and viruses. Alternatively, some vendors purchase vulnerabilities to augment their research capacity. An example of such a program is TippingPoint's Zero Day Initiative. While selling and buying these vulnerabilities is not technically illegal in most parts of the world, there is a lot of controversy over the method of disclosure. A 2006 German decision to include Article 6 of the Convention on Cybercrime and the EU Framework Decision on Attacks against Information Systems may make selling or even manufacturing vulnerabilities illegal.Most formal programs follow some form of Rain Forest Puppy's disclosure guidelines or the more recent OIS Guidelines for Security Vulnerability Reporting and Response. In general, these rules forbid the public disclosure of vulnerabilities without notification to the vendor and adequate time to produce a patch.
+
+Viruses
+A zero-day virus (also known as zero-day malware or next-generation malware) is a previously unknown computer virus or other malware for which specific antivirus software signatures are not yet available.Traditionally, antivirus software relied upon signatures to identify malware. A virus signature is a unique pattern or code that can be used to detect and identify specific viruses. The antivirus scans file signatures and compares them to a database of known malicious codes. If they match, the file is flagged and treated as a threat. The major limitation of signature-based detection is that it is only capable of flagging already known malware, making it useless against zero-day attacks. Most modern antivirus software still uses signatures but also carries out other types of analysis.
+
+Code analysis
+In code analysis, the machine code of the file is analysed to see if there is anything that looks suspicious. Typically, malware has characteristic behaviour; code analysis attempts to detect if this is present in the code.
+Although useful, code analysis has significant limitations. It is not always easy to determine what a section of code is intended to do, particularly if it is very complex and has been deliberately written with the intention of defeating analysis. Another limitation of code analysis is the time and resources available. In the competitive world of antivirus software, there is always a balance between the effectiveness of analysis and the time delay involved.
+One approach to overcome the limitations of code analysis is for the antivirus software to run suspect sections of code in a safe sandbox and observe their behavior. This can be orders of magnitude faster than analyzing the same code, but must resist (and detect) attempts by the code to detect the sandbox.
+
+Generic signatures
+Generic signatures are signatures that are specific to certain behaviour rather than a specific item of malware. Most new malware is not totally novel, but is a variation on earlier malware, or contains code from one or more earlier examples of malware. Thus, the results of previous analysis can be used against new malware.
+
+Competitiveness in the antivirus software industry
+It is generally accepted in the antivirus industry that most vendors' signature-based protection is identically effective. If a signature is available for an item of malware, then every product (unless dysfunctional) should detect it. However, some vendors are significantly faster than others at becoming aware of new viruses and/or updating their customers' signature databases to detect them.There is a wide range of effectiveness in terms of zero-day virus protection. The German computer magazine c't found that detection rates for zero-day viruses varied from 20% to 68%. It is primarily in the area of zero-day virus performance that manufacturers now compete.
+
+U.S. government involvement
+NSA's use of zero-day exploits (2017)
+In mid-April 2017 the hackers known as The Shadow Brokers (TSB), who are allegedly linked to the Russian government, released files from the NSA (initially just regarded as alleged to be from the NSA, later confirmed through internal details and by American whistleblower Edward Snowden) which include a series of 'zero-day exploits' targeting Microsoft Windows software and a tool to penetrate the Society for Worldwide Interbank Financial Telecommunication (SWIFT)'s service provider. Ars Technica had reported Shadow Brokers' hacking claims in mid-January 2017, and in April the Shadow Brokers posted the exploits as proof.
+
+Vulnerabilities Equities Process
+The Vulnerabilities Equities Process, first revealed publicly in 2016, is a process used by the U.S. federal government to determine on a case-by-case basis how it should treat zero-day computer security vulnerabilities: whether to disclose them to the public to help improve general computer security or to keep them secret for offensive use against the government's adversaries. The process has been criticized for a number of deficiencies, including restriction by non-disclosure agreements, lack of risk ratings, special treatment for the NSA, and a less than full commitment to disclosure as the default option.
+
+See also
+Access control
+Bug bounty program
+Exploit-as-a-Service
+Heuristic analysis
+Market for zero-day exploits
+Network Access Control
+Network Access Protection
+Network Admission Control
+Software-defined protection
+Stuxnet
+Targeted attacks
+Vault 7
+White hat (computer security)
+Zero Days, a documentary about the 4 zero-days in stuxnet
+
+References
+Further reading
+Messmer, Ellen (April 6, 2007). "Is Desktop Antivirus Dead?". PC World. Archived from the original on April 24, 2016. Retrieved July 24, 2015.
+Naraine, Ryan (December 1, 2006). "Anti-Virus Is Dead, D-E-A-D, Dead!". eWeek. Archived from the original on January 7, 2010.Examples of zero-day attacks
+(Chronological order)
+
+"PowerPoint Zero-Day Attack May Be Case of Corporate Espionage". FoxNews. July 24, 2006.
+Naraine, Ryan (December 7, 2006). "Microsoft Issues Word Zero-Day Attack Alert". eWeek.
+"Attackers seize on new zero-day in Word". InfoWorld. February 15, 2007.

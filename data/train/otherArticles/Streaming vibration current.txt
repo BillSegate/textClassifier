@@ -1,8 +1,0 @@
-The streaming vibration current (SVI) and the associated streaming vibration potential is an electric signal that arises when an acoustic wave propagates through a porous body in which the pores are filled with fluid.
-Streaming vibration current was experimentally observed in 1948 by M. Williams. A theoretical model was developed some 30 years later by Dukhin and coworkers. This effect opens another possibility for characterizing the electric properties of the surfaces in porous bodies.
-
-See also
-Interface and colloid science
-
-
-== References ==

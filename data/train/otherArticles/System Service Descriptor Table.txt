@@ -1,0 +1,17 @@
+The System Service Descriptor Table (SSDT) is an internal dispatch table within Microsoft Windows.
+
+Function
+The SSDT maps syscalls to kernel function addresses.
+When a syscall is issued by a user space application, it contains the service index as parameter to indicate which syscall is called. The SSDT is then used to resolve the address of the corresponding function within ntoskrnl.exe.
+In modern Windows kernels, two SSDTs are used: One for generic routines (KeServiceDescriptorTable) and a second (KeServiceDescriptorTableShadow) for graphical routines. A parameter passed by the calling userspace application determines which SSDT shall be used.
+
+Hooking
+Modification of the SSDT allows to redirect syscalls to routines outside the kernel. These routines can be either used to hide the presence of software or to act as a backdoor to allow attackers permanent code execution with kernel privileges. For both reasons, hooking SSDT calls is often used as a technique in both Windows kernel mode rootkits and antivirus software.In 2010, many computer security products which relied on hooking SSDT calls were shown to be vulnerable to exploits using race conditions to attack the products' security checks.
+
+See also
+Windows API
+Native API
+Rootkit
+
+
+== References ==

@@ -1,0 +1,64 @@
+The Pediatric Assessment Triangle or PAT is a tool used in emergency medicine to form a general impression of a pediatric patient.  In emergency medicine, a general impression is formed the first time the medical professional views the patient, usually within seconds.  The PAT is a method of quickly determining the acuity of the child, identifying the type of pathophysiology, e.g.,  respiratory distress, respiratory failure, or shock and establishing urgency for treatment. The PAT also drives initial resuscitation and stabilization efforts based on the assessment findings.
+The PAT is widely taught, among other contexts, in all American advanced pediatric life support courses for all types of providers (doctors, nurses, prehospital personnel) and hence represents both a validated practice and teaching tool.
+History of the Triangle
+The PAT was originally developed in 1996 by Drs. Ronald Dieckmann, Dena Brownstein and Marianne Gausche-Hill as a novel tool to standardize the initial assessment of infants and children for all levels of health care providers. After the PAT was created and utilized in the first Pediatric Education for Paramedics (PEP) Course, it instantaneously became a popular tool for practice and teaching. With the broad dissemination of the second generation Pediatric Education for Prehospital Professionals (PEPP) Course nationally and internationally by the American Academy of Pediatrics (AAP) in 2000, the PAT became the PEPP “brand” and the ongoing course logo. Then, in 2005, following the enthusiastic adoption of the PAT by PEPP learners, the PAT was established as the recommended assessment model for all American pediatric life support courses in a national consensus meeting sponsored by the Federal Emergency Medical Services for Children (EMSC) Program. The PAT then became the standard approach to assessment of children in all pediatric life support programs, including APLS: The Pediatric Emergency Medicine Resource, the Emergency Nurse Pediatric Course (ENPC) for nurses, the Pediatric Advanced Life Support (PALS) Course, and the NAEMT’s Pediatric Emergency Care (PEC) Course.More recently, the PAT has been widely utilized in general pediatric education.
+
+Components of the Triangle
+The PAT consists of three areas of assessment: Appearance; Work of Breathing; and Circulation to Skin.
+
+Appearance
+The "Appearance" portion of the Triangle measures a variety of things, designed to determine whether the child is experiencing mental status changes (as these can be difficult to identify in an infant or young child).  Components of the "Appearance" item also help to determine whether the child's airway is clear.
+The acronym "TICLS" (pronounced "tickles") is sometimes used by emergency medical providers to recall the components of the "Appearance" item:
+Tone (muscle tone)
+Abnormal: Limp, rigid, or absent muscle tone
+Normal: Good muscle tone with good movement of the extremities.  Infants should strongly resist attempts to straighten their limbs.
+Irritability
+Abnormal: Crying is absent, or abnormal.  The child cannot be stimulated to cry.  In addition to indicating an altered mental status, this may also be a sign of an occluded airway.
+Normal: Strong, normal cry (this is a reliable sign of a clear airway)
+Consolability
+Abnormal: The child cannot be consoled or comforted by usual caregivers.  The child does not respond normally to environmental stimuli, like preferred toys.
+Normal: The child is able to be consoled by usual caregivers.  The child responds in his or her usual way to environmental stimuli.
+Look (gaze)
+Abnormal: Vacant stare with lack of eye contact.  The child may not seem to recognize normal caregivers.
+Normal: Child is able to make eye contact
+Speech
+Abnormal: The child is unable to express himself or herself age-appropriately.  Speech (or crying for babies) is absent or abnormal.  As with lack of crying in infants, this can be a sign of an occluded airway.
+Normal: The child expresses himself or herself age-appropriately.  Speech (or crying) is normal (this is a reliable sign of a clear airway).
+
+Work of Breathing
+"Work of Breathing" measures respiratory effort and visible signs of respiratory distress.A normal score on the "Work of Breathing" item requires that the child's breathing be noiseless, effortless, and painless.  The child should not appear to be trying harder than usual to breathe.An abnormal score on this item indicates that the child is exhibiting an abnormal respiratory effort.  The respiratory effort may be increased (indicating that the child is trying harder than normal to breathe), decreased, or absent.Signs of increased work of breathing include:
+Noisy breathing (including grunting in infants)
+Retractions (the soft tissue between the ribs gets sucked inward because the child is trying so hard to breathe in)
+Use of accessory muscles of respiration to breathe (the child is having so much difficulty breathing that he or she needs extra muscles, like the abdominal muscles, to lift the chest and inhale)
+Nasal flaring in young children
+Seesaw breathing in infants (where the chest and abdomen "seesaw" up and down; this is a sign of severe respiratory distress in an infant)A child exhibiting decreased work of breathing may be bradypneic (breathing too slowly) or too weak to engage the muscles required for inhalation.
+
+Circulation to Skin
+"Circulation to Skin" is measured by skin color and obvious bleeding.  Circulation, as measured by skin color and capillary refill, is an excellent indicator of perfusion in children.
+A child with normal circulation will have his or her usual skin color.  There will be no obvious bleeding.
+Abnormal circulation to the skin may be indicated by:
+Pallor (generally an early sign of decreased circulation; pallor may also be an indication of blood loss)
+Cyanosis
+Mottling
+Obvious blood loss
+
+"Scoring" the Triangle
+The PAT assigns no numerical scores, its goal being to help medical providers formulate a quick assessment of a pediatric patient's acuity.  However, based on the results of the assessment, some initial conclusions can be drawn.  These initial conclusions can help to guide medical decisions, such as whether to call for additional medical resources, but further assessment is always done, and repeated, following the quick usage of the Pediatric Assessment Triangle.
+
+Respiratory distress
+A child who is exhibiting increased work of breathing, but has normal appearance and circulation to skin, can be initially assumed to be in respiratory distress.  While the child is having trouble breathing, he or she is getting enough oxygen to perfuse the body well (hence normal circulation) and to oxygenate the brain (preventing mental status changes).
+
+Respiratory failure
+Respiratory failure can be presumed when a child is exhibiting increased work of breathing, along with either abnormal appearance or abnormal circulation.  The abnormal appearance (mental status) or circulation indicate that the child is not breathing well enough to perfuse the body, or to oxygenate the brain.
+
+Shock
+A child with abnormal appearance and circulation to skin is likely to be in shock.  Problems in both of these areas indicate that the child's body is not perfusing the brain or other tissues.  (Work of breathing is unlikely to be increased, though the child is likely to be breathing quickly.)
+
+In extremis
+A child with abnormal appearance, work of breathing, and circulation to the skin is generally in extremis - for example, due to imminent respiratory collapse.
+
+References
+
+Dieckmann RA, Brownstein D, Gausche and the National PEP Task Force, California EMS Authority, Florida Emergency Medicine Foundation “Student Manual PEP Course”. 1996
+Dieckmann RA, Brownstein D, Gausche-Hill and the National PEP Task Force “PEPP”.Jones & Bartlett, First Edition, 2000
+Dieckmann RA, Brownstein D, Gausche-Hill M. The Pediatric Assessment Triangle:  A Novel Approach to Pediatric Assessment. Pediatric Emergency Care, Vol 26, No 4, 2010: 312-315, 2010

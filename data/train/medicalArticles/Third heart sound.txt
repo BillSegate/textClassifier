@@ -1,0 +1,32 @@
+The third heart sound or S3 is a rare extra heart sound that occurs soon after the normal two "lub-dub" heart sounds (S1 and S2). S3 is associated with heart failure.
+
+Physiology
+It occurs at the beginning of the middle third of diastole, approximately 0.12 to 0.18 seconds after S2. This produces a rhythm classically compared to the cadence of the word "Kentucky" with the final syllable ("-CKY") representing S3. One may also use the phrase "Slosh’-ing-IN" to help with the cadence (Slosh S1, -ing S2, -in S3), as well as the pathology of the S3 sound, or any other number of local variants.
+S3 may be normal in people under 40 years of age and some trained athletes but should disappear before middle age.  Re-emergence of this sound late in life is abnormal and may indicate serious problems such as heart failure.  The sound of S3 is lower in pitch than the normal sounds, usually faint, and best heard with the bell of the stethoscope.It has also been termed a ventricular gallop or a protodiastolic gallop because of its place in early diastole. It is a type of gallop rhythm by virtue of having an extra sound; the other gallop rhythm is called S4. The two are quite different, but they may sometimes occur together forming a quadruple gallop. If the heart rate is also very fast (tachycardia), it can become difficult to distinguish between S3 and S4 thus producing a single sound called a summation gallop. S3 is a dull, low-pitched sound best heard with the bell placed over the cardiac apex with the patient lying in the left lateral decubitus position. This heart sound when present in a child or young adult implies the presence of a supple ventricle that can undergo rapid filling. Conversely, when heard in a middle-aged or older adult, an S3 is often a sign of disease, indicating increased ventricular filling due to congestive heart failure or severe mitral or tricuspid regurgitation.
+
+Causes
+S3 is thought to be caused by the undulation of blood back and forth between the walls of the ventricles initiated by the inflow of blood from the atria. The reason the third heart sound does not occur until the middle third of diastole is probably that, during the early part of diastole, the ventricles are not filled sufficiently to create enough tension for reverberation. It may also be a result of tensing of the chordae tendineae during rapid filling and expansion of the ventricle. Recent research suggests that mitral valve annulus diameter is one of the more important factors in producing the S3 sound.
+
+Associations
+It is associated with heart failure, caused by conditions which have:
+
+Rapid ventricular filling
+Mitral regurgitation - this is when one of the mitral valve leaflets that usually stop blood flowing from the left ventricle to the left atrium fails, allowing blood into the atria during systole. This means that the left atrium will be overfilled, leading to rapid ventricular filling when the mitral valve opens.
+Elevated left atrial and left ventricular filling pressures, usually a result of a stiffened and dilated left ventricle
+Ventricular septal defect - this is a hole in the wall between the two ventricles, which allows rapid filling from the other ventricle.
+
+Poor left ventricular function
+Post-MI - the death of tissue in the ventricular wall due to loss of blood supply causes wall areas which do not move as well as normal (hypokinesia), or not at all (akinesia), meaning they relax more slowly, so the ventricular filling is relatively too rapid.
+Dilated cardiomyopathy - the ventricular walls are abnormal for a variety of reasons, and become thin and stiff so do not relax well.S3 can also be due to tricuspid regurgitation, and could indicate hypertensive heart disease.In conditions affecting the pericardium or diseases that primarily affect the heart muscle (restrictive cardiomyopathies) a similar sound can be heard, but is usually more high-pitched and is called a 'pericardial knock'.The S3 can also be confused with a widely split S2, or a mitral opening snap, but these sounds are typically of much higher pitch and occur closer to the onset of S2.
+
+Treatment
+The condition itself does not need to be treated, but rather the underlying cause requires correction. Depending on the etiology the gallop rhythm may resolve spontaneously.
+
+See also
+Alexander George Gibson
+Arthur D. Hirschfelder
+
+References
+External links
+
+KUO PT, SCHNABEL TG, BLAKEMORE WS, WHEREAT AF (1957). "Diastolic Gallop Sounds, the Mechanism of Production". J. Clin. Invest. 36 (7): 1035–42. doi:10.1172/JCI103499. PMC 1072690. PMID 13449156.

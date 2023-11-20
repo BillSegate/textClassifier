@@ -1,0 +1,34 @@
+Metaplasia (Greek: "change in form") is the transformation of one differentiated cell type to another differentiated cell type.  The change from one type of cell to another may be part of a normal maturation process, or caused by some sort of abnormal stimulus.  In simplistic terms, it is as if the original cells are not robust enough to withstand their environment, so they transform into another cell type better suited to their environment. If the stimulus causing metaplasia is removed or ceases, tissues return to their normal pattern of differentiation.  Metaplasia is not synonymous with dysplasia, and is not considered to be an actual cancer.  It is also contrasted with heteroplasia, which is the spontaneous abnormal growth of cytologic and histologic elements. Today, metaplastic changes are usually considered to be an early phase of carcinogenesis, specifically for those with a history of cancers or who are known to be susceptible to carcinogenic changes. Metaplastic change is thus often viewed as a premalignant condition that requires immediate intervention, either surgical or medical, lest it lead to cancer via malignant transformation.
+
+Causes
+When cells are faced with physiological or pathological stresses, they respond by adapting in any of several ways, one of which is metaplasia. It is a benign (i.e. non-cancerous) change that occurs as a response to change of milieu (physiological metaplasia) or chronic physical or chemical irritation. One example of pathological irritation is cigarette smoke, which causes the mucus-secreting ciliated pseudostratified columnar respiratory epithelial cells that line the airways to be replaced by stratified squamous epithelium, or a stone in the bile duct that causes the replacement of the secretory columnar epithelium with stratified squamous epithelium (squamous metaplasia). Metaplasia is an adaptation that replaces one type of epithelium with another that is more likely to be able to withstand the stresses it is faced with. It is also accompanied by a loss of endothelial function, and in some instances considered undesirable; this undesirability is underscored by the propensity for metaplastic regions to eventually turn cancerous if the irritant is not eliminated.
+The cell of origin for many types of metaplasias are controversial or unknown.  For example, there is evidence supporting several different hypotheses of origin in Barrett's esophagus.  They include direct transdifferentiation of squamous cells to columnar cells, the stem cell changing from esophageal type to intestinal type, migration of gastric cardiac cells, and a population of resident embryonic cells present through adulthood.
+
+Significance in disease
+Normal physiological metaplasia, such as that of the endocervix, is highly desirable.
+The medical significance of metaplasia is that in some sites where pathological irritation is present, cells may progress from metaplasia, to develop dysplasia, and then malignant neoplasia (cancer). Thus, at sites where abnormal metaplasia is detected, efforts are made to remove the causative irritant, thereby decreasing the risk of progression to malignancy. The metaplastic area must be carefully monitored to ensure that dysplastic change does not begin to occur. A progression to significant dysplasia indicates that the area could need removal to prevent the development of cancer.
+
+Examples
+Barrett's esophagus is an abnormal change in the cells of the lower esophagus, thought to be caused by damage from chronic stomach acid exposure.
+The following table lists some common tissues susceptible to metaplasia, and the stimuli that can cause the change:
+
+Intestinal metaplasia
+Intestinal metaplasia is a premalignant condition that increases the risk for subsequent gastric cancer.  Intestinal metaplasia lesions with an active DNA damage response will likely undergo extended latency in the premalignant state until further damaging hits override the DNA damage response leading to clonal expansion and progression.  The DNA damage response includes expression of proteins that detect DNA damages and activate downstream responses like DNA repair, cell cycle checkpoints or apoptosis.
+
+See also
+Epigenetics
+Induced stem cells
+List of biological development disorders
+Pleomorphism
+Reprogramming
+Transdifferentiation
+
+Notes
+The AMA Home Medical Encyclopedia, Random House, p. 683
+Robbins and Cotran - Pathologic Basis of Disease, 7th Edition, Saunders, p. 10
+Prof. Dr. Clark S., Australian Cancer institute, premalignant conditions. 1st edition pages(321-376). Reviewed.
+
+References
+
+
+== External links ==

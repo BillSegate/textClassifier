@@ -1,3 +1,0 @@
-In physics, a zero mode is an eigenvector with a vanishing eigenvalue. 
-In various subfields of physics zero modes appear whenever a physical system possesses a certain symmetry. For example, normal modes of multidimensional harmonic oscillator (e.g. a system of beads arranged around the circle, connected with springs) corresponds to elementary vibrational modes of the system. In such a system zero modes typically occur and are related with a rigid rotation around the circle. 
-The kernel of an operator consists of left zero modes, and the cokernel consists of the right zero modes.

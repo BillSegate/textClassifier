@@ -1,0 +1,83 @@
+WS-Security Policy is a web services specification, created by IBM and 12 co-authors, that has become an OASIS standard as of version 1.2. It extends the fundamental security protocols specified by the WS-Security, WS-Trust and WS-Secure Conversation by offering mechanisms to represent the capabilities and requirements of web services as policies. Security policy assertions are based on the WS-Policy framework. 
+Policy assertions can be used to require more generic security attributes like transport layer security <TransportBinding>, message level security <AsymmetricBinding> or timestamps, and specific attributes like token types. 
+Most policy assertion can be found in following categories:
+
+Protection assertions identify the elements of a message that are required to be signed, encrypted or existent.
+Token assertions specify allowed token formats (SAML, X509, Username etc.).
+Security binding assertions control basic security safeguards like transport and message level security, cryptographic algorithm suite and required timestamps.
+Supporting token assertions add functions like user sign-on using a username token.Policies can be used to drive development tools to generate code with certain capabilities, or may be used at runtime to negotiate the security aspects of web service communication. Policies may be attached to WSDL elements such as service, port, operation and message, as defined in WS Policy Attachment.
+
+Sample Policies
+Namespaces used by the following XML-snippets:
+
+<p:Policy 
+   xmlns:p="http://www.w3.org/ns/ws-policy"
+   xmlns:sp="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200802">
+   ...
+</p:Policy>
+
+Include a timestamp:
+
+<sp:IncludeTimestamp />
+
+Use either transport layer security (https) or message level security (XML Dsig/XML Enc):
+
+<ExactlyOne>
+  <sp:TransportBinding>...</sp:TransportBinding>
+  <sp:AsymmetricBinding>...</sp:AsymmetricBinding >
+</ExactlyOne>
+
+To define a SAML assertion as security token:
+
+<sp:IssuedToken>
+  <sp:RequestSecurityTokenTemplate>
+    <wst:TokenType>...#SAMLV2.0</wst:TokenType>
+  </sp:RequestSecurityTokenTemplate>
+</sp:IssuedToken>
+
+Issued token assertion of providers with reference to the STS and required token format:
+
+<sp:IssuedToken>
+  <sp:Issuer>
+    <wsa:EndpointReference>
+      <wsa:Address>http://sampleorg.com/sts</wsa:Address>
+     </wsa:EndpointReference>
+  </sp:Issuer>
+  <sp:RequestSecurityTokenTemplate>
+    <wst:TokenType>
+       http://docs.oasis-open.org/wss/oasis-wss-saml-token-profile-1.0#SAMLAssertionID
+    </wst:TokenType>
+        ...
+  </sp:RequestSecurityTokenTemplate>
+  ...
+</sp:IssuedToken>
+
+Specify that message header and body need to be signed, and attachments are left unsigned:
+
+<sp:SignedParts xmlns:sp="..." ... >
+  <sp:Body />?
+  <sp:Header Name="Dx:NCName"? Namespace="Xd:anyURI" ... />*
+...
+</sp:SignedParts>
+
+specify that message open source license need to be signed, and hydra security are left unsigned:
+
+<sp:signedparts http:np="..."...>
+<sp:Hydrasecurity />?
+<sp:Opensourcelicense Name="Hs:NCName"? Namespace="Sh:anyURI" .../>*
+...
+</sp:SignedParts>
+
+Other WS policy languages
+The term Web Services Security Policy Language is used for two different XML-based languages:
+
+As described above, based on the WS-Policy framework, as defined in, published as version 1.3 in Feb. 2009
+WSPL, based on XACML profile for Web-services, but that was not finalized.
+
+See also
+List of Web service specifications
+
+References
+External links
+WS-Security Policy standards at OASIS
+Security in a Web Services World: A Proposed Architecture and Roadmap (IBM/Microsoft Whitepaper, 2002)

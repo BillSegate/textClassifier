@@ -1,0 +1,35 @@
+An environmental gradient, or climate gradient, is a change in abiotic (non-living) factors through space (or time). Environmental gradients can be related to factors such as altitude, depth, temperature, soil humidity and precipitation. Often times,         a multitude of biotic (living) factors are closely related to these gradients; as a result of a change in an environmental gradient, factors such as species abundance, population density, morphology, primary productivity, predation, and local adaptation may be impacted.
+
+Abiotic influence
+The species distribution along environmental gradients has been studied intensively due to large databases of species presence data (e.g. GBIF). The abiotic factors that environmental gradients consist of can have a direct ramifications on organismal survival. Generally, organismal distribution is tied to those abiotic factors, but even an environmental gradient of one abiotic factor yields insight into how a species distribution might look. For example, aspects of the landscape such as soil composition, temperature, and precipitation all factor in to an accurate idea of habitable territory a plant species might occupy; information on one of those factors can help form an environmental gradient by which a proximate species distribution may be generated. Similarly, along the upstream-downstream gradient of a river, fish assemblages (groupings) can vary in species and trait diversity; upstream habitats, which tend to be at higher elevations, have been observed to develop greater species and trait diversity. With elevated regions most intensely feeling the effects of climate change and these effects being linked to increased species diversity in impacted regions, this is a key consideration in prioritizing habitats for conservation efforts. At an ecotone, species abundances change relatively quickly compared to the environmental gradient.
+
+Biotic interactions
+Although environmental gradients are comprised gradually changing and predictable patterns of an abiotic factor, there is strong interplay between both biotic-biotic factors as well as biotic-abiotic factors. For example, species abundance usually changez along environmental gradients in a more or less predictable way. However, the species abundance along an environmental gradient is not only determined by the abiotic factor associated with the gradient but, also by the change in the biotic interactions, like competition and predation, along the environmental gradient.
+
+Local adaptation along environmental gradients
+Depending on the size of the landscape and the gene flow between populations, local adaptation could arise between populations inhabiting two extremes of the landscape. The opposing extremes in abiotic conditions that are faced between populations and the lack of homogenizing gene flow could present conditions where two populations are able to differentiate. Often times when comparing fitness or phenotypic values across an environmental gradient, the data are fixated into a reaction norm framework. In this way, an individual can directly assess the changes across a landscape of a particular species' phenotype or compare fitness and phenotypes of populations within a species across environmental gradients (particularly when performing reciprocal transplant studies).
+
+Impact of climate change
+Current models predict that as climate change intensifies, certain environmental gradients may experience the effects as changing rates of natural processes or impacts on distribution and characteristics of species within them. Given the interconnectedness of abiotic factors, long-term disturbances of one gradient have the possibility of affecting other gradients.
+
+Soil characteristics
+Soil respiration, the process of soil naturally releasing carbon dioxide into the atmosphere, acts as an example of this. In areas where soil moisture is not limiting (with moisture being a key part of the respiration process), soil respiration increases with rising temperatures; thus, respiration patterns form the gradient, and higher emissions are observed in warmer ecosystems. Similarly, rate of precipitation has a positive correlation with respiration (as moisture no longer becomes a limiting factor). Thus, it not only is its own gradient (average precipitation across a range), but also connects with the respiration gradient and impacts it.
+
+Altitude
+Altitude gradients are a key consideration in understanding migration patterns due to the effects of global warming. As temperatures increase, trees adapted to warmer climates will migrate uphill for access to sunlight, and thus populations of temperate or cold-adapted trees and the habitats suitable for them will shrink.
+
+Environmental gradients in society
+Environmental gradients are not limited to naturally occurring variations in environmental factors across a range; they have also been created by human activity and industrialization. Air pollution is present as an environmental gradient in areas containing power plants, factories, and other pollutant-emitting facilities, as are environmental toxins, such as heavy metals, radiation, and pesticides; generally speaking, concentration decreases as distance from origin site increases. Differences in exposure to these elements across populations due to proximity to the origin site has become a major concern of environmental and public health activists, who cite health disparities linked to these gradients as an environmental justice concern.
+
+See also
+Biome
+Cline
+Gradient analysis
+Thermocline
+River restoration
+Huisman–Olff–Fresco models
+Intergrades
+Peppered Moths
+
+
+=== References ===

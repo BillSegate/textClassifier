@@ -1,0 +1,18 @@
+In computer security, the Zardoz list, more formally known as the Security-Digest list, was a famous semi-private full disclosure mailing list run by Neil Gorsuch from 1989 through 1991. It identified weaknesses in systems and gave directions on where to find them. Zardoz is most notable for its status as a perennial target for computer hackers, who sought archives of the list for information on undisclosed software vulnerabilities.
+
+Membership restrictions
+Access to Zardoz was approved on a case-by-case basis by Gorsuch, principally by reference to the user account used to send subscription requests; requests were approved for root users, valid UUCP owners, or system administrators listed at the NIC.The openness of the list to users other than Unix system administrators was a regular topic of conversation, with participants expressing concern that vulnerabilities or exploitation details disclosed on the list were liable to spread to hackers. On the other hand, the circulation of Zardoz postings among computer hackers was an open secret, mocked openly in a famous Phrack parody of an IRC channel populated by notable security experts.
+
+Notable participants
+Keith Bostic discussed BSD Sendmail vulnerabilities
+Chip Salzenberg discussed Peter Honeyman's posting of a UUCP worm, and shell script security
+Gene Spafford discussed VMS and Ultrix bugs, and relayed law enforcement enquiries about the Morris Worm
+Tom Christiansen discussed SUID shell scripts
+Chris Torek discussed devising exploits from general descriptions of vulnerabilities
+Henry Spencer discussed Unix security
+Brendan Kehoe discussed systems security
+Alec Muffett announced Crack, the famous Unix password crackerThe majority of Zardoz participants were Unix systems administrators and C software developers. Neil Gorsuch and Gene Spafford were the most prolific contributors to the list.
+
+References
+External links
+The Security-Digest archive project

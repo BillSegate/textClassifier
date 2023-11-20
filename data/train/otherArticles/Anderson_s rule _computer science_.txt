@@ -1,0 +1,4 @@
+In the field of computer security, Anderson's rule refers to a principle formulated by Ross J. Anderson: systems that handle sensitive personal information involve a trilemma of security, functionality and scale, of which you can choose any two. A system that has information on many data subjects and to which many people require access is hard to secure unless its functionality is severely restricted. If it has rich functionality, you may have to restrict the number of people with access, or accept that some information will leak.
+
+
+== References ==

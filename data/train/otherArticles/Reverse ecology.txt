@@ -1,0 +1,12 @@
+Reverse ecology refers to the use of genomics to study ecology with no a priori assumptions about the organism(s) under consideration. The term was suggested in 2007 by Matthew Rockman during a conference on ecological genomics in Christchurch, New Zealand. Rockman was drawing an analogy to the term reverse genetics in which gene function is studied by comparing the phenotypic effects of different genetic sequences of that gene.  Most researchers employing reverse ecology make use of some sort of population genomics methodology. This requires that a genome scan is performed on multiple individuals from at least two populations in order to identify genomic regions or sites that show signs of selection. These genome scans usually utilize single nucleotide polymorphism (SNP) markers, though use of microsatellites can work as well (with reduced resolution).
+
+Methodology
+Reverse ecology has been used by researchers to understand environments and other ecological traits of organisms on Earth using genomic approaches. By examining the genes of bacteria, scientists are able to reconstruct what the organisms' environments are like today, or even from millions of years ago. The data could help us understand key events in the history of life on Earth. In 2010, researchers presented a technique to carry out reverse ecology to infer a bacteria's living temperature-range conditions based on the GC content of certain genomic regions.In 2011, researchers at the University of California, Berkeley were able to demonstrate that one can determine an organism's adaptive traits by looking first at its genome and checking for variations across a population.
+
+See also
+Thermophile
+Mesophile
+GC content
+
+
+== References ==

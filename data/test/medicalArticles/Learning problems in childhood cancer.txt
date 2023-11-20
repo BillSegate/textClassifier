@@ -1,0 +1,21 @@
+Certain treatments for childhood cancer are known to cause learning problems in survivors, particularly when central nervous system (CNS)-directed therapies are used (e.g. cranial radiation; high-dose methotrexate or cytarabine; or intrathecal chemotherapy). As the mortality rates of childhood cancers have plummeted since effective treatment regiments have been introduced, greater attention has been paid to the effect of treatment on neurocognitive morbidity and quality of life of survivors. The goal of treatment for childhood cancers today is to minimize these adverse "late effects", while ensuring long-term survival.
+
+Effect of cancer and its treatment on brain development
+Research shows that children with cancer are at risk for developing various cognitive or learning problems.  These difficulties may be related to brain injury stemming from the cancer itself, such as a brain tumor or central nervous system metastasis or from side effects of cancer treatments such as chemotherapy and radiation therapy.  Studies have shown that chemo and radiation therapies may damage brain white matter and disrupt brain activity.
+Cognitive problems that have been associated with cancer and its treatments in children include deficits in attention, working memory, processing speed, mental flexibility, persistence, verbal fluency, memory, motor skills, academic achievement and social function.  These deficits have been shown to occur irrespective of age, socioeconomic status, months since onset or cessation of treatment, anxiety, fatigue and dosage schedule.
+
+Cognitive rehabilitation
+Some clinicians and research groups in neuropsychology are developing programs to help treat the cognitive problems associated with childhood cancer. Treatment typically involves a program of cognitive rehabilitation which aims to help improve cognitive function either by restoring capacities that were impaired and/or helping the patient learn ways to compensate for the impairment(s).  Cognitive rehabilitation therapy usually involves evaluation to determine the specific impairments involved, an individualized program of specific skills training and practice and metacognitive strategies.  Metacognitive strategies include helping the patient increase self-awareness regarding problem solving skills by learning how to better monitor the effectiveness of these skills and self-correct when necessary.  Cognitive rehabilitation is conducted under the supervision of a neuropsychologist or other trained professional.
+
+See also
+Pediatric Oncology Group
+Children's Oncology Group
+
+References
+
+Butler RW, Haser JK (2006). "Neurocognitive effects of treatment for childhood cancer". Ment Retard Dev Disabil Res Rev. 12 (3): 184–191. doi:10.1002/mrdd.20110. PMID 17061287.
+Mulhern RK, Butler RW (2004). "Neurocognitive sequelae of childhood cancers and their treatment". Pediatr Rehabil. 7 (1): 1–14. doi:10.1080/13638490310001655528. PMID 14744668. S2CID 71626738.
+Zou P, Mulhern RK, Butler RW, Li CS, Langston JW, Ogg RJ (2005). "BOLD responses to visual stimulation in survivors of childhood cancer". NeuroImage. 24 (1): 61–69. doi:10.1016/j.neuroimage.2004.08.030. PMID 15588597. S2CID 9843935.
+Cetingul N, Aydinok Y, Kantar M, et al. (1999). "Neuropsychologic sequelae in the long-term survivors of childhood acute lymphoblastic leukemia". Pediatr Hematol Oncol. 16 (3): 213–220. doi:10.1080/088800199277263. PMID 10326219.
+Duffner PK (2006). "Long-term effects of radiation therapy on cognitive and endocrine function in children with leukemia and brain tumors". Neurologist. 10 (6): 293–310. doi:10.1097/01.nrl.0000144287.35993.96. PMID 15518596. S2CID 12089218.
+Langer T, Martus P, Ottensmeier H, Hertzberg H, Beck JD, Meier W (2002). "CNS late-effects after ALL therapy in childhood. Part III: neuropsychological performance in long-term survivors of childhood ALL: impairments of concentration, attention, and memory. Medical and pediatric oncology". Medical and Pediatric Oncology. 38 (5): 320–328. doi:10.1002/mpo.10055. PMID 11979456.

@@ -1,0 +1,37 @@
+Model-driven security (MDS) means applying model-driven approaches (and especially the concepts behind model-driven software development)  to security.
+
+Development of the concept
+The general concept of Model-driven security in its earliest forms has been around since the late 1990s (mostly in university research), and was first commercialized around 2002. There is also a body of later scientific research in this area, which continues to this day.
+A more specific definition of Model-driven security specifically applies model-driven approaches to automatically generate technical security implementations from security requirements models. In particular, "Model driven security (MDS) is the tool supported process of modelling security requirements at a high level of abstraction, and using other information sources available about the system (produced by other stakeholders). These inputs, which are expressed in Domain Specific Languages (DSL), are then transformed into enforceable security rules with as little human intervention as possible. MDS explicitly also includes the run-time security management (e.g. entitlements/authorisations), i.e. run-time enforcement of the policy on the protected IT systems, dynamic policy updates and the monitoring of policy violations."Model-driven security is also well-suited for automated auditing, reporting, documenting, and analysis (e.g. for compliance and accreditation), because the relationships between models and technical security implementations are traceably defined through the model-transformations.
+
+Opinions of industry analysts
+Several industry analyst sources  state that MDS "will have a significant impact as information security infrastructure is required to become increasingly real-time, automated and adaptive to changes in the organisation and its environment". Many information technology architectures today are built to support adaptive changes (e.g. Service Oriented Architectures (SOA) and so-called Platform-as-a-Service "mashups" in cloud computing), and information security infrastructure will need to support that adaptivity ("agility"). The term DevOpsSec (see DevOps) is used by some analysts equivalent to model-driven security.
+
+Effects of MDS
+Because MDS automates the generation and re-generation of technical security enforcement from generic models, it:
+enables SOA agility
+reduces complexity (and SOA security complexity)
+increases policy flexibility
+supports rich application security policies
+supports workflow context sensitive security policies
+can auto-generate SOA infrastructure security policies
+supports reuse between SOA stakeholders
+minimises human errors
+can auto-generate domain boundary security policies
+helps enable SOA assurance accreditation (covered in ObjectSecurity’s MDSA eBook)
+
+Implementations of MDS
+Apart from academic proof-of-concept developments, the only commercially available full implementations of model-driven security (for authorization management policy automation) include ObjectSecurity OpenPMF, which earned a listing in Gartner's "Cool Vendor" report in 2008  and has been advocated by a number of organizations (e.g. U.S. Navy ) as a means to make authorization policy management easier and more automated.
+
+See also
+Model-driven architecture
+Data-driven security
+Authorization
+Attribute based access control
+XACML
+Role-based access control
+Mandatory access control
+Discretionary access control
+
+
+== References ==

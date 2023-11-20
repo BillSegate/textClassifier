@@ -1,0 +1,29 @@
+The Enrollment over Secure Transport, or EST is a cryptographic protocol that describes an X.509 certificate management protocol targeting public key infrastructure (PKI) clients that need to acquire client certificates and associated certificate authority (CA) certificates. EST is described in RFC 7030. EST has been put forward as a replacement for SCEP, being easier to implement on devices already having an HTTPS stack. EST uses HTTPS as transport and leverages TLS for many of its security attributes. EST has described standardized URLs and uses the well-known Uniform Resource Identifiers (URIs) definition codified in RFC 5785.
+
+Operations
+EST has a following set of operations:
+
+Usage example
+The basic functions of EST were designed to be easy to use and although not a REST API, it can be used in a REST-like manner using simple tools such as OpenSSL and cURL. 
+A simple command to make initial enrollment with a pre-generated PKCS#10 Certificate Signing Request (stored as device.b64), using one of the authentication mechanisms (username:password) specified in EST is:
+curl -v --cacert ManagementCA.cacert.pem --user username:password --data @device.b64 -o device-p7.b64 -H "Content-Type: application/pkcs10" -H "Content-Transfer-Encoding: base64" https://hostname.tld/.well-known/est/simpleenroll
+The issued certificate, returned as a Base64 encoded PKCS#7 message, is stored as device-p7.b64.
+
+See also
+Certificate Management Protocol (CMP)
+Certificate Management over CMS (CMC)
+Simple Certificate Enrollment Protocol (SCEP)
+Automated Certificate Management Environment (ACME)
+
+References
+RFC 7030, official specification
+
+Implementations
+The library libest is a client and server implementation of EST.
+Bouncy Castle API offers EST API library for Java.
+DigiCert IoT Trust Manager is a server implementation of EST.
+EJBCA, a CA software, implements a subset of the EST functions.
+Evertrust Horizon implements RFC 7030.
+Entrust CA PKIs support EST functions
+Sectigo Certificate Manager implements RFC 7030.
+The strongSwan pki --est tool is a client implementation of EST.

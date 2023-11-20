@@ -1,4 +1,0 @@
-The Bregman-Lagrangian framework permits a systematic understanding of the matching rates associated with higher-order gradient methods in discrete and continuous time.
-
-
-== References ==

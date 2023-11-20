@@ -1,0 +1,11 @@
+SMBGhost (or SMBleedingGhost or CoronaBlue) is a type of security vulnerability, with wormlike features, that affects Windows 10 computers and was first reported publicly on 10 March 2020. A Proof-of-Concept (PoC) exploit code was published 1 June 2020 on GitHub by a security researcher. The code could possibly spread to millions of unpatched computers, resulting in as much as tens of billions of dollars in losses.Microsoft recommends all users of Windows 10 versions 1903 and 1909 and Windows Server versions 1903 and 1909 to install patches, and states, "We recommend customers install updates as soon as possible as publicly disclosed vulnerabilities have the potential to be leveraged by bad actors ... An update for this vulnerability was released in March [2020], and customers who have installed the updates, or have automatic updates enabled, are already protected."  Workarounds, according to Microsoft, such as disabling SMB compression and blocking port 445, may help but may not be sufficient.According to the advisory division of Homeland Security, "Malicious cyber actors are targeting unpatched systems with the new [threat], ... [and] strongly recommends using a firewall to block server message block ports from the internet and to apply patches to critical- and high-severity vulnerabilities as soon as possible."
+
+References
+External links
+
+Video (02:40) – SMBGhost patching (CVE-2020-0796) on YouTube (12 March 2020)
+Video (02:40) – SMBGhost check (CVE-2020-0796) on YouTube (12 March 2020)
+Video (04:22) – SMBGhost vulnerability (CVE-2020-0796) on YouTube (13 March 2020)
+Video (11:10) – SMBGhost scan/exploit (CVE-2020-0796) on YouTube (13 March 2020)
+Video (07:27) – SMBGhost explained (CVE-2020-0796) on YouTube (4 April 2020)
+Video (00:50) – SMBGhost crashes W10 (CVE-2020-0796) on YouTube (10 June 2020)

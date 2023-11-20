@@ -1,0 +1,13 @@
+In many Unix variants, "nobody" is the conventional name of a user identifier which owns no files, is in no privileged groups, and has no abilities except those which every other user has. It is normally not enabled as a user account, i.e. has no home directory or login credentials assigned. Some systems also define an equivalent group "nogroup".
+
+Uses
+The pseudo-user "nobody" and group "nogroup" are used, for example, in the NFSv4 implementation of Linux by idmapd, if a user or group name in an incoming packet does not match any known username on the system.
+It was once common to run daemons as nobody, especially on servers, in order to limit the damage that could be done by a malicious user who gained control of them. However, the usefulness of this technique is reduced if more than one daemon is run like this, because then gaining control of one daemon would provide control of them all. The reason is that processes owned by the same user have the ability to send signals to each other and use debugging facilities to read or even modify each other's memory.  Modern practice, as recommended by the Linux Standard Base, is to create a separate user account for each daemon.
+
+See also
+User identifier
+Principle of least privilege
+Privilege revocation (computing)
+
+
+== References ==

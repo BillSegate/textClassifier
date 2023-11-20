@@ -1,0 +1,13 @@
+The Schick test, developed in 1913, is a skin test used to determine whether or not a person is susceptible to diphtheria.  It was named after its inventor, Béla Schick (1877–1967), a Hungarian-born American pediatrician.
+
+Procedure
+The test is a simple procedure.  A small amount (0.1 ml) of diluted (1/50 MLD) diphtheria toxin is injected intradermally into one arm of the person and a heat inactivated toxin on the other as a control.  If a person does not have enough antibodies to fight it off, the skin around the injection will become red and swollen, indicating a positive result.  This swelling disappears after a few days.  If the person has an immunity, then little or no swelling and redness will occur, indicating a negative result.
+Results can be interpreted as:
+Positive: when the test results in a wheal of 5–10 mm diameter, reaching its peak in 4–7 days. The control arm shows no reaction. This indicates that the subject lacks antibodies against the toxin and hence is susceptible to the disease.
+Pseudo-positive: when there is only a red-colored inflammation (erythema) and it disappears within 4 days. This happens on both the arms since the subject is immune but hypersensitive to the toxin.
+Negative reaction: Indicates that the person is immune.
+Combined reaction: Initial picture is like that of the pseudo-reaction but the erythema fades off after 4 days only in the control arm. It progresses on the test arm to a typical positive. The subject is interpreted to be both susceptible and hypersensitive.The test was created when immunizing agents were scarce and not very safe; however, as newer and safer toxoids became available, susceptibility tests were no longer required.
+
+References
+
+Taber's Cyclopedic Medical Dictionary, 20th Ed. (2005).

@@ -1,0 +1,42 @@
+In computer science, a type system can be described as a syntactic framework which contains a set of rules that are used to assign a type property (int, boolean, char etc.) to various components of a computer program, such as variables or functions. A security type system works in a similar way, only with a main focus on the security of the computer program, through information flow control. Thus, the various components of the program are assigned security types, or labels. The aim of a such system is to ultimately be able to verify that a given program conforms to the type system rules and satisfies non-interference. Security type systems is one of many security techniques used in the field of language-based security, and is tightly connected to information flow and information flow policies.
+In simple terms, a security type system can be used to detect if there exists any kind of violation of confidentiality or integrity in a program, i.e. the programmer wants to detect if the program is in line with the information flow policy or not.
+
+A simple information flow policy
+Suppose there are two users, A and B. In a program, the following security classes (SC) are introduced: 
+
+SC = {∅, {A}, {B}, {A,B}}, where ∅ is the empty set.The information flow policy should define the direction that information is allowed to flow, which is dependent on whether the policy allows read or write operations. This example considers read operations (confidentiality). The following flows are allowed:
+
+→ = {({A}, {A}), ({B}, {B}), ({A,B}, {A,B}), ({A,B}, {A}), ({A,B}, {B}), ({A}, ∅), ({B}, ∅), ({A,B}, ∅)}This can also be described as a superset (⊇). In words: information is allowed to flow towards stricter levels of confidentiality. The combination operator (⊕) can express how security classes can perform read operations with respect to other security classes. For example:
+
+{A} ⊕ {A,B} = {A} — the only security class that can read from both {A} and {A,B} is {A}.
+{A} ⊕ {B} = ∅ — neither {A} nor {B} are allowed to read from both {A} and {B}.This can also be described as an intersection (∩) between security classes.
+An information flow policy can be illustrated as a Hasse diagram. The policy should also be a lattice, that is, it has a greatest lower-bound and least upper-bound (there always exists a combination between security classes). In the case of integrity, information will flow in the opposite direction, thus the policy will be inverted.
+
+Information flow policy in security type systems
+Once the policy is in place, the software developer can apply the security classes to the program components. Use of a security type system is usually combined with a compiler that can perform the verification of the information flow according to the type system rules. For the sake of simplicity, a very simple computer program, together with the information flow policy as described in the previous section, can be used as a demonstration. The simple program is given in the following pseudocode:
+
+if y{A} = 1 then x{A,B} := 0 else x{A,B} := 1
+
+Here, an equality check is made on a variable y that is assigned the security class {A}. A variable x with a lower security class ({A,B}) is influenced by this check. This means that information is leaking from class {A} to class {A,B}, which is a violation of the confidentiality policy. This leak should be detected by the security type system.
+
+Example
+Designing a security type system requires a function (also known as a security environment) that creates a mapping from variables to security types, or classes. This function can be called Γ, such that Γ(x) = τ, where x is a variable and τ is the security class, or type. Security classes are assigned (also called "judgement") to program components, using the following notation:
+
+Types are assigned to read operations by: Γ ⊢ e : τ.
+Types are assigned to write operations by: Γ ⊢ S : τ cmd.
+Constants can be assigned any type.The following bottom-up notation can be used to decompose the program: assumption1 ... assumptionn/conclusion. Once the program is decomposed into trivial judgements, by which the type can easily be determined, the types for the less trivial parts of the program can be derived. Each "numerator" is considered in isolation, looking at the type of each statement to see if an allowed type can be derived for the "denominator", based on the defined type system "rules".
+
+Rules
+The main part of the security type system is the rules. They say how the program should be decomposed and how type verification should be performed. This toy program consists of a conditional test and two possible variable assignments. Rules for these two events are defined as follows:
+
+Applying this to the simple program introduced above yields:
+
+The type system detects the policy violation in line 2, where a read operation of security class {A} is performed, followed by two write operations of a less strict security class {A,B}. In more formalized terms, {A} ⋢ {A,B}, {A,B} (from the rule of the conditional test). Thus, the program is classified as "not typeable".
+
+Soundness
+The soundness of a security type system can be informally defined as: If program P is well typed, P satisfies non-interference. Volpano, Smith and Irvine were the first to prove soundness of a security type system for a deterministic imperative programming language with a standard (non-instrumented) semantics using the notion of non-interference.
+
+References
+Further reading
+Fred B. Schneider, Greg Morrisett, and Robert Harper, A Language-Based Approach to Security.
+Andrei Sabelfeld, Andrew C. Myers, Language-Based Information-Flow Security.

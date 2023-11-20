@@ -1,0 +1,20 @@
+Supervisor Mode Access Prevention (SMAP) is a feature of some CPU implementations such as the Intel Broadwell microarchitecture that allows supervisor mode programs to optionally set user-space memory mappings so that access to those mappings from supervisor mode will cause a trap. This makes it harder for malicious programs to "trick" the kernel into using instructions or data from a user-space program.
+
+History
+Supervisor Mode Access Prevention is designed to complement Supervisor Mode Execution Prevention (SMEP), which was introduced earlier. SMEP can be used to prevent supervisor mode from unintentionally executing user-space code. SMAP extends this protection to reads and writes.
+
+Benefits
+Without Supervisor Mode Access Prevention, supervisor code usually has full read and write access to user-space memory mappings (or has the ability to obtain full access). This has led to the development of several security exploits, including privilege escalation exploits, which operate by causing the kernel to access user-space memory when it did not intend to. Operating systems can block these exploits by using SMAP to force unintended user-space memory accesses to trigger page faults. Additionally, SMAP can expose flawed kernel code which does not follow the intended procedures for accessing user-space memory.However, the use of SMAP in an operating system may lead to a larger kernel size and slower user-space memory accesses from supervisor code, because SMAP must be temporarily disabled any time supervisor code intends to access user-space memory.
+
+Technical details
+Processors indicate support for Supervisor Mode Access Prevention through the Extended Features CPUID leaf.
+SMAP is enabled when memory paging is active and the SMAP bit in the CR4 control register is set. SMAP can be temporarily disabled for explicit memory accesses by setting the EFLAGS.AC (Alignment Check) flag. The stac (Set AC Flag) and clac (Clear AC Flag) instructions can be used to easily set or clear the flag.When the SMAP bit in CR4 is set, explicit memory reads and writes to user-mode pages performed by code running with a privilege level less than 3 will always result in a page fault if the EFLAGS.AC flag is not set. Implicit reads and writes (such as those made to descriptor tables) to user-mode pages will always trigger a page fault if SMAP is enabled, regardless of the value of EFLAGS.AC.
+
+Operating system support
+Linux kernel support for Supervisor Mode Access Prevention was implemented by H. Peter Anvin. It was merged into the mainline Linux 3.7 kernel (released December 2012) and it is enabled by default for processors which support the feature.FreeBSD has supported Supervisor Mode Execution Prevention since 2012 and Supervisor Mode Access Prevention since 2018.OpenBSD has supported Supervisor Mode Access Prevention and the related Supervisor Mode Execution Prevention since 2012, with OpenBSD 5.3 being the first release with support for the feature enabled.NetBSD support for Supervisor Mode Execution Prevention (SMEP) was implemented by Maxime Villard in December 2015. Support for Supervisor Mode Access Prevention (SMAP) was also implemented by Maxime Villard, in August 2017. NetBSD 8.0  was the first release with both features supported and enabled.Haiku support for Supervisor Mode Execution Prevention (SMEP) was implemented by Jérôme Duval in January 2018.macOS has support for SMAP at least since macOS 10.13 released 2017.
+
+See also
+NX bit
+
+
+== References ==

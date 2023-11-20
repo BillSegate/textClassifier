@@ -1,0 +1,8 @@
+Cyber ranges are virtual environments used for cybersecurity, cyberwarfare training, simulation or emulation and development of technologies related to cybersecurity. Their scale can vary drastically, from just a single node to an internet-like network.
+
+See also
+List of Cyber ranges
+National Cyber Range
+
+
+== References ==

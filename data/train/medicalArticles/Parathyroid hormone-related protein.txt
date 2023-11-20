@@ -1,0 +1,36 @@
+Parathyroid hormone-related protein (PTHrP) is a proteinaceous hormone and a member of the parathyroid hormone family secreted by mesenchymal stem cells. It is occasionally secreted by cancer cells (for example, breast cancer, certain types of lung cancer including squamous-cell lung carcinoma). However, it also has normal functions in bone, teeth, vascular tissues and other tissues.
+
+Function
+PTHrP acts as an endocrine, autocrine, paracrine, and intracrine hormone. It regulates endochondral bone development by maintaining the endochondral growth plate at a constant width. It also regulates epithelial–mesenchymal interactions during the formation of the mammary glands. PTHrP plays a major role in regulating calcium homeostasis in vertebrates, including sea bream, chick, and mammals.In 2005, Australian pathologist and researcher Thomas John Martin found that PTHrP produced by osteoblasts is a physiological regulator of bone formation. Martin and Miao et al. demonstrated that osteoblast-specific ablation of PTHrP in mice results in osteoporosis and impaired bone formation both in vivo and ex vivo, which reiterates the phenotype of mice with haploinsufficiency of PTHrP. By these findings, they demonstrated that PTHrP plays a central role in physiological regulation of bone formation by promoting recruitment and survival of osteoblasts. It may also play a role in physiological regulation of bone resorption by enhancing osteoclast formation.
+
+Tooth eruption
+PTHrP is critical in intraosseous phase of tooth eruption where it acts as a signalling molecule to stimulate local bone resorption. Without PTHrP, the bony crypt surrounding the tooth follicle will not resorb, and therefore the tooth will not erupt. In the context of tooth eruption, PTHrP is secreted by the cells of the reduced enamel epithelium.
+
+Mammary glands
+It aids in normal mammary gland development. It is necessary for maintenance of the mammary bud cells. Loss of PTHrP or its receptor causes the mammary bud cells to change back into epidermal cells. In lactation, it may regulate the mobilization and transfer of calcium to the milk in conjunction with the calcium sensing receptors, as well as placental transfer of calcium.
+
+Humoral hypercalcemia of malignancy
+PTHrP is related in function to parathyroid hormone(PTH). When a tumor secretes PTHrP, this can lead to hypercalcemia. As this is sometimes the first sign of the malignancy, hypercalcemia caused by PTHrP is considered a paraneoplastic phenomenon. PTHrP is responsible for most cases of humoral hypercalcemia of malignancy.
+PTHrP shares the same N-terminal end as parathyroid hormone and therefore it can bind to the same receptor, the Type I PTH receptor (PTHR1). PTHrP can simulate most of the actions of PTH including increases in bone resorption and distal tubular calcium reabsorption, and inhibition of proximal tubular phosphate transport. PTHrP lacks the normal feedback inhibition as PTH.However, PTHrP has a less sustained action than PTH on PTHR1 activation, which may explain at least in part its reduced ability to stimulate 1,25-dihydroxyvitamin D (1,25(OH)2 vitamin D) production and indirectly intestinal calcium absorption through an action to increase circulating levels of 1,25(OH)2 vitamin D.
+
+Growth Plate
+PTHrP is found in the proliferative zone of the growth plate. It is one of the main proteins that regulates mesenchymal stem cell activity. Current research suggests that PTHrP promotes the proliferation of early-phase chondrocytes and inhibits their differentiation into hypertropic chondrocytes. It is involved in a negative feedback loop with Indian Hedgehog (Ihh).
+
+Genetics
+Four alternatively spliced transcript variants encoding two distinct isoforms have been observed. There is also evidence for alternative translation initiation from non-AUG (CUG and GUG) start sites, in-frame and downstream of the initiator AUG codon, to give rise to nuclear forms of this hormone.
+
+Discovery
+The protein was first isolated in 1987 by Thomas J. Martin's team at the University of Melbourne. Miao et al. showed that disruption of the PTHrP gene in mice caused a lethal phenotype and distinct bone abnormalities, suggesting that PTHrP has a physiological function.
+
+Interactions
+Parathyroid hormone-related protein has been shown to interact with KPNB1 and Arrestin beta 1.
+
+See also
+Analogs used as pharmaceutical drugs
+Teriparatide
+Abaloparatide
+
+References
+Further reading
+
+This article incorporates text from the United States National Library of Medicine, which is in the public domain.

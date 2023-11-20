@@ -1,0 +1,38 @@
+Content Disarm & Reconstruction (CDR) is a computer security technology for removing potentially malicious code from files. Unlike malware analysis, CDR technology does not determine or detect malware's functionality but removes all file components that are not approved within the system's definitions and policies.It is used to prevent cyber security threats from entering a corporate network perimeter. Channels that CDR can be used to protect include email and website traffic. Advanced solutions can also provide similar protection on computer endpoints, or cloud email and file sharing services.
+There are three levels of CDR; 1) flattening and converting the original file to a PDF, 2) stripping active content while keeping the original file type, and 3) eliminating all file-borne risk while maintaining file type, integrity and active content. Beyond these three levels, there are also more advanced forms of CDR that is able to perform "soft conversion" and "hard conversion", based on the user's preference in balancing usability and security.
+
+Applications
+CDR works by processing all incoming files of an enterprise network, deconstructing them, and removing the elements that do not match the file type's standards or set policies. CDR technology then rebuilds the files into clean versions that can be sent on to end users as intended.Because CDR removes all potentially malicious code, it can be effective against zero-day vulnerabilities that rely on being an unknown threat that other security technologies would need to patch against to maintain protection.
+CDR can be used to prevent cyber threats from variety of sources:
+
+Email
+Data Diodes
+Web Browsers
+Endpoints
+File Servers
+FTP
+Cloud email or webmail programs
+SMB/CIFS
+Removable media scanning (CDR Kiosk)CDR can be applied to a variety of file formats including:
+
+Images
+Office documents
+PDF
+Audio/video file formats
+Archives
+HTML
+
+Open Source Implementations
+DocBleach
+ExeFilter
+
+See also
+Advanced persistent threat
+Computer security
+Cyber threats
+Deep Content Inspection
+Internet security
+Content Threat Removal
+
+
+== References ==

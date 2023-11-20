@@ -1,0 +1,57 @@
+An information security operations center (ISOC or SOC) is a facility where enterprise information systems (web sites, applications, databases, data centers and servers, networks, desktops and other endpoints) are monitored, assessed, and defended.
+
+Objective
+A SOC is related to the people, processes and technologies that provide situational awareness through the detection, containment, and remediation of IT threats in order to manage and enhance an organization's security posture.  A SOC will handle, on behalf of an institution or company, any threatening IT incident, and will ensure that it is properly identified, analyzed, communicated, investigated and reported.  The SOC also monitors applications to identify a possible cyber-attack or intrusion (event), and determines if it is a genuine malicious threat (incident), and if it could affect business.
+
+Regulatory requirements
+Establishing and operating a SOC is expensive and difficult; organisations should need a good reason to do it. This may include:
+
+Protecting sensitive data
+Complying with industry rules such as PCI DSS.
+Complying with government rules, such as CESG GPG53.
+
+Alternative names
+A security operations center (SOC) can also be called a security defense center (SDC), security analytics center (SAC), network security operations center (NSOC), security intelligence center, cyber security center, threat defense center, security intelligence and operations center (SIOC). In the Canadian Federal Government the term, infrastructure protection center (IPC), is used to describe a SOC.
+
+Technology
+SOCs typically are based around a security information and event management (SIEM) system which aggregates and correlates data from security feeds such as network discovery and vulnerability assessment systems; governance, risk and compliance (GRC) systems; web site assessment and monitoring systems, application and database scanners; penetration testing tools; intrusion detection systems (IDS); intrusion prevention system (IPS); log management systems; network behavior analysis and Cyber threat intelligence; wireless intrusion prevention system; firewalls, enterprise antivirus and unified threat management (UTM).  The SIEM technology creates a "single pane of glass" for the security analysts to monitor the enterprise.
+
+People
+SOC staff includes analysts, security engineers, and SOC managers who should be seasoned IT and networking professionals. They are usually trained in computer engineering, cryptography, network engineering, or computer science and may have credentials such as CISSP or GIAC.
+SOC staffing plans range from eight hours a day, five days a week (8x5) to twenty four hours a day, seven days a week (24x7). Shifts should include at least two analysts and the responsibilities should be clearly defined.
+
+Organization
+Large organizations and governments may operate more than one SOC to manage different groups of information and communication technology or to provide redundancy in the event one site is unavailable. SOC work can be outsourced, for instance, by using a managed security service. The term SOC was traditionally used by governments and managed computer security providers, although a growing number of large corporations and other organizations also have such centers.
+The SOC and the network operations center (NOC) complement each other and work in tandem. The NOC is usually responsible for monitoring and maintaining the overall network infrastructure, and its primary function is to ensure uninterrupted network service. The SOC is responsible for protecting networks, as well as web sites, applications, databases, servers and data centers, and other technologies.  Likewise, the SOC and the physical security operations center coordinate and work together. The physical SOC is a facility in large organizations where security staff monitor and control security officers/guards, alarms, CCTV, physical access, lighting, vehicle barriers, etc.
+Not every SOC has the same role. There are three different focus areas in which a SOC may be active, and which can be combined in any combination:
+
+Control - focusing on the state of the security with compliancy testing, penetration testing, vulnerability testing, etc.
+Monitoring - focusing on events and the response with log monitoring, SIEM administration, and incident response
+Operational - focusing on the operational security administration such as identity & access management, key management, firewall administration, etc.In some cases the SOC, NOC or physical SOC may be housed in the same facility or organizationally combined, especially if the focus is on operational tasks. If the SOC originates from a CERT organisation, then the focus is usually more on monitoring and control, in which case the SOC operates independently from the NOC to maintain separation of duties. Typically, larger organizations maintain a separate SOC to ensure focus and expertise. The SOC then collaborates closely with network operations and physical security operations.
+
+Facilities
+SOCs usually are well protected with physical, electronic, computer, and personnel security. Centers are often laid out with desks facing a video wall, which displays significant status, events and alarms; ongoing incidents; a corner of the wall is sometimes used for showing a news or weather TV channel, as this can keep the SOC staff aware of current events which may affect information systems. A security engineer or security analyst may have several computer monitors on their desk.
+
+Process and procedures
+Processes and procedures within a SOC will clearly spell out roles and responsibilities as well as monitoring procedures. These processes include business, technology, operational and analytical processes. They lay out what steps are to be taken in the event of an alert or breach including escalation procedures, reporting procedures, and breach response procedures.
+
+CloudSOC
+A cloud security operations center (CloudSOC) may be set up to monitor cloud service use within an enterprise (and keep the Shadow IT problem under control), or parse and audit IT infrastructure and application logs via  SIEM technologies and machine data platforms to provide alerts and details of suspicious activity.
+
+Smart SOC
+A Smart SOC (Security Operations Center) is a comprehensive, technology agnostic cybersecurity solution that utilizes leading-edge technology and tools, highly skilled and experienced human talent (composed of cyber intelligence gatherers, analysts, and security experts), and proactive cyberwarfare principles to prevent and neutralize threats against an organization’s digital infrastructure, assets, and data.
+
+Other types and references
+In addition, there are many other commonly referenced terms related to the original "ISOC" title including the following:
+
+SNOC, Security Network Operations Center
+ASOC, Advanced Security Operations Center
+GSOC, Global Security Operations Center
+vSOC, Virtual Security Operations Center
+
+See also
+Data center
+Managed security service
+
+
+== References ==

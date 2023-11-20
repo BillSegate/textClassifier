@@ -1,0 +1,27 @@
+In computing, a kill pill is a mechanism or a technology designed to render systems useless either by user command, or under a predefined set of circumstances. Kill pill technology is most commonly used to disable lost or stolen devices for security purposes, but can also be used for the enforcement of rules and contractual obligations.
+
+Applications
+Lost and stolen devices
+Kill pill technology is used prominently in smartphones, especially in the disablement of lost or stolen devices. A notable example is Find My iPhone, a service that allows the user to password protect or wipe their iDevice(s) remotely, aiding in the protection of private data. Similar applications exist for other smartphone operating systems, including Android, BlackBerry, and Windows Phone.
+
+Anti-piracy measure
+Kill pill technology has been notably used as an anti-piracy measure. Windows Vista was released with the ability to severely limit its own functionality if it was determined that the copy was obtained through piracy. The feature was later dropped after complaints that false positives caused genuine copies of Vista to act as though they were pirated.
+
+Removal of malicious software
+The concept of a kill pill is also applied to the remote removal by a server of malicious files or applications from a client's system. Such technology is a standard component of most handheld computing devices, mainly due to their generally more limited operating systems and means of obtaining applications. Such functionality is also reportedly available to applications downloaded from the Windows Store on Windows 8 operating systems.
+
+Vehicles
+Kill pill technology is used frequently in vehicles for a variety of reasons. Remote vehicle disablement can be used to prevent a vehicle from starting, to prevent it from moving, and to prevent the vehicle's continued operation. Non-remotely, vehicles can require driver recognition before starting or moving, such as asking for a password or some form of biometrics from the driver.Kill pill technology is often used by governments to prevent drunk driving by repeat offenders as a punishment and deterrent. The installation of an ignition interlock devices is a sentencing alternative for drunk drivers in almost all 50 of the United States. Such a device requires the driver to blow into a breathalyzer before starting the vehicle. If the driver is found to be over the legal blood alcohol content limit, the vehicle will not start
+
+Other uses
+Kill pill technology can also be implemented to contextually disable certain aspects of a smartphone's functionality. A patent obtained by Apple claims the ability to disable the antenna, screen, or camera of a smartphone in settings like theaters, schools, and areas of high security sensitivity.
+
+Criticism
+Kill pill technology has been criticized for allowing for the suppression of personal liberties. While a kill pill can be utilized in a school setting to prevent academic dishonesty, it has been suggested that governments may also use it to suppress their people, for example, by disabling a phone's camera or antenna in the area of a protest.The ability to remotely remove files and applications from a user's device has also come under fire. Apple's apparent ability to blacklist applications, rendering them unusable on any iDevice, has raised concerns about the user's rights when downloading from the App Store. As of July 2014, no applications appear on Apple's blacklist website.
+
+See also
+Kill switch
+
+References
+External links
+Apple's blacklist of applications

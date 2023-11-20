@@ -1,0 +1,29 @@
+Rhythm interpretation is an important part of healthcare in Emergency Medical Services (EMS). Trained medical personnel can determine different treatment options based on the cardiac rhythm of a patient.  There are many common heart rhythms that are part of a few different categories, sinus arrhythmia, atrial arrhythmia, ventricular arrhythmia.  Rhythms can be evaluated by measuring a few key components of a rhythm strip, the PQRST sequence, which represents one cardiac cycle, the ventricular rate, which is the rate at which the ventricles contract, and the atrial rate, which is the rate at which the atria contract.
+
+PQRST sequence
+The 5 deviations from the base line on a rhythm strip make up the PQRST sequence.  There are a few key intervals that must be measured for proper analysis of a heart rhythm,  The PR interval is the interval between the end of the P wave and the beginning of the Q wave.  This represents the conduction of the atria of the heart, the speed at which they are able to conduct an electrical impulse.  The QRS complex represents the conduction of the ventricles of the heart, the speed at which they are able to conduct an electrical impulse.  The interval between each R wave represents the heart rate, which is critical for determining different rhythms within the defined categories.
+
+Sinus Arrhythmias
+There are 6 different sinus arrhythmia.A normal heart should have a normal sinus rhythm, this rhythm can be identified by a ventricular rate of 60-100 bpm, at a regular rate, with a normal PR interval (0.12 to 0.20 second) and a normal QRS complex (0.12 second and less).
+Sinus bradycardia  is another regular rhythm however the ventricular rate is only between 40 and 60 bpm, with a normal PR interval and a normal QRS complex.
+Sinus tachycardia  is another regular rhythm however the ventricular rate is quicker, between 100 - 160 bpm, with a normal PR interval and normal QRS complex.
+Sinus arrhythmia  is an irregular rhythm with a ventricular rate of 60 - 100 normally, however a slow rhythm can be distinguished when the rate is less than 60, the PR interval and QRS complex are normal.
+Sinus pause is a regular rhythm however a sudden pause occurs in the rhythm which makes it miss a few beats, if the rhythm resumes on time after the pause then this is known as a sinus block, if the rhythm does not resume on time after the pause this is known as a sinus arrest.
+
+Atrial Arrhythmias
+There are 5 different atrial arrhythmias.A wandering atrial pacemaker can be either normal or irregular in rate, much like a sinus arrhythmia the rate is normally between 60 - 100 bpm when it is normal and less than 60 when it is slow, the distinguishing feature of this rhythm is a p wave that varies in size, shape, and direction, the PR interval can either be normal or irregular depending on the location of conduction of the PR interval, the QRS complex is normal.
+A premature atrial pacemaker has a regular underlying rhythm however there is a premature beat which can be identified by an irregular p wave with a different size, shape, and direction often found within a T wave, the PR interval is generally normal however can be hard to measure, the QRS complex is premature for the PAC, but is generally normal.
+Paroxysmal atrial tachycardia has a regular rate, however a high rate of about 140-250 bpm, p waves are generally hidden and the PR interval is not measurable.
+Atrial flutter has an atrial rate of 250-400 and can be identified by p waves with saw tooth deflections.
+Atrial fibrillation has an atrial rate of 400+ and is distinguishable due to its irregular ventricular rate and wavy deflections.
+
+Ventricular arrhythmias
+Ventricular arrhythmias are some of the most dangerous heart rhythms requiring cardiopulmonary resuscitation (CPR) and defibrillation in cases of symptomatic ventricular tachycardia and ventricular fibrillation.
+There are 5 different ventricular arrhymia.Ventricular tachycardia is a regular rhythm with a rate of 140-250 bpm, there are no P waves and the main feature is a wide QRS complex (0.12 and greater)
+Ventricular fibrillation has no p waves or QRS complexes, there are only wavy irregular deflections throughout the heart rhythm, at this point the heart would have a rate of 0 and be supplying no blood through the body.
+Idioventricular rhythm this is a regular rhythm identifiable by a wide QRS complex with absent P waves, and a rate between 30 and 40 bpm.
+Accelerated idioventricular rhythm is a regular rhythm with a wide QRS complex and absent P waves, and a rate between 50 and 100 bpm.
+The final rhythm is ventricular standstill this rhythm will appear as a flat line, but may have a few non conducted p waves, the heart rate of this will be 0 and be supplying no blood through the body like ventricular fibrillation.
+
+
+== References ==

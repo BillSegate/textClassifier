@@ -1,4 +1,0 @@
-Temelimab (also known as GNbAC1) is an experimental monoclonal antibody drug for immune system conditions that neutralizes the human endogenous retrovirus envelope protein HERV-W. It has been studied for multiple sclerosis up to phase 2b, where it was found to be safe and to reduce brain lesions. As of 2023, it is also being studied for cognitive impairment in long COVID.
-
-
-== References ==

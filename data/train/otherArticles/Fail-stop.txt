@@ -1,0 +1,13 @@
+A fail-stop subset of a computer language is one that has the same semantics as the original, except in the case where an exceptional condition arises.  The fail-stop subset must report an exceptional condition whenever the superset language reports one, but may additionally report an exceptional condition in other cases.
+Fail-stop languages are often used in computer systems where correctness is very important, since it is easier to make such systems fail-fast.  For example, the "+" operator in many programming languages is not associative because of the possibility of floating-point overflow.  Repairing these languages to fail fast when commonly assumed properties do not hold makes it much easier to write and verify correct code.
+
+Examples
+In many widely used programming languages the code below might reduce the bank account value if the deposited amount or old account value is very large, by causing an overflowed value to be assigned to new_bank_account_value.
+
+But in a fail-stop language that treats overflow as an exceptional condition, it is either correct, or will terminate with an exceptional condition.
+
+See also
+Exception handling
+Fail-safe
+Fault-tolerant
+Bottom type

@@ -1,0 +1,37 @@
+Operations security (OPSEC) or operational security is a process that identifies critical information to determine whether friendly actions can be observed by enemy intelligence, determines if information obtained by adversaries could be interpreted to be useful to them, and then executes selected measures that eliminate or reduce adversary exploitation of friendly critical information.
+
+The term "operations security" was coined by the United States military during the Vietnam War.
+
+History
+Vietnam
+In 1966, United States Admiral Ulysses Sharp established a multidisciplinary security team to investigate the failure of certain combat operations during the Vietnam War. This operation was dubbed Operation Purple Dragon, and included personnel from the National Security Agency and the Department of Defense.When the operation concluded, the Purple Dragon team codified their recommendations. They called the process "Operations Security" in order to distinguish the process from existing processes and ensure continued inter-agency support.
+
+NSDD 298
+In 1988, President Ronald Reagan signed National Security Decision Directive (NSDD) 298. This document established the National Operations Security Program and named the Director of the National Security Agency as the executive agent for inter-agency OPSEC support. This document also established the Interagency OPSEC Support Staff (IOSS).
+
+Private-sector application
+The private sector has also adopted OPSEC as a defensive measure against competitive intelligence collection efforts.
+
+See also
+For Official Use Only – FOUO
+Information security
+Intelligence cycle security
+Security
+Security Culture
+Sensitive but unclassified – SBU
+Controlled Unclassified Information - CUI
+Social engineering
+
+References
+Further reading
+National Security Decision Directive 298
+Purple Dragon: The Origin & Development of the United States OPSEC Program, NSA, 1993.
+Operations Security (JP 3-13.3) PDF U.S. DoD Operations Security Doctrine.
+"Bin Laden Trail 'Stone Cold'". Washington Post. September 10, 2006.
+"After a Decade at War With West, Al-Qaeda Still Impervious to Spies". Washington Post. March 20, 2008.
+
+External links
+Espionage Target You - DoD Film on Operational Security on YouTube
+U.S. Government OPSEC site
+Operations Security Professionals Association
+How to Conduct an OPSEC Assessment

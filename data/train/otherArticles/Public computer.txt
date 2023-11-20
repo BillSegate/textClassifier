@@ -1,0 +1,26 @@
+A public computer (or public access computer) is any of various computers available in public areas. Some places where public computers may be available are libraries, schools, or dedicated facilities run by government.
+Public computers share similar hardware and software components to personal computers, however, the role and function of a public access computer is entirely different. A public access computer is used by many different untrusted individuals throughout the course of the day. The computer must be locked down and secure against both intentional and unintentional abuse. Users typically do not have authority to install software or change settings. A personal computer, in contrast, is typically used by a single responsible user, who can customize the machine's behavior to their preferences.
+Public access computers are often provided with tools such as a PC reservation system to regulate access.
+The world's first public access computer center was the Marin Computer Center in California, co-founded by David and Annie Fox in 1977.
+
+Kiosks
+A kiosk is a special type of public computer using software and hardware modifications to provide services only about the place the kiosk is in. For example, a movie ticket kiosk can be found at a movie theater. These kiosks are usually in a secure browser with zero access to the desktop. Many of these kiosks may run Linux, however, ATMs, a kiosk designed for depositing money, often run Windows XP.
+
+Public computers in the United States
+Library computers
+In the United States and Canada, almost all public libraries have computers available for the use of patrons, though some libraries will impose a time limit on users to ensure others will get a turn and keep the library less busy. Users are often allowed to print documents that they have created using these computers, though sometimes for a small fee.
+
+Privacy
+Privacy is an important part of the public library institution, since the libraries entitle the public to intellectual freedom. Use of any computer or network may create records of users' activities that can jeopardize their privacy. It is possible for a patron to jeopardize their privacy if they do not delete cache, clear cookies, or documents from the public computer. In order for a member of the public to remain private on a computer, the American Library Association (ALA) has guidelines. These give patrons an idea of the right way to keep using public library computers. In their provision of services to library users, librarians have an ethical responsibility, expressed in the ALA Code of Ethics, to preserve users' right to privacy. A librarian is also responsible for giving users  an understanding of private patron use and access. Libraries must ensure that users have the following rights when browsing on public computers: the computer automatically will clear a users history; libraries should display privacy screens so users do not see another patron's screen; updating software for effective safety measures; restoration data software to clear documents that users may have left on their computers and to combat possible malware; security practices; and making users aware of any possible monitoring of their browsing activities. Users can also view the Library Privacy Checklist for Public Access Computers and Networks to better understand what libraries strive for when protecting privacy.
+
+School computers
+The U.S. government has given money to many school boards to purchase computers for educational applications. Schools may have multiple computer labs, which contain these computers for students to use. There is usually Internet access on these machines, but some schools will put up a blocking service to limit the websites that students are able to access to only include educational resources, such as Google. In addition to controlling the content students are viewing, putting up these blocks can also help to keep the computers safe by preventing students from downloading malware and other threats. However, the effectiveness of such content filtering systems is questionable since it can easily be circumvented by using proxy websites, Virtual Private Networks, and for some weak security systems, merely knowing the IP address of the intended website is enough to bypass the filter.
+School computers often have advanced operating system security to prevent tech-savvy students from inflicting damage (i.e. the Windows Registry Editor and Task Manager, etc.) are disabled on Microsoft Windows machines. Schools with very advanced tech services may also install a locked down BIOS/firmware or make kernel-level changes to the operating system, precluding the possibility of unauthorized activity.
+
+See also
+Personal computer
+Telecenter
+Internet cafe
+
+
+== References ==

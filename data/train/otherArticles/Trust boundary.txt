@@ -1,0 +1,4 @@
+Trust boundary is a term used in computer science and security which describes a boundary where program data or execution changes its level of "trust," or where two principals with different capabilities exchange data or commands. The term refers to any distinct boundary where within a system all sub-systems (including data) have equal trust. An example of an execution trust boundary would be where an application attains an increased privilege level (such as root). A data trust boundary is a point where data comes from an untrusted source--for example, user input or a network socket.A "trust boundary violation" refers to a vulnerability where computer software trusts data that has not been validated before crossing a boundary.
+
+
+== References ==

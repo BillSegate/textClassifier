@@ -1,0 +1,392 @@
+In mathematics, the Hartley transform (HT) is an integral transform closely related to the Fourier transform (FT), but which transforms real-valued functions to real-valued functions. It was proposed as an alternative to the Fourier transform by Ralph V. L. Hartley in 1942, and is one of many known Fourier-related transforms. Compared to the Fourier transform, the Hartley transform has the advantages of transforming real functions to real functions (as opposed to requiring complex numbers) and of being its own inverse.
+The discrete version of the transform, the discrete Hartley transform (DHT), was introduced by Ronald N. Bracewell in 1983.The two-dimensional Hartley transform can be computed by an analog optical process similar to an optical Fourier transform (OFT), with the proposed advantage that only its amplitude and sign need to be determined rather than its complex phase. However, optical Hartley transforms do not seem to have seen widespread use.
+
+Definition
+The Hartley transform of a function 
+  
+    
+      
+        f
+        (
+        t
+        )
+      
+    
+    {\displaystyle f(t)}
+   is defined by:
+
+where 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   can in applications be an angular frequency and
+
+is the cosine-and-sine (cas) or Hartley kernel. In engineering terms, this transform takes a signal (function) from the time-domain to the Hartley spectral domain (frequency domain).
+
+Inverse transform
+The Hartley transform has the convenient property of being its own inverse (an involution):
+
+Conventions
+The above is in accord with Hartley's original definition, but (as with the Fourier transform) various minor details are matters of convention and can be changed without altering the essential properties:
+
+Instead of using the same transform for forward and inverse, one can remove the 
+  
+    
+      
+        
+          1
+        
+        
+          /
+        
+        
+          
+            2
+            π
+          
+        
+      
+    
+    {\displaystyle {1}/{\sqrt {2\pi }}}
+   from the forward transform and use 
+  
+    
+      
+        
+          1
+        
+        
+          /
+        
+        
+          2
+          π
+        
+      
+    
+    {\displaystyle {1}/{2\pi }}
+   for the inverse—or, indeed, any pair of normalizations whose product is 
+  
+    
+      
+        
+          1
+        
+        
+          /
+        
+        
+          2
+          π
+        
+      
+    
+    {\displaystyle {1}/{2\pi }}
+  . (Such asymmetrical normalizations are sometimes found in both purely mathematical and engineering contexts.)
+One can also use 
+  
+    
+      
+        2
+        π
+        ν
+        t
+      
+    
+    {\displaystyle 2\pi \nu t}
+   instead of 
+  
+    
+      
+        ω
+        t
+      
+    
+    {\displaystyle \omega t}
+   (i.e., frequency instead of angular frequency), in which case the 
+  
+    
+      
+        
+          1
+        
+        
+          /
+        
+        
+          
+            2
+            π
+          
+        
+      
+    
+    {\displaystyle {1}/{\sqrt {2\pi }}}
+   coefficient is omitted entirely.
+One can use 
+  
+    
+      
+        cos
+        −
+        sin
+      
+    
+    {\displaystyle \cos -\sin }
+   instead of 
+  
+    
+      
+        cos
+        +
+        sin
+      
+    
+    {\displaystyle \cos +\sin }
+   as the kernel.
+
+Relation to Fourier transform
+This transform differs from the classic Fourier transform 
+
+  
+    
+      
+        F
+        (
+        ω
+        )
+        =
+        
+          
+            F
+          
+        
+        {
+        f
+        (
+        t
+        )
+        }
+        (
+        ω
+        )
+      
+    
+    {\displaystyle F(\omega )={\mathcal {F}}\{f(t)\}(\omega )}
+   in the choice of the kernel. In the Fourier transform, we have the exponential kernel,
+
+  
+    
+      
+        exp
+        ⁡
+        
+          (
+          
+            −
+            
+              i
+            
+            ω
+            t
+          
+          )
+        
+        =
+        cos
+        ⁡
+        (
+        ω
+        t
+        )
+        −
+        
+          i
+        
+        sin
+        ⁡
+        (
+        ω
+        t
+        )
+      
+    
+    {\displaystyle \exp \left({-\mathrm {i} \omega t}\right)=\cos(\omega t)-\mathrm {i} \sin(\omega t)}
+  ,
+where 
+  
+    
+      
+        
+          i
+        
+      
+    
+    {\displaystyle \mathrm {i} }
+   is the imaginary unit.
+The two transforms are closely related, however, and the Fourier transform (assuming it uses the same 
+  
+    
+      
+        1
+        
+          /
+        
+        
+          
+            2
+            π
+          
+        
+      
+    
+    {\displaystyle 1/{\sqrt {2\pi }}}
+   normalization convention) can be computed from the Hartley transform via:
+
+That is, the real and imaginary parts of the Fourier transform are simply given by the even and odd parts of the Hartley transform, respectively.
+Conversely, for real-valued functions 
+  
+    
+      
+        f
+        (
+        t
+        )
+      
+    
+    {\displaystyle f(t)}
+  , the Hartley transform is given from the Fourier transform's real and imaginary parts:
+
+where 
+  
+    
+      
+        ℜ
+      
+    
+    {\displaystyle \Re }
+   and 
+  
+    
+      
+        ℑ
+      
+    
+    {\displaystyle \Im }
+   denote the real and imaginary parts.
+
+Properties
+The Hartley transform is a real linear operator, and is symmetric (and Hermitian).  From the symmetric and self-inverse properties, it follows that the transform is a unitary operator (indeed, orthogonal).
+Convolution using Hartley transforms is
+where 
+  
+    
+      
+        F
+        (
+        ω
+        )
+        =
+        {
+        
+          
+            H
+          
+        
+        f
+        }
+        (
+        ω
+        )
+      
+    
+    {\displaystyle F(\omega )=\{{\mathcal {H}}f\}(\omega )}
+   and 
+  
+    
+      
+        G
+        (
+        ω
+        )
+        =
+        {
+        
+          
+            H
+          
+        
+        g
+        }
+        (
+        ω
+        )
+      
+    
+    {\displaystyle G(\omega )=\{{\mathcal {H}}g\}(\omega )}
+  
+Similar to the Fourier transform, the Hartley transform of an even/odd function is even/odd, respectively.
+
+cas
+The properties of the Hartley kernel, for which Hartley introduced the name cas for the function (from cosine and sine) in 1942, follow directly from trigonometry, and its definition as a phase-shifted trigonometric function 
+  
+    
+      
+        cas
+        ⁡
+        (
+        t
+        )
+        =
+        
+          
+            2
+          
+        
+        sin
+        ⁡
+        (
+        t
+        +
+        π
+        
+          /
+        
+        4
+        )
+        =
+        sin
+        ⁡
+        (
+        t
+        )
+        +
+        cos
+        ⁡
+        (
+        t
+        )
+      
+    
+    {\displaystyle \operatorname {cas} (t)={\sqrt {2}}\sin(t+\pi /4)=\sin(t)+\cos(t)}
+  . For example, it has an angle-addition identity of:
+
+Additionally:
+
+and its derivative is given by:
+
+See also
+cis (mathematics)
+Fractional Fourier transform
+
+References
+Bracewell, Ronald N. (1986).  Written at Stanford, California, USA. The Hartley Transform. Oxford Engineering Science Series. Vol. 19 (1 ed.). New York, NY, USA: Oxford University Press, Inc. ISBN 0-19-503969-6. (NB. Also translated into German and Russian.)
+Bracewell, Ronald N. (1994). "Aspects of the Hartley transform". Proceedings of the IEEE. 82 (3): 381–387. doi:10.1109/5.272142.
+Millane, Rick P. (1994). "Analytic properties of the Hartley transform". Proceedings of the IEEE. 82 (3): 413–428. doi:10.1109/5.272146.
+
+Further reading
+Olnejniczak, Kraig J.; Heydt, Gerald T., eds. (March 1994). "Scanning the Special Section on the Hartley transform". Special Issue on Hartley transform. Vol. 82. Proceedings of the IEEE. pp. 372–380. Retrieved 2017-10-31. (NB. Contains extensive bibliography.)

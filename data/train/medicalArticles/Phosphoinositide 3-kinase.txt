@@ -1,0 +1,59 @@
+Phosphoinositide 3-kinases (PI3Ks), also called phosphatidylinositol 3-kinases, are a family of enzymes involved in cellular functions such as cell growth, proliferation, differentiation, motility, survival and intracellular trafficking, which in turn are involved in cancer.
+PI3Ks are a family of related intracellular signal transducer enzymes capable of phosphorylating the 3 position hydroxyl group of the inositol ring of phosphatidylinositol (PtdIns). The pathway, with oncogene PIK3CA and tumor suppressor gene PTEN, is implicated in the sensitivity of cancer tumors to insulin and IGF1, and in calorie restriction.
+
+Discovery
+The discovery of PI3Ks by Lewis Cantley and colleagues began with their identification of a previously unknown phosphoinositide kinase associated with the polyoma middle T protein. They observed unique substrate specificity and chromatographic properties of the products of the lipid kinase, leading to the discovery that this phosphoinositide kinase had the unprecedented ability to phosphorylate phosphoinositides on the 3' position of the inositol ring. Subsequently, Cantley and colleagues demonstrated that in vivo the enzyme prefers PtdIns(4,5)P2 as a substrate, producing the novel phosphoinositide PtdIns(3,4,5)P3 previously identified in neutrophils.
+
+Classes
+The PI3K family is divided into four different classes: Class I, Class II, Class III, and Class IV. The classifications are based on primary structure, regulation, and in vitro lipid substrate specificity.
+
+Class I
+Class I PI3Ks catalyze the conversion of phosphatidylinositol (4,5)-bisphosphate (PI(4,5)P2) into phosphatidylinositol (3,4,5)-trisphosphate (PI(3,4,5)P3) in vivo. While in vitro, they have also been shown to convert phosphatidylinositol (PI) into phosphatidylinositol 3-phosphate (PI3P) and phosphatidylinositol 4-phosphate (PI4P) into phosphatidylinositol (3,4)-bisphosphate (PI(3,4)P2), these reactions are strongly disfavoured in vivo. The PI3K is activated by G protein-coupled receptors and tyrosine kinase receptors.Class I PI3Ks are heterodimeric molecules composed of a regulatory and a catalytic subunit; they are further divided between IA and IB subsets on sequence similarity. Class IA PI3Ks are composed of a heterodimer between a p110 catalytic subunit and a shorter regulatory subunit (often p85). There are five variants of the regulatory subunit: the three splice variants p85α, p55α, and p50α, p85β, and p55γ. There are also three variants of the p110 catalytic subunit designated p110α, β, or δ catalytic subunit. The first three regulatory subunits are all splice variants of the same gene (Pik3r1), the other two being expressed by other genes (Pik3r2 and Pik3r3, p85β, and p55γ, respectively). The most highly expressed regulatory subunit is p85α; all three catalytic subunits are expressed by separate genes (Pik3ca, Pik3cb, and Pik3cd for p110α, p110β, and p110δ, respectively). The first two p110 isoforms (α and β) are expressed in all cells, but p110δ is expressed primarily in leukocytes, and it has been suggested that it evolved in parallel with the adaptive immune system. The regulatory p101 and catalytic p110γ subunits comprise the class IB PI3Ks and are encoded by a single gene each (Pik3cg for p110γ and Pik3r5 for p101).
+The p85 subunits contain SH2 and SH3 domains (Online Mendelian Inheritance in Man (OMIM): 171833). The SH2 domains bind preferentially to phosphorylated tyrosine residues in the amino acid sequence context Y-X-X-M.
+
+Classes II and III
+Class II and III PI3Ks are differentiated from the Class I by their structure and function. The distinct feature of Class II PI3Ks is the C-terminal C2 domain. This domain lacks critical Asp residues to coordinate binding of Ca2+, which suggests class II PI3Ks bind lipids in a Ca2+-independent manner.
+Class II comprises three catalytic isoforms (C2α, C2β, and C2γ), but, unlike Classes I and III, no regulatory proteins. Class II catalyse the production of PI(3)P from PI and PI(3,4)P2 from PI(4)P; however, little is known about their role in immune cells. PI(3,4)P2 has, however, been shown to play a role in the invagination phase of clathrin-mediated endocytosis. C2α and C2β are expressed through the body, but expression of C2γ is limited to hepatocytes.
+Class III PI3Ks produce only PI(3)P from PI  but are more similar to Class I in structure, as they exist as heterodimers of a catalytic (Vps34) and a regulatory (Vps15/p150) subunits. Class III seems to be primarily involved in the trafficking of proteins and vesicles. There is, however, evidence to show that they are able to contribute to the effectiveness of several process important to immune cells, not least phagocytosis.
+
+Class IV
+A group of more distantly related enzymes is sometimes referred to as class IV PI3Ks. It is composed of ataxia telangiectasia mutated (ATM), ataxia telangiectasia and Rad3 related (ATR), DNA-dependent protein kinase (DNA-PK) and mammalian target of rapamycin (mTOR). They are protein serine/threonine kinases.
+
+Human genes
+Mechanism
+The various 3-phosphorylated phosphoinositides that are produced by PI3Ks (PtdIns3P, PtdIns(3,4)P2, PtdIns(3,5)P2, and PtdIns(3,4,5)P3) function in a mechanism by which an assorted group of signalling proteins, containing PX domains, pleckstrin homology domains (PH domains), FYVE domains or other phosphoinositide-binding domains, are recruited to various cellular membranes.
+
+Function
+PI3Ks have been linked to an extraordinarily diverse group of cellular functions, including cell growth, proliferation, differentiation, motility, survival and intracellular trafficking. Many of these functions relate to the ability of class I PI3Ks to activate protein kinase B (PKB, aka Akt) as in the PI3K/AKT/mTOR pathway. The p110δ and p110γ isoforms regulate different aspects of immune responses. PI3Ks are also a key component of the insulin signaling pathway. Hence there is great interest in the role of PI3K signaling in diabetes mellitus. PI3K is also involved in interleukin signalling (IL4)
+
+Mechanism
+The pleckstrin homology domain of AKT binds directly to PtdIns(3,4,5)P3 and PtdIns(3,4)P2, which are produced by activated PI3Ks. Since PtdIns(3,4,5)P3 and PtdIns(3,4)P2 are restricted to the plasma membrane, this results in translocation of AKT to the plasma membrane. Likewise, the phosphoinositide-dependent kinase-1 (PDK1 or, rarely referred to as PDPK1) also contains a pleckstrin homology domain that binds directly to PtdIns(3,4,5)P3 and PtdIns(3,4)P2, causing it to also translocate to the plasma membrane upon PI3K activation. The interaction of activated PDK1 and AKT allows AKT to become phosphorylated by PDK1 on threonine 308, leading to partial activation of AKT. Full activation of AKT occurs upon phosphorylation of serine 473 by the TORC2 complex of the mTOR protein kinase.
+The PI3K/AKT pathway has been shown to be required for an extremely diverse array of cellular activities - most notably cellular proliferation and survival. For example, it was shown to be involved in the protection of astrocytes from ceramide-induced apoptosis.Many other proteins have been identified that are regulated by PtdIns(3,4,5)P3, including Bruton's tyrosine kinase (BTK), General Receptor for Phosphoinositides-1 (GRP1), and the O-linked N-acetylglucosamine (O-GlcNAc) transferase.
+PtdIns(3,4,5)P3 also activates guanine‐nucleotide exchange factors (GEFs) that activate the GTPase Rac1, leading to actin polymerization and cytoskeletal rearrangement.
+
+Cancers
+The class IA PI3K p110α is mutated in many cancers. Many of these mutations cause the kinase to be more active. It is the single most mutated kinase in glioblastoma, the most malignant primary brain tumor. The PtdIns(3,4,5)P3 phosphatase PTEN that antagonises PI3K signaling is absent from many tumours. In addition, the epidermal growth factor receptor EGFR that functions upstream of PI3K is mutationally activated or overexpressed in cancer. Hence, PI3K activity contributes significantly to cellular transformation and the development of cancer. It has been shown that malignant B cells maintain a "tonic" activity of PI3K/Akt axis via upregulation of an adaptor protein GAB1, and this also allows B cells to survive targeted therapy with BCR inhibitors.
+
+Learning and memory
+PI3Ks have also been implicated in long-term potentiation (LTP). Whether they are required for the expression or the induction of LTP is still debated. In mouse hippocampal CA1 neurons, certain PI3Ks are complexed with AMPA receptors and compartmentalized at the postsynaptic density of glutamatergic synapses. PI3Ks are phosphorylated upon NMDA receptor-dependent CaMKII activity, and it then facilitates the insertion of AMPA-R GluR1 subunits into the plasma membrane. This suggests that PI3Ks are required for the expression of LTP. Furthermore, PI3K inhibitors abolished the expression of LTP in rat hippocampal CA1, but do not affect its induction. Notably, the dependence of late-phase LTP expression on PI3Ks seems to decrease over time.However, another study found that PI3K inhibitors suppressed the induction, but not the expression, of LTP in mouse hippocampal CA1. The PI3K pathway also recruits many other proteins downstream, including mTOR, GSK3β, and PSD-95. The PI3K-mTOR pathway leads to the phosphorylation of p70S6K, a kinase that facilitates translational activity, further suggesting that PI3Ks are required for the protein-synthesis phase of LTP induction instead.
+PI3Ks interact with the insulin receptor substrate (IRS) to regulate glucose uptake through a series of phosphorylation events.
+
+PI 3-kinases as protein kinases
+Many PI3Ks appear to have a serine/threonine kinase activity in vitro; however, it is unclear whether this has any role in vivo.
+
+Inhibition
+All PI3Ks are inhibited by the drugs wortmannin and LY294002, although certain members of the class II PI3K family show decreased sensitivity. Wortmannin shows better efficiency than LY294002 on the hotspot mutation positions (GLU542, GLU545, and HIS1047)
+
+PI3K inhibitors as therapeutics
+As wortmannin and LY294002 are broad-range inhibitors of PI3Ks and a number of unrelated proteins at higher concentrations, they are too toxic to be used as therapeutics. A number of pharmaceutical companies have thus developed PI3K isoform-specific inhibitors. As of January 2019, three PI3K inhibitors are approved by the FDA for routine clinical use in humans: the PIK3CD inhibitor idelalisib (July 2014, NDA 206545), the dual PIK3CA and PIK3CD inhibitor copanlisib (September 2017, NDA 209936), and the dual PIK3CD and PIK3CG inhibitor duvelisib (September 2018, NDA 211155). Co-targeted inhibition of the pathway with other pathways such as MAPK or PIM has been highlighted as a promising anti-cancer therapeutic strategy, which could offer benefit over the monotherapeutic approach by circumventing compensatory signalling, slowing the development of resistance and potentially allowing reduction of dosing.
+
+See also
+PI3K/AKT/mTOR pathway
+
+References
+Further reading
+External links
+Eukaryotic Linear Motif resource motif class MOD_PIKK_1
+Proteopedia Phosphoinositide_3-Kinases to explore the structure in interactive 3D
+PI-3+Kinase at the U.S. National Library of Medicine Medical Subject Headings (MeSH)
+PI3K/Akt Signaling Pathway

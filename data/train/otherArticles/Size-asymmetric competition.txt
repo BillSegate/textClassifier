@@ -1,0 +1,86 @@
+Size-asymmetric competition refers to situations in which larger individuals exploit disproportionately greater amounts of resources when competing with smaller individuals. This type of competition is common among plants but also exists among animals. Size-asymmetric competition usually results from large individuals monopolizing the resource by "pre-emption". i.e. exploiting the resource before smaller individuals are able to obtain it. Size-asymmetric competition has major effects on population structure and diversity within ecological communities.
+
+Definition of size asymmetry
+Resource competition can vary from complete symmetric (all individuals receive the same amount of resources, irrespective of their size, known also as scramble competition) to perfectly size symmetric (all individuals exploit the same amount of resource per unit biomass) to absolutely size asymmetric (the largest individuals exploit all the available resource). The degree of size asymmetry can be described by the parameter θ in the following equation focusing on the partition of the resource r among n individuals of sizes Bj.
+  
+    
+      
+        
+          r
+          
+            i
+          
+        
+        =
+        r
+        (
+        
+          B
+          
+            i
+          
+        
+        
+          )
+          
+            θ
+          
+        
+      
+    
+    {\displaystyle r_{i}=r(B_{i})^{\theta }}
+  
+
+  
+    
+      
+        
+          /
+        
+        
+          ∑
+          
+            j
+            =
+            1
+          
+          
+            n
+          
+        
+        (
+        
+          B
+          
+            j
+          
+        
+        
+          )
+          
+            θ
+          
+        
+      
+    
+    {\displaystyle /\sum _{j=1}^{n}(B_{j})^{\theta }}
+  
+ri refers to the amount of resource consumed by individual i in the neighbourhood of j. When θ =1, competition is perfectly size symmetric, e.g. if a large individual is twice the size of its smaller competitor, the large individual will acquire twice the amount of that resource (i.e. both individuals will exploit the same amount of resource per biomass unit). When θ >1 competition is size-asymmetric, e.g.  if large individual is twice the size of its smaller competitor and θ =2, the large individual will acquire four times the amount of that resource (i.e. the large individual will exploit twice the amount of resource per biomass unit). As θ increases, competition becomes more size-asymmetric and larger plants get larger amounts of resource per unit biomass compared with smaller plants.
+
+Differences in size-asymmetry among resources in plant communities
+Competition among plants for light is size-asymmetric because of the directionality of its supply. Higher leaves shade lower leaves but not vice versa.  Competition for nutrients appears to be relatively size-symmetric, although it has been hypothesized that a patchy distribution of nutrients in the soil may lead to size-asymmetry in competition among roots.  Nothing is known about the size-asymmetry of competition for water.
+
+Implication for plant communities
+Various ecological processes and patterns have been shown to be affected by the degree of size-asymmetry e.g. succession, biomass distribution, grazing response, population growth, ecosystem functioning, coexistence and species richness.  A large body of evidence shows  that species loss following  nutrient enrichment (eutrophication) is related to light competition (5, 15, 16). However, there is still a debate whether this phenomenon is related to the size-asymmetry of light competition or to other factors.Contrasting assumptions about size-asymmetry characterise the two leading and competing theories in plant ecology, the R* theory and the CSR theory. The R* theory assumes that competition is size-symmetric and therefore predicts that competitive ability in nature results from the ability to withstand low level of resources (known as the R* rule). In contrast the CSR theory assumes that competition is size-asymmetric and therefore predicts that competitive ability in nature results from the ability to grow fast and attain a large size.Size-asymmetric competition affects also several evolutionary processes in relation to trait selection. Evolution of plant height is highly affected by asymmetric light competition. Theory predicts that only under asymmetric light competition, plants will grow upward and invest in wood production at  the expense of investment in leaves, or in reproductive organs (flowers and fruits).  Consistent with this, there is evidence that plant height increases as water availability increases, presumably due to increase in the relative importance of size-asymmetric competition for light. Similarly, investment in the size of seeds at the expense of their number may be more effective undersize-asymmetric resource competition, since larger seeds tend to produce larger seedlings that are better competitors.
+Size-asymmetric competition can be exploited in managing plant communities, such as the suppression of weed in crop fields.  Weeds are a greater problem for farmer in dry than in moist environments, in large part because crops can suppress weeds much more effectively under size-asymmetric competition for light than under more size-symmetric competition below ground.
+
+See also
+competition (biology)
+Asymmetric competition
+resource (biology)
+Resource partitioning
+plant ecology
+Jacob Weiner
+
+
+== References ==

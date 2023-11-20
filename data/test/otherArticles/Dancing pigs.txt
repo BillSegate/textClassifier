@@ -1,0 +1,32 @@
+In computer security, "dancing pigs" is a term or problem that explains computer users' attitudes towards computer security. It states that users will continue to pick an amusing graphic even if they receive a warning from security software that it is potentially dangerous. In other words, users choose their primary desire features without considering the security. "Dancing pigs" is generally used by tech experts and can be found in IT articles.
+
+Origins
+The term originates from a remark made by Edward Felten, an associate professor at Princeton University:
+
+Given a choice between dancing pigs and security, users will pick dancing pigs every time.
+Bruce Schneier states:
+
+ The user's going to pick dancing pigs over security every time. 
+Bruce Schneier expands on this remark as follows:
+
+If J. Random Websurfer clicks on a button that promises dancing pigs on his computer monitor, and instead gets a hortatory message describing the potential dangers of the applet—he's going to choose dancing pigs over computer security any day. If the computer prompts him with a warning screen like: "The applet DANCING PIGS could contain malicious code that might do permanent damage to your computer, steal your life's savings, and impair your ability to have children," he'll click OK without even reading it. Thirty seconds later he won't even remember that the warning screen even existed.
+The Mozilla Security Reviewers' Guide states:
+
+Many of our potential users are inexperienced computer users, who do not understand the risks involved in using interactive Web content. This means we must rely on the user's judgement as little as possible.
+A widely publicized 2009 paper directly addresses the dancing pigs quotation and argues that users' behavior is plausibly rational:
+
+While amusing, this is unfair: users are never offered security, either on its own or as an alternative to anything else. They are offered long, complex and growing sets of advice, mandates, policy updates and tips. These sometimes carry vague and tentative suggestions of reduced risk, never security.
+
+Experimental support
+One study of phishing found that people really do prefer dancing animals to security. The study showed participants a number of phishing sites, including one that copied the Bank of the West home page:
+For many participants the "cute" design, the level of detail and the fact that the site does not ask for a great deal of information were the most convincing factors. Two participants mentioned the animated bear video that appears on the page, (e.g., "because that would take a lot of effort to copy"). Participants in general found this animation appealing and many reloaded the page just to see the animation again.
+Schneier believes the dancing pigs problem will lead to crime, a key threat. He said: "The tactics might change ... as security measures make some tactics harder and others easier, but the underlying issue is constant." Ignoring computer security can inflict various types of damage resulting in significant losses.
+
+See also
+Cute cat theory of digital activism
+Trojan horse (computing)
+
+References
+External links
+Beware of the dancing bunnies Larry Osterman's WebLog
+Strider HoneyMonkey Project

@@ -1,0 +1,12 @@
+In computer science, secure transmission refers to the transfer of data such as confidential or proprietary information over a secure channel. Many secure transmission methods require a type of encryption. The most common email encryption is called PKI. In order to open the encrypted file, an exchange of key is done.
+Many infrastructures such as banks rely on secure transmission protocols to prevent a catastrophic breach of security. Secure transmissions are put in place to prevent attacks such as ARP spoofing and general data loss. Software and hardware implementations which attempt to detect and prevent the unauthorized transmission of information from the computer systems to an organization on the outside may be referred to as Information Leak Detection and Prevention (ILDP), Information Leak Prevention (ILP), Content Monitoring and Filtering (CMF) or Extrusion Prevention systems and are used in connection with other methods to ensure secure transmission of data.
+
+Secure transmission over wireless infrastructure
+WEP is a deprecated algorithm to secure IEEE 802.11 wireless networks. Wireless networks broadcast messages using radio, so are more susceptible to eavesdropping than wired networks. When introduced in 1999, WEP was intended to provide confidentiality comparable to that of a traditional wired network. A later system, called Wi-Fi Protected Access (WPA) has since been developed to provide stronger security.
+
+Web-based secure transmission
+
+Transport Layer Security (TLS) and its predecessor, Secure Sockets Layer (SSL), are cryptographic protocols that provide secure communications on the Internet for such things as web browsing, e-mail, Internet faxing, instant messaging and other data transfers. There are slight differences between SSL and TLS, but they are substantially the same.
+
+
+== References ==

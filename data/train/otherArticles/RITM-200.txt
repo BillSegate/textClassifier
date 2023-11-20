@@ -1,7 +1,0 @@
-The RITM-200 is an integrated Generation III+ reactor pressurized water reactor developed by OKBM Afrikantov and designed to produce 55 MWe. The design is an improvement of KLT-40 reactor. It uses up to 20% enriched uranium-235 and can be refueled every 10 years for a 60 year planned lifespan in floating power plant installation. If installed in a stationary power plant the fuel cycle is 6 years.
-The RITM-200 has a compact integrated layout placing equipment within the steam generator casing, halving system weight compared to earlier designs and improving ability to operate in rolling and pitching seas.It powers the Project 22220 icebreakers, the first of which went critical in October 2019.In November 2020 Rosatom announced plans to place a land-based RITM-200N SMR in isolated Ust-Kuyga town in Yakutia. The reactor will replace current coal and oil based electricity and heat generation at half the price. Technical design for this type of RITM-200 core should be finished in 2022.
-
-References
-External links
-"RITM-200M The reactor plant for optimized floating power unit" (PDF). Archived from the original (PDF) on 2020-10-01. Retrieved 2020-10-05. - on OKBM Afrikantov official pdf (in English)
-Production of the reactor plant for the newest nuclear-powered icebreaker - on AEM Official YouTube Channel (in English)

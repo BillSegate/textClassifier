@@ -1,5 +1,0 @@
-The YSI 2300 STAT PLUS Glucose and Lactate Analyzer (YSI 2300) was a Class II in-vitro diagnostics (IVD) automated analyser intended that measured glucose in whole blood, plasma or serum; and of L-lactate in whole blood, plasma, or cerebrospinal fluid (CSF). In whole blood or plasma, the instrument could measure glucose and L-lactate simultaneously.  The analyzer was discontinued on 22 July 2021.
-Prior to its discontinuation, the analyzer was widely accepted as the de facto standard for reference measurements and system calibration by most manufacturers of glucometers for the past 30 years, despite there being no such regulatory requirement. 
-
-
-== References ==

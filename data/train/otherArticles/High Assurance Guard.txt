@@ -1,0 +1,15 @@
+A High Assurance Guard (HAG) is a Multilevel security computer device which is used to communicate between different Security Domains, such as NIPRNet to SIPRNet. A HAG is one example of a Controlled Interface between security levels. HAGs are approved through the Common Criteria process.
+
+Operation
+A HAG runs multiple virtual machines or physical machines - one or more subsystems for the lower classification, one (or more) subsystems for the higher classification. The hardware runs a type of Knowledge Management software that examines data coming out of the higher classification subsystem and rejects any data that is classified higher than the lower classification. In general, a HAG allows lower classified data that resides on a higher classified system to be moved to another lower classified system. For example, in the US, it would allow unclassified information residing on a Secret classified system to be moved to another Unclassified system. Through various rules and filters, the HAG ensures that data is of the lower classification and then allows the transfer.
+On the application layer, the HAG runs an "evaluated mandatory integrity policy" that provides sensitive files, data and applications protection from inadvertent disclosure.  At the operating system level, the HAG must have a multilevel kernel that ensures sensitive information, processes, and devices stored and running on the system at different sensitivity levels cannot intermingle in violation of the system's mandatory security model.
+The systems are certified via the Common Criteria; depending on the classification, the system may require Common Criteria Evaluated Assurance Level (EAL) 3 or higher.  For examples, in the US, an evaluation at the EAL 5 or EAL 5+ (EAL 5 Augmented) or higher is required to export from a Secret domain to an Unclassified domain.
+Some manufacturers may use "Trusted Computer System" or "Trusted Applications with High Assurance" as an equivalent term to HAG.
+
+Importance, risks
+The HAG is mostly used in email and DMS environments as certain organizations may only have unclassified network access, and they need to send a message to an organization that has only secret network access. The HAG provides them this ability.
+
+See also
+Data Diode
+Guard (information security)
+Cross-domain solution

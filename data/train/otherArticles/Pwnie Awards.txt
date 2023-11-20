@@ -1,0 +1,156 @@
+The Pwnie Awards recognize both excellence and incompetence in the field of information security. Winners are selected by a committee of security industry professionals from nominations collected from the information security community. Nominees are announced yearly at Summercon, and the awards themselves are presented at the Black Hat Security Conference.
+
+Origins
+The name Pwnie Award is based on the word "pwn", which is hacker slang meaning to "compromise" or "control" based on the previous usage of the word "own" (and it is pronounced similarly). The name "The Pwnie Awards," pronounced as "Pony," is meant to sound like the Tony Awards, an awards ceremony for Broadway theater in New York City.
+
+History
+The Pwnie Awards were founded in 2007 by Alexander Sotirov and Dino Dai Zovi following discussions regarding Dino's discovery of a cross-platform QuickTime vulnerability (CVE-2007-2175) and Alexander's discovery of an ANI file processing vulnerability (CVE-2007-0038) in Internet Explorer.
+
+Winners
+2022
+Lamest Vendor Response: Google's "TAG" response team for fixing several zero-day exploits (something that is normally regarded as highly beneficial in IT security), because it allegedly and according to the jury "shut down a counterterrorism operation"..
+
+2021
+Lamest Vendor Response: Cellebrite, for their response to Moxie, the creator of Signal, reverse-engineering their UFED and accompanying software and reporting a discovered exploit.
+Epic Achievement: Ilfak Guilfanov, in honor of IDA's 30th Anniversary.
+Best Privilege Escalation Bug: Baron Samedit of Qualys, for the discovery of a 10-year-old exploit in sudo.
+Best Song: The Ransomware Song by Forrest Brazeal
+Best Server-Side Bug: Orange Tsai, for his Microsoft Exchange Server ProxyLogon attack surface discoveries.
+Best Cryptographic Attack: The NSA for its disclosure of a bug in the verification of signatures in Windows which breaks the certificate trust chain.
+Most Innovative Research: Enes Göktaş, Kaveh Razavi, Georgios Portokalidis, Herbert Bos, and Cristiano Giuffrida at VUSec for their research on the "BlindSide" Attack.
+Most Epic Fail: Microsoft, for their failure to fix PrintNightmare.
+Best Client-Side Bug: Gunnar Alendal's discovery of a buffer overflow on the Samsung Galaxy S20's secure chip.
+Most Under-Hyped Research: The Qualys Research Team for 21Nails, 21 vulnerabilities in Exim, the Internet's most popular mail server.
+
+2020
+Best Server-Side Bug: BraveStarr (Ronald Huizer, CVE-2020-10188) – A Fedora 31 netkit telnetd remote exploit
+Best Privilege Escalation Bug: checkm8 (axi0mX) – A permanent unpatchable USB bootrom exploit for a billion iOS devices.
+Epic Achievement: Guang Gong, "Remotely Rooting Modern Android Devices"
+Best Cryptographic Attack: Zerologon vulnerability (Tom Tervoort, CVE-2020-1472)
+Best Client-Side Bug: RCE on Samsung Phones via MMS (Mateusz Jurczyk, CVE-2020-8899 and -16747), a zero click remote execution attack.
+Most Under-Hyped Research: Vulnerabilities in System Management Mode (SMM) and Trusted Execution Technology (TXT) (Gabriel Negreira Barbosa, Rodrigo Rubira Branco, Joe Cihula, CVE-2019-0151, -0152)
+Most Innovative Research: TRRespass: When Memory Vendors Tell You Their Chips Are Rowhammer-free, They Are Not. (Pietro Frigo, Emanuele Vannacci, Hasan Hassan, Victor van der Veen, Onur Mutlu, Cristiano Giuffrida, Herbert Bos, Kaveh Razavi)
+Most Epic Fail: Microsoft (CVE-2020-0601); the implementation of Elliptic-curve signatures meant attackers could generate private pairs for public keys of any signer, allowing HTTPS and signed binary spoofing.
+Best Song: Powertrace - Rebekka Aigner, Daniel Gruss, Manuel Weber, Moritz Lipp, Patrick Radkohl, Andreas Kogler, Maria Eichlseder, ElTonno, tunefish, Yuki, Kater
+Lamest Vendor Response: Daniel J. Bernstein (CVE-2005-1513)
+
+2019
+Best Server-Side Bug: Orange Tsai and Meh Chang, for their SSL VPN research.
+Most Innovative Research: Vectorized Emulation Brandon Falk 
+Best Cryptographic Attack: \m/ Dr4g0nbl00d \m/  Mathy Vanhoef, Eyal Ronen
+Lamest Vendor Response: Bitfi
+Most Over-hyped Bug: Allegations of Supermicro hardware backdoors, Bloomberg
+Most Under-hyped Bug: Thrangrycat, Jatin Kataria, Red Balloon Security
+
+2018
+Most Innovative Research: Spectre/Meltdown Paul Kocher, Jann Horn, Anders Fogh, Daniel Genkin, Daniel Gruss, Werner Haas, Mike Hamburg, Moritz Lipp, Stefan Mangard, Thomas Prescher, Michael Schwarz, Yuval Yarom
+Best Privilege Escalation Bug: Spectre/Meltdown Paul Kocher, Jann Horn, Anders Fogh, Daniel Genkin, Daniel Gruss, Werner Haas, Mike Hamburg, Moritz Lipp, Stefan Mangard, Thomas Prescher, Michael Schwarz, Yuval Yarom
+Lifetime Achievement: Michał Zalewski
+Best Cryptographic Attack: ROBOT - Return Of Bleichenbacher’s Oracle Threat  Hanno Böck, Juraj Somorovsky, Craig Young
+Lamest Vendor Response: Bitfi - a late entry that had received thousands of nominations after multiple hackers cracked Bitfi's device following John McAfee's praising of the device for its security. Even though hackers cracked the device, by design the device does not contain private keys therefore breaking into the device would not result in a successful extraction of funds. Bitfi was eager to pay bounties and followed all the rules as stipulated. An announcement was made on September 8, 2018 with details on which bounty conditions were met and which payments would be made.
+
+2017
+Epic Achievement: Finally getting TIOCSTI ioctl attack fixed Federico Bento
+Most Innovative Research: ASLR on the line  Ben Gras, Kaveh Razavi, Erik Bosman, Herbert Bos, Cristiano Giuffrida
+Best Privilege Escalation Bug: DRAMMER   Victor van der Veen, Yanick Fratantonio, Martina Lindorfer, Daniel Gruss, Clementine Maurice, Giovanni Vigna, Herbert Bos, Kaveh Razavi, Cristiano Giuffrida
+Best Cryptographic Attack: The first collision for full SHA-1 Marc Stevens, Elie Bursztein, Pierre Karpman, Ange Albertini, Yarik Markov
+Lamest Vendor Response: Lennart Poettering - for mishandling security vulnerabilities most spectacularly for multiple critical Systemd bugs
+Best Song: Hello (From the Other Side) - Manuel Weber, Michael Schwarz, Daniel Gruss, Moritz Lipp, Rebekka Aigner
+
+2016
+Most Innovative Research: Dedup Est Machina: Memory Deduplication as an Advanced Exploitation Vector  Erik Bosman, Kaveh Razavi, Herbert Bos, Cristiano Giuffrida
+Lifetime Achievement: Peiter Zatko aka Mudge
+Best Cryptographic Attack: DROWN attack Nimrod Aviram et al.
+Best Song: Cyberlier - Katie Moussouris
+
+2015
+Winner list from.
+Best Server-Side Bug: SAP LZC LZH Compression Multiple Vulnerabilities, Martin Gallo
+Best Client–Side Bug: Will it BLEND?, Mateusz j00ru Jurczyk
+Best Privilege Escalation Bug: UEFI SMM Privilege Escalation, Corey Kallenberg
+Most Innovative Research: Imperfect Forward Secrecy: How Diffie-Hellman Fails in Practice  Adrian David et al.
+Lamest Vendor Response: Blue Coat Systems (for blocking Raphaël Rigo‘s research presentation at SyScan 2015)
+Most Overhyped Bug: Shellshock (software_bug), Stephane Chazelas
+Most Epic FAIL: OPM - U.S. Office of Personnel Management (for losing data on 19.7 Million applicants for US government security clearances.)
+Most Epic 0wnage: China
+Best Song: "Clean Slate" by YTCracker
+Lifetime Achievement: Thomas Dullien aka Halvar Flake
+
+2014
+Best Server-Side Bug: Heartbleed (Neel Mehta and Codenomicon, CVE-2014-0160)
+Best Client-Side Bug: Google Chrome Arbitrary Memory Read Write Vulnerability, (Geohot, CVE-2014-1705)
+Best Privilege Escalation Bug: AFD.sys Dangling Pointer Vulnerability (Sebastian Apelt, CVE-2014-1767); the winner of Pwn2Own 2014.
+Most Innovative Research: RSA Key Extraction via Low-Bandwidth Acoustic Cryptanalysis (Daniel Genkin, Adi Shamir, Eran Tromer); extract RSA decryption keys from laptops within an hour by using the sounds generated by the computer.
+Lamest Vendor Response: AVG Remote Administration Insecure “By Design” (AVG)
+Best Song: "The SSL Smiley Song" (0xabad1dea)
+Most Epic Fail: Goto Fail (Apple Inc.)
+Epic 0wnage: Mt. Gox, (Mark Karpelès)
+
+2013
+Best Server-Side Bug: Ruby on Rails YAML (CVE-2013-0156) Ben Murphy
+Best Client-Side Bug: Adobe Reader Buffer Overflow and Sandbox Escape (CVE-2013-0641) Unknown
+Best Privilege Escalation Bug: iOS incomplete codesign bypass and kernel vulnerabilities (CVE-2013-0977, CVE-2013-0978, CVE-2013-0981)  David Wang aka planetbeing and the evad3rs team
+Most Innovative Research: Identifying and Exploiting Windows Kernel Race Conditions via Memory Access Patterns Mateusz "j00ru" Jurczyk, Gynvael Coldwind
+Best Song: "All the Things" Dual Core
+Most Epic Fail: Nmap: The Internet Considered Harmful - DARPA Inference Checking Kludge Scanning Hakin9
+Epic 0wnage: Joint award to Edward Snowden and the NSA
+Lifetime Achievement: Barnaby Jack
+
+2012
+The award for best server-side bug went to Sergey Golubchik for his MySQL authentication bypass flaw. Two awards for best client-side bug were given to Sergey Glazunov and Pinkie Pie for their Google Chrome flaws presented as part of Google's Pwnium contest.The award for best privilege escalation bug went to Mateusz Jurczyk ("j00ru") for a vulnerability in the Windows kernel that affected all 32-bit versions of Windows. The award for most innovative research went to Travis Goodspeed for a way to send network packets that would inject additional packets.The award for best song went to "Control" by nerdcore rapper Dual Core. A new category of award, the "Tweetie Pwnie Award" for having more Twitter followers than the judges, went to MuscleNerd of the iPhone Dev Team as a representative of the iOS jailbreaking community.The "most epic fail" award was presented by Metasploit creator HD Moore to F5 Networks for their static root SSH key issue, and the award was accepted by an employee of F5, unusual because the winner of this category usually does not accept the award at the ceremony. Other nominees included LinkedIn (for its data breach exposing password hashes) and the antivirus industry (for failing to detect threats such as Stuxnet, Duqu, and Flame).The award for "epic 0wnage" went to Flame for its MD5 collision attack, recognizing it as a sophisticated and serious piece of malware that weakened trust in the Windows Update system.
+
+2011
+Best Server-Side Bug: ASP.NET Framework Padding Oracle (CVE-2010-3332) Juliano Rizzo, Thai Duong
+Best Client-Side Bug: FreeType vulnerability in iOS (CVE-2011-0226) Comex
+Best Privilege Escalation Bug: Windows kernel win32k user-mode callback vulnerabilities (MS11-034) Tarjei Mandt
+Most Innovative Research: Securing the Kernel via Static Binary Rewriting and Program Shepherding Piotr Bania
+Lifetime Achievement: pipacs/PaX Team
+Lamest Vendor Response: RSA SecurID token compromise RSA
+Best Song: "[The Light It Up Contest]" Geohot
+Most Epic Fail: Sony
+Pwnie for Epic 0wnage: Stuxnet
+
+2010
+Best Server-Side Bug: Apache Struts2 framework remote code execution (CVE-2010-1870) Meder Kydyraliev
+Best Client-Side Bug: Java Trusted Method Chaining (CVE-2010-0840) Sami Koivu
+Best Privilege Escalation Bug: Windows NT #GP Trap Handler (CVE-2010-0232) Tavis Ormandy
+Most Innovative Research: Flash Pointer Inference and JIT Spraying Dionysus Blazakis
+Lamest Vendor Response: LANrev remote code execution Absolute Software
+Best Song: "Pwned - 1337 edition" Dr. Raid and Heavy Pennies
+Most Epic Fail: Microsoft Internet Explorer 8 XSS filter
+
+2009
+Best Server-Side Bug:  Linux SCTP FWD Chunk Memory Corruption (CVE-2009-0065) David 'DK2' Kim
+Best Privilege Escalation Bug:  Linux udev Netlink Message Privilege Escalation (CVE-2009-1185) Sebastian Krahmer
+Best Client-Side Bug:  msvidctl.dll MPEG2TuneRequest Stack buffer overflow (CVE-2008-0015) Ryan Smith and Alex Wheeler
+Mass 0wnage:  Red Hat Networks Backdoored OpenSSH Packages (CVE-2008-3844) Anonymous
+Best Research:   From 0 to 0day on Symbian Credit: Bernhard Mueller
+Lamest Vendor Response: Linux "Continually assuming that all kernel memory corruption bugs are only Denial-of-Service" Linux Project
+Most Overhyped Bug: MS08-067 Server Service NetpwPathCanonicalize() Stack Overflow (CVE-2008-4250) Anonymous
+Best Song:  Nice Report Doctor Raid
+Most Epic Fail: Twitter Gets Hacked and the "Cloud Crisis" Twitter
+Lifetime Achievement Award: Solar Designer
+
+2008
+Best Server-Side Bug: Windows IGMP Kernel Vulnerability (CVE-2007-0069) Alex Wheeler and Ryan Smith
+Best Client-Side Bug: Multiple URL protocol handling flaws Nate McFeters, Rob Carter, and Billy Rios
+Mass 0wnage: An unbelievable number of WordPress vulnerabilities
+Most Innovative Research: Lest We Remember: Cold Boot Attacks on Encryption Keys (honorable mention was awarded to Rolf Rolles for work on virtualization obfuscators) J. Alex Halderman, Seth Schoen, Nadia Heninger, William Clarkson, William Paul, Joseph Calandrino, Ariel Feldman, Rick Astley, Jacob Appelbaum, Edward Felten
+Lamest Vendor Response: McAfee's "Hacker Safe" certification program
+Most Overhyped Bug: Dan Kaminsky's DNS Cache Poisoning Vulnerability (CVE-2008-1447)
+Best Song: Packin' the K! by Kaspersky Labs
+Most Epic Fail: Debian's flawed OpenSSL Implementation (CVE-2008-0166)
+Lifetime Achievement Award: Tim Newsham
+
+2007
+Best Server-Side Bug: Solaris in.telnetd remote root exploit (CVE-2007-0882), Kingcope
+Best Client-Side Bug: Unhandled exception filter chaining vulnerability (CVE-2006-3648) skape & skywing
+Mass 0wnage: WMF SetAbortProc remote code execution (CVE-2005-4560) anonymous
+Most Innovative Research: Temporal Return Addresses, skape
+Lamest Vendor Response: OpenBSD IPv6 mbuf kernel buffer overflow (CVE-2007-1365)
+Most Overhyped Bug: MacBook Wi-Fi Vulnerabilities, David Maynor
+Best Song: Symantec Revolution, Symantec
+
+References
+External links
+The Pwnie Awards

@@ -1,0 +1,59 @@
+The Raunkiær system is a system for categorizing plants using life-form categories, devised by Danish botanist Christen C. Raunkiær and later extended by various authors.
+
+History
+It was first proposed in a talk to the Danish Botanical Society in 1904 as can be inferred from the printed discussion of that talk, but not the talk itself, nor its title. The journal, Botanisk Tidsskrift, published brief comments on the talk by M.P. Porsild, with replies by Raunkiær. A fuller account appeared in French the following year. Raunkiær elaborated further on the system and published this in Danish in 1907.The original note and the 1907 paper were much later translated to English and published with Raunkiær's collected works.
+
+Modernization
+Raunkiær's life-form scheme has subsequently been revised and modified by various authors, but the main structure has survived. Raunkiær's life-form system may be useful in researching the transformations of biotas and the genesis of some groups of phytophagous animals.
+
+Subdivisions
+The subdivisions of the Raunkiær system are premised on the location of the bud of a plant during seasons with adverse conditions, i. e. cold seasons and dry seasons:
+
+Phanerophytes
+These plants, normally woody perennials, grow stems into the air, with their resting buds being more than 50 cm above the soil surface, e.g. trees and shrubs, and also epiphytes, which Raunkiær later separated as a distinct class (see below).
+Raunkiær further divided the phanerophytes according to height as
+
+Megaphanerophytes,
+Mesophanerophytes,
+Microphanerophytes, and
+Nanophanerophytes.Further division was premised on the characters of duration of foliage, i. e. evergreen or deciduous, and presence of covering bracts on buds, for 12 classes. 3 further divisions were made to increase the total of classes to 15:
+Phanerophytic stem succulents,
+Phanerophytic epiphytes, and
+Phanerophytic herbs.
+
+Epiphytes
+Epiphytes were originally included in the phanerophytes (see above) but then separated because they do not grow in soil, so the soil location is irrelevant in classifying them. They form characteristic communities of moist climatic conditions.
+
+Chamaephytes
+These plants have buds on persistent shoots near the soil surface; woody plants with perennating buds borne close to the soil surface, a maximum of 25 cm above the soil surface, e.g., bilberry and periwinkle.
+
+Hemicryptophytes
+These plants have buds at or near the soil surface, e.g. common daisy and dandelion, and are divided into:
+
+Protohemicryptophytes: only cauline foliage;
+Partial rosette plants: both cauline and basal rosette foliage; and
+Rosette plants: only basal rosette foliage.
+
+Cryptophytes
+These plants have subterranean or under water resting buds, and are divided into:
+
+Geophytes: rest in dry soil as a rhizome, bulb, corm, et cetera, e.g. crocus and tulip, and are subdivided into:
+Rhizome geophytes,
+Stem-tuber geophytes,
+Root-tuber geophytes,
+Bulb geophytes, and
+Root geophytes.
+Helophytes: rest in marshy or wet soil, e.g. reedmace and marsh-marigold; and
+Hydrophytes: rest submerged under water, e.g. water lily and frogbit.
+
+Therophytes
+These are annual plants that complete their lives rapidly in favorable conditions and survive the unfavorable cold or dry season in the form of seeds. Many desert plants are by necessity therophytes.
+
+Aerophytes
+Aerophytes were a later addition to the system. These are plants that obtain moisture and nutrients from the air and rain. They usually grow on other plants yet are not parasitic on them. These are perennial plants  and are like epiphytes but whose root system have been reduced. They occur in communities that inhabit exclusively hyper-arid areas with abundant fog. Like epiphytes and hemicryptophytes, their buds are near the soil surface. Some Tillandsia species are classified as aerophytes.
+
+Popular References
+Farley Mowat, in his book, Never Cry Wolf, described using a Raunkiær's Circle in making a “cover degree” study to determine the ratios of various plants one to the other. He spoke of it as "a device designed in hell."
+
+
+== References ==

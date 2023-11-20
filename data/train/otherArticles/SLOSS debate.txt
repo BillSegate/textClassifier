@@ -1,0 +1,37 @@
+The SLOSS debate was a debate in ecology and conservation biology during the 1970's and 1980's as to whether a single large or several small (SLOSS) reserves were a superior means of conserving biodiversity in a fragmented habitat. Since its inception, multiple alternate theories have been proposed. There have been applications of the concept outside of the original context of habitat conservation.
+
+History
+In 1975, Jared Diamond suggested some "rules" for the design of protected areas, based on Robert MacArthur and E. O. Wilson's book The Theory of Island Biogeography.  One of his suggestions was that a single large reserve was preferable to several smaller reserves whose total areas were equal to the larger.
+Since species richness increases with habitat area, as established by the species area curve, a larger block of habitat would support more species than any of the smaller blocks.  This idea was popularised by many other ecologists, and has been incorporated into most standard textbooks in conservation biology, and was used in real-world conservation planning.  This idea was challenged by Wilson's former student Daniel Simberloff, who pointed out that this idea relied on the assumption that smaller reserves had a nested species composition — it assumed that each larger reserve had all the species presented in any smaller reserve.  If the smaller reserves had unshared species, then it was possible that two smaller reserves could have more species than a single large reserve.Simberloff and Abele expanded their argument in subsequent paper in the journal The American Naturalist stating neither ecological theory nor empirical data exist to support the hypothesis that subdividing a nature reserve would increase extinction rates, basically negating Diamond as well as MacArthur and Wilson.  Bruce A. Wilcox and Dennis D. Murphy responded with a key paper "Conservation strategy - effects of fragmentation on extinction" pointing out flaws in their argument while providing a comprehensive definition of habitat fragmentation.  Wilcox and Murphy also argued that habitat fragmentation is probably the major threat to the loss of global biological diversity.
+This helped set the stage for fragmentation research as an important area of conservation biology.  The SLOSS debate ensued as to the extent to which smaller reserves shared species with one another, leading to the development of nested subset theory by Bruce D. Patterson and Wirt Atmar in the 1980s and to the establishment of the Biological Dynamics of Forest Fragments Project (BDFFP) near Manaus, Brazil in 1979 by Thomas Lovejoy and Richard Bierregaard.
+
+Alternate theories
+In 1986, Michael E. Soulé and Daniel Simberloff proposed that the SLOSS debate was irrelevant and that a three step process was the ideal way to determine reserve size. The proposed steps were to firstly decide the species whose presence was most important to the reserves biodiversity, secondly, decide how many of the species were required for the species to survive, and lastly, based on other metapopulation densities, estimate how much space is needed to sustain the required number of individuals.
+
+Other considerations
+Dispersal and genetics, the consideration of which alternate theories often center on as the original debated tended to ignore them.
+Habitat connectivity or Landscape connectivity.
+
+Applications
+Conservation park planning
+The purpose of the debate itself is in regards to conservation planning and is currently used in most spatial allotment planning.
+
+Urban areas
+The SLOSS debate has come in to play in urban planning concerning green spaces with considerations extending beyond biodiversity to human well being. The concept can also be applied to other aspects of city planning.
+
+Current status of debate
+The general consensus of the SLOSS debate is that neither option fits every situation and that they must all be evaluated on a case to case basis in accordance to the conservation goal to decide the best course of action.In the field of metapopulation ecology, modelling works suggest that the SLOSS debate should be refined and cannot be solved without explicit spatial consideration of dispersal and environmental dynamics. In particular, a large number of small patches may be optimal to long-term species persistence only if the species range increases with the number of patches.In conservation biology and conservation genetics, metapopulations (i.e. connected groups of sub-populations) are considered to be more stable if they are larger, or have more populations. This is because although individual small populations may go extinct due to stochastic processes of environment or biology (such as genetic drift and inbreeding), they can be recolonized by rare migrants from other surviving populations. Thus several small populations could be better than a single large: if a catastrophe wipes out a single big population, the species goes extinct, but if some regional populations in a large metapopulation get wiped out, recolonization from the rest of the metapopulation can ensure their eventual survival. In cases of habitat loss, when the loss is dispersed, few large reserves are best, when the loss is in clusters, multiple small reserves are best.
+
+See also
+Island biogeography
+Patch dynamics
+
+References
+Further reading
+Atmar, W. and B.D. Patterson. 1993. "The measure of order and disorder in the distribution of species in fragmented habitat." Oecologia 96:373-382.
+Diamond, J.M. 1975. "The Island Dilemma: Lessons of Modern Biogeographic Studies for the Design of Natural Reserves".  Biological Conservation Vol. 7, no. 2, pp. 129–146
+MacArthur, R. H. and Wilson, E. O. 1967. The Theory of Island Biogeography Princeton University Press.
+Patterson, B.D. and W. Atmar. 1986. "Nested subsets and the structure of insular mammalian faunas and archipelagos." In: Heaney L.R. and Patterson B.D. (eds), Island biogeography of mammals. Academic Press, London, pp 65–82.
+Simberloff, D. S. and L. G. Abele. 1976. Island biogeography theory and conservation practice.  Science 191: 285-286
+Simberloff, D. S. and L. G. Abele. 1982. Refuge design and island biogeographic theory - effects of fragmentation. American Naturalist 120:41-56
+Wilcox, B. A., and D. D. Murphy.  1985. Conservation strategy - effects of fragmentation on extinction.  American Naturalist 125:879-887

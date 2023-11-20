@@ -1,0 +1,52 @@
+Topographical disorientation is the inability to orient oneself in one's surroundings, sometimes as a result of focal brain damage. This disability may result from the inability to make use of selective spatial information (e.g., environmental landmarks) or to orient by means of specific cognitive strategies such as the ability to form a mental representation of the environment, also known as a cognitive map. It may be part of a syndrome known as visuospatial dysgnosia.
+
+Classification
+Topographical disorientation is the inability to find one's way through an environment due to cognitive impairment.
+Topographical disorientation has been studied for decades using case studies of patients who have selectively lost their ability to find their way within large-scale, locomotor environments. Several dozen case reports of topographical disorientation have been presented over the last century. Studying these people will aid in the understanding of the complex, multi-component behavior of navigation. Topographical disorientation may be a lifelong deficit, it may result from a stroke, or it can occur as part of a progressive illness. Frequently comorbid with this disorder are hemispatial neglect, achromatopsia, prosopagnosia, and Alzheimer's disease.
+
+Developmental
+Developmental topographical disorientation (DTD) refers to the inability to orient from childhood despite the absence of any apparent brain damage, neurological condition or general cognitive defects. Individuals affected by DTD are unable to generate a mental representation of the environment (i.e. a cognitive map) and therefore unable to make use of it while orienting (a process that usually people go through while orienting). Not to be confused with healthy individuals who have a poor sense of direction, individuals affected by DTD get lost in very familiar surroundings, such as their house or neighborhood, daily.3% of the sample had DTD in a study of 1,698 Italians aged between 18 and 35 years (to exclude people with cognitive decline). It was more prevalent in males than females, although, in general, males use more complex navigational strategies. The sense of direction was closely related to gender, navigational strategies adopted, and town knowledge.
+
+Egocentric
+Egocentric disorientation is marked by the inability to represent the location of objects with respect to self. This is usually due to lesions in the posterior parietal lobe. Patients experience no difficulty recognizing or naming people or objects. They are unable to accurately reach for visual objects and are unable to state the relationship between objects and oneself (above, below, left, right, nearer or farther).
+In a case study presented by Stark and colleagues, a patient named GW described the inability to accurately reach for visual targets despite normal vision. She had no difficulty recognizing and naming objects presented to her, but was unable to point to locations of targets defined by visual, proprioceptive, or audio input. The loss of an egocentric spatial representation system left her unable to position herself in space. Most indicative of her disability is that she often turned in the wrong direction when greeted by someone who she was not facing.
+
+Heading
+Heading disorientation is marked by the inability to represent direction of orientation with respect to external environment. This is usually due to lesions in the posterior cingulate. Patients show no signs of visuo-spatial agnosia. Patients are able to determine their location using landmarks, but are unable to determine which direction to proceed from those landmarks in order to reach their destination. They are also impaired in map drawing tasks and are unable to describe routes between familiar locations.
+Takahashi and colleagues presented three cases of focal brain damage to the right retrosplenial region through a cerebral hemorrhage that caused a loss in sense of direction. All three patients showed normal visual perception, were able to identify familiar buildings and landscapes, were able to determine and remember locations of objects that could be seen from where they were standing, but were unable to recall direction from selective familiar landmarks. Symptoms of topographical disorientation disappeared in all three patients after two months.
+
+Anterograde amnesiac
+Anterograde disorientation is marked by the inability to orient in new environments. This is usually due to lesions in the parahippocampus. Patients were able to navigate through and draw maps of environments learned at least 6 months before the damage. Teng and colleagues tested a profoundly amnesic patient who has complete bilateral damage to the hippocampus and extensive damage to adjacent structures in the medial temporal lobe. The patient was able to recall the spatial layout of his hometown where he moved away from 50 years ago, before he became amnesic. The patient has no knowledge of his current neighborhood, where he moved to after his injury. The finding indicates that the medial temporal lobe is not needed for the retrieval of spatial maps learned prior to injury. The hippocampus and other surrounding structures are essential for the formation of long-term declarative memories, including spatial memories.
+
+Topographagnosia
+Landmark agnosia, also known as topographical agnosia and topographagnosia, is marked by the inability to recognize salient environmental stimuli such as landmarks. This is usually due to lesions in the lingual gyrus. Patients are able to draw detailed maps and visualize places familiar to them before the illness. They can distinguish between classes of buildings, such as house or skyscraper, but are unable to identify specific buildings, such as their own house or famous landmarks. Patients can navigate using strictly spatial information and specific details of landmarks such as house number or door color.
+C. A. Pallis described a patient, A.H., who presented with color, face and landmark agnosia as a result of a cerebral embolism.
+
+Diagnosis
+Topographical disorientation is usually diagnosed with the use of a comprehensive battery of neuropsychological tests combined with a variety of orientation tasks performed by the participants in both virtual and real surroundings. Performance on certain tests can identify underlying neurological disorders and verify the disorientation as a selective impairment. Brain imaging is used to determine regions of brain damage, if any. Navigational skills can be assessed by tests pertaining to memory, visual-perceptual abilities, object recognition, mental rotation, imagery abilities, and spatial abilities. More direct testing of navigation involves asking the patient to describe a route, read a map, draw a map, follow a route, or point out landmarks.
+
+Treatment
+Treatment for topographical disorientation has been achieved through a case by case basis. Prognosis is largely dependent on the organic cause. Neuropsychological assessment followed by an assessment of unaffected cognitive abilities can be employed in therapy. Treatment for recovering navigational skills requires strengthening unaffected navigational strategies to bypass any defective ones.
+
+See also
+Grid cells
+Head direction cells
+Navigation
+Path integration
+Place cells
+
+References
+Further reading
+Aguirre GK, Zarahn E, D'Esposito M (February 1998). "Neural components of topographical representation". Proc. Natl. Acad. Sci. U.S.A. 95 (3): 839–46. Bibcode:1998PNAS...95..839A. doi:10.1073/pnas.95.3.839. PMC 33806. PMID 9448249.
+Antonakos CL (2004). "Compensatory wayfinding behavior in topographic disorientation from brain injury". Journal of Environmental Psychology. 24 (4): 495–502. doi:10.1016/j.jenvp.2004.09.002.
+Brunsdon R, Nickels L, Coltheart M (January 2007). "Topographical disorientation: towards an integrated framework for assessment". Neuropsychol Rehabil. 17 (1): 34–52. doi:10.1080/09602010500505021. PMID 17178604. S2CID 29766248.
+Paul Dudchenko (2010). Why people get lost: the psychology and neuroscience of spatial cognition. Oxford [Oxfordshire]: Oxford University Press. ISBN 978-0-19-921086-2. OCLC 791205815.
+Kirshner HS, Lavin PJ (November 2006). "Posterior cortical atrophy: a brief review". Curr Neurol Neurosci Rep. 6 (6): 477–80. doi:10.1007/s11910-006-0049-0. PMID 17074282. S2CID 44713747.
+Lim TS, Iaria G, Moon SY (December 2010). "Topographical disorientation in mild cognitive impairment: a voxel-based morphometry study". J Clin Neurol. 6 (4): 204–11. doi:10.3988/jcn.2010.6.4.204. PMC 3024525. PMID 21264201.
+Jonsson, Erik (2002). Inner navigation: why we get lost and how we find our way. New York: Scribner. ISBN 978-0-7432-2206-8. OCLC 48579029.
+Takahashi N (August 2011). "[Agnosia for streets and defective root finding]". Brain Nerve (in Japanese). 63 (8): 830–8. PMID 21817174.
+Wilson BA, Berry E, Gracey F, et al. (August 2005). "Egocentric disorientation following bilateral parietal lobe damage". Cortex. 41 (4): 547–54. doi:10.1016/s0010-9452(08)70194-1. PMID 16042030. S2CID 4478452.
+
+External links
+What It's Like to Feel Lost in Your Own Home
+Where to Learn More about DTD and Take some Online Tests

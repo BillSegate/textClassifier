@@ -1,0 +1,64 @@
+Domain fronting is a technique for Internet censorship circumvention that uses different domain names in different communication layers of an HTTPS connection to discreetly connect to a different target domain than is discernable to third parties monitoring the requests and connections.
+Due to quirks in security certificates, the redirect systems of the content delivery networks (CDNs) used as 'domain fronts', and the protection provided by HTTPS, censors are typically unable to differentiate circumvention ("domain-fronted") traffic from overt non-fronted traffic for any given domain name. As such they are forced to either allow all traffic to the domain front—including circumvention traffic—or block the domain front entirely, which may result in expensive collateral damage and has been likened to "blocking the rest of the Internet".Domain fronting does not conform to HTTP standards that require the SNI extension and HTTP Host header to contain the same domain. Many large cloud service providers, including Amazon, Microsoft, and Google, actively prohibit domain fronting, which has limited it as a censorship bypass technique. Pressure from censors in Russia and China is thought to have contributed to these prohibitions, but domain fronting can also be used maliciously.
+A newer variant of domain fronting, domain hiding, passes an encrypted request for one resource (say, a website), concealed behind an unencrypted (plaintext) request for another resource whose DNS records are stored in the same cloud. It has much the same effect. Refraction networking is an application of the broader principle.
+
+Technical details
+Basis
+The basis for domain fronting is using different domain names at different layers of communication with the servers (that supports multiple target domains; i.e. Subject Alternative Names) of a large hosting provider or a content delivery network (CDN). CDNs are used due to idiosyncrasies in how they route traffic and requests, which is what allows fronting to work.
+
+Obfuscating requests
+In an HTTPS request, the destination domain name appears in three relevant places: the DNS query, the TLS Server Name Indication (SNI) extension, and the HTTPS Host header. Ordinarily the same domain name is listed in all three places.: 1 In a domain-fronted HTTPS request, one domain appears on the “outside” of an HTTPS request in plain text—in the DNS request and SNI extension—which will be what the client wants to pretend they are targeting in the connection establishment and is the one that is visible to censors, while a covert domain appears on the “inside”—in the HTTPS Host header, invisible to the censor under HTTPS encryption—which would be the actual target of the connection.: 2 
+
+Due to encryption of the HTTPS hosts header by the HTTPS protocol, circumvention traffic is indistinguishable from 'legitimate' (non-fronted) traffic. Implementations of domain fronting supplement HTTPS with using large content delivery networks (such as various large CDNs) as their front domains, which are relied on by large parts of the web for functionality. To block the circumvention traffic, a censor will have to outright block the front domain. Blocking popular content delivery networks is economically, politically, and diplomatically infeasible for most censors.When Telegram was blocked in April 2018 following a court ruling in Russia through ISP-blocking of the CDNs Telegram used as a front to evade blocks on its own IP addresses, 15.8 million IP addresses associated with Google and Amazon's CDN were blocked collaterally. This resulted in a large scale network outages for major banks, retail chains, and numerous websites; the manner of blocking was criticised for incompetence.
+
+Leveraging request forwarding
+Domain fronting works with CDNs as—when served with two different domains in one request—they are (or historically speaking—they were; see §Disabling) configured to automatically fulfill a request to view/access the domain specified in the Hosts header even after finding the SNI extension to have a different domain. This behaviour was and is not universal across hosting providers; there are services that validate if the same domain is used in the different layers of an HTTP request. A variation of the usual domain fronting technique, known as domainless fronting may work in this case, which leaves the SNI field blank.If the request to access the Hosts header domain succeeds, to the censor or third parties monitoring connections, it appears that the CDN has internally forwarded the request to an uninteresting page within its network; this is the final connection they typically monitor. In circumvention scenarios, the domain in the Hosts header will be a proxy. The Hosts header domain, being a proxy, would be blocked by the censor if accessed directly; fronting hides its address from the censor and allows parties to evade blocks and access it. No traffic ever reaches the front domain specified in the DNS request and SNI extension; the CDN's frontend server is the only third-party in this interaction that can decrypt the Hosts header and know the true destination of the covert request. It is possible to emulate this same behaviour with host services that don't automatically forward requests, through a "reflector" web application.: 2 As a general rule, web services only forward requests to their own customers' domains, not arbitrary ones. It is necessary then for the blocked domains, that use domain fronting, to also be hosted by the same large provider as the innocuous sites they will be using as a front in their HTTPS requests (for DNS and STI).: 2
+
+Domain hiding
+Common secure internet connections (using TLS) have an unencrypted initial message, where the requesting client contacts the server. Server and client then negotiate an encrypted connection, and the actual content sent between them is encrypted. This conceals the content of the communication, but not the metadata: who is connecting to whom and when and how much they are communicating. A variant of domain fronting, domain hiding, passes an encrypted request for one resource (say, a website), concealed behind an unencrypted (plaintext) request for another resource. If both resources have their DNS records hosted in the same cloud, internet servers reading the plaintext address will forward the request to the correct recipient, the cloud. The cloud server will then negotiate an encrypted connection, ignore the unencrypted address, and deliver the message to the (different) address sent over the encrypted channel. A third party spying on the connection can only read the plaintext, and is thus misled as to what resource the requester is connecting to.
+
+Usage
+Internet censorship circumvention
+Lantern
+Lantern (software) was affected.
+
+Signal
+Signal, a secure messaging service, deployed domain fronting in builds of their apps from 2016 to 2018 to bypass blocks of direct connections to their servers from Egypt, Oman, Qatar and the United Arab Emirates.
+
+Tor Browser
+The Tor anonymity network uses an implementation of domain fronting called 'meek' in its official web browser to bypass blocks to the Tor network.
+
+Telegram
+Telegram used Amazon Web Services as a domain front to resist attempts to block the service in Russia.
+
+Telex
+Telex was affected.
+
+Tor
+Tor was affected, including pluggable transports obsf4, ScrambleSuite, meek, and meek_lite.
+
+GreatFire
+GreatFire, a non-profit that assists users in circumventing the Great Firewall, used domain fronting at one point.
+
+Cyberattacks
+Domain fronting has been used by private, and state-sponsored individuals and groups to cover their tracks and discreetly launch cyberattacks and disseminate malware.
+
+Cozy Bear
+The Russian hacker group Cozy Bear, classed as APT29, has been observed to have used domain fronting to discreetly gain unauthorised access to systems by pretending to be legitimate traffic from CDNs. Their technique used the meek plugin—developed by the Tor Project for its anonymity network—to avoid detection.
+
+Disabling
+The endurance of domain fronting as a method for censorship circumvention has been attributed to the expensive collateral damage of blocking. To block domain fronting, one must block all traffic to and from the fronts (CDNs and large providers), which by design are often relied on by countless other web services. The Signal Foundation drew the analogy that to block one domain fronted site you "have to block the rest of the Internet as well."Russia faced such a problem when they attempted to block Telegram (a messaging app using domain fronting), by blocking all Google and Amazon servers. This blocked many unrelated web services (such as banking websites and mobile apps) that used content from the Google and Amazon clouds. 
+It did not succeed in blocking Telegram. The ban and blocks began on April 13, 2018.On April 14, 2018, Google silently blocked domain fronting in their cloud, and on April 27, Amazon announced they were blocking it. Cloudflare, another major cloud, also blocked it. Akamai was also affected. Initially Microsoft  (whose cloud is needed for Microsoft cloud services and live updates, among other things) did not follow, but in March 2021, Microsoft announced an intention of banning domain fronting in the Microsoft Azure cloud.Cloudflare had disabled domain fronting in 2015.In April 2018, Google and Amazon both disabled domain fronting from their content delivery services by removing the idiosyncrasies in redirect schemes that allowed fronting to happen. Google broke domain fronting by removing the ability to use 'google.com' as a front domain by changing how their CDN was structured. When requested to comment they said domain fronting had "never been a supported feature" and that the changes made were long-planned upgrades. Amazon claimed fronting was "already handled as a breach of AWS Terms of Service" and implemented a set of changes that prohibited the obfuscation that allowed sites to masquerade as and use CloudFront domains of other websites as fronts.
+
+Reactions
+Various publications speculated that the effort by both Google and Amazon was in part due to pressure from the Russian government and its communications authority Roskomnadzor blocking millions of Google and Amazon domains, in April 2018 as well, due to Telegram using them as fronts.Digital rights advocates have commented that the move undermines people's ability to access and transmit information freely and securely in repressive states.According to Signal's founder, Moxie Marlinspike, Google management came to question whether they wanted to act as a front for sites and services entire nation states wanted to block as domain fronting gained popular attention with apps like Signal implementing it. He called using fronting in a circumvention tool "now largely non-viable" in the countries it was needed. It is, however, still used by some services, such as Tor and Lantern.
+
+See also
+Collateral freedom
+Telex (anti-censorship system)
+Encrypted SNI
+
+Notes
+References
+External links
+David Fifield, Chang Lan, Rod Hynes, Percy Wegmann, Vern Paxson, 2015: Blocking-resistant communication through domain fronting

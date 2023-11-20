@@ -1,2 +1,0 @@
-ISO 31-3 is the part of international standard ISO 31 that defines names and symbols for quantities and units related to mechanics.  It is superseded by ISO 80000-4.
-Its definitions include (note boldfaced symbols mean quantity is a vector):

@@ -1,8 +1,0 @@
-In infrared astronomy, the K band is an atmospheric transmission window centered on 2.2 μm (in the near-infrared 136 THz range). HgCdTe-based detectors are typically preferred for observing in this band.
-
-See also
-Absolute magnitude
-UBV photometric system
-
-
-== References ==

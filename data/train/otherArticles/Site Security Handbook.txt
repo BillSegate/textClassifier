@@ -1,0 +1,9 @@
+The Site Security Handbook, RFC 2196, is a guide on setting computer security policies and procedures for sites that have systems on the Internet (however, the information provided should also be useful to sites not yet connected to the Internet).  The guide lists issues and factors that a site must consider when setting their own policies.  It makes a number of recommendations and provides discussions of relevant areas.
+This guide is only a framework for setting security policies and procedures.  In order to have an effective set of policies and procedures, a site will have to make many decisions, gain agreement, and then communicate and implement these policies.
+The guide is a product of the IETF SSH working group, and was published in 1997, obsoleting the earlier RFC 1244 from 1991.
+
+See also
+RFC 2504 - Users' Security Handbook
+
+References
+RFC 2196 - Site Security Handbook

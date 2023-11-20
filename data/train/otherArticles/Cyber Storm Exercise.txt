@@ -1,0 +1,33 @@
+The Cyber Storm exercise is a biennial simulated exercise overseen by the United States Department of Homeland Security that took place February 6 through February 10, 2006 with the purpose of testing the nation's defenses against digital espionage. The simulation was targeted primarily at American security organizations but officials from the United Kingdom, Canada, Australia and New Zealand participated as well.
+
+Cyber Storm I
+The first Cyber Storm exercise took place February 6 through February 10, 2006 with the purpose of testing the nation's defenses against digital espionage.
+
+Simulation
+The exercise simulated a large scale attack on critical digital infrastructure such as communications, transportation, and energy production. The simulation took place a series of incidents which included:
+
+Washington, D.C. Metro trains mysteriously shutting down.
+Bloggers revealing locations of railcars containing hazardous materials.
+The airport control towers of Philadelphia and Chicago mysteriously shutting down.
+A mysterious liquid appearing on a London subway.
+Significant numbers of people on "no fly" lists suddenly appearing at airports all over the nation.
+Planes flying too close to the White House.
+Water utilities in Los Angeles getting compromised.
+
+Internal difficulties
+During the exercise the computers running the simulation came under attack by the players themselves. Heavily censored files released to the Associated Press reveal that at some time during the exercise the organizers sent every one involved an e-mail marked "IMPORTANT!" telling the participants in the simulation not to attack the game's control computers.
+
+Performance of participants
+The Cyber Storm exercise highlighted the gaps and shortcomings of the nation's cyber defenses. The cyber storm exercise report found that institutions under attack had a hard time getting the bigger picture and instead focused on single incidents treating them as "individual and discrete". In light of the test the Department of Homeland Security raised concern that the relatively modest resources assigned to cyber-defense would be "overwhelmed in a real attack".
+
+Cyber Storm II
+Cyber Storm II was an international cyber security exercise sponsored by the United States Department of Homeland Security in 2008. The week-long exercise was centered in Washington, DC and concluded on March 15.
+
+Cyber Storm III
+Cyber Storm III was an international cyber security exercise sponsored by the United States Department of Homeland Security in 2010. The week-long exercise was centered in Washington, DC and concluded on October 1.
+
+See also
+Cyber ShockWave
+
+
+== References ==

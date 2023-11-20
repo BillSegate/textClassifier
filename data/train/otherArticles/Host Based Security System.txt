@@ -1,0 +1,80 @@
+Host Based Security System (HBSS) is the official name given to the United States Department of Defense (DOD) commercial off-the-shelf (COTS) suite of software applications used within the DOD to monitor, detect, and defend the DOD computer networks and systems.  The Enterprise-wide Information Assurance and computer Network Defense Solutions Steering Group (ESSG) sponsored the acquisition of the HBSS System for use within the DOD Enterprise Network.  HBSS is deployed on both the Non-Classified Internet Protocol Routed Network (NIPRNet) and Secret Internet Protocol Routed Network (SIPRNet) networks, with priority given to installing it on the NIPRNet.  HBSS is based on McAfee, Inc's ePolicy Orchestrator (ePO) and other McAfee point product security applications such as Host Intrusion Prevention System (HIPS).
+
+History
+Seeing the need to supply a comprehensive, department-wide security suite of tools for DOD System Administrators, the ESSG started to gather requirements for the formation of a host-based security system in the summer of 2005.  In March 2006, BAE Systems and McAfee were awarded a contract to supply an automated host-based security system to the department.  After the award, 22 pilot sites were identified to receive the first deployments of HBSS.  During the pilot roll out, DOD System Administrators around the world were identified and trained on using the HBSS software in preparation for software deployment across DOD.
+On October 9, 2007, the Joint Task Force for Global Network Operations (JTF-GNO) released Communications Tasking Order (CTO) 07-12 (Deployment of Host Based Security System (HBSS)) mandating the deployment of HBSS on all Combatant Command, Service and Agency (CC/S/A) networks within DOD with the completion date by the 3rd quarter of 2008. The release of this CTO brought HBSS to the attention of all major department heads and CC/S/A's, providing the ESSG with the necessary authority to enforce its deployment.  Agencies not willing to comply with the CTO now risked being disconnected from the DOD Global Information Grid (GIG) for any lack of compliance.
+Lessons learned from the pilot deployments provided valuable insight to the HBSS program, eventually leading to the Defense Information Systems Agency (DISA) supplying both pre-loaded HBSS hardware as well as providing an HBSS software image that could be loaded on compliant hardware platforms.  This proved to be invaluable to easing the deployment task on the newly trained HBSS System Administrators and provided a consistent department-wide software baseline.  DISA further provided step-by-step documentation for completing an HBSS baseline creation from a freshly installed operating system.  The lessons learned from the NIPRNet deployments simplified the process of deploying HBSS on the SIPRNet.
+
+Significant HBSS dates
+Summer 2005: ESSG gathered information on establishing an HBSS automated system
+March 2006: BAE Systems and McAfee awarded contract for HBSS establishment and deployment
+March 27, 2007: The ESSG approved the HBSS for full-scale deployment throughout the DoD enterprise
+October 9, 2007: The JTF-GNO releases CTO 07-12
+November, 2009: The Air Force awarded Northrop Grumman with the deployment of HBSS on the SIPRNet
+
+HBSS components
+Throughout its lifetime, HBSS has undergone several major baseline updates as well as minor maintenance releases.  The first major release of HBSS was known as Baseline 1.0 and contained the McAfee ePolicy orchestrator engine, HIPS, software compliance profiler (SCP), rogue system detection (RSD), asset baseline manager (ABM), and assets software.  As new releases were introduced, these software products have evolved, had new products added, and in some cases, been completely replaced for different products.
+
+HBSS Baseline 4.5 MR2 components
+As of January, 2011, HBSS is  currently at Baseline 4.5, Maintenance Release 2.0 (MR2).  MR2 contains  the following software:
+
+Microsoft products
+Optional products/components
+SIPRNet-only products/components
+How HBSS works
+The heart of HBSS is the McAfee ePolicy orchestrator (ePO) management engine.  The McAfee tools are responsible for:
+
+Providing a consistent front-end to the point products
+Consolidating point product data for analysis
+Presenting point product reports
+Managing the point product updates and communications
+Ensure application patch compliance
+
+McAfee point products
+McAfee considers a  point product to be the individual software applications controlled by  the ePO server.  The HBSS point products consist of the following:
+
+Host  intrusion prevention system (HIPS)
+Policy auditor (PA)
+Assets  baseline module (ABM)
+Rogue system detection (RSD)
+Device  control module (DCM)
+Asset publishing service (APS)
+
+Host intrusion prevention system
+The host intrusion prevention  system (HIPS) consists of a host-based firewall and application-level blocking consolidated in a single product.  The HIPS component is one of the most  significant components of the HBSS, as it provides for the capability  to block known intrusion signatures and restrict unauthorized services  and applications running on the host machines.
+
+Policy auditor
+Policy auditor (PA) was  introduced in HBSS Baseline 2.0.  Policy auditor is responsible for ensuring compliance with mandates such as: Payment Card Industry Data Security Standard (PCI DSS), Sarbanes–Oxley Act of 2002 (SOX), Gramm–Leach–Bliley Act of 1999 (GLBA), Health Insurance Portability and Accountability Act of 1996 (HIPAA), Federal Information Security Management Act of 2002 (FISMA), as well as the best practice frameworks ISO 27001:2005 and Control Objectives for Information and related technology (COBIT).  PA maps IT controls against predefined policy content, McAfee Policy Auditor helps report consistently and accurately against key industry mandates and internal policies across your infrastructure or on specific targeted systems. Policy Auditor is an agent-based IT audit solution that leverages the Security Content Automation Protocol (SCAP) to automate the processes required for internal and external IT audits.
+
+Assets baseline module
+The assets  baseline module, released in Baseline 1.0 as a government off-the-shelf (GOTS) product, is used to  address system baseline configurations and changes in order to respond  to information operations condition (INFOCON) (INFOCON) changes necessary during times of  heightened security threats to the system.  During the initial  deployment stages of HBSS, the assets module was juvenile and lacked  much of the products intended capabilities.  However, the application  has fully evolved into a robust and feature packed version capable of  handling the original software's design goals.  ABM was originally known  as Assets 1.0.  It was upgraded to Assets 2.0 in HBSS Baseline 2.0.   Later it was called Assets 3000 in HBSS Baseline 3.0.
+
+Rogue system detection
+The rogue system  detector (RSD) component of HBSS is used to provide real-time detection  of new hosts attaching to the network.  RSD monitors network segments  and reports all hosts seen on the network to the ePO Server.  The ePO  Server then determines whether the system is connected to the ePO server, has a McAfee agent installed, has been identified as an  exception, or is considered rogue.  The ePO server can then take the  appropriate action(s) concerning the rogue host, as specified in the RSD  policy.  HBSS Baseline 1.0 introduced RSD 1.0.  RSD was updated to 2.0  in HBSS Baseline 2.0.
+
+Device control module/data loss prevention
+The DCM component of HBSS was  introduced in HBSS Baseline 2.0 specifically to address the use of USB  devices on DOD networks.  JTF-GNO CTO 09-xxx, removable flash media device implementation within and between Department of Defense (DOD) networks was released in March, 2009 and  allowed the use of USB removable media, provided it meets all of the conditions stated within the CTO.  One of these conditions requires the use of HBSS with the DCM module installed and configured to manage the USB devices attached to the system. The DCM was renamed to the data loss prevention (DLP) in HBSS Baseline 3.0 MR3.
+
+Assets publishing service
+The assets publishing service (APS) of HBSS was introduced in HBSS Baseline 4.0 to allow for enclaves to report on asset information to a third-party DoD entity in a standards-compliant format.  It adds contextual information to HBSS assets and allows for improved reporting features on systems relying on HBSS data.
+
+Obtaining HBSS
+According to JTF-GNO CTO 07-12, all DOD agencies are required to deploy HBSS to their networks.  DISA has made HBSS software available for download on their PKI protected patch server.  Users attempting to download the software are required to have a Common Access Card (CAC) and be on a .mil network.  DISA provides software and updates free of charge to DOD entities.
+Additionally, HBSS administrators require the satisfactory completion of HBSS training and are commonly appointed by the unit or section commander in writing.
+
+Learning HBSS
+In order to receive and administer an HBSS system, system administrators must satisfactorily complete online or in class HBSS training as well as be identified as an HBSS administrator.  Online training takes 30 hours to complete while in class training requires four days, excluding travel.  An advanced HBSS class is also available to HBSS administrators wishing to acquire a more in-depth knowledge of the system.  HBSS online and in class training is managed by DISA.
+
+HBSS support
+The DISA Risk Management Executive Office (RE) formerly field security office (FSO) provides free technical support for all HBSS Administrators through their help desk.  DISA has three tiers of support, from Tier I to Tier III.  Tier I and Tier II support is provided by DISA FSO, while Tier III support is provided by McAfee.  DISA FSO Support is available using one of the following methods:
+
+The future of HBSS
+At its current pace, HBSS has been updated several times from the original Baseline 1.0 to the current Baseline 3.0, MR3 version.  Within Baseline 3.0, maintenance releases have been introduced every two to four months, bringing better stability and security with each release.  HBSS follows McAfee ePO version updates closely and it is expected to continue this trend as ePO is continuously developed.
+
+References
+External links
+End-Point Security Spreads Throughout Military
+Northrop Grumman Wins Air Force SIPRNET Contract 
+Information Assurance Support Environment
+McAfee, Inc.
+BAE Systems

@@ -1,0 +1,23 @@
+MinID is an electronic login system used to secure a range of internet services in the Norwegian public sector. The communication done with MinID is encrypted to secure information from unauthorized usage. Everyone registered in the Norwegian Population Register over the age of 13 years can create a public ID with MinID.
+As of April 2010, more than 2 million people living in Norway had created user accounts with MinID. To create a public ID, PIN-codes from the Norwegian Tax Administration are needed.
+
+Purpose
+The purpose of MinID is to communicate an electronic identity, so that users are authorized to use electronic services, in a secure way. MinID has a user database where social security numbers and PIN-codes are saved. MinID can be used to access more than 50 online services from various Norwegian public agencies, including the Norwegian Labour and Welfare Administration, the Directorate of Taxes and the State Educational Loan.
+
+Controller
+The Agency for Public Management and e-Government (Difi) is the controller of the personal data handled by MinID. The Agency for Public Management and eGovernment (Norwegian: Direktoratet for forvaltning og informasjons- og kommunikasjonsteknologi) or Difi is a government agency subordinate to the Norwegian Ministry of Government Administration and Reform. It is responsible for help the public sector achieve quality, efficiency, user friendliness, openness and participation, as well as helping the public sector be organized and led in a good way with good intersectoral cooperation.
+
+User profile
+Users of MinID have a user profile that contains their mobile phone number and/or e-mail address. This data is used to administrate MinID use. The e-mail address is needed in order to send the user a temporary password if he or she forgets the password. The phone number is needed in order to send an SMS-code at log in or a temporary password if the user forgets the password.
+
+Transparency, correction and deletion
+According to the law users can claim full access of the handling of their own personal data. Users also have the right to information about how this data are handled and saved, and how they can correct or delete inaccurate data. Users can at any time choose to delete themselves as a user of MinID. The user profile will then be deleted from the MinID user database.
+
+Extradition to others
+MinID passes on the user's social security number and chosen language to the public services he or she logs on to, so that the user can go to other public services without a new login.
+
+See also
+EGovernment in Europe
+
+
+== References ==

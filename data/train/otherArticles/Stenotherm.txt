@@ -1,0 +1,12 @@
+A stenotherm (from Greek στενός stenos "narrow" and θέρμη therme "heat") is a species or living organism only capable of living or surviving within a narrow temperature range. This type of temperature specialization is often seen in organisms that live in environments where the temperature is relatively stable, such as in deep sea environments or in polar regions.
+The opposite of a stenotherm is a eurytherm, an organism that can function at a wide range of different body temperatures. Eurythermic organisms are typically found in environments where the temperature varies more significantly, such as in temperate or tropical regions.
+The size, shape, and composition of an organism's body can affect its temperature regulation, with larger organisms tending to have a more stable internal temperature than smaller organisms.
+
+Examples
+Chionoecetes opilio is a stenothermic organism, and temperature affects its biology throughout its life history, from embryo to adult. Small changes in temperature (< 2 °C) can increase the duration of egg incubation for C. opilio by a full year.
+
+See also
+Ecotope
+
+
+== References ==

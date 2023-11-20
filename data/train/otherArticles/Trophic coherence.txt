@@ -1,0 +1,1331 @@
+Trophic coherence is a property of directed graphs (or directed networks). It is based on the concept of trophic levels used mainly in ecology, but which can be defined for directed networks in general and provides a measure of hierarchical structure among nodes. Trophic coherence is the tendency of nodes to fall into well-defined trophic levels. It has been related to several structural and dynamical properties of directed networks, including the prevalence of cycles and network motifs, ecological stability, intervality, and spreading processes like epidemics and neuronal avalanches.
+
+Definition
+Consider a directed network defined by  
+the 
+  
+    
+      
+        N
+        ×
+        N
+      
+    
+    {\displaystyle N\times N}
+   adjacency matrix 
+  
+    
+      
+        A
+        =
+        (
+        
+          a
+          
+            i
+            j
+          
+        
+        )
+      
+    
+    {\displaystyle A=(a_{ij})}
+  .
+Each node 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   can be assigned a trophic level 
+  
+    
+      
+        
+          s
+          
+            i
+          
+        
+      
+    
+    {\displaystyle s_{i}}
+   according to
+
+  
+    
+      
+        
+          s
+          
+            i
+          
+        
+        =
+        1
+        +
+        
+          
+            1
+            
+              k
+              
+                i
+              
+              
+                in
+              
+            
+          
+        
+        
+          ∑
+          
+            j
+          
+        
+        
+          a
+          
+            i
+            j
+          
+        
+        
+          s
+          
+            j
+          
+        
+        ,
+      
+    
+    {\displaystyle s_{i}=1+{\frac {1}{k_{i}^{\text{in}}}}\sum _{j}a_{ij}s_{j},}
+  where 
+  
+    
+      
+        
+          k
+          
+            i
+          
+          
+            in
+          
+        
+        =
+        
+          ∑
+          
+            j
+          
+        
+        
+          a
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle k_{i}^{\text{in}}=\sum _{j}a_{ij}}
+   is 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  's in-degree, and nodes 
+with 
+  
+    
+      
+        
+          k
+          
+            i
+          
+          
+            in
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle k_{i}^{\text{in}}=0}
+   (basal nodes) have 
+  
+    
+      
+        
+          s
+          
+            i
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle s_{i}=1}
+   by convention.
+Each edge has a trophic difference associated, defined as 
+  
+    
+      
+        
+          x
+          
+            i
+            j
+          
+        
+        =
+        
+          s
+          
+            i
+          
+        
+        −
+        
+          s
+          
+            j
+          
+        
+      
+    
+    {\displaystyle x_{ij}=s_{i}-s_{j}}
+  .
+The trophic coherence of the network is a measure of how tightly peaked the distribution of trophic distances,
+
+  
+    
+      
+        p
+        (
+        x
+        )
+      
+    
+    {\displaystyle p(x)}
+  , 
+is around its mean value, which is always 
+  
+    
+      
+        ⟨
+        x
+        ⟩
+        =
+        1
+      
+    
+    {\displaystyle \langle x\rangle =1}
+  .
+This can be captured by an incoherence parameter 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+  , 
+equal to the standard deviation of 
+  
+    
+      
+        p
+        (
+        x
+        )
+      
+    
+    {\displaystyle p(x)}
+  :
+
+  
+    
+      
+        q
+        =
+        
+          
+            
+              
+                1
+                L
+              
+            
+            
+              ∑
+              
+                i
+                j
+              
+            
+            
+              a
+              
+                i
+                j
+              
+            
+            
+              x
+              
+                i
+                j
+              
+              
+                2
+              
+            
+            −
+            1
+          
+        
+        ,
+      
+    
+    {\displaystyle q={\sqrt {{\frac {1}{L}}\sum _{ij}a_{ij}x_{ij}^{2}-1}},}
+  where 
+  
+    
+      
+        L
+        =
+        
+          ∑
+          
+            i
+            j
+          
+        
+        
+          a
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle L=\sum _{ij}a_{ij}}
+   is the number of edges in the network.The figure shows two networks which differ in their trophic coherence. The position of the nodes on the vertical axis corresponds to their trophic level. In the network on the left, nodes fall into distinct (integer) trophic levels, so the network is maximally coherent 
+  
+    
+      
+        (
+        q
+        =
+        0
+        )
+      
+    
+    {\displaystyle (q=0)}
+  . 
+In the one on the right, many of the nodes have fractional trophic levels, and the network is more incoherent 
+  
+    
+      
+        (
+        q
+        =
+        0.49
+        )
+      
+    
+    {\displaystyle (q=0.49)}
+  .
+
+Trophic coherence in nature
+The degree to which empirical networks are trophically coherent (or incoherent) can be investigated by comparison with a null model.
+This is provided by the basal ensemble, which comprises networks in which all non-basal nodes have the same proportion of basal nodes
+for in-neighbours. Expected values in this ensemble converge to those of the widely used configuration ensemble in the limit 
+  
+    
+      
+        N
+        →
+        ∞
+      
+    
+    {\displaystyle N\rightarrow \infty }
+  , 
+  
+    
+      
+        L
+        
+          /
+        
+        N
+        →
+        ∞
+      
+    
+    {\displaystyle L/N\rightarrow \infty }
+   (with 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   and 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   the numbers of nodes and edges), 
+and can be shown numerically to be a good approximation for finite random networks. The basal ensemble expectation for the incoherence parameter is
+
+  
+    
+      
+        
+          
+            
+              q
+              ~
+            
+          
+        
+        =
+        
+          
+            
+              
+                L
+                
+                  L
+                  
+                    B
+                  
+                
+              
+            
+            −
+            1
+          
+        
+        ,
+      
+    
+    {\displaystyle {\tilde {q}}={\sqrt {{\frac {L}{L_{B}}}-1}},}
+  where 
+  
+    
+      
+        
+          L
+          
+            B
+          
+        
+      
+    
+    {\displaystyle L_{B}}
+   is the number of edges connected to basal nodes.
+The ratio 
+  
+    
+      
+        q
+        
+          /
+        
+        
+          
+            
+              q
+              ~
+            
+          
+        
+      
+    
+    {\displaystyle q/{\tilde {q}}}
+   measured in empirical networks reveals whether they are more or less coherent than the random expectation.
+For instance, Johnson and Jones find in a set of networks that food webs are significantly coherent 
+  
+    
+      
+        (
+        q
+        
+          /
+        
+        
+          
+            
+              q
+              ~
+            
+          
+        
+        =
+        0.44
+        ±
+        0.17
+        )
+      
+    
+    {\displaystyle (q/{\tilde {q}}=0.44\pm 0.17)}
+  , metabolic networks are significantly incoherent 
+  
+    
+      
+        (
+        q
+        
+          /
+        
+        
+          
+            
+              q
+              ~
+            
+          
+        
+        =
+        1.81
+        ±
+        0.11
+        )
+      
+    
+    {\displaystyle (q/{\tilde {q}}=1.81\pm 0.11)}
+  , and gene regulatory networks are close to the random expectation 
+  
+    
+      
+        (
+        q
+        
+          /
+        
+        
+          
+            
+              q
+              ~
+            
+          
+        
+        =
+        0.99
+        ±
+        0.05
+        )
+      
+    
+    {\displaystyle (q/{\tilde {q}}=0.99\pm 0.05)}
+  .
+
+Trophic levels and node function
+There is as yet little understanding of the mechanisms which might lead to particular kinds of networks becoming significantly 
+coherent or incoherent. However, in systems which present correlations between trophic level and other features of nodes,
+processes which tended to favour the creation of edges between nodes with particular characteristics could induce coherence or incoherence.
+In the case of food webs, predators tend to specialise on consuming prey with certain biological properties (such as size, speed or behaviour) 
+which correlate with their diet, and hence with trophic level. 
+This has been suggested as the reason for food-web coherence. However, food-web models based on a niche axis do not reproduce realistic trophic coherence, which may mean either that this explanation is insufficient, or that several niche dimensions need to be considered.
+The relation between trophic level and node function can be seen in networks other than food webs. The figure shows a word adjacency network derived from the book Green Eggs and Ham, by Dr. Seuss. The height of nodes represents their trophic levels (according here to the edge direction which is the opposite of that suggested by the arrows, which indicate the order in which words are concatenated in sentences). The syntactic function of words is also shown with node colour. There is a clear relationship between syntactic function and trophic level: the mean trophic level of common nouns (blue) is 
+  
+    
+      
+        
+          s
+          
+            n
+            o
+            u
+            n
+          
+        
+        =
+        1.4
+        ±
+        1.2
+      
+    
+    {\displaystyle s_{noun}=1.4\pm 1.2}
+  , whereas that of verbs (red) is 
+  
+    
+      
+        
+          s
+          
+            v
+            e
+            r
+            b
+          
+        
+        =
+        7.0
+        ±
+        2.7
+      
+    
+    {\displaystyle s_{verb}=7.0\pm 2.7}
+  .
+This example illustrates how trophic coherence or incoherence might emerge from node function, and also that the trophic structure of networks provides a means of identifying node function in certain systems.
+
+Generating trophically coherent networks
+There are various ways of generating directed networks with specified trophic coherence, all based on gradually introducing new edges 
+to the system in such a way that the probability of each new candidate edge being accepted depends on the expected trophic difference it would have.
+The preferential preying model is an evolving network model similar to the Barábasi-Albert model of preferential attachment, but inspired on an ecosystem that grows through immigration of new species.
+One begins with 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   basal nodes and proceeds to introduce new nodes up to a total of 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  .
+Each new node 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   is assigned a first in-neighbour 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+   (a prey species in the food-web context) and a new 
+edge is placed from 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+   to 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  . The new node is given a temporary trophic level 
+  
+    
+      
+        
+          s
+          
+            i
+          
+          
+            t
+          
+        
+        =
+        
+          s
+          
+            j
+          
+        
+        +
+        1
+      
+    
+    {\displaystyle s_{i}^{t}=s_{j}+1}
+  .
+Then a further 
+  
+    
+      
+        
+          κ
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \kappa _{i}}
+   new in-neighbours 
+  
+    
+      
+        l
+      
+    
+    {\displaystyle l}
+   are chosen for 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   from among those in the network according to their trophic levels. Specifically, for a new candidate in-neighbour 
+  
+    
+      
+        l
+      
+    
+    {\displaystyle l}
+  , the probability of being chosen is a function of 
+
+  
+    
+      
+        
+          x
+          
+            i
+            l
+          
+          
+            t
+          
+        
+        =
+        
+          s
+          
+            i
+          
+          
+            t
+          
+        
+        −
+        
+          s
+          
+            l
+          
+        
+      
+    
+    {\displaystyle x_{il}^{t}=s_{i}^{t}-s_{l}}
+  . Johnson et al use
+
+  
+    
+      
+        
+          P
+          
+            i
+            l
+          
+        
+        ∝
+        exp
+        ⁡
+        
+          (
+          
+            −
+            
+              
+                
+                  
+                    |
+                  
+                  
+                    x
+                    
+                      i
+                      l
+                    
+                    
+                      t
+                    
+                  
+                  −
+                  1
+                  
+                    |
+                  
+                
+                T
+              
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle P_{il}\propto \exp \left(-{\frac {|x_{il}^{t}-1|}{T}}\right),}
+  where 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   is a parameter which tunes the trophic coherence: for 
+  
+    
+      
+        T
+        =
+        0
+      
+    
+    {\displaystyle T=0}
+   maximally coherent networks are generated, and
+
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+   increases monotonically with 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   for 
+  
+    
+      
+        T
+        >
+        0
+      
+    
+    {\displaystyle T>0}
+  .
+The choice of 
+  
+    
+      
+        
+          κ
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \kappa _{i}}
+   is arbitrary. One possibility is to 
+set to 
+  
+    
+      
+        
+          κ
+          
+            i
+          
+        
+        =
+        
+          z
+          
+            i
+          
+        
+        
+          n
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \kappa _{i}=z_{i}n_{i}}
+  ,
+where 
+  
+    
+      
+        
+          n
+          
+            i
+          
+        
+      
+    
+    {\displaystyle n_{i}}
+   is the number of nodes already in the network when 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   arrives, and 
+  
+    
+      
+        
+          z
+          
+            i
+          
+        
+      
+    
+    {\displaystyle z_{i}}
+   is a random variable drawn from a Beta distribution
+with parameters 
+  
+    
+      
+        α
+        =
+        1
+      
+    
+    {\displaystyle \alpha =1}
+   and
+
+  
+    
+      
+        β
+        =
+        
+          
+            
+              
+                N
+                
+                  2
+                
+              
+              −
+              
+                B
+                
+                  2
+                
+              
+            
+            
+              2
+              
+                L
+                
+                  d
+                
+              
+            
+          
+        
+        −
+        1
+      
+    
+    {\displaystyle \beta ={\frac {N^{2}-B^{2}}{2L_{d}}}-1}
+  (
+  
+    
+      
+        
+          L
+          
+            d
+          
+        
+      
+    
+    {\displaystyle L_{d}}
+   being the desired number of edges).
+This way, the generalised cascade model is recovered in the limit 
+  
+    
+      
+        T
+        →
+        ∞
+      
+    
+    {\displaystyle T\rightarrow \infty }
+  , and the degree distributions are as in the niche model and generalised niche model.
+This algorithm, as described above, generates networks with no cycles (except for self-cycles, if the new node 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   is itself considered among its candidate in-neighbours 
+  
+    
+      
+        l
+      
+    
+    {\displaystyle l}
+  ). In order for cycles of all lengths to be a possible, one can consider new candidate edges in which the new node 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   is the in-neighbour as well as those in which it would be the out-neighbour. The probability of acceptance of these edges, 
+
+  
+    
+      
+        
+          P
+          
+            l
+            i
+          
+        
+      
+    
+    {\displaystyle P_{li}}
+  , then depends on 
+  
+    
+      
+        
+          x
+          
+            l
+            i
+          
+          
+            t
+          
+        
+        =
+        
+          s
+          
+            l
+          
+        
+        −
+        
+          s
+          
+            i
+          
+          
+            t
+          
+        
+      
+    
+    {\displaystyle x_{li}^{t}=s_{l}-s_{i}^{t}}
+  .
+The generalised preferential preying model is similar to the one described above, but has certain advantages. In particular, it is more analytically tractable, and one can generate networks with a precise number of edges 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  .
+The network begins with 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   basal nodes, and then a further 
+  
+    
+      
+        N
+        −
+        B
+      
+    
+    {\displaystyle N-B}
+   new nodes are added in the following way. When each enters the system, it is assigned a single in-neighbour randomly from among those already there. Every node then has an integer temporary trophic level 
+
+  
+    
+      
+        
+          s
+          
+            i
+          
+          
+            t
+          
+        
+      
+    
+    {\displaystyle s_{i}^{t}}
+  . The remaining 
+  
+    
+      
+        L
+        −
+        N
+        +
+        B
+      
+    
+    {\displaystyle L-N+B}
+   edges are introduced as follows. Each pair of nodes 
+  
+    
+      
+        (
+        i
+        ,
+        j
+        )
+      
+    
+    {\displaystyle (i,j)}
+   has two temporary trophic distances associated, 
+  
+    
+      
+        
+          x
+          
+            i
+            j
+          
+          
+            t
+          
+        
+        =
+        
+          s
+          
+            i
+          
+          
+            t
+          
+        
+        −
+        
+          s
+          
+            j
+          
+          
+            t
+          
+        
+      
+    
+    {\displaystyle x_{ij}^{t}=s_{i}^{t}-s_{j}^{t}}
+   and 
+  
+    
+      
+        
+          x
+          
+            j
+            i
+          
+          
+            t
+          
+        
+        =
+        
+          s
+          
+            j
+          
+          
+            t
+          
+        
+        −
+        
+          s
+          
+            i
+          
+          
+            t
+          
+        
+      
+    
+    {\displaystyle x_{ji}^{t}=s_{j}^{t}-s_{i}^{t}}
+  . Each of these candidate edges is accepted with a probability that depends on this temporary distance. Klaise and Johnson use
+
+  
+    
+      
+        
+          P
+          
+            i
+            j
+          
+        
+        ∝
+        exp
+        ⁡
+        
+          (
+          
+            −
+            
+              
+                
+                  (
+                  
+                    x
+                    
+                      i
+                      j
+                    
+                    
+                      t
+                    
+                  
+                  −
+                  1
+                  
+                    )
+                    
+                      2
+                    
+                  
+                
+                
+                  2
+                  
+                    T
+                    
+                      2
+                    
+                  
+                
+              
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle P_{ij}\propto \exp \left(-{\frac {(x_{ij}^{t}-1)^{2}}{2T^{2}}}\right),}
+  because they find the distribution of trophic distances in several kinds of networks to be approximately normal, and this choice leads to a range of the parameter 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   in which 
+  
+    
+      
+        q
+        ≃
+        T
+      
+    
+    {\displaystyle q\simeq T}
+  . Once all the edges have been introduced, one must recalculate the trophic levels of all nodes, since these will differ from the temporary ones originally assigned unless 
+  
+    
+      
+        T
+        ≃
+        0
+      
+    
+    {\displaystyle T\simeq 0}
+  .
+As with the preferential preying model, the average incoherence parameter 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+   of the resulting networks is a monotonically increasing function of 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   for 
+  
+    
+      
+        T
+        ≥
+        0
+      
+    
+    {\displaystyle T\geq 0}
+  . The figure above shows two networks with different trophic coherence generated with this algorithm.
+
+References
+External links
+Why don't large ecosystems just collapse?
+Looplessness
+Trophic Coherence Could Help Solve the Mystery of Coexistence within Complex Ecosystems
+Trophic coherence explains why networks have few feedback loops and high stability
+Samuel Johnson's website
+Nick Jones's website

@@ -1,0 +1,38 @@
+A vagal maneuver is an action used to stimulate the parasympathetic nervous system by activating the vagus nerve. The vagus nerve is the longest nerve of the autonomic nervous system and helps regulate many critical aspects of human physiology, including heart rate, blood pressure, sweating, and digestion through the release of acetylcholine. Common maneuvers that activate the vagus nerve include the Valsalva maneuver and carotid sinus massage, which can serve diagnostic or therapeutic functions.
+
+Clinical indications
+There are both diagnostic and therapeutic indications for the use of vagal maneuvers in clinical practice.
+Diagnostic:
+
+Vagal maneuvers (most commonly the Valsalva maneuver) can be used to distinguish between ventricular tachycardia and supraventricular tachycardia by slowing the rate of conduction at the SA or AV nodes.
+Vagal maneuvers (most commonly carotid sinus massage) are used to diagnose carotid sinus hypersensitivity.Therapeutic:
+
+Vagal maneuvers are the first-line treatment of hemodynamically stable supraventricular tachycardia, serving to slow down or terminate the arrhythmia. Vagal maneuvers have a reported success rate of conversion to sinus rhythm for SVT around 20-40%, possibly being higher for AVNRT (an SVT associated with a bypass tract). Whereas the modified Valsalva maneuver is most effective in adults, cold water immersion may be preferred as a safe, effective, and non-invasive treatment for pediatric SVT.
+Vagal maneuvers may be used to terminate hemodynamically stable ventricular tachycardia.
+Various vagal maneuvers are suggested for the elimination of hiccups.
+Vagal maneuvers may decrease temporary pain through sinoaortic baroreceptor mediated anti-nociception (inhibition of pain conduction, release of substance P and noradrenaline).
+
+Types of vagal maneuvers
+While many physical maneuvers can elicit autonomic responses, only some are appropriate for use in a clinical setting. The vagal maneuvers most often used for diagnostic or therapeutic purposes are those that can be reliably performed at bedside or in an office setting with minimal risk. A list of vagal maneuvers are listed below:
+Valsalva maneuver
+Carotid sinus massage or Czermak–Hering test
+Cold water immersion (diving reflex)
+Eyeball pressure (also known as the oculocardiac reflex or Aschner-Dagnini reflex)Other less clinically useful physical maneuvers that elicit a similar autonomic response through stimulation of the vagus nerve include:
+
+Coughing
+Gagging and/or vomiting
+Breath holding
+Swallowing
+Deep respirations
+Rectal examination
+Intracardiac catheter placement
+Nasogastric tube placement
+Squatting
+Trendelenburg position
+
+Physiology
+Vagal maneuvers serve to stimulate the vagus nerve (cranial nerve X) through various mechanisms. The longest nerve in the body, the vagus nerve serves both motor and sensory functions through afferent and efferent signaling to and from the brain. The vagus nerve releases the neurotransmitter acetylcholine, and is a main mediator for the parasympathetic nervous system.
+The vagus nerve exits the skull through the jugular foramen, moving down through the carotid sheath and dividing many times to influence multiple organ systems and directly innervating the pharynx, larynx, esophagus, heart, lung, and GI tract. Due to this wide nerve distribution, many physiologic process may be influenced through its stimulation, including heart rate and blood pressure.Stimulation of the vagus nerve through vagal maneuvers is thought to effect afferent fibers that carry sensory information from its distribution throughout the body to the nucleus tractus solitarii (NTS) in the dorsal medullary complex, where it is then relayed to other areas of the brain. This stimulation can also be done more directly through a therapy called Vagus Nerve Stimulation (VNS), which utilizes an implanted neuro-stimulator device and is approved clinically for controlling seizures in epilepsy patients and drug resistant depression.Vagal maneuvers make use of the vagus nerve's afferent and efferent bifunctional role, triggering reflexes (like the baroreceptor reflex, chemoreceptor reflex) and utilizing those afferent nerve fibers to increase nerve activity. This results in increased parasympathetic signaling through its efferent distribution and is mediated by the chemical messenger acetylcholine.
+
+
+== References ==

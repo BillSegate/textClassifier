@@ -1,4 +1,0 @@
-Zion Tse is the Professor and Chair in Medical Robotics at the University of York. Before that, Tse was an Associate Professor in the School of Electrical and Computer Engineering and the Director of the Medical Robotics Lab at the University of Georgia, a visiting scientist at the National Institutes of Health and a research fellow at Harvard University. His PhD degree in Mechatronics in Medicine was received from Imperial College London in the UK. Most of his professional experience has been in medical Mechatronics, Robot-assisted surgery, Medical imaging, and Image-guided radiation therapy. Tse has developed a broad range of medical robots and clinical devices, most of which have been tested in clinical patient trials. Tse has published a number of internationally circulated journal papers, articles at international conferences, and robotic and mechatronic patents.
-
-
-== References ==

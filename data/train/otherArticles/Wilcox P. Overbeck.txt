@@ -1,6 +1,0 @@
-Wilcox Pratt Overbeck (1912–1980) was an electrical and nuclear engineer who built instrumentation for the first nuclear reactor, the Chicago Pile-1, and went on to work at other United States Department of Energy national laboratories.  He previously worked with Vannevar Bush at MIT on the Rapid Arithmetic Machine.A one-hot ring counter is sometimes referred to as an "Overbeck ring"; he patented such a device made with a multi-anode vacuum tube in 1943.  At the Met Lab in Chicago, he used such counters to scale the rate of detected ionization events, to estimate the rate of the nuclear reaction in the Chicago Pile-1, Enrico Fermi's famous first critical nuclear reactor.
-
-References
-
-Wilcox Pratt Overbeck c1912–1980 at Harvard
-Wilcox P. Overbeck at Atomic Heritage Foundation

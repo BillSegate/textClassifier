@@ -1,0 +1,16 @@
+Resource selection functions (RSFs) are a class of functions that are used in spatial ecology to assess which habitat characteristics are important to a specific population or species of animal, by assessing a probability of that animal using a certain resource proportional to the availability of that resource in the environment.
+
+Modeling
+Resource Selection Functions require two types of data: location information for the wildlife in question, and data on the resources available across the study area. Resources can include a broad range of environmental and geographical variables, including categorical variables such as land cover type, or continuous variables such as average rainfall over a given time period. A variety of methods are used for modeling RSFs, with logistic regression being commonly used.RSFs can be fit to data where animal presence is known, but absence is not, such as for species where several individuals within a study area are fitted with a GPS collar, but some individuals may be present without collars.
+When this is the case, buffers of various distances are generated around known presence points, with a number of available points generated within each buffer, which represent areas where the animal could have been, but it is unknown whether they actually were.  These models can be fit using binomial generalized linear models or binomial generalized linear mixed models, with the resources, or environmental and geographic data, as explanatory variables.
+
+Scale
+Resource selection functions can be modeled at a variety of spatial scales, depending on the species and the scientific question being studied. (insert one more sentence on scale)
+Most RSFs address one of the following scales, which were defined by Douglas Johnson in 1980 and are still used today:
+First order selection: The entire range of a species
+Second order selection: The home range of an individual or group of animals
+Third order selection: Resource or habitat usage within an individual's or group's home range
+Fourth order selection: The procurement of specific resources, such as food, at specific sites
+
+
+== References ==

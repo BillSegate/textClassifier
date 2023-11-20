@@ -1,0 +1,11 @@
+Physical access is a term in computer security that refers to the ability of people to physically gain access to a computer system. According to Gregory White, "Given physical access to an office, the knowledgeable attacker will quickly be able to find the information needed to gain access to the organization's computer systems and network."
+
+Attacks and countermeasures
+Attacks
+Physical access opens up a variety of avenues for hacking. Michael Meyers notes that "the best network software security measures can be rendered useless if you fail to physically protect your systems," since an intruder could simply walk off with a server and crack the password at his leisure. Physical access also allows hardware keyloggers to be installed. An intruder may be able to boot from a CD or other external media and then read unencrypted data on the hard drive. They may also exploit a lack of access control in the boot loader; for instance, pressing F8 while certain versions of Microsoft Windows are booting, specifying 'init=/bin/sh' as a boot parameter to Linux (usually done by editing the command line in GRUB), etc. One could also use a rogue device to access a poorly secured wireless network; if the signal were sufficiently strong, one might not even need to breach the perimeter.
+
+Countermeasures
+IT security standards in the United States typically call for physical access to be limited by locked server rooms, sign-in sheets, etc. Physical access systems and IT security systems have historically been administered by separate departments of organizations, but are increasingly being seen as having interdependent functions needing a single, converged security policy. An IT department could, for instance, check security log entries for suspicious logons occurring after business hours, and then use keycard swipe records from a building access control system to narrow down the list of suspects to those who were in the building at that time. Surveillance cameras might also be used to deter or detect unauthorized access.
+
+
+== References ==

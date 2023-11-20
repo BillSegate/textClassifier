@@ -1,0 +1,41 @@
+seccomp (short for secure computing mode) is a computer security facility in the Linux kernel. seccomp allows a process to make a one-way transition into a "secure" state where it cannot make any system calls except exit(), sigreturn(), read() and write() to already-open file descriptors.  Should it attempt any other system calls, the kernel will either just log the event or terminate the process with SIGKILL or SIGSYS. In this sense, it does not virtualize the system's resources but isolates the process from them entirely.
+seccomp mode is enabled via the prctl(2) system call using the PR_SET_SECCOMP argument, or (since Linux kernel 3.17) via the seccomp(2) system call. seccomp mode used to be enabled by writing to a file, /proc/self/seccomp, but this method was removed in favor of prctl(). In some kernel versions, seccomp disables the RDTSC x86 instruction, which returns the number of elapsed processor cycles since power-on, used for high-precision timing.seccomp-bpf is an extension to seccomp that allows filtering of system calls using a configurable policy implemented using Berkeley Packet Filter rules. It is used by OpenSSH and vsftpd as well as the Google Chrome/Chromium web browsers on ChromeOS and Linux. (In this regard seccomp-bpf achieves similar functionality, but with more flexibility and higher performance, to the older systrace—which seems to be no longer supported for Linux.)
+Some consider seccomp comparable to OpenBSD pledge(2) and FreeBSD capsicum(4).
+
+History
+seccomp was first devised by Andrea Arcangeli in January 2005 for use in public grid computing and was originally intended as a means of safely running untrusted compute-bound programs. It was merged into the Linux kernel mainline in kernel version 2.6.12, which was released on March 8, 2005.
+
+Software using seccomp or seccomp-bpf
+Android uses a seccomp-bpf filter in the zygote since Android 8.0 Oreo.
+systemd's sandboxing options are based on seccomp.
+QEMU, the Quick Emulator, the core component to the modern virtualization together with KVM uses seccomp on the parameter --sandbox
+Docker – software that allows applications to run inside of isolated containers. Docker can associate a seccomp profile with the container using the --security-opt parameter.
+Arcangeli's CPUShare was the only known user of seccomp for a while.  Writing in February 2009, Linus Torvalds expresses doubt whether seccomp is actually used by anyone. However, a Google engineer replied that Google is exploring using seccomp for sandboxing its Chrome web browser.
+Firejail is an open source Linux sandbox program that utilizes Linux namespaces, Seccomp, and other kernel-level security features to sandbox Linux and Wine applications.
+As of Chrome version 20, seccomp-bpf is used to sandbox Adobe Flash Player.
+As of Chrome version 23, seccomp-bpf is used to sandbox the renderers.
+Snap specify the shape of their application sandbox using "interfaces" which snapd translates to seccomp, AppArmor and other security constructs
+vsftpd uses seccomp-bpf sandboxing as of version 3.0.0.
+OpenSSH has supported seccomp-bpf since version 6.0.
+Mbox uses ptrace along with seccomp-bpf to create a secure sandbox with less overhead than ptrace alone.
+LXD, a Ubuntu "hypervisor" for containers
+Firefox and Firefox OS, which use seccomp-bpf
+Tor supports seccomp since 0.2.5.1-alpha
+Lepton, a JPEG compression tool developed by Dropbox uses seccomp
+Kafel is a configuration language, which converts readable policies into seccompb-bpf bytecode
+Subgraph OS uses seccomp-bpf
+Flatpak uses seccomp for process isolation
+Bubblewrap is a lightweight sandbox application developed from Flatpak
+minijail uses seccomp for process isolation
+SydBox uses seccomp-bpf to improve the runtime and security of the ptrace sandboxing used to sandbox package builds on Exherbo Linux distribution.
+File, a Unix program to determine filetypes, uses seccomp to restrict its runtime environment
+Zathura, a minimalistic document viewer, uses seccomp filter to implement different sandbox modes
+Tracker, a indexing and preview application for the GNOME desktop environment, uses seccomp to prevent automatic exploitation of parsing vulnerabilities in media files
+
+References
+External links
+Official website (Archived)
+Google's Chromium sandbox, LWN.net, August 2009, by Jake Edge
+seccomp-nurse, a sandboxing framework based on seccomp
+Documentation/prctl/seccomp_filter.txt, part of the Linux kernel documentation
+Security In-Depth for Linux Software: Preventing and Mitigating Security Bugs

@@ -1,0 +1,18 @@
+Melanocyte protein PMEL also known as premelanosome protein (PMEL), silver locus protein homolog (SILV) or Glycoprotein 100 (gp100), is a protein that in humans is encoded by the PMEL gene. Its gene product may be referred to as PMEL, silver, ME20, gp100 or Pmel17.
+
+Structure and function
+PMEL is a 100 kDa, 661 amino acids long type I transmembrane glycoprotein that is expressed primarily in melanosomes, which are the melanin-producing organelles in melanocytes of pigment cells of the skin and eye, and in most malignant melanomas. 
+This protein is involved in melanosome maturation, including melanogenesis, melanosome biogenesis, and melanin polymerization (Eisenberg) [1]. The transmembrane form of PMEL is modified in the secretory pathway by elaboration of N-linked oligosaccharides and addition and modification of O-linked oligosaccharides. It is then targeted to precursors of the pigment organelle, the melanosome, where it is proteolytically processed to several small fragments. Some of these fragments form non-pathological amyloid that assemble into sheets and form the striated pattern that underlies melanosomal ultrastructure. PMEL cleavage is mediated by several proteases including a proprotein convertase of the furin family, a "sheddase" that might include members of the a disintegrin and metalloproteinase (ADAM) family, and additional proteases in melanosomes or their precursors. After the amyloidogenic region is cleaved, the small remaining integral membrane fragment is digested by γ-secretase.
+The expression of the PMEL gene is regulated by the microphthalmia-associated transcription factor (MITF).
+
+Function in cancer and cancer treatment
+The gp100 protein is a melanoma antigen i.e. a tumor-associated antigen.
+Short fragments of it have been used to develop the gp100 cancer vaccine which is or contains gp100:209-217(210M).Hydrophilic recombinant gp100 protein (HR-gp100) has been topically applied on human intact skin in vitro, and used as a vaccine in a mouse model. It was demonstrated that HR-gp100 permeates into human skin, and is processed and presented by human dendritic cells. In the mouse model, an HR-gp100-based vaccine triggered antigen-specific T cell responses, as shown by proliferation assays, ELISA and intracellular staining for IFN-γ.
+The gp100 protein contains differentiation antigens.[2], and has been widely studied to be used as a target for melanoma immunotherapy. Different sequences of the GP100 peptide could be used for immunization against tumors. According to a case study, modifications of GP100, such as GP100-209 and GP100-208, have shown a greater number of antigen-specific CTL's (cytotoxic T lymphocytes), which can target and kill cancer cells (Eisenberg).[3]
+
+References
+Eisenberg, G; Machlenkin, A; Frankenburg, S; Mansura, A; Pitcovski, J; Yefenof, E; Peretz, T; Lotem, M.Sharett (2010). "Transcutaneous immunization with hydrophilic recombinant gp100 protein induces antigen-specific cellular immune response". Cell Immunol. 266 (1): 98–103. doi:10.1016/j.cellimm.2010.09.003. PMC 2976976. PMID 20947070.
+
+Further reading
+External links
+Overview of all the structural information available in the PDB for UniProt: P40967 (Melanocyte protein PMEL) at the PDBe-KB.

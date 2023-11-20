@@ -1,4 +1,0 @@
-CVN45502 is a selective hypocretin (orexin) receptor 1 antagonist. It significantly reduces food intake and body weight in a mouse model of obesity. Although HCRTR1 variants are significantly correlated with body weight in humans, it is not known if the drug has psychiatric side effects or could be combined with GLP-1 agonists.
-
-
-== References ==

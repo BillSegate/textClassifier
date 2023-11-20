@@ -1,0 +1,38 @@
+The Intercollegiate Biomathematics Alliance (IBA) is a syndicate of organizations focused on connecting both academic and non-academic institutions to promote the study of biomathematics, ecology, and other related fields. Biomathematics is a scientific area connecting biology, ecology, mathematics, and computer science. Founded in 2014 by Executive director Olcay Akman of Illinois State University, the Intercollegiate Biomathematics Alliance helps organizations to work together and share resources among one another that are not regularly available at all institutions. The IBA is still young and typically attracts smaller colleges around the United States who tend to benefit more from being part of a consortium. However, in recent years, universities such as Arizona State University have joined and the IBA continues to maintain connections with larger research groups such as the Mathematical Bioscience Institute (MBI) and the National Institute for Mathematical and Biological Synthesis (NIMBioS).
+
+History
+In 2007, Olcay Akman of mathematics and Steven Juliano of biological sciences started a master's degree program at Illinois State University. The program grew and is now operated under the same umbrella as the IBA, the Center for Collaborative Studies in Mathematical Biology. In 2008, the first BEER (Biomathematics Ecology Education and Research) conference was held at Illinois State University with only 10 speakers and less than 50 attendees. In 2014, the BEER conference was the second largest biomathematics conference globally with more than 100 speakers. Then in 2014, other universities were asked to collaborate with the common goal of educating students about biomathematics, and this led to the creation of the Intercollegiate Biomathematics Alliance (IBA).The IBA is not the first to create a network of institutions. Morehouse College in Atlanta, GA participates in its own network of institutions that helps to provide students with greater access to resources. Similarly, Massachusetts Institute of Technology houses a consortium for research in energy, the MIT Energy Initiative. This network brings together the university and companies to expand research experiences and broaden educational perspectives. By pooling together resources, these consortia attempt to unite organizations under a common goal and share resources in infrastructure, intellect, and academia.
+
+Member Institutions
+As of 2021, the Intercollegiate Biomathematics Alliance has 9 member institutions. In 2019, the IBA had 11 member institutions. IBA members pay dues based on their institutional size. Individuals are also able to become members of the IBA with reduced rates for students.
+There is some incentive beyond collaboration efforts to become an IBA member. The organization offers reduced registration fees to the International Symposium on BEER, access to distance education courses, a copy of Spora-Journal of Biomathematics, and travel funding.
+
+Programs and Resources that the IBA Supports and Sponsors
+BEAM: Biomathematics Education with Applications and Methods Grant
+BEAM is a research grant for undergraduate research that supports both faculty members and students. BEAM also provides some support for participants at CURE.
+
+BEER: Biomathematics and Ecology Education and Research Symposium
+BEER (Biomathematics Ecology Education and Research) is an annual research symposium that takes place in the fall. The first BEER symposium took place in 2008 at Illinois State University with only 10 speakers and 30 attendees. By 2014, BEER was the second largest biomathematics conference globally. In 2017, the 10th annual BEER symposium was celebrated at Illinois State University. BEER has also been hosted by other institutions such as Arizona State University (2018) and University of Wisconsin- La Crosse (2019). In 2020, the 13th annual BEER symposium was hosted virtually due to the COVID-19 pandemic. BEER is expected to be hosted in 2021 by the University of Richmond in Richmond, VA.
+
+CLOUD: CLOUD for Layering, Organizing, and Utilizing Data
+IBA-CLOUD is a super computer available for IBA members to assist in research. IBA-CLOUD is a high-performance computing cluster server and available for members of IBA to use remotely.
+
+CURE: Cross-Institutional Undergraduate Research Experience Workshop
+Started in 2016, CURE is an undergraduate research workshop and experience. Students typically meet for a few days to work on their scientific research skills before choosing a faculty member to work with throughout the summer. Students come from around the country and some will present their work at BEER in the following fall.
+
+PEER: Partners in Extending Education and Research
+PEER is a service that the IBA provides for the scientific community. An appropriate IBA member will work together with individuals from other scientific fields to assist in experimental design, data analysis, and writing.
+
+IBA-GCP: IBA Graduate Certificate Program
+Designed to strengthen the mathematical biology background of students before they apply for graduate programs. Courses are available online and in person in the following areas: mathematical modeling, data analysis, computer science, and biological sciences.
+
+Academic Journals: Letters in Biomathematics and Spora
+Letters in Biomathematics (LiB) is an open access peer-reviewed international journal dedicated to showcasing the most current research in biomathematics and related fields.Spora: A Journal of Biomathematics is an open-access research journal for undergraduate and graduate research in the field of biomathematics. Currently there are five published volumes of Spora and 31 total published papers.
+
+Fellowship Awards
+The IBA grants fellowship awards to outstanding scholars who have made significant contributions to the field of mathematical biology.
+The Distinguished Senior Fellowship is awarded to senior scholars who have a record of significant scientific accomplishments and active leadership in biomathematics. This award is given on even-numbered years.
+The Excellence in Research Award is awarded to junior scholars who have scientific accomplishments in biomathematics and the potential to become a leader in the field. This award is given on odd-numbered years.
+
+
+== References ==

@@ -1,4 +1,0 @@
-Terradynamics is the study of forces and movement during terrestrial locomotion (particularly that using legs) on ground that can flow such as sand and soil. The term "terradynamics" is used in analogy to aerodynamics for flying in the air and hydrodynamics for swimming in water.  Terradynamics has been used "to predict a small legged robot’s locomotion on granular media".
-
-
-== References ==

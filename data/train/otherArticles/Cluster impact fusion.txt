@@ -1,9 +1,0 @@
-Cluster Impact Fusion is a suggested method of producing practical fusion power using small clusters of heavy water molecules directly accelerated into a titanium-deuteride target. Calculations suggested that such a system enhanced the cross section by many orders of magnitude. It is a particular implementation of the larger beam-target fusion concept.
-The idea was first reported by researchers at Brookhaven in 1989. Intrigued by recent reports of cold fusion, they attempted to study potential causes for the effect by accelerating tiny droplets of heavy water, about 25 to 1300 D2O molecules each, into a target at about 220 eV. To their surprise they immediately saw fusion effects, at a rate that was many times what any of them could explain via conventional theory.The experiment was fairly simple in concept but required an appropriate accelerator, so it was some time before other labs were able to repeat the experiments. One of the first was the University of Washington, who reported a null result in 1991. Further experiments and a review from MIT in 1992 solved the mystery: the fusion products were the results of contamination, which could be eliminated by filtering with a magnet. The Brookhaven experimenters tried this and the effect disappeared. 
-Cluster impact fusion references end abruptly at that point.
-
-See also
-Impact fusion, which fires Macron (physics) or other projectiles into fuel to compress and heat it
-
-
-== References ==

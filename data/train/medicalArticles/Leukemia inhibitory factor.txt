@@ -1,0 +1,22 @@
+Leukemia inhibitory factor, or LIF, is an interleukin 6 class cytokine that affects cell growth by inhibiting differentiation. When LIF levels drop, the cells differentiate.
+
+Function
+LIF derives its name from its ability to induce the terminal differentiation of myeloid leukemic cells, thus preventing their continued growth. Other properties attributed to the cytokine include: the growth promotion and cell differentiation of different types of target cells, influence on bone metabolism, cachexia, neural development, embryogenesis and inflammation. p53 regulated LIF has been shown to facilitate implantation in the mouse model and possibly in humans. It has been suggested that recombinant human LIF might help to improve the implantation rate in women with unexplained infertility.
+
+Binding/activation
+LIF binds to the specific LIF receptor (LIFR-α) which forms a heterodimer with a specific subunit common to all members of that family of receptors, the GP130 signal transducing subunit. This leads to activation of the JAK/STAT (Janus kinase/signal transducer and activator of transcription) and MAPK (mitogen activated protein kinase) cascades.
+
+Expression
+LIF is normally expressed in the trophectoderm of the developing embryo, with its receptor LIFR expressed throughout the inner cell mass. As embryonic stem cells are derived from the inner cell mass at the blastocyst stage, removing them from the inner cell mass also removes their source of LIF. Recombinant LIF has been produced in plants by InVitria.
+
+Use in stem cell culture
+LIF is often added to stem cell culture media as an alternative to feeder cell culture, due to the limitation that feeder cells present by only producing LIF on their cell surfaces. Feeder cells lacking the LIF gene do not effectively support stem cells. LIF promotes self-renewal by recruiting signal transducer and activator of transcription 3 (Stat3). Stat3 is recruited to the activated LIF receptor and phosphorylated by Janus kinase. It bears noting that LIF and Stat3 are not sufficient to inhibit stem cell differentiation, as cells will differentiate upon removal of serum. During the reversibility phase of differentiation from naive pluripotency, it is possible to revert cells back to naive pluripotency through the addition of LIF.
+Removal of LIF pushes stem cells toward differentiation, however genetic manipulation of embryonic stem cells allows for LIF independent growth, notably overexpression of the gene Nanog.
+LIF is typically added to stem cell culture medium to reduce spontaneous differentiation.
+
+References
+Further reading
+External links
+Leukemia+Inhibitory+Factor at the U.S. National Library of Medicine Medical Subject Headings (MeSH)
+Source of Recombiant Leukemia Inhibitory Factor (http://www.invitria.com/cell-culture-products-services/leukemia-inhibitory-factor-culture-media.html )
+Overview of all the structural information available in the PDB for UniProt: P15018 (Leukemia inhibitory factor) at the PDBe-KB.

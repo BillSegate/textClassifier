@@ -1,0 +1,18 @@
+security.txt is a proposed standard for websites' security information that is meant to allow security researchers to easily report security vulnerabilities. The standard prescribes a text file called "security.txt" in the well known location, similar in syntax to robots.txt but intended to be machine- and human-readable, for those wishing to contact a website's owner about security issues. security.txt files have been adopted by Google, GitHub, LinkedIn, and Facebook.
+
+History
+The Internet Draft was first submitted by Edwin Foudil in September 2017. At that time it covered four directives, "Contact", "Encryption", "Disclosure" and "Acknowledgement". Foudil expected to add further directives based on feedback. In addition, web security expert Scott Helme said he had seen positive feedback from the security community while use among the top 1 million websites was "as low as expected right now".In 2019, the Cybersecurity and Infrastructure Security Agency (CISA) published a draft binding operational directive that requires all federal agencies to publish a security.txt file within 180 days.The Internet Engineering Steering Group (IESG) issued a Last Call for security.txt in December 2019 which ended on January 6, 2020.A study in 2021 found that over ten percent of top-100 websites published a security.txt file, with the percentage of sites publishing the file decreasing as more websites were considered. The study also noted a number of discrepancies between the standard and the content of the file.
+In April 2022 the security.txt file has been accepted by Internet Engineering Task Force (IETF) as RFC 9116.
+
+File format
+security.txt files can be served under the /.well-known/ directory (i.e. /.well-known/security.txt) or the top-level directory (i.e. /security.txt) of a website. The file must be served over HTTPS and in plaintext format.
+
+See also
+ads.txt
+humans.txt
+robots.txt
+
+References
+External links
+Official website
+Example for a security.txt file

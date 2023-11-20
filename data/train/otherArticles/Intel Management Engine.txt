@@ -1,0 +1,121 @@
+The Intel Management Engine (ME), also known as the Intel Manageability Engine, is an autonomous subsystem that has been incorporated in virtually all of Intel's processor chipsets since 2008. It is located in the Platform Controller Hub of modern Intel motherboards.
+The Intel Management Engine always runs as long as the motherboard is receiving power, even when the computer is turned off. This issue can be mitigated with deployment of a hardware device, which is able to disconnect all connections to mains power as well as all internal forms of energy storage.
+Intel's main competitor AMD has incorporated the equivalent AMD Secure Technology (formally called Platform Security Processor) in virtually all of its post-2013 CPUs.
+
+Difference from Intel AMT
+The Management Engine is often confused with Intel AMT (Intel Active Management Technology). AMT runs on the ME, but is only available on processors with vPro. AMT gives device owners remote administration of their computer, such as powering it on or off, and reinstalling the operating system.
+However, the ME itself is built into all Intel chipsets since 2008, not only those with AMT. While AMT can be unprovisioned by the owner, there is no official, documented way to disable the ME.
+
+Design
+The subsystem primarily consists of proprietary firmware running on a separate microprocessor that performs tasks during boot-up, while the computer is running, and while it is asleep. As long as the chipset or SoC is supplied with power (via battery or power supply), it continues to run even when the system is turned off. Intel claims the ME is required to provide full performance. Its exact workings are largely undocumented and its code is obfuscated using confidential Huffman tables stored directly in hardware, so the firmware does not contain the information necessary to decode its contents.
+
+Hardware
+Starting with ME 11 (introduced in Skylake CPUs), it is based on the Intel Quark x86-based 32-bit CPU and runs the MINIX 3 operating system. The ME firmware is stored in a partition of the SPI BIOS Flash, using the Embedded Flash File System (EFFS). Previous versions were based on an ARC core, with the Management Engine running the ThreadX RTOS. Versions 1.x to 5.x of the ME used the ARCTangent-A4 (32-bit only instructions) whereas versions 6.x to 8.x used the newer ARCompact (mixed 32- and 16-bit instruction set architecture). Starting with ME 7.1, the ARC processor could also execute signed Java applets.
+The ME has its own MAC and IP address for the out-of-band management interface, with direct access to the Ethernet controller; one portion of the Ethernet traffic is diverted to the ME even before reaching the host's operating system, for what support exists in various Ethernet controllers, exported and made configurable via Management Component Transport Protocol (MCTP). The ME also communicates with the host via PCI interface. Under Linux, communication between the host and the ME is done via /dev/mei or /dev/mei0.Until the release of Nehalem processors, the ME was usually embedded into the motherboard's northbridge, following the Memory Controller Hub (MCH) layout. With the newer Intel architectures (Intel 5 Series onwards), ME is integrated into the Platform Controller Hub (PCH).
+
+Firmware
+By Intel's current terminology as of 2017, ME is one of several firmware sets for the Converged Security and Manageability Engine (CSME). Prior to AMT version 11, CSME was called Intel Management Engine BIOS Extension (Intel MEBx).
+Management Engine (ME) – mainstream chipsets
+Server Platform Services (SPS) – server chipsets and SoCs
+Trusted Execution Engine (TXE) – tablet/embedded/low powerThe Russian company Positive Technologies (Dmitry Sklyarov) found that the ME firmware version 11 runs MINIX 3.
+
+Modules
+Active Management Technology (AMT)
+Intel Boot Guard (IBG) and Secure Boot
+Quiet System Technology (QST), formerly known as Advanced Fan Speed Control (AFSC), which provides support for acoustically-optimized fan speed control, and monitoring of temperature, voltage, current and fan speed sensors that are provided in the chipset, CPU and other devices present on the motherboard. Communication with the QST firmware subsystem is documented and available through the official software development kit (SDK).
+Protected Audio Video Path
+Intel Anti-Theft Technology (AT), discontinued in 2015.
+Serial over LAN (SOL)
+Intel Platform Trust Technology (PTT), a firmware-based Trusted Platform Module (TPM)
+Near Field Communication, a middleware for NFC readers and vendors to access NFC cards and provide secure element access, found in later MEI versions.
+
+Security vulnerabilities
+Several weaknesses have been found in the ME. On May 1, 2017, Intel confirmed a Remote Elevation of Privilege bug (SA-00075) in its Management Technology. Every Intel platform with provisioned Intel Standard Manageability, Active Management Technology, or Small Business Technology, from Nehalem in 2008 to Kaby Lake in 2017 has a remotely exploitable security hole in the ME. Several ways to disable the ME without authorization that could allow ME's functions to be sabotaged have been found. Additional major security flaws in the ME  affecting a very large number of computers incorporating ME, Trusted Execution Engine (TXE), and Server Platform Services (SPS) firmware, from Skylake in 2015 to Coffee Lake in 2017, were confirmed by Intel on 20 November 2017 (SA-00086). Unlike SA-00075, this bug is even present if AMT is absent, not provisioned or if the ME was "disabled" by any of the known unofficial methods. In July 2018 another set of vulnerabilities was disclosed (SA-00112). In September 2018, yet another vulnerability was published (SA-00125).
+
+Ring −3 rootkit
+A ring −3 rootkit was demonstrated by Invisible Things Lab for the Q35 chipset; it does not work for the later Q45 chipset as Intel implemented additional protections. The exploit worked by remapping the normally protected memory region (top 16 MB of RAM) reserved for the ME. The ME rootkit could be installed regardless of whether the AMT is present or enabled on the system, as the chipset always contains the ARC ME coprocessor. (The "−3" designation was chosen because the ME coprocessor works even when the system is in the S3 state, thus it was considered a layer below the System Management Mode rootkits.) For the vulnerable Q35 chipset, a keystroke logger ME-based rootkit was demonstrated by Patrick Stewin.
+
+Zero-touch provisioning
+Another security evaluation by Vassilios Ververis showed serious weaknesses in the GM45 chipset implementation. In particular, it criticized AMT for transmitting unencrypted passwords in the SMB provisioning mode when the IDE redirection and Serial over LAN features are used. It also found that the "zero touch" provisioning mode (ZTC) is still enabled even when the AMT appears to be disabled in BIOS. For about 60 euros, Ververis purchased from GoDaddy a certificate that is accepted by the ME firmware and allows remote "zero touch" provisioning of (possibly unsuspecting) machines, which broadcast their HELLO packets to would-be configuration servers.
+
+SA-00075 (a.k.a. Silent Bob is Silent)
+In May 2017, Intel confirmed that many computers with AMT have had an unpatched critical privilege escalation vulnerability (CVE-2017-5689). The vulnerability was nicknamed "Silent Bob is Silent" by the researchers who had reported it to Intel. It affects numerous laptops, desktops and servers sold by Dell, Fujitsu, Hewlett-Packard (later Hewlett Packard Enterprise and HP Inc.), Intel, Lenovo, and possibly others. Those researchers claimed that the bug affects systems made in 2010 or later. Other reports claimed the bug also affects systems made as long ago as 2008. The vulnerability was described as giving remote attackers:
+
+"full control of affected machines, including the ability to read and modify everything. It can be used to install persistent malware (possibly in firmware), and read and modify any data."
+
+PLATINUM
+In June 2017, the PLATINUM cybercrime group became notable for exploiting the serial over LAN (SOL) capabilities of AMT to perform data exfiltration of stolen documents. SOL is disabled by default, and must be enabled to exploit this vulnerability.
+
+SA-00086
+Some months after the previous bugs, and subsequent warnings from the EFF, security firm Positive Technologies claimed to have developed a working exploit. On 20 November, 2017 Intel confirmed that a number of serious flaws had been found in the Management Engine (mainstream), Trusted Execution Engine (tablet/mobile), and Server Platform Services (high end server) firmware, and released a "critical firmware update". Essentially every Intel-based computer for the last several years, including most desktops and servers, were found to be vulnerable to having their security compromised, although all the potential routes of exploitation were not entirely known. It is not possible to patch the problems from the operating system, and a firmware (UEFI, BIOS) update to the motherboard is required, which was anticipated to take quite some time for the many individual manufacturers to accomplish, if it ever would be for many systems.
+
+Affected systems
+Intel Atom – C3000 family
+Intel Atom – Apollo Lake E3900 series
+Intel Celeron – N and J series
+Intel Core (i3, i5, i7, i9) – 1st, 2nd, 3rd, 4th, 5th, 6th, 7th, and 8th generation
+Intel Pentium – Apollo Lake
+Intel Xeon – E3-1200 v5 and v6 product family
+Intel Xeon – Scalable family
+Intel Xeon – W family
+
+Mitigation
+None of the known unofficial methods to disable the ME prevent exploitation of the vulnerability. A firmware update by the vendor is required. However, those who discovered the vulnerability note that firmware updates are not fully effective either, as an attacker with access to the ME firmware region can simply flash an old, vulnerable version and then exploit the bug.
+
+SA-00112
+In July 2018 Intel announced that three vulnerabilities (CVE-2018-3628, CVE-2018-3629, CVE-2018-3632) had been discovered and that a patch for the CSME firmware would be required. Intel indicated there would be no patch for 3rd generation Core processors or earlier despite chips or their chipsets as far back as Intel Core 2 Duo vPro and Intel Centrino 2 vPro being affected. However Intel AMT must be enabled and provisioned for the vulnerability to exist.
+
+Assertions that ME is a backdoor
+Critics like the Electronic Frontier Foundation (EFF), Libreboot developers, and security expert Damien Zammit accused the ME of being a backdoor and a privacy concern. Zammit stresses that the ME has full access to memory (without the owner-controlled CPU cores having any knowledge), and has full access to the TCP/IP stack and can send and receive network packets independently of the operating system, thus bypassing its firewall.Intel responded by saying that "Intel does not put back doors in its products nor do our products give Intel control or access to computing systems without the explicit permission of the end user." and "Intel does not and will not design backdoors for access into its products. Recent reports claiming otherwise are misinformed and blatantly false. Intel does not participate in any efforts to decrease security of its technology."In the context of criticism of the Intel ME and AMD Secure Technology it has been pointed out that the National Security Agency (NSA) budget request for 2013 contained a Sigint Enabling Project with the goal to "Insert vulnerabilities into commercial encryption systems, IT systems, …" and it has been conjectured that Intel ME and AMD Secure Technology might be part of that program.
+
+Disabling the ME
+It is normally not possible for the end-user to disable the ME and there is no officially supported method to disable it, but some undocumented methods to do so were discovered.  The ME's security architecture is designed to prevent disabling. Intel considers disabling ME to be a security vulnerability, as a malware could abuse it to make the computer lose some of the functionality that the typical user  expects, such as the ability to play media with DRM, specifically DRM media that are using HDCP. But on the other hand, it is also possible for malicious actors to use the ME to remotely compromise a system.
+Strictly speaking, none of the known methods can disable the ME completely, since it is required for booting the main CPU. The currently known methods merely make the ME go into abnormal states soon after boot, in which it seems not to have any working functionality. The ME is still physically connected to the system and its microprocessor continues to execute code. Some manufacturers like Purism and System76 disable Intel Management Engine.
+
+Undocumented methods
+Firmware neutralization
+In 2016, the me_cleaner project found that the ME's integrity verification is broken. The ME is supposed to detect that it has been tampered with and, if this is the case, shut down the PC forcibly 30 minutes after system start. This prevents a compromised system from running undetected, yet allows the owner to fix the issue by flashing a valid version of the ME firmware during the grace period. As the project found out, by making unauthorized changes to the ME firmware, it was possible to force it into an abnormal error state that prevented triggering the shutdown even if large parts of the firmware had been overwritten and thus made inoperable.
+
+"High Assurance Platform" mode
+In August 2017, Positive Technologies (Dmitry Sklyarov) published a method to disable the ME via an undocumented built-in mode. As Intel has confirmed the ME contains a switch to enable government authorities such as the NSA to make the ME go into High-Assurance Platform (HAP) mode after boot. This mode disables most of ME's functions, and was intended to be available only in machines produced for specific purchasers like the US government; however, most machines sold on the retail market can be made to activate the switch. Manipulation of the HAP bit was quickly incorporated into the me_cleaner project.
+
+Commercial ME disablement
+From late 2017 on, several laptop vendors announced their intentions to ship laptops with the Intel ME disabled or let the end-users disable it manually:
+
+Minifree Ltd has provided Libreboot pre-loaded laptops with Intel ME either not present, or disabled, since at least 2015.
+Purism previously petitioned Intel to sell processors without the ME, or release its source code, calling it "a threat to users' digital rights". In March 2017, Purism announced that it had neutralized the ME by erasing the majority of the ME code from the flash memory. It further announced in October 2017 that new batches of their Librem line of laptops running PureOS will ship with the ME neutralized, and additionally disable most ME operation via the HAP bit. Updates for existing Librem laptops were also announced.
+In November, System76 announced their plan to disable the ME on their new and recent machines which ship with Pop!_OS via the HAP bit.
+In December, Dell began showing certain laptops on its website that offered the "Systems Management" option "Intel vPro - ME Inoperable, Custom Order" for an additional fee. Dell has not announced or publicly explained the methods used. In response to press requests, Dell stated that those systems had been offered for quite a while, but not for the general public, and had found their way to the website only inadvertently. The laptops are available only by custom order and only to military, government and intelligence agencies. They are specifically designed for covert operations, such as providing a very robust case and a "stealth" operating mode kill switch that disables display, LED lights, speaker, fan and any wireless technology.
+In March 2018, Tuxedo Computers, a German company which specializes in PCs which run Linux kernel-based operating systems, announced an option in the BIOS of their system to disable ME. 
+In February 2021 Nitrokey, a German company specialized in producing Security Tokens, announced NitroPC, a device identical to Purism's Librem Mini. 
+In January 2023, monocles, a German start-up which offers several privacy friendly and secure services and devices sells the monocles book 1, a refurbished notebook with disabled Intel ME and plans to produce own Notebooks without Intel ME from factory. 
+In April 2023, NovaCustom, a Dutch laptop brand offering privacy and security focused laptops, introduced the Intel ME disabling (HECI and HAP) UEFI firmware setting for its Dasharo coreboot models.
+
+Effectiveness against vulnerabilities
+Neither of the two methods to disable the ME discovered so far turned out to be an effective countermeasure against the SA-00086 vulnerability. This is because the vulnerability is in an early-loaded ME module that is essential to boot the main CPU.
+
+Reactions
+By Google
+As of 2017, Google was attempting to eliminate proprietary firmware from its servers and found that the ME was a hurdle to that.
+
+By AMD processor vendors
+Shortly after SA-00086 was patched, vendors for AMD processor mainboards started shipping BIOS updates that allow disabling the AMD Platform Security Processor, a subsystem with similar function as the ME.
+
+See also
+AMD Platform Security Processor
+ARM TrustZone
+Intel AMT versions
+Intel vPro
+Meltdown (security vulnerability)
+Microsoft Pluton
+Next-Generation Secure Computing Base
+Samsung Knox
+Spectre (security vulnerability)
+Trusted Computing
+Trusted Execution Technology
+Trusted Platform Module
+
+References
+External links
+Intel-SA-00086 security vulnerability detection tool
+Behind the Scenes of Intel Security and Manageability Engine

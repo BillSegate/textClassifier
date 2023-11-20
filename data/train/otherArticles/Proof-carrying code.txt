@@ -1,0 +1,18 @@
+Proof-carrying code (PCC) is a software mechanism that allows a host system to verify properties about an application via a formal proof that accompanies the application's executable code.  The host system can quickly verify the validity of the proof, and it can compare the conclusions of the proof to its own security policy to determine whether the application is safe to execute.  This can be particularly useful in ensuring memory safety (i.e. preventing issues like buffer overflows).
+Proof-carrying code was originally described in 1996 by George Necula and Peter Lee.
+
+Packet filter example
+The original publication on proof-carrying code in 1996 used packet filters as an example: a user-mode application hands a function written in machine code to the kernel that determines whether or not an application is interested in processing a particular network packet. Because the packet filter runs in kernel mode, it could compromise the integrity of the system if it contains malicious code that writes to kernel data structures. Traditional approaches to this problem include interpreting a domain-specific language for packet filtering, inserting checks on each memory access (software fault isolation), and writing the filter in a high-level language which is compiled by the kernel before it is run. These approaches have performance disadvantages for code as frequently run as a packet filter, except for the in-kernel compilation approach, which only compiles the code when it is loaded, not every time it is executed.
+With proof-carrying code, the kernel publishes a security policy specifying properties that any packet filter must obey: for example, will not access memory outside of the packet and its scratch memory area. A theorem prover is used to show that the machine code satisfies this policy. The steps of this proof are recorded and attached to the machine code which is given to the kernel program loader. The program loader can then rapidly validate the proof, allowing it to thereafter run the machine code without any additional checks. If a malicious party modifies either the machine code or the proof, the resulting proof-carrying code is either invalid or harmless (still satisfies the security policy).
+
+See also
+Typed assembly language
+Program derivation
+Formal verification
+Berkeley Packet Filter
+
+References
+
+George C. Necula and Peter Lee. Proof-Carrying Code.  Technical Report CMU-CS-96-165, November 1996. (62 pages)
+George C. Necula and Peter Lee.  Safe, Untrusted Agents Using Proof-Carrying Code.  Mobile Agents and Security, Giovanni Vigna (Ed.), Lecture Notes in Computer Science, Vol. 1419, Springer-Verlag, Berlin, ISBN 3-540-64792-9, 1998.
+George C. Necula. Compiling with Proofs. PhD thesis, School of Computer Science, Carnegie Mellon Univ., Sept. 1998.

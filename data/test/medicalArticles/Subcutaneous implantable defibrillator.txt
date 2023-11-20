@@ -1,0 +1,29 @@
+Subcutaneous implantable cardioverter defibrillator, or S-ICD, is an implantable medical device for detecting and terminating  ventricular tachycardia and ventricular fibrillation in patients at risk of sudden cardiac arrest. It is a type of implantable cardioverter defibrillator but unlike the transvenous ICD, the S-ICD lead is placed just under the skin, leaving the heart and veins untouched.
+The S-ICD was developed to reduce the risk of complications associated with transvenous leads. Potential complications, such as infections in the bloodstream and the need to remove or replace the leads in the heart, are minimised or entirely eliminated with the S-ICD system.
+
+Transvenous ICD (leads in the heart)
+Pros
+The generator is smaller than the S-ICD generator, which may result in a less visible implanted device. This could improve the time needed to get used to the implantable device, although this is subjective. The procedure can usually be done under local anesthesia and light sedation. The transvenous ICD is capable of pacing for bradycardia and delivering antitachycardia pacing (ATP).   However, device-related complications were numerically more frequent in patients with transvenous ICDs, inappropriate shocks are less frequent that in those with subcutaneous ICDs.
+
+Cons
+The leads go into the vein and heart and will grow into the heart wall over time. This may increase the chance of complications if the leads need to be removed or replaced, as the procedure to extract an intracardiac leads can be a challenge. Because the leads need to go into the heart they need to be relatively thin and flexible, since they have to pass through (and remain in) the heart valve(s) and need to flex with every heartbeat. This makes the leads more vulnerable to lead fracture (and therefore complications). It has been demonstrated that  device-related complications were numerically more frequent in patients with transvenous ICDs. Due to the position of the pulse generator under the collarbone, it can be more visible with clothing with low neckline.
+
+Patient selection
+Patients who are relatively older, who need ICD for secondary prevention, or who have concomitant bradycardia requiring pacing, or heart failure requiring cardiac resynchronisation therapy are more suitable for transvenous ICD implantation. An older patient with ischemic cardiomyopathy and documented symptomatic ventricular tachycardia is a typical example.
+
+Subcutaneous ICD (lead under the skin)
+Pros
+The lead does not go into the heart, which means it leaves the veins and the heart completely intact. This reduces chance of complications (e.g. systemic infections). Because the lead does not go into the heart it can be thicker and more robust. This minimizes / reduces the chance of lead fracture. In the event the system needs to be explanted, the procedure is a relatively simple surgical procedure.
+
+Cons
+The pulse generator is larger than most transvenous ICD pulse generators. This could result in a longer time needed to get used to it, although this is subjective. Depending on the physique of a person, the S-ICD may be more visible with bare chest. The procedure usually requires deep sedation or general anaesthesia, as creating a larger pocket between the muscles and tunnelling the lead over the sternum, as well as performing defibrillation threshold testing, can be quite painful. The S-ICD can deliver only temporary post-shock pacing, but cannot otherwise address bradycardia and cannot deliver anti-tachycardia pacing.  Inappropriate shocks were numerically more frequent in those with subcutaneous ICDs. Defibrillation testing has traditionally been considered mandatory in patients with subcutaneous implantable cardioverter–defibrillator to confirm appropriate ventricular fibrillation detection. However, PRAETORIAN-DFT randomised clinical trial is aiming to demonstrate non-inferiority of omitting DFT in patients undergoing S-ICD implantation in which the S-ICD system components are optimally positioned by calculated PRAETORIAN score.
+
+Patient selection
+Patients who are relatively younger, who need ICD for primary prevention, and who do not require pacing or cardiac resynchronisation therapy, are more suitable for S-ICD implantation. A young survivor of aborted sudden cardiac death is a typical example.
+
+Transvenous vs subcutaneous ICD implantation procedure
+References
+External links
+Subcutaneous Implantable Defibrillator (S-ICD) - Official Patient site
+EMBLEM™ MRI S-ICD System - Subcutaneous Implantable Defibrillator
+Subcutaneous ICD - EMBLEM S-ICD™ System

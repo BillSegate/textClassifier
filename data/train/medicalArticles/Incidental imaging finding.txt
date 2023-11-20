@@ -1,0 +1,35 @@
+In medical or research imaging, an incidental imaging finding (also called an incidentaloma) is an unanticipated finding which is not related to the original diagnostic inquiry. As with other types of incidental medical findings, they may represent a diagnostic, ethical, and philosophical dilemma because their significance is unclear. While some coincidental findings may lead to beneficial diagnoses, others may lead to overdiagnosis that results in unnecessary testing and treatment, sometimes called the "cascade effect".Incidental findings are common in imaging. For instance, around 1 in every 3 cardiac MRIs result in an incidental finding. Incidence is similar for chest CT scans (~30%).As the use of medical imaging increases, the number of incidental findings also increases.
+
+Adrenal
+Incidental adrenal masses on imaging are common (0.6 to 1.3% of all abdominal CT). Differential diagnosis include adenoma, myelolipoma, cyst, lipoma, pheochromocytoma, adrenal cancer, metastatic cancer, hyperplasia, and tuberculosis.  Some of these lesions are easily identified by radiographic appearance; however, it is often adenoma vs. cancer/metastasis that is most difficult to distinguish.  Thus, clinical guidelines have been developed to aid in diagnosis and decision-making. Although adrenal incidentalomas are common, they are not commonly cancerous - less than 1% of all adrenal incidentalomas are malignant.The first considerations are size and radiographic appearance of the mass.  Suspicious adrenal masses or those ≥4 cm are recommended for complete removal by adrenalectomy.  Masses <4 cm may also be recommended for removal if they are found to be hormonally active, but are otherwise recommended for observation.  All adrenal masses should receive hormonal evaluation. Hormonal evaluation includes:
+1-mg overnight dexamethasone suppression test
+24-hour urinary specimen for measurement of fractionated metanephrines and catecholamines
+Blood plasma aldosterone concentration and plasma renin activity, if hypertension is presentOn CT scan, benign adenomas typically are of low radiodensity (due to fat content). A radiodensity equal to or below 10 Hounsfield units (HU) is considered diagnostic of an adenoma. An adenoma also shows rapid radiocontrast washout (50% or more of the contrast medium washes out at 10 minutes). If the hormonal evaluation is negative and imaging suggests benign lesion, follow up may be considered. Imaging at 6, 12, and 24 months and repeat hormonal evaluation yearly for 4 years is often recommended, but there exists controversy about harm/benefit of such screening as there is a high subsequent false-positive rate (about 50:1) and overall low incidence of adrenal carcinoma.
+
+Brain
+Autopsy series have suggested that pituitary incidentalomas may be quite common. It has been estimated that perhaps 10% of the adult population may harbor such endocrinologically inert lesions. Most of these lesions, especially those which are small, will not grow. However, some form of long-term surveillance has been recommended based on the size and presentation of the lesion. With pituitary adenomas larger than 1 cm, a baseline pituitary hormonal function test should be done, including measurements of serum levels of TSH, prolactin, IGF-1 (as a test of growth hormone activity), adrenal function (i.e. 24 hour urine cortisol, dexamethasone suppression test), testosterone in men, and estradiol in amenorrheic women.
+
+Thyroid and parathyroid
+Incidental thyroid masses may be found in 9% of patients undergoing bilateral carotid duplex ultrasonography.Some experts recommend that nodules > 1 cm (unless the TSH is suppressed) or those with ultrasonographic features of malignancy should be biopsied by fine needle aspiration. Computed tomography  is inferior to ultrasound for evaluating thyroid nodules. Ultrasonographic markers of malignancy are:
+solid hypoechoic appearance
+irregular or blurred margins
+intranodular vascular spots or pattern
+microcalcificationsIncidental parathyroid masses may be found in 0.1% of patients undergoing bilateral carotid duplex ultrasonography.The American College of Radiology recommends the following workup for thyroid nodules as incidental imaging findings on CT, MRI or PET-CT:
+
+Pulmonary
+Studies of whole body screening computed tomography find abnormalities in the lungs of 14% of patients. Clinical practice guidelines by the American College of Chest Physicians advise on the evaluation of the solitary pulmonary nodule.
+
+Kidney
+Most renal cell carcinomas are now found incidentally. Tumors less than 3 cm in diameter less frequently have aggressive histology.A CT scan is the first choice modality for workup of solid masses in the kidneys. Nevertheless, hemorrhagic cysts can resemble renal cell carcinomas on CT, but they are easily distinguished with Doppler ultrasonography (Doppler US). In renal cell carcinomas, Doppler US often shows vessels with high velocities caused by neovascularization and arteriovenous shunting. Some renal cell carcinomas are hypovascular and not distinguishable with Doppler US. Therefore, renal tumors without a Doppler signal, which are not obvious simple cysts on US and CT, should be further investigated with contrast-enhanced ultrasound, as this is more sensitive than both Doppler US and CT for the detection of hypovascular tumors.
+
+Spinal
+The increasing use of MRI, often during diagnostic work-up for back or lower extremity pain, has led to a significant increase in the number of incidental findings that are most often clinically inconsequential.  The most common include:
+vertebral hemangioma
+fibrolipoma (a lipoma with fibrous areas)
+Tarlov cystSometimes normally asymptomatic findings can present with symptoms and these cases when identified cannot then be considered as incidentalomas.
+
+Criticism
+The concept of the "incidentaloma" has been criticized, as such lesions do not have much in common other than the history of an incidental identification and the assumption that they are clinically inert. It has been proposed just to say that such lesions have been "incidentally found." The underlying pathology shows no unifying histological concept.
+
+
+== References ==

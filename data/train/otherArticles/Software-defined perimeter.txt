@@ -1,0 +1,65 @@
+A software-defined perimeter (SDP), also called a "black cloud", is an approach to computer security which evolved from the work done at the Defense Information Systems Agency (DISA) under the Global Information Grid (GIG) Black Core Network initiative around 2007.  Software-defined perimeter (SDP) framework was developed by the Cloud Security Alliance (CSA) to control access to resources based on identity. Connectivity in a Software Defined Perimeter is based on a need-to-know model, in which device posture and identity are verified before access to application infrastructure is granted. Application infrastructure is effectively “black” (a DoD term meaning the infrastructure cannot be detected), without visible DNS information or IP addresses.  The inventors of these systems claim that a Software Defined Perimeter mitigates the most common network-based attacks, including: server scanning, denial of service, SQL injection, operating system and application vulnerability exploits, man-in-the-middle, pass-the-hash, pass-the-ticket, and other attacks by unauthorized users.
+
+Background
+The premise of the traditional enterprise network architecture is to create an internal network separated from the outside world by a fixed perimeter that consists of a series of firewall functions that block external users from coming in, but allows internal users to get out.  Traditional fixed perimeters help protect internal services from external threats via simple techniques for blocking visibility and accessibility from outside the perimeter to internal applications and infrastructure. But the weaknesses of this traditional fixed perimeter model are becoming ever more problematic because of the popularity of user-managed devices and phishing attacks, providing untrusted access inside the perimeter, and SaaS and IaaS extending the perimeter into the internet. Software defined perimeters address these issues by giving application owners the ability to deploy perimeters that retain the traditional model's value of invisibility and inaccessibility to outsiders, but can be deployed anywhere – on the internet, in the cloud, at a hosting center, on the private corporate network, or across some or all of these locations.
+
+Authorization Techniques
+There are several techniques for delivering a software-defined perimeter (SDP). This includes:
+
+Single Packet Authorization: A single packet is sent by a client to an SDP gateway which listens for SPA packets. The contents of the packet will be decrypted for further inspection. If verified, the gateway adds a rule to the firewall so that a mutual TLS connection to the intended service can be established. Once this connection is established, the firewall rules are removed making the service invisible to the outside world.
+First Packet Authentication: A single-use, cryptographically generated identity token is inserted on each side of a TCP/IP session for authentication. If allowed, the gateway applies a security policy—forward, redirect, or discard—for the connection request based on the identity.
+Authenticate Before Connect: Endpoints are bootstrapped with unique, cryptographically generated identities (commonly using x509 and JWTs). They establish outbound connectivity into a mesh overlay which only ‘listens’ for authenticated and authorized endpoints. This approach ensures source and destination never require any inbound connectivity as well as work even in challenging NAT scenarios.
+
+Architecture
+In its simplest form, the architecture of the SDP consists of two components: SDP Hosts and SDP Controllers.[6] SDP Hosts can either initiate connections or accept connections. These actions are managed by interactions with the SDP Controllers via a control channel (see Figure 1). Thus, in a Software Defined Perimeter, the control plane is separated from the data plane to enable greater scalability. In addition, all of the components can be redundant for higher availability.
+
+The SDP framework has the following workflow (see Figure 2).
+
+One or more SDP Controllers are brought online and connected to the appropriate optional authentication and authorization services (e.g., PKI, device fingerprinting, geolocation, SAML, OpenID, OAuth, LDAP, Kerberos, multifactor authentication, and other such services).
+One or more Accepting SDP Hosts are brought online. These hosts connect to and authenticate to the Controllers. However, they do not acknowledge communication from any other Host and will not respond to any non-provisioned request.
+Each Initiating SDP Host that is brought on line connects with, and authenticates to, the SDP Controllers.
+After authenticating the Initiating SDP Host, the SDP Controllers determine a list of Accepting Hosts to which the Initiating Host is authorized to communicate.
+The SDP Controller instructs the Accepting SDP Hosts to accept communication from the Initiating Host as well as any optional policies required for encrypted communications.
+The SDP Controller gives the Initiating SDP Host the list of Accepting Hosts as well as any optional policies required for encrypted communications.
+The Initiating SDP Host initiates a mutual VPN connection to all authorized Accepting Hosts.SDP Deployment ModelsWhile the general workflow remains the same for all implementations, the application of SDPs can favor certain implementations over others.
+
+Client-to-gateway
+In the client-to-gateway implementation, one or more servers are protected behind an Accepting SDP Host such that the Accepting SDP Host acts as a gateway between the clients and the protected servers. This implementation can be used inside an enterprise network to mitigate common lateral movement attacks such as server scanning, OS and application vulnerability exploits, password cracking, man-in-the-middle, Pass-the-Hash (PtH), and others.  Alternatively, it can be implemented on the Internet to isolate protected servers from unauthorized users and mitigate attacks such as denial of service, OS and application vulnerability exploits, password cracking, man-in-the-middle, and others.
+
+Client-to-server
+The client-to-server implementation is similar in features and benefits to the client-to-gateway implementation discussed above. However, in this case, the server being protected will be running the Accepting SDP Host software instead of a gateway sitting in front of the server running that software. The choice between the client-to-gateway implementation and the client-to-server implementation is typically based on number of servers being protected, load balancing methodology, elasticity of servers, and other similar topological factors.[13]
+
+Server-to-server
+In the server-to-server implementation, servers offering a Representational State Transfer (REST) service, a Simple Object Access Protocol (SOAP) service, a remote procedure call (RPC), or any kind of application programming interface (API) over the Internet can be protected from unauthorized hosts on the network. For example, in this case, the server initiating the REST call would be the Initiating SDP Host and the server offering the REST service would be the Accepting SDP Host. Implementing an SDP for this use case can reduce the load on these services and mitigate attacks similar to the ones mitigated by the client-to-gateway implementation.
+
+Client-to-server-to-client
+The client-to-server-to-client implementation results in a peer-to-peer relationship between the two clients and can be used for applications such as IP telephone, chat, and video conferencing. In these cases, the SDP obfuscates the IP addresses of the connecting clients. As a minor variation, a user can also have a client-to-gateway-to-client configuration if the user wishes to hide the application server as well.
+
+SDP Applications
+
+Enterprise application isolation
+For data breaches that involve intellectual property, financial information, HR data, and other sets of data that are only available within the enterprise network, attackers may gain entrance to the internal network by compromising one of the computers in the network and then move laterally to get access to the high value information asset. In this case, an enterprise can deploy an SDP inside its data center to partition the network and isolate high-value applications. Unauthorized users will not have network access to the protected application, thus mitigating the lateral movement these attacks depend on.
+
+Private cloud and hybrid cloud
+While useful for protecting physical machines, the software overlay nature of the SDP also allows it to be integrated into private clouds to leverage the flexibility and elasticity of such environments. In this role, SDPs can be used by enterprises to hide and secure their public cloud instances in isolation, or as a unified system that includes private and public cloud instances and/or cross-cloud clusters.
+Software-as-a-service (SaaS) vendors can use an SDP to protect their services. In this implementation, the software service would be an Accepting SDP Host, and all users desiring connectivity to the service would be the Initiating Hosts. This allows a SaaS to leverage the global reach of the Internet without the enabling the Internet's global attack surface.
+Infrastructure-as-a-service (IaaS) vendors can offer SDP-as-a-Service as a protected on-ramp to their customers. This allows their customers to take advantage of the agility and cost savings of IaaS while mitigating a wide range of potential attacks.
+Platform-as-a-service (PaaS) vendors can differentiate their offering by including the SDP architecture as part of their service. This gives end users an embedded security service that mitigates network-based attacks.
+A vast number of new devices are being connected to the Internet.  Back-end applications that manage these devices and/or extract information from these devices can be mission-critical and can act as a custodian for private or sensitive data. SDPs can be used to hide these servers and the interactions with them over the Internet to provide improved security and up-time.
+
+See also
+Advanced Encryption Standard
+Global Information Grid
+IPsec
+Public-key infrastructure
+Transport Layer Security
+
+References
+External links
+Cloud Security Alliance “Introduction to the Software Defined Perimeter Working Group”
+Article from GCN - 1105 Public Sector Media Group "Black Cloud Darkens the Enterprise to all but Authorized Devices"
+Article from Light Reading - "Verizon and Vidder put SD-Perimeter around Enterprise Security"
+Article from CSO - "Goodbye NAC. Hello, software defined perimeter"
+IEEE "Software-Defined Perimeters: An Architectural View of SDP"
+Article from ComputerWeekly - "Gas distribution network SGN invests in software-defined perimeter"
+Moubayed, Abdallah; Refaey, Ahmed; Shami, Abdallah (October 2019). "Software-Defined Perimeter (SDP): State of the Art Secure Solution for Modern Network". IEEE Network. 33 (5): 226–233. doi:10.1109/MNET.2019.1800324. S2CID 189892671.

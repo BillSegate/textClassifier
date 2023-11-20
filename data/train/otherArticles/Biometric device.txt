@@ -1,0 +1,60 @@
+A biometric device is a security identification and authentication device.  Such devices use automated methods of verifying or recognising the identity of a living person based on a physiological  or behavioral characteristic. These characteristics include fingerprints, facial images, iris and voice recognition.
+
+History
+Biometric devices have been in use for thousands of years. Non-automated biometric devices have in use since 500 BC, when ancient Babylonians would sign their business transactions by pressing their fingertips into clay tablets. 
+Automation in biometric devices was first seen in the 1960s. The Federal Bureau of Investigation (FBI) in the 1960s, introduced the Indentimat, which started checking for fingerprints to maintain criminal records. The first systems measured the shape of the hand and the length of the fingers. Although discontinued in the 1980s, the system set a precedent for future Biometric Devices.
+
+Types of biometric devices
+There are two categories of biometric devices, 
+
+Contact Devices - These types of devices need contact of body part of live persons.  They are mainly fingerprint scanners, either single fingerprint, dual fingerprint or slap (4+4+2) fingerprint scanners, and hand geometry scanners.
+Contactless Devices - These devices don't need any type of contact.  The main examples of these are face, iris, retina and palm vein scanners and voice identification devices.
+
+Subgroups
+The characteristic of the human body is used to access information by the users. According to these characteristics, the sub-divided groups are
+
+Chemical biometric devices: Analyses the segments of the DNA to grant access to the users.
+Visual biometric devices: Analyses the visual features of the humans to grant access which includes iris recognition, face recognition, Finger recognition, and Retina Recognition.
+Behavioral biometric devices: Analyses the Walking Ability and Signatures (velocity of sign, width of sign, pressure of sign) distinct to every human.
+Olfactory biometric devices: Analyses the odor to distinguish between varied users.
+Auditory biometric devices: Analyses the voice to determine the identity of a speaker for accessing control.
+
+Uses
+Workplace
+Biometrics are being used to establish better and accessible records of the hour's employee's work. With the increase in "Buddy Punching" (a case where employees clocked out coworkers and fraudulently inflated their work hours) employers have looked towards new technology like fingerprint recognition to reduce such fraud. Additionally, employers are also faced with the task of proper collection of data such as entry and exit times. Biometric devices make for largely fool proof  and reliable ways of enabling to collect data as employees have to be present to enter biometric details which are unique to them.
+
+Immigration
+As the demand for air travel grows and more people travel, modern-day airports have to implement technology in such a way that there are no long queues. Biometrics are being implemented in more and more airports as they enable quick recognition of passengers and hence lead to lower volume of people standing in queues. One such example is of the Dubai International Airport which plans to make immigration counters a relic of the past as they implement IRIS on the move technology (IOM) which should help the seamless departures and arrivals of passengers at the airport.
+
+Handheld and personal devices
+Fingerprint sensors can be found on mobile devices. The fingerprint sensor is used to unlock the device and authorize actions, like money and file transfers, for example. It can be used to prevent a device from being used by an unauthorized person. It is also used in attendance in number of colleges and universities.
+
+Present day biometric devices
+Personal signature verification systems
+This is one of the most highly recognised and acceptable biometrics in corporate surroundings. This verification has been taken one step further by capturing the signature while taking into account many parameters revolving around this like the pressure applied while signing, the speed of the hand movement and the angle made between the surface and the pen used to make the signature. This system also has the ability to learn from users as signature styles vary for the same user. Hence by taking a sample of data, this system is able to increase its own accuracy.
+
+Iris recognition system
+Iris recognition involves the device scanning the pupil of the subject and then cross referencing that to data stored on the database. It is one of the most secure forms of authentication, as while fingerprints can be left behind on surfaces, iris prints are extremely hard to be stolen. Iris recognition is widely applied by organisations dealing with the masses, one being the Aadhaar identification carried out by the Government of India to keep records of its population. The reason for this is that iris recognition makes use of iris prints of humans, which hardly evolve during one's lifetime and are extremely stable.
+
+Problems with present day biometric devices
+Biometric spoofing
+Biometric spoofing is a method of fooling a biometric identification management system, where a counterfeit mold is presented in front of the biometric scanner. This counterfeit mold emulates the unique biometric attributes of an individual so as to confuse the system between the artifact and the real biological target and gain access to sensitive data/materials.
+One such high-profile case of Biometric spoofing came to the limelight when it was found that German Defence Minister, Ursula von der Leyen's fingerprint had been successfully replicated by Chaos Computer Club. The group used high quality camera lenses and shot images from 6 feet away. They used a professional finger software and mapped the contours of the Ministers thumbprint. Although progress has been made to stop spoofing. Using the principle of pulse oximetry- the liveliness of the test subject is taken into account by measure of blood oxygenation and the heart rate. This reduces attacks like the ones mentioned above, although these methods aren't commercially applicable as costs of implementation are high. This reduces their real world application and hence makes biometrics insecure until these methods are commercially viable.
+
+Accuracy
+Accuracy is a major issue with biometric recognition. Passwords are still extremely popular, because a password is static in nature, while biometric data can be subject to change (such as one's voice becoming heavier due to puberty, or an accident to the face, which could lead to improper reading of facial scan data). When testing voice recognition as a substitute to PIN-based systems, Barclays reported that their voice recognition system is 95 percent accurate. This statistic means that many of its customers' voices might still not be recognised even when correct. This uncertainty revolving around the system could lead to slower adoption of biometric devices, continuing the reliance of traditional password-based methods.
+
+Benefits of biometric devices over traditional methods of authentication
+Biometric data cannot be lent and hacking of Biometric data is complicated hence it makes it safer to use than traditional methods of authentication like passwords which can be lent and shared. Passwords do not have the ability to judge the user but rely only on the data provided by the user, which can easily be stolen while Biometrics work on the uniqueness of each individual.
+Passwords can be forgotten and recovering them can take time, whereas Biometric devices rely on biometric data which tends to be unique to a person, hence there is no risk of forgetting the authentication data. A study conducted among Yahoo! users found that at least 1.5 percent of Yahoo users forgot their passwords every month, hence this makes accessing services more lengthy for consumers as the process of recovering passwords is lengthy. These shortcomings make Biometric devices more efficient and reduces effort for the end user.
+
+Future
+Researchers are targeting the drawbacks of present-day biometric devices and developing to reduce problems like biometric spoofing and inaccurate intake of data. Technologies which are being developed are-
+
+The United States Military Academy are developing an algorithm that allows identification through the ways each individual interacts with their own computers; this algorithm considers unique traits like typing speed, rhythm of writing and common spelling mistakes. This data allows the algorithm to create a unique profile for each user by combining their multiple behavioral and stylometric information. This can be very difficult to replicate collectively.
+A recent innovation by Kenneth Okereafor and, presented an optimized and secure design of applying biometric liveness detection technique using a trait randomization approach. This novel concept potentially opens up new ways of mitigating biometric spoofing more accurately, and making impostor predictions intractable or very difficult in future biometric devices. A simulation of Kenneth Okereafor's biometric liveness detection algorithm using a 3D multi-biometric framework consisting of 15 liveness parameters from facial print, finger print and iris pattern traits resulted in a system efficiency of the 99.2% over a cardinality of 125 distinct randomization combinations. The uniqueness of Okereafor's innovation lies in the application of uncorrelated biometric trait parameters including intrinsic and involuntary biomedical properties from eye blinking pattern, pulse oxymetry, finger spectroscopy, electrocardiogram, perspiration, etc.
+A group of Japanese Researchers have created a system which uses 400 sensors in a chair to identify the contours and unique pressure points of a person. This derrière authenticator, still undergoing massive improvements and modifications, is claimed to be 98% accurate and is seen to have application in anti theft device mechanisms in cars.
+Inventor Lawrence F. Glaser has developed and patented technology which appears at first to be a high definition display. However, unlike displays with 2 dimensional pixel arrays, this technology incorporates pixel stacks, accomplishing a series of goals leading to the capture of a multi-biometric. It is believed to be the first man-made device which can capture 2 or more distinct biometrics from the same region of pixel stacks (forming a surface) at the same instant, allowing for the data to form a third biometric, which is a more complex pattern inclusive as to how the data aligns. An example would be to capture the finger print and the capillary pattern at precisely the same moment.  Other opportunities exist with this technology, such as to capture kirlean data which assures the finger was alive during an event, or capture of bone details forming another biometric used with the others previously mentioned. The concept of stacking pixels to achieve increased functionality from less surface area is combined with the ability to emit any color from a single pixel, eliminating the need for RGB (RED GREEN BLUE) surface emissions.  Lastly, the technology was tested with high power cadmium magnetics to check for distortion or other anomalies, as the inventor wanted to also embed magnetic emission and magnetic collection with this same surface technology, but without exhibiting any magnetic stripes on the surface.  Devices, such as smart cards, can pass magnetic data from any orientation by automatically sensing what the user has done, and using data about where the card is when "swiped" or inserted into a reader. This technology can detect touch or read gestures at distance, without a user side camera and with no active electronics on its surface. The use of Multibiometrics hardens automated identity acquisition by a factor of 800,000,000 and will prove to be very difficult to hack or emulate.
+
+
+== References ==

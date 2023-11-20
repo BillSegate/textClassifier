@@ -10,8 +10,8 @@ from logger import log
 userAgent = 'textClassifier (NLP project)'
 WIKI = wikipediaapi.Wikipedia(language='en', user_agent=userAgent)
 # categories
-MEDICAL_CATEGORY = 'Medicine'
-OTHER_CATEGORIES = ['Physics', 'Nuclear technology', 'Human impact on the environment']
+MEDICAL_CATEGORY = ['Pathology', 'Pediatrics', 'Neurology', 'Cardiology', 'Oncology']
+OTHER_CATEGORIES = ['Politics', 'Ecology', 'Computer security', 'Electricity', 'Trigonometry']
 
 
 # Utils function
@@ -85,8 +85,10 @@ def retrieve(category: str, isMedical: bool) -> None:
     log(f'{category} retrieved in {time.time() - startTime} seconds!')
 
 def main():
-    # first retrieve medical articles
-    retrieve(MEDICAL_CATEGORY, True)
+        # first retrieve medical categories
+    for category in MEDICAL_CATEGORY:
+        retrieve(category, True)
+        
     # then retrieve other categories
     for category in OTHER_CATEGORIES:
         retrieve(category, False)

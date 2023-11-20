@@ -1,0 +1,15 @@
+The Fabric of Security, also known as Cyber Security Fabric or Federated Security, refers to systems designed to protect the Information Systems infrastructure of the home, a corporation or government from malicious attackers. Protection in this sense means guaranteeing the confidentiality, integrity, and the availability of the information stored in the system ("SYSTEM"), and its elements or components.
+Unlike endpoint security, network security, web application security, and Internet security, Fabric of Security Systems assume that attacks will be successful, and cannot be averted. Therefore, the emphasis shifts from attempting to prevent unauthorized access to that of minimizing the time to detect the unauthorized access, the time to isolate the unauthorized access from doing harm, and finally, the time to remove the offending process and reconfiguration of the system back into a "SAFE" state.
+
+Security essentials
+Security refers to processes and systems designed to protect the assets of an individual, system and/or organization from harm. Computer Security (a.k.a. cyber security) refers to processes and systems designed to protect computer and/or information system assets from harm. In general, such assets are: (1) information/ data, (2) programs and applications, and (3) services. Protecting assets from harm means:
+Confidentiality – assets are used/access only by authorized parties (also refer to as secrecy or privacy)
+Integrity – assets can be modified only by authorized parties and only in authorize ways (“insider threat”)
+Availability – assets are available to authorize parties at time to.
+
+Lampson's Protection Model
+In 1971, Butler Lampson introduced the general model of protection of computer or information system assets. Protection systems implemented since then followed Lampson's original formulation, the Access control matrix. Fundamentally the universe is divided into two classes of entities: Objects (which need to be protected) and Subjects (which use the Objects). The Objects are also called Resources and the Subjects are also called Principals.
+A resource is an object for which a protection policy has been established. Access to Objects is restricted via a protection system, called a reference monitor, that implements the protection policies of the system. Namely the reference monitor or "Guard System" must: (1) identifies the identity of the Principal claiming access to an object - Principal is identity, (2) authentication - validates that the Principal claiming access to an object is who he/she/it claims to be, and (3) authorization - is the principal claiming access to an object authorized to access said object.
+
+
+== References ==

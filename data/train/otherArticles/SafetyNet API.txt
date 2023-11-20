@@ -1,0 +1,14 @@
+The SafetyNet API consists of several application programming interfaces (APIs) offered by the Google Play Services to support security sensitive applications, such as DRM. Currently, these APIs include device integrity verification, app verification, recaptcha and web address verification.
+
+Attestation
+The SafetyNet Attestation API, one of the APIs under the SafetyNet umbrella, provides verification that the integrity of the device is not compromised.
+In practice, non-official ROMs such as LineageOS fail the hardware attestation and thus restrict the user from enjoying a pure Android implementation (without the Google Services) while being able to use third-party apps (mainly banking).
+Due to this, some consider this a monopolistic practice deterring the entrance of competing mobile operating systems in the market. The SafetyNet Attestation API (one of the four APIs under the SafetyNet umbrella) has been deprecated. As of 6 October 2023, Google expects to fully replace it with the Play Integrity API by the end of January 2025. Like the SafetyNet APIs, the Play Integrity API is offered by Google Services and thus is not available on free Android environments (AOSP). Therefore, apps that require the API to be available may refuse to execute on AOSP builds.
+
+References
+External links
+Protect against security threats with SafetyNet
+How does Universal SafetyNet Fix work?
+SafetyNet Attestation API deprecation timeline
+Play Integrity API Documentation
+Play Integrity API Migration Guide

@@ -1,0 +1,7 @@
+Multicenter Automatic Defibrillator Implantation Trial and MADIT II  are implantable cardioverter defibrillator (or ICD) trials which investigate whether prophylactic ICD therapy in moderately high-risk coronary patients (in addition to conventional therapy) would significantly reduce death compared with patients treated with conventional therapy alone.
+The MADIT II trial started in 1997 and ended in 2001 where the safety committee stopped the study because the benefits were already statistically significant.
+The study included patients with a prior myocardial infarction and an ejection fraction less than or equal to 30%.
+The results were a reduction in mortality of 31% compared to patients receiving conventional therapy alone.
+
+
+== References ==

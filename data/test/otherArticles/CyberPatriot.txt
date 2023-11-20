@@ -1,0 +1,61 @@
+CyberPatriot is a national youth cyber education program created in the United States to help direct students toward careers in cybersecurity or another computer, science, technology, engineering, and mathematics disciplines. The program was created by the Air Force Association (AFA).  It features the annual National Youth Cyber Defense Competition for high school and middle school students. It is similar to its collegiate counterpart, the Collegiate Cyber Defense Competition (CCDC), especially at the CyberPatriot National Finals Competition.
+The National Youth Cyber Defense Competition is now in its fifteenth season and is called "CyberPatriot XV" indicating the season's competition.  CyberPatriot XV is open to all high schools, middle schools, and accredited home school programs around the country. JROTC units of all Services, Civil Air Patrol squadrons, and Naval Sea Cadet Corps divisions may also participate in the competition.  Outside of the regular competition, CyberPatriot also hosts two additional sub-programs: Summer CyberCamps and an Elementary School Cyber Education Initiative. The Northrop Grumman Foundation is the "presenting sponsor".  A British spin off program is called Cyber Centurion.
+
+History
+CyberPatriot began in 2009 as a proof-of-concept demonstration at AFA's Air Warfare Symposium in Orlando, Florida. Four organizations were responsible for developing the competition: the Air Force Association, the U.S. Air Force, the defense contractor SAIC, and the Center for Infrastructure Assurance and Security (CIAS) at The University of Texas at San Antonio (UTSA).  Eight high school teams, from AFJROTC and Civil Air Patrol squadrons, competed.  The second phase of the program was limited to Air Force AFJROTC and Civil Air Patrol teams. Online training and qualification competitions were held during the fall of 2009 with nearly 200 teams from 44 states competing for eight slots in the first in-person National Finals Competition in February 2010, held in Orlando, Florida. The final phase of the developmental program, full national deployment, is now underway. Over 1,500 teams from all 50 states, Canada, and DoD Dependent schools overseas competed in CyberPatriot VI. CyberPatriot VII began in October 2014, with over 2,100 teams registered to compete. The Middle School Division was added in CyberPatriot V. CyberPatriot IX, which started in October 2016, featuring over 4,300 registered teams. The previous national commissioner who has served in that position since 2008, General Bernie Skoch, has retired in June 2021, and has been replaced by Acting National Commissioner Rachel Zimmerman, who has served in other leadership roles prior to her term as commissioner.
+
+Goals and objectives
+CyberPatriot is designed to be accessible to any high school or middle school student, provides a path from high school to college/workforce, and benefits all national CyberPatriot partners. The program increases the awareness of cybersecurity by delivering a basic education in a competitive format that enhances leadership, communication, and cooperation skills among its competitors.
+
+Organization and preparation
+Teams have the following members:
+
+Coach: Supervises, chaperones team. Usually a teacher. Does not need to have a technical background.
+Competitors: 2-6 students (5 competitors, 1 alternate)
+Technical Mentor (Optional):  Particularly useful when coach is not cyber-savvy. Helps teach cyber concepts.
+Team Assistant (Optional): Assistants Coach with daily administrative tasks related to the competitionEach team is required to have a registered Coach and registered Competitors. Coach registration begins in the late spring to allow preparation over the summer. The qualification rounds of the competition are completed online at the teams’ home locations from September to early January.
+
+Competition guidelines
+The competition is a tournament structure with three divisions:
+
+Open High School Division:  Open to all public, private, parochial, magnet, charter, home schools, and special groups such as CampFire, Boys & Girls Club, Boy Scouts, Church Youth Groups, Girl Scouts, etc.
+All-Service Division: Open to all JROTC Services, Civil Air Patrol squadrons, US Naval Sea Cadet Corps units. The registration fee is waived for teams competing in the All-Service Division
+Middle School Division: Open to all middle schools and junior high schools which follow the same common organizations as mentioned above in the Open High School Division.The early rounds of the competition are done online during weekends via the Internet from teams’ schools or other sponsoring organizations’ facilities. Prior to the round, teams download virtual image representations of operating systems with known flaws, or cybersecurity vulnerabilities. Each team is tasked to find the flaws while keeping specified computer functions (services such as email) working. Team progress is recorded by a central CyberPatriot scoring system.
+The scores from Qualification Rounds 1 and 2 are totaled to determine which tier a team advances to:
+
+Platinum: Top 30% of teams. Rounds include State (guaranteed), Semifinals, and National Finals
+Gold: Middle 40% of teams. Rounds include State (guaranteed) and Semifinals.
+Silver: Bottom 30% of teams. Rounds include State (guaranteed) and Semifinals.In CyberPatriot XIII, there are only 3 rounds total and round 1 will be held later than in CyberPatriot XII due to COVID-19 in order to give coaches more time to recruit (according to AFA email announcements), Round 3 determining the National Finalists teams.
+Teams in the Platinum tier are the only teams eligible to qualify for National Finals.
+See additional rules below:
+
+The Qualification Competition begins as soon as this image is opened, and ends 6 consecutive hours later, after which the score will be logged. Attempting to continue after the time limit has reached will incur penalties. It is the coach's responsibility to ensure their team does not exceed the limit.
+Only one instance of the image can be open at any given time. Opening multiple instance of a virtual image will result in a penalty.
+No person may compete on a team with which they are not registered, and may only be registered with one team per competition.
+During the competition, no outside assistance may be given to or received from anyone.
+No competitor may offer assistance to another after their round ends and the others begins.
+No outside communication is allowed during the competition. This includes but is not limited to verbal, electronic, written or coded.
+No offensive activity of any kind is permitted, including but not limited to hacking through programs or manual code injection, interfering with another team through social engineering and/or deception, or attaining the opposing machine.
+
+National Finals Competition
+The top-scoring Semifinal teams from each division, approximately 28 teams, are invited (all expenses paid) to the in-person National Finals Competition each spring.  For CyberPatriot IV-VII, National Finals Competitions were held at the Gaylord National Hotel and Convention Center in National Harbor, Maryland in March. From the CyberPatriot VIII season through the CyberPatriot XI season, the National Finals Competitions moved to the Hyatt Regency Baltimore Inner Harbor in Baltimore, Maryland, and were held in April of each year. Beginning in the CyberPatriot XII season, the National Finals Competition is planned to be held at the Bethesda North Marriott Hotel & Conference Center in Bethesda, Maryland outside of Washington, D.C., in March. However, the CyberPatriot XII In-Person National Finals Competition, which was the first planned year at the Bethesda North Marriott, was canceled due to the COVID-19 outbreak and a virtual, in-home competition was held online in May, about two months after the originally scheduled in-person competition event. The CP-XII Virtual National Finals was held on May 2, 2020, and marked the first-ever online virtual CyberPatriot National Finals Competition. Due to the widespread outbreak of COVID-19, the CyberPatriot XIII season has modifications to accommodate the delay in team administration as well as provisions for additional procedures for competing at home. Because the spread of COVID-19 in the US continued, some schools had restrictions on in-person activities, which was accounted for by arrangements for optionally staying home to compete as well as an organization type for registration.
+The Challenges that teams may face include:
+
+Network Security Master Challenge, in which teams fix vulnerabilities in "images" of Operating Systems that have been purposely tampered with while protecting the "images" from "Red Team" which is a group of "hackers" that will exploit vulnerabilities on the competitor's machines.
+Leidos Digital Forensics Challenge, in which teams solve mysteries with computer programs.
+Digital Crime Scene Challenge, in which teams search a live "crime scene" for digital evidence.
+Cisco Networking Challenge, in which teams show their knowledge about Wiring, Cisco's Packet Tracer, and in a Cisco quiz.Winning teams in the Open and All Service Division earn education grants to the school of their choice. First place teams earn $2,000 per competitor, second place teams earn $1,500 per competitor, and third place earns $1,000 per competitor. The scholarship money is provided by the Northrop Grumman Foundation. In CyberPatriot VII, for first, second, and third place, an additional $2,000, $1,500, and $1,000 were awarded to the teams, respectively, by the National Security Agency.
+
+CyberPatriot Winners
+External Links From 2013
+"CyberPatriot: The National High School Cyber Defense Competition". Uscyberpatriot.org. 2013. Archived from the original on 2013-11-23. Retrieved 2013-11-19.
+"CyberPatriot VI : Competition Rules" (PDF). Uscyberpatriot.org. 2013. Archived from the original (PDF) on 2013-12-12. Retrieved 2013-12-09.
+"FAQ : What is CyberPatriot". Uscyberpatriot.org. 2013. Archived from the original on 2014-02-26. Retrieved 2013-11-19.
+
+See also
+List of computer science awards
+
+References
+External links
+uscyberpatriot.org
+afa.org

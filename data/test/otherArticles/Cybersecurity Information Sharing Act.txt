@@ -1,0 +1,47 @@
+The Cybersecurity Information Sharing Act (CISA S. 2588 113th Congress, S. 754 114th Congress) is a United States federal law designed to "improve cybersecurity in the United States through enhanced sharing of information about cybersecurity threats, and for other purposes". The law allows the sharing of Internet traffic information between the U.S. government and technology and manufacturing companies. The bill was introduced in the U.S. Senate on July 10, 2014, and passed in the Senate on October 27, 2015.  Opponents question CISA's value, believing it will move responsibility from private businesses to the government, thereby increasing vulnerability of personal private information, as well as dispersing personal private information across seven government agencies, including the NSA and local police.
+The text of the bill was incorporated by amendment into a consolidated spending bill in the U.S. House on December 15, 2015, which was signed into law by President Barack Obama on December 18, 2015.
+
+History
+The Cybersecurity Information Sharing Act was introduced on July 10, 2014, during the 113th Congress, and passed the Senate Intelligence Committee by a vote of 12–3. The bill did not reach a full senate vote before the end of the congressional session.
+The bill was reintroduced for the 114th Congress on March 12, 2015, and the bill passed the Senate Intelligence Committee by a vote of 14–1. Senate Majority Leader Mitch McConnell (R-KY) attempted to attach the bill as an amendment to the annual National Defense Authorization Act, but was blocked 56–40, not reaching the necessary 60 votes to include the amendment. Mitch McConnell hoped to bring the bill to senate-wide vote during the week of August 3–7, but was unable to take up the bill before the summer recess. The Senate tentatively agreed to limit debate to 21 particular amendments and a manager's amendment, but did not set time limits on debate. In October 2015, the US Senate took the bill back up following legislation concerning sanctuary cities.
+
+Provisions
+The main provisions of the bill make it easier for companies to share personal information with the government, especially in cases of cyber security threats. Without requiring such information sharing, the bill creates a system for federal agencies to receive threat information from private companies.With respect to privacy, the bill includes provisions for preventing the sharing of personal data that is irrelevant to cyber security. Any personal information that does not get removed during the sharing procedure can be used in a variety of ways. These shared cyber threat indicators can be used to prosecute cyber crimes, but may also be used as evidence for crimes involving physical force.
+
+Positions
+Indemnification
+Sharing National Intelligence threat data among public and private partners is a hard problem, and one that many care about. The National Intelligence Threat Sharing (NITS) project is intended as an innovative solution to this hard problem. Altogether NITS is both innovative and useful. But first, to ensure that NITS is trustworthy, private partners must be indemnified. Indemnification takes an act of Congress, literally.
+The underlying impediment to more fulsome cooperation among buyers, sellers, and peers within a supply chain is indemnification. Indemnification is needed to secure industry partners against legal responsibility for their actions. Unfortunately, congressional refusal to offer indemnification remains an impediment to real collaboration. At least qualified immunity should be accorded. This is immunity of individuals performing tasks as part of the government's actions.
+
+Businesses and trade groups
+The CISA has received some support from advocacy groups, including the United States Chamber of Commerce, the National Cable & Telecommunications Association, and the Financial Services Roundtable.A number of business groups have also opposed the bill, including the Computer & Communications Industry Association, as well as individual companies such as Twitter, Yelp, Apple, and Reddit.BSA (The Software Alliance) appeared initially supportive of CISA, sending a letter on July 21, 2015, urging the senate to bring the bill up for debate. On September 14, 2015, the BSA published a letter of support for amongst other things cyber threat information sharing legislation addressed to Congress, signed by board members Adobe, Apple Inc., Altium, Autodesk, CA Technologies, DataStax, IBM, Microsoft, Minitab, Oracle, Salesforce.com, Siemens, and Symantec. This prompted the digital rights advocacy group Fight for the Future to organize a protest against CISA. Following this opposition campaign, BSA stated that its letter expressed support for cyber threat sharing legislation in general, but did not endorse CISA, or any pending cyber threat sharing bill in particular. BSA later stated that it is opposed to CISA in its current form. The Computer & Communications Industry Association, another major trade group including members such as Google, Amazon.com, Cloudflare, Netflix, Facebook, Red Hat, and Yahoo!, also announced its opposition to the bill.
+
+Government officials
+Proponents of CISA include the bill's main cosponsors, senators Dianne Feinstein (D-CA) and Richard Burr (R-NC).Some senators have announced opposition to CISA, including Ron Wyden (D-OR), Rand Paul (R-KY), and Bernie Sanders (I-VT).Senator Ron Wyden (D-OR) has objected to the bill based on a classified legal opinion from the Justice Department written during the early George W Bush administration. The Obama administration states that it does not rely on the legal justification laid out in the memo. Wyden has made repeated requests to the US Attorney General to declassify the memo, dating at least as far back as when a 2010 Office of Inspector General report cited the memo as a legal justification for the FBI's warrantless wire-tapping program.On August 4, 2015, White House spokesman Eric Schultz endorsed the legislation, calling for the senate to "take up this bill as soon as possible and pass it".The United States Department of Homeland Security initially supported the bill, with Jeh Johnson, the secretary of the DHS, calling for the bill to move forward on September 15. However, in an August 3 letter to senator Al Franken (D-MN), the deputy secretary of the DHS, Alejandro Mayorkas, expressed a desire to have all connections be brokered by the DHS, given the department's charter to protect the executive branch networks. In the letter, the DHS found issue with the direct sharing of information with all government agencies, advocating instead that the DHS be the sole recipient of cyberthreat information, allowing it to scrub out private information. In addition, the Department of Homeland Security has published a Privacy Impact Assessment detailing its internal review of the proposed system for handling incoming indicators from Industry.
+
+Civil liberties groups
+Privacy advocates opposed a version of the Cybersecurity Information Sharing Act, passed by the Senate in October 2015, that left intact portions of the law they said made it more amenable to surveillance than actual security while quietly stripping out several of its remaining privacy protections.
+CISA has been criticized by advocates of Internet privacy and civil liberties, such as the Electronic Frontier Foundation and the American Civil Liberties Union. It has been compared to the criticized Cyber Intelligence Sharing and Protection Act proposals of 2012 and 2013, which passed the United States House of Representatives, but did not pass the Senate.
+
+Similar laws in different countries
+United Kingdom government policy: cyber security
+The Scottish Government Information Sharing
+
+See also
+Anti-Counterfeiting Trade Agreement
+Chinese intelligence operations in the United States
+Communications Assistance for Law Enforcement Act
+Federal Information Security Management Act of 2002
+Freedom of information laws by country
+Intellectual Property Attache Act
+National Security Agency
+Vulnerabilities Equities Process
+
+References
+External links
+S.2588 - Cybersecurity Information Sharing Act of 2014, Congress.gov, Library of Congress.
+"Cybersecurity Information Sharing Act will help protect us", Dianne Feinstein, San Jose Mercury News, July 21, 2014.
+Forbes: Controversial Cybersecurity Bill Known As CISA Advances Out Of Senate Committee,  Gregory S. McNeal, July 9, 2014.
+Center for Democracy and Technology: Analysis of Cybersecurity Information Sharing Act, Gregory T. Nojeim and Jake Laperruque, July 8, 2014.
+- CISA Security Bill Passes Senate With Privacy Flaws Unfixed  ANDY GREENBERG AND YAEL GRAUER Oct 27, 2015
+[1] 2010 to 2015 government policy: cyber security

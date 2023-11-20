@@ -1,8 +1,0 @@
-A consensual response is any reflex observed on one side of the body when the other side has been stimulated.
-For example, if an individual's right eye is shielded from light, while light shines into the left eye, constriction of the right pupil will still occur (the consensual response), along with the left (the direct response). This is because the afferent signal sent through one optic nerve connects to the Edinger-Westphal nucleus, whose axons run to both the right and the left oculomotor nerves.
-
-See also
-Pupillary light reflex - Clinical significance section.
-
-
-== References ==

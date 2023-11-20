@@ -1,0 +1,17 @@
+BlueHat (or Blue Hat or Blue-Hat) is a term used to refer to outside computer security consulting firms that are employed to bug test a system prior to its launch, looking for exploits so they can be closed. In particular, Microsoft uses the term to refer to the computer security professionals they invited to find the vulnerability of their products, such as Windows.
+
+Blue Hat Microsoft Hacker Conference
+The Blue Hat Microsoft Hacker Conference is an  invitation-only conference created by Window Snyder that is intended to open communication between Microsoft engineers and hackers. The event has led to both mutual understanding and the occasional confrontation. Microsoft's developers were visibly uncomfortable when Metasploit was demonstrated.
+
+See also
+Hacker culture
+Hacker ethic
+Black hat hacker
+
+References
+External links
+Microsoft's BlueHat Security Briefings
+BlueHat Security Briefings Blog
+BlueHat Security 
+Homeland Security Consultants
+FedRAMP Archived 2012-10-06 at the Wayback Machine

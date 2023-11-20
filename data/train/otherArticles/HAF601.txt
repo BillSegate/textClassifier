@@ -1,9 +1,0 @@
-The HAF601 is a regulation in the People's Republic of China dealing with the manufacture of safety class equipment for the Chinese nuclear power market. All domestic Chinese firms manufacturing mechanical equipment of Safety Class 1, 2, or 3, or electrical equipment of safety Class 1E, must obtain HAF601 registration before supplying such equipment to a Chinese nuclear power plant. This regulation also applies to international (i.e. non-Chinese) firms producing equipment from a factory within China. For equipment manufactured outside of China and imported into the country, a HAF 604 certificate is required instead. HAF stands for "he anquan fagui" (核安全法) and means "nuclear safety laws" in Chinese. The HAF system has been applied in the Chinese nuclear industry since 2007, and has gradually replaced use of the ASME Stamp system.
-The HAF601 is governed and administered by the Chinese nuclear safety regulatory authority, the National Nuclear Safety Administration (NNSA). This should not be confused with the United States' National Nuclear Security Administration, which shares the same acronym.
-
-See also
-National Nuclear Safety Administration
-ASME
-
-
-== References ==

@@ -1,0 +1,212 @@
+Limiting similarity (informally "limsim") is a concept in theoretical ecology and community ecology that proposes the existence of a maximum level of niche overlap between two given species that will allow continued coexistence.
+This concept is a corollary of the competitive exclusion principle, which states that, controlling for all else, two species competing for exactly the same resources cannot stably coexist. It assumes normally-distributed resource utilization curves ordered linearly along a resource axis, and as such, it is often considered to be an oversimplified model of species interactions. Moreover, it has theoretical weakness, and it is poor at generating real-world predictions or falsifiable hypotheses. Thus, the concept has fallen somewhat out of favor except in didactic settings (where it is commonly referenced), and has largely been replaced by more complex and inclusive theories.
+
+History
+In 1932, Georgii Gause created the competitive exclusion principle based on experiments with cultures of yeast and paramecium.  The principle maintains that two species with the same ecological niches cannot stably coexist. That is to say, when two species compete for identical resource access, one will be competitively superior and it will ultimately supplant the other. Over the next half century, limiting similarity slowly emerged as a natural outgrowth of this principle, aiming (but not necessarily succeeding) to be more quantitative and specific.
+Noted ecologist and evolutionary biologist David Lack said retrospectively that he had already begun to mull around with the ideas of limiting similarity as early as the 1940s, but it wasn't until the end of the 1950s that the theory began to be built up and articulated. G. Evelyn Hutchinson's famous "Homage to Santa Rosalia" was the next foundational paper in the history of the theory. Its subtitle famously asks, "Why are there so many kinds of animals?", and the address attempts to answer this question by suggesting theoretical bounds to speciation and niche overlap. For the purposes of understanding limiting similarity, the key portion of Hutchinson's address is the end where he presents the observation that a seemingly ubiquitous ratio (1.3:1) defines the upper bound of morphological character similarity between closely related species. While this so-called Hutchinson ratio and the idea of a universal limit have been overturned by later research, the address was still foundational to the theory of limiting similarity.
+MacArthur and Levins were the first to introduce the term 'limiting similarity' in their 1967 paper. They attempted to lay out a rigorous quantitative basis for the theory using probability theory and the Lotka–Volterra competition equations. In doing so, they provided the ultimate theoretical framework on which many subsequent studies were based.
+
+Theory
+As proposed by MacArthur and Levins in 1967, the theory of limiting similarity is rooted in the Lotka–Volterra competition model. This model describes two or more populations with logistic dynamics, adding in an additional term to account for their biological interactions. Thus for two populations, x1 and x2:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      d
+                      
+                        x
+                        
+                          1
+                        
+                      
+                    
+                    
+                      d
+                      t
+                    
+                  
+                
+              
+              
+                
+                =
+                
+                  r
+                  
+                    1
+                  
+                
+                
+                  x
+                  
+                    1
+                  
+                
+                
+                  (
+                  
+                    
+                      
+                        
+                          K
+                          
+                            1
+                          
+                        
+                        −
+                        
+                          x
+                          
+                            1
+                          
+                        
+                        −
+                        
+                          α
+                          
+                            12
+                          
+                        
+                        
+                          x
+                          
+                            2
+                          
+                        
+                      
+                      
+                        K
+                        
+                          1
+                        
+                      
+                    
+                  
+                  )
+                
+                ,
+              
+            
+            
+              
+                
+                  
+                    
+                      d
+                      
+                        x
+                        
+                          2
+                        
+                      
+                    
+                    
+                      d
+                      t
+                    
+                  
+                
+              
+              
+                
+                =
+                
+                  r
+                  
+                    2
+                  
+                
+                
+                  x
+                  
+                    2
+                  
+                
+                
+                  (
+                  
+                    
+                      
+                        
+                          K
+                          
+                            2
+                          
+                        
+                        −
+                        
+                          x
+                          
+                            2
+                          
+                        
+                        −
+                        
+                          α
+                          
+                            21
+                          
+                        
+                        
+                          x
+                          
+                            1
+                          
+                        
+                      
+                      
+                        K
+                        
+                          2
+                        
+                      
+                    
+                  
+                  )
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{dx_{1} \over dt}&=r_{1}x_{1}\left({K_{1}-x_{1}-\alpha _{12}x_{2} \over K_{1}}\right),\\[6pt]{dx_{2} \over dt}&=r_{2}x_{2}\left({K_{2}-x_{2}-\alpha _{21}x_{1} \over K_{2}}\right).\end{aligned}}}
+  where
+
+α12 represents the effect species 2 has on the population of species 1
+α21 represents the effect species 1 has on the population of species 2
+dy/dt and dx/dt represent the growth of the two populations with time;
+K1 and K2 represent these species’ respective carrying capacities
+r1 and r2 represent these species’ respective growth ratesMacArthur and Levins examine this system applied to three populations, also visualized as resource utilization curves, depicted below. In this model, at some upper limit of competition α, between two species x1 and x3, the survival of a third species x2 between the other two is not possible. This phenomenon is termed limiting similarity.  Evolutionary, if two species are more similar than some limit L, a third species will converge towards the nearer of the two competitors. If the two species are less similar than some limit L, a third species will evolve an intermediate phenotype.
+
+[embedded graph: U v R. x1, x2, x3 curves.]
+For each resource R, U represents the probability of utilization per unit time by an individual. At some level of overlap between species x1 and x3, the survival of a third species x2 is no longer possible.
+
+May extended this theory when considering species with different carrying capacities, concluding that coexistence was unlikely if the distance between the modes of competing resource utilization curves d was less than the standard deviation of the curves w.
+
+Applied examples
+It is of note that the theory of limiting similarity does not easily generate falsifiable predictions about natural phenomenon. However, many studies have tried to test the theory by making the highly suspect assumption that character displacement can be used as a close proxy for niche incongruence. One recent paleoecological study, for example, used fossil proxies of gastropod body size to determine levels of character displacement over 42,500 years during the Quaternary. They found little evidence of character displacement, and they concluded that "limiting similarity, as seen in both ecological character displacement and community-wide character displacement, is a transient ecological phenomenon rather than a long-term evolutionary process". Other theoretical and empirical studies tend to find results that similarly play down the strength and role of limiting similarity in ecology and evolution. For example, Abrams (who is prolific on the subject of limiting similarity) and Rueffler find in 2009 that "there is no absolute limit to similarity; there is always some range of mortality rates of one species allowing coexistence, given a fixed mortality of the other species".What a lot of studies examining limiting similarity find are the weaknesses in the original theory that are addressed below.
+
+Criticism
+The key weakness of the theory of limiting similarity is that it is highly system specific and thus difficult to test in practice. In actual environments, one resource axis is inadequate and a specific analysis must be done for each given pair of species. In practice it is necessary to take into account:
+
+individual variations in resource utilization curves within a species and how these should be weighted in calculating a common curve
+whether the resource in question is a present in a deterministic or stochastic distribution and if this changes over time
+effects of intraspecific competition vs interspecific competitionWhile these complications don't invalidate the concept, they render limiting similarity exceedingly difficult to test in practice and useful for little more than didacticism.  
+Furthermore, Hubbell and Foster point out that extinction via competition can take an extremely long time and the importance of limiting similarity in extinction may even be superseded by speciation. Also, from a theoretical standpoint, small changes in carrying capacities can allow for nearly completely overlapping resource utilization curves and in practice carrying capacity can be difficult to determine. Many studies that attempt to explore limiting similarity (including Huntley et al. 2007) resort to examining character displacement as a proxy for niche overlap, which is suspect at best. While a useful-if simple-model, limiting similarity is nearly untestable in reality.
+
+See also
+Competitive exclusion principle
+Competitive Lotka–Volterra equations
+Lotka–Volterra equation
+
+
+== References ==

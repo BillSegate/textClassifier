@@ -1,0 +1,10 @@
+Security and Privacy in Computer Systems is a paper by Willis Ware that was first presented to the public at the 1967 Spring Joint Computer Conference.
+
+Significance
+Ware's presentation was the first public conference session about information security and privacy in respect of computer systems, especially networked or remotely-accessed ones.The IEEE Annals of the History of Computing said that Ware's 1967 Spring Joint Computer Conference session, together with 1970's Ware report, marked the start of the field of computer security.
+
+External links
+Official website
+
+
+== References ==

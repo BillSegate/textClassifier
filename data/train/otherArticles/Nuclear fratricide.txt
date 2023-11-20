@@ -1,8 +1,0 @@
-In relation to nuclear warfare, nuclear fratricide denotes the inadvertent destruction of nuclear warheads or their delivery systems by detonations from other warheads in the same attack. The blast, EMP and debris cloud may knock them off course, cause damage or destroy them.
-
-Theory
-Estimating fratricidal effects is complex. One source states that "It appears that two weapons targeted on a silo must arrive at least ten seconds apart to avoid fratricidal fireball effects, and less than one minute or more than one hour apart to avoid fratricidal nuclear dust cloud effects." Hence "deconflicting" attack patterns and using staggered "walking barrages" became part of U.S. and Soviet nuclear tactics.This theory was put forward as a defense mechanism for the LGM-118 Peacekeeper missile deployment, reasoning that multiple detonations would be required to knock out an entire battery of missiles if sufficiently protected. This strategy was ultimately rejected though, as launches can be staggered through time to ensure warheads reach their target with enough delay between them to prevent the phenomenon.
-This method of using staggered launch was described by a missile combat crew, whose members revealed that on receiving a launch command "Some [missiles] fly immediately, some with a delay to prevent nuclear fratricide when the bombs approach their targets in 20 to 30 minutes.".
-
-
-== References ==

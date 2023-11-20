@@ -1,0 +1,71 @@
+In information security, risk factor is a collective name for circumstances affecting the likelihood or impact of a security risk.
+
+Definitions
+FAIR
+Factor Analysis of Information Risk (FAIR) is devoted to the analysis of different factors influencing IT risk. It decompose at various levels, starting from the first level Loss Event Frequency and Probable Loss Magnitude, going on examining the asset, the threat agent capability compared to the vulnerability (computing) and the security control (also called countermeasure) strength, the probability that the agent get in contact and actually act against the asset, the organization capability to react to the event and the impact on stakeholders.
+
+ISACA
+Risk factors are those factors that influence the frequency and/or business impact of risk scenarios; they can be of different natures, and can be classified in two major categories:
+Environmental, further subdivided in:
+Internal environmental factors are, to a large extent, under the control of the enterprise, although they may not always be easy to change.
+External environmental factors are, to a large extent, outside the control of the enterprise.
+Capability of the organization, further subdivided in:
+IT risk management capabilities—To what extent is the enterprise mature in performing the risk management processes defined in the Risk IT framework
+IT capabilities—How good is the enterprise at performing the IT processes defined in COBIT
+IT-related business capabilities (or value management)—How closely do the enterprise's value management activities align with those expressed in the Val IT processes
+
+Risk scenario
+An IT risk risk scenario is a description of an IT related event that can lead to a business impact, when and if it should occur.
+Risk factors can also be interpreted as causal factors of the scenario that is materialising, or as vulnerabilities or weaknesses. These are terms often used in risk management frameworks.Risk scenario is characterized by:
+A threat actor that can be:
+Internal to the organization (employee, contractor)
+External to the organization (competitor, business partner, regulator, act of god)
+A threat type:
+Malicious,
+Accidental
+Failure
+Natural
+Event
+Disclosure
+Modification
+Theft
+Destruction
+Bad design
+Ineffective execution
+Inappropriate use
+Asset or resource
+People and organization
+Process
+Infrastructure or facilities
+IT infrastructure
+Information
+Application
+Time
+Duration
+Timing of occurrence (critical or not)
+Timing to detect
+Timing to reactThe risk scenario structure differentiates between loss events (events generating the negative impact), vulnerabilities or vulnerability events (events contributing to the magnitude or frequency of loss events occurring), and threat events (circumstances or events that can trigger loss events). It is important not to confuse these risks or throw them into one large risk list.
+
+See also
+Asset
+Attack (computing)
+Countermeasure (computer)
+Computer security
+Computer insecurity
+Information Security
+Information security management
+ISACA
+Information security management system
+ISO/IEC 27001
+IT risk
+Risk
+Risk Management
+The Open Group
+Threat (computer)
+Security control
+Security risk
+Security service (telecommunication)
+Vulnerability (computing)
+
+
+== References ==

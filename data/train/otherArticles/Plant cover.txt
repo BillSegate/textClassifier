@@ -1,0 +1,70 @@
+The abundances of plant species are often measured by plant cover, which is the relative area covered by different plant species in a small plot. Plant cover is not biased by the size and distributions of individuals, and is an important and often measured characteristic of the composition of plant communities.
+
+Usage
+Plant cover data may be used to classify the studied plant community into a vegetation type, to test different ecological hypothesis on plant abundance, and in gradient studies, where the effects of different environmental gradients on the abundance of specific plant species are studied .
+
+Measurement
+The most common way to measure plant cover in herbal plant communities, is to make a visual assessment of the relative area covered by the different species in a small plot (see quadrat). The visually assessed cover of a plant species is then recorded as a continuous variable between 0 and 1, or divided into interval classes as an ordinal variable. An alternative methodology, called the pin-point method (or point-intercept method), has also been widely employed.
+In a pin-point analysis, a frame with a fixed grid pattern is placed randomly above the vegetation, and a thin pin is inserted vertically through one of the grid points into the vegetation. The different species touched by the pin are recorded at each insertion. The cover of plant species k in a
+plot, 
+  
+    
+      
+        
+          c
+          
+            k
+          
+        
+      
+    
+    {\displaystyle c_{k}}
+  , is now assumed to be proportional to the number of “hits” by the pin,
+
+  
+    
+      
+        
+          c
+          
+            k
+          
+        
+        =
+        
+          
+            
+              y
+              
+                k
+              
+            
+            n
+          
+        
+      
+    
+    {\displaystyle c_{k}={\frac {y_{k}}{n}}}
+  ,
+where 
+  
+    
+      
+        
+          y
+          
+            k
+          
+        
+      
+    
+    {\displaystyle y_{k}}
+   is the number of pins that hit species k out of a total of n pins. Since a single pin in multi-species plant communities often will hit more than a single species, the sum of the plant cover of the different species may be larger than unity when estimated by the pin-point method. The sum of the estimated plant cover is expected to increase with the number of plant species in a plot and with increasing 3-dimensional structuring of the plants in the community. Plant cover data obtained by the pin-point method may be modelled by a generalised binomial distribution (or Pólya–Eggenberger distribution).
+
+See also
+Cover crop
+Tree cover
+
+References
+External links
+PIN-POINT 1.0 is a Mathematica notebook for estimating plant cover from pin-point data using a generalised binomial distribution.

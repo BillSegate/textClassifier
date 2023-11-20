@@ -1,0 +1,59 @@
+Intel Software Guard Extensions (SGX) is a set of instruction codes implementing trusted execution environment that are built into some Intel central processing units (CPUs). They allow user-level and operating system code to define protected private regions of memory, called enclaves. SGX is designed to be useful for implementing secure remote computation, secure web browsing, and digital rights management (DRM). Other applications include concealment of proprietary algorithms and of encryption keys.SGX involves encryption by the CPU of a portion of memory (the enclave). Data and code originating in the enclave are decrypted on the fly within the CPU, protecting them from being examined or read by other code, including code running at higher privilege levels such the operating system and any underlying hypervisors. While this can mitigate many kinds of attacks, it does not protect against side-channel attacks.A pivot by Intel in 2021 resulted in the deprecation of SGX from the 11th and 12th generation Intel Core Processors, but development continues on Intel Xeon for cloud and enterprise use.
+
+Details
+SGX was first introduced in 2015 with the sixth generation Intel Core microprocessors based on the Skylake microarchitecture.
+Support for SGX in the CPU is indicated in CPUID "Structured Extended feature Leaf", EBX bit 02, but its availability to applications requires BIOS/UEFI support and opt-in enabling which is not reflected in CPUID bits. This complicates the feature detection logic for applications.Emulation of SGX was added to an experimental version of the QEMU system emulator in 2014. In 2015, researchers at the Georgia Institute of Technology released an open-source simulator named "OpenSGX".One example of SGX used in security was a demo application from wolfSSL using it for cryptography algorithms.
+Intel Goldmont Plus (Gemini Lake) microarchitecture also contains support for Intel SGX.Both in the 11th and 12th generations of Intel Core processors, SGX is listed as "Deprecated" and thereby not supported on "client platform" processors.
+ This removed support of playing Ultra HD Blu-ray discs on officially licensed software, such as PowerDVD.
+
+List of SGX vulnerabilities
+Prime+Probe attack
+On 27 March 2017 researchers at Austria's Graz University of Technology developed a proof-of-concept that can grab RSA keys from SGX enclaves running on the same system within five minutes by using certain CPU instructions in lieu of a fine-grained timer to exploit cache DRAM side-channels.  One countermeasure for this type of attack was presented and published by Daniel Gruss et al. at the USENIX Security Symposium in 2017. Among other published countermeasures, one countermeasure to this type of attack was published on September 28, 2017, a compiler-based tool, DR.SGX, that claims to have superior performance with the elimination of the implementation complexity of other proposed solutions.
+
+Spectre-like attack
+The LSDS group at Imperial College London showed a proof of concept that the Spectre speculative execution security vulnerability can be adapted to attack the secure enclave.  The Foreshadow attack, disclosed in August 2018, combines speculative execution and buffer overflow to bypass the SGX. A security advisory and mitigation for this attack, also called an L1 Terminal Fault, was originally issued on August 14, 2018 and updated May 11, 2021.
+
+Enclave attack
+On 8 February 2019, researchers at Austria's Graz University of Technology published findings, which showed that in some cases it is possible to run malicious code from within the enclave itself. The exploit involves scanning through process memory, in order to reconstruct a payload, which can then run code on the system. The paper claims that due to the confidential and protected nature of the enclave, it is impossible for antivirus software to detect and remove malware residing within it. However, since modern anti-malware and antivirus solutions monitor system calls, and the interaction of the application with the operating system, it should be possible to identify malicious enclaves by their behavior, and this issue is unlikely to be a concern for state-of-the-art antiviruses. Intel issued a statement, stating that this attack was outside the threat model of SGX, that they cannot guarantee that code run by the user comes from trusted sources, and urged consumers to only run trusted code.
+
+MicroScope replay attack
+There is a proliferation of side-channel attacks plaguing modern computer architectures. Many of these attacks measure slight, nondeterministic variations in the execution of code, so the attacker needs many, possibly tens of thousands, of measurements to learn secrets. However, the MicroScope attack allows a malicious OS to replay code an arbitrary number of times regardless of the programs actual structure, enabling dozens of side-channel attacks. In July 2022, Intel submitted a Linux patch called AEX-Notify to allow the SGX enclave programmer to write a handler for these types of events.
+
+Plundervolt
+Security researchers were able to inject timing specific faults into execution within the enclave, resulting in leakage of information. The attack can be executed remotely, but requires
+access to the privileged control of the processor's voltage and frequency. A security advisory and mitigation for this attack was originally issued on August 14, 2018 and updated on March 20, 2020.
+
+LVI
+Load Value Injection injects data into a program aiming to replace the value loaded from memory which is then used for a short time before the mistake is spotted and rolled back, during which LVI controls data and control flow. A security advisory and mitigation for this attack was originally issued on March 10, 2020 and updated on May 11, 2021.
+
+SGAxe
+SGAxe, an SGX vulnerability published in 2020, extends a speculative execution attack on cache, leaking content of the enclave. This allows an attacker to access private CPU keys used for remote attestation. In other words, a threat actor can bypass Intel's countermeasures to breach SGX enclaves' confidentiality. The SGAxe attack is carried out by extracting attestation keys from SGX's private quoting enclave that are signed by Intel. The attacker can then masquerade as legitimate Intel machines by signing arbitrary SGX attestation quotes. A security advisory and mitigation for this attack, also called a Processor Data Leakage or Cache Eviction, was originally issued January 27, 2020 and updated May 11, 2021.
+
+ÆPIC leak
+In 2022, security researchers discovered a vulnerability in the Advanced Programmable Interrupt Controller (APIC) that allows for an attacker with root/admin privileges to gain access to encryption keys via the APIC by inspecting data transfers from L1 and L2 cache. This vulnerability is the first architectural attack discovered on x86 CPUs. This differs from Spectre and Meltdown which uses a noisy side channel. This exploit currently affects Intel Core 10th, 11th and 12th, and Xeon Ice Lake microprocessors.
+
+SGX malware arguments
+There has been a long debate on whether SGX enables creation of superior malware. Oxford University researchers published an article in October 2022 considering attackers' potential advantages and the disadvantages by abusing SGX for malware development. Researchers conclude that while there might be temporary zero day vulnerabilities to abuse in SGX ecosystem, the core principles and design features of Trusted Execution Environments (TEEs) make malware weaker than a malware-in-the-wild, TEEs make no major contributions to malware otherwise.
+
+See also
+Intel MPX
+Spectre-NG
+Trusted execution environment (TEE)
+
+References
+External links
+Intel Software Guard Extensions (Intel SGX) / ISA Extensions, Intel
+Intel Software Guard Extensions (Intel SGX) Programming Reference, Intel, October 2014
+IDF 2015 - Tech Chat: A Primer on Intel Software Guard Extensions, Intel (poster)
+ISCA 2015 tutorial slides for Intel SGX, Intel, June 2015
+McKeen, Frank, et al. (Intel), Innovative Instructions and Software Model for Isolated Execution  // Proceedings of the 2nd International Workshop on Hardware and Architectural Support for Security and Privacy. ACM, 2013.
+Jackson, Alon, (PhD dissertation). Trust is in the Keys of the Beholder: Extending SGX Autonomy and Anonymity, May 2017.
+Joanna Rutkowska, Thoughts on Intel's upcoming Software Guard Extensions (Part 1), August 2013
+SGX: the good, the bad and the downright ugly / Shaun Davenport, Richard Ford (Florida Institute of Technology) / Virus Bulletin, 2014-01-07
+Victor Costan and Srinivas Devadas, Intel SGX Explained, January 2016.
+wolfSSL, October 2016.
+The Security of Intel SGX for Key Protection and Data Privacy Applications / Professor Yehuda Lindell (Bar Ilan University & Unbound Tech), January 2018
+Intel SGX Technology and the Impact of Processor Side-Channel Attacks, March 2020
+How Confidential Computing Delivers A Personalised Shopping Experience, January 2021
+Realising the Potential of Data Whilst Preserving Privacy with EyA and Conclave from R3, December 2021
+Introduction to Intel Software Guard Extensions, June 2020

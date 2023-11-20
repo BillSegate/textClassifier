@@ -1,0 +1,162 @@
+Physical oncology (PO) is defined as the study of the role of mechanical signals in a cancerous tumor. The mechanical signals can be forces, pressures ("pull", "push" and "shear" designating the forces / pressures that push, pull or are tangential). If we generalize we will speak of "stress field" and "stress tensor".A cancerous tumor (or "solid tumor" in the jargon of oncologists to differentiate them from hematological malignancies) is an organ consisting of two tissues: in the center the cancerous tumor proper and around the ExtraCellular Matrix (ECM), sometimes called stroma, chorion or connective tissue. The concept of connective tissue is interesting because it defines a tissue that travels the entire organism (except the brain) and is a preferred transmitter of mechanical signals. But for the cancer organ - isolated from this connective system - we prefer the term ECM.
+The cancerous tissue is derived from a normal tissue of the body: breast cancer arises from a cancerous transformation of the normal mammary glandular tissue. It looks more or less like the original tissue: it is said that it is more or less differentiated; poorly differentiated it has a microscopic appearance that is far from normal tissue and is then "poorly prognostic", will make more metastases and will be more difficult to treat.
+We are only considering cancers derived from "epithelia", that is to say the tissue that covers the organs in their interfaces with air, liquids ... or the outside world. Epithelial cells are contiguous and polarized. More than 90% of cancers (breast, prostate, colon / rectum, bronchi, pancreas, etc.) arise from these epithelia after a long process of cancerization.
+
+Both tissues of the cancer organ
+The ECM
+ECM is a mixture of cells (immune, fibroblasts, etc.) dispersed in proteins, most of them collagen. It surrounds the tumor.
+It is analogous to connective tissue and basal membrane, which is a local condensation, located below normal epithelia. This connective tissue allows oxygen and nutrients to diffuse to the epithelia, which are not vascularized.
+In the tumor ECM, rapidly, beyond one mm3 of tumor is formed a network of blood vessels, the "neovascularization" (induced by "neoangiogenesis") around the tumor and which will allow the diffusion of oxygen and nutrients in the cancer tissue itself, which is not vascularized.
+
+The cancerous tissue
+The cancerous tissue itself, derived from the cancerous transformation of an epithelium.
+
+Cancerization
+It's a multi-year process. The appearance of cancer is signified by the crossing of the basement membrane to the underlying connective tissue by one or more cancer cells.
+
+The rediscovery of the importance of mechanical signals in biology of living organisms
+Several teams, in the USA in particular, had maintained an expertise in the study of non-biological signals in oncology (Donald Ingber, Mina Bissell then Valerie Weaver, Rakesh J Jain among others).But the absolute dominance of genetics and molecular biology since the middle of the 20th century had marginalized this approach until its revival at the beginning of the 21st century. This renewal takes into account the immense gains of genetics and molecular biology in the mechanobiological approach. On the other hand, the PO validates results thanks to these achievements but does not use the concepts.
+
+To properly locate the PO and the mechanical signals
+Biology / Mechanics comparison
+
+ Some differences between biological and physical signals
+
+The use of mechanical signals is therefore also the support of mechanobiology whose objective is very different from the PO. Indeed, as shown in the table above, the study of mechanotransduction, which is the support of mechanobiology, uses a mechanical "input" (signal input) but the signal collected at the output (the "output") is biological. As a result, many of the articles published in mechanobiology end with the phrase "we have defined a target to find a therapeutic molecule", which precludes any therapeutic approach by the mechanical signals themselves.
+But this shift from the physical sciences to the biological sciences is problematic, in the absence of any bridge between these two sciences, one quantitative, physics based on mathematical language and the other qualitative, based on the laws of genetics and molecular biology.
+OP aims to study the effect of a mechanical input on a mechanical output. We will see that this output can be synthesized in tissue architecture.
+
+Definition of the tissue phenotype
+The diagnosis of cancer is made by looking under the microscope a fragment of the tumor (biopsy). The tissue phenotype - here cancerous tissue - is the sum of the cellular and tissue phenotype. The phenotype of the cell is supposed to be the translation of the genotype (and of the environment: epigenetics) expressed in a given cell: thus, a liver cell does not look like a pancreas cell at all because it does not express the same genes (yet all present in the genome of all cells).
+These characteristics are summarized by: differentiation, cell division (mitosis), apoptosis (or "cell suicide") and cell death. The doctor in charge of the diagnosis under the microscope (the pathologist) will describe the biopsy based on these criteria. The tissue phenotype is centered on architecture: the normal tissue is Euclidean (hexagons, trapezes, circles ...) familiar to our brains; the cancerous is fractal, less familiar. It can be summed up in a coefficient of fractality very strongly correlated with the prognosis and the components of the cellular phenotype. Thus, a high coefficient of fractality is correlated with a poorly differentiated tumor, with many mitoses, little apoptosis and a poor prognosis.
+And here we have to mention Mina Bissell: "in oncology the tissue phenotype is dominant over the cellular genotype".
+
+The quiet revolution: three-dimensional models (3D) and other models (spheroids, animal xenograft ...)
+OP was made possible by apparently minor technical changes that allowed in vitro and then in vivo models to be closer to the reality of the cancerous tumor in the patient.
+For a very long time, two-dimensional (2D) cell cultures have been used in glass and then plastic boxes. The cultured cells thus adhered to the bottom, in very rigid material, rigidity measured by the Young's modulus, very high for these supports.
+
+Young's module
+The Young modulus or modulus of elasticity is the constant that relates the tensile / compressive stress and the beginning of the deformation of an isotropic elastic material.
+It is expressed in Pascal (Pa), unit of pressure.
+Then appeared the three-dimensional (3D) cultures with cells which constituted multicellular spheres by dividing and were surrounded by a gel-like culture medium at the Young's modulus close to those of the living and variable tissues, for example depending on the amount of collagen surrounding these cultures in 3D. Organoids, spheroids are variants of this type of culture.At the same time the animal models evolved there also towards more similarity with the clinical reality. The human tumor xenograft is today the standard and the orthotopic transplant - for example human cancer of the pancreas in the mouse pancreas - is one of the best experimental models.The link between the clinic and the experiment becomes more realistic since these 3D cultures make it possible to use the culture medium surrounding the growing tumor tissue as a "virtual ECM", which can be varied, for example, to increase the pressure around the tumor grown.
+Similarly, xenograft can constitute a cancer organ with both tissues even if the ECM is of animal origin.
+What is hard in cancer
+It's the ECM. So, when a doctor or a patient feels "a hard lump in the breast" and it is a cancer, what is hard is the ECM while the tumor itself is softer than the normal breast tissue. This has been demonstrated in vitro and more recently ex vivo and will soon be in vivo.
+
+In vitro
+The role of stress on the growth of a spheroid in vitro had already been shown (G Helminger already cited), but the experiment of Matthew Paszek (last signatory of the article: Valerie Weaver) in 2005 will give a new dimension to this use of mechanical signals in vitro by showing the passage from a normal architecture of a breast acinus - the elementary unit of the mammary gland - to a cancerous architecture under the influence of a single variable, mechanical, here the surface tension caused by an increasing concentration of collagen in the culture medium surrounding the tumor.
+
+We clearly see the transition from one architecture to another, progressive and reversible if the constraint is relaxed. Changes in the concentration of biological markers of cancerization (catenins, integrins, etc.), with the disappearance of the central cavity, highlight the shift in tissue phenotype.
+In addition, this experiment opens the way to the reversibility of cancer, the royal way of treatment, which is intended to replace conventional destructive approaches.
+Another experiment is equally spectacular:
+
+According to Gautham Venugopalan ASCB 2012
+Malignant breast cells cultured in vitro in 3D form a "disorganized" mass (translate fractal) on the left in the photo.	
+But after a few minutes of compression, they form an acinus, Euclidean, on the right.	
+Other authors have extended this work on different models with different mechanical signals. F Montel et al., in particular, has demonstrated on spheroids of human cancer origin the very significant increase in apoptosis in the response to stress.	
+These 3D cultures have also shown the organization of collagen fibers within the ECM and beyond, allowing remote transmission of mechanical signals and a 'tensor dialogue' between the tumor, ECM and normal environment.But these experiments have in common to apply physical variables (surface tension, osmotic pressure ...) that cannot be used in vivo.
+
+Ex vivo
+M Plodinec et al. extended this work using breast cancer biopsies kept alive ex vivo and then passed to an Atomic Force Microscope (AFM) to measure the Young's moduli of the different tissue components of these normal breast biopsies, tumors benign and malignant.	
+This team finds the results already widely explored on isolated cells and 2D cultures: the cancerous tissues have a Young's modulus around 0.8 kPa, normal tissues have a modulus around 1.1 kPa. The ECM has a module greater than 2 kPa.	
+This difference - the cancerous tissue is softer than its normal counterpart - crosses all oncology, all cancers combined and from the dysplastic cell to the tumor and metastatic cells.All measurements, cell and tissue, converge towards the same conclusion: the modulus of the cancerous tissue is inversely correlated with the 'dangerousness' of the cancer: the softer the tumor, the more it is undifferentiated, the more it will give metastases, the less it will respond to current treatments...
+
+In vivo
+In OP for therapeutic purposes, we find only the article by R Brossel et al. (2016) which shows the possibility of acting on a tumor grafted subcutaneously in the rodent by applying a constraint.	
+It is validated in this Proof of Concept. There is a significant difference between the treated group and the control groups. This difference concerns the volume of the tumor measured in vivo which is very significantly decreased (p = 0.015) in the treated group compared to the 3 control groups (with particles and without gradient, with gradient and without particles, without gradient or particles). There is also a significant difference in favor of the treated group when measuring the surface of the living tumor, ex vivo, on digitized histological sections (p = 0.001).	
+Results	
+
+* Three groups of mice: with particles only; with gradient alone; without particles or gradient
+This field imposed on the ECM is superimposed on that already present in the tumor tissue. Note the difference with in vitro: there is no confinement by the ECM in vitro or anchoring by the integrins which ensure the physical continuity between the ECM and the tumor tissue and thus allow the propagation to distance of mechanical signals.
+In this perspective the "field of stress" becomes the therapeutic agent.
+This stress is exerted via ferric nanoparticles, therefore magnetizable, located around the tumor (and not in the tumor) and subjected from outside the animal to a magnetic field gradient generated by fixed magnets. The nanoparticles then act as '‘BioActuators’ transforming part of the magnetic energy into mechanical energy.
+To this work we can link the European project "Imaging Force of Cancer" which as its name indicates aims to measure, voxel by voxel, the constraints involved within the tumoral tissue. This program focuses on the breast, the primitive liver and the brain.
+This project is based on MRI elastography, which is the reference method for in vivo, in situ and non-perturbative measurement of the strain, that is to say the very small elastic strain caused in the tissue will give access to the measure of "stress" that is to say of the constraint. It should therefore make it possible to construct the stress tensor of the tumor tissue in vivo, in situ, without significant disturbance intra-tumoral, obligatory starting base to hope to modify it.There is also an in vivo experiment which demonstrates the increase of the signals coming from the integrins, induced by the increase of the rigidity of the matrix
+
+The isolated cell
+Micropatterning
+The cellular patterning allowed to show the dependence of the cellular architecture on the tensions generated by the support, variable according to the rigidity of these supports. This made it possible to hypothesize about the transmission of mechanical signals between the "outside", here the support (glass then plastic then gel), and the CytoSKeleton (CSK) and the nucleus.
+The equilibrium, in the CSK of each cell, is between contractile microfilaments and microtubules resistant to compression; it is also done in the membership of the ECM by a game of pressure and tension that cancel out in a situation of equilibrium. Energy is given by actin.
+Micropatterning has clearly shown these phenomena on the scale of a cell fixed on a support.
+Increased stiffness of the ECM: the spreading of the cell - on the support, representation of the ECM - is necessary for the cell division (thus the growth).
+Decrease of the rigidity of the ECM: when the ECM is deformed, the cell traction causes the stop of the growth and a differentiation of the cell or an apoptosis.
+The soft material that transmits the mechanical signals is therefore pre-stressed and this allows the transmission of forces in the body with a quantitative distribution according to the scale: the skeleton, a macroscopic structure, will transmit much greater forces than an isolated organ.
+On the scale of a tissue of an organ, the entire mechanical signal transmission network, including integrins, cadherins, focal adhesions (all intercellular junctions and ETM / cells), membrane, CSK, etc. also support the production of energy. Indeed, mitochondria are an integral part of this network and semi-solid (non-liquid) phase biochemistry is an important part of tissue metabolism.
+Here we find a principle of treatment by the mechanical signals.
+
+The circulating cell
+Circulating Tumor Cells (CTCs) are isolable and their rigidity can be measured quite easily. Numerous articles have been able to verify what was already known for cells in 2D culture: the Young's modulus of CTC is very strongly correlated with the severity of cancer in all its parameters: differentiation, metastatic potential, prognostic and predictive correlation...
+And these correlations are valid for metaplastic, dysplastic, in situ and cancerous cells.
+
+The journey of the metastatic cell
+These CTCs must first cross the ECM, enter the bloodstream or lymphatic vessels, and then leave the circulation to attach to a tissue for metastasis. Many articles have recently commented on this "journey" and the many physical elements that punctuate it.
+
+The different components of the constraint
+The tumor accumulates mechanical energy during its growth. In an article by Stylianopoulos, the author uses a simple technique to highlight tumor constraints: an ex vivo tumor laser cutting frees the accumulated constraints. They are expressed as bulges that can be measured and related to the underlying stress. In the center of the tumor the radial and circumferential stresses are compressive; in the periphery of the tumor the radial stress is compressive, and the circumferential stress is a linear traction along the outer limit of the tumor.Tumor growth causes stress on the healthy tissues around it.The ExtraCellular Matrix (ECM) and the cells in contact with the ECM exert mutual tensions.
+The cells of the tumor tissue exert tensions between themselves.
+This results in a change in fluid flow in the tumor with an increase in intratumoral interstitial pressure.
+The internal tension present in the excised tumor can be called "residual stress": when we cut it we clearly see an expansion of the volume which shows this residual tension.Another track was opened by J Fredberg, in two dimensions:
+
+As the intercellular adhesion stress increases, there is a histological architecture change and a solid to liquid phase transition.
+The mechanical energy, cellular cohesion of the tumor tissue, is attributable, in large part, intercellular junctions and can be expressed in linear traction that has two components:
+
+Contraction energy in red, positive, which comes from the CSK and which minimizes the intercellular surface (Euclidean, pseudo solid when it dominates);
+Energy of adhesion, in white, negative and which maximizes the surface (fractal, pseudo liquid when it dominates).
+
+Soft matter
+Popularized by Pierre Gilles de Gennes the term soft matter refers to the study of materials between solid and liquid; at ambient temperature, that of biology, thermal energy (kT) is of the same order of magnitude as the interaction energies between the various components. Due to this entropy / enthalpy balance these biological systems can be organized in a radically different way under the influence of small variations of the outside.
+The physics of PO is a soft matter physics.
+
+The stress tensor
+This is the generalization of the concept of constraint field. It summarizes in a mathematical expression all the pressures involved in a volume. Here, it is the volume of the tumor with a solid sphere, the tumor tissue, predominantly viscoelastic and a hollow sphere, the ECM, predominantly elastic. The solid sphere is embedded in the hollow sphere.
+
+Organization of CSK and continuity of structures transmitting mechanical signals
+The mechanical signals travel through the organs, without any break in continuity. At the tissue level, it is the connective tissue or the ECM that ensures this continuity. At the cellular level, it is the continuity between the connective tissue, the cell membrane, the CSK and the nucleus that ensures this transmission.
+
+At what scale? The laws of biology / physics
+A hitherto dominant approach is the "bottom up": the understanding of the biological mechanisms (mechanoreceptors, actin and other components of CSK, intracellular signaling, gene effectors, etc.) must lead to an understanding of the phenomena at scale, above be here mesoscopic, tissue.There are success stories of this approach when one can identify a faulty gene with a mutation and it is possible to act by a drug on the outcome of the mutation: a receptor or an enzyme.
+This "one-to-one and first-degree equation" allowed Chronic Myeloid Leukemia to be controlled by imatinib. The defective BCR-ABL gene makes it possible to manufacture an abnormal version of an enzyme of the Tyrosine Kinase type present in leukemic cells. Imatinib inhibits this enzyme and the manufacture of these cells.These few exceptions have led one to believe that this reasoning could be applied to cancers as a whole.
+But the "equation" of cancer is much more complex. And the massive failure of "targeted therapies" to cure cancer is the illustration. These targeted therapies have cured only 50% of HER2 positive breast cancers treated with adjuvant therapy after local cancer treatment. That is 3% of breast cancers. That's all. Moreover, their participation in the "chronicization" of the breast and prostate - even some colon or rectum - is very minor compared to chemo / hormonotherapy, much better used today.
+The other approach, "top down", takes into account the emergence of unpredictable phenomena through the reductionist approach. Thus, the experimental evidence showing that carcinogenesis is a process bound to emerge a break geometry of the tissue architecture requires abandoning the genetic level or above genetics to get into systems biology and put the matter to cell/tissue level.
+In fact, cell phenotypes are emergent phenomena that result from intercellular nonlinear interactions and interaction with the environment that is to say the ECM. This is usually described in a phase space where attractors dot the landscape and are points of stability or instability.
+
+Fractality
+The cancer is fractal and this in all its components and at different scales micro/meso and macroscopic.
+This geometry is recent and still little integrated in our mental representations.The first observation was the fractal nature of microcalcifications linked to breast cancer on a mammogram.Then the fractality of the cancer has been demonstrated on different structures of the organ cancer - neoangiogenesis, tumor growth zone, tumor tissue ... - and at the microscopic scale: cell nucleus, cell surface.
+
+Synergy
+A synergy between immunotherapy and the use of mechanical signals is highly likely as shown by two recent papers that describe the control of PDL-1 expression and immunocompetent cells by extracellular matrix stiffness.
+
+Thermodynamics
+Fractality is a means that evolution has found to minimize the energy used to distribute resources. Remember that cancer uses a source of energy different from other tissues, less efficient in yield.
+
+The death of the patient
+What is a cancer patient dying of?
+There are several possibilities: the infectious complications related to the immunodepression due to the disease and the treatments, the attack of a vital organ like the lungs invaded by so many metastases that the breathing becomes impossible, the thrombotic complications like a pulmonary embolism, an end of life precipitated by analgesic treatments whose doses are increased. But behind all these causes is the diversion of energy by cancer that behaves like a parasite that kills its host. In some particularly local cancers, such as pancreatic cancer, this is particularly noticeable: the patient dies of cachexia, that is to say of great malnutrition.
+
+The big ancestors and the dust under the carpet
+The brilliant intuitions of D'Arcy Thompson are now accepted by all: the shape that organs (including cancer) and organisms take depends on the variations in time and space of the mechanical properties of the tissues. But he describes, without making any assumptions about why and how.
+J Wolff described the histological variations of the bone according to the load which weighs on him.
+This is well known to thoracic surgeons: a vein removed to bypass a coronary artery and grafted into the artery position changes histology and becomes an artery due to this new pressure regime.The same conclusion can be drawn from studies on the transformation of bone and cartilage tissue under different pressure regimes.
+Since the 1950s, the genetic paradigm has emerged. Cancers arise from one (or some) mutated cell(s) and progression results from the sequential accumulation of tumor-free random mutations of all homeostatic controls.
+The discovery of oncogenes, suppressor genes, stability genes (caretaker) is a coherent and reliable set to track the birth and progression of cancer.
+But the contradictory experimental facts are not lacking: the carcinogens are not all mutagens (hormones...); the target of carcinogens may be the ECM and not the cell; an ECM exposed to a carcinogen brought into contact with a non-cancerous tissue will cause cancer of this tissue, but not vice versa; a cancerous tissue in close contact with a normal ECM may become normal tissue again.Other authors have shown that it is possible to return to a normal architecture a cancerous tissue when it was taken in charge by an embryonic environment then by somatic tissue.These last examples plead for the reality of the possible reversion of the cancerous to the non-cancerous.
+Finally, more cancers are due to infectious "causes" than to genetic "causes".
+These last examples plead for the reality of the possible reversion of the cancerous to the non-cancerous.
+
+Towards a global approach to cancer
+Any theory of carcinogenesis must explain cancerization since its onset, dysplasia, in situ, then crossing of the basement membrane, the growth of the primary tumor and the appearance of metastases.
+Let us quote DW Smithers (1962): "cancer is no more a disease of the cells than a traffic jam is a disease of cars".
+We therefore see a global approach taking into account both the mechanical and biological signals in this long process that goes from dysplasia to metastases.
+This new branch of biology has consequences beyond oncology, in embryology, tissue engineering, etc.It is only time for Physical Oncology to become visible. Visible because now integrable into an imagery that can measure mechanical signals, and visible in the scientific field as a full component of carcinogenesis.
+
+References
+Annexes
+Related articles
+Méchanobiology
+
+External links
+United States : National Cancer Institute (NCI) [archive]
+Singapore : Mechanobiology Institute (MBI) [archive] – National University of Singapore
+Europe : Imaging the Force of Cancer [archive], H2020
+Journal : Convergent Science Physical Oncology [archive]

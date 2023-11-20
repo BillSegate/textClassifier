@@ -1,0 +1,22 @@
+Content Threat Removal (CTR) is a cybersecurity technology intended to defeat the threat posed by handling digital content in the cyberspace. Unlike other defenses, including antivirus software and sandboxed execution, CTR does not rely on being able to detect threats. Similar to Content Disarm and Reconstruction, CTR is designed to remove the threat without knowing whether it has done so and acts without knowing if data contains a threat or not.
+Detection strategies work by detecting unsafe content, and then blocking or removing that content. Content that is deemed safe is delivered to its destination. In contrast, Content Threat Removal assumes all data is hostile and delivers none of it to the destination, regardless of whether it is actually hostile. Although no data is delivered, the business information carried by the data is delivered using new data created for the purpose.
+
+Threat
+Advanced attacks continuously defeat defenses that are based on detection. These are often referred to as zero-day attacks, because as soon as they are discovered attack detection mechanisms must be updated to identify and neutralize the attack, and until they are, all systems are unprotected. These attacks succeed because attackers are skilled in finding new ways of evading detection. Polymorphic code can be used to evade the detection of known unsafe data and sandbox detection allows attacks to evade dynamic analysis.
+
+Method
+A Content Threat Removal defence works by intercepting data on its way to its destination. The business information carried by the data is extracted and the data is discarded. Then entirely new, clean and safe data is built to carry the information to its destination.
+The effect of building new data to carry the business information is that any unsafe elements of the original data are left behind and discarded. This includes executable data, macros, scripts and malformed data that trigger vulnerabilities in applications.
+While CTR is a form of content transformation, not all transformations provide a complete defence against the content threat.
+
+Applicability
+CTR is applicable to user-to-user traffic, such as email and chat, and machine-to-machine traffic, such as web services. Data transfers can be intercepted by in-line application layer proxies and these can transform the way information content is delivered to remove any threat.CTR works by extracting business information from data and it is not possible to extract information from executable code. This means CTR is not directly applicable to web browsing, since most web pages are code. It can, however, be applied to content that is downloaded from, and uploaded to, websites.
+Although most web pages cannot be transformed to render them safe, web browsing can be isolated and the remote access protocols used to reach the isolated environment can be subjected to CTR.
+CTR provides a solution to the problem of Stegware. It naturally removes detectable steganography and eliminates symbiotic and permutation steganography through normalisation.
+
+See also
+Content Disarm and Reconstruction
+Deep Content Inspection
+
+
+== References ==

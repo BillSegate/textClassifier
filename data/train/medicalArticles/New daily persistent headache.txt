@@ -1,0 +1,70 @@
+New daily persistent headache (NDPH) is a primary headache syndrome which can mimic chronic migraine and chronic tension-type headache. The headache is daily and unremitting from very soon after onset (within 3 days at most), usually in a person who does not have a history of a primary headache disorder. The pain can be intermittent, but lasts more than 3 months. Headache onset is abrupt and people often remember the date, circumstance and, occasionally, the time of headache onset. One retrospective study stated that over 80% of patients could state the exact date their headache began.The cause of NDPH is unknown, and it may have more than one etiology. NDPH onset is commonly associated with an infection or flu-like illness, stressful life event, minor head trauma, and extra cranial surgery. Infection or flu-like illness and stressful life event are most often cited. The pathophysiology of NDPH is poorly understood.
+The syndrome is difficult to treat and may persist for years. The age of onset ranges from 6 to greater than 70 years old, with a mean of 35 years. It is found to be more common in females in both the adult and pediatric populations. NDPH is rare. The Akershus study of chronic headache, a population based cross sectional study of 30,000 persons aged 30–44 years in Norway, found a one-year prevalence of 0.03 percent in the population.In 1986, Vanast was the first author to describe the new daily-persistent headache (NDPH) as a benign form of chronic daily headache (CDH). The criteria for the diagnosis of NDPH were proposed in 1994 (the Silberstein–Lipton criteria)  but not included in the International Classification of Headache Disorders (ICHD) until 2004.
+
+Signs and symptoms
+The headaches can vary greatly in their clinical presentation and duration.Quality of the headache has been described as dull and/or pressure-like sensation, and throbbing and/or pulsating sensation. The pain is usually on both sides of the head (in 88–93% of people with NDPH), but may be unilateral, and may be localized to any head region.  The pain can fluctuate in intensity and duration, is daily, and lasts more than 3 months.There may be accompanying photophobia, phonophobia, lightheadedness or mild nausea. Co-morbidity with mood disorders has been reported in a subset of patients.Cranial autonomic nervous symptoms occur with painful exacerbations in 21%, and cutaneous allodynia may be present in 26%.In 2002, Li and Rozen conducted a study of 56 patients at the Jefferson Headache Center in Philadelphia and published the following results:
+
+82% of patients were able to pinpoint the exact day their headache started.
+30% of the patients, the onset of the headache occurred in correlation with an infection or flu-like illness.
+38% of the patients had a prior personal history of headache.
+29% of the patients had a family history of headache.
+68% reported nausea.
+66% reported photophobia.
+61% reported phonophobia.
+55% reported lightheadedness.Imaging and laboratory testing were unremarkable except for an unusually high number of patients who tested positive for a past Epstein-Barr virus infection.
+
+Diagnosis
+Although NDPH is classified as a primary headache syndrome, it must be remembered that a number of important conditions can present with a new-onset persisting headache, and these must be excluded prior to making a diagnosis of a primary headache disorder.The diagnosis is one of excluding the many secondary types or NDPH mimics, which is especially critical early in the course of the disease when a secondary etiology is more likely. NDPH mimics include but are not limited to:
+neoplasms
+subarachnoid hemorrhage
+idiopathic intracranial hypertension
+temporal arteritis
+chronic subdural hematoma
+post-traumatic headaches
+sphenoid sinusitis
+hypertension
+spontaneous cerebrospinal fluid leak
+cervical artery dissections
+pseudotumor cerebri without papilledema
+cerebral venous thrombosis
+Chiari malformation
+NDPH with medication overuse headacheMany doctors state that the condition is best viewed as a syndrome rather than a diagnosis. Once a diagnosis of NDPH is made, clinicians argue that patients are best managed according to the more detailed pathophysiology-based diagnosis than lumped together into a single group, since a single disorder is unlikely to exist.NDPH is classified as a Primary Headache Disorder by the ICHD-2 classification system (by the IHS) using number 4.8. It is one of the types of primary headache syndromes that present as a chronic daily headache, which is a headache present for more than 15 days a month for more than 3 months.
+
+ICHD criteria
+The ICHD diagnostic criteria are:
+Headache that, within 3 days of onset, fulfils criteria 2-4
+Headache is present daily, and is unremitting, for > 3 months
+At least two of the following pain characteristics:
+bilateral location
+pressing/tightening (non-pulsating) quality
+mild or moderate intensity
+not aggravated by routine physical activity such as walking or climbing
+Both of the following:
+no more than one of photophobia, phonophobia or mild nausea
+neither moderate or severe nausea nor vomiting
+Not attributed to another disorderNotes:
+
+Headache may be unremitting from the moment of onset or very rapidly build up to continuous and unremitting pain. Such onset or rapid development must be clearly recalled and unambiguously described by the patient. Otherwise it is coded as 2.3 chronic tension-type headache.
+History and physical and neurological examinations do not suggest any of the disorders listed in groups 5-12 (including 8.2 medication overuse headaches and its subforms), or history and/or physical and/or neurological examinations do suggest such disorder but it is ruled out by appropriate investigations, or such disorder is present but headache does not occur for the first time in close temporal relation to the disorder.
+
+Criteria revision
+Although the original Silberstein–Lipton criteria and the original description by Vanast make no suggestion for the exclusion of migrainous features in NDPH, the current ICHD criteria exclude patients with migrainous features. When migraine features are present, classification thus becomes problematic.
+It has been reported that migraine symptoms may be present in over 50% of NDPH patients. The current criteria definition thus excludes more than half of patients with new onset of daily headache. This exclusion due to migrainous features could have adverse scientific, diagnostic, and treatment consequences.One proposal for reclassification of the criteria is from a study conducted on retrospective analysis of the records of 1348 patients regularly treated at the headache clinic of the Department of Neurology of Santa Casa de São Paulo, Brazil, and would be the following subdivision: NDPH with migraine features and without migraine features that would allow the inclusion of all individuals present who has a daily and persistent headache from the beginning.Another proposed reclassification of the criteria is from a study conducted as a retrospective chart review of patients seen at the Headache Center at Montefiore Medical Center in Bronx, New York, from September 2005 to April 2009. The revised criteria for NDPH definition does not exclude migraine features (NDPH-R), and three subdivisions were created and described based on prognosis: Persisting, remitting, and relapsing–remitting. Additionally, this revised criteria would not include parts C or D currently required by the ICHD diagnostic criteria for NDPH.
+
+Pathophysiology
+The pathophysiology of NDPH is poorly understood. Research points to an immune-mediated, inflammatory process. Cervical joint hypermobility and defective internal jugular venous drainage have also been suggested as causes.In 1987, Vanast first suggested autoimmune disorder with a persistent viral trigger for CDH (now referred to as NDPH). Post-infectious origins have been approximated to make up anywhere between 30 and 80% of NDPH patients in different studies. Viruses that have been implicated include Epstein-Barr virus, herpes simplex virus and cytomegalovirus.Non-specific upper respiratory infections including rhinitis and pharyngitis are most often cited by patients. In one study, 46.5% patients recalled a specific trigger with a respiratory tract illness being the most common. In children, almost half report headache onset during an infection.
+A study by Rozen and Swindan in 2007 found elevated levels of tumor necrosis factor alpha, a proinflammatory cytokine, in the cerebrospinal fluid but not the blood of patients with NDPH, chronic migraine, and post-traumatic headaches suggesting inflammation as the cause of the headaches.NDPH as an inflammatory, post-infectious manifestation indicates a potential meningoencephalitis event in NDPH patients. Tissue specificity is a general feature of post-infectious, immune-mediated conditions, and the meninges are a type of connective tissue membrane. Inflammation of the meninges was first proposed as a possible pathophysiology for migraine in the 1960s and has recently been explored again.  This hypothesis is based on meningeal mast cell activation. Reactive arthritis (ReA) is a post-infectious disease entity of synovium/joints with connective tissue membrane (synovial membrane of the joints) which provides a corollary.
+NDPH has been reported in Hashimoto's encephalopathy, an immune-mediated type of encephalitis. A mean 5-year retrospective analysis of 53 patients with a history of viral meningitis and 17 patients with a history of bacterial meningitis showed an increased onset of subsequent new onset headache and increased severity of those with prior primary headaches.
+
+Treatment
+There is no specific treatment for NDPH. Often they are treated similar to migraines.A number of medications have been used including amitriptyline, gabapentin, pregabalin, propranolol, and topiramate. There are no prospective placebo controlled trials of preventive treatment. In those with migrainous features treatment may be similar to migraines.Opiates, or narcotics, tend to be avoided because of their side effects, including the development of medication overuse headaches and potential for dependency. NDPH is often associated with medication overuse. To avoid the development of medication overuse headaches, it is advised not to use pain relievers for more than nine days a month.
+NDPH, like other primary headaches, has been linked to comorbid psychiatric conditions, mainly mood and anxiety and panic disorders. The spectrum of anxiety disorders, particularly panic disorder, should be considered in NDPH patients presenting with psychiatric symptoms. Simultaneous treatment of both disorders may lead to good outcomes.Medications within the tetracycline family, mexiletine, corticosteroids and nerve blocks are being studied. Occipital nerve block have been reported to be helpful for some people. 23/71 people had undergone a nerve block for their severe headache. The NDPH-ICHD group responded to the nerve block much more often (88.9%) than the NDPH with migraine features (42.9% responded to nerve block).
+
+Prognosis
+Most patients have persistent headaches, although about 15% will remit, and 8% will have a relapsing-remitting type. It is not infrequent for NDPH to be an intractable headache disorder that is unresponsive to standard headache therapies.
+
+References
+External links
+
+Evans, Randolph W.; Seifert, Tad D. (2011). "The Challenge of New Daily Persistent Headache". Headache: The Journal of Head and Face Pain. 51 (1): 145–154. doi:10.1111/j.1526-4610.2010.01812.x. PMID 21198576.
+Robert, Teri (2004). "New Daily Persistent Headache - The Basics". Health Central.

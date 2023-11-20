@@ -1,0 +1,59 @@
+In computing, defense strategy is a concept and practice used by computer designers, users, and IT personnel to reduce computer security risks.
+
+Common strategies
+Boundary protection
+Boundary protection employs security measures and devices to prevent unauthorized access to computer systems (referred to as controlling the system border). The approach is based on the assumption that the attacker did not penetrate the system. Examples of this strategy include using gateways, routers, firewalls, and password checks, deleting suspicious emails/messages, and limiting physical access.
+Boundary protection is typically the main strategy for computing systems; if this type of defense is successful, no other strategies are required. This is a resource-consuming strategy with a known scope. External information system monitoring is part of boundary protection.
+
+Information System Monitoring
+Information System Monitoring employs security measures to find intruders or the damage done by them. This strategy is used when the system has been penetrated, but the intruder did not gain full control. Examples of this strategy include antivirus software, applying a patch, and network behavior anomaly detection.
+This strategy's success is based on competition of offence and defence. This is a time and resource-consuming strategy, affecting performance. The scope is variable in time. It cannot be fully successful if not supported by other strategies.
+
+Unavoidable actions
+Unavoidable actions employ security measures that cannot be prevented or neutralized. This strategy is based on the assumption that the system has been penetrated, but an intruder cannot prevent the defensive mechanism from being employed. Examples of this strategy include rebooting, using physical unclonable functions, and using a security switch.
+
+Secure enclave
+Secure enclave is a strategy that employs security measures that prevent access to some parts of the system. This strategy is used when the system has been penetrated, but an intruder cannot access its special parts. Examples of this strategy include using the Access level, using a Trusted Platform Module, using a microkernel, using Diode (unidirectional network device), and using air gaps.
+This is a supporting strategy for boundary protection, information system monitoring and unavoidable action strategies. This is a time and resource-consuming strategy with a known scope. Even if this strategy is fully successful, it does not guarantee the overall success of the larger defense strategy.
+
+False target
+False target is a strategy that deploys non-real targets for an intruder. It is used when the system has been penetrated, but the intruder does not know the system architecture. Examples of this strategy include honeypots, virtual computers, virtual security switches, fake files, and address/password copies.
+This is a supporting strategy for information system monitoring. It is a time-consuming strategy, and the scope is determined by the designer. It cannot be fully successful if not supported by other strategies.
+
+Moving target
+Moving target is a security strategy based on frequent changes of data and processes. This strategy is based on the assumption that the system has been penetrated, but the intruder does not know the architecture of the system and its processes. Examples of this strategy are regular changes of passwords or keys (cryptography), using a dynamic platform, etc.
+This is a supporting strategy for information system monitoring. It is a time-consuming strategy, and the scope is determined by the designer. It cannot be fully successful if not supported by other strategies. Actions are activated on a scheduled basis or as a response to a detected threat.
+
+Useless information
+Useless information comprises  security measures to turn important information into useless data for an intruder. The strategy is based on the assumption that the system has been penetrated, but the intruder is not able to decrypt information, or does not have enough time to decrypt it. For example, encrypting the file system or using encryption software can render the data useless even if an attacker gets access to the file system, or using data masking, where sensitive data is hidden in non-sensitive data with modified content.
+This is a supporting strategy for information system monitoring. It is a time and resource-consuming strategy, affecting performance. The scope is known. It cannot be successful if not supported by other strategies. Claude Shannon's theorems show that if the encryption key is smaller than the secured information, the information-theoretic security can not be achieved. There is only one known unbreakable cryptographic system: the one-time pad. This strategy is not generally possible to use because of the difficulties involved in exchanging one-time pads without the risk of being compromised. Other cryptographic systems are only buying time or can be broken (see Cryptographic hash function#Degree_of_difficulty). This strategy needs to be supported by the moving target or deletes strategies.
+
+Deletion
+Deletion is a strategy using  security measures to prevent an intruder from gaining sensitive information at all costs. The strategy is based on the assumption that the damage from information disclosure would be greater than the damage caused by deleting the information or disabling the system required to gain access to the information. The strategy is part of the data-centric security approach. Examples of this strategy include information deletion as a response to a security violation (such as unauthorized access attempts) and password resets.
+This is a supporting strategy for information system monitoring. It is a resource-consuming strategy, and the scope is determined by the designer. It cannot be fully successful on its own since the detected intrusion is not quarantined.
+
+Information redundancy
+Information redundancy is a strategy performing security measures to keep redundancy for information and using it in case of damage. The strategy is based on the assumption that finding and repairing the damage is more complicated than the restoration of the system. Examples of this strategy include using system restoration, keeping backup files,  and using a backup computer.
+This is a supporting strategy for information system monitoring. This strategy consumes considerable resources, and the scope is known. It can be fully successful in its part.
+
+Limiting of actions made by a robot
+Limiting of actions made by a robot is a strategy performing security measures to limit a robot's (software bot) actions. The strategy is based on the assumption that a robot can take more actions, or create damage that a human cannot create. Examples of this strategy include using anti-spam techniques, using CAPTCHA and other human presence detection techniques, and using DOS-based defense (protection from Denial-of-service attack).
+This is a supporting strategy for boundary protection and information system monitoring. It is a time and resource-consuming strategy, and the scope is determined by the designer. This strategy cannot be fully successful on its own.
+
+Active defense
+Active defense is a strategy performing security measures attacking the potential intruders. The strategy is based on the assumption that a potential intruder under attack has fewer abilities. Examples of this strategy include creating and using lists of trusted networks, devices, and applications, blocking untrusted addresses, and vendor management.
+This is a supporting strategy for boundary protection and information system monitoring. It is a time and resource-consuming strategy, and the scope is determined by the designer. This strategy cannot be fully successful on its own.
+
+Unavoidable actions
+This strategy can support any other strategy. This is a resource-consuming strategy, and the scope is determined by the designer. An implementation may have a wide impact on devices. This strategy can be fully successful, but in most cases, there is a trade-off of full system functionality for security. This strategy can be used proactively or reactively. Actions done in response to an already detected problem may be too late. Any implementation needs to be supported by the secure enclave strategy in order to prevent neutralizing action by unauthorized access to the protection mechanism.
+Actions can be of the following types: 
+
+Preventive actions - blocking certain functions, signals, peripheral devices, memory parts, and/or data transfers. For example: blocking audio/video recording, the sending of long messages, or secret memory access.
+Creative actions - activating certain functions, sending signals, messages, and/or data. For example: sending an alarm signal or message, or activating data copying or transfer.
+Modification actions - modifying a peripheral device's functioning, or modifying the data, signals or processes of the defended system. For example, independent hardware encryption/decryption, changing accelerometer accuracy, filtering messages or words, or changing state diagram or algorithm by independent hardware.
+
+See also
+Strong cryptography
+
+
+== References ==

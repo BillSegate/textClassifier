@@ -1,0 +1,21 @@
+In hacking, a wargame (or war game) is a cyber-security challenge and mind sport in which the competitors must exploit or defend a vulnerability in a system or application, and/or gain or prevent access to a computer system.A wargame usually involves a capture the flag logic, based on pentesting, semantic URL attacks, knowledge-based authentication, password cracking, reverse engineering of software (often JavaScript, C and assembly language), code injection, SQL injections, cross-site scripting, exploits, IP address spoofing, forensics, and other hacking techniques.
+
+Wargames for preparedness
+Wargames are also used as a method of cyberwarfare preparedness. The NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE) organizes an annual  event, Locking Shields, which is an international live-fire cyber exercise. The exercise challenges cyber security experts through real-time attacks in fictional scenarios and is used to develop skills in national IT defense strategies.
+
+Additional applications
+Wargames can be used to teach the basics of web attacks and web security, giving participants a better understanding of how attackers exploit security vulnerabilities. Wargames are also used as a way to "stress test" an organization's response plan and serve as a drill to identify gaps in cyber disaster preparedness.
+
+See also
+Hackathon - computer programming marathon
+DEF CON -  largest  hacker convention
+Software Freedom Day - Linux and Open Source event
+Campus Party - massive LAN Party
+Cyberwarfare preparedness
+CTF
+
+References
+External links
+WeChall – list of wargame websites
+security.stackexchange.com - hacking competitions
+CTFtime - worldwide CTF tracking site

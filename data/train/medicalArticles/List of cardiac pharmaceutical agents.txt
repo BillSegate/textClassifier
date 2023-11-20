@@ -1,0 +1,156 @@
+The following are medications commonly prescribed cardiac pharmaceutical agents.
+The specificity of the following medications is highly variable, and often are not particularly specific to a given class.
+As such, they are listed as are commonly accepted.
+
+Antiarrhythmic agents - group of pharmaceuticals that are used to suppress abnormally fast rhythms (tachycardias), such as atrial fibrillation, supraventricular tachycardia and ventricular tachycardia.
+Type I (sodium channel blockers)
+Type Ia
+Ajmaline
+Procainamide
+Quinidine
+Type Ib
+Lidocaine
+Phenytoin
+Type Ic
+Encainide
+Flecainide
+Propafenone
+Type II (beta blockers)
+Bisoprolol
+Carvedilol
+Metoprolol
+Propranolol
+Type III (potassium channel blockers)
+Amiodarone
+Dofetilide
+Sotalol
+Type IV (slow calcium channel blockers)
+Diltiazem
+Verapamil
+Type V
+Adenosine
+Digoxin
+ACE inhibitors - class of antihypertensives that work by causing relaxation of blood vessels as well as a decrease in blood volume, which leads to lower blood pressure and decreased oxygen demand from the heart.
+Benazepril
+Captopril
+Enalapril
+Fosinopril
+Lisinopril
+Moexipril
+Perindopril
+Quinapril
+Ramipril
+Trandolapril
+Alpha blockers:
+doxazosin
+chlorpromazine
+phentolamine
+indoramin
+phenoxybenzamine
+prazosin
+terazosin
+tolazoline
+urapidil
+Angiotensin II receptor antagonists - class of antihypertensives that bind to and inhibit the angiotensin II receptor type 1 and thereby block the arteriolar contraction and sodium retention effects of renin–angiotensin system.
+Azilsartan medoxomil
+Candesartan
+Eprosartan
+Fimasartan
+Irbesartan
+Losartan
+Olmesartan
+Telmisartan
+Valsartan
+Beta blocker
+Acebutolol
+Atenolol
+Betaxolol
+Bisoprolol
+Carteolol
+Carvedilol
+Esmolol
+Labetalol
+Metoprolol
+Nadolol
+Nebivolol
+Oxprenolol
+Penbutolol
+Pindolol
+Propranolol
+Sotalol
+Timolol
+Mixed Alpha + Beta blockers:
+bucindolol
+carvedilol
+labetalol
+clonidine (indirectly)
+Calcium channel blockers
+dihydropyridines:
+amlodipine
+barnidipine
+cilnidipine
+clevidipine
+felodipine
+isradipine
+lercanidipine
+levamlodipine
+nicardipine
+nifedipine
+nimodipine
+nisoldipine
+nitrendipine
+non-dihydropyridines
+diltiazem
+verapamil
+Antimineralocorticoid
+Eplerenone
+Finerenone
+Spironolactone
+Antiplatelet drug
+Abciximab
+Aspirin
+Cangrelor
+Clopidogrel
+Eptifibatide
+Prasugrel
+Ticagrelor
+Tirofiban
+Anticoagulant
+Apixaban
+Bivalirudin
+Dabigatran
+Edoxaban
+Enoxaparin
+Heparin
+Rivaroxaban
+Warfarin
+Fibrinolytics
+Alteplase
+Streptokinase
+Urokinase
+Diuretics
+Loop diuretics:
+bumetanide
+ethacrynic acid
+furosemide
+torsemide
+Thiazide diuretics:
+epitizide
+hydrochlorothiazide and chlorothiazide
+bendroflumethiazide
+methyclothiazide
+polythiazide
+Thiazide-like diuretics:
+indapamide
+chlorthalidone
+metolazone
+Xipamide
+Clopamide
+Potassium-sparing diuretics:
+amiloride
+triamterene
+spironolactone
+eplerenone
+
+
+== References ==

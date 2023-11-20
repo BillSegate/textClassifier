@@ -1,0 +1,38 @@
+Pediatric Basic Life Support (PBLS) is a rescue procedure which has purpose of preventing the anoxic brain damage by promoting the return of spontaneous circulation and breathing in cases of cardiac arrest.
+Unlike adult Basic Life Support (BLS), PBLS is dedicated to pediatric patients. It can be practiced by anyone without help of tools or drugs and is differentiated according to the patient's age
+
+baby: from 0 to 28 days
+infant: from 1 month to 12 months
+youth: from 12 months to puberty (about 10–11 years)
+
+International Guidelines
+About every five years, the European Resuscitation Council publishes updated guidelines about all stages of resuscitation, both for medical staff and for so-called lay rescuers.Guidelines provide a rigid evaluation sequence and actions that rule rescuer, occasional or health, in recognition of cardiac arrest in children: this sequence is called "ABC". For babies criteria by which to recognize cardiac arrest are very different and are discussed in a separate section. American Guidelines  provide for CAB, that allows the rescuer in case of proven cardiac arrest to begin immediately with cardiac compressions without wasting time to monitor breathing. In fact, it is said that in the rescue every minute is precious.Guidelines of 2010 have seen a slight pediatric protocol simplification, and have expressly provided that people trained in Basic life support in its version for adults, but that have no specific knowledge of the pediatric version, can and should use the sequence known to them, even on a child.Those who wish to learn the specific pediatric version should also remember that it is preferable to change the standard sequence by adding 5 initial rescue breaths and practicing one minute of CPR before calling for help.
+
+ABC (Airway, Breathing, Circulation)
+The process is as follows:
+Verify the state of consciousness by calling the child and, if there is no sign of an answer, try with a painful stimulus, like a pinch.
+If the child doesn't respond, if it is possible, call the rescues
+place the child on his back on a hard floor (table or floor) and align the limbs, avoiding sudden movements that are potentially harmful
+put the head in a neutral position:
+in the infant place a small thickness (such as a tablecloth folded) under the back, so that the eye-ear axis is perpendicular to the floor
+in the youth make a modest extension of the head backwards
+verify the presence of breathing by using the maneuver "G.A.S." (Watch the chest rise, listen for breath and feel the air flow) for less than 10 seconds
+if the child breathes, but he is still unconscious, he must be placed in recovery position and checked periodically while waiting for help
+if the child doesn't breath, it is essential to make 5 delicate ventilations mouth-to-mouth or with aid of a self-expandable balloon 500ml; if nothing changes, start cardiopulmonary resuscitation.
+if you are alone, call for help after a minute of any CPR; if help has already been called, call again and communicate the child's condition.In case of using the protocol for adults just remove the 5 initial rescue ventilations.
+
+Procedure for babies
+In case of newborn babies, if they have:
+muscle atonia (slackness)
+weak or absent cry
+respiratory rate below breaths per minute
+heart rate less than 110 beats per minuteit is necessary to begin ventilations with a rate of 30 breaths per minute. If, after 15 ventilations (thirty seconds) the heart rate remains below 60 per minute is necessary to begin resuscitation, otherwise continue.
+
+Version for healthcare professionals
+Healthcare professionals are recommended to use, if available, an oropharyngeal airway: in the infant, placed by the use of a tongue depressor and without rotating. After first 5 breaths, if effective, it is also advisable to search for signs such movements, coughing, shortness and possibly only the presence of pulse, for less than 10 seconds.
+if there are signs of circulation or a heart rate greater than 60 continue ventilations with a rate of 20 per minute.
+if there are not, feel the pulse and if there are no signs of circulation begins resuscitation.If air doesn't pass, consider a foreign body obstruction and continue with chest compressions (while carrying out maneuvers of unblocking pediatric in case of unconscious child).
+
+References
+
+https://web.archive.org/web/20160303224548/http://resuscitation-guidelines.articleinmotion.com/resource-center

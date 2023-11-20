@@ -1,4 +1,0 @@
-Radioimmunodetection is an imaging technique using radiolabeled antibodies.
-
-
-== References ==

@@ -1,6 +1,0 @@
-The World Health Organization maintains the Global Index Medicus (GIM). The GIM database draws into one reference source several WHO regional databases that cover bio-medicine and social welfare issues. Among these are: The African Index Medicus – AIM (maintained by AFRO/WHO); the Scientific and Technical Literature of Latin America and the Caribbean – LILACS (maintained by AMRO-PAHO/WHO through its specialized center BIREME); Index Medicus for Eastern Mediterranean Region – IMEMR (EMRO/WHO); Index Medicus for South-East Asia Region – IMSEAR (SEARO/WHO); and the Western Pacific Region Index Medicus – WPRIM (WPRO/WHO).The Global Index Medicus began consolidating the contents of the above listed databases in 2012.
-
-References
-External links
-Official website
-GIM Multilingual Thesaurus

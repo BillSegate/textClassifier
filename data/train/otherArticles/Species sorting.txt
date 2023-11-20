@@ -1,0 +1,4 @@
+Species sorting is a mechanism in the metacommunity framework of ecology whereby species distributions and abundances can be related to the environmental or biotic conditions in a particular habitat.  The species sorting paradigm describes a system of habitat patches with different environmental conditions that organisms can move between.  Species are able to disperse to patches with suitable environmental conditions, resulting in patterns where environmental conditions can predict the species found in a particular habitat.
+
+
+== References ==

@@ -1,0 +1,28 @@
+Immunoediting is a dynamic process that consists of immunosurveillance and tumor progression. It describes the relation between the tumor cells and the immune system. It is made up of three phases: elimination, equilibrium, and escape.
+
+Definition
+Immunoediting is characterized by changes in the immunogenicity of tumors due to the anti-tumor response of the immune system, resulting in the emergence of immune-resistant variants.
+
+Phase 1: Elimination
+The elimination phase, also known as immunosurveillance, includes innate and adaptive immune responses to tumour cells. For the innate immune response, several effector cells such as natural killer cells and T cells are activated by the inflammatory cytokines, which are released by the growing tumour cells, macrophages and stromal cells surrounding the tumour cells. The recruited tumour-infiltrating NK cells and macrophages produce interleukin 12 and interferon gamma, which kill tumour cells by cytotoxic mechanisms such as perforin, TNF-related apoptosis-inducing ligands (TRAILs), and reactive oxygen species. Most of the tumor cells are destroyed in this phase, but some of them survive and are able to reach equilibrium with the immune system.
+The elimination phase consists of the following four phases:
+The first phase involves the initiation of an antitumor immune response. Cells of the innate immune system recognize the presence of a growing tumor which has undergone stromal remodeling, causing local tissue damage. This is followed by the induction of inflammatory signals which is essential for recruiting cells of the innate immune system (e.g. natural killer cells, natural killer T cells, macrophages and dendritic cells) to the tumor site. During this phase, the infiltrating lymphocytes such as the natural killer cells and natural killer T cells are stimulated to produce IFN-gamma.
+In the second phase, newly synthesized IFN-gamma induces tumor death (to a limited amount) as well as promoting the production of chemokines CXCL10, CXCL9 and CXCL11. These chemokines play an important role in promoting tumor death by blocking the formation of new blood vessels. Tumor cell debris produced as a result of tumor death is then ingested by dendritic cells, followed by the migration of these dendritic cells to the draining lymph nodes. The recruitment of more immune cells also occurs and is mediated by the chemokines produced during the inflammatory process.
+In the third phase, natural killer cells and macrophages transactivate one another via the reciprocal production of IFN-gamma and IL-12. This again promotes more tumor killing by these cells via apoptosis and the production of reactive oxygen and nitrogen intermediates. In the draining lymph nodes, tumor-specific dendritic cells trigger the differentiation of Th1 cells which in turn facilitates the development of cytotoxic CD8+ T cells also known as killer T-cells.
+In the final phase, tumor-specific CD4+ and CD8+ T cells home to the tumor site and the cytotoxic T lymphocytes then destroy the antigen-bearing tumor cells which remain at the site.
+
+Phase 2: Equilibrium
+The next step in cancer immunoediting is the equilibrium phase,  during which tumor cells that have escaped the elimination phase and have a non-immunogenic phenotype are selected for growth. Lymphocytes and IFN-gamma exert a selection pressure on tumor cells which are genetically unstable and rapidly mutating. Tumor cell variants which have acquired resistance to elimination then enter the escape phase. It is the longest of the three processes in cancer immunoediting and may occur over a period of many years. During this period of Darwinian selection, new tumor cell variants emerge with various mutations that further increase overall resistance to immune attack.
+
+Phase 3: Escape
+In the escape phase, tumor cells continue to grow and expand in an uncontrolled manner and may eventually lead to malignancies. In the study of cancer immunoediting, knockout mice have been used for experimentation since human testing is not possible. Tumor infiltration by lymphocytes is seen as a reflection of a tumor-related immune response. There is increasing evidence that biological vesicles (e.g., exosomes) secreted by tumour cells help to foster an immunosuppressive tumour microenvironment.
+During the escape phase, tumor cell variants selected in the equilibrium phase have breached the host organism's immune defenses, with various genetic and epigenetic changes conferring further resistance to immune detection. There are several mechanisms that lead to escape of cancer cells to immune system, for example downregulation or loss of expression of classical MHC class I (HLA-A, HLA-B- HLA-C) which is essential for effective T cell-mediated immune response (appears in up to 90% of tumours),  development of cancer microenvironment which has suppressive effect on immune system and works as an protective barrier to cancer cells. Cells contained in tumor microenvironment are able to produce cytokines which can cause apoptosis of activated T lymphocyte. Another mechanism of tumor cells to avoid immune system is upregulation of non-classical MHC I (HLA-E, HLA-F, HLA-G) which prevents NK-mediated immune reaction by interaction with NK cells.  The tumor begins to develop and grow after escaping the immune system.
+
+Immunoediting in HIV
+Recent studies suggest that cells harboring the HIV reservoir may also be undergoing a process of immunoediting, thereby contributing to the increased resistance of these cells to be eliminated by host immune factors.
+
+See also
+Cancer immunology
+
+
+== References ==

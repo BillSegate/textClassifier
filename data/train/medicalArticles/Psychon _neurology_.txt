@@ -1,0 +1,11 @@
+A psychon was a minimal unit of psychic activity proposed by Warren McCulloch and Walter Pitts in  "A Logical Calculus of Ideas Immanent in Nervous Activity" in 1943, where it was posited to be "no less than the activity of a single neuron." McCulloch was later to reflect that he intended to invent a kind of "least psychic event" with the following properties:
+it either happened or else it did not happen.
+it would happen only if it was the product of a temporal antecedent.
+it was to lead to subsequent psychons.
+these could be compounded to produce the equivalents of more complicated propositions concerning their antecedents.This dual value logic was adopted by Jacques Lacan and applied to psychoanalysis.
+
+Significance
+The psychon was a primitive model of what would eventually become known as the all or nothing principle of neuron firing.
+
+
+== References ==

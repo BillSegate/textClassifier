@@ -1,0 +1,49 @@
+Footprinting (also known as reconnaissance) is the technique used for gathering information about computer systems and the entities they belong to. To get this information, a hacker might use various tools and technologies. This information is very useful to a hacker who is trying to crack a whole system.When used in the computer security lexicon, "Footprinting" generally refers to one of the pre-attack phases; tasks performed before doing the actual attack.  Some of the tools used for Footprinting are Sam Spade, nslookup, traceroute, Nmap and neotrace.
+
+Techniques used
+DNS queries
+Network enumeration
+Network queries
+Operating system identification
+
+Software used
+Wireshark
+
+Uses
+It allows a hacker to gain information about the target system or network. This information can be used to carry out attacks on the system. That is the reason by which it may be named a Pre-Attack, since all the information is reviewed in order to get a complete and successful resolution of the attack. Footprinting is also used by ethical hackers and penetration testers to find security flaws and vulnerabilities within their own company's network before a malicious hacker does.
+
+Types
+There are two types of Footprinting that can be used: active Footprinting and passive Footprinting. Active Footprinting is the process of using tools and techniques, such as performing a ping sweep or using the traceroute command, to gather information on a target. Active Footprinting can trigger a target's Intrusion Detection System (IDS) and may be logged, and thus requires a level of stealth to successfully do. Passive Footprinting is the process of gathering information on a target by innocuous, or, passive, means. Browsing the target's website, visiting social media profiles of employees, searching for the website on WHOIS, and performing a Google search of the target are all ways of passive Footprinting. Passive Footprinting is the stealthier method since it will not trigger a target's IDS or otherwise alert the target of information being gathered.
+
+Crawling
+Crawling is the process of surfing the internet to get the required information about the target. The sites surfed can include the target's website, blogs and social networks. The information obtained by this method will be helpful in other methods.
+
+WHOIS
+WHOIS is a web application used to get information about the target website, such as the administrator's e-mail address and details about the registration. WHOIS is a very large database and contains information of approximately all clearnet websites. It can be searched by domain name.
+
+Search engines
+Search engines such as Google can also be used to gather information about the target system. It depends on how well one knows how to use search engines to collect information. If used properly, the attacker can gather much information about a company, its career, its policies, etc.
+
+Traceroute
+Information can also be gathered using the command Tracert ("traceroute"), which is used to trace a path between a user and the target system on the networks. That way it becomes clear where a request is being forwarded and through which devices. In Linux systems, the tracepath and traceroute commands are also available for doing traceroute operations.
+
+Negative web search
+Negative web search will reveal some other websites when performed on the target website. Negative websites can act as resources for insight about the flaws of the target website.
+
+Information gathered
+If the attack is to be performed on a company, then the following information will be gathered.
+
+Company details, employee details and their email addresses.
+Relation with other companies.
+Project details involving other companies.
+Legal documents of the company.
+News relating company website.
+Patents and trademarks regarding that particular company.
+Important dates regarding new projects.
+
+See also
+Digital footprint
+Network Security
+
+
+== References ==

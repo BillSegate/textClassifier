@@ -1,0 +1,106 @@
+The visual pathway consists of structures that carry visual information from the retina to the brain. Lesions in that pathway cause a variety of visual field defects. In the visual system of human eye, the visual information processed by retinal photoreceptor cells travel in the following way:
+Retina→Optic nerve→Optic chiasma (here the nasal visual field of both eyes cross over to the opposite side)→Optic tract→Lateral geniculate body→Optic radiation→Primary visual cortex
+The type of field defect can help localize where the lesion is located (see picture given in infobox).
+
+Optic nerve lesions
+The optic nerve, also known as cranial nerve II, extends from the optic disc to the optic chiasma. Lesions in optic nerve causes visual field defects and blindness.
+
+Causes
+Causes of optic nerve lesions include optic atrophy, optic neuropathy, head injury etc.
+
+Signs and symptoms
+Lesions involving the whole optic nerve cause complete blindness on the affected side, that means damage at the right optic nerve causes complete loss of vision in the right eye.
+Optic neuritis involving external fibers of the optic nerve causes tunnel vision.
+Optic neuritis involving internal fibers of the optic nerve causes central scotoma. lf unilateral central scotoma is detected, careful observation of the temporal visual field of other eye is essential to rule out the possibility of compressive lesions at the junction of optic nerve and optic chiasm.
+Other symptoms include absence of direct light reflex, afferent pupillary defect, defective colour vision, decreased contrast sensitivity, generalized decrease in visual sensitivity etc.
+
+Optic chiasm lesions
+The optic chiasm, or optic chiasma  is the part of the brain where both optic nerves cross. It is located at the bottom of the brain immediately inferior to the hypothalamus. Signs and symptoms associated with  optic chiasm lesions are also known as chiasmal syndrome. Chiasmal syndrome has been classified into three types; anterior, middle and posterior chiasmal syndromes. Another type is lateral chiasmal syndrome.
+
+Causes
+Causes of chiasmal syndromes may be classified into intrinsic and extrinsic forms. Intrinsic causes are due to thickening of the chiasm itself and extrinsic implies compression by another structure. Other less common causes of chiasmal syndrome are metabolic, toxic, traumatic or infectious in nature. Compression of the optic chiasm is associated with pituitary adenoma, Craniopharyngioma, Meningioma etc.
+
+Signs and symptoms
+A lesion involving complete optic chiasm, which disrupts the axons from the nasal field of both eyes, causes loss of vision of the right half of the right visual field and the left half of the left visual field. This visual field defect is called as bitemporal hemianopia.
+Anterior chiasmal syndrome, the lesions that affect the ipsilateral optic nerve fibres and the contralateral inferonasal fibres located in the Willebrand knee produce junctional scotoma, i.e., a combination of central scotoma in one eye and temporal hemianopia defect in the other eye.
+Middle chiasmal syndrome, the lesions involving the decussating fibres in the body of chiasma produce bitemporal hemianopia.
+Posterior chiasmal syndrome, the lesions affecting the caudal fibres in chiasma produce paracentral bitemporal field defects. Homonymous hemianopia on the contralateral side may occur when posterior chiasmal lesions involve the optic tract.
+Lateral chiasmal lesions may produce binasal hemianopia.
+Lesions at the junction of the optic nerve and chiasm may produce an ipsilateral monocular temporal scotoma known as 'junctional scotoma'.  Scottish ophthalmologist Henry Moss Traquair first identified and named this field defect.
+
+Lesions of optic tract
+The optic tract  is a continuation of the optic nerve that relays information from the optic chiasm to the ipsilateral  lateral geniculate nucleus (LGN), pretectal nuclei, and superior colliculus. The optic tract represents the first stage in the visual pathway in which visual information is transferred in a homonymous nature. Main characteristic feature of lesion involving whole optic tract is homonymous hemianopsia. A lesion in the left optic tract will cause right-sided homonymous hemianopsia, while a lesion in the right optic tract will cause left-sided homonymous hemianopsia.
+
+Causes
+The optic tract syndrome is characterized by a contralateral, incongruous homonymous hemianopia, contralateral relative afferent pupillary defect (RAPD), and optic atrophy due to retrograde axonal degeneration. Causes of optic tract lesions are also classified into intrinsic and extrinsic forms. Intrinsic lesions include demyelinating diseases and infarction. Such lesions produce optic tract syndrome type II. Extrinsic or compressive lesions are caused by pituitary craniopharyngioma, tumours of optic thalamus. Other causes include syphilitic meningitis, gumma and tubercular meningitis etc.
+
+Signs and symptoms
+Incongruous homonymous hemianopia.
+Wernicke's pupillary reaction- No pupillary reaction when light shown to the blind half of retina, but if light is shown to seeing half, pupil shows reaction.
+
+Lesions of lateral geniculate nucleus
+The lateral geniculate nucleus (LGN) is the nucleus in the thalamus that receives visual information from the retina and sends it to the visual cortex via optic radiations. A lesion of this nucleus produces moderately to completely congruent visual field defects. Isolated lesions of the lateral geniculate nucleus are rare, it may be diagnosed by distinctive patterns of visual field loss.
+
+Causes
+Pituitary adenoma compression may cause LGN degeneration. Lesions affecting the anterior or lateral choroidal arteries may affect the lateral geniculate nucleus.
+
+Signs and symptoms
+Incongruous homonymous hemianopia.
+Pupillary reflexes are normal, as fibers for pupillary reflexes from the optic tract are diverted to pretectal nucleus and do not reach the LGN.
+Optic disc pallor may occur due to partial descending atrophy.
+
+Lesions of optic radiations
+The optic radiation are axons from the neurons in the lateral geniculate nucleus to the primary visual cortex.
+
+Causes
+Middle cerebral artery and posterior cerebral artery infarcts  (including cerebral palsies) may affect the optic radiations, and can cause quadrantanopias.
+
+Signs and symptoms
+Lesions of  right temporal lobe (meyer's Loop) of the optic radiation on one side produces a loss of the upper, outer quadrant of vision on the contralateral side, known as homonymous superior quadrantanopia or superior quadrantic hemianopia. This is also known as pie in the sky disorder.
+A lesion in the right parietal lobe cause inferior quadrantic hemianopia. It is also known as pie on the floor disorder.
+Complete homonymous hemianopia is produced when total fibres of optic radiations are involved.
+Pupillary reflexes are normal.
+Optic disc atrophy does not occur in lesions of optic radiations, as the second order neurons synapse in the LGN.
+
+Lesions of visual cortex
+The visual cortex located in the occipital lobe of the brain is that part of the cerebral cortex which processes visual information. Cortical blindness refers to any partial or complete visual deficit that is caused by damage to the visual cortex in the occipital lobe. Unilateral lesions can lead to homonymous hemianopias and scotomas. Bilateral lesions can cause complete cortical blindness and can sometimes be accompanied by a condition called Anton-Babinski syndrome.
+
+Causes
+Stroke, head injury or gunshot injuries, infection, eclampsia, encephalitis, meningitis, medications, and hyperammonemia can cause cortical blindness.
+
+Signs and symptoms
+Occipital cortex lesions tend to cause homonymous hemianopias of variable size, with or without macular involvement.
+Congruous homonymous hemianopia with macular sparing is a feature of occlusion of posterior cerebral artery supplying the anterior part of the visual cortex.
+Bilateral homonymous hemianopia with macular sparing producing a picture of ring scotoma is seen in bilateral occipital lobe lesions.
+Pupillary reflex is normal
+Optic atrophy does not occur.
+Dyschromatopsia.
+
+Diagnosis
+Visual field testing
+Measurements of visual field defects can be done by visual field testing. It can be performed by various methods, including confrontation technique, amsler grid, tangent screen, kinetic perimetry, or static perimetry. Cost common is automated perimetry.
+
+Confrontation test
+Confrontation visual field testing is a simple and quick visual field assessing method. A confrontational field test requires little or no special equipment and can be performed in any room, which is well illuminated.
+Patient sitting straight in front of the examiner, is asked  look directly at the examiner's eye during the test. The target eye should be the one directly across from the patient's eye. When the patient's right eye is being tested, closing the other eye, patient is instructed to look directly at the examiners left eye. Examiner closes his/her left eye, and then conduct finger movements, bringing his/her fingers or any other into your visual field from the sides. Since the test is basically comparison of the patient's visual field with the examiner's visual field, it is not an accurate measurement of visual field.
+
+Perimetry
+Modern computerized perimeters like humphrey field analyser (HFA) give more comprehensive and accurate reports than finger testing methods.
+
+Magnetic resonance imaging
+MRI of the brain and orbit helps to find the exact site of a lesion.
+
+Computed tomography scan
+CT scan is also used for investigating cause of visual pathway lesions.
+
+Treatment
+Tumours and other compressive lesions could often present with visual impairment and/or visual field defects. Careful clinical assessment could aid in accurate diagnosis of the cause of the visual field defect and loss of vision. Compressive lesions of the visual pathway, especially lesions affecting optic nerve require a multi-disciplinary approach involving neurosurgeon, physician as well as the ophthalmologist. Treatment is given according to the cause.
+
+See also
+Visual system
+Visual field
+Visual field test
+Eye examination
+
+
+== References ==

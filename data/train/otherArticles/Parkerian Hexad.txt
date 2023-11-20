@@ -1,0 +1,44 @@
+The Parkerian hexad is a set of six elements of information security proposed by Donn B. Parker in 1998. The Parkerian hexad adds three additional attributes to the three classic security attributes of the CIA triad (confidentiality, integrity, availability).
+The Parkerian Hexad attributes are the following:
+
+Confidentiality
+Possession or Control
+Integrity
+Authenticity
+Availability
+UtilityThese attributes of information are atomic in that they are not broken down into further constituents; they are non-overlapping in that they refer to unique aspects of information. Any information security breach can be described as affecting one or more of these fundamental attributes of information.
+
+Attributes from the CIA triad
+Confidentiality
+Confidentiality refers to limits on who can get what kind of information.  For example, executives concerned about protecting their enterprise's strategic plans from competitors; individuals are concerned about unauthorized access to their financial records.
+
+Integrity
+Integrity refers to being correct or consistent with the intended state of information.  Any unauthorized modification of data, whether deliberate or accidental, is a breach of data integrity.  For example, data stored on disk are expected to be stable – they are not supposed to be changed at random by problems with a disk controller.  Similarly, application programs are supposed to record information correctly and not introduce deviations from the intended values.
+From Donn Parker: "My definition of information integrity comes from the dictionaries. Integrity means that the information is whole, sound, and unimpaired (not necessarily correct). It means nothing is missing from the information it is complete and in intended good order." The author's statement comes close in saying that the information is in a correct...state. Information may be incorrect or not authentic but have integrity or correct and authentic but lacking in integrity.
+
+Availability
+Availability means having timely access to information.  For example, a disk crash or denial-of-service attacks both cause a breach of availability. Any delay that exceeds the expected service levels for a system can be described as a breach of availability.
+
+Parker's added attributes
+Authenticity
+Authenticity refers to the veracity of the claim of origin or authorship of the information. For example, one method for verifying the authorship of a hand written document is to compare the handwriting characteristics of the document to a sampling of others which have already been verified. For electronic information, a digital signature could be used to verify the authorship of a digital document using public-key cryptography (could also be used to verify the integrity of the document).
+
+Possession or control
+Possession or control:  Suppose a thief were to steal a sealed envelope containing a bank debit card and its personal identification number. Even if the thief did not open that envelope, it's reasonable for the victim to be concerned that the thief could do so at any time. That situation illustrates a loss of control or possession of information but does not involve the breach of confidentiality.
+
+Utility
+Utility means usefulness.  For example, suppose someone encrypted data on disk to prevent unauthorized access or undetected modifications–and then lost the decryption key:  that would be a breach of utility.  The data would be confidential, controlled, integral, authentic, and available–they just wouldn't be useful in that form. Similarly, conversion of salary data from one currency into an inappropriate currency would be a breach of utility, as would the storage of data in a format inappropriate for a specific computer architecture; e.g., EBCDIC instead of ASCII or 9-track magnetic tape instead of DVD-ROM. A tabular representation of data substituted for a graph could be described as a breach of utility if the substitution made it more difficult to interpret the data.  Utility is often confused with availability because breaches such as those described in these examples may also require time to work around the change in data format or presentation. However, the concept of usefulness is distinct from that of availability.
+
+See also
+CIA triad
+
+References
+External links
+Admissibility, Authentication, Authorization, Availability, Authenticity model
+http://veriscommunity.net/attributes.html
+NIST Special Publication 800-33 Underlying Technical Models for Information Technology Security, Recommendations of the National Institute of Standards and Technology
+
+Further reading
+Pender-Bey, George. "The Parkerian Hexad, the CIA Triad Model Expanded -- MSc thesis" (PDF).
+Parker, Donn B. (1998). Fighting Computer Crime. New York, NY: John Wiley & Sons. ISBN 0-471-16378-3. The work in which Parker introduced this model.
+Parker, Donn B. (2002). "Toward a New Framework for Information Security". In Bosworth, Seymour; Kabay, M. E. (eds.). The Computer Security Handbook (4th ed.). New York, NY: John Wiley & Sons. ISBN 0-471-41258-9.

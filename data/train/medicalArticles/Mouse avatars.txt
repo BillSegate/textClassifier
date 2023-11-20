@@ -1,0 +1,23 @@
+Mouse avatars, or avatar mice, refers to an experimental method employed to identify the best chemotherapeutic choice for a particular cancer patient.
+
+Origin
+The method was originally employed to treat cancer patients by Dr. Manuel Hidalgo (Spanish National Cancer Research Center in Madrid). The name mouse avatar or avatar mice was originally coined by the Spanish National Cancer Research Center  and was subsequently popularized by the journals Nature and Science, the Mayo Clinic and The New York Times among others.
+
+Method
+Generally, Mouse avatars involve three steps, as follows:
+
+Step one
+The tumor is obtained by surgical resection. This may cure the patient. The tumor however may regrow, at the same or at a distant location (metastasis), a process that usually entails several months. If this happens, the avatar mice may guide the oncologist to choose the most efficient chemotherapeutic treatment.
+
+Step two
+Fresh pieces of the tumor are implanted into mice (these are the so-called “first-generation” avatar mice). The implants can be at the same location where the tumor was formed in the patient, in which case are known as orthotopic xenografts or, most commonly, at a different location, generally subcutaneous, in which case are called heterotopic xenografts.If necessary, the tumors from the first-generation avatar mice can be extracted, divided into pieces, and implanted again in multiple avatar mice (“second generation”). This process can be repeated several times to obtain a large number of avatar mice from a single patient. In general, 3-4 generations are needed to obtain enough avatar mice from a single patient.
+
+Step three
+Once the desired number of avatar mice has been achieved, the mice are treated with the several available options of chemotherapy (single agents or combined agents). The response of the tumors in the avatar mice to the various chemotherapeutic regimens is examined and the most efficient one is chosen.
+The whole process usually takes several months. If the tumor of the patient recurs, then the oncologist can decide which chemotherapeutic treatment to apply based on the response of the  avatar mice that carried the original tumor of the patient.
+
+In Practice
+The therapeutic benefits of the avatar mice have been demonstrated in pilot studies by Dr. Manuel Hidalgo with pancreatic cancer patients as well as with other cancers.
+
+
+== References ==

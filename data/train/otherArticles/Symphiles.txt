@@ -1,0 +1,41 @@
+Symphiles are insects or other organisms which live as welcome guests in the nest of a social insect (such as the ant, myrmecophily, or termite, termitophily) by which they are fed and guarded. The relationship between the symphile and host may be symbiotic, inquiline or parasitic.
+
+Symphile taxa
+This is a selection of taxa exhibiting symphilia, not a complete list.
+
+Fibularhizoctonia
+Fibularhizoctonia, sometimes referred to as cuckoo fungus due to their adaptation to mimic termite eggs, employ chemical and morphological mimicry to benefit from the defense termites provide their brood. If termite workers are present to care for a brood which contains cuckoo fungus, the sclerotia, or "termite balls", are unlikely to germinate and their presence will increase the survival rate of the termite eggs. When worker termites were experimentally removed from brood that contained slerotia, the fungus germinated by exploiting the termite eggs. This means the termitophilic relationship between termites and Fibularhizoctonia can be parasitic or mutualistic.
+
+Phengaris arion
+The large blue butterfly, Phengaris arion (formerly Maculinea arion), exhibits a unique parasitic relationship with a single species of red ant, Myrmica sabuleti.
+
+Psithyrus
+Cuckoo bumblebees, members of the subgenus Psithyrus in the genus Bombus, are obligate brood parasites; they must use colonies of true bumblebees to rear their young. A Psithyrus female will kill or subdue the host colony's queen and then use pheromones and/or physical attacks to force the host colony to feed her and raise her brood.
+
+Staphylinidae
+Many species of Staphylinidae (commonly known as “Rove Beetles”) have developed complex interspecies relationships with ants. Ant associations range from near free-living species which prey only on ants, to obligate inquilines of ants, which exhibit extreme morphological and chemical adaptations to the harsh environments of ant nests. Some species are fully integrated into the host colony, and are cleaned and fed by ants. Many of these, including species in tribe Clavigerini, are myrmecophagous, placating their hosts with glandular secretions while eating the brood.Staphylinidae is currently considered to be the largest family of beetles, with over 58,000 species described. As such, many myrmecophilous species are unknown. The majority of studied myrmecophilous Rove Beetles belong to the subfamily Aleocharinae, including the commonly studied genera Pella, Dinarda, Tetradonia, Ecitomorpha, Ecitophya, Atemeles, and Limechusa, and to the subfamily Pselaphinae, which includes Claviger and Adranes. There are also representatives of Scydmaenidae, which includes 117 myrmecophilous species in 20 genera The Aleocharinae possess defensive glands on their abdomens, which are used in myrmecophilous species to prevent attacks by their host ant and in more extreme cases to integrate completely into the colony. Many Pselephinae species have trichomes, tufts of hairs which hold placating pheromones. Pselephines have evolved trichomes independently at least four times, most notably in all members of Clavigerini, but also in Attapsenius and Songius genera.
+
+Ecology and behavior
+Due to their large number and diversity, myrmecophilous Rove Beetles occupy an array of behaviors. Myrmecophilous interactions can be generalized into categories, in three of which Staphylinids can be found. The synecthrans, or “persecuted guests,” the synoeketes, or “tolerated guests,” and the symphiles, or “true guests.”
+
+Synecthrans
+Synecthran insects live on the periphery of the host colony and are not accepted into the colony.
+
+Synoeketes
+Synoeketetic insects live in close contact with their host ants but are not integrated into the colony. These species may be further categorized as neutral, mimetic, loricate, and symphiloid synoeketes.
+
+Symphiles
+Symphilic insects have been fully integrated into the host’s society. Symphilic species have undergone complex morphological adaptations, many gaining the appearance of their host's species. Most have developed trichomes, which secrete appeasement pheromones. The most extreme adaptations, found in members of tribe Clavigerini, include the reduction of mouthparts for trophallaxis and the fusing of many body and antennal segments. While most symphiles use antennal contact to stimulate food giving from their host, at least one member of Clavigerini, Claviger testaceus, secretes a chemical to induce regurgitation from its host ant Lasius flavus. Symphiles typically take on many roles in the colony, raising young, feeding and grooming adults, and helping transport food and larvae. Many Staphylinids are capable of following ant pheromone trails, although they are not limited to following trails laid by their host ant. This allows symphiles of army ants to migrate with the colony. Most species are trophallactic, being fed by other members of the colony. Almost all species have also been observed feeding on the brood, making them obligate parasites.
+
+Types of mimicry
+Auditory mimicry
+Once the larvae of the large blue butterfly (Phengaris arion) is brought into a Myrmica sabuleti colony, it will mimic the sounds a queen Myrmica larva would make, increasing the chances that the host ant colony will prefer to care for it over their own larvae. The caterpillar feeds on the ant grubs and is a predacious symphile.
+
+Chemical mimicry
+Chemical mimicry refers to the production of one species’ chemical signals by another species. Many myrmecophilous Staphylinids have evolved chemical mimicry to deter or placate ants. For Staphylinids accepted into the host colony, chemical mimicry is used for camouflage. The majority of the chemical signals used are cuticular hydrocarbons, which are produced in the cuticle of the host ant at certain concentrations and are palpated to determine the identity of an ant. Species in close contact with their host ants are able to pick up the host’s hydrocarbons and imitate the ant’s hydrocarbon pattern, thus appearing in scent at least to be the same species as the host ant. As hydrocarbon patterns are specific to an individual colony, the rove beetles are generally restricted to one nest. The production of a new hydrocarbon pattern takes time, during which the beetle is vulnerable to detection and attack. Some species, such as Zyras comes, produce volatile pheromones as well as cuticular hydrocarbons, which may provide it more protection than contact based pheromones while traveling with its host in foraging trails.
+
+Physical adaptation
+The army ants that rove beetles prey on are blind, so it is important that the rove beetles feel similar to their host species. Physical adaptation to resemble ants has evolved in rove beetles on at least twelve separate occasions.
+
+
+== References ==

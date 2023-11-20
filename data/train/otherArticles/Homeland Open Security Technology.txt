@@ -1,0 +1,16 @@
+Homeland Open Security Technology (HOST) is a five-year, $10 million program by the Department of Homeland Security's Science and Technology Directorate to promote the creation and use of open security and open-source software in the United States government and military, especially in areas pertaining to computer security.Proponent David A. Wheeler claims that open-source security could also extend to hardware and written documents. In October 2011, the project won the Open Source for America 2011 Government Deployment Open Source Award.
+
+Participants
+The project is contracted to the Open Technology Research Consortium which consists of the Georgia Tech Research Institute (primary), the Center for Agile Technology at the University of Texas at Austin, the Open Source Software Institute, and the Open Information Security Foundation. The project has contributed funding towards the OpenSSL Software Foundation and the Open Information Security Foundation.
+
+Events
+In October 2012, HOST hosted the Open Cybersecurity Summit in Washington, D.C.; it was a one-day summit with a keynote by Stewart A. Baker, former Assistant Secretary for Policy of the Department of Homeland Security.
+
+Investments
+Suricata - An open source-based intrusion detection system (IDS). It was developed by the Open Information Security Foundation (OISF). A beta version was released in December 2009, with the first standard release following in July 2010.
+OpenSSL FIPS 140-2 Validation - The Federal Information Processing Standard (FIPS) Publication 140-2, FIPS PUB 140-2, is a U.S. government computer security standard used to accredit cryptographic modules. The title is Security Requirements for Cryptographic Modules. Initial publication was on May 25, 2001 and was last updated December 3, 2002.
+
+References
+External links
+Homeland Open Security Technology (HOST)
+Open Information Security Foundation (OISF)

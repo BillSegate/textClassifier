@@ -1,9 +1,0 @@
-Transuranic waste (TRU) is stated by U.S. regulations, and independent of state or origin, to be waste which has been contaminated with alpha emitting transuranic radionuclides possessing half-lives greater than 20 years and in concentrations greater than 100 nCi/g (3.7 MBq/kg).Elements having atomic numbers greater than that of uranium are called transuranic. Elements within TRU are typically man-made and are known to contain americium-241 and several isotopes of plutonium. Because of the elements' longer half-lives, TRU is disposed of more cautiously than low level waste and intermediate level waste. In the U.S. it is a byproduct of weapons production, nuclear research and power production, and consists of protective gear, tools, residue, debris and other items contaminated with small amounts of radioactive elements (mainly plutonium).
-Under U.S. law, TRU is further categorized into "contact-handled" (CH) and "remote-handled" (RH) on the basis of the radiation field measured on the waste container's surface. CH TRU has a surface dose rate not greater than 2 mSv per hour (200 mrem/h), whereas RH TRU has rates of 2 mSv/h or higher. CH TRU has neither the high radioactivity of high level waste, nor its high heat generation. In contrast, RH TRU can be highly radioactive, with surface dose rates up to 10 Sv/h (1000 rem/h).
-The United States currently permanently disposes of TRU generated from defense nuclear activities at the Waste Isolation Pilot Plant, a deep geologic repository.
-Other countries do not include this category, favoring variations of High, Medium/Intermediate, and Low Level waste.
-
-References
-External links
-Final Environmental Assessment for Actinide Chemistry and Repository Science Laboratory - Citing a DOE TRU Definition
-US Department of Energy's page on the Waste Isolation Pilot Plant (WIPP)

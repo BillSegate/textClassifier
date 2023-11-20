@@ -1,0 +1,25 @@
+A myeloma protein is an abnormal antibody (immunoglobulin) or (more often) a fragment thereof, such as an immunoglobulin light chain, that is produced in excess by an abnormal monoclonal proliferation of plasma cells, typically in multiple myeloma or Monoclonal gammopathy of undetermined significance. Other terms for such a protein are monoclonal protein, M protein, M component, M spike, spike protein, or paraprotein. This proliferation of the myeloma protein has several deleterious effects on the body, including impaired immune function, abnormally high blood viscosity  ("thickness" of the blood), and kidney damage.
+
+History
+The concept and the term paraprotein were introduced by the Berlin pathologist Dr Kurt Apitz in 1940, then the senior physician of the pathological institute at the Charité hospital.Paraproteins allowed the detailed study of immunoglobulins, which eventually led to the production of monoclonal antibodies in 1975.
+
+Cause
+Myeloma is a malignancy of plasma cells.  Plasma cells produce immunoglobulins, which are commonly called antibodies.  There are thousands of different antibodies, each consisting of pairs of heavy and light chains.  Antibodies are typically grouped into five classes:  IgA, IgD, IgE, IgG, and IgM.  When someone has myeloma, a malignant clone, a rogue plasma cell, reproduces in an uncontrolled fashion, resulting in overproduction of the specific antibody the original cell was generated to produce.  Each type of antibody has a different number of light chain and heavy chain pairs.  As a result, there is a characteristic normal distribution of these antibodies in the blood by molecular weight.
+When there is a malignant clone, there is usually overproduction of a single antibody, resulting in a "spike" on the normal distribution (sharp peak on the graph), which is called an M spike (or monoclonal spike).  People will sometimes develop a condition called MGUS (Monoclonal gammopathy of undetermined significance), where there is overproduction of one antibody but the condition is benign (non-cancerous).  An explanation of the difference between multiple myeloma and MGUS can be found in the International Myeloma Foundation's Patient Handbook. and Concise ReviewDetection of paraproteins in the urine or blood is most often associated with MGUS, where they remain "silent", and multiple myeloma. An excess in the blood is known as paraproteinemia. Paraproteins form a narrow band, or 'spike' in protein electrophoresis as they are all exactly the same protein. Unlike normal immunoglobulin antibodies, paraproteins cannot fight infection.
+Serum free light-chain measurement can detect free light chains in the blood. Monoclonal free light chains in the serum or urine are called Bence Jones proteins.
+
+Interpretation upon detection
+Blood serum paraprotein levels of more than 30 g/L is diagnostic of smouldering myeloma, an intermediate in a spectrum of step-wise progressive diseases termed plasma cell dyscrasias. Elevated paraprotein level (above 30 g/L) in conjunction with end organ damage (elevated calcium, kidney failure, anemia, or bone lesions) or other biomarkers of malignancy, is diagnostic of multiple myeloma, according to the diagnostic criteria of the International Myeloma Working Group, which were updated in 2014. Detection of paraprotein in serum of less than 30 g/L is classified as monoclonal gammopathy of undetermined significance in cases where clonal plasma cells constitute less than 10% on bone marrow biopsy and there is no myeloma-related organ or tissue impairment.
+
+See also
+Tuftsin
+Monoclonal gammopathy of undetermined significance
+Smouldering myeloma
+Multiple myeloma
+Plasma cell dyscrasia
+
+References
+External links
+Paraproteins at the U.S. National Library of Medicine Medical Subject Headings (MeSH)
+Educational Resource for Paraproteins
+Paraprotein typing

@@ -1,0 +1,307 @@
+Plant life-form schemes constitute a way of classifying plants alternatively to the ordinary species-genus-family scientific classification. In colloquial speech, plants may be classified as trees, shrubs, herbs (forbs and graminoids), etc. The scientific use of life-form schemes emphasizes plant function in the ecosystem and that the same function or "adaptedness" to the environment may be achieved in a number of ways, i.e. plant species that are closely related phylogenetically may have widely different life-form, for example Adoxa moschatellina and Sambucus nigra are from the same family, but the former is a small herbaceous plant and the latter is a shrub or tree. Conversely, unrelated species may share a life-form through convergent evolution.
+While taxonomic classification is concerned with the production of natural classifications (being natural understood either in philosophical basis for pre-evolutionary thinking, or phylogenetically as non-polyphyletic), plant life form classifications uses other criteria than naturalness, like morphology, physiology and ecology.
+Life-form and growth-form are essentially synonymous concepts, despite attempts to restrict the meaning of growth-form to types differing in shoot architecture. Most life form schemes are concerned with vascular plants only. Plant construction types may be used in a broader sense to encompass planktophytes, benthophytes (mainly algae) and terrestrial plants.A popular life-form scheme is the Raunkiær system.
+
+History
+One of the earliest attempts to classify the life-forms of plants and animals was made by Aristotle, whose writings are lost. His pupil, Theophrastus, in Historia Plantarum (c. 350 BC), was the first who formally recognized plant habits: trees, shrubs and herbs.Some earlier authors (e.g., Humboldt, 1806) did classify species according to physiognomy, but were explicit about the entities being merely practical classes without any relation to plant function. A marked exception was A. P. de Candolle (1818) attempt to construct a natural system of botanical classification. His system was based on the height of the lignified stem and on plant longevity.
+Eugenius Warming, in his account, is explicit about his Candollean legacy. Warming's first attempt in life-form classification was his work Om Skudbygning, Overvintring og Foryngelse (translated title "On shoot architecture, perennation and rejuvenation" - See line drawings) (1884). The classification was based on his meticulous observations while raising wild plants from seed in the Copenhagen Botanical Garden. Fourteen informal groups were recognized, based on longevity of the plant, power of vegetative propagation, duration of tillers, hypogeous or epigeous type of shoots, mode of wintering, and degree and mode of branching of rhizomes.
+The term life-form was first coined by  Warming ("livsform") in his 1895 book Plantesamfund, but was translated to "growthform" in the 1909 English version Oecology of Plants.
+Warming developed his life-form scheme further in his "On the life forms in the vegetable kingdom". He presented a hierarchic scheme, first dividing plants into heterotrophic and autotrophic, the latter group then into aquatic and terrestrial, the land plants into muscoid, lichenoid, lianoid and all other autonomous land plants, which again were divided into monocarpic and polycarpic. This system was incorporated into the English version of his 1895 book Oecology of Plants. Warming continued 
+working on plant life-forms and intended to develop his system further. However, due to high age and illness, he was able to publish a draft of his last system onlyFollowing Warming's line of emphasizing functional characters, Oscar Drude devised a life-form scheme in his Die Systematische und Geographische Anordnung der Phanerogamen (1887). This was, however, a hybrid between physiognomic and functional classification schemes as it recognized monocots and dicots as groups. Drude later modified his scheme in Deutschlands Pflanzengeographie (1896), and this scheme was adopted by the influential American plant ecologists Frederic Clements and Roscoe Pound
+Christen C. Raunkiær's classification (1904) recognized life-forms (first called "biological types") on the basis of plant adaptation to survive the unfavorable season, be it cold or dry, that is the position of buds with respect to the soil surface. In subsequent works, he showed the correspondence between gross climate and the relative abundance of his life-forms.G.E. Du Rietz (1931) reviewed the previous life-form schemes in 1931 and strongly criticized the attempt to include "epharmonic" characters, i.e., those that can change in response to the environment (see phenotypic plasticity). He tabulated six parallel ways of life-form classification:
+1. Main life-forms ("Grundformen"): based upon the general plant physiognomy (e.g., Theophrastus, 350 BC, Humboldt, 1806;
+2. Growth-forms sensu stricto: based upon the shoot architecture;
+3. Periodicity life-forms: based upon the seasonal physiognomic variation;
+4. Bud height life-forms: based upon the height above (or below) the ground-level of the uppermost buds perduring the most unfavourable seasons (e.g., Raunkiær, 1904);
+5. Bud-type life-forms: based upon the structure of the buds perduring the most unfavourable seasons;
+6. Leaf life-forms: based on the character (form, size, duration, structure, etc.) of the leaves (e.g., Raunkiær, 1916).Later authors have combined these or other types of unidimensional life-form schemes into more complex schemes, in which life-forms are defined as combinations of states of several characters. Examples are the schemes proposed by Pierre Dansereau and Stephan Halloy. These schemes approach the concept of plant functional type, which has recently replaced life-form in a narrow sense.
+
+Classification systems
+Following, some relevant schemes.
+
+Theophrastus (c. 350 BC)
+Based on plant habit:
+Trees
+Shrubs
+Herbs
+
+Humboldt (1806-1808)
+Humboldt described 19 (originally 16) Hauptformen, named mostly after some characteristic genus or family:
+die Palmen
+die Bananenform
+die Malvenform
+die Form der Mimosen
+die Heidekräuter
+die Cactusform
+die Orchideen
+die Form der Casuarinen
+die Nadelhölzer
+die Pothosgewächse (Arumform)
+die Lianen
+die Aloegewächse
+die Grasform
+die Farenkräuter
+die Liliengewächse
+die Weidenform
+die Myrtengewächse
+die Melastomenform
+die Lorbeerform
+
+De Candolle (1818)
+Based upon the duration of life and the height of the ligneous stem:
+1. Planta monocarpica
+2. Planta monocarpica annua
+3. Planta monocarpica biennis
+4. Planta monocarpica perennis
+5. Planta rhizocarpica
+6. Planta caulocarpica
+7. Planta caulocarpica suffrutex
+8. Planta caulocarpica frutex
+9. Planta caulocarpica arbuscula
+10. Planta caulocarpica arbor
+
+Raunkiær (1904-1907) plant life-forms
+Based on the place of the plant's growth-point (bud) during seasons with adverse conditions (cold seasons, dry seasons):
+
+Phanerophytes
+Chamaephytes
+Hemicryptophytes
+CryptophyteGeophytes
+Helophytes
+HydrophytesTherophytes
+Aerophytes
+Epiphytes
+
+Warming (1909)
+I. Heterotrophic plants (holosaprophytes and holoparasites).
+II. Aquatic plants.
+Ill. Muscoid plants (bryophytes, and perhaps Hymenophyllaceae).
+IV. Lichenoid plants (lichens, and perhaps some vascular plants like Tillandsia nsneoides).
+V. Lianoid plants.
+VI. The rest of the autonomous terrestrial plants.
+A. Hapaxanthic (or monocarpic) herbs.
+1. Aestival annual plants.
+2. Hibernal annual plants.
+3. Biennial-perennial (dicyclic, pleiocyclic) herbs.
+B. Pollacanthic (polycarpic) plants.
+1. Renascent (redivivus) herbs (multicipital rhizomes, mat-geophytes, and rhizome-geophytes, each of them with several subordinate groups).
+2. Rosette-plants (besides the ordinary rosette-herbs and rosette-grasses also the Musa-form and the tuft-trees).
+3. Creeping plants.
+4. Land-plants with long erect long-lived shoots (cushion-plants, under-shrubs, soft-stemmed plants, succulent-stemmed plants, woody plants with long-lived, lignified stems, the last group divided into canopy-trees, shrubs, a dwarf-shrubs).
+
+Clements (1920)
+Vegetation-forms:
+I. 1. Annuals.
+II. 2. Biennials.
+III. Herbaceous perennials.
+3. Sod-grasses.
+4. Bunch-grasses.
+5. Bush-herbs.
+6. Cushion-herbs.
+7. Mat-herbs.
+8. Rosette-herbs.
+9. Carpet-herbs.
+10. Succulents.
+IV. Woody perennials.
+11. Halfshrubs.
+12. Bushes.
+13. Succulents.
+14. Shrubs.
+15. Trees.
+
+Rübel (1930)
+Magniligniden
+Parviligniden
+Semiligniden
+Sukkulenten
+Epiphyten
+Lianen
+Herbiden
+Saxiden
+Errantiden
+
+Du Rietz (1931)
+Main life-forms ("Grundformen") system:
+A. Woody plants or Holoxyles ("ligneous plants", "lignose" of many earlier authors, "Ligniden" Du Rietz 1921, "Xyloids" Warming 1923).
+I. Trees.
+II. Shrubs.
+III. Dwarf-shrubs.
+IV. Woody cushion-plants.
+V. Woody lianas.
+B. Half-shrubs, or Hemixyles (semi-woody plants, "Semiligniden" Rübel 1930).
+I. Tall half-shrubs.
+II. Dwarf half-shrubs.
+C. Herbaceous plants ("Herbiden" Du Rietz 1921).
+I. Chtonophytic, non-lianoid.
+II. Epiphytoidic.
+III. Parasitic on trunks or branches of trees, shrubs, or dwarf-shrubs.
+IV. Herbaceous lianes.Growth-form system:
+
+a. Main stem-types in flowering-plants.A. Geocorms.
+I. Plagiogeocorms.
+II. Orthooeocorms.
+B. Aërocorms.
+I. Herbaceous aërocorms.
+II. Ligneous aerocorrns.
+b. Growth-forms on the basis of stem-types and stem-type combinations.A. Holoxyles
+I. Trees.
+II. Shrubs.
+III. Dwarf-shrubs.
+IV. Woody Cushion-plants.
+B. Hemixyles.
+I. True Half-shrubs (suffrutices).
+II. Cane Half-shrubs (virgulta).
+
+Ellenberg & Mueller-Dombois (1967)
+Main groups of plant life forms:
+Aa Autotrophic plants
+Ba Kormophytes (= vascular plants)
+Ca Self-supporting plants
+Da Woody plants, or herbaceous evergreen perennials
+Phanerophytes
+Chamaephytes
+Db Perennial (including biennial) herbaceous plants with periodic shoot reduction
+Hemicryptophytes
+Geophytes (Cryptophytes)
+Dc Annuals
+Therophytes
+Cb Plants that grow by supporting themselves on others
+Ea Plants that root in the ground
+Lianas (Eu-lianas)
+Hemi-epiphytes (Pseudo-lianas)
+Eb Plants that germinate and root on other plants (these include dead standing plants, telegraph poles and wires, stumps and such like)
+Epiphytes
+Cc Free-moving water plants (= errants)
+Errant vascular Hydrophytes
+Bb Thallophytes (= non-vascular cryptogams)
+Fa Plants attached to the ground surface
+Ga Perennials
+Thallo-chamaephytes
+Thallo-hemicryptophytes
+Gb Annuals
+Thallo-therophytes
+Fb Fb Plants attached to others
+Thallo-epiphytes
+Fc Free-moving autotrophic thallophytes (= errants)
+Ha Photosynthesizers
+Errant thallo-hydrophytes
+Kryophytes
+Edaphophytes
+Hb Chemosynthesizers
+Chemo-edaphophytes
+Ab Semi-autotrophic plants
+Ia Kormophytes
+Vascular Semi-parasites
+Ib Thallophytes
+Thallo-semi-parasites
+Ac Heterotrophic plants
+Ka Kormophytes
+Vascular Parasites
+Vascular Saprophytes
+Kb Thallophytes
+Thallo-parasites
+Thallo-saprophytes
+
+Other categorizations
+Following, other morphological, ecological, physiological or economic categorizations of plants. According to the general appearance (habit):
+
+Woody plantsTrees
+Shrubs
+subshrubs
+LianasHerbaceous plants
+graminoids
+Other: vines (lianas and nonwoody vines), cushion plants and rosettes, canes, palm-like plants (see Glossary of plant morphology#Plant habit)According to leaf hardness, size and orientation in relation to sunlight:
+
+Sclerophyll leaves
+Orthophyll or hyptiophyll leavesAccording to the habitat:
+
+Terrestrial plants
+Aquatic (hydrophytes or macrophytes)
+Aerial plants (epiphytes)
+LithophytesAccording to the water content of the environment:
+
+Aquatic plants (hydrophytes)
+Marsh plants (helophytes)
+Moisture plants (hygrophytes)
+Drought plants (xerophytes)
+Mesophytes
+PhreatophytesAccording to latitude (in vegetation classification):
+
+Tropical
+Subtropical
+Temperate
+Subpolar
+PolarAccording to climate (in vegetation classification):
+
+Pluvial (ombrophilous)
+Seasonal
+Drought
+Cloud forest
+RainforestAccording to altitude (in vegetation classification):
+
+Montane
+Submontane
+LowlandAccording to the loss of leaves (in vegetation classification):
+
+Deciduous (caducifolious)
+Semi-deciduous (semicaducifolious)
+Evergreen (perennifolious)According to the luminosity of the environment:
+Heliophytes
+Sciophytes (embryophytes)According to the mode of nutrition:
+
+Parasite plants
+Hemiparasites
+Carnivorous plants
+MycotrophsAccording to soil factors:
+
+Metallophytes
+Halophytes
+GlycophytesAccording to the capacity to avoid dehydration:
+
+Poikilohydric plants
+Homoiohydric plantsAccording to short-term fluctuations in water balance:
+
+Hydrolabile plants
+Hydrostable plantsAccording to the range of drought/humidity tolerance:
+
+Stenohydric plants
+Euryhydric plantsAccording to longevity:
+
+Annual plants
+Biennial plants
+Perennial plantsAccording to the type of photosynthesis:
+
+C3 plants
+C4 plants
+CAM plantsAccording to origin:
+Exotic plants
+Native plants
+Naturalised or subspontaneous plantsAccording to biogeographic distribution:
+
+Endemic plants
+Cosmopolitan plants
+Disjunct plantsAccording to invasiveness:
+
+Invasive plant
+Noninvasive plantAccording to establishment time in an ecological succession:
+
+Pioneer plants or ruderal plants
+Climax plantsAccording to human cultivation:
+
+Domesticated plantsCultigensWild plantsAccording to importance to humans (see ethnobotany):
+
+Edible plants
+Medicinal plants
+Ornamental plants
+Timber trees
+Indicator plants
+Weeds
+Poisonous plants
+
+See also
+Succulent plants
+
+References
+External links
+ Media related to Plant life-form at Wikimedia Commons
+Pillar, V.D. & L. Orlóci. 2004. Character-Based Community Analysis: The Theory and an Application Program. Electronic Edition available at http://ecoqua.ecologia.ufrgs.br. 213 p., [6].

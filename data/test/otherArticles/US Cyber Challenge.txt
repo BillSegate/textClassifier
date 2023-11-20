@@ -1,0 +1,12 @@
+US Cyber Challenge is a private program which recruits, trains, and places candidates in cybersecurity jobs in the United States. US Cyber Challenge was formerly a DHS S&T-funded not-for-profit organization, and is currently a program of the Center for Internet Security.
+
+History
+The founding director of US Cyber Challenge was Karen S. Evans.
+
+Methodology
+The US Cyber Challenge uses an online competition each April to select qualified candidates for a one-week cybersecurity training program the following summer. The summer program includes workshops, a job fair, and a capture the flag competition. Topics covered in the workshops include intrusion detection, penetration testing and forensics. Participation is limited to high school and college students who are US citizens.
+
+References
+External links
+Official web site
+US Cyber Challenge on Twitter

@@ -1,0 +1,25 @@
+SATRO-EKG - a computer program analysing electro-cardiology signals. It is based on the SFHAM model. It facilitates the evaluation of electrical activity of myocardium, and therefore, early detection of ischemic changes in the heart.
+
+Reference tests
+The reference tests of the SATRO-ECG method in relation to perfusive scintigraphy SPECT conducted in Military Medical Institute in Warsaw and Medical University of Wroclaw proved the possibility to use this method to detect coronary heart disease (CHD).  A very high Sensitivity and specificity in detecting this disease were obtained.Sensitivity (Se), specificity (Sp), predictive value of positive values results (PV(+)) and negative values results (PV(-)) are presented in the grid below:
+Comparison of SATRO-ECG results - SPECT (exercise) for particular parts of the cardiac muscle is presented in the grid below: 
+where: IS - interventricular septum, AW - anterior wall, IW - inferior wall, LW - lateral wall.The results of the tests prove a high correlation the between SATRO-ECG results and SPECT in the case of detection of coronary heart disease (CHD)
+
+Usage
+An advantage of this method is a fast and precise analysis of the ECG results in the rest, which enables:
+easy and safe measurement
+detection of ischemic heart disease with very high diagnostic sensitivity and specificity
+early prevention of the coronary disease, objective and not only statistical risk validation
+monitoring of the effects of the treatment and early classifying patients to reference tests, e.g. PTCA, SPECT, etc.
+analysing the efficiency of particular biologically active substances (pharmacology, nutriceutics, dietary supplements) and other methods (e.g. physical medicine)The method is a diagnostic element of the Program of Universal Prevention and Therapy of Ischemic Heart Disease in the international project developed for United Nations Economic and Social Council .
+
+Bibliography
+Janicki J. Physical Basis of Satro – A New Method For Analysis of The Cardiac Muscle Depolarisation. Los Alamos National Laboratory, s. 1-43, 2006, arXiv:physics/0602162v2 [physics.med-ph]  
+Janicki JS, Leoński W,  Jagielski J. Partial potentials of selected cardiac muscle regions and heart activity model based on single fibres. Medical Engineering & Physics, 31 (2009) 1276-1282 
+Janicki JS, Leoński W, Jagielski J, Sobieszczańska M, Chąpiński M, Janicki Ł. Single Fibre Based Heart Activity Model (SFHAM) Based Qrs-Waves Synthesis. W: Sobieszczańska M, Jagielski J, Macfarlane PW, editors. Electrocardiology 2009. JAKS Publishing Company; 2010. p. 81-86, ISBN 978-83-928209-5-6 
+Janicki JS, Leoński W, Jagielski J, Sobieszczańska M, Leońska JG. Implementation of SFHAM in Coronary Heart Disease Diagnosis. W: Sobieszczańska M, Jagielski J, Macfarlane PW, editors. Electrocardiology 2009. JAKS Publishing Company; 2010. p. 197-201, ISBN 978-83-928209-5-6 
+Janicki J. Physical foundations of the SATRO method. PIW Primax Medic,  p. 1-71, 2006,  LCCN 2006-356427;  ISBN 83-60007-10-1
+
+References
+External links
+SATRO-ECG method web page  (english)

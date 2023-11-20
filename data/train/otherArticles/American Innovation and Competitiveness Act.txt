@@ -1,0 +1,18 @@
+The American Innovation and Competitiveness Act (AICA) is a United States federal law enacted in 2017 by President Barack Obama that aims to invest in cybersecurity and cryptography research. The legislation was initially introduced in the Senate by Cory Gardner (R-CO) and Gary Peters (D-MI). The legislation serves as a reauthorization of the 2010 America COMPETES Act that expired in 2013.The legislation updates instructions to the National Science Foundation and the National Institute of Standards and Technology (NIST), with a director of security position being created in the latter latter. AICA supports the coordination of citizen science and crowdsourcing by Federal agencies to accomplish their missions.
+
+Provisions
+As a result of AICA:
+
+Program requirements on the Networking and Information Technology Research and Development program, which coordinates advanced computer research across U.S. government agencies, were revisedThe Office of Management and Budget was given the responsibility to create an interagency working group to reduce administrative burdens on federally-funded researchers.Both interagency advisory panel and working groups were created to consider education for science, technology, engineering, and mathematics (STEM) fields.
+
+See also
+Computer security
+Information assurance
+Information security
+Information security management system
+IT risk
+Threat (computer)
+Vulnerability (computing)
+
+
+== References ==

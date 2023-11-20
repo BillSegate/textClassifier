@@ -1,0 +1,71 @@
+The Opal Storage Specification is a set of specifications for features of data storage devices (such as hard disk drives and solid state drives) that enhance their security.  For example, it defines a way of encrypting the stored data so that an unauthorized person who gains possession of the device cannot see the data.  That is, it is a specification for self-encrypting drives (SED).
+The specification is published by the Trusted Computing Group Storage Workgroup.
+
+Overview
+The Opal SSC (Security Subsystem Class) is an implementation profile for Storage Devices built to:
+
+Protect the confidentiality of stored user data against unauthorized access once it leaves the owner's control (involving a power cycle and subsequent deauthentication).
+Enable interoperability between multiple SD vendors.
+
+Functions
+The Opal SSC encompasses these functions:
+
+Security provider support
+Interface communication protocol
+Cryptographic features
+Authentication
+Table management
+Access control and personalization
+Issuance
+SSC discovery
+
+Features
+Security Protocol 1 support
+Security Protocol 2 support
+Communications
+Protocol stack reset commands
+
+Security
+Radboud University researchers indicated in November 2018 that some hardware-encrypted SSDs, including some Opal implementations, had security vulnerabilities.
+
+Implementers of SSC
+Device companies
+Hitachi
+Intel Corporation
+Kingston Technology
+Lenovo
+Micron Technology
+Samsung
+SanDisk
+Seagate Technology as "Seagate Secure"
+Toshiba
+
+Storage controller companies
+Marvell
+Avago/LSI SandForce flash controllers
+
+Software companies
+Absolute Software
+Check Point Software Technologies
+Dell Data Protection
+Cryptomill
+McAfee
+Secude 
+Softex Incorporated
+Sophos
+Symantec (Symantec supports OPAL drives, but does not support hardware-based encryption.)
+Trend Micro
+WinMagic
+OpalLock(OpalLock support Self-Encrypt-Drive capable SSD and HDD. Develop by Fidelity Height LLC)
+
+Computer OEMs
+Dell
+HP
+Lenovo
+Fujitsu
+Panasonic
+Getac
+
+References
+External links
+Storage Work Group Storage Security Subsystem Class: Opal

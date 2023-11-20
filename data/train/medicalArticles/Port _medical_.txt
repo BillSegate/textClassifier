@@ -1,0 +1,86 @@
+In medicine, a port is a small medical appliance that is installed beneath the skin. A catheter (plastic tube) connects the port to a vein. Under the skin, the port has a septum (a silicone membrane) through which drugs can be injected and blood samples can be drawn many times, usually with less discomfort for the patient (and clinician) than a more typical "needle stick".
+
+Terminology
+A port is more correctly known as a "totally implantable venous access device".  They are also commonly referred to as a Portacath or Chemo port. Brand names include Eco Port, Clip-a-Port, SmartPort, Microport, Bardport, PowerPort, Passport, Port-a-Cath, Infuse-a-Port, Medi-Port, and Bioflo.
+
+Structure
+Ports are used mostly to treat hematology and oncology patients. Ports were previously adapted for use in hemodialysis patients, but were found to be associated with increased rate of infections and are no longer available in the US.The port is usually inserted in the upper chest (known as a "chest port"), just below the clavicle or collar bone, with the catheter inserted into the jugular vein.
+A port consists of a reservoir compartment (the portal) that has a silicone bubble for needle insertion (the septum), with an attached plastic tube (the catheter). The device is surgically inserted under the skin in the upper chest or in the arm and appears as a bump under the skin. It requires no special maintenance other than occasional flushing to keep clear. It is completely internal so swimming and bathing are not a problem. The catheter runs from the portal and is surgically inserted into a vein (usually the jugular vein or less optimally the subclavian vein). Ideally, the catheter terminates in the superior vena cava or the right atrium. This position allows infused agents to be spread throughout the body quickly and efficiently.
+The septum is made of a special self-sealing silicone; it can be punctured hundreds of times before it weakens significantly. To administer treatment or to withdraw blood, a health care professional will first locate the port and disinfect the area, then access the port by puncturing the overlying skin with a Huber point (non-coring) needle. Due to its design, there is a very low infection risk, as the breach of skin integrity is never larger than the caliber of the needle. This gives it an advantage over indwelling lines such as the Hickman line. Negative pressure is created to withdraw blood into the vacuumized needle, to check for blood return and see if the port is functioning normally. Next, the port is flushed with a saline solution. Then, treatment will begin.
+
+Uses
+Ports have many uses:
+
+To deliver chemotherapy to cancer patients who must undergo treatment frequently. Chemotherapy is often toxic, and can damage skin and muscle tissue, and therefore should not be delivered through these tissues. Ports provide a solution, delivering drugs quickly and efficiently through the entire body via the circulatory system.
+To deliver coagulation factors in patients with severe hemophilia.
+To withdraw (and/or return) blood to the body in patients who require frequent blood tests, and in hemodialysis patients.
+To deliver antibiotics to patients requiring them for a long time or frequently, such as those with cystic fibrosis and bronchiectasis.
+Delivering medications to patients with immune disorders.
+For treating alpha 1-antitrypsin deficiency with replacement therapy
+For delivering radiopaque contrast agents, which enhance contrast in CT imaging.
+To fill or withdraw fluid from the Lap-Band or Realize gastric bands used in Bariatric surgeries.
+To administer analgesics to patients with chronic pain, such as cancer patients and those with sickle-cell disease
+
+Contraindications
+Installation of a port is absolutely  contraindicated when a patient has bacteremia or sepsis. In those with contrast allergy, or allergy to food or medications, the procedure can still be carried out with prednisolone coverage.
+Other relative contraindications include coagulopathy (abnormal coagulation) or platelet count less than 50x109/L. However, if the port is needed urgently, platelet transfusion may be given while the procedure is ongoing on table.
+
+Insertion
+A port is most commonly inserted as an outpatient surgery procedure in a hospital or clinic by an interventional radiologist or surgeon, under moderate sedation. Implantation is increasingly performed by interventional radiologists due to advancements in techniques and their facile use of imaging technologies.  When no longer needed, the port can be removed in the interventional radiology suite or an operating room.
+Fluoroscopy is useful in guiding the insertion of ports.
+
+Interventional radiology
+Right internal jugular vein (IJV) is frequently chosen as the site of access. A 19G puncture needle is used to obtain access to the vein under ultrasound guidance. The needle should be pointed away from the common carotid artery (CCA) as the CCA just lie medially to the IJV. If there is difficult puncture, micropuncture set can be used to puncuture the vein and later switch to a bigger access system. If bilateral IJVs are thrombosed, then right external jugular vein is chosen as the puncture site. The puncture site should not be the same side as the pathological site such as breast cancer site or an area that is chosen as the potential site for radiation therapy.After the entry site is punctured with ultrasound, a guidewire is inserted with the tip of the guidewire reaching the inferior vena cava. The proximal end of the guidewire is secured to prevent dislodgement. Then a chemoport pocket is created on the deltopectoral region at 2.5 cm below the level of clavicle by using a scalpel. Bupivacaine with adrenaline (0.25%) is used as local anesthetic to reduce the formation of haematoma and prolong the anesthetic effect. After the pocket is created, a trocar is used insert a silicone catheter from the pocket towards the internal jugular vein puncture site. A peel-away sheath is then inserted to facilitate the insertion of the silicone catheter into the cavoatrial junction. Silicone catether insertion should be done during breath hold at inspiration. The peel-away sheath should be pinched to prevent air embolism. The proximal end of the catheter is connected to the port within the skin pocket later after irrigation of the pocket with normal saline.The port is then sutured on two sites to the underlying muscles. The tip of the catheter is checked for kinks and position using a fluoroscope. Besides that, aspiration of blood and contrast injection through the chemoport can also be used to confirm the position. The port is the closed in two layers (subcutaneous tissue is sutured first, followed by the skin). Sterile dressing is then placed on the port. The optimum site to park the tip of the catheter is at the cavo-atrial junction or with margin of error of not more than 4 cm above the junction.
+
+Surgery
+The insertion site of the IJV is fixed between the two heads (sternal and clavicular heads) of the sternocleidomastoid. 2% lignocaine is to infiltrate the puncture site. Using a 24G needle attached to 5 cc syringe, the needle is advanced through the puncture site with its tip pointing towards the nipple of the same side. Once the backflow of venous blood is seen in the syringe, the puncture of the IJV is considered successful. Then a port needle is advanced through the pre-existing 24G needle and backflow of blood is confirmed by aspirating another syringe attached to the port needle. Then a guidewire is inserted through the port needle. The guidewire should not extend past the SA node of the right atrium as it can stimulate the heart arrhythmia. The port needle is then removed and the guidewire is fixed in place. The puncture is then widened by using 11-number knife and mosquito haemostat.The port access site is fixed at 5 cm below the midline of the clavicle and 9 to 10 cm lateral to the midline of the chest. Then, a 5 to 6 cm incision is made to create a subcutaneous tissue pouch for the placement of port access site. A tunnel is made from the port access site until adjacent to the internal jugular neck wound. A port catheter is passed through the tunnel where one end is attached to the chemport and another end is left hanging out near the IJV insertion site. The length of the hanging port catheter should be about 16 to 17 cm (or can be measured from the IJV insertion site until 2 cm below the sternal angle where the right atrium should begin). This portion of the port catheter should later be inserted through the IJV insertion site until it reaches the aortocaval junction. The IJV insertion is dilated using a plastic dilator. Peel-off sheath was then inserted over the guidewire. Blood is aspirated from the catheter to confirm the position. Then, the free-end of the port catheter is inserted through the peel-off sheath. After the tip of the port catheter is confirmed at the aortocaval junction, the peel-off sheath is taken-off by peeling away with two hands. While peeling off, the port catheter should remain in-situ. Stitches are only removed after 14 days post operation.A follow-up on a chest radiograph can immediately detect complications associated with the procedure such as pneumothorax, hemothorax and malpositions of the catheter. However, routine chest radiography is not needed due to the low complication rates associated with the procedure. The chest radiograph is only done if there is clinical suspicion of a complication.The side of the patients' chest the port is implanted in will usually be chosen to avoid damage to the port and the veins by the seat belt in case of accident when seated as the driver. Thus, there is a potential conflict by left- and right-hand traffic as the rule of the road.Ports can be put in the upper chest or arm.  The exact positioning itself is variable as it can be inserted to avoid visibility when wearing low cut shirts, and to avoid excess contact due to a backpack or bra strap. The most common placement is on the upper right portion of the chest, with the catheter itself looping through the right jugular vein, and down towards the patient's heart.
+
+Models
+There are many different models of ports.  The particular model selected is based on the patient's specific medical conditions.
+Portals:
+
+can be made of plastic, stainless steel, or titanium
+can be single chamber or dual chamber
+vary in height, width and shape.Catheters:
+
+can be made of biocompatible, medical-grade polyurethane or silicone
+can vary in length and diameterFor applications such as CT scan, high pressure infusion allowing ports are needed.
+
+Manufacturers
+The major manufacturers of ports are AngioDynamics, B. Braun Medical, Bard Access Systems, Cook Medical, MedComp, Navilyst Medical, Norfolk Medical Products, and Smiths Medical.
+
+Risks
+The most common complications are: catheter blockage (7.4%), and catheter-related infection (5.6%). Other complications are: malpositioning of the catheter, venous thrombosis, catheter leak or dislodgement.The common carotid artery may be injured during the puncture of the internal jugular vein as the artery lies close to the vein. This mostly due to the needle overshooting into the artery rather than the inability to recognise vein and artery under ultrasound guidance. The risk of puncture increases when the artery lies superficial to the vein and for those with short neck and obese people. However, these cases can be easily controlled using compression and it does not leave a hematoma at the site of puncture. The overall risk of arterial puncture is 0.5%. The subclavian artery can be inadvertently punctured while attempting a subclavian vein access, leading to a subcutaneous hematoma and occasionally a pseudoaneurysm. An alternative site may need to be used for port placement. Puncture of the carotid artery is significantly more rare, since attempts to access the nearby jugular vein are increasingly done with ultrasound guidance.The incidence of catheter fracture is 2.3%. The fracture can be due to "pinch-off syndrome" when the vein and the catheter is compressed when passes between the clavicle and first rib before turning 90 degrees into the superior vena cava. Fractured catheter component can dislodge most commonly into pulmonary arteries (35%), right atrium (27%), right ventricle (22%), and superior vena cava and peripheral veins (15.4%).Malpositioning of the catheter happens in 0.1 to 5.6% of the time. This can be due to malposition within or outside the superior vena cava. Causes includes: unexpected branches of the veins, vessel angulations, vein stenosis or venous tortousity.Thrombosis or the formation of a blood clot in the catheter may block the device irrevocably. It happens in 0.3 to 28.3% of the cases. Administering cancer drugs through the port, frequent injury to the vessel during usage, or simply prolonged usage of the port can contribute to clot formation within the catheter. To prevent risk of thrombosis, right internal jugular vein is usually selected, as it has the lowest risk of thrombus formation than subclavian vein. Once thrombosis happens, the port either anticoagulant therapy is given or the port is totally removed.
+Age: If the device is put into a child, the child's growth means that the catheter becomes relatively shorter and will move towards the head. It may become necessary to remove or replace it.
+Pneumothorax: Attempts to gain access to the subclavian vein or jugular vein can injure the lung, potentially causing a pneumothorax. If the pneumothorax is large enough, a chest tube might need to be placed. In experienced hands, the incidence of this complication is about 1% when accessing the subclavian vein.  When accessing the jugular vein the pneumothorax rate is virtually nonexistent.
+Vascular occlusion: formation of a blood clot between the catheter and the vascular wall leading to partial or complete occlusion of the vein. The occlusion is cleared by removal of the port if possible. If not, then heparin therapy may clear the occlusion.
+Intravenous drug use: If an intravenous drug user is discharged to be treated with a port in place to be treated on an outpatient basis, they may be likely to use the port improperly to inject illicit drugs. This use poses a serious risk of injury or severe infection, including of the heart lining.
+
+Maintenance
+To reduce damage or coring of the septum (cutting out small pieces of membrane with the needle, plugging it up), low or non coring needles are to be used.After every cycle of chemotherapy, the port should be flushed with 1:10 diluted heparin (5000 IU/ml) to prevent clot formation within the port. If the port is not used for a long time, it should be flushed with diluted heparin every two months.
+
+Alternatives
+Sometimes, the physical condition of the patient, especially the structure of their veins, does not allow for the insertion of a port. An alternative is the PICC line, despite drawbacks such as external entry point and limited lifespan of the device.
+
+In popular culture
+In the 1984 cyberpunk novel Neuromancer, a minor character, Peter Riviera, has a kind of medical port placed in his arm to facilitate his recreational drug use.
+
+History
+Niederhuber et al. first reported the use of  totally implantable central venous port system (TICVPS) in 1982.
+
+See also
+Hickman line
+Peripherally inserted central catheter or "PICC"
+Groshong line
+Central venous catheter
+
+Notes
+References
+Further reading
+Mallon WK (March 2001). "Is it acceptable to discharge a heroin user with an intravenous line to complete his antibiotic therapy for cellulitis at home under a nurse's supervision? No: a home central line is too hazardous". Point-Counterpoint (column). The Western Journal of Medicine. 174 (3): 157. doi:10.1136/ewjm.174.3.157. PMC 1071292. PMID 11238332.
+
+External links
+
+www.breastcancer.org: Ports for Chemo
+A photo-essay on what it's like to have a port
+An overview of chemo ports/Portacaths

@@ -1,0 +1,21 @@
+Secondary contact is the process in which two allopatricaly distributed populations of a species are geographically reunited. This contact allows for the potential for the exchange of genes, dependent on how reproductively isolated the two populations have become. There are several primary outcomes of secondary contact: extinction of one species, fusion of the two populations back into one, reinforcement, the formation of a hybrid zone, and the formation of a new species through hybrid speciation.
+
+Extinction
+One of the two populations may go extinct due to competitive exclusion after secondary contact. This tends to happen when the two populations have strong reproductive isolation and significant overlap in their niche. A possible way to prevent extinction is if there is an advantage to being rare. For example, sexual imprinting and male-male competition may prevent extinction. The population that goes extinct may leave behind some of its genes in the surviving population if they hybridize. For example, the secondary contact between Homo sapiens and Neanderthals, as well as the Denisovans, left traces of their genes in modern human. However, if hybridization is so common that the resulting population received significant amount of genetic contribution from both populations, the result should be considered a fusion.
+
+Fusion
+The two populations may fuse back into one population. This tends to occur when there is little to no reproductive isolation between the two. During the process of fusion a hybrid zone may occur. This is sometimes called introgressive hybridization or reverse speciation. Concerns have been raised that the homogenizing of the environment may contribute to more and more fusion, leading to the loss of biodiversity.
+
+Hybrid zones
+A hybrid zone may appear during secondary contact, meaning there would be an area where the two populations cohabitate and produce hybrids, often arranged in a cline. The width of the zone may vary from tens of meters to several hundred kilometers. A hybrid zone may be stable, or it may not. Some shift in one direction, which may eventually lead to the extinction of the receding population. Some expand over time until the two populations fuse. Reinforcement may occur in hybrid zones. 
+Hybrid zones are important study systems for speciation.
+
+Reinforcement
+Reinforcement is the evolution towards increased reproductive isolation due to selection against hybridization. This occurs when the populations already have some reproductive isolation, but still hybridize to some extent. Because hybridization is costly (e.g. giving birth and raising a weak offspring), natural selection favors strong isolation mechanisms that can avoid such outcome, such as assortative mating. Evidence for speciation by reinforcement has been accumulating since the 1990s.
+
+Hybrid speciation
+
+Occasionally, the hybrids may be able to survive and reproduce, but not backcross with either of the two parental lineages, thus becoming a new species. This often occur in plants through polyploidy, including in many important food crops. Occasionally, the hybrids may lead to the extinction of one or both parental lineages.
+
+
+== References ==

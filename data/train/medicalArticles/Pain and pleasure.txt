@@ -1,0 +1,81 @@
+Some philosophers, such as Jeremy Bentham, Baruch Spinoza, and Descartes, have hypothesized that the feelings of pain (or suffering) and pleasure are part of a continuum.
+There is strong evidence of biological connections between the neurochemical pathways used for the perception of both pain and pleasure, as well as other psychological rewards.
+
+Perception of pain
+Sensory input system
+From a stimulus-response perspective, the perception of physical pain starts with the nociceptors, a type of physiological receptor that transmits neural signals to the brain when activated. These receptors are commonly found in the skin, membranes, deep fascias, mucosa, connective tissues of visceral organs, ligaments and articular capsules, muscles, tendons, periosteum, and arterial vessels. Once stimuli are received, the various afferent action potentials are triggered and pass along various fibers and axons of these nociceptive nerve cells into the dorsal horn of the spinal cord through the dorsal roots. A neuroanatomical review of the pain pathway, "Afferent pain pathways" by Almeida, describes various specific nociceptive pathways of the spinal cord: spinothalamic tract, spinoreticular tract, spinomesencephalic tract, spinoparabrachial tract, spinohypothalamic tract, spinocervical tract, postsynaptic pathway of the spinal column.
+
+Neural coding and modulation
+Activity in many parts of the brain is associated with pain perception. Some of the known parts for the ascending pathway include the thalamus, hypothalamus, midbrain, lentiform nucleus, somatosensory cortices, insular, prefrontal, anterior and parietal cingulum. Then, there are also the descending pathways for the modulation of pain sensation. One of the brainstem regions responsible for this is the periaqueductal gray of the midbrain, which both relieves pain by behavior as well as inhibits the activity of the nociceptive neurons in the dorsal horn of the spinal cord. Other brainstem sites, such as the parabrachial nucleus, the dorsal raphe, locus coeruleus, and the medullary reticular formation also mediate pain relief and use many different neurotransmitters to either facilitate or inhibit activity of the neurons in the dorsal horn. These neurotransmitters include noradrenaline, serotonin, dopamine, histamine, and acetylcholine.
+
+Perception of pleasure
+Pleasure can be considered from many different perspectives, from physiological (such as the hedonic hotspots that are activated during the experience) to psychological (such as the study of behavioral responses towards reward). Pleasure has also often been compared to, or even defined by many neuroscientists as, a form of alleviation of pain.
+
+Neural coding and modulation
+Pleasure has been studied in the systems of taste, olfaction, auditory (musical), visual (art), and sexual activity. Neural hotspots involved in the processing of pleasure include the nucleus accumbens, posterior ventral pallidum, amygdala, other cortical and subcortical regions. 
+The prefrontal and limbic regions of the neocortex, particularly the orbitofrontal region of the prefrontal cortex, anterior cingulate cortex, and the insular cortex have all been suggested to be pleasure causing substrates in the brain.
+
+Psychology of pain and pleasure (reward-punishment system)
+One approach to evaluating the relationship between pain and pleasure is to consider these two systems as a reward-punishment based system. When pleasure is perceived, one associates it with reward. When pain is perceived, one associates with punishment. Evolutionarily, this makes sense, because often, actions that result in pleasure or chemicals that induce pleasure work towards restoring homeostasis in the body. For example, when the body is hungry, the pleasure of rewarding food to one-self restores the body back to a balanced state of replenished energy. Like so, this can also be applied to pain, because the ability to perceive pain enhances both avoidance and defensive mechanisms that were, and still are, necessary for survival.
+
+Opioid and dopamine systems in pain and pleasure
+The neural systems to be explored when trying to look for a neurochemical relationship between pain and pleasure are the opioid and dopamine systems. The opioid system is responsible for the actual experience of the sensation, whereas the dopamine system is responsible for the anticipation or expectation of the experience. Opioids work in the modulation of pleasure or pain relief by either blocking neurotransmitter release or by hyperpolarizing neurons by opening up a potassium channel which effectively temporarily blocks the neuron.
+
+Pain and pleasure on a continuum
+Arguments for pain and pleasure on a continuum
+It has been suggested as early as 4th century BC that pain and pleasure occurs on a continuum. Aristotle claims this antagonistic relationship in his Rhetoric:
+
+"We may lay it down that Pleasure is a movement, a movement by which the soul as a whole is consciously brought into its normal state of being; and that Pain is the opposite."He describes pain and pleasure very much like a push-pull concept; human beings will move towards something that causes pleasure and will move away from something that causes pain.
+
+Common neuroanatomy
+On an anatomical level, it can be shown the source for the modulation of both pain and pleasure originates from neurons in the same locations, including the amygdala, the pallidum, and the nucleus accumbens. Not only have Siri Leknes and Irene Tracey, two neuroscientists who study pain and pleasure, concluded that pain and reward processing involve many of the same regions of the brain, but also that the functional relationship lies in that pain decreases pleasure and rewards increase analgesia, which is the relief from pain.
+
+Arguments against pain and pleasure on a continuum
+Asymmetry between pain and pleasure
+Thomas Szasz, the late Professor of Psychiatry Emeritus at the State University of New York Health Science Center in Syracuse, New York, explored how pain and pleasure are not opposites ends of a spectrum in his 1957 book, "Pain and Pleasure -a study of bodily feelings".
+Szasz notes that although we often refer to pain and pleasure as opposites in such a way, that this is incorrect; we have receptors for pain, but none in the same way for pleasure; and so it makes sense to ask "where is the pain?" but not "where is the pleasure?". With this vantage point established, the author delves into the topics of metaphorical pain and of legitimacy, of power relations, and of communications, and of myriad others.
+
+Evolutionary hypotheses for the relationship between pain and pleasure
+Whether or not pain and pleasure are indeed on a continuum, it still remains scientifically supported that parts of the neural pathways for the two perceptions overlap. There is also scientific evidence that one may have opposing effects on the other. So why would it be evolutionarily advantageous to human beings to develop a relationship between the two perceptions at all?
+South African neuroscientists presented evidence that there was a physiological link on a continuum between pain and pleasure in 1980. First, the neuroscientists, Mark Gillman and Fred Lichtigfeld demonstrated that there were two endogenous endorphin systems, one pain producing and the other pain relieving. A short time later they showed that these two systems might also be involved in addiction, which is initially pursued, presumably for the pleasure generating or pain relieving actions of the addictive substance. Soon after they provided evidence that the endorphins system was involved in sexual pleasure.Morten Kringelbach suggests that this relationship between pain and pleasure would be evolutionarily efficient, because it was necessary to know whether or not to avoid or approach something for survival. According to Norman Doidge, the brain is limited in the sense that it tends to focus on the most used pathways. Therefore, having a common pathway for pain and pleasure could have simplified the way in which human beings have interacted with the environment.Leknes and Tracey offer two theoretical perspectives to why a relationship could be evolutionarily advantageous.
+
+Opponent process theory
+The opponent-process theory is a model that views two components as being pairs that are opposite to each other, such that if one component is experienced, the other component will be repressed. Therefore, an increase in pain should bring about a decrease in pleasure, and a decrease in pain should bring about an increase in pleasure or pain relief. This simple model serves the purpose of explaining the evolutionarily significant role of homeostasis in this relationship. This is evident since both seeking pleasure and avoiding pain are important for survival. Leknes and Tracey provide an example:
+"In the face of a large food reward, which can only be obtained at the cost of a small amount of pain, for instance, it would be beneficial if the pleasurable food reduced pain unpleasantness."They then suggest that perhaps a common currency for which human beings determine the importance of the motivation for each perception can allow them to be weighed against each other in order to make a decision best for survival.
+
+Motivation-decision model
+The Motivation-Decision Model, suggested by Howard L. Fields, is centered around the concept that decision processes are driven by motivations of highest priority. The model predicts that in the case that there is anything more important than pain for survival will cause the human body to mediate pain by activating the descending pain modulation system described earlier. Thus, it is suggested that human beings have developed the unconscious ability to endure pain or sometimes, even relieve pain if it can be more important for survival to gain a larger reward. It may have been more advantageous to link the pain and pleasure perceptions together to be able to reduce pain to gain a reward necessary for fitness, such as childbirth. Like the opponent-process theory, if the body can induce pleasure or pain relief to decrease the effect of pain, it would allow human beings to be able to make the best evolutionary decisions for survival.
+
+Clinical applications
+Related diseases
+The following neurological and/or mental diseases have been linked to forms of pain or anhedonia: schizophrenia, depression, addiction, cluster headache, chronic pain.
+
+Animal trials
+A great deal of what is known about pain and pleasure today primarily comes from studies conducted with rats and primates.
+
+Deep brain stimulation
+Deep brain stimulation involves the electrical stimulation of deep brain structures by electrodes implanted into the brain. The effects of this neurosurgery has been studied in patients with Parkinson's disease, tremors, dystonia, epilepsy, depression, obsessive-compulsive disorder, Tourette's syndrome, cluster headache and chronic pain. A fine electrode is inserted into the targeted area of the brain and secured to the skull. This is attached to a pulse generator which is implanted elsewhere on the body under the skin. The surgeon then turns the frequency of the electrode to the voltage and frequency desired. Deep brain stimulation has been shown in several studies to both induce pleasure or even addiction as well as ameliorate pain. For chronic pain, lower frequencies (about 5–50 Hz) have produced analgesic effects, whereas higher frequencies (about 120–180 Hz) have alleviated or stopped pyramidal tremors in Parkinson's patients.There is still further research necessary into how and why exactly DBS works. However, by understanding the relationship between pleasure and pain, procedures like these can be used to treat patients suffering from a high intensity or longevity of pain. So far, DBS has been recognized as a treatment for Parkinson's disease, tremors, and dystonia by the Food and Drug Administration (FDA).
+
+See also
+Algolagnia
+BDSM
+Pain (philosophy)
+Sadism and masochism
+Self-harm
+
+References
+Braithwaite, V.A.; Boulcott, P. (2007). "Pain perception, aversion and fear in fish" (PDF). Diseases of Aquatic Organisms. 75 (2): 131–138. doi:10.3354/dao075131. PMID 17578252.
+Cavanna A. E.; Cauda F.; D'Agata F.; Sacco K.; Duca S.; Geminiani G. (2011). "Mapping Pleasure Pathways: The Functional Connectivity of the Nucleus Accumbens". Journal of Neuropsychiatry and Clinical Neurosciences. 23 (2): 30.
+Kumazawa, T. (1998). "Primitivism and plasticity of pain - implication of polymodal receptors". Journal of Neuroscience Research. 32 (1): 9–31. doi:10.1016/s0168-0102(98)00060-1. PMID 9831249. S2CID 44992284.
+Lamm C.; Decety J.; Singer T. (2011). "Meta-analytic evidence for common and distinct neural networks associated with directly experienced pain and empathy for pain". NeuroImage. 54 (3): 2492–2502. doi:10.1016/j.neuroimage.2010.10.014. PMID 20946964. S2CID 6021487.
+Lieberman, M. D.; Eisenberger, N. I. (2009). "Pains and Pleasures of Social Life" (PDF). Science. 323 (5916): 890–891. doi:10.1126/science.1170008. PMID 19213907. S2CID 206518219. Retrieved June 29, 2012.
+Ploner M.; Lee M. C.; Wiech K.; Bingel U.; Tracey I. (2011). "Flexible Cerebral Connectivity Patterns Subserve Contextual Modulations of Pain". Cerebral Cortex. 21 (3): 719–726. doi:10.1093/cercor/bhq146. PMID 20713505.
+Rolls E. T.; O'Doherty J.; Kringelbach M. L.; Francis S.; Bowtell R.; McGlone F. (2003). "Representations of pleasant and painful touch in the human orbitofrontal and cingulate cortices". Cerebral Cortex. 13 (3): 308–317. doi:10.1093/cercor/13.3.308. PMID 12571120.
+Sukel, K. (2011). "The pathways of pleasure." New Scientist, 210(2812), 6-+.
+
+External links
+BBC News report: Brain links pain with pleasure
+White JM (September 2004). "Pleasure into pain: the consequences of long-term opioid use". Addict Behav. 29 (7): 1311–24. doi:10.1016/j.addbeh.2004.06.007. PMID 15345267.
+Pain and pleasure in philosophy
+https://www.youtube.com/watch?v=2NEG_Lq2-1w
+https://www.youtube.com/watch?v=N6HNk1c-Xdk

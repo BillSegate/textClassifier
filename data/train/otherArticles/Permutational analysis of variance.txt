@@ -1,0 +1,336 @@
+Permutational multivariate analysis of variance (PERMANOVA), is a non-parametric multivariate statistical permutation test. PERMANOVA is used to compare groups of objects and test the null hypothesis that the centroids and dispersion of the groups as defined by measure space are equivalent for all groups. A rejection of the null hypothesis means that either the centroid and/or the spread of the objects is different between the groups. Hence the test is based on the prior calculation of the distance between any two objects included in the experiment.
+PERMANOVA shares some resemblance to ANOVA where they both measure the sum-of-squares within and between group and make use of F test to compare within-group to between-group variance. However, while ANOVA bases the significance of the result on assumption of normality, PERMANOVA draws tests for significance by comparing the actual F test result to that gained from random permutations of the objects between the groups. Moreover, whilst PERMANOVA tests for similarity based on a chosen distance measure, ANOVA tests for similarity of the group averages.
+
+Calculation of the statistic
+In the simple case of a single factor with p groups and n objects in each group, the total sum-of-squares is determined as:
+
+  
+    
+      
+        S
+        
+          S
+          
+            T
+          
+        
+        =
+        
+          
+            1
+            N
+          
+        
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            N
+            −
+            1
+          
+        
+        
+          ∑
+          
+            j
+            =
+            i
+            +
+            1
+          
+          
+            N
+          
+        
+        
+          d
+          
+            i
+            j
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle SS_{T}={\frac {1}{N}}\sum _{i=1}^{N-1}\sum _{j=i+1}^{N}d_{ij}^{2}}
+  where 
+  
+    
+      
+        N
+        =
+        p
+        n
+      
+    
+    {\displaystyle N=pn}
+   is the total number of objects, and 
+  
+    
+      
+        
+          d
+          
+            i
+            j
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle d_{ij}^{2}}
+   is the squared distance between objects i and j.
+Similarly, the within groups sum-of-squares is determined as:
+
+  
+    
+      
+        S
+        
+          S
+          
+            W
+          
+        
+        =
+        
+          
+            1
+            n
+          
+        
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            N
+            −
+            1
+          
+        
+        
+          ∑
+          
+            j
+            =
+            i
+            +
+            1
+          
+          
+            N
+          
+        
+        
+          d
+          
+            i
+            j
+          
+          
+            2
+          
+        
+        
+          δ
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle SS_{W}={\frac {1}{n}}\sum _{i=1}^{N-1}\sum _{j=i+1}^{N}d_{ij}^{2}\delta _{ij}}
+  where 
+  
+    
+      
+        
+          δ
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle \delta _{ij}}
+   is 1 if the observations i and j belong to the same group, and 0 otherwise.
+Then, the between groups sum-of-squares (
+  
+    
+      
+        S
+        
+          S
+          
+            A
+          
+        
+      
+    
+    {\displaystyle SS_{A}}
+  ) can be calculated as the difference between the overall and the within groups sum-of-squares:
+
+  
+    
+      
+        S
+        
+          S
+          
+            A
+          
+        
+        =
+        S
+        
+          S
+          
+            T
+          
+        
+        −
+        S
+        
+          S
+          
+            W
+          
+        
+      
+    
+    {\displaystyle SS_{A}=SS_{T}-SS_{W}}
+  Finally, a pseudo F-statistic is calculated:
+
+  
+    
+      
+        F
+        =
+        
+          
+            
+              (
+              
+                
+                  
+                    
+                      S
+                      
+                        S
+                        
+                          A
+                        
+                      
+                    
+                    
+                      p
+                      −
+                      1
+                    
+                  
+                
+              
+              )
+            
+            
+              (
+              
+                
+                  
+                    
+                      S
+                      
+                        S
+                        
+                          W
+                        
+                      
+                    
+                    
+                      N
+                      −
+                      p
+                    
+                  
+                
+              
+              )
+            
+          
+        
+      
+    
+    {\displaystyle F={\frac {\left({\dfrac {SS_{A}}{p-1}}\right)}{\left({\dfrac {SS_{W}}{N-p}}\right)}}}
+  where p is the number of groups.
+
+Drawing significance
+Finally, the PERMANOVA procedure draws significance for the actual F statistic by performing multiple permutations of the data. In each permutation 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   the items are shuffled between groups, and the F-ratio is calculated for it, 
+  
+    
+      
+        
+          F
+          
+            π
+          
+        
+      
+    
+    {\displaystyle F^{\pi }}
+  . The P-value is then calculated by:
+
+  
+    
+      
+        P
+        =
+        
+          
+            
+              
+                number of permutations with 
+              
+              
+                F
+                
+                  π
+                
+              
+              ≥
+              F
+            
+            total number of permutations
+          
+        
+      
+    
+    {\displaystyle P={\frac {{\text{number of permutations with }}F^{\pi }\geq F}{\text{total number of permutations}}}}
+
+Implementation and use
+PERMANOVA is widely used in the field of ecology and is implemented in several software packages including PERMANOVA software, PRIMER and R (programming language) Vegan and lmPerm packages.
+
+
+== References ==

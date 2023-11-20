@@ -1,0 +1,16 @@
+In cardiology neocardiogenesis is the homeostatic regeneration, repair and renewal of sections of malfunctioning adult cardiovascular tissue.  This includes a combination of cardiomyogenesis (the regeneration of cardiac muscle) and angiogenesis (the regeneration of blood vessels).
+
+Definition and scope
+The term neocardiogenesis comes from cardiogenesis, which refers to the development of the heart in the embryo; neocardiogenesis, in turn, means the development of the heart in adults.  The heart has mechanisms already in place that are responsible for small scale repair.  However, these repair mechanisms are not sufficient for large scale repair, made necessary by events such as myocardial infarctions.  Neocardiogenesis replaces dead cardiac muscle cells with living cells so that both the structure and function of the heart are maintained.  This improves myocardial pumping of fluid around the body.
+
+Background
+The human heart has been thought of as a postmitotic organ. Cardiomyocytes (muscle cells of the heart) were thought to be terminally differentiated cells that were irreplaceable and thus required to maintain cardiac function throughout life. However it is now known that the heart is able to regenerate new small vessels needed to repair an ischemic (lacking blood) myocardium. The belief that humans are born with a fixed number of cardiomyocytes, and that the growth of these cells was directly responsible for the growth of the heart, has also been disproven. Reports of the heart's ability to repair itself have started to appear in peer reviewed journals and a paper has been published that has shown the potential of bone marrow cells to regenerate myocardium (myogenesis). Other studies into the regeneration of myocardium have reported evidence of angiogenesis, although such studies have been found to contain discrepancies.It has been reported that improvement in heart contractility has occurred as a result of the induction of angiogenesis.
+
+Mechanism
+The activation of cardiac progenitor cells (a special type of stem cell with long telomeres located in the storage areas of the heart) and circulating stem cells induce cardiomyocytes to proliferate.  These cells are activated by a mixture of transcriptional factors, genes, growth factors, receptors, the extracellular matrix and signalling pathways. The cells then move to affected areas where they can reverse some of the damage by generating a new population of cardiomyocytes.
+
+Clinical importance
+The heart has the potential to repair itself when damaged using progenitor and stem cells.  Clinical trials have shown that heart muscle has not previously been able to regenerate itself.  New noninvasive drugs, which may make this possible in humans, are required to induce the cardiac myocytes to proliferate.  Studies have been done in an attempt to find such a treatment.
+
+
+== References ==

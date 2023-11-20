@@ -3,7 +3,6 @@ import os
 import math
 import time
 
-from sklearn.naive_bayes import logsumexp
 from logger import log
 from articleProcessor import readFile, performPreProcessing, PATH_MEDICAL_ARTICLES, PATH_OTHER_ARTICLES
 
@@ -25,14 +24,14 @@ def testArticle(article: list, medicalClassProbability: float, otherClassProbabi
     for word in article: 
         if word in medicalFrequency:
             probMedWord = math.log(medicalFrequency[word])
-            totalMedSum = logsumexp([totalMedSum, probMedWord])
+            totalMedSum += probMedWord
         
         if word in otherFrequency:
             probOtherWord = math.log(otherFrequency[word])
-            totalOtherSum = logsumexp([totalOtherSum, probOtherWord])
+            totalOtherSum += probOtherWord
 
-    medicalProb = medicalClassProbability + totalMedSum
-    otherProb = otherClassProbability + totalOtherSum
+    medicalProb = math.log(medicalClassProbability) + totalMedSum
+    otherProb = math.log(otherClassProbability) + totalOtherSum
     
     if(medicalProb > otherProb):
         return 1
@@ -42,9 +41,9 @@ def testArticle(article: list, medicalClassProbability: float, otherClassProbabi
 def main():
     # get files in the article folder
     medicalTestArticles = os.listdir('data/test/medicalArticles')
-    otherTestArticles = os.listdir('data/test/medicalArticles')
+    otherTestArticles = os.listdir('data/test/otherArticles')
     medicalLabels = [0 for i in range(len(medicalTestArticles))]
-    otherLabels = [0 for i in range(len(otherTestArticles))]
+    otherLabels = [1 for i in range(len(otherTestArticles))]
     
     testFiles = medicalTestArticles + otherTestArticles
     labels = medicalLabels + otherLabels
@@ -61,7 +60,7 @@ def main():
     medicalClassProbability = calculateClassProbability('Medical')
     otherClassProbability = calculateClassProbability('Other')
 
-    # for each file read the article
+    # for each file read the article    
     predictedLabels = []
     for i in range(len(labels)):
         if(labels[i] == 0):

@@ -1,4 +1,0 @@
-In the nuclear power field, an integral reactor is a nuclear reactor design principle where the reactor core, primary cooling loop, steam generators and any required emergency cooling are contained within a single reactor vessel. The concept can be applied to any sort of underlying reactor design, there are examples of integral pressurized water reactors, sodium-cooled fast reactors, and others. The main goals are mass production of the reactor, as the entire working design can be delivered as a single unit and then connected to the non-nuclear generation sections of the overall power plant. Integral reactors are also often deliberately small, allowing passive cooling in emergencies.
-
-References
-Matzie, R.A.; Longo, J.; Bradbury, R.B.; Teare, K.R.; Hayns, M.R. (August 1992). "Design of the Safe Integral Reactor". Nuclear Engineering and Design. 136 (1–2): 73–83. doi:10.1016/0029-5493(92)90114-B.

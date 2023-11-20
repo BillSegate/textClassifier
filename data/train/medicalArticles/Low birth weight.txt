@@ -1,0 +1,68 @@
+Low birth weight (LBW) is defined by the World Health Organization as a birth weight of an
+infant of 2,499 g (5 lb 8.1 oz) or less, regardless of gestational age. Infants born with LBW have added health risks which require close management, often in a neonatal intensive care unit (NICU). They are also at increased risk for long-term health conditions which require follow-up over time.
+
+Classification
+Birth weight may be classified as:
+High birth weight (macrosomia): greater than 4,200 g (9 lb 4 oz)
+Normal weight (term delivery): 2,500–4,200 g (5 lb 8 oz – 9 lb 4 oz)
+Low birth weight: less than 2,500 g (5 lb 8 oz)
+Very low birth weight: less than 1,500 g (3 lb 5 oz)
+Extremely low birth weight: less than 1,000 g (2 lb 3 oz)
+
+Causes
+LBW is either caused by preterm birth (that is, a low gestational age at birth, commonly defined as younger than 37 weeks of gestation) or the infant being small for gestational age (that is, a slow prenatal growth rate), or a combination of both.In general, risk factors in the mother that may contribute to low birth weight include young ages, multiple pregnancies, previous LBW infants, poor nutrition, heart disease or hypertension, untreated celiac disease, substance use disorder, excessive alcohol use, and insufficient prenatal care. It can also be caused by prelabor rupture of membranes. Environmental risk factors include smoking, lead exposure, and other types of air pollution.
+
+Preterm birth
+The mechanism of preterm birth is heterogeneous and poorly understood. It may be tied to one or more of the following processes: premature fetal endocrine activation, intrauterine inflammation, over-distension of the uterus, and endometrial bleeding. A prominent risk factor for preterm birth is prior history of preterm delivery. However, there is no reliable protocol for screening and prevention of preterm birth.
+
+Small for gestational age
+Infants born small for gestational age may be constitutionally small, with no associated pathologic process. Others have intrauterine growth restriction (IUGR) due to any of various pathologic processes. Babies with chromosomal abnormalities or other congenital anomalies may manifest IUGR as part of their syndrome. Problems with the placenta can prevent it from providing adequate oxygen and nutrients to the fetus, resulting in growth restriction. Infections during pregnancy that affect the fetus, such as rubella, cytomegalovirus, toxoplasmosis, and syphilis, may also affect the baby's weight.
+
+Environmental factors
+Maternal tobacco smoking doubles risk of LBW for the infant. More recently, passive maternal smoking has been examined for possible effects on birth weight, and has been shown to increase risk of LBW by 16%.
+
+Air pollutants
+The combustion products of solid fuel in developing countries can cause many adverse health issues in people. Because a majority of pregnant women in developing countries, where rate of LBW is high, are heavily exposed to indoor air pollution, increased relative risk translates into substantial population attributable risk of 21% of LBW.Particulate matter, a component of ambient air pollution, is associated with increased risk of low birth weight. Because particulate matter is composed of extremely small particles, even nonvisible levels can be inhaled and present harm to the fetus. Particulate matter exposure can cause inflammation, oxidative stress, endocrine disruption, and impaired oxygen transport access to the placenta, all of which are mechanisms for heightening the risk of low birth weight. To reduce exposure to particulate matter, pregnant women can monitor the US Environmental Protection Agency's air quality index and take personal precautionary measures such as reducing outdoor activity on low quality days, avoiding high-traffic roads/intersections, and/or wearing personal protective equipment (i.e., facial mask of industrial design). Indoor exposure to particulate matter can also be reduced through adequate ventilation, as well as use of clean heating and cooking methods.A correlation between maternal exposure to carbon monoxide (CO) and low birth weight has been reported that the effect on birth weight of increased ambient CO was as large as the effect of the mother smoking a pack of cigarettes per day during pregnancy.
+It has been revealed that adverse reproductive effects (e.g., risk for LBW) were correlated with maternal exposure to CO emissions in Eastern Europe and North America.
+Mercury is a known toxic heavy metal that can harm fetal growth and health, and there has been evidence showing that exposure to mercury (via consumption of large oily fish) during pregnancy may be related to higher risks of LBW in the offspring.
+
+Other exposures
+Elevated blood lead levels in pregnant women, even those well below the US Centers for Disease Control and Prevention's 10 ug/dL "level of concern", can cause miscarriage, premature birth, and LBW in the offspring. Exposure of pregnant women to airplane noise was found to be associated with low birth weight via adverse effects on fetal growth. Prevalence of low birth weight in Japan is associated with radiation doses from the Fukushima accidents of March 2011.
+
+Periodontal health
+Low birth weight, preterm birth and preeclampsia have been associated with maternal periodontal disease, though the strength of the observed associations is inconsistent and varies according to the population studied, the means of periodontal assessment and the periodontal disease classification employed. The risk of low birth weight can be reduced with treatment of the periodontal disease. This therapy is safe during pregnancy and reduces the inflammatory burden, thus decreasing risk for preterm birth and low birth weight.
+
+Management
+Temperature regulation
+LBW newborns are at increased risk of hypothermia due to decreased brown fat stores. Plastic wraps, heated pads, and skin-to-skin contact decrease risk of hypothermia immediately after delivery. One or more of these interventions may be employed, though combinations incur risk of hyperthermia. Warmed incubators in the NICU aid in thermoregulation for LBW infants.
+
+Fluid and electrolyte balance
+Frequent clinical monitoring of volume status and checking of serum electrolytes (up to three times daily) is appropriate to prevent dehydration, fluid overload, and electrolyte imbalance. VLBW newborns have an increased body surface to weight ratio, increasing risk for insensible fluid losses and dehydration. Humidified incubators and skin emollients can lessen insensible fluid loss in VLBW newborns. However, fluid overloading is not benign; it is associated with increased risk of congestive heart failure, necrotizing enterocolitis, and mortality. A degree of fluid restriction mitigates these risks.VLBW newborns are at risk for electrolyte imbalances due to the relative immaturity of the nephrons in their kidneys. The kidneys are not equipped to handle large sodium loads. Therefore, if normal saline is given, the sodium level may become elevated, which may prompt the clinician to give more fluids. Sodium restriction has been shown to prevent fluid overload. Potassium must also be monitored carefully, as immature aldosterone sensitivity and sodium-potassium pumping increases risk for hyperkalemia and cardiac arrhythmias.VLBW newborns are frequently found to have a persistently patent ductus arteriosus (PDA). If present, it is important to evaluate whether the PDA is causing increased circulatory volume, thus posing risk for heart failure. Signs of clinically significant PDA include widened pulse pressure and bounding pulses. In newborns with significant PDA, fluid restriction may avoid the need for surgical or medical therapy to close it.
+
+Approach to nutrition
+As their gastrointestinal systems are typically unready for enteral feeds at the time of birth, VLBW infants require initial parenteral infusion of fluids, macronutrients, vitamins, and micronutrients.
+
+Energy needs
+Decreased activity compared to normal weight newborns may decrease energy requirements, while comorbidities such as bronchopulmonary dysplasia may increase them. Daily weight gain can reveal whether a VLBW newborn is receiving adequate calories. Growth of 21 g/kg/day, mirroring in utero growth, is a target for VLBW and ELBW neonates.
+
+Enteral sources
+Upon transitioning to enteral nutrition, human milk is preferable to formula initially in VLBW newborns because it speeds up development of the intestinal barrier and thereby reduces risk of necrotizing enterocolitis, with an absolute risk reduction of 4%. Donor human milk and maternal expressed breast milk are both associated with this benefit. One drawback of human milk is the imprecision in its calorie content. The fat content in human milk varies greatly among women; therefore, the energy content of human milk cannot be known as precisely as formula. Each time human milk is transferred between containers, some of the fat content may stick to the container, decreasing the energy content. Minimizing transfers of human milk between containers decreases the amount of energy loss. Formula is associated with greater linear growth and weight gain than donor breast milk in LBW infants.
+
+Individual nutrient considerations
+VLBW newborns are at increased risk for hypoglycemia due to decreased energy reserves and large brain mass to body mass ratio. Hypoglycemia may be prevented by intravenous infusion of glucose, amino acids, and lipids. These patients are also at risk of hyperglycemia due to immature insulin secretion and sensitivity. However, insulin supplementation is not recommended due to the possible adverse effect of hypoglycemia, which is more dangerous.VLBW newborns have increased need for amino acids to mirror in utero nutrition. Daily protein intake above 3.0 g/kg is associated with improved weight gain for LBW infants. ELBW newborns may require as much as 4 g/kg/day of protein.Due to the limited solubility of calcium and phosphorus in parenteral infusions, VLBW infants receiving parenteral nutrition will be somewhat deficient of these elements and will require clinical monitoring for osteopenia.
+
+Hematology
+One Cochrane review showed administration of erythropoietin (EPO) decreases later need for blood transfusions, and also is associated with protection against necrotizing enterocolitis and intraventricular hemorrhage. EPO is safe and does not increase risk of mortality or retinopathy of prematurity.
+
+Prognosis
+Perinatal outcomes
+LBW is closely associated with fetal and perinatal mortality and morbidity, inhibited growth and cognitive development, and chronic diseases later in life. At the population level, the proportion of babies with a LBW is an indicator of a multifaceted public-health problem that includes long-term maternal malnutrition, ill health, hard work and poor health care in pregnancy. On an individual basis, LBW is an important predictor of newborn health and survival and is associated with higher risk of infant and childhood mortality.Low birth weight constitutes as sixty to eighty percent of the infant mortality rate in developing countries. Infant mortality due to low birth weight is usually directly causal, stemming from other medical complications such as preterm birth, PPROM, poor maternal nutritional status, lack of prenatal care, maternal sickness during pregnancy, and an unhygienic home environment.
+
+Long-term outcomes
+Hyponatremia in the newborn period is associated with neurodevelopmental conditions such as spastic cerebral palsy and sensorineural hearing loss. Rapid correction of hyponatremia (faster than 0.4 mEq/L/hour) perinatally is also associated with neurodevelopmental adverse effects. Among VLBW children, risk for cognitive impairment is increased with lower birth weight, male sex, nonwhite ethnicity, and lower parental education level. There is no clear association between brain injury in the neonatal period and later cognitive impairment. Additionally, low birth weight has associations with cardiovascular diseases later in life, especially in cases of large increases in weight during childhood.Low birth rate is associated with schizoid personality disorder.
+
+Epidemiology
+The World Health Organization (WHO) estimates the worldwide prevalence of low birth weight at 15% as of 2014, and varies by region: Sub-Saharan Africa, 13%; South Asia, 28%; East Asia and the Pacific, 6%; Latin America and the Caribbean, 9%. Aggregate prevalence of LBW in United Nations-designated Least Developed Countries is 13%. The WHO has set a goal of reducing worldwide prevalence of  LBW by 30% through public health interventions including improved prenatal care and women's education.In the United States, the Centers for Disease Control and Prevention (CDC) reports 313,752 LBW infants in 2018, for a prevalence of 8.28%. This is increased from an estimated 6.1% prevalence in 2011 by the Agency for Healthcare Research and Quality (AHRQ). The CDC reported prevalence of VLBW at 1.38% in 2018, similar to the 2011 AHRQ estimate.
+
+
+== References ==

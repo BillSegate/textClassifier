@@ -1,0 +1,27 @@
+Net ecosystem production (NEP) in ecology, limnology, and oceanography, is the difference between gross primary production (GPP) and net ecosystem respiration. Net ecosystem production represents all the carbon produced by plants in water through photosynthesis that does not get respired by animals, other heterotrophs, or the plants themselves.
+
+Overview
+Net ecosystem production describes the total carbon in an ecosystem that can be stored, exported, or oxidized back into carbon dioxide gas. NEP is written in units of mass of carbon per unit area per time, for example, grams carbon per square meter per year (g C m−2 yr−1). In a given ecosystem, carbon quantified as net ecosystem production can eventually end up: oxidized by fire or ultraviolet radiation, accumulated as biomass, exported as organic carbon to another system, or accumulated in sediments or soils. Carbon classified as NEP can be in the form of particles in the particulate organic carbon (POC) pool such as phytoplankton cells (living) and detritus (non-living), or it can be in the form of dissolved substances that have not yet been decomposed in the dissolved organic carbon (DOC) pool. In any form, if the carbon gets respired or decomposed by any living organism (plant, animal, bacteria, or other microscopic organism) to release carbon dioxide, that carbon no longer counts as NEP.
+NEP = GPP - respiration [by plants] - respiration [by animals and other heterotrophs]
+
+Net ecosystem production vs. net primary production
+Net ecosystem production is all the carbon not respired, including respiration by plants and heterotrophic organisms such as animals and microbes. In contrast, net primary production (NPP) is all the carbon taken up by plants (autotrophs) minus the carbon that the plants themselves respire through cellular respiration.
+NPP = GPP - respiration [by plants]
+
+Net community production
+Net community production (NCP) is the difference between net primary production and respiration by animals and heterotrophs only. Net community production is equal to net ecosystem production, and is only calculated differently.
+
+NCP = NPP - respiration [by animals and other heterotrophs]Annual net community production (ANCP) is this carbon pool estimated per year. For example, annual net community production in the tropical South Pacific Ocean can be very close to zero, meaning that basically all carbon produced is respired by heterotrophs. In the rest of the Pacific Ocean, annual net community production can range from 2.0 to 2.4 mol C m−2 yr−1, meaning that carbon produced by phytoplankton (minus what the phytoplankton respire themselves) is greater during a given year than what gets respired by heterotrophs
+
+See also
+Primary production
+Ecosystem respiration
+Biological pump
+Oceanic carbon cycle
+Lake metabolism
+f-ratio
+Biomass (ecology)
+Biogeochemical cycle
+
+
+== References ==

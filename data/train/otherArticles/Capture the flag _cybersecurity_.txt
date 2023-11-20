@@ -1,0 +1,37 @@
+Capture the Flag (CTF) in computer security is an exercise in which participants attempt to find text strings, called "flags", which are secretly hidden in purposefully-vulnerable programs or websites. They can be used for both competitive or educational purposes. In two main variations of CTFs, participants either steal flags from other participants (attack/defense-style CTFs) or from organizers (jeopardy-style challenges). A combination of those two styles would be called mixed. Competitions can include hiding flags in hardware devices, they can be both online or in-person, and can be advanced or entry-level. The game is inspired by the traditional outdoor sport of the same name.
+
+Overview
+Capture the Flag (CTF) is a cybersecurity competition that is used test and develop computer security skills. It was first developed in 1996 at DEF CON, the largest cybersecurity conference in the United States hosted annually in Las Vegas, Nevada. The conference hosts a weekend of cybersecurity competitions, including their flagship CTF.
+Two popular CTF formats are jeopardy and attack-defense. Both formats test participant’s knowledge in cybersecurity, but differ in objective. In the Jeopardy format, participating teams must complete as many challenges of varying point values from a various categories such as cryptography, web exploitation, and reverse engineering. In the attack-defense format, competing teams must defend their vulnerable computer systems while attacking their opponent's systems.The exercise involves a diverse array of tasks, including exploitation and cracking passwords, but there is little evidence showing how these tasks translate into cybersecurity knowledge held by security experts. Recent research has shown that the Capture the Flag tasks mainly covered technical knowledge but lacked social topics like social engineering and awareness on cybersecurity. Therefore, researchers recommend that there should be a focus on non-technical topics as well in order to address cyber threats that are advanced.
+
+Educational applications
+CTFs have been shown to be an effective way to improve cybersecurity education through gamification. There are many examples of CTFs designed to teach cybersecurity skills to a wide variety of audiences, including PicoCTF, organized by the Carnegie Mellon CyLab, which is oriented towards high school students, and Arizona State University supported pwn.college. Beyond educational CTF events and resources, CTFs has been shown to be a highly effective way to instill cybersecurity concepts in the classroom. CTFs have been included in undergraduate computer science classes such as Introduction to Information Security at the National University of Singapore. CTFs are also popular in military academies. They are often included as part of the curriculum for cybersecurity courses, with the NSA organized Cyber Exercise culminating in a CTF competition between the US service academies and military colleges.
+
+Competitions
+Many CTF organizers register their competition with the CTFtime platform. This allows the tracking of the position of teams over time and across competitions. These competitions can be community, government or corporate. Since CTFtime began in 2011, there have been seven teams who have ranked as #1 in the worldwide position. These include "Plaid Parliament of Pwning", "More Smoked Leet Chicken", "Dragon Sector", "dcua", "Eat, Sleep, Pwn, Repeat", "perfect blue" and "organizers". Overall the "Plaid Parliament of Pwning" and "Dragon Sector" have both placed first worldwide the most with three times each.
+
+Community competitions
+Every year there are dozens of CTFs organized in a variety of formats. Many CTFs are associated with cybersecurity conferences such as DEF CON, HITCON, and BSides. The DEF CON CTF, an attack-defence CTF, is notable for being one of the oldest CTF competitions to exist, and has been variously referred to as the "World Series", "Superbowl",  and "Olympics", of hacking by media outlets. The NYU Tandon hosted Cybersecurity Awareness Worldwide (CSAW) CTF is one of the largest open-entry competitions for students learning cybersecurity from around the world. In 2021, it hosted over 1200 teams during the qualification round.In addition to conference organized CTFs, many CTF clubs and teams organize CTF competitions.  Many CTF clubs and teams are associated with universities, such as the CMU associated Plaid Parliament of Pwning, which hosts PlaidCTF, and the ASU associated Shellphish.
+
+Government-supported competitions
+Governmentally supported CTF competitions include the DARPA Cyber Grand Challenge and ENISA European Cybersecurity Challenge. In 2023, the US Space Force-sponsored Hack-a-Sat CTF competition included, for the first time, a live orbital satellite for participants to exploit.
+
+Corporate-supported competitions
+Corporations and other organizations sometimes use CTFs as a training or evaluation exercise. The benefits of CTFs are similar to those of using CTFs in an educational environment. In addition to internal CTF exercises, some corporations such as Google and Tencent host publicly accessible CTF competitions.
+
+In popular culture
+In Mr. Robot, a qualification round for the DEF CON CTF competition is depicted in the season 3 opener "eps3.0_power-saver-mode.h"
+In The Undeclared War, a CTF is depicted in the opening scene of the series as a recruitment exercise used by GCHQ
+Go Go Squid!, a Chinese television series, is based around training for and competing in highly stylized CTF competitions .
+
+See also
+Wargame (hacking)
+Cyberwarfare preparedness
+Hackathons
+Competitive programming
+Cybersecurity in popular culture
+Privacy
+
+References
+External links
+ctftime.org - an archive of historic, current, and future CTF competitions.

@@ -1,2 +1,0 @@
-ISO 31-6 is the part of international standard ISO 31 that defines names and symbols for quantities and units related to light and related electromagnetic radiations. It is superseded by ISO 80000-7.
-Its definitions include:

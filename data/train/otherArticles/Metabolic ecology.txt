@@ -1,0 +1,5 @@
+Metabolic ecology is a field of ecology aiming to understand constraints on metabolic organization as important for understanding almost all life processes. Main focus is on the metabolism of individuals, emerging intra- and inter-specific patterns, and the evolutionary perspective.
+Two main metabolic theories that have been applied in ecology are Kooijman's Dynamic energy budget (DEB) theory and the West, Brown, and Enquist (WBE) theory of ecology. Both theories have an individual-based metabolic underpinning, but have fundamentally different assumptions.Models of individual's metabolism follow the energy uptake and allocation, and can focus on mechanisms and constraints of energy transport (transport models), or on dynamic use of stored metabolites (energy budget models).
+
+
+== References ==

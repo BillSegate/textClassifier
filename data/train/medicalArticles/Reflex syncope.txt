@@ -1,0 +1,84 @@
+Reflex syncope is a brief loss of consciousness due to a neurologically induced drop in blood pressure and/or a  decrease  in  heart  rate. Before an affected person passes out, there may be sweating, a decreased ability to see, or ringing in the ears. Occasionally, the person may twitch while unconscious. Complications of reflex syncope include injury due to a fall.Reflex syncope is divided into three types: vasovagal, situational, and carotid sinus. Vasovagal syncope is typically triggered by seeing blood, pain, emotional stress, or prolonged standing. Situational syncope is often triggered by urination, swallowing, or coughing. Carotid sinus syncope is due to pressure on the carotid sinus in the neck. The underlying mechanism involves the nervous system slowing the heart rate and dilating blood vessels, resulting in low blood pressure and thus not enough blood flow to the brain. Diagnosis is based on the symptoms after ruling out other possible causes.Recovery from a reflex syncope episode happens without specific treatment. Prevention of episodes involves avoiding a person's triggers. Drinking sufficient fluids, salt, and exercise may also be useful. If this is insufficient for treating vasovagal syncope, medications such as midodrine or fludrocortisone may be tried. Occasionally, a cardiac pacemaker may be used as treatment. Reflex syncope affects at least 1 in 1,000 people per year. It is the most common type of syncope, making up more than 50% of all cases.
+
+Signs and symptoms
+Episodes of vasovagal syncope are typically recurrent and usually occur when the predisposed person is exposed to a specific trigger. Before losing consciousness, the individual frequently experiences early signs or symptoms such as lightheadedness, nausea, the feeling of being extremely hot or cold (accompanied by sweating), ringing in the ears, an uncomfortable feeling in the heart, fuzzy thoughts, confusion, a slight inability to speak or form words (sometimes combined with mild stuttering), weakness and visual disturbances such as lights seeming too bright, fuzzy or tunnel vision, black cloud-like spots in vision, and a feeling of nervousness can occur as well. The symptoms may become more intense over several seconds to several minutes before the loss of consciousness (if it is lost). Onset usually occurs when a person is sitting up or standing.When people lose consciousness, they fall down (unless prevented from doing so) and, when in this position, effective blood flow to the brain is immediately restored, allowing the person to regain consciousness. If the person does not fall into a fully flat, supine position, and the head remains elevated above the trunk, a state similar to a seizure may result from the blood's inability to return quickly to the brain, and the neurons in the body will fire off and generally cause muscles to twitch very slightly but mostly remain very tense.The autonomic nervous system's physiological state (see below) leading to loss of consciousness may persist for several minutes, so
+
+If patients try to sit or stand when they wake up, they may pass out again
+The person may be nauseated, pale, and sweaty for several minutes or hours
+
+Causes
+Reflex syncope occurs in response to a trigger due to dysfunction of the heart rate and blood pressure regulating mechanism. When heart rate slows or blood pressure drops, the resulting lack of blood to the brain causes fainting.
+
+Vasovagal
+Typical triggers include:
+
+Prolonged standing
+Emotional stress
+Pain
+The sight of blood
+Fear of needles
+Time varying magnetic field (i.e. transcranial magnetic stimulation)
+
+Situational
+After or during urination (micturition syncope)
+Straining, such as to have a bowel movement
+Coughing
+Swallowing
+Lifting a heavy weight
+
+Carotid sinus
+Pressing upon a certain spot in the neck. This may happen when wearing a tight collar, shaving, or turning the head.
+
+Pathophysiology
+Regardless of the trigger, the mechanism of syncope is similar in the various vasovagal syncope syndromes. The nucleus tractus solitarii of the brainstem is activated directly or indirectly by the triggering stimulus, resulting in simultaneous enhancement of parasympathetic nervous system (vagal) tone and withdrawal of sympathetic nervous system tone.This results in a spectrum of hemodynamic responses:
+
+On one end of the spectrum is the cardioinhibitory response, characterized by a drop in heart rate (negative chronotropic effect) and in contractility (negative inotropic effect) leading to a decrease in cardiac output that is significant enough to result in a loss of consciousness. It is thought that this response results primarily from enhancement in parasympathetic tone.
+On the other end of the spectrum is the vasodepressor response, caused by a drop in blood pressure (to as low as 80/20) without much change in heart rate. This phenomenon occurs due to dilation of the blood vessels, probably as a result of withdrawal of sympathetic nervous system tone.
+The majority of people with vasovagal syncope have a mixed response somewhere between these two ends of the spectrum.One account for these physiological responses is the Bezold-Jarisch reflex.
+Vasovagal syncope may be part of an evolved response, specifically, the fight-or-flight response.
+
+Diagnosis
+In addition to the mechanism described above, a number of other medical conditions may cause syncope. Making the correct diagnosis for loss of consciousness is difficult. The core of the diagnosis of vasovagal syncope rests upon a clear description of a typical pattern of triggers, symptoms, and time course.It is pertinent to differentiate lightheadedness, seizures, vertigo, and low blood sugar as other causes.
+In people with recurrent vasovagal syncope, diagnostic accuracy can often be improved with one of the following diagnostic tests:
+
+A tilt table test (results should be interpreted in the context of patients' clinical presentations and with an understanding of the sensitivity and specificity of the test)
+Implantation of an insertable loop recorder
+A Holter monitor or event monitor
+An echocardiogram
+An electrophysiology study
+
+Treatment
+Treatment for reflex syncope focuses on avoidance of triggers, restoring blood flow to the brain during an impending episode, and measures that interrupt or prevent the pathophysiologic mechanism described above.
+
+Lifestyle changes
+The cornerstone of treatment is avoidance of triggers known to cause syncope in that person. However, research has shown that people show great reductions in vasovagal syncope through exposure-based exercises with therapists if the trigger is mental or emotional, e.g., sight of blood. However, if the trigger is a specific drug, then avoidance is the only treatment.
+A technique known as "applied tension" may be additionally useful in those who have syncope with exposure to blood. The technique is done by tightening the skeletal muscles for about 15 seconds when the exposure occurs and then slowing releasing them. This is then repeated every 30 seconds for a few minutes.
+Because vasovagal syncope causes a decrease in blood pressure, relaxing the entire body as a mode of avoidance is not favorable. A person can move or cross their legs and tighten leg muscles to keep blood pressure from dropping so significantly before an injection.
+Before known triggering events, the affected person may increase consumption of salt and fluids to increase blood volume. Sports drinks or drinks with electrolytes may be helpful.
+People should be educated on how to respond to further episodes of syncope, especially if they experience prodromal warning signs: they should lie down and raise their legs, or at least lower their head to increase blood flow to the brain. At the very least, upon the onset of initial symptoms the patient should try to relocate to a 'safe', perhaps cushioned, location in case of losing consciousness. Positioning themselves in a way where the impact from falling or collapsing would be minimized is ideal. The 'safe' area should be within close proximity, since, time is of the essence and these symptoms usually climax to loss of consciousness within a matter of minutes. If the individual has lost consciousness, he or she should be laid down in the recovery position. Tight clothing should be loosened. If the inciting factor is known, it should be removed if possible (for instance, the cause of pain).
+Wearing graded compression stockings may be helpful.
+
+Medications
+Certain medications may  also be helpful:
+Beta blockers (β-adrenergic antagonists) were once the most common medication given; however, they have been shown to be ineffective in a variety of studies and are thus no longer prescribed. In addition, they may cause the syncope by lowering the blood pressure and heart rate.
+Medications which may be effective include: CNS stimulants fludrocortisone, midodrine, SSRIs such as paroxetine or sertraline, disopyramide, and, in health-care settings where a syncope is anticipated, atropine or epinephrine (adrenaline).
+For people with the cardioinhibitory form of vasovagal syncope, implantation of a permanent pacemaker may be beneficial or even curative.Types of long-term therapy for vasovagal syncope include
+Preload agents
+Vasoconstrictors
+Anticholinergic agents
+Negative cardiac inotropes
+Central agents
+Mechanical device
+Discontinuation of medications known to lower blood pressure may be helpful, but stopping antihypertensive drugs can also be dangerous in some people. Taking antihypertensive drugs may worsen the syncope, as the hypertension may have been the body's way to compensate for the low blood pressure.
+
+Prognosis
+Brief periods of unconsciousness usually cause no lasting harm to health. Reflex syncope can occur in otherwise healthy individuals, and has many possible causes, often trivial ones such as prolonged standing with the legs locked.The main danger of vasovagal syncope (or dizzy spells from vertigo) is the risk of injury by falling while unconscious. Medication therapy could possibly prevent future vasovagal responses; however, for some individuals medication is ineffective and they will continue to have fainting episodes.
+
+See also
+Orthostatic hypotension
+Orthostatic intolerance
+Postural orthostatic tachycardia syndrome
+Roemheld Syndrome
+
+
+== References ==

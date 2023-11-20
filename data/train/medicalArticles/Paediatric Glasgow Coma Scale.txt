@@ -1,0 +1,12 @@
+The Paediatric Glasgow Coma Scale (British English) or the Pediatric Glasgow Coma Score (American English) or simply PGCS is the equivalent of the Glasgow Coma Scale (GCS) used to assess the level of consciousness of child patients.  As many of the assessments for an adult patient would not be appropriate for infants, the Glasgow Coma Scale was modified slightly to form the PGCS.  As with the GCS, the PGCS comprises three tests: eye, verbal and motor responses.  The three values separately as well as their sum are considered. The lowest possible PGCS (the sum) is 3 (deep coma or death) whilst the highest is 15 (fully awake and aware person). The pediatric GCS is commonly used in emergency medical services.
+In patients who are intubated, unconscious, or preverbal, the motor response is considered the most important component of the scale.
+
+Coma scale
+Any combined score of less than eight represents a significant risk of mortality. A score of 12 or below indicates a severe head injury. A score of less than 8 indicates that intubation and ventilation may be necessary. A score of 6 or below indicates that intracranial pressure monitoring may be necessary.
+
+Modified Glasgow Coma Scale for Infants and Children
+See also
+Apgar score
+
+References
+Merck Manual. "Modified Glasgow Coma Scale for Infants and Children". Retrieved 2008-05-03.

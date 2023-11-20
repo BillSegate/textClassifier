@@ -1,0 +1,13 @@
+In ecology, sulfide intrusion refers to an excess of sulfide molecules (S2-) in the soil that interfere with plant growth, often seagrass.Seagrass bed sediment (soil) is typically anoxic, containing a reduced form of sulfur: hydrogen sulfide (H2S).  H2S is a phytotoxin that results from anaerobic digestion, the decomposition of organic matter in the absence of oxygen.  However, seagrass can persist in this environment because of physiological adaptations, as well as functional adaptations of other organisms in the ecosystem.  For example, bivalves (clams) in the family Lucinidae host symbiotic bacteria that oxidize sulfides.  Lucinid bivalves' gills house the bacteria, and the siphon supplies the bacteria and surrounding pore water with oxygenated water from above the sediment.  Bacterial oxidation of the sulfides results in sulfates, reducing toxicity.
+
+See also
+Nutrient cycle
+Redox
+Sulfur cycle
+Soil chemistry
+Soil biology
+Environmental microbiology
+Microbial biodegradation
+
+
+== References ==

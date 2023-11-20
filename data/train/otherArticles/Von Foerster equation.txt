@@ -1,0 +1,231 @@
+The McKendrick–von Foerster equation is a linear first-order partial differential equation encountered in several areas of mathematical biology – for example, demography and cell proliferation modeling; it is applied when age structure is an important feature in the mathematical model. It was first presented by Anderson Gray McKendrick in 1926 as a deterministic limit of lattice models applied to epidemiology, and subsequently independently in 1959 by biophysics professor Heinz von Foerster for describing cell cycles.
+
+Mathematical formula
+The mathematical formula can be derived from first principles. It reads:where the population density 
+  
+    
+      
+        n
+        (
+        t
+        ,
+        a
+        )
+      
+    
+    {\displaystyle n(t,a)}
+   is a function of age 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   and time 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  , and 
+  
+    
+      
+        m
+        (
+        a
+        )
+      
+    
+    {\displaystyle m(a)}
+   is the death function. When 
+  
+    
+      
+        m
+        (
+        a
+        )
+        =
+        0
+      
+    
+    {\displaystyle m(a)=0}
+  , we have:
+  
+    
+      
+        
+          
+            
+              ∂
+              n
+            
+            
+              ∂
+              t
+            
+          
+        
+        =
+        −
+        
+          
+            
+              ∂
+              n
+            
+            
+              ∂
+              a
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\partial n}{\partial t}}=-{\frac {\partial n}{\partial a}}}
+  It relates that a population ages, and that fact is the only one that influences change in population density; the negative sign shows that time flows in just one direction, that there is no birth and the population is going to die out.
+
+Derivation
+Suppose that for a change in time 
+  
+    
+      
+        d
+        t
+      
+    
+    {\displaystyle dt}
+   and change in age 
+  
+    
+      
+        d
+        a
+      
+    
+    {\displaystyle da}
+  , the population density is:That is, during a time period 
+  
+    
+      
+        d
+        t
+      
+    
+    {\displaystyle dt}
+   the population density decreases by a percentage 
+  
+    
+      
+        m
+        (
+        a
+        )
+        d
+        t
+      
+    
+    {\displaystyle m(a)dt}
+  . Taking a Taylor series expansion to order 
+  
+    
+      
+        d
+        t
+      
+    
+    {\displaystyle dt}
+   gives us that:We know that 
+  
+    
+      
+        d
+        a
+        
+          /
+        
+        d
+        t
+        =
+        1
+      
+    
+    {\textstyle da/dt=1}
+  , since the change of age with time is 1. Therefore, after collecting terms, we must have that:
+
+Analytical solution
+The von Foerster equation is a continuity equation; it can be solved using the method of characteristics. Another way is by similarity solution; and a third is a numerical approach such as finite differences.
+To get the solution, the following boundary conditions should be added:
+
+  
+    
+      
+        n
+        (
+        t
+        ,
+        0
+        )
+        =
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        b
+        (
+        a
+        )
+        n
+        (
+        t
+        ,
+        a
+        )
+        
+        d
+        a
+      
+    
+    {\displaystyle n(t,0)=\int _{0}^{\infty }b(a)n(t,a)\,da}
+  which states that the initial births should be conserved (see Sharpe–Lotka–McKendrick’s equation for otherwise), and that:
+
+  
+    
+      
+        n
+        (
+        0
+        ,
+        a
+        )
+        =
+        f
+        (
+        a
+        )
+      
+    
+    {\displaystyle n(0,a)=f(a)}
+  which states that the initial population must be given; then it will evolve according to the partial differential equation.
+
+Similar equations
+In Sebastian Aniţa, Viorel Arnăutu, Vincenzo Capasso. An Introduction to Optimal Control Problems in Life Sciences and Economics (Birkhäuser. 2011),  this equation appears as a special case of the Sharpe–Lotka–McKendrick’s equation; in the latter there is inflow, and the math is based on directional derivative. The McKendrick’s equation appears extensively in the context of cell biology as a good approach to model the eukaryotic cell cycle.
+
+See also
+Finite difference method
+Partial differential equation
+Renewal theory
+Continuity equation
+Volterra integral equation
+
+
+== References ==

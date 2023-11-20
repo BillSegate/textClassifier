@@ -1,0 +1,21 @@
+DREAD is part of a system for risk-assessing computer security threats that was formerly used at Microsoft. It provides a mnemonic for risk rating security threats using five categories.
+The categories are:
+
+Damage – how bad would an attack be?
+Reproducibility – how easy is it to reproduce the attack?
+Exploitability – how much work is it to launch the attack?
+Affected users – how many people will be impacted?
+Discoverability – how easy is it to discover the threat?The DREAD name comes from the initials of the five categories listed. It was initially proposed for threat modeling but was abandoned when it was discovered that the ratings are not very consistent and are subject to debate. It was discontinued at Microsoft by 2008.When a given threat is assessed using DREAD, each category is given a rating from 1 to 10. The sum of all ratings for a given issue can be used to prioritize among different issues.
+
+Discoverability debate
+Some security experts feel that including the "Discoverability" element as the last D rewards security through obscurity, so some organizations have either moved to a DREAD-D "DREAD minus D" scale (which omits Discoverability) or always assume that Discoverability is at its maximum rating.
+
+See also
+Cyber security and countermeasure
+STRIDE
+
+References
+External links
+Improving Web Application Security: Threats and Countermeasures
+DREADful, an MSDN blog post
+Experiences Threat Modeling at Microsoft, Adam Shostack

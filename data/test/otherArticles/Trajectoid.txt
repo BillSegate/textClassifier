@@ -1,4 +1,0 @@
-Trajectoids are a three-dimensional object designed to follow a desired path. The term was coined by Bartosz Grzybowski and his colleagues from the Institute for Basic Science in Ulsan, South Korea. A mathematical algorithm to design trajectoids was developed by researchers in South Korea and a colleague from the University of Geneva in Switzerland. These objects, and the ability to design them, may be useful in mechanisms in the medical field or in industrial production. These applications have not been materialized and trajectoids are mainly an exercise of research.
-
-
-== References ==

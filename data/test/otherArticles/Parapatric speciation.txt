@@ -1,0 +1,82 @@
+In parapatric speciation, two subpopulations of a species evolve reproductive isolation from one another while continuing to exchange genes. This mode of speciation has three distinguishing characteristics: 1) mating occurs non-randomly, 2) gene flow occurs unequally, and 3) populations exist in either continuous or discontinuous geographic ranges. This distribution pattern may be the result of unequal dispersal, incomplete geographical barriers, or divergent expressions of behavior, among other things. Parapatric speciation predicts that hybrid zones will often exist at the junction between the two populations.
+In biogeography, the terms parapatric and parapatry are often used to describe the relationship between organisms whose ranges do not significantly overlap but are immediately adjacent to each other; they do not occur together except in a narrow contact zone. Parapatry is a geographical distribution opposed to sympatry (same area) and allopatry or peripatry (two similar cases of distinct areas).
+Various "forms" of parapatry have been proposed and are discussed below. Coyne and Orr in Speciation categorise these forms into three groups: clinal (environmental gradients), "stepping-stone" (discrete populations), and stasipatric speciation in concordance with most of the parapatric speciation literature.: 111  Henceforth, the models are subdivided following a similar format.
+Charles Darwin was the first to propose this mode of speciation. It was not until 1930, when Ronald Fisher published The Genetical Theory of Natural Selection where he outlined a verbal theoretical model of clinal speciation. In 1981, Joseph Felsenstein proposed an alternative, "discrete population" model (the "stepping-stone model). Since Darwin, a great deal of research has been conducted on parapatric speciation—concluding that its mechanisms are theoretically plausible, "and has most certainly occurred in nature".: 124
+
+Models
+Mathematical models, laboratory studies, and observational evidence supports the existence of parapatric speciation's occurrence in nature. The qualities of parapatry imply a partial extrinsic barrier during divergence; thus leading to a difficulty in determining whether this mode of speciation actually occurred, or if an alternative mode (notably, allopatric speciation) can explain the data. This problem poses the unanswered question as to its overall frequency in nature.: 124 Parapatric speciation can be understood as a level of gene flow between populations where 
+  
+    
+      
+        m
+        =
+        0
+      
+    
+    {\displaystyle m=0}
+   in allopatry (and peripatry), 
+  
+    
+      
+        m
+        =
+        0.5
+      
+    
+    {\displaystyle m=0.5}
+   in sympatry, and midway between the two in parapatry. Intrinsic to this, parapatry covers the entire continuum; represented as 
+  
+    
+      
+        0
+        <
+        m
+        <
+        0.5
+      
+    
+    {\displaystyle 0<m<0.5}
+  . Some biologists reject this delineation, advocating the disuse of the term "parapatric" outright, "because many different spatial distributions can result in intermediate levels of gene flow". Others champion this position and suggest the abandonment of geographic classification schemes (geographic modes of speciation) altogether.Natural selection has been shown to be the primary driver in parapatric speciation (among other modes), and the strength of selection during divergence is often an important factor. Parapatric speciation may also result from reproductive isolation caused by social selection: individuals interacting altruistically.
+
+Environmental gradients
+Due to the continuous nature of a parapatric population distribution, population niches will often overlap, producing a continuum in the species' ecological role across an environmental gradient. Whereas in allopatric or peripatric speciation—in which geographically isolated populations may evolve reproductive isolation without gene flow—the reduced gene flow of parapatric speciation will often produce a cline in which a variation in evolutionary pressures causes a change to occur in allele frequencies within the gene pool between populations. This environmental gradient ultimately results in genetically distinct sister species.
+Fisher's original conception of clinal speciation relied on (unlike most modern speciation research) the morphological species concept.: 113  With this interpretation, his verbal, theoretical model can effectively produce a new species; of which was subsequently confirmed mathematically.: 113  Further mathematical models have been developed to demonstrate the possibility of clinal speciation with most relying on, what Coyne and Orr assert are, "assumptions that are either restrictive or biologically unrealistic".: 113 A mathematical model for clinal speciation was developed by Caisse and Antonovics that found evidence that, "both genetic divergence and reproductive isolation may therefore occur between populations connected by gene flow". This research supports clinal isolation comparable to a ring species (discussed below), except that the terminal geographic ends do not meet to form a ring.
+Doebeli and Dieckmann developed a mathematical model that suggested that ecological contact is an important factor in parapatric speciation and that, despite gene flow acting as a barrier to divergence in the local population, disruptive selection drives assortative mating; eventually leading to a complete reduction in gene flow. This model resembles reinforcement with the exception that there is never a secondary contact event. The authors conclude that, "spatially localized interactions along environmental gradients can facilitate speciation through frequency-dependent selection and result in patterns of geographical segregation between the emerging species." However, one study by Polechová and Barton disputes these conclusions.
+
+Ring species
+The concept of a ring species is associated with allopatric speciation as a special case; however, Coyne and Orr argue that Mayr's original conception of a ring species does not describe allopatric speciation, "but speciation occurring through the attenuation of gene flow with distance". They contend that ring species provide evidence of parapatric speciation in a non-conventional sense.: 102–103  They go on to conclude that:
+
+Nevertheless, ring species are more convincing than cases of clinal isolation for showing that gene flow hampers the evolution of reproductive isolation. In clinal isolation, one can argue that reproductive isolation was caused by environmental differences that increase with distance between populations. One cannot make a similar argument for ring species because the most reproductively isolated populations occur in the same habitat.: 102
+
+Discrete populations
+Referred to as a "stepping-stone" model by Coyne and Orr, it differs by virtue of the species population distribution pattern. Populations in discrete groups undoubtedly speciate more easily than those in a cline due to more limited gene flow.: 115  This allows for a population to evolve reproductive isolation as either selection or drift overpower gene flow between the populations. The smaller the discrete population, the species will likely undergo a higher rate of parapatric speciation.Several mathematical models have been developed to test whether this form of parapatric speciation can occur, providing theoretical possibility and supporting biological plausibility (dependent on the models parameters and their concordance with nature).: 115  Joseph Felsenstein was the first to develop a working model.: 115  Later, Sergey Gavrilets and colleagues developed numerous analytical and dynamical models of parapatric speciation that have contributed significantly to the quantitative study of speciation. (See the "Further reading" section)
+
+Para-allopatric speciation
+Further concepts developed by Barton and Hewitt in studying 170 hybrid zones, suggested that parapatric speciation can result from the same components that cause allopatric speciation. Called para-allopatric speciation, populations begin diverging parapatrically, fully speciating only after allopatry.
+
+Stasipatric models
+One variation of parapatric speciation involves species chromosomal differences. Michael J. D. White developed the stasipatric speciation model when studying Australian morabine grasshoppers (Vandiemenella). The chromosomal structure of sub-populations of a widespread species become underdominate; leading to fixation. Subsequently, the sub-populations expand within the species larger range, hybridizing (with sterility of the offspring) in narrow hybrid zones. Futuyama and Mayer contend that this form of parapatric speciation is untenable and that chromosomal rearrangements are unlikely to cause speciation. Nevertheless, data does support that chromosomal rearrangements can possibly lead to reproductive isolation, but it does not mean speciation results as a consequence.: 259
+
+Evidence
+Laboratory evidence
+Very few laboratory studies have been conducted that explicitly test for parapatric speciation. However, research concerning sympatric speciation often lends support to the occurrence of parapatry. This is due to the fact that, in symaptric speciation, gene flow within a population is unrestricted; whereas in parapatric speciation, gene flow is limited—thus allowing reproductive isolation to evolve easier.: 117  Ödeen and Florin complied 63 laboratory experiments conducted between the years 1950–2000 (many of which were discussed by Rice and Hostert previously) concerning sympatric and parapatric speciation. They contend that the laboratory evidence is more robust than often suggested, citing laboratory populations sizes as the primary shortcoming.
+
+Observational evidence
+Parapatric speciation is very difficult to observe in nature. This is due to one primary factor: patterns of parapatry can easily be explained by an alternate mode of speciation. Particularly, documenting closely related species sharing common boundaries does not imply that parapatric speciation was the mode that created this geographic distribution pattern.: 118  Coyne and Orr assert that the most convincing evidence of parapatric speciation comes in two forms. This is described by the following criteria:
+
+Species populations that join, forming an ecotone can be interpreted as convincingly forming in parapatry if:
+No evidence exists for a period of geographic separation between two closely related species
+Different loci are not in agreement along the cline
+Phylogenies including sister groups support different divergence times
+An endemic species that exists within a specialized habitat next to its sister species that does not reside in the specialized habitat strongly suggests parapatric speciation.: 118–123 This has been exemplified by the grass species Agrostis tenuis that grows on soil contaminated with high levels of copper, leached from an unused mine. Adjacent is the non-contaminated soil. The populations are evolving reproductive isolation due to differences in flowering. The same phenomenon has been found in Anthoxanthum odoratum in lead and zinc contaminated soils. Speciation may be caused by allochrony.Clines are often cited as evidence of parapatric speciation and numerous examples have been documented to exist in nature; many of which contain hybrid zones. These clinal patterns, however, can also often be explained by allopatric speciation followed by a period of secondary contact—causing difficulty for researchers attempting to determine their origin.: 118  Thomas B. Smith and colleagues posit that large ecotones are "centers for speciation" (implying parapatric speciation) and are involved in the production of biodiversity in tropical rainforests. They cite patterns of morphologic and genetic divergence of the passerine species Andropadus virens. Jiggins and Mallet surveyed a range of literature documenting every phase of parapatric speciation in nature positing that it is both possible and likely (in the studied species discussed).A study of tropical cave snails (Georissa saulae) found that cave-dwelling population descended from the above-ground population, likely speciating in parapatry.Partula snails on the island of Mo'orea have parapatrically speciated in situ after a single or a few colonization events, with some species expressing patterns of ring species.In the Tennessee cave salamander,  timing of migration was used to infer the differences in gene flow between cave-dwelling and surface-dwelling continuous populations. Concentrated gene flow and mean migration time results inferred a heterogenetic distribution and continuous parapatric speciation between populations.Researchers studying Ephedra, a genus of gymnosperms in North American, found evidence of parapatric niche divergence for the sister species pairs E. californica and E. trifurca.One study of Caucasian rock lizards suggested that habitat differences may be more important in the development of reproductive isolation than isolation time. Darevskia rudis, D. valentini  and D. portschinskii all hybridize with each other in their hybrid zone; however, hybridization is stronger between D. portschinskii and D. rudis, which separated earlier but live in similar habitats than between D. valentini and two other species, which separated later but live in climatically different habitats.
+
+Marine organisms
+It is widely thought that parapatric speciation is far more common in oceanic species due to the low probability of the presence of full geographic barriers (required in allopatry). Numerous studies conducted have documented parapatric speciation in marine organisms. Bernd Kramer and colleagues found evidence of parapatric speciation in Mormyrid fish (Pollimyrus castelnaui); whereas Rocha and Bowen contend that parapatric speciation is the primary mode among coral-reef fish. Evidence for a clinal model of parapatric speciation was found to occur in Salpidae. Nancy Knowlton found numerous examples of parapatry in a large survey of marine organisms.
+
+See also
+History of speciation
+Evidence for speciation by reinforcement
+
+References
+Further reading
+Quantitative speciation research

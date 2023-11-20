@@ -1,0 +1,4 @@
+Tn antigen refers to the monosaccharide structure N-acetylgalactosamine (GalNAc) linked to serine or threonine by a glycosidic bond, considered as an antigen. The initials stand for Thomsen-nouveau. Tn antigen is expressed in most carcinomas.Addition of an additional galactose monosaccharide creates a disaccharide antigen: the Thomsen-Friedenreich antigen (Gal(b1-3)GalNAc). The sialyl Tn antigen (STn antigen) is formed by elongation with sialic acid (Neu5Ac(a2-6)GalNAc) rather than galactose.
+
+
+== References ==

@@ -1,0 +1,107 @@
+A macro in computer science is a rule or pattern that specifies how a certain input sequence (often a sequence of characters) should be mapped to a replacement input sequence (also often a sequence of characters) according to a defined procedure.
+A macro is used to define variables or procedures, to allow code reuse, or to design domain-specific languages.
+Macros can be separated into several types: 
+
+Text substitution macros as in the C language.
+Macros in software. In some software, a sequence of instructions can be associated to a keyboard or mouse action. Some software can include a programming language (like VBA in Microsoft Office) allowing the control of software features.
+Other types of macros that are not covered in this article.Macros can be very useful to software users. They simplify regularly used actions (repetitive code for a programmer, or a sequence of actions in a program) so that the productivity of the user is increased. However, many problems exist, they will be tackled subsequently.
+
+Flaws and macros viruses
+Text substitution dangers
+There are a few dangers in text substitution macros, like C macros.
+The C preprocessor is a powerful tool that can bring clarity to the code or on the contrary, obscure it.
+
+Hiding repeated evaluation
+If a macro such as the common function max is defined as
+
+then one of a or b will be evaluated twice when it is used, although from perusal of the calling code this may not be obvious. If these entities are constants this is harmless; if they are function calls then the repeated evaluation may consume resources. Worse, if they are functions with side effects, a second evaluation may lead to unexpected results.
+
+Bracketing arguments
+Failure to bracket arguments can lead to unexpected results. For example,
+
+is intended to produce twice the argument. But double(x + 1) will produce 2 * x + 1 instead. The solution is to bracket the arguments:
+
+VBA-type/Winword macros flaws
+These flaws are completely different from the previous ones : the main problem in VBA-type macros is the viruses. Macro viruses are relatively recent, the first one named Concept, was created in June 1995.
+The main reason of that is that the high-level languages used to write macro code are powerful and easy to use, considerably increasing the pool of potential virus writers, and the documents containing the macros can be disseminated rapidly and widely by E-mail.
+Macro flaws can be spread quickly and become very destructive.
+
+Different types of macros viruses
+System macro viruses
+System macro means macros that interact with basic operators in a Word document (like often-used functionalities like FileSave, FileSaveAs which are macros). The strength, and yet the weakness of a Word document is that such types of macros can be redefined by users. This allows the user great flexibility, but this also is a flaw that hackers can exploit to take down control of the document and the computer where the Word document is opened. Such type of viruses use automatic and semi-automatic macros, they can be launched by any action or events without the user's knowledge or consent.
+For example, a Word document has the following macros: AutoExec, AutoNew, AutoClose, AutoOpen, AutoExit, so it is easy for a hacker to replace these basic functionalities by a macro virus which has the same name as the original functionality.
+Also, a combination of shortcut keys can be associated with a system command (like Ctrl+B to set up the bold font) and the user can change them, replacing them by custom macros. As such, a hacker can modify and create macros that the user will activate by using the shortcut key. Such macros can also be activated by a macro button, like a button "Click here for further information" which seems common and innocuous.
+
+Document-to-macro conversion
+A type of macro virus that cuts and pastes the text of a document in the macro. The macro could be invoked with the Auto-open macro so that the text would be re-created when the document (empty) is opened. The user will not notice that the document is empty. The macro could also convert only some parts of the text in order to be less noticeable. Removing macros from the document manually or by using an anti-virus program could lead to a loss of content in the document.
+: 609–610
+
+Polymorphic macros
+Polymorphic viruses change their code in fundamental ways with each replication in order to avoid detection by anti-virus scanners.
+In WordBasic (first name of the language Visual Basic), polymorphic viruses are difficult to do.
+Indeed, the macro's polymorphism relies of the encryption of the document. However, the hackers have no control of the encryption key.
+Furthermore, the encryption is inefficient: the encrypted macros are just in the document, so the encryption key is too and when a polymorphic macro replicates itself, the key does not change (the replication affects only the macro not the encryption).
+In addition to these difficulties, a macro can not modify itself, but another macro can. WordBasic is a powerful language, it allows some operations to the macros:
+
+Rename the variables used in the macro(s).
+Insert random comments between the operators of its macro(s)
+Insert between the operators of its macros other, ‘do-nothing’ WordBasic operators which do not affect the execution of the virus.
+Replace some of its operators with others, equivalent ones, which perform the same function.
+Swap around any operators the order of which does not impact the result of the macro’s execution.
+Rename the macro(s) themselves to new, randomly selected names each time the virus replicates itself to a new document, with the appropriate changes in these parts of the virus body which refer to these macros.So, in order to implement macros viruses which can change its contents, hackers have to create another macro which fulfills the task to modify the content of the virus. However, this type of macro viruses is not widespread. Indeed, hackers frequently choose to do macro viruses because they are easy and quick to implement. Making a polymorphic macro requires a lot of knowledge of the  WordBasic language (it needs the advanced functionalities) and more time than a "classic" macro virus. Even if a hacker were to make a polymorphic macro, the polymorphism needs to be done, so, the document needs to update and the update can be visible to a user.: 610–612
+
+Chained macros
+During replication, a macro can create do-nothing macros. But this idea can be combined with polymorphic macros, so macros are not necessarily do-nothing; each macro invokes the next one, so they can be arranged in a chain. In such a case, if they are not all removed during a disinfection, some destructive payload is activated. Such an attack can crash the winword processor with an internal error. Since Winword 6.0, the number of macros per template is limited to 150, so the attack is limited, too, but can still be very annoying.
+: 623
+
+"Mating" macro viruses
+Macro viruses can, in some cases, interact between themselves. If two viruses are executed at the same time, both of them can modify the source code of each other.
+So, it results a new virus which can not be recognize by the anti-viruses software. But the result is totally random: the macro virus can be more infectious or less infectious, depending upon which part of the virus has been changed.
+However, when the 'mating' is unintentional, the resulting macro virus has more chances to be less infectious.
+Indeed, in order to replicate itself, it has to know the commands in the source code, but, if it is changed with a random scheme, the macro can not replicate itself.
+Nevertheless, it is possible to do such macros intentionally (it is different from polymorphic macros viruses which must use another macro to change their contents) in order to increase the infectivity of the two viruses.
+In the example of the article,: 612–613  the macro virus Colors infected a document, but another infected the user's system before : the macro virus Concept.
+Both of these viruses use the command AutoOpen, so, at first, the macro virus Colors was detected but the command AutoOpen in it was the command of the macro virus Concept.
+Moreover, when Concept duplicates itself, it is unencrypted, but the command in the virus Colors was encrypted (Colors encrypt its commands).
+So, replication of the macro virus Concept results in the hybridation of this macro virus (which had infected the user's system first) and Colors.
+The "hybrid" could replicate itself only if AutoOpen were not executed; indeed this command comes from Concept, but the body of the hybrid is Colors, so that create some conflicts.
+This example shows the potential of mating macro viruses: if a couple of mating macro viruses is created, it will make it more difficult to detect both macro viruses (in this hypothesis, there are only two viruses which mate) by the virus-specific scanners and may reinforce the virility of the viruses.
+Fortunately, this type of macro virus is rare (more than the polymorphic macro viruses, one may not even exist), indeed, creating two (or more) which can interact with each other and not reduce the virility (rather reinforce it) is complicated.
+
+Macro virus mutators
+Among the worst scenarios in the world of viruses would be a tool allowing one to create a new virus by modifying an existing one.
+For executable files, it is hard to create this kind of tool. But it is very simple for macro viruses since sources of macros are always available. Based on the same idea of polymorphic macros, a macro can perform modifications to all macros present in the document. Considering this, there are just a few modifications to make to the macro in order to convert it in a macro virus mutator.
+So it is easy to create macro virus generators, and thereby to create quickly several thousands of known viruses.
+: 613–614
+
+Parasitic macro viruses
+Most macros viruses are stand-alone; they do not depend on other macros (for the infectious part of the virus, not for the replication for some viruses), but some macros viruses do. They are called parasitic macros.: 614–615 
+When launched, they check other macros (viruses or not), and append their contents to them. In this way, all of the macros became viruses.
+But, this type of macro can not be spread as quickly as stand-alone macros.
+Indeed, it depends on other macros, so, without them, the virus can not be spread. So, parasitic macros often are hybrid: they are stand alone and they can infect other macros.
+This kind of macro virus poses real problems to the virus-specific anti-virus; in fact, they change the content of other viruses, so that accurate detection is not possible.
+
+Suboptimal anti-virus
+There are different types of anti-virus (or scanners), one is the heuristic analysis anti-virus which interprets or emulates macros.
+Indeed, to examine all branches of macros require a NP-complete complexity: 605  (using backtracking), so in this case, the analysis of one document (which contains macros) would take too much time. Interpreting or emulating a macro would lead to either false positive errors or in macro viruses not detected.
+Another type of anti-virus, the integrity checker anti-virus, in some cases, does not work: it only checks documents with extensions DOT or DOC (indeed, some anti-virus producers suggest to their users), but Word documents can reside in others extensions than those two, and the content of the document tends to change often.: 605  So, like the heuristic analysis, this can lead to false positives errors, due to the fact that this type of anti-virus checks the whole document.The last type of anti-virus seen will be the virus-specific scanner.: 608  It searches the signature of viruses, so, the type of anti-virus is weaker than the previous ones.
+Indeed, the viruses detected by virus-specific scanners are just the ones known by the software producers (so, more updates are needed than in other types of scanners). Moreover, this type of anti-virus is weak against morphing viruses (cf.section above). If a macro virus change its content (so, its signature), it cannot be detected any more by the virus-specific scanners, even if it is the same virus doing the same actions. Its signature does not match the one declared in the virus scanner.
+Additional to the responsibility of the anti-virus is the user's responsibility: if a potential macro virus is detected, the user can choose what to do with it: ignore it, quarantine it or destroy it, but the last option is the most dangerous.
+The anti-virus can activate some destructive macro viruses which destroy some data when they are deleted by the anti-virus.
+So, both virus scanners and users are responsible for the security and the integrity of the documents/computer.
+Moreover, even if the anti-virus is not optimal in the virus detection, most macro viruses are detected and the progression in virus detection improves but with creation of new macro viruses.
+
+See also
+Macro (computer science)
+Macro instruction
+Macro-définition (French)
+
+References
+Michael D. Ernst; Greg J. Badros; David Notkin (December 2002). "An Empirical Analysis of C Preprocessor Use". C Preprocessor, Macros. 28 (12): 1146–1170. doi:10.1109/TSE.2002.1158288.
+Steven E. Ganz; Amr Sabry; Walid Taha (2001). "Macros as multi-stage computations: Type-safe, generative, binding macros in MacroML". Macro Language. 36 (10): 74–85. doi:10.1145/507669.507646.
+Gerard J. Holzmann. "The power of ten - Rules for developing safety critical code" (PDF). safety of macros. p. 4.
+William Clinger; Jonathan Rees (1991). "Macros that work". Proceedings of the 18th ACM SIGPLAN-SIGACT symposium on Principles of programming languages - POPL '91. pp. 155–162. doi:10.1145/99583.99607. ISBN 0897914198. S2CID 5340096. {{cite book}}: |work= ignored (help)
+Vesselin Bontchev (1996). "Possible macro virus attacks and how to prevent them". Virus, Macros, Safety of Macros. 15 (7): 595–626. doi:10.1016/S0167-4048(97)88131-X.
+
+
+== Notes ==

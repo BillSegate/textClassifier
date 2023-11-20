@@ -1,0 +1,14 @@
+Open security is the use of open source philosophies and methodologies to approach computer security and other information security challenges. Traditional application security is based on the premise that any application or service (whether it is malware or desirable) relies on security through obscurity.Open source approaches have created technology such as Linux (and to some extent, the Android operating system). Additionally, open source approaches applied to documents have inspired wikis and their largest example, Wikipedia. Open security suggests that security breaches and vulnerabilities can be better prevented or ameliorated when users facing these problems collaborate using open source philosophies.This approach requires that users be legally allowed to collaborate, so relevant software would need to be released under a license that is widely accepted to be open source; examples include the Massachusetts Institute of Technology (MIT) license, the Apache 2.0 license, the GNU Lesser General Public License (LGPL), and the GNU General Public License (GPL). Relevant documents would need to be under a generally accepted "open content" license; these include Creative Commons Attribution (CC-BY) and Attribution Share Alike (CC-BY-SA) licenses, but not Creative Commons "non-commercial" licenses or "no-derivative" licenses.On the developer side, legitimate software and service providers can have independent verification and testing of their source code. On the information technology side, companies can aggregate common threats, patterns, and security solutions to a variety of security issues.
+
+See also
+Kerckhoffs's Principle
+OASIS (organization) (Organization for the Advancement of Structured Information Standards)
+OWASP (Open Web Application Security Project)
+Open government
+Homeland Open Security Technology
+Open source
+Open source software
+Open-source hardware
+
+
+== References ==

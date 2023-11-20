@@ -1,0 +1,68 @@
+Pediatric neuropsychology (paediatric in the UK) is a sub-speciality within the field of clinical neuropsychology that studies the relationship between brain health and behaviour in children. Many pediatric neuropsychologists are involved in teaching, research, supervision, and training of undergraduate and graduate students in the field.
+In the United States undergraduate and graduate psychology programs generally do not offer a "track" in pediatric neuropsychology, per se. Specific supervised training in pediatric neuropsychology typically begins at the internship or postdoctoral level, as the graduate student is completing or has just completed a PhD or PsyD in clinical child psychology, pediatric psychology, clinical neuropsychology, or school psychology.
+In the UK formal Clinical Paediatric Neuropsychology Training is available via UCL. This makes up part of the British Psychological Society's (BPS) criteria for accreditation as a Paediatric Clinical Neuropsychologist, known as the Qualification in Clinical Neuropsychology (QiCN). Other requirements included documented supervised practise and the submission of a portfolio of clinical cases. Once completed paediatric clinical neuropsychologists are eligible to be on the Specialist Register of Clinical Neuropsychology run by the BPS
+
+Definition
+Most pediatric neuropsychologists have several years of post-doctoral training regarding developmental or acquired neuropathology in children. Pediatric neuropsychologists work in any setting where children with central nervous system dysfunction are treated. This includes neurology, neurosurgery and psychiatry practices as well as in hospital and outpatient settings.  In addition to assessing and treating children with medical disorders such as traumatic brain injury, brain tumors or epilepsy, pediatric neuropsychologists work with children who have Attention-Deficit Hyperactivity Disorder (ADHD), learning disabilities, intellectual and developmental disorders (mental retardation), autism spectrum disorders. Some may work in other settings, such as schools, and provide more traditional mental health services as well.
+In the United States, consistent with the current American Psychological Association's definition, "proficiencies can only be acquired through appropriate education and training focused quite specifically and intensively on defined content".
+People in the field are sometimes referred to as "neurodevelopmentalists".  As of 2005 there was debate in the field as to whether "neurodevelopmentalist" should be made a new speciality.
+
+Five maxims
+In many ways, pediatric and adult neuropsychological practice are the same, but there are important differences. Some of these differences can be seen as maxims of neuropsychological practice with children include:
+Maturation is a paramount force in pediatric neuropsychology
+Adult brain-behavior relationship rules do not invariably apply to children
+A model of normal development provides clinical critical context.
+Pediatric neuropsychological methods are distinctive
+Genetic, socio-environmental and family factors have primacy for evaluation
+
+A pediatric neuropsychological evaluation
+A clinical interview and observations of the child
+An interview of significant others if possible
+A review of any relevant school and or medical records and
+Administration of standardised tests that measure brain functions, such as: attention, executive functioning, memory, language, behavioral/emotional functioning, visuospatial abilities, fine motor skills and others. The tests are selected based on the child's presenting problems, age, developmental status, language and cultural considerations.
+Integration of the clinical history, observations, collateral information, and test results, with relevant research and clinical experience, to formulate and convey diagnostic impressions and recommendations.The neuropsychological evaluation is used to determine the pattern of brain-related strengths and weaknesses to understand the origin of the problem and to make a diagnosis. Often, this will guide specific treatment recommendations. Pediatric neuropsychological evaluations are performed by licensed professionals and are helpful in determining functional outcomes and guiding interventions related to genetic syndromes, prenatal influences on development, systemic illness affecting the nervous system, acquired brain injuries or developmental conditions such as autism or learning disabilities.
+
+Disorders commonly evaluated by pediatric neuropsychologists
+Developmental Disabilities
+Speech and Language Impairment (of unknown origin)
+ADHD and Learning Disabilities
+Intellectual Disability
+Autism Spectrum Disorder
+Genetic and metabolic syndromes (e.g., phenylketonuria, Down syndrome, neurofibromatosis, Turner syndrome)
+Acquired Neuropsychological Disorders
+Prenatal Substance Exposure (e.g., Fetal Alcohol Syndrome, Alcohol Related Neurodevelopmental Disorder)
+Hypoxic-Ischemic Injuries (e.g.,  periventricular leukomalacia associated with prematurity; near-drowning asphyxia)
+Other prenatal anomalies (amniotic band syndrome, spina bifida myelomeningocele)
+Toxic exposure (lead, mercury poisoning, chemotherapy drugs, irradiation)
+Malnutrition & specific nutrient deficiencies affecting brain function
+Trauma related to Abuse & Neglect
+Acquired Traumatic Brain Injuries
+Cerebrovascular disease (ischemia, thrombosis, embolism, infarct, arteriovenous malformation)
+Neurological conditions of varying etiology (epilepsy, hydrocephalus, cysts, demyelination)
+Systemic illness affecting brain development or function (e.g., HIV/AIDS, meningitis, encephalitis, leukemia, sickle cell disease)
+Organ dysfunction affecting brain development or function, e.g., Cardiac, Circulatory, Renal, Hepatic, or Pulmonary Problems
+Psychiatric Disorders (e.g., schizophrenia, somatization)
+
+Board certification
+In the United States and Canada, each state or province licenses professionals to practice psychology. Additionally, two boards specifically examine and certify neuropsychologists engaged in pediatric practice:
+
+The American Board of Pediatric Neuropsychology, a subsidiary of the American Academy of Pediatric Neuropsychology, is an exclusively pediatric board.
+The American Board of Clinical Neuropsychology, a specialty board of the American Board of Professional Psychology, provides board certification for clinical neuropsychologists who subspecialize with different populations, including pediatric, lifespan, epilepsy, traumatic brain injury rehabilitation, geriatric, forensic work, etc.
+
+References
+Further reading
+Davis, Andrew, ed. (2011). Handbook of Pediatric Neuropsychology. New York: Springer Publishing. ISBN 978-0-8261-0629-2. Retrieved 28 May 2013.
+David A. Baker (June 2012). "Handbook of Pediatric Neuropsychology". Archives of Clinical Neuropsychology (Review). 27 (4): 470–471. doi:10.1093/arclin/acs037.
+Hodges, Elise K; Kuentzel, Jeffrey G; Hook, Julie N. (eds.). (2023). Pediatric Neuropsychology: Perspectives from the Ambulatory Care Setting. Oxfordshire, England: Routledge. Retrieved 29 June 2022.
+Marshall, John (2010). Gurd, Jennifer; Kischka, Udo; Marshall, John (eds.). The Handbook of Clinical Neuropsychology (Second ed.). Oxford University Press. doi:10.1093/acprof:oso/9780199234110.001.0001. ISBN 978-0-19-162578-7. Retrieved 17 June 2014.
+Lezak, Muriel D.; Howieson, Diane B.; Bigler, Erin D.; Tranel, Daniel (2012). Neuropsychological Assessment (Fifth ed.). Oxford: Oxford University Press. ISBN 978-0-19-539552-5. Retrieved 17 June 2014.
+Miller, Daniel C. (3 January 2013). Essentials of School Neuropsychological Assessment (2nd ed.). John Wiley & Sons. ISBN 978-1-118-17584-2. Retrieved 9 June 2014.
+Parsons, Michael W.; Hammeke, Thomas A., eds. (April 2014). Clinical Neuropsychology: A Pocket Handbook for Assessment (Third ed.). American Psychological Association. ISBN 978-1-4338-1687-1. This handbook for practitioners includes chapters by Michael W. Parsons, Alexander Rae-Grant, Ekaterina Keifer, Marc W. Haut, Harry W. McConnell, Stephen E. Jones,  Thomas Krewson, Glenn J. Larrabee, Amy Heffelfinger, Xavier E. Cagigas, Jennifer J. Manly, David Nyenhuis, Sara J. Swanson, Jessica S. Chapin, Julie K. Janecek, Michael McCrea, Matthew R. Powell, Thomas A. Hammeke, Andrew J. Saykin, Laura A. Rabin, Alexander I. Tröster, Sonia Packwood, Peter A. Arnett, Lauren B. Strober, Mariana E. Bradshaw, Jeffrey S. Wefel, Roberta F. White, Maxine Krengel, Rachel Grashow, Brigid Waldron-Perrine, Kenneth M. Adams, Margaret G. O'Connor, Elizabeth Race, David S. Sabsevitz, Russell M. Bauer, Ronald A. Cohen, Paul Malloy, Melissa Jenkins, Robert Paul, Darlene Floden, Lisa L. Conant, Robert M. Bilder, Rishi K. Bhalla, Ruth O'Hara, Ellen Coman, Meryl A. Butters, Michael L. Alosco, Sarah Garcia, Lindsay Miller, John Gunstad, Dawn Bowers, Jenna Dietz, Jacob Jones, Greg J. Lamberty, and Anita H. Sim.
+Reddy, Linda A.; Weissman, Adam S.; Hale, James B., eds. (2013). Neuropsychological Assessment and Intervention for Youth: An Evidence Based Approach to Emotional and Behavioral Disorders. American Psychological Association. ISBN 978-1-4338-1266-8. OCLC 810409783. Retrieved 15 June 2014. This collection of articles for practitioners includes chapters by Linda A. Reddy, Adam S. Weissman, James B. Hale, Allison Waters, Lara J. Farrell, Elizabeth Schilpzand, Susanna W. Chang, Joseph O’Neill, David Rosenberg, Steven G. Feifer, Gurmal Rattan, Patricia D. Walshaw, Carrie E. Bearden, Carmen Lukie, Andrea N. Schneider, Richard Gallagher, Jennifer L. Rosenblatt, Jean Séguin, Mathieu Pilon, Matthew W. Specht, Susanna W. Chang, Kathleen Armstrong, Jason Hangauer, Heather Agazzi, Justin J. Boseck, Elizabeth L. Roberds, Andrew S. Davis, Joanna Thome, Tina Drossos, Scott J. Hunter, Erin L. Steck-Silvestri, LeAdelle Phelps, William S. MacAllister, Jonelle Ensign, Emilie Crevier-Quintin, Leonard F. Koziol, and Deborah E. Budding.
+Riccio, Cynthia A.; Sullivan, Jeremy R.; Cohen, Morris J. (28 January 2010). Neuropsychological Assessment and Intervention for Childhood and Adolescent Disorders. John Wiley & Sons. doi:10.1002/9781118269954. ISBN 978-0-470-18413-4.
+Sherman, Elizabeth M.; Brooks, Brian L., eds. (2012). Pediatric Forensic Neuropsychology (Third ed.). Oxford: Oxford University Press. ISBN 978-0-19-973456-6. Retrieved 14 July 2013.
+
+External links
+UNC School of Medicine Department of Neurology (24 February 2011). "Neuropsychological Evaluation FAQ". University of North Carolina Chapel Hill. Retrieved 17 June 2014.
+American Academy Of Pediatric Neuropsychology (AAPdN) (2013). "American Academy of Pediatric Neuropsychology". AAPdN. Retrieved 17 June 2014.
+Public Interest Advisory Committee, Division 40 (Clinical Neuropsychology), American Psychological Association (2013). "Pediatric Neuropsychology: A Guide for Parents" (PDF). Division 40. American Psychological Association. Retrieved 17 June 2014.{{cite web}}:  CS1 maint: multiple names: authors list (link)

@@ -1,0 +1,11 @@
+Cure53 is a German cybersecurity firm. The company was founded by Dr. Mario Heiderich, a client side security researcher.
+
+History
+After a report from Cure53 on the South Korean security app Smart Sheriff, that described the app's security holes as "catastrophic", the South Korean government ordered the Smart Sheriff to be shut down.Software audited by Cure53 includes Mastodon, OnionShare, Bitwarden, Mailvelope, GlobaLeaks, SecureDrop, OpenPGP, Onion Browser, F-Droid, Nitrokey, Peerio, OpenKeychain, cURL, Briar, Mozilla Thunderbird, Threema, MetaMask, and Proton Pass, as well as many VPN and password manager providers.
+
+References
+External links
+Homepage
+Linkedin
+GitHub
+Twitter

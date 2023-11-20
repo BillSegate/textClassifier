@@ -1,0 +1,16 @@
+A unified power flow controller (UPFC) is an electrical device for providing fast-acting reactive power compensation on high-voltage electricity transmission networks. It uses a pair of three-phase controllable bridges to produce current that is injected into a transmission line using a series transformer. The controller can control active and reactive power flows in a transmission line.
+Unified Power Flow Controller (UPFC), as a representative of the third generation of FACTS devices, is by far the most comprehensive FACTS device, in power system steady-state it can implement power flow regulation, reasonably controlling line active power and reactive power, improving the transmission capacity of power system, and in power system transient state it can realize fast-acting reactive power compensation, dynamically supporting the voltage at the access point and improving system voltage stability, moreover, it can improve the damping of the system and power angle stability.
+The UPFC uses solid state devices, which provide functional flexibility, generally not attainable by conventional thyristor controlled systems. The UPFC is a combination of a static synchronous compensator (STATCOM) and a static synchronous series compensator (SSSC) coupled via a common DC voltage link.The main advantage of the UPFC is to control the active and reactive power flows in the transmission line. If there are any disturbances or faults in the source side, the UPFC  will not work. The UPFC operates only under balanced sine wave source. The controllable parameters of the UPFC are reactance in the line, phase angle and voltage. The UPFC concept was described in 1995  by L. Gyugyi of Westinghouse. The UPFC allows a secondary but important function such as stability control to suppress power system oscillations improving the transient stability of power system.
+
+Power flow controller for direct current
+A counterpart for unified power flow controller that can be used in direct current systems was proposed for use in high-voltage direct current grids and for low-voltage direct current microgrids.  It uses a high-frequency isolated dc-dc converter cascaded with a controllable full-bridge inverter that creates a small bipolar voltage in series with the line. The controller can control the power and compensate for accumulated voltage drop in a distribution line.
+The main advantage of the solution is the ability to control the bulk power flow in the line while actively processing only a small fraction of the bulk power. The partial power processing leads to increased system efficiency and use of derated components. The use of derated components results in small and cost-efficient designs.
+
+See also
+Synchronous condenser
+Static VAR compensator
+Static synchronous compensator
+
+References
+External links
+NR Electric PCS-8200 UFPC Solution

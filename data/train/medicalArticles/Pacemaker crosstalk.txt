@@ -1,0 +1,14 @@
+Pacemaker crosstalk results when the pacemaker-generated electrical event in one chamber is sensed by the lead in another chamber, resulting in inappropriate inhibition of the pacing artifact in the second chamber.
+
+Cause
+Crosstalk can only occur in dual chamber or biventricular pacemaker. It happens less often in more recent models of dual chamber pacemakers due to the addition of a ventricular blanking period, which coincides with the atrial stimulus. This helps to prevent ventricular channel oversensing of atrial output.  Newer dual chamber pacemakers also use bipolar leads with a smaller pacing spike, and steroid eluting leads with lower pacing thresholds. Crosstalk is more common in unipolar systems since they require a larger pacing spike. Crosstalk is sometimes referred to as crosstalk inhibition, far-field sensing, or self-inhibition.  In some cases, crosstalk can occur in the pulse generator circuit itself, though more common causes include atrial lead dislodgement into the ventricle, ventricular lead dislodgement into the atrium, high atrial output current, high ventricular sensitivity, and short ventricular blanking period.
+
+Treatment
+In general, the treatment of crosstalk includes decreasing atrial pacing output, decreasing atrial pulse width, decreasing ventricular sensitivity, increasing the ventricular blanking period, activating ventricular safety pacing, and new atrial lead implant if insulation failure mandates unipolar programming.
+
+See also
+Pacemaker failure
+Electrical conduction system of the heart
+
+
+== References ==

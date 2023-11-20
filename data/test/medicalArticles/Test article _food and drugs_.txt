@@ -1,7 +1,0 @@
-In medicine and food law, a test article is a prototype product specifically manufactured to test the product. Since medical and food test products involve human safety, they are subject to legal regulation.
-
-United States
-In the United States, medical and food test products are regulated by the Food and Drug Administration (FDA). Title 21 "Food and Drugs" , Part 50 "Protection of Human Subjects" defines test article as "drug (including a biological product for human use), medical device for human use, human food additive, color additive, electronic product, or any other article subject to regulation under the act or under sections 351 and 354-360F of the Public Health Service Act (42 U.S.C. 262 and 263b-263n)." Title 21 "Food and Drugs" , Part 58 "Good Laboratory Practice for Nonclinical Laboratory Studies"  defines test article similarly: as "any food additive, color additive, drug, biological product, electronic product, medical device for human use, or any other article subject to regulation under the act or under sections 351 and 354-360F of the Public Health Service Act".Generally, prior to the usage of test articles in research involving human subjects, and approval from the institutional review board (IRB), however emergency life-threatening situations are exempt form this requirement. IRB must be notified about an emergency usage of test articles within 5 business days. 
-
-
-== References ==

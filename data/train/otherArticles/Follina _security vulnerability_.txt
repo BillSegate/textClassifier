@@ -1,0 +1,28 @@
+The Microsoft Support Diagnostic Tool (MSDT) is a legacy service in Microsoft Windows that allows Microsoft technical support agents to analyze diagnostic data remotely for troubleshooting purposes.  In April 2022 it was observed to have a security vulnerability that allowed remote code execution which was being exploited to attack computers in Russia and Belarus, and later against the Tibetan government in exile. Microsoft advised a temporary workaround of disabling the MSDT by editing the Windows registry.
+
+Use
+When contacting support the user is told to run MSDT and given a unique "passkey" which they enter. They are also given an "incident number" to uniquely identify their case. The MSDT can also be run offline which will generate a .CAB file which can be uploaded from a computer with an internet connection.
+
+Security Vulnerabilities
+Follina
+Follina is the name given to a remote code execution (RCE) vulnerability, a type of arbitrary code execution (ACE) exploit, in the Microsoft Support Diagnostic Tool (MSDT) which was first widely publicized on May 27, 2022, by a security research group called Nao Sec. This exploit allows a remote attacker to use a Microsoft Office document template to execute code via MSDT. This works by exploiting the ability of Microsoft Office document templates to download additional content from a remote server. If the size of the downloaded content is large enough it causes a buffer overflow allowing a payload of Powershell code to be executed without explicit notification to the user. On May 30 Microsoft issued CVE-2022-30190 with guidance that users should disable MSDT. Malicious actors have been observed exploiting the bug to attack computers in Russia and Belarus since April, and it is believed Chinese state actors had been exploiting it to attack the Tibetan government in exile based in India. Microsoft patched this vulnerability in its June 2022 patches.
+
+DogWalk
+The DogWalk vulnerability is a remote code execution (RCE) vulnerability in the Microsoft Support Diagnostic Tool (MSDT). It was first reported in January 2020, but Microsoft initially did not consider it to be a security issue. However, the vulnerability was later exploited in the wild, and Microsoft released a patch for it in August 2022.
+
+The vulnerability is caused by a path traversal vulnerability in the sdiageng.dll library. This vulnerability allows an attacker to trick a victim into opening a malicious diagcab file, which is a type of Windows cabinet file that is used to store support files. When the diagcab file is opened, it triggers the MSDT tool, which then executes the malicious code.
+Originally discovered by Mitja Kolsek, the DogWalk vulnerability is caused by a path traversal vulnerability in the sdiageng.dll library. This vulnerability allows an attacker to trick a victim into opening a malicious diagcab file, which is a type of Windows cabinet file that is used to store support files. When the diagcab file is opened, it triggers the MSDT tool, which then executes the malicious code.
+The vulnerability is exploited by creating a malicious diagcab file that contains a specially crafted path. This path contains a sequence of characters that is designed to exploit the path traversal vulnerability in the sdiageng.dll library. When the diagcab file is opened, the MSDT tool will attempt to follow the path. However, the path will contain characters that are not valid for a Windows path. This will cause the MSDT tool to crash.
+When the MSDT tool crashes, it will generate a memory dump. This memory dump will contain the malicious code that was executed by the MSDT tool. The attacker can then use this memory dump to extract the malicious code and execute it on their own computer.
+
+Retirement
+Microsoft will no longer be supporting the Windows legacy inbox Troubleshooters. In 2025, Microsoft will remove the MSDT platform entirely. Get Help is the replacement tool.
+
+Windows versions
+Windows 7
+Windows 8.1
+Windows 10
+Windows 11 (upto 22H2)Future versions and feature upgrades will depreciate the MSDT after May 23, 2023.
+
+
+== References ==

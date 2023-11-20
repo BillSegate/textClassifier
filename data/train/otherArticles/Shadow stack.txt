@@ -1,0 +1,13 @@
+In computer security, a shadow stack is a mechanism for protecting a procedure's stored return address, such as from a stack buffer overflow. The shadow stack itself is a second, separate stack that "shadows" the program call stack. In the function prologue, a function stores its return address to both the call stack and the shadow stack. In the function epilogue, a function loads the return address from both the call stack and the shadow stack, and then compares them. If the two records of the return address differ, then an attack is detected; the typical course of action is simply to terminate the program or alert system administrators about a possible intrusion attempt. A shadow stack is similar to stack canaries in that both mechanisms aim to maintain the control-flow integrity of the protected program by detecting attacks that tamper the stored return address by an attacker during an exploitation attempt.
+Shadow stacks can be implemented by recompiling programs with modified prologues and epilogues, by dynamic binary rewriting techniques to achieve the same effect, or with hardware support. Unlike the call stack, which also stores local program variables, passed arguments, spilled registers and other data, the shadow stack typically just stores a second copy of a function's return address.
+Shadow stacks provide more protection for return addresses than stack canaries, which rely on the secrecy of the canary value and are vulnerable to non-contiguous write attacks. Shadow stacks themselves can be protected with guard pages or with information hiding, such that an attacker would also need to locate the shadow stack to overwrite a return address stored there.
+Like stack canaries, shadow stacks do not protect stack data other than return addresses, and so offer incomplete protection against security vulnerabilities that result from memory safety errors.
+In 2016, Intel announced upcoming hardware support for shadow stacks with their Control-flow Enforcement Technology.Shadow stacks face some compatibility problems. After a program throws an exception or a longjmp occurs, the return address at the top of the shadow stack will not match return address popped from the call stack. The typical solution for this problem is to pop entries from the shadow stack until a matching return address is found, and to only terminate the program when no match is found in the shadow stack.A multithreaded program, which would have a call stack for each executing thread, would then also have a shadow stack shadowing each of the call stacks.
+
+See also
+Call stack
+Return address
+Buffer overflow
+
+
+== References ==

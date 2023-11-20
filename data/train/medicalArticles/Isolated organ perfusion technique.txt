@@ -1,0 +1,7 @@
+Isolated organ perfusion technique is employed to precipitate an organ's perfusion and circulation that are independent/isolated from the body's systemic circulation for various purposes such as organ-localized chemotherapy, organ-targeted delivery of drug, gene or anything else, organ transplantation, and organ injury recovery. The technique has been widely studied in animal and human for decades. Before the implementation, the perfusion system will be selected and the process can be similar to organ bath. Isolated organ perfusion technique, nevertheless, is averagely conducted in vivo without leaving the organ alone as a whole out of the body.
+
+See also
+ECMO
+
+
+== References ==

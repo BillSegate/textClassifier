@@ -1,0 +1,106 @@
+Network eavesdropping, also known as eavesdropping attack, sniffing attack, or snooping attack, is a method that retrieves user information through the internet. This attack happens on electronic devices like computers and smartphones. This network attack typically happens under the usage of unsecured networks, such as public wifi connections or shared electronic devices. Eavesdropping attacks through the network is considered one of the most urgent threats in industries that rely on collecting and storing data. Internet users use eavesdropping via the Internet to improve information security. A typical network eavesdropper may be called a Black-hat hacker and is considered a low-level hacker as it is simple to network eavesdrop successfully. The threat of network eavesdroppers is a growing concern. Research and discussions are brought up in the public's eye, for instance, types of eavesdropping, open-source tools, and commercial tools to prevent eavesdropping. Models against network eavesdropping attempts are built and developed as privacy is increasingly valued. Sections on cases of successful network eavesdropping attempts and its laws and policies in the National Security Agency are mentioned. Some laws include the Electronic Communications Privacy Act and the Foreign Intelligence Surveillance Act.
+
+Types of attacks
+Types of network eavesdropping include intervening in the process of decryption of messages on communication systems, attempting to access documents stored in a network system, and listening on electronic devices. Types include electronic performance monitoring and control systems, keystroke logging, man-in-the-middle attacks, observing exit nodes on a network, and Skype & Type.
+
+Electronic performance monitoring and control systems (EPMCSs)
+Electronic performance monitoring and control systems are used by employees or companies and organizations to collect, store, analyze, and report actions or performances of employers when they are working. The beginning of this system is used to increase the efficiency of workers, but instances of unintentional eavesdropping can occur, for example, when employees' casual phone calls or conversations would be recorded.
+
+Keystroke logging
+Keystroke logging is a program that can oversee the writing process of the user. It can be used to analyze the user's typing activities, as keystroke logging provides detailed information on activities like typing speed, pausing, deletion of texts, and more behaviors. By monitoring the activities and sounds of the keyboard strikes, the message typed by the user can be translated. Although keystroke logging systems do not explain reasons for pauses or deletion of texts, it allows attackers to analyze text information. Keystroke logging can also be used with eye-tracking devices which monitor the movements of the user's eyes to determine patterns of the user's typing actions which can be used to explain the reasons for pauses or deletion of texts.
+
+Man-in-the-middle attack (MitM)
+A Man-in-the-middle attack is an active eavesdropping method that intrudes on the network system. It can retrieve and alter the information sent between two parties without anyone noticing. The attacker hijacks the communication systems and gains control over the transport of data, but cannot insert voice messages that sound or act like the actual users. Attackers also create independent communications through the system with the users acting as if the conversation between users is private.The “man-in-the-middle” can also be referred to as lurkers in a social context. A lurker is a person who rarely or never posts anything online, but the person stays online and observes other users' actions. Lurking can be valuable as it lets people gain knowledge from other users. However, like eavesdropping, lurking into other users' private information violates privacy and social norms.
+
+Observing exit nodes
+Distributed networks including communication networks are usually designed so that nodes can enter and exit the network freely. However, this poses a danger in which attacks can easily access the system and may cause serious consequences, for example, leakage of the user’s phone number or credit card number. In many anonymous network pathways, the last node before exiting the network may contain actual information sent by users. Tor exit nodes are an example. Tor is an anonymous communication system that allows users to hide their IP addresses. It also has layers of encryption that protect information sent between users from eavesdropping attempts trying to observe the network traffic. However, Tor exit nodes are used to eavesdrop at the end of the network traffic. The last node in the network path flowing through the traffic, for instance, Tor exit nodes, can acquire original information or messages that were transmitted between different users.
+
+Skype & Type (S&T)
+Skype & Type (S&T) is a new keyboard acoustic eavesdropping attack that takes advantage of Voice-over IP (VoIP). S&T is practical and can be used in many applications in the real world, as it does not require attackers to be close to the victim and it can work with only some leaked keystrokes instead of every keystroke. With some knowledge of the victim’s typing patterns, attackers can gain a 91.7% accuracy typed by the victim. Different recording devices including laptop microphones, smartphones, and headset microphones can be used for attackers to eavesdrop on the victim's style and speed of typing. It is especially dangerous when attackers know what language the victim is typing in.
+
+Tools to prevent eavesdropping attacks
+Computer programs where the source code of the system is shared with the public for free or for commercial use can be used to prevent network eavesdropping. They are often modified to cater to different network systems, and the tools are specific in what task it performs. In this case, Advanced Encryption Standard-256, Bro, Chaosreader, CommView, Firewalls, Security Agencies, Snort, Tcptrace, and Wireshark are tools that address network security and network eavesdropping.
+
+Advanced encryption standard-256 (AES-256)
+It is a cipher block chaining (CBC) mode for ciphered messages and hash-based message codes. The AES-256 contains 256 keys for identifying the actual user, and it represents the standard used for securing many layers on the internet. AES-256 is used by Zoom Phone apps that help encrypt chat messages sent by Zoom users. If this feature is used in the app, users will only see encrypted chats when they use the app, and notifications of an encrypted chat will be sent with no content involved.
+
+Bro
+Bro is a system that detects network attackers and abnormal traffic on the internet. It emerged at the University of California, Berkeley that detects invading network systems. The system does not apply to the detection of eavesdropping by default, but can be modified to an offline analyzing tool for eavesdropping attacks. Bro runs under Digital Unix, FreeBSD, IRIX, SunOS, and Solaris operating systems, with the implementation of approximately 22,000 lines of C++ and 1,900 lines of Bro. It is still in the process of development for real-world applications.
+
+Chaosreader
+Chaosreader is a simplified version of many open-source eavesdropping tools. It creates HTML pages on the content of when a network intrusion is detected. No actions are taken when an attack occurs and only information such as time, network location on which system or wall the user is trying to attack will be recorded.
+
+CommView
+CommView is specific to Windows systems which limits real-world applications because of its specific system usage. It captures network traffic and eavesdropping attempts by using packet analyzing and decoding.
+
+Firewalls
+Firewall technology filters network traffic and blocks malicious users from attacking the network system. It prevents users from intruding into private networks. Having a firewall in the entrance to a network system requires user authentications before allowing actions performed by users. There are different types of firewall technologies that can be applied to different types of networks.
+
+Security agencies
+A Secure Node Identification Agent is a mobile agent used to distinguish secure neighbor nodes and informs the Node Monitoring System (NMOA). The NMOA stays within nodes and monitors the energy exerted, and receives information about nodes including node ID, location, signal strength, hop counts, and more. It detects nodes nearby that are moving out of range by comparing signal strengths. The NMOA signals the Secure Node Identification Agent (SNIA) and updates each other on neighboring node information. The Node BlackBoard is a knowledge base that reads and updates the agents, acting as the brain of the security system. The Node Key Management agent is created when an encryption key is inserted to the system. It is used to protect the key and is often used between Autonomous Underwater Vehicles (AUVs), which are underwater robots that transmit data and nodes.
+
+Snort
+Snort is used in many systems, and it can be run in an offline mode using stream4. Stream4 reassembles preprocessors with another stream option. The snort-reply patch feature is often used to reconstruct executions. It is currently developed by Cisco and acts as a free network intrusion detection system.
+
+Tcptrace
+Tcptrace is used to analyze pcap-based network intercepts, which is a packeting capture network application that detects network traffic. It has an important feature that monitors eavesdropping attacks and can reconstruct captured TCP streams.
+
+Wireshark
+Wireshark, or also named Ethereal, is a widely used open-source eavesdropping tool in the real world. Most of the features in Ethereal are packet-oriented and contain a TCP reassembly option for experiments on tracking intrusion attempts.
+
+Models against the attacks
+Models are built to secure system information stored online and can be specific towards certain systems, for example, protecting existing documents, preventing attacks on the processing of instant messages on the network, and creating fake documents to trace malicious users.
+
+Beacon-bearing decoy documents
+Documents containing fake but private information such as made-up social security numbers, bank account numbers, and passport information will be purposely posted on a web server. These documents have beacons that will be triggered when a user attempts to open them, which then alarms another site that records the time accessed of the documents and IP address of the user. The information collected from the beacons is then regularly sent to Tor exit nodes which then the user will be caught in the malicious act.
+
+Butterfly encryption scheme
+The Butterfly encryption scheme uses timestamps and updates pseudorandom number generators (PRNG) seeds in a network system to generate authentication keys and parameters for encrypted messages to be sent out. This scheme can perform in entities that are searching for a relatively low cost but efficient security scheme, and can work in different systems as it has a simple design that is easy to modify for specific purposes. The Butterfly encryption scheme is effective because it uses a changing parameter and has an unpredictable timestamp that creates a high-level security system.
+
+Crypto phones (Cfones)
+Cfones is a model built to protect VoIP communications. It uses Short Authenticated Strings (SAS) protocol that requires users to exchange keys to ensure no network intruders are in the system. This is specific to communication systems that involve both voice messages and text messages. In this model, a string is given to actual users, and to connect with another user, strings have to be exchanged and have to match. If another user tries to invade the system, the string will not match, and Cfones blocks attackers from entering the network. This model is specific to preventing man-in-the-middle attacks.
+
+Friendly-jamming schemes (DFJ and OFJ)
+Friendly-jamming schemes (DFJ and OFJ) are models that can decrease the eavesdropping risk by purposely interfering the network when an unknown user is near the area of the protected area. The models are tested by the probability of eavesdrop attacks in a testing environment, and are found that there is a lower probability of attacks compared to a system with no friendly-jamming schemes installed. A feature of the DFJ and OFJ schemes is that the models offer a large coverage secure area that is protected from eavesdroppers effectively.
+
+Honey encryption scheme (HE)
+A honey encryption scheme is used to strengthen the protection of private information of instant messaging systems, including WhatsApp and Snapchat, as well as tracking down the eavesdropper’s information. HE contains fake but similar plaintext during the decryption phase of the process of instant messaging with an incorrect key. This makes messages that the eavesdropper is trying to decrypt to be gibberish messages. HE schemes are used in specific systems not limited to instant messaging systems, passwords, and credit cards. However, applying it to other systems is still a difficult task as changes inside the scheme have to be made to fit the system.
+
+Internet of Things framework (IoT)
+The Internet of Things framework involved four layers of security measures that are management layer, cloud layer, gateway layer, and IoT device layer. The management layer handles web and mobile applications. The cloud layer looks over the service and resource management. It acts as an access point for users to connect to other internet services. The gateway layer manages the packet filtering module. It links the endpoint network of the services, processes the documents or information, and contains security tasks including authentication, authorization, and encryption. The two main tasks of the gateway layer are to detect users and perform filtering of the actual user and malicious users. The IoT device layer looks over the gateway layer’s performance and double-checks whether all malicious users are removed from the network, specifically, attestation is a mechanism to measure the end-point integrity and removes nodes from the network if necessary.
+
+Cases of network eavesdropping
+Completely trusting network devices or network companies can be risky. Users of devices are oftentimes unaware of the threats on the internet and choose to ignore the importance of protecting their personal information. This paves the way for malicious hackers to gain access to private data that users may not be aware of. A few cases of network eavesdropping discussed include Alipay and Cloud computing.
+
+Alipay
+Private information from a user of mobile payment apps, in this case, Alipay, is retrieved using a hierarchical identification specific to mobile payment apps. The system first recognizes the app used from traffic data, then categorizes the user’s distinct actions on the app, and lastly distinguishes comprehensive steps within each action. Distinct actions on mobile payment apps are generalized in a few groups including making a payment, transfer money between banks, scanning checks, and looking at previous records. By classifying and observing the user’s specific steps within each group of actions, the attacker intercepts the network traffic using and obtains private information of app users. Strategies to prevent incidents are made such as fingerprint or facial identification, and email or text confirmation of actions performed on the app.
+
+Cloud computing
+Cloud computing is a computing model that provides access to many different configurable resources, including servers, storage, applications, and services. The nature of the Cloud makes it vulnerable to security threats, and attackers can easily eavesdrop on the Cloud. Particularly, an attacker can simply identify the data center of the Virtual Machine used by cloud computing, and retrieve information on the IP address and domain names of the data center. It becomes dangerous when the attacker gains access to private cryptographic keys for specific servers which they may get data stored in the cloud. For example, the Amazon EC2 platform based in Seattle, Washington, WA, USA, was once at risk of such issues but has now used Amazon Web Service (AWS) to manage their encryption keys.
+
+Medical records
+Sometimes users can choose what they put online and should be responsible for their actions, including whether or not a user should take a photo of their social security number and send it through a messaging app. However, data like medical records or bank accounts are stored in a network system in which companies are also responsible for securing user’s data. Medical records of patients can be stolen by insurance companies, medical laboratories, or advertising companies for their interests. Information such as name, social security number, home address, email address, and diagnosis history can be used to track down a person. Eavesdropping reports of a patient’s medical history is illegal and is dangerous. To deal with network threats, many medical institutes have been using endpoint authentication, cryptographic protocols and data encryption.
+
+Related laws and policies
+Electronic Communications Privacy Act (ECPA)
+In Title III of the Electronic Communications Privacy Act (ECPA), it states that it is a “federal crime to engage in wiretapping or electronic eavesdropping; to possess wiretapping or electronic eavesdropping equipment; to use to disclose information obtained through illegal wiretapping or electronic eavesdropping, or to disclose information secured through court-ordered wiretapping or electronic eavesdropping, to obstruct justice.”  Federal and state law enforcement officials may be allowed to intercept with the wire, oral, and electronic communications if and only if a court order is issued, consent of the parties, or when a malicious user is trying to access the system. If the law is violated, there may be a criminal penalty, civil liability, administrative and professional disciplinary action, and or exclusion of evidence. A general penalty is not more than five years of imprisonment and no more than $250,000 for individuals and not more than $500,000 for organizations. If damages are created, there may be a $100 fine per day of violation or $10,000 in total.
+
+Foreign Intelligence Surveillance Act (FISA)
+The Foreign Intelligence Surveillance Act gives out court orders for “electronic surveillance, physical searches, installation, and use of pen registers and traps and trace devices, and orders to disclose tangible items.” Court orders issued on electronic surveillance allow the federal officials to use electronic surveillance which includes eavesdropping without violating the Electronic Communications Privacy Act or Title III specifically.
+
+Organization of Economic Cooperation and Development (OECD)
+A guideline to protecting the privacy of data of health patients is issued by the Organization of Economic Cooperation and Development (OECD). The policy states that individual patient data or personal data should be secure, and patients will not face any arbitrary losses related to invading their personal information or health conditions. The policy acts as a minimum standard for eHealth usages and it should be followed by all medical institutes for protecting the privacy of patient’s data.
+
+See also
+Black hat (computer security)
+Crowdsensing
+Eavesdropping
+Endpoint detection and response
+Endpoint security
+Intrusion detection system
+Packet analyzer
+Security hacker
+Van Eck phreaking
+
+
+== References ==

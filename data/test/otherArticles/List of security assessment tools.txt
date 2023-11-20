@@ -1,0 +1,13 @@
+This is a list of available software and hardware tools that are designed for or are particularly suited to various kinds of security assessment and security testing.
+
+Operating systems and tool suites
+Several operating systems and tool suites provide bundles of tools useful for various types of security assessment.
+
+Operating system distributions
+Kali Linux (formerly BackTrack), a penetration-test-focused Linux distribution based on Debian
+Pentoo, a penetration-test-focused Linux distribution based on Gentoo
+ParrotOS, a Linux distro focused on penetration testing, forensics, and online anonymity.
+
+Tools
+External links
+SecTools.org: Top 125 Network Security Tools – a list of security tools suggested by a community

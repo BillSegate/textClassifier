@@ -1,6 +1,0 @@
-A multiple-emitter transistor is a specialized bipolar transistor mostly used at the inputs of integrated circuit TTL NAND logic gates. Input signals are applied to the emitters. The voltage presented to the following stage is pulled low if any one or more of the base–emitter junctions is forward biased, allowing logical operations to be performed using a single transistor. Multiple-emitter transistors replace the diodes of diode–transistor logic (DTL) to make transistor–transistor logic (TTL), and thereby allow reduction of switching time and power dissipation.
-Logic gate use of multiple-emitter transistors was patented in 1961 in the UK and in the US in 1962.
-
-References
-External links
-Tutorial on bipolar-transistor logic

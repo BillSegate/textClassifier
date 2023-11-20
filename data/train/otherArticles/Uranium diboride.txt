@@ -1,8 +1,0 @@
-Uranium boride (UB2), a compound of uranium and boron, is a very stable glassy boride material that is insoluble in water.
-It is being explored as an ingredient in high entropy alloys, and as a method of immobilizing uranium-based radioactive waste, and rendering it safe for long-term storage. It has some applications in endocurietherapy, a method of radiation therapy wherein radioactive microspheres are implanted directly into the treatment site and allowed to remain for an extended period of time, may also use this class of material as it would not be attacked while in situ.
-It is being considered as a nuclear fuel material as it has a high density and thermal conductivity
-
-References
-
-US patent 5342283, Roger R. Good, "Endocurietherapy", issued 1994-08-30 
-Franzen, Harald (6 April 2001). "Cheap, Safe Storage for Radioactive Materials". Scientific American. Retrieved 21 November 2011.

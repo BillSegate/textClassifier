@@ -1,0 +1,7 @@
+A multi-factor authentication fatigue attack (or MFA fatigue attack) is a computer security attack against multi-factor authentication that makes use of social engineering. When MFA applications are configured to send push notifications to end users, an attacker can send a flood of login attempt in the hope that a user will click on accept at least once.In September 2022 Uber security was breached by a member of Lapsus$ using a multi-factor fatigue attack.In 2022, Microsoft has deployed a mitigation against MFA fatigue attacks with their authenticator app.
+
+Further reading
+Haworth, Jessica (2022-02-16). "MFA fatigue attacks: Users tricked into allowing device access due to overload of push notifications". The Daily Swig. PortSwigger. Retrieved 2023-01-26.
+
+
+== References ==

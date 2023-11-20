@@ -1,0 +1,114 @@
+Plant litter (also leaf litter, tree litter, soil litter, litterfall or duff) is dead plant material (such as leaves, bark, needles, twigs, and cladodes) that have fallen to the ground. This detritus or dead organic material and its constituent nutrients are added to the top layer of soil, commonly known as the litter layer or O horizon ("O" for "organic"). Litter is an important factor in ecosystem dynamics, as it is indicative of ecological productivity and may be useful in predicting regional nutrient cycling and soil fertility.
+
+Characteristics and variability
+Litterfall is characterized as fresh, undecomposed, and easily recognizable (by species and type) plant debris. This can be anything from leaves, cones, needles, twigs, bark, seeds/nuts, logs, or reproductive organs (e.g. the stamen of flowering plants). Items larger than 2 cm diameter are referred to as coarse litter, while anything smaller is referred to as fine litter or litter. The type of litterfall is most directly affected by ecosystem type.
+For example, leaf tissues account for about 70 percent of litterfall in forests, but woody litter tends to increase with forest age. In grasslands, there is very little aboveground perennial tissue so the annual litterfall is very low and quite nearly equal to the net primary production.In soil science, soil litter is classified in three layers, which form on the surface of the O Horizon. These are the L, F, and H layers:
+
+The litter layer is quite variable in its thickness, decomposition rate and nutrient content and is affected in part by seasonality, plant species, climate, soil fertility, elevation, and latitude. The most extreme variability of litterfall is seen as a function of seasonality; each individual species of plant has seasonal losses of certain parts of its body, which can be determined by the collection and classification of plant litterfall throughout the year, and in turn affects the thickness of the litter layer. In tropical environments, the largest amount of debris falls in the latter part of dry seasons and early during wet season. As a result of this variability due to seasons, the decomposition rate for any given area will also be variable.
+
+Latitude also has a strong effect on litterfall rates and thickness. Specifically, litterfall declines with increasing latitude. In tropical rainforests, there is a thin litter layer due to the rapid decomposition, while in boreal forests, the rate of decomposition is slower and leads to the accumulation of a thick litter layer, also known as a mor. Net primary production works inversely to this trend, suggesting that the accumulation of organic matter is mainly a result of decomposition rate.
+Surface detritus facilitates the capture and infiltration of rainwater into lower soil layers. The surface detritus also protects soil from excess drying and warming. Soil litter protects soil aggregates from raindrop impact, preventing the release of clay and silt particles from plugging soil pores. Releasing clay and silt particles reduces the capacity for soil to absorb water and increases cross surface flow, accelerating soil erosion. In addition soil litter reduces wind erosion by preventing soil from losing moisture and providing cover preventing soil transportation.
+Organic matter accumulation also helps protect soils from wildfire damage. Soil litter can be completely removed depending on intensity and severity of wildfires and season. Regions with high frequency wildfires have reduced vegetation density and reduced soil litter accumulation. Climate also influences the depth of plant litter. Typically humid tropical and sub-tropical climates have reduced organic matter layers and horizons due to year-round decomposition and high vegetation density and growth. In temperate and cold climates, litter tends to accumulate and decompose slower due to a shorter growing season.
+
+Net primary productivity
+Net primary production and litterfall are intimately connected. In every terrestrial ecosystem, the largest fraction of all net primary production is lost to herbivores and litter fall. Due to their interconnectedness, global patterns of litterfall are similar to global patterns of net primary productivity. Plant litter, which can be made up of fallen leaves, twigs, seeds, flowers, and other woody debris, makes up a large portion of above ground net primary production of all terrestrial ecosystems. Fungus plays a large role in cycling the nutrients from the plant litter back into the ecosystem.
+
+Habitat and food
+Litter provides habitat for a variety of organisms.
+
+Plants
+Certain plants are specially adapted for germinating and thriving in the litter layers. For example, bluebell (Hyacinthoides non-scripta) shoots puncture the layer to emerge in spring. Some plants with rhizomes, such as common wood sorrel (Oxalis acetosella) do well in this habitat.
+
+Detritivores and other decomposers
+Many organisms that live on the forest floor are decomposers, such as fungi. Organisms whose diet consists of plant detritus, such as earthworms, are termed detritivores. The community of decomposers in the litter layer also includes bacteria, amoeba, nematodes, rotifer, tardigrades, springtails, cryptostigmata, potworms, insect larvae, mollusks, oribatid mites, woodlice, and millipedes. Even some species of microcrustaceans, especially copepods (for instance Bryocyclops spp., Graeteriella spp.,Olmeccyclops hondo, Moraria spp.,Bryocamptus spp., Atheyella spp.) live in moist leaf litter habitats and play an important role as predators and decomposers.The consumption of the litterfall by decomposers results in the breakdown of simple carbon compounds into carbon dioxide (CO2) and water (H2O), and releases inorganic ions (like nitrogen and phosphorus) into the soil where the surrounding plants can then reabsorb the nutrients that were shed as litterfall. In this way, litterfall becomes an important part of the nutrient cycle that sustains forest environments.
+As litter decomposes, nutrients are released into the environment.  The portion of the litter that is not readily decomposable is known as humus. Litter aids in soil moisture retention by cooling the ground surface and holding moisture in decaying organic matter. The flora and fauna working to decompose soil litter also aid in soil respiration. A litter layer of decomposing biomass provides a continuous energy source for macro- and micro-organisms.
+
+Larger animals
+Numerous reptiles, amphibians, birds, and even some mammals rely on litter for shelter and forage. Amphibians such as salamanders and caecilians inhabit the damp microclimate underneath fallen leaves for part or all of their life cycle. This makes them difficult to observe. A BBC film crew captured footage of a female caecilian with young for the first time in a documentary that aired in 2008.
+Some species of birds, such as the ovenbird of eastern North America for example, require leaf litter for both foraging and material for nests. Sometimes litterfall even provides energy to much larger mammals, such as in boreal forests where lichen litterfall is one of the main constituents of wintering deer and elk diets.
+
+Nutrient cycle
+During leaf senescence, a portion of the plant's nutrients are reabsorbed from the leaves. The nutrient concentrations in litterfall differ from the nutrient concentrations in the mature foliage by the reabsorption of constituents during leaf senescence. Plants that grow in areas with low nutrient availability tend to produce litter with low nutrient concentrations, as a larger proportion of the available nutrients is reabsorbed. After senescence, the nutrient-enriched leaves become litterfall and settle on the soil below.
+
+Litterfall is the dominant pathway for nutrient return to the soil, especially for nitrogen (N) and phosphorus (P). The accumulation of these nutrients in the top layer of soil is known as soil immobilization. Once the litterfall has settled, decomposition of the litter layer, accomplished through the leaching of nutrients by rainfall and throughfall and by the efforts of detritivores, releases the breakdown products into the soil below and therefore contributes to the cation exchange capacity of the soil. This holds especially true for highly weathered tropical soils. Decomposition rate is tied to the type of litterfall present.Leaching is the process by which cations such as iron (Fe) and aluminum (Al), as well as organic matter are removed from the litterfall and transported downward into the soil below. This process is known as podzolization and is particularly intense in boreal and cool temperate forests that are mainly constituted by coniferous pines whose litterfall is rich in phenolic compounds and fulvic acid.By the process of biological decomposition by microfauna, bacteria, and fungi, CO2 and H2O, nutrient elements, and a decomposition-resistant organic substance called humus are released. Humus composes the bulk of organic matter in the lower soil profile.The decline of nutrient ratios is also a function of decomposition of litterfall (i.e. as litterfall decomposes, more nutrients enter the soil below and the litter will have a lower nutrient ratio). Litterfall containing high nutrient concentrations will decompose more rapidly and asymptote as those nutrients decrease. Knowing this, ecologists have been able to use nutrient concentrations as measured by remote sensing as an index of a potential rate of decomposition for any given area. Globally, data from various forest ecosystems shows an inverse relationship in the decline in nutrient ratios to the apparent nutrition availability of the forest.Once nutrients have re-entered the soil, the plants can then reabsorb them through their roots. Therefore, nutrient reabsorption during senescence presents an opportunity for a plant's future net primary production use. A relationship between nutrient stores can also be defined as:
+
+annual storage of nutrients in plant tissues + replacement of losses from litterfall and leaching = the amount of uptake in an ecosystem
+
+Non-terrestrial Litterfall
+Non-terrestrial litterfall follows a very different path. Litter is produced both inland by terrestrial plants and moved to the coast by fluvial processes, and by mangrove ecosystems. From the coast Robertson & Daniel 1989 found it is then removed by the tide, crabs and microbes. They also noticed that which of those three is most significant depends on the tidal regime. Nordhaus et al. 2011 find crabs forage for leaves at low tide and if their detritivory is the predominant disposal route, they can take 80% of leaf material. Bakkar et al 2017 studied the chemical contribution of the resulting crab defecation. They find crabs pass a noticeable amount of undegraded lignins to both the sediments and water composition. They also find that the exact carbonaceous contribution of each plant species can be traced from the plant, through the crab, to its sediment or water disposition in this way. Crabs are usually the only significant macrofauna in this process, however Raw et al 2017 find Terebralia palustris competes with crabs unusually vigorously in southeast Asia.
+
+Collection and analysis
+The main objectives of litterfall sampling and analysis are to quantify litterfall production and chemical composition over time in order to assess the variation in litterfall quantities, and hence its role in nutrient cycling across an environmental gradient of climate (moisture and temperature) and soil conditions.Ecologists employ a simple approach to the collection of litterfall, most of which centers around one piece of equipment, known as a litterbag. A litterbag is simply any type of container that can be set out in any given area for a specified amount of time to collect the plant litter that falls from the canopy above.
+
+Litterbags are generally set in random locations within a given area and marked with GPS or local coordinates, and then monitored on a specific time interval. Once the samples have been collected, they are usually classified on type, size and species (if possible) and recorded on a spreadsheet. When measuring bulk litterfall for an area, ecologists will weigh the dry contents of the litterbag. By this method litterfall flux can be defined as:
+
+litterfall (kg m−2 yr−1) = total litter mass (kg) / litterbag area (m2)The litterbag may also be used to study decomposition of the litter layer. By confining fresh litter in the mesh bags and placing them on the ground, an ecologist can monitor and collect the decay measurements of that litter. An exponential decay pattern has been produced by this type of experiment: 
+  
+    
+      
+        
+          
+            X
+            
+              X
+              
+                o
+              
+            
+          
+        
+        =
+        
+          e
+          
+            −
+            k
+          
+        
+      
+    
+    {\displaystyle {\frac {X}{X_{o}}}=e^{-k}}
+  , where 
+  
+    
+      
+        
+          X
+          
+            o
+          
+        
+      
+    
+    {\displaystyle X_{o}}
+   is the initial leaf litter and 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   is a constant fraction of detrital mass.The mass-balance approach is also utilized in these experiments and suggests that the decomposition for a given amount of time should equal the input of litterfall for that same amount of time.
+
+litterfall = k(detrital mass)For study various groups from edaphic fauna you need a different mesh sizes in the litterbags
+
+Issues
+Change due to invasive earthworms
+In some regions of glaciated North America, earthworms have been introduced where they are not native. Non-native earthworms have led to environmental changes by accelerating the rate of decomposition of litter. These changes are being studied, but may have negative impacts on some inhabitants such as salamanders.
+
+Forest litter raking
+Leaf litter accumulation depends on factors like wind, decomposition rate and species composition of the forest. The quantity, depth and humidity of leaf litter varies in different habitats. The leaf litter found in primary forests is more abundant, deeper and holds more humidity than in secondary forests. This condition also allows for a more stable leaf litter quantity throughout the year. This thin, delicate layer of organic material can be easily affected by humans. For instance, forest litter raking as a replacement for straw in husbandry is an old non-timber practice in forest management that has been widespread in Europe since the seventeenth century. In 1853, an estimated 50 Tg of dry litter per year was raked in European forests, when the practice reached its peak. This human disturbance, if not combined with other degradation factors, could promote podzolisation; if managed properly (for example, by burying litter removed after its use in animal husbandry), even the repeated removal of forest biomass may not have negative effects on pedogenesis.
+
+See also
+Coarse woody debris
+Detritus
+Forest floor
+Leaf litter sieve
+Leaf mold (a type of compost)
+Soil horizon
+
+References
+External links
+
+forestresearch.gov.uk

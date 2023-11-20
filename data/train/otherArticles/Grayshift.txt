@@ -1,0 +1,9 @@
+Grayshift is an American mobile device forensics company which makes a device named GrayKey to crack iPhones, iPads, and Android devices.
+Grayshift was co-founded by David Miles, Braden Thomas, Justin Fisher and Sean Larsson. The company is funded by private investors PeakEquity Partners and C&B Capital.
+
+GrayKey
+The GrayKey product has been used by the FBI and U.S., British and Canadian local police forces. Canadian police forces require judicial authorization (court order or warrant) per mobile phone to use GrayKey. GrayKey is estimated to be used in up to 30 countries.According to media reports, GrayKey costs US$15,000 to US$30,000 per copy depending on the functional options chosen. One thousand agencies currently use GrayKey The device is a gray box, 4 inches by 4 inches by 2 inches in size, with two Lightning cables. The time to solve an iPhone's passcode can be a few minutes to several hours, depending on the length of the passcode. Thus, it is possible that GrayKey is performing a brute-force attack to perform to solve after disabling the passcode attempt limit.The GrayKey reportedly provides support for iPhones running iOS 9 and later. Apple modified iOS so that external device connections must be authorized by the iPhone owner after it has been unlocked. On newer iPhone models, only unencrypted files and some metadata might be extracted. With earlier models, full data extraction, such as decrypting encrypted files, is possible.In 2018, hackers obtained the GrayKey source code and attempted to extort a payment of 2 bitcoins from Grayshift after leaking "small chunks of code".GrayKey with Android support was released in early 2021.
+
+References
+External links
+Official website

@@ -1,0 +1,9 @@
+The Centurion Guard is a PC hardware and software based security product developed by Centurion Technologies and released in 1996.  There were many different releases and versions of this product, and many were distributed in the Bill & Melinda Gates Foundation computers that were donated to libraries.
+
+Operating system compatibility
+Microsoft Windows 7
+Microsoft Windows Vista
+Microsoft Windows XP
+
+References
+[1]

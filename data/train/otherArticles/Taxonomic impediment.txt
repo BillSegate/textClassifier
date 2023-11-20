@@ -1,0 +1,13 @@
+Conservationists, ecologists, biodiversity scientists, lawmakers, and many others rely heavily on taxonomic information to manage, conserve, use, and share our biodiversity. The world-wide shortage of this important taxonomic information, the gaps in our taxonomic knowledge, and the shortage of trained taxonomists and curators to fill this need has come to be known as the taxonomic impediment. The importance of the taxonomic impediment was recognized by the Convention on Biological Diversity, signed at the 1992 Rio Earth Summit, and initiatives have occurred that have not yet solved the problem.
+The greatest contributions of taxonomy to science and humanity are yet to come. Against formidable odds and with minimal funding, equipment, infrastructure, organization and encouragement, taxonomists have discovered, described, and classified nearly 1.8 million species. While increasing attention is being paid to making this substantial amount of accumulated taxonomic information more easily accessible, comparatively little attention has been paid to opening access to the research resources required by taxonomists themselves. Benefits associated with ease of access to museum records (e.g. Global Biodiversity Information Facility) or 'known' species (e.g. Encyclopedia of Life) are seriously restricted when such information is untested for validity or is simply unavailable, as is the case for three-quarters or more of the species on Earth. We act as if taxonomy is done but nothing could be farther from the truth.
+
+Impediments to taxonomy
+The causes of the current crisis in taxonomy have been ascribed to a loss of perspective in ecology and evolutionary biology as the modern evolutionary synthesis developed during the 1930s and 40s: a conflation of "pattern with process", "confusing the methods and goals of the emerging science of population genetics with those of the established science of taxonomy", which caused the traditional fundamental taxonomy to be disparaged, and consequently underfunded.
+It is argued that some initiatives that aim to bypass the bottleneck of insufficient taxonomic expertise continue to draw funds away from solving the fundamental problem.
+
+See also
+Automated species identification
+DNA barcoding
+
+
+== References ==

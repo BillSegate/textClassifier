@@ -1,0 +1,47 @@
+National Cyber Security Policy is a policy framework by Department of Electronics and Information Technology (DeitY) It aims at protecting the public and private infrastructure from cyber attacks. The policy also intends to safeguard "information, such as personal information (of web users), financial and banking information and sovereign data". This was particularly relevant in the wake of US National Security Agency (NSA) leaks that suggested the US government agencies are spying on Indian users, who have no legal or technical safeguards against it. Ministry of Communications and Information Technology (India) defines Cyberspace as a complex environment consisting of interactions between people, software services supported by worldwide distribution of information and communication technology.
+
+Reason for Cyber Security policies
+India had no Cyber security policy before 2013. In 2013, The Hindu newspaper, citing documents leaked by NSA whistle-blower Edward Snowden, has alleged that much of the NSA surveillance was focused on India's domestic politics and its strategic and commercial interests. This sparked a furore among people. Under pressure, the government unveiled a National Cyber Security Policy 2013 on 2 July 2013.
+
+Vision
+To build a secure and resilient cyberspace for citizens, business, and government and also to protect anyone from intervening in user's privacy.It mentioned a five year target of training five lakh cyber security personnel by 2018.
+
+Mission
+To protect information and information infrastructure in cyberspace, build capabilities to prevent and respond to cyber threat, reduce vulnerabilities and minimize damage from cyber incidents through a combination of institutional structures, people, processes, technology, and cooperation.
+
+Objective
+Ministry of Communications and Information Technology (India) define objectives as follows:
+
+To create a secure cyber ecosystem in the country, generate adequate trust and confidence in IT system and transactions in cyberspace and thereby enhance adoption of IT in all sectors of the economy.
+To create an assurance framework for the design of security policies and promotion and enabling actions for compliance to global security standards and best practices by way of conformity assessment (Product, process, technology & people).
+To strengthen the Regulatory Framework for ensuring a SECURE CYBERSPACE ECOSYSTEM.
+To enhance and create National and Sectoral level 24x7 mechanism for obtaining strategic information regarding threats to ICT infrastructure, creating scenarios for response, resolution and crisis management through effective predictive, preventive, protective response and recovery actions.-To improve visibility of integrity of ICT products and services by establishing infrastructure for testing & validation of security of such product.
+
+To create workforce for 500,000 professionals skilled in next 5 years through capacity building skill development and training.
+To provide fiscal benefit to businesses for adoption of standard security practices and processes.
+To enable Protection of information while in process, handling, storage & transit so as to safeguard privacy of citizen's data and reducing economic losses due to cyber crime or data theft.
+To enable effective prevention, investigation and prosecution of cybercrime and enhancement of law enforcement capabilities through appropriate legislative intervention.
+
+Strategies
+Creating a secured Ecosystem.
+Creating an assurance framework.
+Encouraging Open Standards.
+Strengthening The regulatory Framework.
+Creating a mechanism for Security Threats Early Warning, Vulnerability management, and response to security threats.
+Securing E-Governance services.
+Protection and resilience of Critical Information Infrastructure.
+Promotion of Research and Development in cyber security.
+Reducing supply chain risks
+Human Resource Development (fostering education and training programs both in formal and informal sectors to Support the Nation's cyber security needs and build capacity.
+Creating cyber security awareness.
+Developing effective Public-Private partnerships.
+To develop bilateral and multilateral relationships in the area of cyber security with another country. (Information sharing and cooperation)
+a Prioritized approach for implementation.
+
+See also
+National Security Strategy (India)
+
+References
+External links
+"National Cyber Security Policy 2013" (PDF). Department of Information Technology, Ministry of Communications and Information Technology.
+Indian Cyber Security

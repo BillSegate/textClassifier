@@ -1,0 +1,24 @@
+Digital self-defense is the use of self-defense strategies by Internet users to ensure digital security; that is to say, the protection of confidential personal electronic information.  Internet security software provides initial protection by setting up a firewall, as well as scanning computers for malware, viruses, Trojan horses, worms and spyware.  However information at most risk includes personal details such as birthdates, phone numbers, bank account, schooling details, sexuality, religious affiliations, email addresses and passwords.  This information is often openly revealed in social networking sites, leaving Internet users vulnerable to social engineering and possibly Internet crime. Mobile devices, especially those with Wi-Fi, allow this information to be shared inadvertently.Digital self-defense requires Internet users to take an active part in guarding their own personal information. Four key strategies are frequently suggested to assist that protection.
+
+Computer security
+Computer security in this context is referring to Internet security software. The ongoing security of private information requires frequent updating of virus and spyware definitions so that ongoing developments in malicious software cannot interfere with, or copy, private information.
+
+Email Accounts and Usernames
+Choice of Appropriate Email Account
+The practice of utilising more than one email account to separate personal and business usage from recreational usage is a strategy commonly used to manage personal privacy. The free and ready availability of email accounts from sites such as Yahoo, Google or Hotmail allows the protection of personal identity through the use of different names to identify each email account. These throw-away accounts can be discarded or replaced at will, providing another level of protection.
+
+Choice of Username
+A username is required to set up email accounts and to open accounts for various official, commercial, recreational and social networking sites.  In many cases, an email address may also be utilised as a username. Usernames that correlate with personal information such as names or nicknames are more at risk than ones that are cryptic or anonymous, particularly on social and recreational sites.
+
+Password Strength
+A password is a mandatory security measure that accompanies usernames. The use of personal data to construct passwords i.e. family members’ names, pet’s names or birth dates increases the risk to confidential information and are easier to crack than long complicated passwords so password strength is a key strategy for protecting personal information. A password can be weak or strong:a weak password is cutekittens, a strong password is ?lACpAs56IKMs.
+According to Microsoft an ideal password should be at least 14 characters in length and have letters, punctuation, symbols, and numbers, where complexity is added by the inclusion of uppercase letters.
+
+Managing Personal Information Using Privacy Options
+Social networking sites offer greater security risks to personal electronic information because sensitive, private or confidential information such as personal identifiers are routinely used to create public profiles. Many websites give options to suppress the amount of personal information revealed through the customisation of privacy settings. However privacy settings can reset if changes to the website occur.
+
+References
+See also
+Anonymity
+Pseudonymity
+Personally identifiable information

@@ -1,0 +1,37 @@
+Shell Control Box (SCB) is a network security appliance that controls privileged access to remote IT systems, records activities in replayable audit trails, and prevents malicious actions. For example, it records as a system administrator updates a file server or a third-party network operator configures a router. The recorded audit trails can be replayed like a movie to review the events as they occurred. The content of the audit trails is indexed to make searching for events and automatic reporting possible.
+SCB is a Linux-based device developed by Balabit. It is an application level proxy gateway. In 2017, Balabit changed the name of the product to Privileged Session Management (PSM) and repositioned it as the core module of its Privileged Access Management solution.
+
+Main Features
+Balabit’s Privileged Session Management (PSM), Shell Control Box (SCB) is a device that controls, monitors, and audits remote administrative access to servers and network devices. It is a tool to oversee system administrators by controlling the encrypted connections used for administration. PSM (SCB) has full control over the SSH, RDP, Telnet, TN3270, TN5250, Citrix ICA, and VNC connections, providing a framework (with solid boundaries) for the work of the administrators.
+
+Gateway Authentication
+PSM (SCB) acts as an authentication gateway, enforcing strong authentication before users access IT assets. PSM can also integrate to user directories (for example, a Microsoft Active Directory) to resolve the group memberships of the users who access the protected servers. Credentials for accessing the server are retrieved transparently from PSM’s credential store or a third-party password management system by PSM impersonating the authenticated user. This automatic password retrieval protects the confidentiality of passwords as users can never access them.
+
+Access Control
+PSM controls and audits privileged access over the most wide-spread protocols such as SSH, RDP, or HTTP(s). The detailed access management helps to control who can access what and when on servers. It is also possible to control advanced features of the protocols, like the type of channels permitted. For example, unneeded channels like file transfer or file sharing can be disabled, reducing the security risk on the server. With PSM policies for privileged access can be enforced in one single system.
+
+4-eyes Authorization
+To avoid accidental misconfiguration and other human errors, PSM supports the 4-eyes authorization principle. This is achieved by requiring an authorizer to allow administrators to access the server. The authorizer also has the possibility to monitor – and terminate - the session of the administrator in real-time, as if they were watching the same screen.
+
+Real-time Monitoring and Session Termination
+PSM can monitor the network traffic in real time, and execute various actions if a certain pattern (for example, a suspicious command, window title or text) appears on the screen. PSM can also detect specific patterns such as credit card numbers. In case of detecting a suspicious user action, PSM can send an e-mail alert or immediately terminate the connection. For example, PSM can block the connection before a destructive administrator command, such as the „rm” comes into effect.
+
+Session Recording
+PSM makes user activities traceable by recording them in tamper-proof and confidential audit trails. It records the selected sessions into encrypted, timestamped, and digitally signed audit trails. Audit trails can be browsed online, or followed real-time to monitor the activities of the users. PSM replays the recorded sessions just like a movie – actions of the users can be seen exactly as they appeared on their monitor. The Balabit Desktop Player enables fast forwarding during replays, searching for events (for example, typed commands or pressing Enter) and texts seen by the user. In the case of any problems (database manipulation, unexpected shutdown, etc.) the circumstances of the event are readily available in the trails, thus the cause of the incident can be identified. In addition to recording audit trails, transferred files can be also recorded and extracted for further analysis.
+
+See also
+One Identity
+
+References
+https://www.ssi.gouv.fr/entreprise/certification_cspn/balabit-shell-control-box-version-4-0-6-sec3/
+https://channel9.msdn.com/Blogs/PartnerApps/Balabits-Shell-Control-Box-Isolates-Azure-Systems-from-Intruders
+https://www.ovum.com/research/swot-assessment-balabit-shell-control-box-version-4-f1/
+https://www.kuppingercole.com/report/ev71570
+https://www.techvalidate.com/product-research/balabit-privileged-access-management
+https://cybersecurity-excellence-awards.com/candidates/shell-control-box/
+https://finance.yahoo.com/news/balabit-introduces-shell-control-box-163711081.html
+http://www.computerworlduk.com/security/how-balabit-adapted-machine-learning-secure-privileged-account-blind-spot-3642389/
+https://citrixready.citrix.com/balabit-s-a/privileged-session-management.html
+https://azuremarketplace.microsoft.com/en-us/marketplace/apps/balabit.balabit-shell-control-box?tab=Overview
+https://marketplace.microfocus.com/arcsight/content/balabit-shell-control-box
+https://liebsoft.com/partners/technology-integrations/balabit/https://channel9.msdn.com/Blogs/PartnerApps/Balabits-Shell-Control-Box-Isolates-Azure-Systems-from-Intruders

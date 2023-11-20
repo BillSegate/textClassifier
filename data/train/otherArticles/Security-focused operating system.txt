@@ -1,0 +1,35 @@
+This is a list of operating systems specifically focused on security. Similar concepts include security-evaluated operating systems that have achieved certification from an auditing organization, and trusted operating systems that provide sufficient support for multilevel security and evidence of correctness to meet a particular set of requirements.
+
+Linux
+Android-based
+CalyxOS is designed for privacy, security, and accessibility.
+DivestOS is a fork of LineageOS that aims to increase privacy and security.
+GrapheneOS is a privacy and security-focused mobile operating system for selected Google Pixel smartphones and tablets.
+Kali NetHunter is a mobile penetration testing platform based on Kali Linux.
+
+Arch-based
+BlackArch is a penetration testing distribution that provides a large number of security tools.
+
+Debian-based
+Kali Linux is designed for digital forensics and penetration testing.
+Parrot OS Security Edition is designed for penetration testing, vulnerability assessment and mitigation, computer forensics, and anonymous web browsing.
+Tails is aimed at preserving privacy and anonymity.
+Whonix consists of two virtual machines. All communications are forced through Tor.
+
+Gentoo-based
+Pentoo is a Live CD and Live USB designed for penetration testing and security assessment.
+
+Other Linux distributions
+Alpine Linux is designed to be small, simple, and secure. It uses musl, BusyBox, and OpenRC instead of the more commonly used glibc, GNU Core Utilities, and systemd.
+Fedora Silverblue is an immutable desktop operating system. Every Silverblue installation is identical to every other installation of the same version, and it never changes as it is used.
+
+BSD
+OpenBSD is a Unix-like operating system that emphasizes portability, standardization, correctness, proactive security, and integrated cryptography.
+
+Xen
+Qubes OS aims to provide security through isolation. Isolation is provided through the use of virtualization technology. This allows the segmentation of applications into secure virtual machines.
+
+See also
+
+
+== References ==

@@ -1,0 +1,36 @@
+Listing of the diverse vegetation types of South Africa that have been sampled, classified, described, and mapped by the SANBI VEGMAP project. Vegetation types of Lesotho and Eswatini are included in the project. The vegetation map is useful for biodiversity assessment, research, conservation management and environmental planning, and includes a database. The project is ongoing as more data becomes available over time. The first map was published in 2006, and has been updated in 2009. 2012 and 2018.The classification system uses a hierarchy to organise the vegetation types within the nine defined biomes and a tenth azonal group. Bioregions are described within the biomes, and the vegetation types are at the more detailed level, and represent groups of communities with similar biotic and abiotic features. The vegetation types are plotted on the map in as much resolution as is available using a GIS system.Mapping of the distribution and extent of natural vegetation of South Africa started in 1918 when the Botanical Survey of the Union of South Africa was established. Maps by Pole-Evans (1936), Acocks (1953), and Low and Rebelo (1996) preceded the current system, which is the combined effort of participants from various centres in the country.Listed by biome:
+
+Savanna
+88 Savanna vegetation types, code SV:
+
+Grassveld
+73 Grassveld vegetation types, code G:
+
+Fynbos
+81 Fynbos vegetation types, code FF:
+
+Renosterveld
+29 Renosterveld vegetation types, code FR:
+
+Succulent Karoo
+65 Succulent Karoo vegetation types, code SK:
+
+Albany Thickets and Strandveld
+54 Albany thickets and Strandveld vegetation types, codes AT and FS:
+
+Nama Karoo
+29 Nama Karoo and desert vegetation types, codes NK and D:
+
+Azonal
+35 Azonal vegetation types, code AZ:
+
+Forest
+17 Forest and coastal belt vegetation types, codes FO and CB
+
+Indian Ocean Coastal Belt
+Desert
+Subantarctic
+8 Subantarctic vegetation types, code ST:
+
+
+== References ==

@@ -1,0 +1,10 @@
+Homeorhesis, derived from the Greek for "similar flow", is a concept encompassing dynamical systems which return to a trajectory, as opposed to systems which return to a particular state, which is termed homeostasis.
+
+Biology
+Homeorhesis is steady flow. Often biological systems are inaccurately described as homeostatic, being in a steady state. Steady state implies equilibrium which is never reached, nor are organisms and ecosystems in a closed environment. During his tenure at the State University of New York at Oneonta, Dr William Butts correctly applied the term homeorhesis to biological organisms. The term was created by C.H. Waddington and first used in biology in his book Strategy of the Genes (1957), where he described the tendency of developing or changing organisms to continue development or adapting to their environment and changing towards a given state.
+
+Gaia hypothesis
+In ecology the concept is important as an element of the Gaia hypothesis, where the system under consideration is the ecological balance of different forms of life on the planet. It was Lynn Margulis, the coauthor of Gaia hypothesis, who wrote in particular that only homeorhetic, and not homeostatic, balances are involved in the theory. That is, the composition of Earth's atmosphere, hydrosphere, and lithosphere are regulated around "set points" as in homeostasis, but those set points change with time.
+
+
+== References ==

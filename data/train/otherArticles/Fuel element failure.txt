@@ -1,8 +1,0 @@
-A fuel element failure is a rupture in a nuclear reactor's fuel cladding that allows the nuclear fuel or fission products, either in the form of dissolved radioisotopes or hot particles, to enter the reactor coolant or storage water.
-The de facto standard nuclear fuel is uranium dioxide or a mixed uranium/plutonium dioxide. This has a higher melting point than the actinide metals.  Uranium dioxide resists corrosion in water and provides a stable matrix for many of the fission products; however, to prevent fission products (such as the noble gases) from leaving the uranium dioxide matrix and entering the coolant, the pellets of fuel are normally encased in tubes of a corrosion-resistant metal alloy (normally Zircaloy for water-cooled reactors).
-Those elements are then assembled into bundles to allow good handling and cooling.  As the fuel fissions, the radioactive fission products are also contained by the cladding, and the entire fuel element can then be disposed of as nuclear waste when the reactor is refueled.
-If, however, the cladding is damaged, those fission products (which are not immobile in the uranium dioxide matrix) can enter the reactor coolant or storage water and can be carried out of the core, into the rest of the primary cooling circuit, increasing contamination levels there.
-In the EU, some work has been done in which fuel is overheated in a special research reactor named PHEBUS. During these experiments the emissions of radioactivity from the fuel are measured and afterwards the fuel is subjected to Post Irradiation Examination to discover more about what happened to it.
-
-
-== References ==

@@ -1,0 +1,23 @@
+The term Trustworthy Computing (TwC) has been applied to computing systems that are inherently secure, available, and reliable. It is particularly associated with the Microsoft initiative of the same name, launched in 2002.
+
+History
+Until 1995, there were restrictions on commercial traffic over the Internet.On, May 26, 1995, Bill Gates sent the "Internet Tidal Wave" memorandum to Microsoft executives assigning "...the Internet this highest level of importance..." but Microsoft's Windows 95 was released without a web browser as Microsoft had not yet developed one. The success of the web had caught them by surprise but by mid 1995, they were testing their own web server, and on August 24, 1995, launched a major online service, MSN.The National Research Council recognized that the rise of the Internet simultaneously increased societal reliance on computer systems while increasing the vulnerability of such systems to failure and produced an important report in 1999, "Trust in Cyberspace". This report reviews the cost of un-trustworthy systems and identifies actions required for improvement.
+
+Microsoft and Trustworthy Computing
+Bill Gates launched Microsoft's "Trustworthy Computing" initiative with a January 15, 2002 memo, referencing an internal whitepaper by Microsoft CTO and Senior Vice President Craig Mundie. The move was reportedly prompted by the fact that they "...had been under fire from some of its larger customers–government agencies, financial companies and others–about the security problems in Windows, issues that were being brought front and center by a series of self-replicating worms and embarrassing attacks." such as Code Red, Nimda, Klez and Slammer.
+Four areas were identified as the initiative's key areas: Security, Privacy, Reliability, and Business Integrity, and despite some initial scepticism, at its 10-year anniversary it was generally accepted as having "...made a positive impact on the industry...".
+The Trustworthy Computing campaign was the main reason why Easter eggs disappeared from Windows, Office and other Microsoft products.
+
+See also
+Security Development Lifecycle
+
+References
+External links
+Trusted Computing Group
+Wave Systems Corp. Managing Trusted Computing Platforms (TPM)
+The Age of Corporate Open Source Enlightenment, Paul Ferris, ACM Press
+The Controversy over Trusted Computing, Catherine Flick, University of Sydney
+Email from Bill Gates to Microsoft Employees, Wired News, January, 2002
+Trust in Cyberspace, Committee on Information Systems Trustworthiness
+Trustworthy Computing, Microsoft
+Trustworthy Computing, Craig Mundie, Microsoft

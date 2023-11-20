@@ -1,0 +1,27 @@
+In organic chemistry, isothiocyanate is the functional group −N=C=S, formed by substituting the oxygen in the isocyanate group with a sulfur. Many natural isothiocyanates from plants are produced by enzymatic conversion of metabolites called glucosinolates. These natural isothiocyanates, such as allyl isothiocyanate, are also known as mustard oils. An artificial isothiocyanate, phenyl isothiocyanate, is used for amino acid sequencing in the Edman degradation.
+Cruciferous vegetables, such as bok choy, broccoli, cabbage, cauliflower, kale, and others, are rich sources of glucosinolate precursors of isothiocyanates. Although there has been some basic research on how isothiocyanates might exert biological effects in vivo, there is no high-quality evidence to date for its efficacy against human diseases.
+
+Structure
+Typical bond angles for C−N=C and N=C=S linkages in aryl isothiocyanates are 165° and 177°, respectively.  The N=C and C=S distances are 117 and 158 pm.
+
+Synthesis and reactions
+Isothiocyanates are generally prepared by the reaction of a primary amine (e.g. aniline) and carbon disulfide in aqueous ammonia. This combination results in precipitation of the solid ammonium dithiocarbamate salt, which is then treated with lead nitrate to yield the corresponding isothiocyanate.
+Another method relies on a tosyl chloride mediated decomposition of dithiocarbamate salts that are generated in the first step above.
+Isothiocyanates may also be accessed via the thermally-induced fragmentation reactions of 1,4,2-oxathiazoles. This synthetic methodology has been applied to a polymer-supported synthesis of isothiocyanates.
+Reflecting their electrophilic character, isothiocyanates are susceptible to hydrolysis.
+
+Flavor research
+Isothiocyanates occur widely in nature and are of interest in food science and medical research.  Vegetable foods with characteristic flavors due to isothiocyanates include bok choy, broccoli, cabbage, cauliflower, kale, wasabi, horseradish, mustard, radish, Brussels sprouts, watercress, papaya seeds, nasturtiums, and capers. These species generate isothiocyanates in different proportions, and so have different, but recognizably related, flavors. They are all members of the order Brassicales, which is characterized by the production of glucosinolates, and of the enzyme myrosinase, which acts on glucosinolates to release isothiocyanates.
+Sinigrin is the precursor to allyl isothiocyanate
+Glucotropaeolin is the precursor to benzyl isothiocyanate
+Gluconasturtiin is the precursor to phenethyl isothiocyanate
+Glucoraphanin is the precursor to sulforaphane
+
+Coordination chemistry
+Isothiocyanate and its linkage isomer thiocyanate are ligands in coordination chemistry.  Thiocyanate is a more common ligand.
+
+See also
+Methyl isothiocyanate
+
+
+== References ==

@@ -1,5 +1,0 @@
-Infection-induced anorexia is the loss of appetite in a person with an infection, which confers advantages in fighting the infection.
-In association with fever production, decreased food consumption is a common sign of infection and is a behavior that contributes to pathogen elimination. During infection-induced anorexia, autophagic flux is upregulated systemically. A decrease in serum amino acids during an infection promotes autophagy not only in immune cells, but also in nonimmune cells. Augmented autophagic responses may play a critical role in clearing pathogens (xenophagy), in the presentation of epitopes in nonprovisional antigen presenting cells and the removal of damaged proteins and organelles, and recycling these damaged proteins, organelles and pathogens as source of nutrition.
-
-
-== References ==

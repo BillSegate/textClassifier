@@ -1,0 +1,209 @@
+Ecological speciation is a form of speciation arising from reproductive isolation that occurs due to an ecological factor that reduces or eliminates gene flow between two populations of a species. Ecological factors can include changes in the environmental conditions in which a species experiences, such as behavioral changes involving predation, predator avoidance, pollinator attraction, and foraging; as well as changes in mate choice due to sexual selection or communication systems. Ecologically-driven reproductive isolation under divergent natural selection leads to the formation of new species. This has been documented in many cases in nature and has been a major focus of research on speciation for the past few decades.: 179 Ecological speciation has been defined in various ways to identify it as distinct from nonecological forms of speciation. The evolutionary biologist Dolph Schluter defines it as "the evolution of reproductive isolation between populations or subsets of a single population by adaptation to different environments or ecological niches", while others believe natural selection is the driving force. The key difference between ecological speciation and other kinds of speciation is that it is triggered by divergent natural selection among different habitats, as opposed to other kinds of speciation processes like random genetic drift, the fixation of incompatible mutations in populations experiencing similar selective pressures, or various forms of sexual selection not involving selection on ecologically relevant traits. Ecological speciation can occur either in allopatry, sympatry, or parapatry—the only requirement being that speciation occurs as a result of adaptation to different ecological or micro-ecological conditions.Ecological speciation can occur pre-zygotically (barriers to reproduction that occur before the formation of a zygote) or post-zygotically (barriers to reproduction that occur after the formation of a zygote). Examples of pre-zygotic isolation include habitat isolation, isolation via pollinator-pollination systems, and temporal isolation. Examples of post-zygotic isolation involve genetic incompatibilities of hybrids, low fitness hybrids, and sexual selection against hybrids.
+Some debate exists over the framework concerning the delineation of whether a speciation event is ecological or nonecological. "The pervasive effect of selection suggests that adaptive evolution and speciation are inseparable, casting doubt on whether speciation is ever nonecological". However, there are numerous examples of closely related, ecologically similar species (e.g., Albinaria land snails on islands in the Mediterranean, Batrachoseps salamanders from California, and certain crickets and damselflies), which is a pattern consistent with the possibility of nonecological speciation.
+
+Ecological causes of divergent selection
+Divergent selection is key to the occurrence of ecological speciation. Three ecological causes of divergent selection have been identified: differences in environmental conditions, ecological interactions, and sexual selection. The causes are following list 
+Differences in environmental conditions as a prerequisite to speciation is incontrovertibly the most studied. Predation, resource availability (food abundance), climatic conditions, and the structure of a habitat are some of the examples that can differ and give rise to divergent selection. Despite being one of the most studied factors in ecological speciation, many aspects are still less understood such as how prevalent the process is in nature as well as the origin of barriers for post-zygotic isolation (as opposed to the much easier detectable pre-zygotic barriers).: 181  Laboratory experiments involving single-environmental differences are limited and have often not tracked the traits involved in isolation. Studies in nature have focused on a variety of environmental factors such as predation-caused divergent selection; however, little has been studied in regards to pathogens or parasites.
+Ecological interactions can drive divergent selection between populations in sympatry. Examples of these interactions can be intraspecific (between the same species) and interspecific (between different species) competition or relationships such as those of ecological facilitation. Interspecific competition in particular has support from experiments; however it is unknown if it can give rise to reproductive isolation despite driving divergent selection. Reinforcement (the strengthening of isolation by selection favoring the mating of members of their own populations due to reduced fitness of hybrids) is considered to be a form of, or involved in, ecological speciation. Though, debate exists as to how to determine ultimate causes since reinforcement can complete the speciation process regardless of how it originated. Further, character displacement can have the same effect.
+Sexual selection can play a role in ecological speciation as the recognition of mates is central to reproductive isolation—that is, if a species cannot recognize its potential mates, the flow of genes is suspended. Despite its role, only two types of sexual selection can be implicated in ecological speciation: the spatial variation in secondary sexual traits (sexual traits that arise specifically at sexual maturity) or communication and mating systems. This restriction is based on the fact that they produce diverging environments in which selection can act. For example, isolation will increase between two populations where there is a mismatch between signals (such as the feather display of a male bird) and the preferences (such as the sexual preferences of a female bird). This pattern has been detected in stickleback fish.
+
+Types of reproductive isolation
+Habitat isolation
+Populations of a species can become spatially isolated due to preferences for separate habitats. The separation decreases the chance of mating to occur between the two populations, inhibiting gene flow, and promoting pre-zygotic isolation to lead to complete speciation. Habitat isolation is not equivalent to a geographic barrier like that of allopatric speciation.: 182  Instead, it is based on genetic differences, where one species is unable to exploit a different environment, resulting from fitness advantages, fitness disadvantages, or resource competition.: 182 Jerry Coyne and H. Allen Orr posit two different forms of habitat isolation: microspatial habitat isolation (where matings between two species are reduced by preferences or adaptations to ecologically differing areas, despite occupying the same generalized area) and macrospatial habitat isolation (defined by fully allopatric habitats that inhibit gene flow.): 182–3  Identification of both forms of habitat isolation in nature is difficult due to the effects of geography. Measuring microspatial isolation demands several factors:: 184 
+the spatial separation of different species' members is greater than those of members of the same species
+during simultaneous breeding periods, the spatial separation reduces gene flow
+decreased gene flow is directly the result of decreased mating
+genetic differences correspond to the spatial separationAllopatric distributions pose several problems for detecting true habitat isolation in that different habitats of two allopatrically isolated species does not imply ecologically caused speciation. Alternative explanations could account for the patterns:: 185 
+species differences may be caused by geographic isolation
+the species may or may not occupy different habitats if they existed in sympatry
+in cases of similar habitats in allopatry, species may be adapted to unknown ecological factors
+if the species existed in sympatry, competition may drive habitat segregation that would be undetectable in allopatryThese issues (with both micro- and macro-spatial isolation) can be overcome by field or laboratory experiments such as transplantation of individuals into opposite habitats: 185  (though this can prove difficult if individuals are not completely unfit for the imposed habitat).: 186  Habitat isolation can be measured for a species pair (
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   and 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  ) during a breeding period by:
+
+  
+    
+      
+        1
+        −
+        
+          
+            
+              p
+              
+                a
+                b
+              
+            
+            
+              2
+              
+                p
+                
+                  a
+                
+              
+              
+                p
+                
+                  b
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle 1-{\frac {p_{ab}}{2p_{a}p_{b}}}}
+  
+Here, 
+  
+    
+      
+        
+          p
+          
+            a
+            b
+          
+        
+      
+    
+    {\displaystyle p_{ab}}
+   is the proportion of encounters between matings that involve partners of a different species that are observed. 
+  
+    
+      
+        
+          p
+          
+            a
+          
+        
+      
+    
+    {\displaystyle p_{a}}
+   is the proportion of total individuals of species 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  . 
+  
+    
+      
+        
+          p
+          
+            b
+          
+        
+      
+    
+    {\displaystyle p_{b}}
+   is the proportion of total individuals of species 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  . The expected proportion of mating encounters between different species if mating is random is denoted by 
+  
+    
+      
+        2
+        
+          p
+          
+            a
+          
+        
+        
+          p
+          
+            b
+          
+        
+      
+    
+    {\displaystyle 2p_{a}p_{b}}
+  . A statistic of 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+   indicates no mating encounters of different species where 
+  
+    
+      
+        0
+      
+    
+    {\displaystyle 0}
+   indicates random mating of different species.
+
+Geography
+Ecological speciation caused by habitat isolation can occur in any geographic sense, that is, either allopatrically, parapatrically, or sympatrically. Speciation arising by habitat isolation in allopatry (and parapatry) is straightforward in that reduced gene flow between two populations acquire adaptations that fit the ecological conditions of their habitat. The adaptations are reinforced by selection and, in many cases such as with animals, are reinforced by behavioral preferences (e.g. in birds that prefer specific vocalizations).: 189  A classic example of habitat isolation occurring in allopatry is that of host-specific cospeciation: 189  such as in the pocket gophers and their host chewing lice or in the fig wasp-fig tree relationship and the yucca-yucca moth relationship—examples of ecological speciation caused by pollinator isolation.: 189  In sympatry, the scenario is more complex, as gene flow may not be reduced enough to permit speciation. It is thought that selection for niche divergence can drive the process. In addition, if sympatry results from the secondary contact of two previously separated populations, the process of reinforcement, the selection against unfit hybrids between the two populations, may drive their complete speciation. Competition for resources may also play a role.: 191 
+Habitat isolation is a significant impediment to gene flow and is exhibited by the common observation that plants and animals are often spatially separated in relation to their adaptations.: 183  Numerous field studies, transplantation and removal experiments, and laboratory studies have been conducted to understand the nature of speciation caused by habitat isolation.: 186–188  Horkelia fusca, for example, grows on California slopes and meadows above 4500 feet, where its closet relatives H. californica and H. cuneata grow below 3200 feet in coastal habitats. When species are transplanted to alternate habitats, their viability is reduced, indicating that gene flow between the populations is unlikely. Similar patterns have been found with Artemisia tridentata tridentata and A. tridentata subsp. vaseyana in Utah, where hybrid zones exists between altitudinal populations, and transplant experiments reduce the fitness of the subspecies.Speciation by habitat isolation has also been studied in serpentine leaf miner flies, ladybird beetles (Epilachna), goldenrod gall flies, Rhagoletis pomonella, leaf beetles, and pea aphids.
+
+Sexual isolation
+Ecological speciation due to sexual isolation results from differing environmental conditions that modify communication systems or mate choice patterns over time. Examples abound in nature. The coastal snail species Littorina saxatilis has been a focus of research as two ecotypes residing at different shore levels exhibit reproductive isolation as a result of mate choice regarding the body size differences of the ecotype. Both marine and freshwater stickleback fish have shown strong evidence of having speciated this way. Evidence is also found in Neochlamisus bebbianae leaf beetles, Timema cristinae walking-stick insects, and in the butterfly species Heliconius melpomene and H. cydno which are thought to have diverged recently due to assortive mating being enhanced where the species populations meet in sympatry.
+
+Pollinator isolation
+Angiosperms (flowering plants) require some form of pollination—many of which require another animal to transfer pollen from one flower to another. Biotic pollination methods require pollinators such as insects (e.g. bees, butterflies, moths, wasps, beetles, and other invertebrates), birds, bats, and other vertebrate species. Because of this evolutionary relationship between pollinators and pollen-producing plants, plants and animals become mutually dependent on each other—the pollinator receives food in the form of nectar and the flower gains the ability to propagate its genes.
+In the event that an animal uses a different pollination source, plants can become reproductively isolated.: 193  Pollinator isolation is a specific form of sexual isolation. The botanist Verne Grant distinguished between two types of pollinator isolation: mechanical isolation and ethological isolation.: 193 : 75
+
+Mechanical pollinator isolation
+Mechanical isolation results from anatomical differences of a flower or pollinator preventing pollination from occurring. For example, in the bee Eulaema cingulata, pollen from Catasetum discolor and C. saccatum is attached to different parts of the body (ventrally and dorsally respectively).: 194  Another example is with elephant's head and little elephant's head plants. They are not known to hybridize despite growing in the same region and being pollinated by the same bee species. Pollen is attached to different parts of the bee rendering the flowers isolated. Mechanical isolation also includes pollinators who are unable to pollinate due to physical inabilities.: 194  Nectar spur length, for example, could vary in size in a flower species resulting in pollination from different lepidopteran species due to the lengths preventing body contact with the flower's pollen.
+
+Ethological pollinator isolation
+Ethological isolation is based on behavioral traits of pollinators that prefer different morphological characteristics of a flower either genetically or through learned behavior. These characteristics could be the overall shape and structure, color, type of nectar, or smell of the flower.: 194  In some cases, mutualisms evolve between a pollinator and its host, cospeciating with near-congruent, parallel phylogenies.: 196  That is, the dependent relationship results in closely identical evolutionary trees indicating that speciation events and the rate of speciation is identical. Examples are found in fig wasps and their fig hosts, with each fig wasp species pollinating a specific fig species. The yucca and yucca moth exhibit this same pattern.
+In a striking case, two closely related flowering plants (Erythranthe lewisii and E. cardinalis) have speciated due to pollinator isolation in complete sympatry (speciation occurring without any physical, geographic isolation). E. lewisii has changed significantly from its sister species in that its evolved pink flowers, broad petals, shorter stamens (the pollen-producing part of the plant), and a lower volume of nectar. It is entirely pollinated by bees with almost no crossing in nature. E. cardinalis is pollinated by hummingbirds and exhibits red, tube-shaped flowers, larger stamens, and a lot of nectar. It is thought that nectar volume as well as a genetic component (an allele substitution that controls color variation) maintains isolation. A similar pattern has been found in Aquilegia pubescens and A. formosa. In this species pair, A. pubescens is pollinated by hawkmoths while A. formosa is pollinated by hummingbirds.: 197  Unlike in Erythranthe, these species reside in different habitats but exhibit hybrid forms where their habitats overlap; though they remain separate species suggesting that the hybrid flowers may be less attractive to their pollinator hosts.: 197
+
+Geography
+Four geographic-based scenarios involving pollinator isolation are known to occur:
+
+The most common framework for pollinator isolation in a geographic context implies that floral trait divergence occurs as a result of geographic isolation (allopatrically). From there, a population has the potential to encounter different pollinators ultimately resulting in selection favoring traits to attract the pollinators and achieve reproductive success.: 198 
+Another scenario involves an initial allopatric stage, wherein secondary contact occurs  at a variable level of reproductive isolation—high isolation is effectively allopatric speciation whereas low isolation is effectively sympatric. This "two-stage" model is indicated in the three-spined sticklebacks as well as the apple maggot fly and its apple hosts.
+A pollinator can change preferences due to its own evolution driving selection to favor traits that align with the pollinators changed preferences.: 198 
+There exists the possibility that when two populations become isolated geographically, a plant or pollinator could go extinct in one of the populations driving selection to favor different traits.Jerry Coyne and H. Allen Orr contend that any scenario of pollinator isolation in allopatry demands that incipient stages should be found in different populations. This has been observed to varying degrees in several species-pollinator pairs. Flower size of Raphanus sativus (in this case, wild radish in 32 California populations) has been found to differ in accordance with larger honeybee pollinators. Polemonium viscosum flowers have been found to increase in size along an alpine gradient in the Colorado Rocky Mountains as flies pollinate at the timberline whereas bumblebees pollinate at higher elevations. A similar pattern involving the timing in which hawkmoths (Hyles lineata) are active is documented in three subspecies of Aquilegia coerulea, the Rocky Mountain columbine found across the western United States.The most notable example according to Coyne and Orr is that of the African orchid subspecies Satyrium hallackii hallackii and Satyrium hallackii ocellatum.: 199–200  The latter is pollinated by moths and exhibits long nectar spurs that correlate with the moth's proboscis. Unlike the inland, grassland habitat of subspecies hallackii, ocellatum resides in coastal populations and has short spurs that correlate with its primary carpenter bee pollinator. The moths are unable to find suitable nest sites in coastal habitats while the bees are unable inland. This pattern separates the pollinator populations but does not separate the orchid population driving selection to favor flower differences that better-match the local pollinators. A similar pattern has been detected in studies of the Disa draconis complex in South Africa.
+
+Temporal isolation (allochronic speciation)
+Temporal isolation is based on the reduction of gene flow between two populations due to different breeding times (phenology). It is also referred to as allochronic isolation, allochronic speciation, or allochrony. In plants, breeding in regards to time could involve the receptivity of stigma to accepting sperm, periods of pollen release (such as in conifer trees where cones disperse pollen via wind), or overall timing of flowering. In contrast, animals often have mating periods or seasons (and many aquatic animals have spawning times).: 202  Migratory patterns have also been implicated in allochronic speciation.: 92–96 For allochronic speciation to be considered to have actually occurred, the model necessitates three major requirements:
+Phylogenetic analysis indicates the incipient species are sister taxa
+Breeding timing is genetically-based (heritable to offspring)
+The source of divergence is explicitly allochrony and not the result of reinforcement or other mechanismsAllochrony is thought to evolve more easily the greater the heritability of reproductive timing—that is, the greater the link between genes and the timing of reproduction—the more likely speciation will occur. Temporal isolation is unique in that it can be explicitly sympatric as well as nongenetic;: 203  however genetic factors must be involved for isolation to lead to complete reproductive isolation and subsequent speciation. Speciation by allochrony is known to occur in three time frames: yearly (e.g. periodic cicadas emerging over decades or multi-decadal bamboo flowerings), seasonal (organisms that breed during times of the year such as winter or summer), and daily (e.g. daily spawning times of corals). The table list below summarizes a number of studies considered to be strong or compelling examples of allochronic speciation occurring in nature.
+
+Other pre-zygotic forms of ecological isolation
+Selection against migrants, or immigrant inviability, is hypothesized to be a form of ecological isolation. This type of speciation involves the low survival rates of migrants between populations because of their lack of adaptations to non-native habitats. There is little understanding the relationship between post-mating, pre-zygotic isolation and ecology. Post-mating isolation occurs between the process of copulation (or pollination) and fertilization—also known as gametic isolation.: 232  Some studies involving gametic isolation in Drosophila fruit flies, ground crickets, and Helianthus plants suggest that there may be a role in ecology; however it is undetermined.
+
+Post-zygotic forms of ecological isolation
+Ecologically-independent post-zygotic isolation arises out of genetic incompatibilities between two hybrid individuals of a species. It is thought that in some cases, hybrids have lower fitness especially based on the environment in which they reside. For example, in extreme environments with limited ecological niches to exploit, high fitness is necessitated, whereas if an environment has lots of niches, lower fit individuals may be able to survive for longer. Some studies indicate that these incompatibilities are a cause of ecological speciation because they can evolve quickly through divergent selection.Ecologically-dependent post-zygotic isolation results from the reduce hybrid of fitness due to its position in an ecological niche—that is, parental species occupy slightly different niches, but their hybrid offspring end up requiring a niche that is a blend between the two of which does not typically exist (in regard to a fitness landscape). This has been detected in populations of sticklebacks (Gasterosteus aculeatus), water-lily beetles (Galerucella nymphaeae), pea aphids, and tephritid flies (Eurosta solidaginis).Selection against hybrids can sometimes (it is possible that nonecological speciation can be attributed) be considered a form of ecological isolation if it originates from an ecological mechanism. For example, the hybrid offspring may be seen as "less attractive" to mates due to intermediate sexual displays or differences in sexual communication. The end result is that the genes of each parental population are unable to intermix as they are carried by a hybrid who is unlikely to reproduce. This pattern of sexual selection against hybrid offspring has been found in Heliconius butterflies. The two species H. cydno and H. melpomene are distributed sympatrically in South America and hybridize infrequently. When they do hybridize, the species shows strong assortive mating due to the mimicry-evolved color pattern that hybrid offspring have an intermediate of. Similar patterns have been found in lacewings migrating patterns of Sylvia atricapilla bird populations, wolf spiders (Schizocosa ocreata and S. rovneri) and their courtship behaviors, sympatric benthic and limnetic sticklebacks (the Gasterosteus aculeatus complex), and the Panamanian butterflies Anartia fatima and A. amathea. Flowers involving pollinator discrimination against hybrids have shown this pattern as well, in monkey flowers (Erythranthe lewisii and Erythranthe cardinalis) and in two species of the Louisiana iris group, Iris fulva and I. hexagona.
+
+See also
+Laboratory experiments of speciation
+
+
+== References ==

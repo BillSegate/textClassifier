@@ -1,0 +1,43 @@
+Brian Krebs (born 1972) is an American journalist and investigative reporter. He is best known for his coverage of profit-seeking cybercriminals. Krebs is the author of a daily blog, KrebsOnSecurity.com,  covering computer security and cybercrime. From 1995 to 2009, Krebs was a reporter for The Washington Post and covered tech policy, privacy and computer security as well as authoring the Security Fix blog.
+
+Early life and education
+Born in 1972 in Alabama, Krebs earned a B.A. in International Relations from George Mason University in 1994. His interest in cybercriminals grew after a computer worm locked him out of his own computer in 2001.
+
+Career
+1999–2007
+Krebs started his career at The Washington Post in the circulation department. From there, he obtained a job as a copy aide in the Post newsroom, where he split his time between sorting mail and taking dictation from reporters in the field. Krebs also worked as an editorial aide for the editorial department and the financial desk. In 1999, Krebs went to work as a staff writer for Newsbytes.com, a technology newswire owned by The Washington Post.When the Post sold Newsbytes in 2002, Krebs transitioned to Washingtonpost.com in Arlington, Virginia as a full-time staff writer. Krebs's stories appeared in both the print edition of the paper and Washingtonpost.com. In 2005, Krebs launched the Security Fix blog, a daily blog centered around computer security, cyber crime and tech policy. In December 2009, Krebs left Washingtonpost.com and launched KrebsOnSecurity.com.
+Krebs has focused his reporting at his blog on the fallout from the activities of several organized cybercrime groups operating out of eastern Europe that have stolen tens of millions of dollars from small to mid-sized businesses through online banking fraud. Krebs has written more than 75 stories about small businesses and other organizations that were victims of online banking fraud, an increasingly costly and common form of cybercrime.
+Krebs wrote a series of investigative stories that culminated in the disconnection or dissolution of several Internet service providers that experts said catered primarily to cyber criminals. In August 2008, a series of articles he wrote for The Washington Post's Security Fix blog led to the unplugging of a northern California based hosting provider known as Intercage or Atrivo.During that same time, Krebs published a two-part investigation on illicit activity at domain name registrar EstDomains, one of Atrivo's biggest customers, showing that the company's president, Vladimir Tšaštšin, recently had been convicted of credit card fraud, document forgery and money laundering. Two months later, the Internet Corporation for Assigned Names and Numbers (ICANN), the entity charged with overseeing the domain registration industry, revoked EstDomains' charter, noting that Tšaštšin's convictions violated an ICANN policy that prohibits officers of a registrar from having a criminal record. In November 2011, Tšaštšin and five other men would be arrested by Estonian authorities and charged with running a massive click fraud operation with the help of the DNS Changer Trojan.
+
+2008–2012
+In November 2008, Krebs published an investigative series that led to the disconnection of McColo, another northern California hosting firm that experts said was home to control networks for most of the world's largest botnets. As a result of Krebs's reporting, both of McColo's upstream Internet providers disconnected McColo from the rest of the Internet, causing an immediate and sustained drop in the volume of junk e-mail sent worldwide. Estimates of the amount and duration of the decline in spam due to the McColo takedown vary, from 40 percent to 70 percent, and from a few weeks to several months.Krebs is credited with being the first journalist, in 2010, to report on the malware that would later become known as Stuxnet. In 2012, he was cited in a follow-up to another breach of credit and debit card data, in this case potentially more than 10 million Visa and MasterCard accounts with transactions handled by Global Payments Inc. of Atlanta, Georgia.
+
+2013–present
+On March 14, 2013, Krebs became one of the first journalists to become a victim of swatting.On December 18, 2013, Krebs broke the story that Target Corporation had been breached of 40 million credit cards. Six days later, Krebs identified a Ukrainian man who Krebs said was behind a primary black market site selling Target customers' credit and debit card information for as much as US$100 apiece. In 2014, Krebs published a book called Spam Nation: The Inside Story of Organized Cybercrime—from Global Epidemic to Your Front Door, which went on to win a 2015 PROSE Award.In 2016, Krebs's blog was the target of one of the largest ever DDoS attacks using the Mirai malware, apparently in retaliation for Krebs's role in investigating the vDOS botnet. Akamai, which was hosting the blog on a pro bono basis, quit hosting his blog as a result of the attack, causing it to shut down. As of September 25, 2016, Google's Project Shield had taken over the task of protecting his site, also on a pro-bono basis.An article by Krebs on 27 March 2018 on KrebsOnSecurity.com about the mining software company and script "Coinhive" where Krebs published the names of admins of the German imageboard pr0gramm, as a former admin is the inventor of the script and owner of the company, was answered by an unusual protest action by the users of that imageboard. Using the pun of "Krebs" meaning "Cancer" in German, they donated to charitable organisations fighting against those diseases, collecting more than 200,000 Euro of donations until the evening of 28 March to the Deutsche Krebshilfe charity.Prior to 2021, his investigation of First American Financial's prior data breach led to an SEC investigation that concluding that "ensuing company disclosures preceded executives’ knowledge of unaddressed, months-old IT security reports."
+
+Awards and recognition
+2004 – Carnegie Mellon CyLab Cybersecurity Journalism Award of Merit
+2005 – CNET News.com listed Security Fix as one of the top 100 blogs, saying "Good roundup of significant security issues. The Washington Post's Brian Krebs offers a userful, first-person perspective".
+2009 – Winner of Cisco Systems' 1st Annual "Cyber Crime Hero" Award
+2010 – Security Bloggers Network, "Best Non-Technical Security Blog"
+2010 – SANS Institute Top Cybersecurity Journalist Award
+2011 – Security Bloggers Network, "Blog That Best Represents the Industry"
+2014 – National Press Foundation, "Chairman's Citation Award"
+2017 – ISSA's President's Award For Public Service
+2019 – CISO MAG’s Cybersecurity Person of the Year
+
+See also
+Topics of Krebs's work:
+
+Intuit
+mSpy
+Russian Business Network
+BlueLeaks
+Dark0de
+
+References
+External links
+Official website
+Aghast at Avast’s iYogi Support
+CNET News.Com "Blog 100" review
+Appearances on C-SPAN

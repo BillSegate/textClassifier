@@ -1,0 +1,40 @@
+Secure coding is the practice of developing computer software in such a way that guards against the accidental introduction of security vulnerabilities. Defects, bugs and logic flaws are consistently the primary cause of commonly exploited software vulnerabilities. Through the analysis of thousands of reported vulnerabilities, security professionals have discovered that most vulnerabilities stem from a relatively small number of common software programming errors. By identifying the insecure coding practices that lead to these errors and educating developers on secure alternatives, organizations can take proactive steps to help significantly reduce or eliminate vulnerabilities in software before deployment.Some scholars have suggested that in order to effectively confront threats related to cybersecurity, proper security should be coded or “baked in” to the systems. With security being designed into the software, this ensures that there will be protection against insider attacks and reduces the threat to application security.
+
+Buffer-overflow prevention
+Buffer overflows, a common software security vulnerability, happen when a process tries to store data beyond a fixed-length buffer. For example, if there are 8 slots to store items in, there will be a problem if there is an attempt to store 9 items. In computer memory the overflowed data may overwrite data in the next location which can result in a security vulnerability (stack smashing) or program termination (segmentation fault).
+An example of a C program prone to a buffer overflow isIf the user input is larger than the destination buffer, a buffer overflow will occur.
+To fix this unsafe program, use strncpy to prevent a possible buffer overflow.Another secure alternative is to dynamically allocate memory on the heap using malloc.In the above code snippet, the program attempts to copy the contents of src into dst, while also checking the return value of malloc to ensure that enough memory was able to be allocated for the destination buffer.
+
+Format-string attack prevention
+A Format String Attack is when a malicious user supplies specific inputs that will eventually be entered as an argument to a function that performs formatting, such as printf(). The attack involves the adversary reading from or writing to the stack.
+
+The C printf function writes output to stdout. If the parameter of the printf function is not properly formatted, several security bugs can be introduced. Below is a program that is vulnerable to a format string attack.A malicious argument passed to the program could be "%s%s%s%s%s%s%s", which can crash the program from improper memory reads.
+
+Integer-overflow prevention
+Integer overflow occurs when an arithmetic operation results in an integer too large to be represented within the available space. A program which does not properly check for integer overflow introduces potential software bugs and exploits.
+Below is a function in C++ which attempts to confirm that the sum of x and y is less than or equal to a defined value MAX:
+
+The problem with the code is it does not check for integer overflow on the addition operation. If the sum of x and y is greater than the maximum possible value of an unsigned int, the addition operation will overflow and perhaps result in a value less than or equal to MAX, even though the sum of x and y is greater than MAX.
+Below is a function which checks for overflow by confirming the sum is greater than or equal to both x and y. If the sum did overflow, the sum would be less than x or less than y.
+
+Path traversal prevention
+Path traversal is a vulnerability whereby paths provided from an untrusted source are interpreted in such a way that unauthorised file access is possible.
+For example, consider a script that fetches an article by taking a filename, which is then read by the script and parsed. Such a script might use the following hypothetical URL to retrieve an article about dog food:
+
+https://www.example.net/cgi-bin/article.sh?name=dogfood.html
+
+If the script has no input checking, instead trusting that the filename is always valid, a malicious user could forge a URL to retrieve configuration files from the web server:
+
+https://www.example.net/cgi-bin/article.sh?name=../../../../../etc/passwd
+
+Depending on the script, this may expose the /etc/passwd file, which on Unix-like systems contains (among others) user IDs, their login names, home directory paths and shells. (See SQL injection for a similar attack.)
+
+See also
+Application Security
+Defensive programming
+Security bug
+Secure by default
+
+Notes
+References
+Taylor, Art; Brian Buege; Randy Layman (2006). Hacking Exposed J2EE & Java. McGraw-Hill Primis. p. 426. ISBN 0-390-59975-1.

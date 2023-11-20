@@ -1,0 +1,25 @@
+The Four Horsemen of the Infocalypse refers to those who use the Internet to facilitate crime or (pejoratively) to rhetorical approaches evoking such criminals.
+The phrase is a play on Four Horsemen of the Apocalypse. There is not a universally agreed definition of who the Horsemen are. Terrorists, pedophiles/child molesters, and organized crime like drug dealers, intellectual property pirates, and money launderers are cited commonly.
+One of the most famous definitions is in The Cyphernomicon by the cypherpunk writer and engineer Tim May, which states:
+
+8.3.4. "How will privacy and anonymity be attacked?" [...]
+like so many other "computer hacker" items, as a tool for the "Four Horsemen": drug-dealers, money-launderers,  terrorists, and pedophiles.17.5.7. "What limits on the Net are being proposed?" [...]
+
+Newspapers are complaining about the Four Horsemen of the Infocalypse: terrorists, pedophiles, drug dealers, and money launderers
+Digital rights activist Cory Doctorow frequently cites "software pirates, organized crime, child pornographers, and terrorists". Other sources use slightly different descriptions, but generally refer to similar activities.
+
+History
+The term was coined by Timothy C. May in 1988. May referred to "child pornographers, terrorists, drug dealers, etc.". May used the phrase to express disdain for what he perceived as "Think of the children" argumentation by government officials and others seeking to justify limiting the civilian use of cryptography tools. Connotations related to such argumentation continue to be attached to the phrase, and it is more commonly used by those who wish to deride various restrictions on Internet activity than by those who support such restrictions.
+
+Examples of "Four Horsemen" argumentation
+The four supposed threats may be used all at once or individually, depending on the circumstances:In 2015, the UK Conservative party claimed that their proposed “new communications data legislation will strengthen our ability to disrupt terrorist plots, criminal networks, and organized child grooming gangs”, echoing the "child pornographers, terrorists, drug dealers, etc." quote of Timothy C. May.
+Later in 2015, Gamma Group released a statement claiming that their surveillance technology is used "against terrorist threats, drug cartels, other major organized crime, and paedophile rings." as justification for concerns that it was being used to target opposition politicians and media groups in Uganda.  With money-laundering treated as a major organised crime, this quote matches very closely with the list given in the Cypherpunk FAQ.
+In 2022, European Commission proposed the Regulation to Prevent and Combat Child Sexual Abuse, nicknamed "Chat Control", which includes a requirement to scan private communication on the endpoints, leveraging the Think of the children argument for effectively bypassing end-to-end encryption. Efforts to pass the measure continue through 2023.
+
+See also
+Crypto Wars
+Fear, uncertainty and doubt
+
+References
+External links
+The Cyphernomicon by Timothy May
