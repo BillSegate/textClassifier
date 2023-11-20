@@ -2,6 +2,7 @@ import json
 import os
 import math
 import time
+import numpy as np
 
 from logger import log
 from articleProcessor import readFile, performPreProcessing, PATH_MEDICAL_ARTICLES, PATH_OTHER_ARTICLES
@@ -72,12 +73,36 @@ def main():
         text = performPreProcessing(text)
         predictedLabels.append(testArticle(text, medicalClassProbability, otherClassProbability, medicalFrequency, otherFrequency))
     
-    rightCounter = 0
+    #rightCounter = 0
+    confusionMatrix = np.zeros((2, 2))
     for k in range(len(predictedLabels)):
-        if predictedLabels[k] == labels[k]:
-            rightCounter += 1
+        confusionMatrix[predictedLabels[k], labels[k]] += 1
+        #if predictedLabels[k] == labels[k]:
+            #rightCounter += 1
 
-    log(f'Finished in {round(time.time() - startTime, 3)} seconds, with an accuracy of {round((rightCounter/len(predictedLabels))*100, 3)}%')
+    log(f'Finished in {round(time.time() - startTime, 3)}s.')
+    log('\n == SOME STATISTICS == \n')
+    log('PREDICTED/ACTUAL LABELS\t\tMEDICAL\t\tNON MEDICAL')
+
+    for row in range(confusionMatrix.shape[0]):
+        printRow = ""
+        if(row == 0): 
+            printRow += 'MEDICAL\t\t\t\t'
+        else:
+            printRow += 'NON MEDICAL\t\t\t'
+        for column in range(confusionMatrix.shape[1]):
+            printRow += str(int(confusionMatrix[row, column])) + '\t\t'
+        log(printRow)
+    
+    truePositive = int(confusionMatrix[0,0])
+    trueNegative = int(confusionMatrix[1,1])
+    falsePositive = int(confusionMatrix[0,1])
+    falseNegative = int(confusionMatrix[1,0])
+
+    wellPredicted = truePositive + trueNegative
+    log(f'\nRecall: {round((truePositive/(truePositive + falseNegative))*100, 3)}%')
+    log(f'Precision: {round((truePositive/(truePositive + falsePositive))*100, 3)}%')
+    log(f'Accuracy: {round((wellPredicted/len(labels))*100, 3)}%\n')
 
 if __name__ == '__main__':
     main()

@@ -74,7 +74,7 @@ def retrieve(category: str, isMedical: bool) -> None:
     # retrieve primary category
     categoryResult = WIKI.page('Category:' + category)
     # retrieve all titles
-    titles = retrieveTitles(categoryResult.categorymembers)
+    titles = retrieveTitles(categoryResult.categorymembers, 0, 0)
     
     # shuffles the list of titles in order to subdivide it in 80% train and 20% test
     random.shuffle(titles)
@@ -83,7 +83,7 @@ def retrieve(category: str, isMedical: bool) -> None:
     # retrieve all articles
     retrieveArticles(titles, isMedical)
     
-    log(f'{category} retrieved in {time.time() - startTime} seconds!')
+    log(f'{category} retrieved in {round(time.time() - startTime, 2)}s.')
 
 def main():
         # first retrieve medical categories

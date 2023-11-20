@@ -122,11 +122,11 @@ def createBoW(isMedical: bool) -> None:
 
 # 
 def main():
-    log('Start creating BoWs...')
+    log('Start creating BoWs...\n')
     startTime = time.time()
     createBoW(isMedical=True)
     createBoW(isMedical=False)
-    log(f'Finished in {time.time() - startTime} seconds!')
+    log(f'\nFinished in {round(time.time() - startTime, 2)}s.')
 
 if __name__ == '__main__':
     main()
