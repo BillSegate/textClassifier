@@ -1,20 +1,22 @@
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
+from nltk.stem import PorterStemmer
 from logger import log
 import os
 import re
 import json
 import time
 
-
 # nltk stuff
 stoplist = stopwords.words('english')
 lemmatizer = WordNetLemmatizer()
+ps = PorterStemmer()
 
 # path to articles
 PATH_MEDICAL_ARTICLES = 'data/train/medicalArticles'
 PATH_OTHER_ARTICLES = 'data/train/otherArticles'
+USE_LEMMATIZER = True
 
 # util function
 def readFile(filepath: str) -> str:
@@ -30,7 +32,7 @@ def readFile(filepath: str) -> str:
 def removeNonAlphanumeric(article: str) -> str:
     # whenever a non alphanumeric character is found, replace it with a space
     # exception: apostrophes and spaces
-    return re.sub(r'[^a-zA-Z0-9\s\']', ' ', article)
+    return re.sub(r'[^a-zA-Z\s\']', ' ', article)
 
 # perform the stopwords elimination
 def deleteStopwords(article: str) -> str:
@@ -38,6 +40,9 @@ def deleteStopwords(article: str) -> str:
 
 def performTokenization(text: str) -> list:
     return word_tokenize(text)
+
+def performStemming(text: list) -> list:
+    return [ps.stem(word) for word in text]
 
 # perform the lemmatization of the article
 def lemmatizeArticle(article: list) -> list:
@@ -61,14 +66,19 @@ def calculateDocFrequency(occurrencesDict: dict) -> dict:
     return frequenciesDict
 
 def performPreProcessing(article: str) -> list:
-    # remove non alphanumeric 
-    #text = removeNonAlphanumeric(article)
-    # 
+    #article = removeNonAlphanumeric(article)
+    # tokenize article
     text = performTokenization(article)
     # perform the stopwords elimination
     text = deleteStopwords(text)
-    # perform lemmatization
-    text = lemmatizeArticle(text)
+    
+    if(USE_LEMMATIZER):
+        # perform lemmatization
+        text = lemmatizeArticle(text)
+    else:
+        # perform stemming
+        text = performStemming(text)
+
 
     return text
 
