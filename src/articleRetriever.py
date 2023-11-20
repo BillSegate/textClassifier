@@ -64,7 +64,8 @@ def retrieveArticles(titles: list, isMedical: bool) -> None:
         with open(filepath, 'w', encoding='utf-8') as file:
             file.writelines(article.text)
 
-        log(f'loading {k}/{numTitle} articles...')
+        if(k % 25 == 0 or k == len(titles)):
+            log(f'loading {k}/{numTitle} articles...')
         k += 1
 
 def retrieve(category: str, isMedical: bool) -> None:
