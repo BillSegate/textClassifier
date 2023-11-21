@@ -32,7 +32,7 @@ def readFile(filepath: str) -> str:
 def removeNonAlphanumeric(article: str) -> str:
     # whenever a non alphanumeric character is found, replace it with a space
     # exception: apostrophes and spaces
-    return re.sub(r'[^a-zA-Z\s\']', ' ', article)
+    return re.sub(r'[^a-zA-Z0-9\s\']', ' ', article)
 
 # perform the stopwords elimination
 def deleteStopwords(article: str) -> str:
@@ -66,7 +66,7 @@ def calculateDocFrequency(occurrencesDict: dict) -> dict:
     return frequenciesDict
 
 def performPreProcessing(article: str) -> list:
-    #article = removeNonAlphanumeric(article)
+    article = removeNonAlphanumeric(article)
     # tokenize article
     text = performTokenization(article)
     # perform the stopwords elimination

@@ -25,19 +25,27 @@ def testArticle(article: list, medicalClassProbability: float, otherClassProbabi
     for word in article: 
         if word in medicalFrequency:
             probMedWord = math.log(medicalFrequency[word])
-            totalMedSum += probMedWord
+            totalMedSum -= probMedWord
         
         if word in otherFrequency:
             probOtherWord = math.log(otherFrequency[word])
-            totalOtherSum += probOtherWord
+            totalOtherSum -= probOtherWord
 
     medicalProb = math.log(medicalClassProbability) + totalMedSum
     otherProb = math.log(otherClassProbability) + totalOtherSum
     
     if(medicalProb > otherProb):
-        return 1
-    else:
         return 0
+    else:
+        return 1
+
+def excludeCommonWords(dict1: dict, dict2: dict) -> dict:
+    newMedFreq = {}
+    for (word, occurrence) in dict1.items():
+        if word not in dict2:
+            newMedFreq[word] = occurrence
+    return newMedFreq
+
 
 def main():
     # get files in the article folder
@@ -57,6 +65,9 @@ def main():
 
     otherJson = readFile('data/otherFrequencies.json')
     otherFrequency = json.loads(otherJson)
+    
+    newMedicalFrequency = excludeCommonWords(medicalFrequency, otherFrequency)
+    newOtherFrequency = excludeCommonWords(otherFrequency, medicalFrequency)
 
     medicalClassProbability = calculateClassProbability('Medical')
     otherClassProbability = calculateClassProbability('Other')
@@ -71,14 +82,12 @@ def main():
 
         text = readFile(filepath)
         text = performPreProcessing(text)
-        predictedLabels.append(testArticle(text, medicalClassProbability, otherClassProbability, medicalFrequency, otherFrequency))
+        predictedLabels.append(testArticle(text, medicalClassProbability, otherClassProbability, newMedicalFrequency, newOtherFrequency))
     
     #rightCounter = 0
     confusionMatrix = np.zeros((2, 2))
     for k in range(len(predictedLabels)):
         confusionMatrix[predictedLabels[k], labels[k]] += 1
-        #if predictedLabels[k] == labels[k]:
-            #rightCounter += 1
 
     log(f'Finished in {round(time.time() - startTime, 3)}s.')
     log('\n == SOME STATISTICS == \n')
