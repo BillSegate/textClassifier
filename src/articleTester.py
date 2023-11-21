@@ -31,8 +31,8 @@ def testArticle(article: list, medicalClassProbability: float, otherClassProbabi
             probOtherWord = math.log(otherFrequency[word])
             totalOtherSum -= probOtherWord
 
-    medicalProb = math.log(medicalClassProbability) + totalMedSum
-    otherProb = math.log(otherClassProbability) + totalOtherSum
+    medicalProb = abs(math.log(medicalClassProbability)) + totalMedSum
+    otherProb = abs(math.log(otherClassProbability)) + totalOtherSum
     
     if(medicalProb > otherProb):
         return 0
