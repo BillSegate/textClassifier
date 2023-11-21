@@ -40,11 +40,11 @@ def testArticle(article: list, medicalClassProbability: float, otherClassProbabi
         return 1
 
 def excludeCommonWords(dict1: dict, dict2: dict) -> dict:
-    newMedFreq = {}
+    newDict = {}
     for (word, occurrence) in dict1.items():
         if word not in dict2:
-            newMedFreq[word] = occurrence
-    return newMedFreq
+            newDict[word] = occurrence
+    return newDict
 
 
 def main():

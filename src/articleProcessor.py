@@ -16,6 +16,7 @@ ps = PorterStemmer()
 # path to articles
 PATH_MEDICAL_ARTICLES = 'data/train/medicalArticles'
 PATH_OTHER_ARTICLES = 'data/train/otherArticles'
+# use lemmatizer or stemming 
 USE_LEMMATIZER = True
 
 # util function
