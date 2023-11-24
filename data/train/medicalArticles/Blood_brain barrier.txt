@@ -34,11 +34,11 @@ In 1898, Arthur Biedl and R. Kraus observed that low-concentration "bile salts" 
 All the while, bacteriologist Paul Ehrlich was studying staining, a procedure that is used in many microscopy studies to make fine biological structures visible using chemical dyes. As Ehrlich injected some of these dyes (notably the aniline dyes that were then widely used), the dye stained all of the organs of some kinds of animals except for their brains. At that time, Ehrlich attributed this lack of staining to the brain simply not picking up as much of the dye.However, in a later experiment in 1913, Edwin Goldmann (one of Ehrlich's students) injected the dye directly into the cerebrospinal fluid of animal brains. He found then the brains did become dyed, but the rest of the body did not, demonstrating the existence of a compartmentalization between the two. At that time, it was thought that the blood vessels themselves were responsible for the barrier, since no obvious membrane could be found.
 
 See also
-Blood–ocular barrier – Physical barrier between the local blood vessels and most parts of the eye itself
-Blood–retinal barrier – Part of the blood–ocular barrier that prevents certain substances from entering the retina
-Blood–saliva barrier – A semipermeable border that allows selective passage of blood constituents into the saliva and back
-Blood–spinal cord barrier – Semipermeable anatomical interface
-Blood–testis barrier – A physical barrier between the blood vessels and the seminiferous tubules of the animal testes
+blood–ocular barrier – Physical barrier between the local blood vessels and most parts of the eye itself
+blood–retinal barrier – Part of the blood–ocular barrier that prevents certain substances from entering the retina
+blood–saliva barrier – A semipermeable border that allows selective passage of blood constituents into the saliva and back
+blood–spinal cord barrier – Semipermeable anatomical interface
+blood–testis barrier – A physical barrier between the blood vessels and the seminiferous tubules of the animal testes
 
 
 == References ==

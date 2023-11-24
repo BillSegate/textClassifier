@@ -961,6 +961,10 @@ Dropping the perpendicular onto the side c through point C, an altitude of the t
                 ⁡
                 γ
                 ,
+              
+            
+            
+              
                 
                   b
                   
@@ -969,6 +973,7 @@ Dropping the perpendicular onto the side c through point C, an altitude of the t
                 
               
               
+                
                 =
                 b
                 c
@@ -988,7 +993,7 @@ Dropping the perpendicular onto the side c through point C, an altitude of the t
         
       
     
-    {\displaystyle {\begin{aligned}a^{2}&=ac\cos \beta +ab\cos \gamma ,b^{2}&=bc\cos \alpha +ab\cos \gamma .\end{aligned}}}
+    {\displaystyle {\begin{aligned}a^{2}&=ac\cos \beta +ab\cos \gamma ,\\[3mu]b^{2}&=bc\cos \alpha +ab\cos \gamma .\end{aligned}}}
   Adding the latter two equations gives
 
   

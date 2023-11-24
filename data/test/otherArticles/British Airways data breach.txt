@@ -1,0 +1,18 @@
+In 2018, there  was a data breach that affected 380,000 to 500,000 customers of British Airways.
+
+Attack
+The Information Commissioner's Office said that the attack had begun in June 2018.The ICO claimed the incident took place after the British Airways website was diverted to a false site. According to computer security Alan Woodward the attack was most likely carried out through a supply chain attack on a third party payment utility used by the website. This script sent the submitted payment information to the attackers directly. The breach of CVV codes in the attacks support this theory, as by PCI DSS standards CVV codes are not stored, and are only processed during the time payments are made which makes access to a database unlikely.
+British Airways said the attack affected bookings from 21 August 2018 to 5 September 2018 with credit card details of around 380,000 total customers being compromised. The attackers obtained names, street addresses, email addresses, credit card numbers, expiration dates and card security codes – enough to allow thieves to steal from accounts. 77,000 customers had their name, address, email address and detailed payment information taken, while 108,000 people had personal details compromised which did not include CVV numbers.One customer of the airline reported that his card had been used to buy items by phone at Harrods while he was in Malaysia. The attempt was rejected – the customer did not think his card was exposed except by this attack.
+.
+
+Aftermath
+British Airways urged customers to contact their banks or credit card issuer and to follow their advice.  NatWest said that it received more calls than usual because of the breach. American Express said that customers would not need to take any action and that they would alert customers with unusual activity on their cards.
+
+Consequences for British Airways
+British Airways was issued with a £183 million fine by the Information Commissioner's Office, which was the biggest fine issued by the office up to that date. It was roughly 367 times the previous record, which was a £500,000 fine imposed on Facebook over the Cambridge Analytica scandal.The Facebook fine was the heaviest that could have been imposed at the time – a new law mirroring GDPR had been introduced between the Facebook and British Airways scandals. The fine was 1.5% of the airline's worldwide turnover in 2017. The maximum under the new laws would have been 4% of worldwide turnover, which would have approached £500 million.CEO and chairman Álex Cruz said the airline was "surprised and disappointed" in the ICO's finding.In October 2020 British Airways was fined £20 million by the Information Commissioner's Office, considerably smaller than the £183 million fine that the ICO originally intended.
+
+See also
+EasyJet hack
+
+
+== References ==
