@@ -28,7 +28,6 @@ def retrieveTitles(categoryMembers: dict, level: int=0, max_level: int=1) -> lis
     for c in categoryMembers.values():
         # if there is a subcategory and it can go lower in the category tree.
         # each category could have n sub categories, but since there are a plethora of pages we reduce the search in order to save time
-        # retrieve just one subcategory level takes up to 10 minutes and it retrieves 1522 articles (medical articles).
         if c.ns == wikipediaapi.Namespace.CATEGORY and level < max_level:
             titles.extend(retrieveTitles(c.categorymembers, level=level+1, max_level=max_level))
         # else if the category member is an article (check on Namespace.MAIN), it appends the title article.
@@ -68,13 +67,17 @@ def retrieveArticles(titles: list, isMedical: bool) -> None:
             log(f'loading {k}/{numTitle} articles...')
         k += 1
 
+# given a category it will retrieve all documents.
+# it won't search on subcategories for time and space saving.
+# in order to download articles from subcategories, just edit the MAX_SUBCATEGORIES constant.
 def retrieve(category: str, isMedical: bool) -> None:
+    MAX_SUBCATEGORIES = 0
     startTime = time.time()
     log(f'Retrieving category: {category}')
     # retrieve primary category
     categoryResult = WIKI.page('Category:' + category)
     # retrieve all titles
-    titles = retrieveTitles(categoryResult.categorymembers, 0, 0)
+    titles = retrieveTitles(categoryResult.categorymembers, 0, MAX_SUBCATEGORIES)
     
     # shuffles the list of titles in order to subdivide it in 80% train and 20% test
     random.shuffle(titles)

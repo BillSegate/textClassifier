@@ -7,6 +7,7 @@ import os
 import re
 import json
 import time
+import math
 
 # nltk stuff
 stoplist = stopwords.words('english')
@@ -39,9 +40,11 @@ def removeNonAlphanumeric(article: str) -> str:
 def deleteStopwords(article: str) -> str:
     return [word.lower() for word in article if word.lower() not in stoplist]
 
+# perform the tokenization
 def performTokenization(text: str) -> list:
     return word_tokenize(text)
 
+# perform the Porter Stemming algorithm
 def performStemming(text: list) -> list:
     return [ps.stem(word) for word in text]
 
@@ -57,14 +60,29 @@ def countOccurrences(occurrencesDict: dict, article: list) -> None:
         else:
             occurrencesDict[word] = 1
 
-def calculateDocFrequency(occurrencesDict: dict) -> dict:
+# calculate the frequencies:
+# P(Wₖ| Cⱼ) = (nₖ + α) / (n + α |vocabulary|) 
+def calculateFrequencies(occurrencesDict: dict, alpha=1.0) -> dict:
     frequenciesDict = {}
     # sum all occurrences
     totalOccurrences = sum(occurrencesDict.values())
+    totalwords = len(occurrencesDict)
     for (word, occurrence) in occurrencesDict.items():
-        frequenciesDict[word] = occurrence / totalOccurrences
+        # frequenciesDict[word] = occurrence / totalOccurrences
+        frequenciesDict[word] = math.log((occurrence + alpha)/(totalOccurrences + alpha * totalwords)) 
     
     return frequenciesDict
+
+# in order to have all positive numbers:
+# I add to the frequency the abs value of the min value and the max value in the frequency.
+# In that way I have only positive numbers and i preserve the importance of the word.
+# e.g. {min = -12, max = -4} -- after sum the calculated value --> {min = 4, max = 12}
+def transformFrequenciesIntoPositiveValues(frequencyDict: dict) -> dict:
+    # assuming frequencyDict is sorted
+    test = abs(min(frequencyDict.values())) + abs(max(frequencyDict.values()))
+    for (word, occurrence) in frequencyDict.items():
+        frequencyDict[word] += test
+    return frequencyDict
 
 def performPreProcessing(article: str) -> list:
     article = removeNonAlphanumeric(article)
@@ -115,13 +133,15 @@ def createBoW(isMedical: bool) -> None:
     with open(jsonName, 'w', encoding='utf-8') as jsonFile:
         json.dump(occurrencesDict, jsonFile, indent=2)
 
-    frequenciesDict = dict(sorted(calculateDocFrequency(occurrencesDict=occurrencesDict).items(), key=lambda item: item[1], reverse=True))
+    frequenciesDict = calculateFrequencies(occurrencesDict=occurrencesDict)
+    frequenciesDict = transformFrequenciesIntoPositiveValues(frequenciesDict)
+    frequenciesDict = dict(sorted(frequenciesDict.items(), key=lambda item: item[1], reverse=True))
 
     # save frequencies in a json file
     with open(frequenciesFile, 'w', encoding='utf-8') as jsonFile:
         json.dump(frequenciesDict, jsonFile, indent=2)
 
-# 
+# main function
 def main():
     log('Start creating BoWs...\n')
     startTime = time.time()

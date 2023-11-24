@@ -8,7 +8,7 @@ from logger import log
 from articleProcessor import readFile, performPreProcessing, PATH_MEDICAL_ARTICLES, PATH_OTHER_ARTICLES
 
 
-# calculate P(C)
+# calculate P(C) = |docsⱼ| / |total docs|
 def calculateClassProbability(className: str) -> float:
     medicalDocs = len(os.listdir(PATH_MEDICAL_ARTICLES))
     otherDocs = len(os.listdir(PATH_OTHER_ARTICLES))
@@ -19,33 +19,34 @@ def calculateClassProbability(className: str) -> float:
     else:
         return otherDocs / totalDocs
 
+# classify a given article, having the dictionary with the frequencies, and the class probabilities
+# Remember that: values inside the frequencies dictionary are already the log of P(Wₖ| Cⱼ)
 def testArticle(article: list, medicalClassProbability: float, otherClassProbability: float, medicalFrequency: dict, otherFrequency: dict) -> None:
     totalMedSum = 0
     totalOtherSum = 0
     for word in article: 
         if word in medicalFrequency:
-            probMedWord = math.log(medicalFrequency[word])
-            totalMedSum -= probMedWord
+            probMedWord = medicalFrequency[word]
+            totalMedSum += probMedWord
         
         if word in otherFrequency:
-            probOtherWord = math.log(otherFrequency[word])
-            totalOtherSum -= probOtherWord
+            probOtherWord = otherFrequency[word]
+            totalOtherSum += probOtherWord
 
-    medicalProb = abs(math.log(medicalClassProbability)) + totalMedSum
-    otherProb = abs(math.log(otherClassProbability)) + totalOtherSum
+    medicalClassProbability = math.log(medicalClassProbability)
+    otherClassProbability = math.log(otherClassProbability)
+
+    # in order to have all positive values we do the absolute of the sum of both class probability
+    transformPositive = abs(medicalClassProbability + otherClassProbability)
+    # We sum the previous value to the class probability, we are preserving the importance of the class
+    medicalProb = (medicalClassProbability + transformPositive) + totalMedSum
+    otherProb = (otherClassProbability + transformPositive) + totalOtherSum
     
+    # return medical or non medical based on probability just calculated
     if(medicalProb > otherProb):
         return 0
     else:
         return 1
-
-def excludeCommonWords(dict1: dict, dict2: dict) -> dict:
-    newDict = {}
-    for (word, occurrence) in dict1.items():
-        if word not in dict2:
-            newDict[word] = occurrence
-    return newDict
-
 
 def main():
     # get files in the article folder
@@ -54,21 +55,21 @@ def main():
     medicalLabels = [0 for i in range(len(medicalTestArticles))]
     otherLabels = [1 for i in range(len(otherTestArticles))]
     
+    # concatenate arrays
     testFiles = medicalTestArticles + otherTestArticles
     labels = medicalLabels + otherLabels
 
     log(f'starting predicting class of {len(testFiles)} files...')
     startTime = time.time()
 
+    # read the frequencies files
     medicalJson = readFile('data/medicalFrequencies.json')
     medicalFrequency = json.loads(medicalJson)
 
     otherJson = readFile('data/otherFrequencies.json')
     otherFrequency = json.loads(otherJson)
-    
-    newMedicalFrequency = excludeCommonWords(medicalFrequency, otherFrequency)
-    newOtherFrequency = excludeCommonWords(otherFrequency, medicalFrequency)
 
+    # get the class probabilities
     medicalClassProbability = calculateClassProbability('Medical')
     otherClassProbability = calculateClassProbability('Other')
 
@@ -82,13 +83,14 @@ def main():
 
         text = readFile(filepath)
         text = performPreProcessing(text)
-        predictedLabels.append(testArticle(text, medicalClassProbability, otherClassProbability, newMedicalFrequency, newOtherFrequency))
+        predictedLabels.append(testArticle(text, medicalClassProbability, otherClassProbability, medicalFrequency, otherFrequency))
     
-    #rightCounter = 0
+    # create the confusion matrix
     confusionMatrix = np.zeros((2, 2))
     for k in range(len(predictedLabels)):
         confusionMatrix[predictedLabels[k], labels[k]] += 1
 
+    # visualize results
     log(f'Finished in {round(time.time() - startTime, 3)}s.')
     log('\n == SOME STATISTICS == \n')
     log('PREDICTED/ACTUAL LABELS\t\tMEDICAL\t\tNON MEDICAL')
@@ -109,9 +111,16 @@ def main():
     falseNegative = int(confusionMatrix[1,0])
 
     wellPredicted = truePositive + trueNegative
-    log(f'\nRecall: {round((truePositive/(truePositive + falseNegative))*100, 3)}%')
-    log(f'Precision: {round((truePositive/(truePositive + falsePositive))*100, 3)}%')
-    log(f'Accuracy: {round((wellPredicted/len(labels))*100, 3)}%\n')
+    # calculate and visualize the statistics
+    recall = truePositive/(truePositive + falseNegative)
+    precision = truePositive/(truePositive + falsePositive)
+    accuracy = wellPredicted/len(labels)
+    fMeasure = (2*(recall*precision)) / (recall + precision)
+
+    log(f'\nRecall: {round(recall*100, 3)}%')
+    log(f'Precision: {round(precision*100, 3)}%')
+    log(f'F-Measure: {round(fMeasure*100, 3)}%\n\n')
+    log(f'Accuracy: {round(accuracy*100, 3)}%\n')
 
 if __name__ == '__main__':
     main()
